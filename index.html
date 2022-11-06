@@ -16,6 +16,46 @@
 
 <body>
 
+<div id="contents">
+    <h1>Substack Comments</h1>
+
+    <div id="controls">
+        <form>
+            <label for="sort">Sort</label>
+            <select name="sort" id="sort">
+                <option value="likes">Likes</option>
+                <option value="new">New First</option>
+                <option value="old">Chronological</option>
+            </select>
+
+            <label for="type">Type</label>
+            <select name="type" id="type">
+                <option value="all">All</option>
+                <option value="top">Top-Level</option>
+                <option value="reply">Reply</option>
+            </select>
+
+            <label for="show">Show</label>
+            <select name="show" id="show">
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+                <option value="all">All</option>
+            </select>
+
+            <label for="page">Page</label>
+            <select name="page" id="page">
+                <option value="1">1</option>
+            </select>
+
+            <label id="commentCount"></label>
+        </form>
+    </div>
+
+    <div id="comments">
+    </div>
+</div>
 
 </body>
 </html>

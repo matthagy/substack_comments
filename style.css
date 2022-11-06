@@ -7,11 +7,27 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-.entry {
+
+#contents {
     margin-left: auto;
     margin-right: auto;
-    max-width: 700px;
+    max-width: 750px;
+}
+
+h1 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+#controls {
+    margin-bottom: 20px;
+}
+
+.entry {
     margin-bottom: 2em;
+    border: 1px solid #A0A0A0;
+    border-radius: 5px;
+    padding: 8px;
 }
 
 .meta {
@@ -23,6 +39,7 @@ body {
     font-size: 12px;
     color: #202020;
     margin-left: 6px;
+    margin-right: 6px;
 }
 
 .comment-outer {
