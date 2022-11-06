@@ -23,6 +23,10 @@ h1 {
     margin-bottom: 20px;
 }
 
+label.pad {
+    margin-left: 10px;
+}
+
 .entry {
     margin-bottom: 2em;
     border: 1px solid #A0A0A0;
@@ -40,6 +44,15 @@ h1 {
     color: #202020;
     margin-left: 6px;
     margin-right: 6px;
+}
+
+a.link {
+    color: #121bfa;
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 0;
 }
 
 .comment-outer {

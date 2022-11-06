@@ -11,6 +11,7 @@ function loadComments() {
     const typeSelect = document.getElementById('type');
     const showSelect = document.getElementById('show');
     const pageSelect = document.getElementById('page');
+    const totalPages = document.getElementById('totalPages');
     const commentCount = document.getElementById('commentCount');
     [sortSelect, typeSelect, showSelect, pageSelect].forEach(select => {
         select.addEventListener("change", update);
@@ -69,7 +70,7 @@ function loadComments() {
         });
 
         clearChildren(commentCount);
-        commentCount.appendChild(document.createTextNode(`${comments.length} comments`));
+        commentCount.appendChild(document.createTextNode(`${comments.length} matching comments`));
 
         let pages = 1;
         if (showComments !== 'all') {
@@ -82,6 +83,8 @@ function loadComments() {
 
         }
         console.log(`pages=${pages}`);
+        clearChildren(totalPages);
+        totalPages.appendChild(document.createTextNode(`of ${pages}`));
 
         clearChildren(pageSelect);
         for (let i = 1; i <= pages; i++) {
@@ -91,7 +94,6 @@ function loadComments() {
             pageSelect.add(pageOption);
         }
         pageSelect.selectedIndex = pageNumber - 1;
-
 
         clearChildren(commentsDiv);
         comments.forEach(comment => {
@@ -140,13 +142,29 @@ function loadComments() {
         commentDiv.classList.add('comment-outer');
         entryDiv.appendChild(commentDiv);
 
-        comment['body'].split("\n\n").forEach(paragraph => {
-            const para = document.createElement('p');
-            para.classList.add('comment-text');
-            para.appendChild(document.createTextNode(paragraph));
-            commentDiv.appendChild(para);
+        comment['body'].forEach(paragraph => {
+            commentDiv.appendChild(createParagraph(paragraph));
         });
         commentsDiv.appendChild(entryDiv);
+    }
+
+    function createParagraph(paragraph) {
+        const para = document.createElement('p');
+        para.classList.add('comment-text');
+        paragraph.forEach(span => {
+            switch (span['type']) {
+                case 'text':
+                    para.appendChild(document.createTextNode(span['value']));
+                    break;
+                case 'url':
+                    const link = document.createElement('a');
+                    para.appendChild(link);
+                    link.classList.add('link');
+                    link.setAttribute('href', span['value']);
+                    link.appendChild(document.createTextNode(span['value']));
+            }
+        });
+        return para;
     }
 }
 
