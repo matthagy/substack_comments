@@ -27,6 +27,15 @@ label.pad {
     margin-left: 10px;
 }
 
+input {
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+input[type="text"] {
+    width: 80%;
+}
+
 .entry {
     margin-bottom: 2em;
     border: 1px solid #A0A0A0;
@@ -48,6 +57,10 @@ label.pad {
 
 a.link {
     color: #121bfa;
+}
+
+span.highlight {
+    color: red;
 }
 
 p {
