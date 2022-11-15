@@ -2,9 +2,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7252326,
     "top_level": true,
-    "date": "Jun 20 2022",
+    "date": "Jun 20 2022 17:14",
     "likes": 38,
     "timestamp": 1655759670,
     "body": [
@@ -51,9 +53,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7254268,
     "top_level": false,
-    "date": "Jun 20 2022",
+    "date": "Jun 20 2022 18:58",
     "likes": 4,
     "timestamp": 1655765888,
     "body": [
@@ -88,9 +92,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7252096,
     "top_level": false,
-    "date": "Jun 20 2022",
+    "date": "Jun 20 2022 17:03",
     "likes": 6,
     "timestamp": 1655759002,
     "body": [
@@ -109,9 +115,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7273458,
     "top_level": false,
-    "date": "Jun 21 2022",
+    "date": "Jun 21 2022 17:36",
     "likes": 1,
     "timestamp": 1655847382,
     "body": [
@@ -174,9 +182,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7273084,
     "top_level": false,
-    "date": "Jun 21 2022",
+    "date": "Jun 21 2022 17:15",
     "likes": 0,
     "timestamp": 1655846117,
     "body": [
@@ -221,9 +231,11 @@ window._comments = [
   {
     "title": "Expensive energy is really bad",
     "canonical_url": "https://www.slowboring.com/p/expensive-energy-is-really-bad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6736898,
     "top_level": true,
-    "date": "May 24 2022",
+    "date": "May 24 2022 06:33",
     "likes": 22,
     "timestamp": 1653388399,
     "body": [
@@ -272,9 +284,11 @@ window._comments = [
   {
     "title": "Pre-registering some takes on the midterms ",
     "canonical_url": "https://www.slowboring.com/p/pre-registering-some-takes-on-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9860195,
     "top_level": true,
-    "date": "Oct 20 2022",
+    "date": "Oct 20 2022 06:45",
     "likes": 26,
     "timestamp": 1666262714,
     "body": [
@@ -351,9 +365,11 @@ window._comments = [
   {
     "title": "There's no need to exaggerate Biden's legislative achievements ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-need-to-exaggerate-bidens",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8313885,
     "top_level": true,
-    "date": "Aug 11 2022",
+    "date": "Aug 11 2022 07:07",
     "likes": 42,
     "timestamp": 1660216077,
     "body": [
@@ -380,9 +396,11 @@ window._comments = [
   {
     "title": "There's no need to exaggerate Biden's legislative achievements ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-need-to-exaggerate-bidens",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8317337,
     "top_level": false,
-    "date": "Aug 11 2022",
+    "date": "Aug 11 2022 10:09",
     "likes": 7,
     "timestamp": 1660226957,
     "body": [
@@ -397,9 +415,11 @@ window._comments = [
   {
     "title": "What was the popularism debate?",
     "canonical_url": "https://www.slowboring.com/p/what-was-the-popularism-debate",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5893555,
     "top_level": true,
-    "date": "Apr 05 2022",
+    "date": "Apr 05 2022 07:43",
     "likes": 21,
     "timestamp": 1649159000,
     "body": [
@@ -426,9 +446,11 @@ window._comments = [
   {
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6968185,
     "top_level": false,
-    "date": "Jun 06 2022",
+    "date": "Jun 06 2022 07:13",
     "likes": 13,
     "timestamp": 1654513992,
     "body": [
@@ -465,9 +487,11 @@ window._comments = [
   {
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6967940,
     "top_level": true,
-    "date": "Jun 06 2022",
+    "date": "Jun 06 2022 06:41",
     "likes": 5,
     "timestamp": 1654512076,
     "body": [
@@ -528,9 +552,11 @@ window._comments = [
   {
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6968016,
     "top_level": true,
-    "date": "Jun 06 2022",
+    "date": "Jun 06 2022 06:53",
     "likes": 5,
     "timestamp": 1654512800,
     "body": [
@@ -551,9 +577,11 @@ window._comments = [
   {
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6968089,
     "top_level": true,
-    "date": "Jun 06 2022",
+    "date": "Jun 06 2022 07:01",
     "likes": 4,
     "timestamp": 1654513301,
     "body": [
@@ -596,9 +624,11 @@ window._comments = [
   {
     "title": "Legalize housing, not tent encampments ",
     "canonical_url": "https://www.slowboring.com/p/legalize-housing-not-tent-encampments",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7165152,
     "top_level": true,
-    "date": "Jun 16 2022",
+    "date": "Jun 16 2022 06:53",
     "likes": 46,
     "timestamp": 1655376821,
     "body": [
@@ -619,9 +649,11 @@ window._comments = [
   {
     "title": "Legalize housing, not tent encampments ",
     "canonical_url": "https://www.slowboring.com/p/legalize-housing-not-tent-encampments",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7164978,
     "top_level": true,
-    "date": "Jun 16 2022",
+    "date": "Jun 16 2022 06:34",
     "likes": 3,
     "timestamp": 1655375660,
     "body": [
@@ -642,9 +674,11 @@ window._comments = [
   {
     "title": "SARS-CoV-Mailbag",
     "canonical_url": "https://www.slowboring.com/p/sars-cov-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7327423,
     "top_level": false,
-    "date": "Jun 24 2022",
+    "date": "Jun 24 2022 10:30",
     "likes": 1,
     "timestamp": 1656081001,
     "body": [
@@ -677,9 +711,11 @@ window._comments = [
   {
     "title": "Joe Biden should do some boring bipartisan commissions ",
     "canonical_url": "https://www.slowboring.com/p/joe-biden-should-do-some-boring-bipartisan",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8743547,
     "top_level": true,
-    "date": "Aug 31 2022",
+    "date": "Aug 31 2022 06:27",
     "likes": 2,
     "timestamp": 1661941666,
     "body": [
@@ -740,9 +776,11 @@ window._comments = [
   {
     "title": "The vanishing case for student loan forgiveness",
     "canonical_url": "https://www.slowboring.com/p/student-loan-forgiveness",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4269797,
     "top_level": true,
-    "date": "Jan 03 2022",
+    "date": "Jan 03 2022 07:16",
     "likes": 6,
     "timestamp": 1641212217,
     "body": [
@@ -769,9 +807,11 @@ window._comments = [
   {
     "title": "The vanishing case for student loan forgiveness",
     "canonical_url": "https://www.slowboring.com/p/student-loan-forgiveness",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4270540,
     "top_level": false,
-    "date": "Jan 03 2022",
+    "date": "Jan 03 2022 08:14",
     "likes": 1,
     "timestamp": 1641215663,
     "body": [
@@ -802,9 +842,11 @@ window._comments = [
   {
     "title": "The Fifth Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/the-fifth-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5134422,
     "top_level": false,
-    "date": "Feb 18 2022",
+    "date": "Feb 18 2022 10:32",
     "likes": 6,
     "timestamp": 1645198325,
     "body": [
@@ -825,9 +867,11 @@ window._comments = [
   {
     "title": "The Fifth Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/the-fifth-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5131343,
     "top_level": false,
-    "date": "Feb 18 2022",
+    "date": "Feb 18 2022 07:07",
     "likes": 3,
     "timestamp": 1645186075,
     "body": [
@@ -848,9 +892,11 @@ window._comments = [
   {
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6862403,
     "top_level": true,
-    "date": "May 31 2022",
+    "date": "May 31 2022 07:15",
     "likes": 7,
     "timestamp": 1653995722,
     "body": [
@@ -911,9 +957,11 @@ window._comments = [
   {
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6862313,
     "top_level": false,
-    "date": "May 31 2022",
+    "date": "May 31 2022 07:05",
     "likes": 0,
     "timestamp": 1653995133,
     "body": [
@@ -928,9 +976,11 @@ window._comments = [
   {
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6862221,
     "top_level": false,
-    "date": "May 31 2022",
+    "date": "May 31 2022 06:53",
     "likes": 12,
     "timestamp": 1653994407,
     "body": [
@@ -945,9 +995,11 @@ window._comments = [
   {
     "title": "Defending democracy needs appeals to material self-interest",
     "canonical_url": "https://www.slowboring.com/p/defending-democracy-needs-appeals",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8895077,
     "top_level": true,
-    "date": "Sep 07 2022",
+    "date": "Sep 07 2022 07:28",
     "likes": 7,
     "timestamp": 1662550099,
     "body": [
@@ -974,9 +1026,11 @@ window._comments = [
   {
     "title": "Defending democracy needs appeals to material self-interest",
     "canonical_url": "https://www.slowboring.com/p/defending-democracy-needs-appeals",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8894881,
     "top_level": true,
-    "date": "Sep 07 2022",
+    "date": "Sep 07 2022 07:13",
     "likes": 4,
     "timestamp": 1662549187,
     "body": [
@@ -1003,9 +1057,11 @@ window._comments = [
   {
     "title": "What do Donald Trump and Ron DeSantis think about federal abortion policy?",
     "canonical_url": "https://www.slowboring.com/p/what-do-donald-trump-and-ron-desantis",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8264048,
     "top_level": true,
-    "date": "Aug 09 2022",
+    "date": "Aug 09 2022 06:57",
     "likes": 3,
     "timestamp": 1660042628,
     "body": [
@@ -1038,9 +1094,11 @@ window._comments = [
   {
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10169017,
     "top_level": false,
-    "date": "Nov 02 2022",
+    "date": "Nov 02 2022 09:59",
     "likes": 5,
     "timestamp": 1667397588,
     "body": [
@@ -1073,9 +1131,11 @@ window._comments = [
   {
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10169662,
     "top_level": false,
-    "date": "Nov 02 2022",
+    "date": "Nov 02 2022 10:22",
     "likes": 4,
     "timestamp": 1667398950,
     "body": [
@@ -1090,9 +1150,11 @@ window._comments = [
   {
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10164753,
     "top_level": true,
-    "date": "Nov 02 2022",
+    "date": "Nov 02 2022 06:33",
     "likes": 22,
     "timestamp": 1667385202,
     "body": [
@@ -1141,9 +1203,11 @@ window._comments = [
   {
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e15",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6748702,
     "top_level": true,
-    "date": "May 24 2022",
+    "date": "May 24 2022 17:15",
     "likes": 12,
     "timestamp": 1653426948,
     "body": [
@@ -1168,9 +1232,11 @@ window._comments = [
   {
     "title": "Juneteenth Mailbag",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7198971,
     "top_level": false,
-    "date": "Jun 17 2022",
+    "date": "Jun 17 2022 14:06",
     "likes": 7,
     "timestamp": 1655489214,
     "body": [
@@ -1185,9 +1251,11 @@ window._comments = [
   {
     "title": "Donald Trump's re-election is a dire threat to free speech",
     "canonical_url": "https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6228662,
     "top_level": true,
-    "date": "Apr 25 2022",
+    "date": "Apr 25 2022 07:12",
     "likes": 26,
     "timestamp": 1650885143,
     "body": [
@@ -1234,9 +1302,11 @@ window._comments = [
   {
     "title": "The mythical martyrdom of Mitt Romney",
     "canonical_url": "https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8768812,
     "top_level": false,
-    "date": "Sep 01 2022",
+    "date": "Sep 01 2022 07:05",
     "likes": 16,
     "timestamp": 1662030337,
     "body": [
@@ -1268,9 +1338,11 @@ window._comments = [
   {
     "title": "The mythical martyrdom of Mitt Romney",
     "canonical_url": "https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8768716,
     "top_level": true,
-    "date": "Sep 01 2022",
+    "date": "Sep 01 2022 06:57",
     "likes": 6,
     "timestamp": 1662029843,
     "body": [
@@ -1313,9 +1385,11 @@ window._comments = [
   {
     "title": "Democrats' primary meddling is part of a bigger problem",
     "canonical_url": "https://www.slowboring.com/p/democrats-primary-meddling-is-part",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8241339,
     "top_level": true,
-    "date": "Aug 08 2022",
+    "date": "Aug 08 2022 06:49",
     "likes": 35,
     "timestamp": 1659955795,
     "body": [
@@ -1340,11 +1414,101 @@ window._comments = [
     ]
   },
   {
+    "title": "There\u2019s no substitute for being right all the time about everything ",
+    "canonical_url": "https://www.slowboring.com/p/theres-no-substitute-for-being-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10288516,
+    "top_level": false,
+    "date": "Nov 07 2022 07:19",
+    "likes": 1,
+    "timestamp": 1667823560,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that Summer\u2019s agreed with Romer\u2019s analysis that a larger stimulus was needed, but that it wouldn\u2019t pass Congress. And I believe a lot of the opposition within the administration came from Peter Orszag, director of the Office of Management and Budget, who had long been a deficit hawk. From Wikipedia, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Orszag, in a November 2009 speech in New York, said that deficits, which were expected to add $9 trillion to the existing national debt of $12 trillion over the next decade, are \"serious and ultimately unsustainable.\" He said that deficit spending was necessary to help boost the economy when unemployment is hovering around 10 percent. But he said that red ink must be stopped as the economy recovers. During a recovery, private investment will again pick up and compete with the federal government for capital. In 2011, he was described by New York Magazine as a \"deficit hawk and clashed with Larry Summers, who wasn\u2019t as focused on the long-term debt crisis.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In July 2010 Orszag said that \"The problem now is weak growth and high unemployment rather than outright economic collapse\". Still, the deficit would be equivalent to 10 percent of the gross domestic product, the highest level since World War II. The Office of Management and Budget's mid-session review, forecast a smaller deficit and stronger economic growth than the administration's initial budget release. The deficit forecast in 2011 increased to $1.42 trillion, up from the $1.27 estimate in February. For 2012, the deficit estimate rose to $922 billion, up from $828 billion in the previous report. The annual budget shortfall would bottom out in 2017 at $721 billion, or 3.4 percent of GDP, and begin rising again in following years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Peter_R._Orszag#Office_of_Management_and_Budget"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "There\u2019s no substitute for being right all the time about everything ",
+    "canonical_url": "https://www.slowboring.com/p/theres-no-substitute-for-being-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10288251,
+    "top_level": false,
+    "date": "Nov 07 2022 07:02",
+    "likes": 9,
+    "timestamp": 1667822526,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. For a good overview of the messy process that led to an underwhelming ARRA, I\u2019d recommend the 2012 New Yorker article, \u201cThe Obama Memos\u201d, section \u201c2. An Economic Judgment\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.newyorker.com/magazine/2012/01/30/the-obama-memos"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Summers informed Obama that the government was already spending well beyond its means. Yet in the coming months Obama would have to sign, in addition to a stimulus bill, several pieces of legislation left over from the Bush Administration: a hundred-billion-dollar funding bill for the wars in Afghanistan and Iraq; perhaps three hundred and fifty billion dollars more in funds from Bush\u2019s tarp program, to prop up banks; and a four-hundred-and-ten-billion-dollar spending bill that was stuck in Congress. Obama would need resources to save G.M. and Chrysler, which were close to bankruptcy, and to address the collapsing housing market, which he was told would be hit with five million foreclosures during his first two years in office. Summers cautioned Obama, who had run as a fiscal conservative and attacked his Republican opponent for wanting to raise taxes, that he was about to preside over an explosion of government spending: \u201cThis could come as a considerable sticker shock to the American public and the American political system, potentially reducing your ability to pass your agenda and undermining economic confidence at a critical time.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There was an obvious tension between the warning about the extent of the financial crisis, which would require large-scale spending, and the warning about the looming federal budget deficits, which would require fiscal restraint. The tension reflected the competing concerns of two of Obama\u2019s advisers. Christina Romer, the incoming chairman of the Council of Economic Advisers, drafted the stimulus material. A Berkeley economist, she was new to government. She believed that she had persuaded Summers to raise the stimulus recommendation above the initial estimate, six hundred billion dollars, to something closer to eight hundred billion dollars, but she was frustrated that she wasn\u2019t allowed to present an even larger option. When she had done so in earlier meetings, the incoming chief of staff, Rahm Emanuel, asked her, \u201cWhat are you smoking?\u201d She was warned that her credibility as an adviser would be damaged if she pushed beyond the consensus recommendation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Peter Orszag, the incoming budget director, was a relentless advocate of fiscal restraint. He was well known in Washington policy circles as a deficit hawk. Orszag insisted that there were mechanical limits to how much money the government could spend effectively in two years. In the Summers memo, he contributed sections about historic deficits and the need to scale back campaign promises. The Romer-Orszag divide was the start of a rift inside the Administration that continued for the next two years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I particularly recall there being a concern that going big on stimulus could jeopardize the Obama administration's ambitious healthcare plans. The ARRA was already quite contentious and partisan; not getting a single Republican House vote and only getting 3 Republican Senators, despite the inclusion of many tax cuts to woo Republicans."
+        }
+      ]
+    ]
+  },
+  {
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9077573,
     "top_level": false,
-    "date": "Sep 15 2022",
+    "date": "Sep 15 2022 11:13",
     "likes": 7,
     "timestamp": 1663254818,
     "body": [
@@ -1371,9 +1535,11 @@ window._comments = [
   {
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9072809,
     "top_level": false,
-    "date": "Sep 15 2022",
+    "date": "Sep 15 2022 07:16",
     "likes": 18,
     "timestamp": 1663240609,
     "body": [
@@ -1400,9 +1566,11 @@ window._comments = [
   {
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9077985,
     "top_level": false,
-    "date": "Sep 15 2022",
+    "date": "Sep 15 2022 11:29",
     "likes": 4,
     "timestamp": 1663255792,
     "body": [
@@ -1417,9 +1585,11 @@ window._comments = [
   {
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9072431,
     "top_level": true,
-    "date": "Sep 15 2022",
+    "date": "Sep 15 2022 06:39",
     "likes": 16,
     "timestamp": 1663238386,
     "body": [
@@ -1452,9 +1622,11 @@ window._comments = [
   {
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9072562,
     "top_level": true,
-    "date": "Sep 15 2022",
+    "date": "Sep 15 2022 06:54",
     "likes": 10,
     "timestamp": 1663239253,
     "body": [
@@ -1493,9 +1665,11 @@ window._comments = [
   {
     "title": "The student debt crisis as a macroeconomic phenomenon ",
     "canonical_url": "https://www.slowboring.com/p/the-student-debt-crisis-as-a-macroeconomic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8721354,
     "top_level": false,
-    "date": "Aug 30 2022",
+    "date": "Aug 30 2022 07:45",
     "likes": 4,
     "timestamp": 1661859932,
     "body": [
@@ -1520,9 +1694,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8703628,
     "top_level": false,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 10:39",
     "likes": 10,
     "timestamp": 1661783948,
     "body": [
@@ -1543,9 +1719,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8699550,
     "top_level": true,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 07:29",
     "likes": 27,
     "timestamp": 1661772570,
     "body": [
@@ -1579,9 +1757,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8699462,
     "top_level": true,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 07:23",
     "likes": 18,
     "timestamp": 1661772180,
     "body": [
@@ -1614,9 +1794,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8699869,
     "top_level": false,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 07:52",
     "likes": 4,
     "timestamp": 1661773931,
     "body": [
@@ -1631,9 +1813,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8703750,
     "top_level": false,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 10:43",
     "likes": 1,
     "timestamp": 1661784236,
     "body": [
@@ -1654,9 +1838,11 @@ window._comments = [
   {
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8699632,
     "top_level": false,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 07:34",
     "likes": 9,
     "timestamp": 1661772863,
     "body": [
@@ -1671,9 +1857,11 @@ window._comments = [
   {
     "title": "Sunday Thread",
     "canonical_url": "https://www.slowboring.com/p/sunday-thread-14c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9142978,
     "top_level": false,
-    "date": "Sep 19 2022",
+    "date": "Sep 18 2022 20:52",
     "likes": 2,
     "timestamp": 1663548776,
     "body": [
@@ -1721,9 +1909,11 @@ window._comments = [
   {
     "title": "Chuck Schumer should call the Baileys",
     "canonical_url": "https://www.slowboring.com/p/chuck-schumer-should-call-the-baileys",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4675823,
     "top_level": true,
-    "date": "Jan 25 2022",
+    "date": "Jan 25 2022 10:51",
     "likes": 4,
     "timestamp": 1643125887,
     "body": [
@@ -1748,11 +1938,38 @@ window._comments = [
     ]
   },
   {
+    "title": "Election Day Thread",
+    "canonical_url": "https://www.slowboring.com/p/election-day-thread",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10332670,
+    "top_level": false,
+    "date": "Nov 08 2022 19:34",
+    "likes": 0,
+    "timestamp": 1667954084,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That sounds like San Francisco, CA circa 2014. I had to make an appointment 4 months in advance to transfer a drivers license and still spent over two hours moving between different desks to complete everything."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, when I moved back to Atlanta, GA in 2019, I made a next day appointment at the DMV. Was out in 15 minutes."
+        }
+      ]
+    ]
+  },
+  {
     "title": "America needs supply-side reform",
     "canonical_url": "https://www.slowboring.com/p/america-needs-supply-side-reform",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7450238,
     "top_level": true,
-    "date": "Jun 30 2022",
+    "date": "Jun 30 2022 06:32",
     "likes": 13,
     "timestamp": 1656585173,
     "body": [
@@ -1812,9 +2029,11 @@ window._comments = [
   {
     "title": "Dave Chappelle and the still-doomed politics of shunning ",
     "canonical_url": "https://www.slowboring.com/p/dave-chappelle-and-the-still-doomed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3305267,
     "top_level": false,
-    "date": "Oct 20 2021",
+    "date": "Oct 20 2021 13:28",
     "likes": 8,
     "timestamp": 1634750923,
     "body": [
@@ -1841,9 +2060,11 @@ window._comments = [
   {
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8567846,
     "top_level": true,
-    "date": "Aug 23 2022",
+    "date": "Aug 23 2022 06:55",
     "likes": 24,
     "timestamp": 1661252103,
     "body": [
@@ -1940,9 +2161,11 @@ window._comments = [
   {
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8568062,
     "top_level": false,
-    "date": "Aug 23 2022",
+    "date": "Aug 23 2022 07:15",
     "likes": 10,
     "timestamp": 1661253353,
     "body": [
@@ -1969,9 +2192,11 @@ window._comments = [
   {
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8568445,
     "top_level": false,
-    "date": "Aug 23 2022",
+    "date": "Aug 23 2022 07:48",
     "likes": 4,
     "timestamp": 1661255308,
     "body": [
@@ -1998,9 +2223,11 @@ window._comments = [
   {
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8567960,
     "top_level": false,
-    "date": "Aug 23 2022",
+    "date": "Aug 23 2022 07:05",
     "likes": 5,
     "timestamp": 1661252724,
     "body": [
@@ -2015,9 +2242,11 @@ window._comments = [
   {
     "title": "House of the mailbag ",
     "canonical_url": "https://www.slowboring.com/p/house-of-the-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9886124,
     "top_level": true,
-    "date": "Oct 21 2022",
+    "date": "Oct 21 2022 06:36",
     "likes": 1,
     "timestamp": 1666348580,
     "body": [
@@ -2066,9 +2295,11 @@ window._comments = [
   {
     "title": "Pro-life austerity: good luck with that",
     "canonical_url": "https://www.slowboring.com/p/pro-life-austerity-good-luck-with",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7690428,
     "top_level": false,
-    "date": "Jul 12 2022",
+    "date": "Jul 12 2022 10:25",
     "likes": 7,
     "timestamp": 1657635915,
     "body": [
@@ -2093,9 +2324,11 @@ window._comments = [
   {
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6266728,
     "top_level": true,
-    "date": "Apr 27 2022",
+    "date": "Apr 27 2022 07:10",
     "likes": 65,
     "timestamp": 1651057828,
     "body": [
@@ -2116,9 +2349,11 @@ window._comments = [
   {
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6267041,
     "top_level": true,
-    "date": "Apr 27 2022",
+    "date": "Apr 27 2022 07:37",
     "likes": 14,
     "timestamp": 1651059478,
     "body": [
@@ -2179,9 +2414,11 @@ window._comments = [
   {
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6274232,
     "top_level": false,
-    "date": "Apr 27 2022",
+    "date": "Apr 27 2022 13:40",
     "likes": 1,
     "timestamp": 1651081232,
     "body": [
@@ -2208,9 +2445,11 @@ window._comments = [
   {
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6266613,
     "top_level": false,
-    "date": "Apr 27 2022",
+    "date": "Apr 27 2022 06:59",
     "likes": 9,
     "timestamp": 1651057174,
     "body": [
@@ -2225,9 +2464,11 @@ window._comments = [
   {
     "title": "\"Don't Look Up\" and the cinema of existential risk",
     "canonical_url": "https://www.slowboring.com/p/dont-look-up",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4289708,
     "top_level": false,
-    "date": "Jan 04 2022",
+    "date": "Jan 04 2022 06:47",
     "likes": 38,
     "timestamp": 1641296875,
     "body": [
@@ -2260,9 +2501,11 @@ window._comments = [
   {
     "title": "Tackling America's weirdly short life expectancy should be a priority ",
     "canonical_url": "https://www.slowboring.com/p/tackling-americas-weirdly-short-life",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7979665,
     "top_level": false,
-    "date": "Jul 26 2022",
+    "date": "Jul 26 2022 10:00",
     "likes": 4,
     "timestamp": 1658844022,
     "body": [
@@ -2293,9 +2536,11 @@ window._comments = [
   {
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8646359,
     "top_level": false,
-    "date": "Aug 26 2022",
+    "date": "Aug 26 2022 10:50",
     "likes": 6,
     "timestamp": 1661525420,
     "body": [
@@ -2316,9 +2561,11 @@ window._comments = [
   {
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8646664,
     "top_level": false,
-    "date": "Aug 26 2022",
+    "date": "Aug 26 2022 11:00",
     "likes": 3,
     "timestamp": 1661526030,
     "body": [
@@ -2345,9 +2592,11 @@ window._comments = [
   {
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8647159,
     "top_level": false,
-    "date": "Aug 26 2022",
+    "date": "Aug 26 2022 11:17",
     "likes": 1,
     "timestamp": 1661527071,
     "body": [
@@ -2384,9 +2633,11 @@ window._comments = [
   {
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7099978,
     "top_level": true,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 07:05",
     "likes": 23,
     "timestamp": 1655118303,
     "body": [
@@ -2407,9 +2658,11 @@ window._comments = [
   {
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7099782,
     "top_level": true,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 06:37",
     "likes": 5,
     "timestamp": 1655116648,
     "body": [
@@ -2452,9 +2705,11 @@ window._comments = [
   {
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7099844,
     "top_level": false,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 06:45",
     "likes": 13,
     "timestamp": 1655117120,
     "body": [
@@ -2475,9 +2730,11 @@ window._comments = [
   {
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7102743,
     "top_level": false,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 09:56",
     "likes": 2,
     "timestamp": 1655128564,
     "body": [
@@ -2520,9 +2777,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-839",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10183203,
     "top_level": true,
-    "date": "Nov 02 2022",
+    "date": "Nov 02 2022 18:04",
     "likes": 6,
     "timestamp": 1667426692,
     "body": [
@@ -2583,9 +2842,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10138366,
     "top_level": true,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 07:14",
     "likes": 94,
     "timestamp": 1667301284,
     "body": [
@@ -2642,9 +2903,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10141065,
     "top_level": false,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 09:45",
     "likes": 8,
     "timestamp": 1667310332,
     "body": [
@@ -2677,9 +2940,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10137853,
     "top_level": true,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 06:23",
     "likes": 24,
     "timestamp": 1667298182,
     "body": [
@@ -2740,9 +3005,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10143181,
     "top_level": false,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 11:12",
     "likes": 4,
     "timestamp": 1667315577,
     "body": [
@@ -2757,9 +3024,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10138003,
     "top_level": true,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 06:39",
     "likes": 16,
     "timestamp": 1667299164,
     "body": [
@@ -2790,9 +3059,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10148881,
     "top_level": false,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 14:36",
     "likes": 0,
     "timestamp": 1667327812,
     "body": [
@@ -2807,9 +3078,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10138881,
     "top_level": true,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 07:52",
     "likes": 6,
     "timestamp": 1667303570,
     "body": [
@@ -2836,9 +3109,11 @@ window._comments = [
   {
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10138753,
     "top_level": true,
-    "date": "Nov 01 2022",
+    "date": "Nov 01 2022 07:44",
     "likes": 1,
     "timestamp": 1667303071,
     "body": [
@@ -2871,9 +3146,11 @@ window._comments = [
   {
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8493765,
     "top_level": false,
-    "date": "Aug 19 2022",
+    "date": "Aug 19 2022 10:24",
     "likes": 11,
     "timestamp": 1660919043,
     "body": [
@@ -2900,9 +3177,11 @@ window._comments = [
   {
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8494349,
     "top_level": false,
-    "date": "Aug 19 2022",
+    "date": "Aug 19 2022 10:47",
     "likes": 5,
     "timestamp": 1660920429,
     "body": [
@@ -2935,9 +3214,11 @@ window._comments = [
   {
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8494792,
     "top_level": false,
-    "date": "Aug 19 2022",
+    "date": "Aug 19 2022 11:03",
     "likes": 6,
     "timestamp": 1660921401,
     "body": [
@@ -2958,9 +3239,11 @@ window._comments = [
   {
     "title": "Housing inflation is higher than the Fed thinks \u2014 but already falling",
     "canonical_url": "https://www.slowboring.com/p/housing-inflation-is-higher-than",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7303402,
     "top_level": true,
-    "date": "Jun 23 2022",
+    "date": "Jun 23 2022 07:08",
     "likes": 7,
     "timestamp": 1655982508,
     "body": [
@@ -3025,9 +3308,11 @@ window._comments = [
   {
     "title": "Housing inflation is higher than the Fed thinks \u2014 but already falling",
     "canonical_url": "https://www.slowboring.com/p/housing-inflation-is-higher-than",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7303414,
     "top_level": false,
-    "date": "Jun 23 2022",
+    "date": "Jun 23 2022 07:09",
     "likes": 1,
     "timestamp": 1655982593,
     "body": [
@@ -3046,9 +3331,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6399846,
     "top_level": true,
-    "date": "May 04 2022",
+    "date": "May 04 2022 17:07",
     "likes": 25,
     "timestamp": 1651698466,
     "body": [
@@ -3109,9 +3396,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6402326,
     "top_level": false,
-    "date": "May 04 2022",
+    "date": "May 04 2022 19:13",
     "likes": 8,
     "timestamp": 1651706009,
     "body": [
@@ -3126,9 +3415,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6402296,
     "top_level": false,
-    "date": "May 04 2022",
+    "date": "May 04 2022 19:11",
     "likes": 2,
     "timestamp": 1651705910,
     "body": [
@@ -3143,9 +3434,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6402949,
     "top_level": false,
-    "date": "May 04 2022",
+    "date": "May 04 2022 19:55",
     "likes": 1,
     "timestamp": 1651708506,
     "body": [
@@ -3160,9 +3453,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6403134,
     "top_level": false,
-    "date": "May 05 2022",
+    "date": "May 04 2022 20:08",
     "likes": 3,
     "timestamp": 1651709301,
     "body": [
@@ -3177,9 +3472,11 @@ window._comments = [
   {
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6402753,
     "top_level": false,
-    "date": "May 04 2022",
+    "date": "May 04 2022 19:43",
     "likes": 5,
     "timestamp": 1651707828,
     "body": [
@@ -3244,9 +3541,11 @@ window._comments = [
   {
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7404712,
     "top_level": true,
-    "date": "Jun 28 2022",
+    "date": "Jun 28 2022 06:24",
     "likes": 14,
     "timestamp": 1656411862,
     "body": [
@@ -3303,9 +3602,11 @@ window._comments = [
   {
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7404808,
     "top_level": false,
-    "date": "Jun 28 2022",
+    "date": "Jun 28 2022 06:39",
     "likes": 16,
     "timestamp": 1656412745,
     "body": [
@@ -3332,9 +3633,11 @@ window._comments = [
   {
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7408589,
     "top_level": false,
-    "date": "Jun 28 2022",
+    "date": "Jun 28 2022 10:15",
     "likes": 2,
     "timestamp": 1656425758,
     "body": [
@@ -3477,9 +3780,11 @@ window._comments = [
   {
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7404988,
     "top_level": false,
-    "date": "Jun 28 2022",
+    "date": "Jun 28 2022 07:01",
     "likes": 15,
     "timestamp": 1656414112,
     "body": [
@@ -3504,9 +3809,11 @@ window._comments = [
   {
     "title": "A boring post about how monetary policy works",
     "canonical_url": "https://www.slowboring.com/p/monetary-mechanism",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3949338,
     "top_level": true,
-    "date": "Dec 10 2021",
+    "date": "Dec 10 2021 07:46",
     "likes": 2,
     "timestamp": 1639140370,
     "body": [
@@ -3563,9 +3870,11 @@ window._comments = [
   {
     "title": "European countries have really high taxes",
     "canonical_url": "https://www.slowboring.com/p/european-countries-have-really-high",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3592608,
     "top_level": false,
-    "date": "Nov 12 2021",
+    "date": "Nov 12 2021 07:32",
     "likes": 14,
     "timestamp": 1636720370,
     "body": [
@@ -3620,9 +3929,11 @@ window._comments = [
   {
     "title": "Multiverse of Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-lamb",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6550309,
     "top_level": false,
-    "date": "May 13 2022",
+    "date": "May 13 2022 07:37",
     "likes": 37,
     "timestamp": 1652441873,
     "body": [
@@ -3659,9 +3970,11 @@ window._comments = [
   {
     "title": "Multiverse of Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-lamb",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6550101,
     "top_level": false,
-    "date": "May 13 2022",
+    "date": "May 13 2022 07:24",
     "likes": 8,
     "timestamp": 1652441067,
     "body": [
@@ -3682,9 +3995,11 @@ window._comments = [
   {
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3e6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7421562,
     "top_level": false,
-    "date": "Jun 29 2022",
+    "date": "Jun 28 2022 20:53",
     "likes": 11,
     "timestamp": 1656463983,
     "body": [
@@ -3705,9 +4020,11 @@ window._comments = [
   {
     "title": "The case for a gas tax increase",
     "canonical_url": "https://www.slowboring.com/p/the-case-for-a-gas-tax-increase",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7572247,
     "top_level": true,
-    "date": "Jul 06 2022",
+    "date": "Jul 06 2022 06:37",
     "likes": 7,
     "timestamp": 1657103847,
     "body": [
@@ -3760,9 +4077,11 @@ window._comments = [
   {
     "title": "When the \"culture war\" was about religion",
     "canonical_url": "https://www.slowboring.com/p/when-the-culture-war-was-about-religion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7006538,
     "top_level": true,
-    "date": "Jun 08 2022",
+    "date": "Jun 08 2022 07:41",
     "likes": 31,
     "timestamp": 1654688497,
     "body": [
@@ -3809,9 +4128,11 @@ window._comments = [
   {
     "title": "When the \"culture war\" was about religion",
     "canonical_url": "https://www.slowboring.com/p/when-the-culture-war-was-about-religion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7005703,
     "top_level": true,
-    "date": "Jun 08 2022",
+    "date": "Jun 08 2022 06:21",
     "likes": 10,
     "timestamp": 1654683698,
     "body": [
@@ -3912,9 +4233,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-717",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6979127,
     "top_level": true,
-    "date": "Jun 06 2022",
+    "date": "Jun 06 2022 17:42",
     "likes": 3,
     "timestamp": 1654551779,
     "body": [
@@ -3979,9 +4302,11 @@ window._comments = [
   {
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7280853,
     "top_level": true,
-    "date": "Jun 22 2022",
+    "date": "Jun 22 2022 06:58",
     "likes": 26,
     "timestamp": 1655895490,
     "body": [
@@ -4012,9 +4337,11 @@ window._comments = [
   {
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7280929,
     "top_level": false,
-    "date": "Jun 22 2022",
+    "date": "Jun 22 2022 07:05",
     "likes": 5,
     "timestamp": 1655895934,
     "body": [
@@ -4029,9 +4356,11 @@ window._comments = [
   {
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7281163,
     "top_level": true,
-    "date": "Jun 22 2022",
+    "date": "Jun 22 2022 07:25",
     "likes": 5,
     "timestamp": 1655897115,
     "body": [
@@ -4068,11 +4397,68 @@ window._comments = [
     ]
   },
   {
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-71d",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10424558,
+    "top_level": true,
+    "date": "Nov 12 2022 14:33",
+    "likes": 5,
+    "timestamp": 1668281624,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For any Odd Lots fans, I'd recommend checking out this 2015 vintage, \"Episode 3: The Strange Story Behind the Beanie Babies Bubble.\" Once again it's a timely and entertaining discussion about ridiculous speculative bubbles with the current crypto crash. Also interesting how they briefly consider whether tech in 2015 was nearing the peak of a bubble."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Two market bubbles stand out from the late 1990s. Technology stocks that were supposed to make everyone a zillionaire. The other: A series of mass-produced stuffed animals priced at $5 each. Odd Lots hosts Joe Weisenthal and Tracy Alloway speak with Zac Bissonnette, author of \"The Great Beanie Baby Bubble: Mass Delusion and the Dark Side of Cute,\" to figure out exactly what made millions of people believe that these plush cuties were destined to soar in value. We dive into the psychology behind one of the weirdest speculative manias of all time and draw a connection with the dotcom bubble."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bloomberg: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/audio/2015-11-23/episode-3-the-strange-story-behind-the-beanie-babies-bubble"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apple: "
+        },
+        {
+          "type": "url",
+          "value": "https://podcasts.apple.com/us/podcast/episode-3-the-strange-story-behind-the-beanie-babies-bubble/id1056200096?i=1000381847045"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Spotify: "
+        },
+        {
+          "type": "url",
+          "value": "https://open.spotify.com/episode/2E9PB0drior2a5qGyJALzj?si=0ae2cc266bf0493b"
+        }
+      ]
+    ]
+  },
+  {
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3986824,
     "top_level": false,
-    "date": "Dec 13 2021",
+    "date": "Dec 13 2021 06:53",
     "likes": 10,
     "timestamp": 1639396424,
     "body": [
@@ -4099,9 +4485,11 @@ window._comments = [
   {
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3986762,
     "top_level": true,
-    "date": "Dec 13 2021",
+    "date": "Dec 13 2021 06:40",
     "likes": 18,
     "timestamp": 1639395620,
     "body": [
@@ -4128,9 +4516,11 @@ window._comments = [
   {
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3986844,
     "top_level": false,
-    "date": "Dec 13 2021",
+    "date": "Dec 13 2021 06:56",
     "likes": 0,
     "timestamp": 1639396582,
     "body": [
@@ -4153,9 +4543,11 @@ window._comments = [
   {
     "title": "Should Democrats talk more about their values?",
     "canonical_url": "https://www.slowboring.com/p/should-democrats-talk-more-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8468999,
     "top_level": false,
-    "date": "Aug 18 2022",
+    "date": "Aug 18 2022 10:06",
     "likes": 7,
     "timestamp": 1660831585,
     "body": [
@@ -4186,9 +4578,11 @@ window._comments = [
   {
     "title": "Should Democrats talk more about their values?",
     "canonical_url": "https://www.slowboring.com/p/should-democrats-talk-more-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8469255,
     "top_level": false,
-    "date": "Aug 18 2022",
+    "date": "Aug 18 2022 10:15",
     "likes": 5,
     "timestamp": 1660832156,
     "body": [
@@ -4209,9 +4603,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10192913,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 07:13",
     "likes": 4,
     "timestamp": 1667473986,
     "body": [
@@ -4232,9 +4628,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10193329,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 07:42",
     "likes": 2,
     "timestamp": 1667475776,
     "body": [
@@ -4255,9 +4653,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10192609,
     "top_level": true,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 06:48",
     "likes": 9,
     "timestamp": 1667472499,
     "body": [
@@ -4296,9 +4696,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10192709,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 06:58",
     "likes": 7,
     "timestamp": 1667473084,
     "body": [
@@ -4319,9 +4721,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10193042,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 07:21",
     "likes": 3,
     "timestamp": 1667474504,
     "body": [
@@ -4348,9 +4752,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10193239,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 07:36",
     "likes": 4,
     "timestamp": 1667475398,
     "body": [
@@ -4371,9 +4777,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10194020,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 08:24",
     "likes": 1,
     "timestamp": 1667478271,
     "body": [
@@ -4394,9 +4802,11 @@ window._comments = [
   {
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10192861,
     "top_level": false,
-    "date": "Nov 03 2022",
+    "date": "Nov 03 2022 07:09",
     "likes": 10,
     "timestamp": 1667473769,
     "body": [
@@ -4455,11 +4865,269 @@ window._comments = [
     ]
   },
   {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366997,
+    "top_level": false,
+    "date": "Nov 10 2022 07:43",
+    "likes": 17,
+    "timestamp": 1668084202,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The FTX collapse is spectacular. And the apparent mechanism of this meltdown is straight out of the 19th century unregulated banking crisis era; it issued its own currency (the cryptocurrency FTT)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worse, it seems that they accepted FTT as collateral for all sorts of crypto loans; notably massive loans to SBF\u2019s other company, the trading firm Alameda Research. And to make this even more absurd, the value of FTT was largely based around FTX\u2019s financial performance since they committed to using profits to buy back and burn FTT. I.e., FTT functioned as an unregistered FTX stock."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s like JP Morgan listing their own JPM stock as the primary asset collateralizing loans that they made; and these loans were made to the JPM CEO\u2019s own hedge fund."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Matt Levine brilliantly explains this ridiculous financial arrangement that only crypto could create. Between crypto and Elon, Levine is never going to run out of entertaining content."
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366449,
+    "top_level": true,
+    "date": "Nov 10 2022 07:13",
+    "likes": 14,
+    "timestamp": 1668082384,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And in that framework, I don\u2019t see a case for sanctioning Apple. I will concede that I have not researched this question deeply and I am open to changing my mind, but the way I see it, Apple is just not a monopolist in the phone market so there is no antitrust question here \u2014 it\u2019s two big companies slugging it out to divide some rents."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anyone wants to learn more, the tech analyst Ben Thompson has a lot of resources on App Tracking Transparency at, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/topic/app-stores/app-tracking-transparency-att/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Particularly his June 2022 article, \u201cData and Definitions\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2022/data-and-definitions/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d highlight these two paragraph"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cTracking\u201d is not a neutral term! My strong suspicion \u2014 confirmed by anecdata \u2014 is that a lot of the most ardent defenders of Apple\u2019s ATT policy are against targeted advertising as a category, which is to say they are against companies collecting data and using that data to target ads. For these folks I would imagine tracking means exactly that: the collection and use of data to target ads. That certainly seems to align with the definition of \u201ctrack\u201d from macOS\u2019s built-in dictionary: \u201cFollow the course or trail of (someone or something), typically in order to find them or note their location at various points\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> However, this is not Apple\u2019s definition: tracking is only when data Apple collects is linked with data from third parties for targeted advertising or measurement, or when data is shared/sold to data brokers. In other words, data that Apple collects and uses for advertising is, according to Apple, not tracking; the privacy policy helpfully lays out exactly what that data is (thanks lawyers!):"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apple narrowly defines tracking as linking data across companies. E.g., between Facebook and a retailer measuring the performance of sales resulting from FB ads. Apple prohibits that. In contrast, Amazon can track and link everything that happens on their app since they both show the ads and process sales within one company. Similarly, Apple is tracking and linking a lot of data on its own platform to optimize its own ad business. Hence, Apple is still allowing a lot of tracking and data collection, and just banning that which isn\u2019t useful to its own business."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson has made the argument that Apple may have implemented ATT primarily to kneecap the free, ad-supported app ecosystem and thereby drive more apps to a paid model; with Apple getting their 30% cut on any purchase or subscription in their AppStore."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That theory is particularly damning given WSJ\u2019s April 2022 reporting in \u201cThe Secret Talks That Could Have Prevented the Apple vs. Facebook War\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/inside-the-apple-vs-facebook-privacy-fight-11660317376"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The subtitle explains this as \u201cThe two tech giants discussed revenue-sharing arrangements, including a potential ad-free, subscription version of Facebook.\u201d"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366353,
+    "top_level": true,
+    "date": "Nov 10 2022 07:07",
+    "likes": 13,
+    "timestamp": 1668082057,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In terms of Social Security reform, I think we should consider the possibility that no compromise is ever found and benefits are just automatically reduced as funding is insufficient. It is a wicked problem in that one way or another some people have to be made worse off to improve the situation of other people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The no-brainer solution of just removing the FICA cap is inconsistent with Democratic leadership\u2019s commitment to not raise taxes on anyone earning less than $400k as the current limit is $147k. And I just don\u2019t think there is enough income above $400k to sustainably fund SS indefinitely with some new progressive FICA taxes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I personally think that Biden\u2019s commitment to the $400k line was a mistake, but seeing how close the 2020 presidential election was that may have been necessary. Particularly as Democrats increasingly become the party of the college-educated, affluent professionals. Maybe we just can\u2019t play basic class-centered, materialistic politics from the New Deal era."
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366332,
+    "top_level": true,
+    "date": "Nov 10 2022 07:06",
+    "likes": 11,
+    "timestamp": 1668081985,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "On the NYT policy of adversarial coverage of tech, I saw someone (possibly in comments on this site) frame this as: NYT started covering tech in the same fashion as politics and finance whereas they had previously covered like the automotive industry. I.e., tech started being viewed as a massive force in society that required critical coverage of its negative excesses."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I find that an insightful framing. Maybe NYT went too far, but that may have been necessary initially to shift the culture around tech coverage from the unbounded optimism of the early 2010s to something includes a critical critique."
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366596,
+    "top_level": false,
+    "date": "Nov 10 2022 07:21",
+    "likes": 5,
+    "timestamp": 1668082904,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! And don\u2019t forget LBJ\u2019s badgering. The Richmond Fed even has an article on that debacle in, \u201c1965: The Year the Fed and LBJ Clashed\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.richmondfed.org/publications/research/econ_focus/2016/q3-4/federal_reserve"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Few challenges to the Federal Reserve's independence have ever matched the drama of Dec. 5, 1965. Fed Chairman William McChesney Martin Jr. had just convinced the Board of Governors to raise the discount rate amid signs that the economy was starting to overheat. Fiscal stimulus \u2014 increased spending on the Vietnam War, expanded domestic programs for President Lyndon Johnson's \"Great Society,\" and a tax cut enacted in 1964 \u2014 had raised inflationary warning signals for Martin and, increasingly, a majority of the Federal Open Market Committee (FOMC). But Johnson was adamant that higher rates would slow down the economy and compromise his domestic agenda. Enraged, he called Martin and other top economic officials to his Texas ranch, where he was recovering from gallbladder surgery."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Johnson finally relented, and Martin's refusal to back down is often considered one his strongest moments as Fed chairman. His relationship with the president was sometimes strained in the following years. But the 1965 showdown was seen as a tough lesson to Johnson that the Fed would flex its muscles when needed to push back against the inflationary pressures caused, in part, by his administration's own policies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> What is less often remembered in the popular mind is that the rate hike of 1965 did not, in fact, turn a corner on inflation. In the years that followed, fiscal stimulus was ample, war spending kept rising, and the deficit grew. But FOMC members were often divided, and their policy decisions reflected this ambivalence. Furthermore, while Martin saw monetary and fiscal policymakers as obligated to work together to promote price stability and growth, he discovered that dealing with this particular White House and Congress was often a one-way street. And even though the Fed was substantially upgrading its analytic capacity in the 1960s \u2014 hiring more Ph.D. economists, building up its research departments, and adopting forecasting \u2014 it didn't always translate into consistent monetary policymaking."
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Post-midterm mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10366374,
+    "top_level": true,
+    "date": "Nov 10 2022 07:09",
+    "likes": 3,
+    "timestamp": 1668082140,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> That seems very bad to me. But again, the problem isn\u2019t the bank\u2019s operational independence, it\u2019s the way the EU doesn\u2019t allow for any efficient decision-making process by its elected elements."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The problem with the European Central Bank is that they have the impossible problem of managing the monetary policy for a monetary union that lacks a fiscal union. The governments of Germany and Italy require substantially different monetary policy to complement the differences in their fiscal policy. In my opinion, Italy and other peripheral states need currency devaluation to help manage their debt load and stimulate economic growth. Whereas Germany wants a strong currency to minimize inflation while they use their massive fiscal space to support industry and residents through the temporary energy crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If the eurozone was a proper fiscal union, then there could be large fiscal transfers from Germany to Italy to balance out the different economies. This would be comparable to the large fiscal transfer between California and Alabama in the US. With a single fiscal policy, the ECB could create the appropriate monetary policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are all sorts of eurozone/EU rules that attempt to minimize discrepancies between the fiscal policies of different member states. But in practice, it\u2019s my understanding that they don\u2019t accomplish much beyond stroking animosity between the different states when they accuse each other of incompliance. And then the ECB has to manage this impossible problem with esoteric financial instruments (e.g., heterogeneous PEPP reinvestment) that poorly mimics a fiscal union."
+        }
+      ]
+    ]
+  },
+  {
     "title": "Spooky mailbag",
     "canonical_url": "https://www.slowboring.com/p/spooky-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10047442,
     "top_level": true,
-    "date": "Oct 28 2022",
+    "date": "Oct 28 2022 07:02",
     "likes": 15,
     "timestamp": 1666954927,
     "body": [
@@ -4496,9 +5164,11 @@ window._comments = [
   {
     "title": "Spooky mailbag",
     "canonical_url": "https://www.slowboring.com/p/spooky-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10047053,
     "top_level": true,
-    "date": "Oct 28 2022",
+    "date": "Oct 28 2022 06:30",
     "likes": 15,
     "timestamp": 1666953046,
     "body": [
@@ -4553,9 +5223,11 @@ window._comments = [
   {
     "title": "Some practical advice for making a difference in the new abortion fight",
     "canonical_url": "https://www.slowboring.com/p/some-practical-advice-for-making",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7426985,
     "top_level": true,
-    "date": "Jun 29 2022",
+    "date": "Jun 29 2022 06:38",
     "likes": 47,
     "timestamp": 1656499133,
     "body": [
@@ -4576,9 +5248,11 @@ window._comments = [
   {
     "title": "Some practical advice for making a difference in the new abortion fight",
     "canonical_url": "https://www.slowboring.com/p/some-practical-advice-for-making",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7430970,
     "top_level": false,
-    "date": "Jun 29 2022",
+    "date": "Jun 29 2022 10:00",
     "likes": 10,
     "timestamp": 1656511242,
     "body": [
@@ -4611,9 +5285,11 @@ window._comments = [
   {
     "title": "Time to declare victory on stimulating the economy ",
     "canonical_url": "https://www.slowboring.com/p/time-to-declare-victory-on-stimulating",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3644093,
     "top_level": false,
-    "date": "Nov 16 2021",
+    "date": "Nov 16 2021 15:24",
     "likes": 0,
     "timestamp": 1637094259,
     "body": [
@@ -4670,11 +5346,68 @@ window._comments = [
     ]
   },
   {
+    "title": "Deadweight loss, explained",
+    "canonical_url": "https://www.slowboring.com/p/deadweight-loss-explained",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10456299,
+    "top_level": true,
+    "date": "Nov 14 2022 06:34",
+    "likes": 22,
+    "timestamp": 1668425677,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Great explanation of deadweight loss. I\u2019d add the concepts of fixed costs vs. variable costs as a contributing factor to why suppliers decrease quantity with a price cap."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Fixed costs: Costs a supplier pays regardless of quantity sold"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Variable costs: Cost per-a-unit of production"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In the Popeyes example"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Fixed: Lease, maintenance, wages of a minimal crew"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Variable: Ingredients, wages of additional workers at busy times"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With the price ceiling, Popeyes could find that sales after 10 PM doesn\u2019t provide enough revenue to offset the costs of the minimum crew needed to operate a store. They could also find that some locations should be closed since they don\u2019t bring in enough revenue to cover their fixed costs regardless of hours of operation."
+        }
+      ]
+    ]
+  },
+  {
     "title": "Janet Yellen explains Bidenomics ",
     "canonical_url": "https://www.slowboring.com/p/janet-yellen-explains-bidenomics",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8942202,
     "top_level": true,
-    "date": "Sep 09 2022",
+    "date": "Sep 09 2022 06:51",
     "likes": 27,
     "timestamp": 1662720668,
     "body": [
@@ -4705,9 +5438,11 @@ window._comments = [
   {
     "title": "Janet Yellen explains Bidenomics ",
     "canonical_url": "https://www.slowboring.com/p/janet-yellen-explains-bidenomics",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8942417,
     "top_level": true,
-    "date": "Sep 09 2022",
+    "date": "Sep 09 2022 07:15",
     "likes": 5,
     "timestamp": 1662722104,
     "body": [
@@ -4794,9 +5529,11 @@ window._comments = [
   {
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7029273,
     "top_level": true,
-    "date": "Jun 09 2022",
+    "date": "Jun 09 2022 07:29",
     "likes": 28,
     "timestamp": 1654774192,
     "body": [
@@ -4823,9 +5560,11 @@ window._comments = [
   {
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7028860,
     "top_level": false,
-    "date": "Jun 09 2022",
+    "date": "Jun 09 2022 06:48",
     "likes": 1,
     "timestamp": 1654771734,
     "body": [
@@ -4857,9 +5596,11 @@ window._comments = [
   {
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7028946,
     "top_level": true,
-    "date": "Jun 09 2022",
+    "date": "Jun 09 2022 06:59",
     "likes": 1,
     "timestamp": 1654772393,
     "body": [
@@ -4908,9 +5649,11 @@ window._comments = [
   {
     "title": "Midterm Mailbag",
     "canonical_url": "https://www.slowboring.com/p/midterm-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10218829,
     "top_level": true,
-    "date": "Nov 04 2022",
+    "date": "Nov 04 2022 07:02",
     "likes": 10,
     "timestamp": 1667559723,
     "body": [
@@ -4981,9 +5724,11 @@ window._comments = [
   {
     "title": "Do investor-owned single-family homes cause drug overdoses? ",
     "canonical_url": "https://www.slowboring.com/p/do-investor-owned-single-family-homes",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6364395,
     "top_level": true,
-    "date": "May 03 2022",
+    "date": "May 03 2022 06:32",
     "likes": 33,
     "timestamp": 1651573921,
     "body": [
@@ -5036,9 +5781,11 @@ window._comments = [
   {
     "title": "Do investor-owned single-family homes cause drug overdoses? ",
     "canonical_url": "https://www.slowboring.com/p/do-investor-owned-single-family-homes",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6365053,
     "top_level": false,
-    "date": "May 03 2022",
+    "date": "May 03 2022 07:37",
     "likes": 26,
     "timestamp": 1651577874,
     "body": [
@@ -5053,9 +5800,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10129030,
     "top_level": true,
-    "date": "Oct 31 2022",
+    "date": "Oct 31 2022 17:17",
     "likes": 13,
     "timestamp": 1667251070,
     "body": [
@@ -5070,9 +5819,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10129115,
     "top_level": false,
-    "date": "Oct 31 2022",
+    "date": "Oct 31 2022 17:22",
     "likes": 7,
     "timestamp": 1667251362,
     "body": [
@@ -5111,9 +5862,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 10131646,
     "top_level": false,
-    "date": "Oct 31 2022",
+    "date": "Oct 31 2022 19:46",
     "likes": 7,
     "timestamp": 1667260019,
     "body": [
@@ -5128,9 +5881,11 @@ window._comments = [
   {
     "title": "Where have all the deficit hawks gone?",
     "canonical_url": "https://www.slowboring.com/p/where-have-all-the-deficit-hawks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9808670,
     "top_level": true,
-    "date": "Oct 18 2022",
+    "date": "Oct 18 2022 06:42",
     "likes": 23,
     "timestamp": 1666089727,
     "body": [
@@ -5163,9 +5918,11 @@ window._comments = [
   {
     "title": "God save the mailbag ",
     "canonical_url": "https://www.slowboring.com/p/god-save-the-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9094342,
     "top_level": true,
-    "date": "Sep 16 2022",
+    "date": "Sep 16 2022 07:01",
     "likes": 14,
     "timestamp": 1663326092,
     "body": [
@@ -5224,9 +5981,11 @@ window._comments = [
   {
     "title": "What's long-term about \"longtermism\"? ",
     "canonical_url": "https://www.slowboring.com/p/whats-long-term-about-longtermism",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8446954,
     "top_level": false,
-    "date": "Aug 17 2022",
+    "date": "Aug 17 2022 10:42",
     "likes": 6,
     "timestamp": 1660747324,
     "body": [
@@ -5253,9 +6012,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7111874,
     "top_level": true,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 17:04",
     "likes": 24,
     "timestamp": 1655154291,
     "body": [
@@ -5280,9 +6041,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7111859,
     "top_level": true,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 17:04",
     "likes": 12,
     "timestamp": 1655154264,
     "body": [
@@ -5297,9 +6060,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7112536,
     "top_level": true,
-    "date": "Jun 13 2022",
+    "date": "Jun 13 2022 17:46",
     "likes": 0,
     "timestamp": 1655156799,
     "body": [
@@ -5352,9 +6117,11 @@ window._comments = [
   {
     "title": "What the DLC got wrong ",
     "canonical_url": "https://www.slowboring.com/p/what-the-dlc-got-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6413521,
     "top_level": false,
-    "date": "May 05 2022",
+    "date": "May 05 2022 11:35",
     "likes": 10,
     "timestamp": 1651764909,
     "body": [
@@ -5391,9 +6158,11 @@ window._comments = [
   {
     "title": "Taking Putin's ideas seriously (and I guess literally, too)",
     "canonical_url": "https://www.slowboring.com/p/taking-putins-ideas-seriously-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5440550,
     "top_level": false,
-    "date": "Mar 08 2022",
+    "date": "Mar 08 2022 10:30",
     "likes": 2,
     "timestamp": 1646753417,
     "body": [
@@ -5420,9 +6189,11 @@ window._comments = [
   {
     "title": "Taking Putin's ideas seriously (and I guess literally, too)",
     "canonical_url": "https://www.slowboring.com/p/taking-putins-ideas-seriously-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5440651,
     "top_level": false,
-    "date": "Mar 08 2022",
+    "date": "Mar 08 2022 10:35",
     "likes": 0,
     "timestamp": 1646753712,
     "body": [
@@ -5447,9 +6218,11 @@ window._comments = [
   {
     "title": "Schools should try to teach kids the basics",
     "canonical_url": "https://www.slowboring.com/p/schools-should-try-to-teach-kids",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8872269,
     "top_level": false,
-    "date": "Sep 06 2022",
+    "date": "Sep 06 2022 06:47",
     "likes": 23,
     "timestamp": 1662461268,
     "body": [
@@ -5480,9 +6253,11 @@ window._comments = [
   {
     "title": "What is the goal of child care policy?",
     "canonical_url": "https://www.slowboring.com/p/what-is-the-goal-of-child-care-policy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 3901854,
     "top_level": false,
-    "date": "Dec 07 2021",
+    "date": "Dec 07 2021 05:28",
     "likes": 0,
     "timestamp": 1638872898,
     "body": [
@@ -5523,9 +6298,11 @@ window._comments = [
   {
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9553551,
     "top_level": true,
-    "date": "Oct 07 2022",
+    "date": "Oct 07 2022 06:30",
     "likes": 8,
     "timestamp": 1665138616,
     "body": [
@@ -5558,9 +6335,11 @@ window._comments = [
   {
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9553854,
     "top_level": false,
-    "date": "Oct 07 2022",
+    "date": "Oct 07 2022 06:56",
     "likes": 19,
     "timestamp": 1665140212,
     "body": [
@@ -5587,9 +6366,11 @@ window._comments = [
   {
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9553770,
     "top_level": false,
-    "date": "Oct 07 2022",
+    "date": "Oct 07 2022 06:50",
     "likes": 7,
     "timestamp": 1665139848,
     "body": [
@@ -5622,9 +6403,11 @@ window._comments = [
   {
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9558982,
     "top_level": false,
-    "date": "Oct 07 2022",
+    "date": "Oct 07 2022 10:27",
     "likes": 3,
     "timestamp": 1665152850,
     "body": [
@@ -5657,9 +6440,11 @@ window._comments = [
   {
     "title": "Mailbag: Maverick ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-maverick",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6926909,
     "top_level": false,
-    "date": "Jun 03 2022",
+    "date": "Jun 03 2022 12:32",
     "likes": 2,
     "timestamp": 1654273962,
     "body": [
@@ -5680,9 +6465,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-f5f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9161952,
     "top_level": true,
-    "date": "Sep 19 2022",
+    "date": "Sep 19 2022 17:28",
     "likes": 12,
     "timestamp": 1663622934,
     "body": [
@@ -5713,9 +6500,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246558,
     "top_level": true,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 07:00",
     "likes": 24,
     "timestamp": 1650970832,
     "body": [
@@ -5748,9 +6537,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246719,
     "top_level": true,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 07:16",
     "likes": 8,
     "timestamp": 1650971762,
     "body": [
@@ -5771,9 +6562,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246612,
     "top_level": false,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 07:06",
     "likes": 3,
     "timestamp": 1650971205,
     "body": [
@@ -5810,9 +6603,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246905,
     "top_level": false,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 07:26",
     "likes": 2,
     "timestamp": 1650972391,
     "body": [
@@ -5833,9 +6628,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246430,
     "top_level": false,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 06:46",
     "likes": 20,
     "timestamp": 1650969987,
     "body": [
@@ -5850,9 +6647,11 @@ window._comments = [
   {
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6246568,
     "top_level": false,
-    "date": "Apr 26 2022",
+    "date": "Apr 26 2022 07:01",
     "likes": 8,
     "timestamp": 1650970911,
     "body": [
@@ -5867,9 +6666,11 @@ window._comments = [
   {
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8615151,
     "top_level": true,
-    "date": "Aug 25 2022",
+    "date": "Aug 25 2022 06:55",
     "likes": 21,
     "timestamp": 1661424939,
     "body": [
@@ -5908,9 +6709,11 @@ window._comments = [
   {
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8628603,
     "top_level": false,
-    "date": "Aug 25 2022",
+    "date": "Aug 25 2022 14:48",
     "likes": 5,
     "timestamp": 1661453309,
     "body": [
@@ -5937,9 +6740,11 @@ window._comments = [
   {
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8615247,
     "top_level": false,
-    "date": "Aug 25 2022",
+    "date": "Aug 25 2022 07:07",
     "likes": 9,
     "timestamp": 1661425627,
     "body": [
@@ -5966,9 +6771,11 @@ window._comments = [
   {
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8615012,
     "top_level": false,
-    "date": "Aug 25 2022",
+    "date": "Aug 25 2022 06:41",
     "likes": 7,
     "timestamp": 1661424110,
     "body": [
@@ -5995,9 +6802,11 @@ window._comments = [
   {
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8622972,
     "top_level": false,
-    "date": "Aug 25 2022",
+    "date": "Aug 25 2022 12:01",
     "likes": 2,
     "timestamp": 1661443275,
     "body": [
@@ -6046,9 +6855,11 @@ window._comments = [
   {
     "title": "A totally off-the-news post about taxes",
     "canonical_url": "https://www.slowboring.com/p/a-totally-off-the-news-post-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8419207,
     "top_level": true,
-    "date": "Aug 16 2022",
+    "date": "Aug 16 2022 07:11",
     "likes": 1,
     "timestamp": 1660648304,
     "body": [
@@ -6097,9 +6908,11 @@ window._comments = [
   {
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7477145,
     "top_level": true,
-    "date": "Jul 01 2022",
+    "date": "Jul 01 2022 07:57",
     "likes": 23,
     "timestamp": 1656676652,
     "body": [
@@ -6138,9 +6951,11 @@ window._comments = [
   {
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7476897,
     "top_level": true,
-    "date": "Jul 01 2022",
+    "date": "Jul 01 2022 07:40",
     "likes": 27,
     "timestamp": 1656675657,
     "body": [
@@ -6221,9 +7036,11 @@ window._comments = [
   {
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7477402,
     "top_level": true,
-    "date": "Jul 01 2022",
+    "date": "Jul 01 2022 08:13",
     "likes": 12,
     "timestamp": 1656677613,
     "body": [
@@ -6250,9 +7067,11 @@ window._comments = [
   {
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7481720,
     "top_level": false,
-    "date": "Jul 01 2022",
+    "date": "Jul 01 2022 11:08",
     "likes": 3,
     "timestamp": 1656688129,
     "body": [
@@ -6277,9 +7096,11 @@ window._comments = [
   {
     "title": "Two cheers for American higher education ",
     "canonical_url": "https://www.slowboring.com/p/two-cheers-for-american-higher-education",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6900138,
     "top_level": true,
-    "date": "Jun 02 2022",
+    "date": "Jun 02 2022 07:26",
     "likes": 12,
     "timestamp": 1654169203,
     "body": [
@@ -6340,9 +7161,11 @@ window._comments = [
   {
     "title": "Two cheers for American higher education ",
     "canonical_url": "https://www.slowboring.com/p/two-cheers-for-american-higher-education",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6908518,
     "top_level": false,
-    "date": "Jun 02 2022",
+    "date": "Jun 02 2022 13:48",
     "likes": 0,
     "timestamp": 1654192134,
     "body": [
@@ -6373,9 +7196,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-3c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5886333,
     "top_level": true,
-    "date": "Apr 04 2022",
+    "date": "Apr 04 2022 17:13",
     "likes": 2,
     "timestamp": 1649106812,
     "body": [
@@ -6390,9 +7215,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-3c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5886359,
     "top_level": true,
-    "date": "Apr 04 2022",
+    "date": "Apr 04 2022 17:15",
     "likes": 1,
     "timestamp": 1649106918,
     "body": [
@@ -6437,9 +7264,11 @@ window._comments = [
   {
     "title": "Why progressive organizations have become so vulnerable to staff meltdowns",
     "canonical_url": "https://www.slowboring.com/p/why-progressive-organizations-have",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7260227,
     "top_level": true,
-    "date": "Jun 21 2022",
+    "date": "Jun 21 2022 06:55",
     "likes": 47,
     "timestamp": 1655808912,
     "body": [
@@ -6488,9 +7317,11 @@ window._comments = [
   {
     "title": "Curtailing labor supply is a terrible way to boost wages",
     "canonical_url": "https://www.slowboring.com/p/curtailing-labor-supply-is-a-terrible",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4001226,
     "top_level": true,
-    "date": "Dec 14 2021",
+    "date": "Dec 14 2021 06:43",
     "likes": 4,
     "timestamp": 1639482213,
     "body": [
@@ -6577,9 +7408,11 @@ window._comments = [
   {
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7121135,
     "top_level": true,
-    "date": "Jun 14 2022",
+    "date": "Jun 14 2022 06:33",
     "likes": 9,
     "timestamp": 1655202824,
     "body": [
@@ -6612,9 +7445,11 @@ window._comments = [
   {
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7126264,
     "top_level": false,
-    "date": "Jun 14 2022",
+    "date": "Jun 14 2022 11:22",
     "likes": 4,
     "timestamp": 1655220147,
     "body": [
@@ -6629,9 +7464,11 @@ window._comments = [
   {
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7121284,
     "top_level": true,
-    "date": "Jun 14 2022",
+    "date": "Jun 14 2022 06:53",
     "likes": 1,
     "timestamp": 1655204036,
     "body": [
@@ -6652,9 +7489,11 @@ window._comments = [
   {
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7121569,
     "top_level": true,
-    "date": "Jun 14 2022",
+    "date": "Jun 14 2022 07:24",
     "likes": 0,
     "timestamp": 1655205885,
     "body": [
@@ -6687,9 +7526,11 @@ window._comments = [
   {
     "title": "What went wrong with Russia in the 1990s",
     "canonical_url": "https://www.slowboring.com/p/russia-1990s",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 5548903,
     "top_level": false,
-    "date": "Mar 15 2022",
+    "date": "Mar 15 2022 06:59",
     "likes": 3,
     "timestamp": 1647341941,
     "body": [
@@ -6714,9 +7555,11 @@ window._comments = [
   {
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-edc",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 8712397,
     "top_level": true,
-    "date": "Aug 29 2022",
+    "date": "Aug 29 2022 17:20",
     "likes": 54,
     "timestamp": 1661808055,
     "body": [
@@ -6743,9 +7586,11 @@ window._comments = [
   {
     "title": "Russia's military and economic strategy is failing",
     "canonical_url": "https://www.slowboring.com/p/russias-military-and-economic-strategy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 9195913,
     "top_level": true,
-    "date": "Sep 21 2022",
+    "date": "Sep 21 2022 07:02",
     "likes": 11,
     "timestamp": 1663758161,
     "body": [
@@ -6810,9 +7655,11 @@ window._comments = [
   {
     "title": "The merits of a \"narrow target\" campaign",
     "canonical_url": "https://www.slowboring.com/p/the-merits-of-a-narrow-target-campaign",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7380373,
     "top_level": true,
-    "date": "Jun 27 2022",
+    "date": "Jun 27 2022 07:10",
     "likes": 27,
     "timestamp": 1656328250,
     "body": [
@@ -6861,9 +7708,11 @@ window._comments = [
   {
     "title": "The merits of a \"narrow target\" campaign",
     "canonical_url": "https://www.slowboring.com/p/the-merits-of-a-narrow-target-campaign",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 7379950,
     "top_level": true,
-    "date": "Jun 27 2022",
+    "date": "Jun 27 2022 06:31",
     "likes": 6,
     "timestamp": 1656325864,
     "body": [
@@ -6894,11 +7743,180 @@ window._comments = [
     ]
   },
   {
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10473463,
+    "top_level": false,
+    "date": "Nov 14 2022 18:55",
+    "likes": 1,
+    "timestamp": 1668470107,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Theranos wasn't funded by VCs; they were generally rejected by both silicon valley (e.g., Google Ventures) and medical VCs (MPM Capital)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From the Vox 2015 article, \"Silicon Valley wants you to know Theranos isn\u2019t Silicon Valley\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.vox.com/recode/22665179/silicon-valley-theranos-elizabeth-holmes-covid-tests"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Overall, Theranos was mainly propped up by investments from powerful individuals and family friends, not many venture capital funds, several of which actually passed on the chance to invest in the company."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cIt was wealthy individuals, families, people who don\u2019t spend basically every waking hour thinking about business models and problems and breakthroughs in health care,\u201d Bryan Roberts, a partner at the venture capital firm Venrock who focuses on health care investment, told Recode. \u201cIn the sort of core early-stage venture investment community, I think there\u2019s been zero impact.\u201d"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10471481,
+    "top_level": true,
+    "date": "Nov 14 2022 17:11",
+    "likes": 5,
+    "timestamp": 1668463892,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Any thoughts on Democratic politicians criticizing the current Fed monetary policy? Notably, Sherrod Brown [1], Maxine Waters [2], and John Hickenlooper. [3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I\u2019ve found their statements lacking in substance and suspect that they\u2019re just positioning themselves to blame any future economic pain on the Fed. I worry that such lazy attacks for political gain would further erode Americans\u2019 confidence in our institutions. Alternatively, they could\u2019ve proposed fiscal solutions to help moderate inflation and thereby allow for more moderate monetary policy from the Fed if implemented."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \u201cSenate Banking Chief Urges Fed Focus on Jobs as Rate Hike Looms\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-10-25/top-democrat-urges-fed-remember-workers-ahead-of-expected-hike"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cWe must avoid having our short-term advances and strong labor market overwhelmed by the consequences of aggressive monetary actions to decrease inflation, especially when the Fed\u2019s actions do not address its main drivers,\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] \u201cChairwoman Waters Warns Chair Powell About Consequences of Interest Rates Hike, Urges Extreme Caution to Avoid Recession\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=409874"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cI am deeply troubled by the Federal Reserve\u2019s (Fed\u2019s) rapid series of super-sized interest rate hikes, which may inflict unnecessary pain on millions of individuals and families while sending the economy into a devastating recession,\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] \u201cAnother Democratic Senator Pressures Fed Ahead of Expected Rate Hike\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-10-27/another-democratic-senator-pressures-fed-ahead-of-expected-hike"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cHigh inflation necessitates a response. But the concern is the Fed is doing too much, too quickly,\u201d the lawmaker from Colorado wrote in a letter Thursday. \u201cI write to urge the Federal Reserve to pause and seriously consider the negative consequences of again raising interest rates.\u201d"
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "id": 10473656,
+    "top_level": false,
+    "date": "Nov 14 2022 19:07",
+    "likes": 1,
+    "timestamp": 1668470850,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that there is a constitutional argument that only Congress can authorize borrowing. Specifically, Article I Section 8, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Section 8: Powers of Congress"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">The Congress shall have Power To lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">To borrow Money on the credit of the United States;"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, before the debt limit was introduced in 1917, Congress authorized each treasury issuance. The Second Liberty Bond Act of 1917 authorized borrowing up to a specific amount and this has been formalized into our current debt ceiling over the years through additional bills."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://constitutioncenter.org/the-constitution/articles/article-i#article-section-8"
+        }
+      ]
+    ]
+  },
+  {
     "title": "America spends a lot more on schools than on police ",
     "canonical_url": "https://www.slowboring.com/p/america-spends-a-lot-more-on-schools",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6986671,
     "top_level": true,
-    "date": "Jun 07 2022",
+    "date": "Jun 07 2022 07:30",
     "likes": 11,
     "timestamp": 1654601420,
     "body": [
@@ -6961,9 +7979,11 @@ window._comments = [
   {
     "title": "America spends a lot more on schools than on police ",
     "canonical_url": "https://www.slowboring.com/p/america-spends-a-lot-more-on-schools",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 6986503,
     "top_level": false,
-    "date": "Jun 07 2022",
+    "date": "Jun 07 2022 07:16",
     "likes": 17,
     "timestamp": 1654600576,
     "body": [
@@ -6978,9 +7998,11 @@ window._comments = [
   {
     "title": "A tepid take on the bipartisan drive to ban tech self-preferencing",
     "canonical_url": "https://www.slowboring.com/p/a-tepid-take-on-the-bipartisan-drive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4807658,
     "top_level": false,
-    "date": "Feb 01 2022",
+    "date": "Feb 01 2022 06:38",
     "likes": 22,
     "timestamp": 1643715502,
     "body": [
@@ -7021,9 +8043,11 @@ window._comments = [
   {
     "title": "A tepid take on the bipartisan drive to ban tech self-preferencing",
     "canonical_url": "https://www.slowboring.com/p/a-tepid-take-on-the-bipartisan-drive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
     "id": 4807589,
     "top_level": true,
-    "date": "Feb 01 2022",
+    "date": "Feb 01 2022 06:29",
     "likes": 2,
     "timestamp": 1643714992,
     "body": [

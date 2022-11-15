@@ -135,10 +135,15 @@ function loadComments() {
         const metaDiv = document.createElement('div');
         entryDiv.appendChild(metaDiv);
 
+        const nameSpan = document.createElement('span');
+        metaDiv.appendChild(nameSpan);
+        nameSpan.classList.add('name');
+        nameSpan.appendChild(document.createTextNode(`${comment['name']} `));
+
         const likeSpan = document.createElement('span');
         metaDiv.appendChild(likeSpan);
         likeSpan.classList.add('meta');
-        likeSpan.appendChild(document.createTextNode(`❤ ${comment['likes']} - `));
+        likeSpan.appendChild(document.createTextNode(`❤ ${comment['likes']} `));
 
         const dateLink = document.createElement('a');
         metaDiv.appendChild(dateLink);

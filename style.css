@@ -43,6 +43,12 @@ input[type="text"] {
     padding: 8px;
 }
 
+.name {
+    font-size: 12px;
+    color: #202020;
+    font-weight: bold;
+}
+
 .meta {
     font-size: 12px;
     color: #808080;
