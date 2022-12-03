@@ -1,9 +1,11 @@
 window._comments = [
   {
+    "post_id": 59737189,
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7252326,
     "top_level": true,
     "date": "Jun 20 2022 17:14",
@@ -48,13 +50,20 @@ window._comments = [
           "value": " (Only includes publicly available info like article titles and number of likes; not leaking paid subscriber content here.)"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7252326,
+    "thread_children": 0
   },
   {
+    "post_id": 59737189,
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7254268,
     "top_level": false,
     "date": "Jun 20 2022 18:58",
@@ -87,13 +96,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/debt-politics/comment/2570548"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7252840,
+    "parent_children": null,
+    "thread_id": 7252840,
+    "thread_children": 0
   },
   {
+    "post_id": 59737189,
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7252096,
     "top_level": false,
     "date": "Jun 20 2022 17:03",
@@ -110,13 +126,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/opinion/articles/2022-06-19/biden-is-delivering-on-his-bipartisan-promise"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7252070,
+    "parent_children": null,
+    "thread_id": 7252070,
+    "thread_children": 0
   },
   {
+    "post_id": 59737189,
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7273458,
     "top_level": false,
     "date": "Jun 21 2022 17:36",
@@ -177,13 +200,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/European_debt_crisis"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7258322,
+    "parent_children": null,
+    "thread_id": 7258322,
+    "thread_children": 0
   },
   {
+    "post_id": 59737189,
     "title": "Juneteenth Mailbox",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbox",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7273084,
     "top_level": false,
     "date": "Jun 21 2022 17:15",
@@ -226,13 +256,368 @@ window._comments = [
           "value": "https://www.slowboring.com/p/the-case-for-ngdp-targeting"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7269685,
+    "parent_children": null,
+    "thread_id": 7269685,
+    "thread_children": 0
   },
   {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10868150,
+    "top_level": false,
+    "date": "Dec 02 2022 11:31",
+    "likes": 8,
+    "timestamp": 1669998701,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, and Yglesias has pointed out before, we are already failing to enforce existing gun control laws that would meaningfully reduce gun violence by confiscating illegal handguns and locking up the criminals that possess them, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/i/56724202/we-could-punish-illegal-gun-carrying-more-harshly"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10865642,
+    "parent_children": null,
+    "thread_id": 10863106,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10861977,
+    "top_level": false,
+    "date": "Dec 02 2022 07:03",
+    "likes": 11,
+    "timestamp": 1669982633,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Say we win the court battle, what next? Do we go for the extreme option of confiscating all guns not owned by \u201cwell-regulated militias\u201d? Or are there some conceivable gun regulations that would meaningfully address gun violence without much confiscation?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, as Yglesias has pointed out before,[1]  we are already failing to enforce existing gun control laws that would meaningfully reduce gun violence. Chiefly, arresting individuals that are illegally carrying handguns, including convicted felons that are already barred from owning or possessing a gun. If we can\u2019t even do that, then what do we hope to accomplish with more aggressive laws?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/i/56724202/we-could-punish-illegal-gun-carrying-more-harshly"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 10861640,
+    "parent_children": null,
+    "thread_id": 10861640,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10862202,
+    "top_level": false,
+    "date": "Dec 02 2022 07:22",
+    "likes": 10,
+    "timestamp": 1669983739,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To me, this seems like the worst of both worlds. We wouldn\u2019t make a meaningful difference in gun violence for many years, yet we would fire up a pro-gun constituency. Particularly, there are many Democrats that value personal gun ownership and would quickly become single-issue Republican voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think many of us, including myself at times, struggle to empathize with how strongly many Americans value personal gun ownership. And I have owned a gun! Thankfully, I\u2019ve known many other gun owners, almost all of whom are Democrats, and I\u2019ve got some exposure to their beliefs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To them, the right to personal gun ownership is comparable to the personal-autonomy right to an abortion. While both groups might be able to begrudgingly accept some constraints, neither will support politics that challenge the fundamental validity of the right. Should we win in the courts on reinterpretting the second amendment, then we may simply find ourselves in the position of anti-abortion activists who struggle to impose their deeply unpopular beliefs, even in red states."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 10862049,
+    "parent_children": null,
+    "thread_id": 10861640,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10862849,
+    "top_level": false,
+    "date": "Dec 02 2022 08:04",
+    "likes": 16,
+    "timestamp": 1669986279,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And I think you haven\u2019t had many close personal interactions with second amendment advocates and therefore have poor intuition about their feelings on this topic. To me, you are talking about a deeply emotional and foundational belief in the same fashion as an evangelical Christian who just can\u2019t fathom how anyone could ever value the right to an abortion; let alone actually seek one out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "When second amendment advocates tell us that they would be willing to die to defend their right to gun ownership\u2014through violent application of their guns\u2014we should believe them. This isn\u2019t a rhetorical trick; this is how they actually feel. We might not be able to fathom how someone could feel that way, but that doesn\u2019t invalidate their feelings."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 10862561,
+    "parent_children": null,
+    "thread_id": 10861640,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10872296,
+    "top_level": false,
+    "date": "Dec 02 2022 13:41",
+    "likes": 2,
+    "timestamp": 1670006505,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We simply can\u2019t for the foreseeable future. The political reality is that somehow Republicans still manage to make national elections incredibly close due to their geographical advantage. Incorporating any realistic attempt to eliminate these senseless shootings into the Democrat\u2019s national policy framework will simply guarantee Republican victories."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I\u2019ve made my peace with this in the same way I don\u2019t fret too much about the risk of getting run down in a crosswalk because some moron was driving distracted. Guns and cars are dangerous. We ain\u2019t getting rid of either anytime soon."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10870461,
+    "parent_children": null,
+    "thread_id": 10861640,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10867159,
+    "top_level": false,
+    "date": "Dec 02 2022 11:00",
+    "likes": 4,
+    "timestamp": 1669996809,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t particularly care about the second amendment either way; I could easily live with no personal gun ownership and I could also begrudgingly accept compulsory gun ownership. To me, this just seems like a dumb wedge issue for either side to embrace at the cost of their political fortunes. Particularly, when we Democrats can\u2019t even commit to enforcing our existing gun control laws to confiscate illegal handguns and lock up the criminals that possess them. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So no, I can\u2019t explain nor expand upon their beliefs. I just accept them and analyze policy with that constraint in mind."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/i/56724202/we-could-punish-illegal-gun-carrying-more-harshly"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10866688,
+    "parent_children": null,
+    "thread_id": 10861640,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10861788,
+    "top_level": true,
+    "date": "Dec 02 2022 06:48",
+    "likes": 11,
+    "timestamp": 1669981709,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Singapore\u2019s racial policies are interesting. Americans tend to lack comparative perspective on racial or ethnic issues. \u2026 But people typically don\u2019t realize the sheer range of ideas about what equality might look like."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recommend Joseph Heath's article, \u201cWhy Are Racial Problems in the United States So Intractable?\u201d, for an overview of how different countries, including Singapore, have addressed race and ethnic issues. The article then contrasts these approaches against those of the US."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://americanaffairsjournal.org/2021/08/why-are-racial-problems-in-the-united-states-so-intractable/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Heath identifies two types of approaches that countries have taken: 1) integration/assimilation and 2) multinationalism. Singapore is a particularly aggressive approach to the first whereas Canada's semi-sovereign, French-speaking province is an example of the second. Hearth then explains how the US\u2019s approach towards addressing Black equality, inclusion, and identity attempts an incoherent synthesis of these approaches since we don\u2019t have consensus on what we are trying to accomplish."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10861788,
+    "thread_children": 1
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10861799,
+    "top_level": false,
+    "date": "Dec 02 2022 06:49",
+    "likes": 7,
+    "timestamp": 1669981752,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "If you don\u2019t have time for the full article, I\u2019d recommend just these three paragraphs from the conclusion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As an involuntarily incorporated minority group, African Americans have little interest in following the immigrant route to integration. Yet they cannot constitute a nation within a nation, largely due to geographical dispersion, which effectively blocks the standard set of multinational arrangements. As a result, the United States has pursued an approach that tries to blend elements of both, without resounding success. Is there a new and different model that would achieve social integration, while satisfying African Americans\u2019 desire to achieve equality without aban\u00addoning their distinctive group identity?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The most visible tendency among African Americans since the late 1960s has  been to act in the way that national minority groups act, by promoting group identification or \u201crace consciousness\u201d (and by con\u00addemning \u201ccolor-blindness\u201d as involving a failure of recognition). This has the effect of increasing the salience of race in everyday interactions. If a multinational solution were feasible, this cultural politics would be useful. Unfortunately, it tends to undermine integrationist goals, since it blocks one of the major strategies used in successful models of polyethnic integration. (The recent American trend of seeking to promote \u201cuncomfortable\u201d conversations about race in everyday interaction represents an extreme form of this tendency.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The integrationist ideal that is associated with Martin Luther King Jr. and the civil rights movement has conditioned Americans to expect both social integration of African Americans on the polyethnic model and satisfaction of outcome-based measures of successful inclusion. But in neither case have Americans, either white or black, been willing to accept the means necessary to achieve these ends. This is what underlies the policy dilemmas that I have been trying to describe. The commitment to the preservation of a distinct African American culture and identity and the aversion to compulsory forms of inclusion have clearly worked at cross-purposes with the objectives specified by the integrationist ideal. Unwilling to decide which option to pursue, or more often, deeply divided over which option to pursue, African Americans have been unable to formulate a unified set of demands. Lack of direction from the black community has, in turn, generated near-complete paralysis on the issue among progressive whites. Absent any coherent policy agenda, white Americans have turned increasingly inward, toward extreme forms of confessional self\u2011criticism."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10861788,
+    "parent_children": 1,
+    "thread_id": 10861788,
+    "thread_children": 1
+  },
+  {
+    "post_id": 87749070,
+    "title": "Anti-Dutch Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10862365,
+    "top_level": true,
+    "date": "Dec 02 2022 07:33",
+    "likes": 5,
+    "timestamp": 1669984390,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But what is the purpose of cryptocurrency regulations? What are we trying to accomplish? I\u2019m not sure."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yep, and think pro-crypto people struggle with this because they can\u2019t even articulate a clear value proposition for crypto? Is it a currency? A store of value? A speculative tech to power some hypothetical \u201cnew internet\u201d? Or is it a way to evade financial controls for uses like money laundering and illegal purchases?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a slight crypto skeptic, I can accept that Bitcoin might have value as something of a store of value, although in practice it trades more like a speculative tech stock. So advocates struggle to make that argument. Notably, Bitcoin is certainly not acting like an inflation hedge in our current high inflation environment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So maybe there isn\u2019t a purpose? And while that might be a good argument for a full ban, I could also accept just regulating it the way we do beanie babies trading. I.e., not at all. If someone wants to put all of their savings into stuffed toys or magic digital beans, then by all means. But no one should be disappointed when their \u201cinvestment\u201d fails to pan out."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10862365,
+    "thread_children": 0
+  },
+  {
+    "post_id": 55799999,
     "title": "Expensive energy is really bad",
     "canonical_url": "https://www.slowboring.com/p/expensive-energy-is-really-bad",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6736898,
     "top_level": true,
     "date": "May 24 2022 06:33",
@@ -279,13 +664,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/opinion/articles/2022-05-09/crude-hovers-at-110-a-barrel-but-the-refinery-margin-makes-us-pay-a-lot-more"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6736898,
+    "thread_children": 0
   },
   {
+    "post_id": 79072865,
     "title": "Pre-registering some takes on the midterms ",
     "canonical_url": "https://www.slowboring.com/p/pre-registering-some-takes-on-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9860195,
     "top_level": true,
     "date": "Oct 20 2022 06:45",
@@ -360,13 +752,20 @@ window._comments = [
           "value": "https://twitter.com/CodyHallGA/status/1582736690552000517"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9860195,
+    "thread_children": 0
   },
   {
+    "post_id": 67642825,
     "title": "There's no need to exaggerate Biden's legislative achievements ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-need-to-exaggerate-bidens",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8313885,
     "top_level": true,
     "date": "Aug 11 2022 07:07",
@@ -391,13 +790,20 @@ window._comments = [
           "value": "Yet such a change in strategy and tactics among Democrat staffers hasn't happened. And I think a lot of that can be attributed to the \u201cprogressive mobilization\u201d delusion. As long as staffers and activists continue to believe that there is a large number of demotivated potential voters yearning for revolutionary progressive changes then I don\u2019t think we'll have a more productive messaging discipline. We need to do anything and everything that we can do to push back on this false narrative and correct staffers\u2019 mental model of the American electoral landscape."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8313885,
+    "thread_children": 1
   },
   {
+    "post_id": 67642825,
     "title": "There's no need to exaggerate Biden's legislative achievements ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-need-to-exaggerate-bidens",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8317337,
     "top_level": false,
     "date": "Aug 11 2022 10:09",
@@ -410,13 +816,20 @@ window._comments = [
           "value": "My mistake. Thanks for correcting me."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8314924,
+    "parent_children": null,
+    "thread_id": 8313885,
+    "thread_children": 1
   },
   {
+    "post_id": 51403483,
     "title": "What was the popularism debate?",
     "canonical_url": "https://www.slowboring.com/p/what-was-the-popularism-debate",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5893555,
     "top_level": true,
     "date": "Apr 05 2022 07:43",
@@ -441,13 +854,20 @@ window._comments = [
           "value": "One needn\u2019t even assume activist leadership is deliberately scheming to craft optimal ideological products for sale to donors. Market forces alone could ensure that more compelling and engaging movements outcompete lesser ones and thereby garner more funds for continuation and expansion. Through this Darwinian evolution we\u2019d be left with ideological products optimized for donor consumption."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 5893555,
+    "thread_children": 0
   },
   {
+    "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6968185,
     "top_level": false,
     "date": "Jun 06 2022 07:13",
@@ -482,13 +902,20 @@ window._comments = [
           "value": "https://theovershoot.co/p/russias-attack-on-the-worlds-food"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6967826,
+    "parent_children": null,
+    "thread_id": 6967826,
+    "thread_children": 0
   },
   {
+    "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6967940,
     "top_level": true,
     "date": "Jun 06 2022 06:41",
@@ -547,13 +974,20 @@ window._comments = [
           "value": "https://theovershoot.co/p/inequality-interest-rates-aging-and"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6967940,
+    "thread_children": 0
   },
   {
+    "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6968016,
     "top_level": true,
     "date": "Jun 06 2022 06:53",
@@ -572,13 +1006,20 @@ window._comments = [
           "value": "It\u2019s possible some African and Middle Eastern nations might be able to make major geopolitical concessions to China in return for desperately needed food. E.g., granting China the right to military bases and ports within their countries. That\u2019s understandable in the short-term, but presents more problems for global security and peace in the long term. "
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6968016,
+    "thread_children": 0
   },
   {
+    "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6968089,
     "top_level": true,
     "date": "Jun 06 2022 07:01",
@@ -619,13 +1060,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/news/articles/2022-06-06/ukraine-cautious-as-turkey-russia-push-black-sea-grain-deal"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6968089,
+    "thread_children": 0
   },
   {
+    "post_id": 58867637,
     "title": "Legalize housing, not tent encampments ",
     "canonical_url": "https://www.slowboring.com/p/legalize-housing-not-tent-encampments",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7165152,
     "top_level": true,
     "date": "Jun 16 2022 06:53",
@@ -644,13 +1092,20 @@ window._comments = [
           "value": "I believe that any plan to address homelessness needs to make a clear differentiation between these two different groups of people since the socially disruptive group is the one that most residents have in mind when discussing homelessness. SROs can certainly help the people that are just downtrodden and need a cheap place to live. The individuals with severe mental health or addiction issues need another plan. A plan that likely involves coercion into treatment and in some cases institutionalization. I think making a strong distinction between the two populations of homeless individuals will be helpful in pushing for zoning changes that help the individuals that are just downtrodden."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7165152,
+    "thread_children": 0
   },
   {
+    "post_id": 58867637,
     "title": "Legalize housing, not tent encampments ",
     "canonical_url": "https://www.slowboring.com/p/legalize-housing-not-tent-encampments",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7164978,
     "top_level": true,
     "date": "Jun 16 2022 06:34",
@@ -669,13 +1124,20 @@ window._comments = [
           "value": "One idea is to argue for both public and private SROs simultaneously. The publicly owned and operated SROs would address anticapitalism and discrimination concerns. And they offer more accomidnations than shelters while being cheaper than providing full apartments. Once public SROs are begrudgingly accepted, then private SROs can be defended as providing accommodations for the less downtrodden that would like to spend less of their limited paycheck on housing."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7164978,
+    "thread_children": 0
   },
   {
+    "post_id": 60539716,
     "title": "SARS-CoV-Mailbag",
     "canonical_url": "https://www.slowboring.com/p/sars-cov-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7327423,
     "top_level": false,
     "date": "Jun 24 2022 10:30",
@@ -706,13 +1168,20 @@ window._comments = [
           "value": "*edited for typo"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7326576,
+    "parent_children": null,
+    "thread_id": 7323493,
+    "thread_children": 0
   },
   {
+    "post_id": 70608891,
     "title": "Joe Biden should do some boring bipartisan commissions ",
     "canonical_url": "https://www.slowboring.com/p/joe-biden-should-do-some-boring-bipartisan",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8743547,
     "top_level": true,
     "date": "Aug 31 2022 06:27",
@@ -771,13 +1240,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/National_Commission_on_Fiscal_Responsibility_and_Reform"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8743547,
+    "thread_children": 0
   },
   {
+    "post_id": 46030715,
     "title": "The vanishing case for student loan forgiveness",
     "canonical_url": "https://www.slowboring.com/p/student-loan-forgiveness",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4269797,
     "top_level": true,
     "date": "Jan 03 2022 07:16",
@@ -802,13 +1278,20 @@ window._comments = [
           "value": "The federal and state governments could still subsidize education with insufficient financial prospects, but that should be done explicitly and deliberately through grants. This then becomes a political decision about which studies should be subsidized and to what extent do we want to subsidize them. Regardless, no one should face financial ruin because a university scammed them into a financially disastrous education program."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 4269797,
+    "thread_children": 1
   },
   {
+    "post_id": 46030715,
     "title": "The vanishing case for student loan forgiveness",
     "canonical_url": "https://www.slowboring.com/p/student-loan-forgiveness",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4270540,
     "top_level": false,
     "date": "Jan 03 2022 08:14",
@@ -837,13 +1320,20 @@ window._comments = [
           "value": "https://www.bloomtech.com/article/announcing-our-new-isa-financing-blueprint-and-100m-in-new-financing"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 4270001,
+    "parent_children": null,
+    "thread_id": 4269797,
+    "thread_children": 1
   },
   {
+    "post_id": 48797501,
     "title": "The Fifth Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/the-fifth-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5134422,
     "top_level": false,
     "date": "Feb 18 2022 10:32",
@@ -862,13 +1352,20 @@ window._comments = [
           "value": "It is well known that academia produces way more STEM Ph.D.s than can be supported by long term stable career paths. These grad students are the workhorses of research and are essential for making scientific progress. Yet we all know that our prospects of gainful employment as researchers are slim at best. There\u2019s a lot of risk and uncertainty in research and even the brightest and hardest working researchers can find themselves sinking years into research endeavors that yield little of significance. Conversely, some people get lucky in being in the right place at the right time. No individual student can know how their research line will pan out and we can manage the downside risk by having these alternative career paths."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 5131926,
+    "parent_children": null,
+    "thread_id": 5131129,
+    "thread_children": 0
   },
   {
+    "post_id": 48797501,
     "title": "The Fifth Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/the-fifth-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5131343,
     "top_level": false,
     "date": "Feb 18 2022 07:07",
@@ -887,13 +1384,20 @@ window._comments = [
           "value": "Of course this is comparing owning more housing to renting less. With my personal calculations, ownership does win out if renting a comparable quantity and quality of housing. Yet for myself and several acquaintances, this is the choice we\u2019re faced with since owning a 1Bed/1Bath condo has several downsides. There\u2019s a smaller market for them and plumbing issues can be an emergency with just a single bathroom."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 5131212,
+    "parent_children": null,
+    "thread_id": 5131212,
+    "thread_children": 0
   },
   {
+    "post_id": 56724202,
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6862403,
     "top_level": true,
     "date": "May 31 2022 07:15",
@@ -952,13 +1456,20 @@ window._comments = [
           "value": "*edited for formatting of quoted text"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6862403,
+    "thread_children": 0
   },
   {
+    "post_id": 56724202,
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6862313,
     "top_level": false,
     "date": "May 31 2022 07:05",
@@ -971,13 +1482,20 @@ window._comments = [
           "value": "I agree. Yet one of the challenges discussed in this article is that gun control activists commonly conflate these different issues. E.g., citing the total number of deaths due to guns. We just currently don't have activists in the debate that are solely focused on mass shootings. People that want to address these horrific events also want to address the other deaths resulting from guns and their voices are amplified in the wake of these high salience tragedies."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6862242,
+    "parent_children": null,
+    "thread_id": 6862192,
+    "thread_children": 0
   },
   {
+    "post_id": 56724202,
     "title": "We need a new strategy on guns ",
     "canonical_url": "https://www.slowboring.com/p/we-need-a-new-strategy-on-guns",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6862221,
     "top_level": false,
     "date": "May 31 2022 06:53",
@@ -990,13 +1508,20 @@ window._comments = [
           "value": "We could enjoy the endorphins released form the reassurance of our political tribal identity"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6862183,
+    "parent_children": null,
+    "thread_id": 6862122,
+    "thread_children": 0
   },
   {
+    "post_id": 71786926,
     "title": "Defending democracy needs appeals to material self-interest",
     "canonical_url": "https://www.slowboring.com/p/defending-democracy-needs-appeals",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8895077,
     "top_level": true,
     "date": "Sep 07 2022 07:28",
@@ -1021,13 +1546,20 @@ window._comments = [
           "value": "I am curious how Republicans will reconcile this issue within their party. Anti-abortion activists hold deep moral convictions\u2014commonly informed by religion\u2014and I don\u2019t see how Republicans could ever reason with them. Yet I do wonder if these anti-abortion activists are sufficiently pragmatic to see how their deeply unpopular, extremist views could never be encoded in federal law. E.g., the whole personhood for fetuses amendment that some Republicans suggest. If so, Republicans may be able to bring them on board for a more moderate abortion policy position. Alternatively, if the activists lack such pragmatism, then Republicans could be in a world of hurt."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8895077,
+    "thread_children": 0
   },
   {
+    "post_id": 71786926,
     "title": "Defending democracy needs appeals to material self-interest",
     "canonical_url": "https://www.slowboring.com/p/defending-democracy-needs-appeals",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8894881,
     "top_level": true,
     "date": "Sep 07 2022 07:13",
@@ -1052,13 +1584,20 @@ window._comments = [
           "value": "In general, I think this Republican civil war is beneficial for Democrats and therefore we should fan the flames and keep these two factions fighting. Further, we should also offer the Democratic party as an alternative for Republicans that are in favor of at least one flavor of Republican extremism but horrified by the other. They needn\u2019t drop their political convictions to at least temporarily vote Democrat."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8894881,
+    "thread_children": 0
   },
   {
+    "post_id": 67219249,
     "title": "What do Donald Trump and Ron DeSantis think about federal abortion policy?",
     "canonical_url": "https://www.slowboring.com/p/what-do-donald-trump-and-ron-desantis",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8264048,
     "top_level": true,
     "date": "Aug 09 2022 06:57",
@@ -1089,13 +1628,20 @@ window._comments = [
           "value": "I guess I don\u2019t have a good read on anti-abortion activists to know how this would play out. Yet the fact that this hasn\u2019t been a contentious issue in previous Republican primaries makes me think it will continue to be unimportant. I would wager that instead the Republican primary debates will continue to be some shitshow where the candiates fight to prove they\u2019re the strongest castigator."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8264048,
+    "thread_children": 0
   },
   {
+    "post_id": 81372927,
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10169017,
     "top_level": false,
     "date": "Nov 02 2022 09:59",
@@ -1126,13 +1672,20 @@ window._comments = [
           "value": "Many more vulnerable banks would\u2019ve gone the way of Lehman if the Federal Gov attempted to push harsh terms for accepting TARP."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 10166149,
+    "parent_children": null,
+    "thread_id": 10164981,
+    "thread_children": 0
   },
   {
+    "post_id": 81372927,
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10169662,
     "top_level": false,
     "date": "Nov 02 2022 10:22",
@@ -1145,13 +1698,20 @@ window._comments = [
           "value": "I would add that the Dodd-Frank financial regulations were perceived by the banks as their punishment. Particularly it decreased their return-on-equity; i.e., made the banks less profitable. That is a good thing because this was accomplished by constraining their ability to take on risk. High risk, higher reward."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10169017,
+    "parent_children": 1,
+    "thread_id": 10164981,
+    "thread_children": 0
   },
   {
+    "post_id": 81372927,
     "title": "D.C. is right to crack down on metro fare evasion",
     "canonical_url": "https://www.slowboring.com/p/dc-is-right-to-crack-down-on-metro",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10164753,
     "top_level": true,
     "date": "Nov 02 2022 06:33",
@@ -1198,13 +1758,20 @@ window._comments = [
           "value": "And much of this vision gets sanewashed into a social justice message where the enforcement of any rules is seen as having a negative impact on marginalized groups. But I believe antiestablishment is the starting point, not any sort of rational analysis of policies."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10164753,
+    "thread_children": 0
   },
   {
+    "post_id": 55302326,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e15",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6748702,
     "top_level": true,
     "date": "May 24 2022 17:15",
@@ -1227,13 +1794,20 @@ window._comments = [
           "value": "Note that the categories are imperfect because they\u2019re constructed algorithmically by grouping together articles with similar word frequencies. Therefore some of the constructed categories are too generic, but others actually turn out to be useful. E.g., the climate change and energy category. It might even be that some of Yglesias\u2019s writing defies na\u00efve categorization with some articles touching on multiple topics."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6748702,
+    "thread_children": 0
   },
   {
+    "post_id": 59628308,
     "title": "Juneteenth Mailbag",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7198971,
     "top_level": false,
     "date": "Jun 17 2022 14:06",
@@ -1246,13 +1820,20 @@ window._comments = [
           "value": "I don\u2019t get the impression that the original commentator thought that individuals with these personality traits shouldn\u2019t be employed. The issue seems to be concentrating people with these idiosyncrasies into organizations that need to be unreasonably sensitive to such proclivities. In contrast, if such people were randomly distributed across the workforce then I\u2019d imagine their personality traits wouldn\u2019t be exacerbated into such negative consequences. "
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7197437,
+    "parent_children": null,
+    "thread_id": 7191140,
+    "thread_children": 0
   },
   {
+    "post_id": 52577286,
     "title": "Donald Trump's re-election is a dire threat to free speech",
     "canonical_url": "https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6228662,
     "top_level": true,
     "date": "Apr 25 2022 07:12",
@@ -1297,13 +1878,118 @@ window._comments = [
           "value": "https://graymirror.substack.com/p/principles-of-the-deep-right"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6228662,
+    "thread_children": 0
   },
   {
+    "post_id": 86845811,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-30a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10802972,
+    "top_level": false,
+    "date": "Nov 29 2022 17:29",
+    "likes": 4,
+    "timestamp": 1669760999,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To be honest, I interpreted your comment in question as a joke. Particularly, the ban threat seemed to be worded in a mocking fashion as part of the joke. But I might've misunderstood and on checking the response now it does appear that the user in question took it seriously. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, I respect owning up to a mistake and making amends. "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10802758,
+    "parent_children": null,
+    "thread_id": 10802758,
+    "thread_children": 0
+  },
+  {
+    "post_id": 86845811,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-30a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10802478,
+    "top_level": true,
+    "date": "Nov 29 2022 17:05",
+    "likes": 2,
+    "timestamp": 1669759557,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thoughts on the looming railroad strike and Biden calling on Congress to avert that by passing a bill to require the unions to accept the tentative contract?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From "
+        },
+        {
+          "type": "url",
+          "value": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/28/statement-from-president-joe-biden-on-averting-a-rail-shutdown/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I am calling on Congress to pass legislation immediately to adopt the Tentative Agreement between railroad workers and operators \u2013 without any modifications or delay \u2013 to avert a potentially crippling national rail shutdown."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I am surprised by Biden\u2019s position as I considered him strongly pro-labor and pro-union. E.g., his buy America pushes and requirements for union labor. While a rail strike would be devastating for the US economy, I would\u2019ve expected Biden to use that as leverage to force management to accept the union\u2019s demands."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also struggle to understand management\u2019s aversion to increasing sick leave. Understand that would require hiring additional workers, but that seems like something they could put a dollar amount on. That could then be contrasted against the expense of other demands, including higher pay, and put in context of the total percent increase in labor costs. Yet I haven\u2019t found anything explaining these costs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Can anyone steelman management's current position about the unreasonableness of the unions current demands?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10802478,
+    "thread_children": 0
+  },
+  {
+    "post_id": 70864744,
     "title": "The mythical martyrdom of Mitt Romney",
     "canonical_url": "https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8768812,
     "top_level": false,
     "date": "Sep 01 2022 07:05",
@@ -1333,13 +2019,20 @@ window._comments = [
         }
       ],
       []
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8768623,
+    "parent_children": null,
+    "thread_id": 8768623,
+    "thread_children": 0
   },
   {
+    "post_id": 70864744,
     "title": "The mythical martyrdom of Mitt Romney",
     "canonical_url": "https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8768716,
     "top_level": true,
     "date": "Sep 01 2022 06:57",
@@ -1380,13 +2073,20 @@ window._comments = [
           "value": "https://www.ssa.gov/oact/TR/2022/II_D_project.html#105057"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8768716,
+    "thread_children": 0
   },
   {
+    "post_id": 67128817,
     "title": "Democrats' primary meddling is part of a bigger problem",
     "canonical_url": "https://www.slowboring.com/p/democrats-primary-meddling-is-part",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8241339,
     "top_level": true,
     "date": "Aug 08 2022 06:49",
@@ -1411,13 +2111,20 @@ window._comments = [
           "value": "Further, some voters will just lean right regardless and they\u2019ll increasingly internalize the extremist Republican political views as extremism becomes increasingly normalized throughout the Republican party. In contrast, if some moderate Republicans continue to flourish then their supporters can continue to hold pre-Trump Republican political views."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8241339,
+    "thread_children": 0
   },
   {
+    "post_id": 82320227,
     "title": "There\u2019s no substitute for being right all the time about everything ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-substitute-for-being-right",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10288516,
     "top_level": false,
     "date": "Nov 07 2022 07:19",
@@ -1452,13 +2159,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/Peter_R._Orszag#Office_of_Management_and_Budget"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10287938,
+    "parent_children": null,
+    "thread_id": 10287836,
+    "thread_children": 0
   },
   {
+    "post_id": 82320227,
     "title": "There\u2019s no substitute for being right all the time about everything ",
     "canonical_url": "https://www.slowboring.com/p/theres-no-substitute-for-being-right",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10288251,
     "top_level": false,
     "date": "Nov 07 2022 07:02",
@@ -1499,13 +2213,20 @@ window._comments = [
           "value": "I particularly recall there being a concern that going big on stimulus could jeopardize the Obama administration's ambitious healthcare plans. The ARRA was already quite contentious and partisan; not getting a single Republican House vote and only getting 3 Republican Senators, despite the inclusion of many tax cuts to woo Republicans."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10287744,
+    "parent_children": null,
+    "thread_id": 10287744,
+    "thread_children": 0
   },
   {
+    "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9077573,
     "top_level": false,
     "date": "Sep 15 2022 11:13",
@@ -1530,13 +2251,20 @@ window._comments = [
           "value": "The cost might be small and manageable, but the only benefit is saving some cash. And Google is drowning in cash from their search ad monopoly. So no one is currently incentivized to address this problem and coasters continue to provide some minimal value while collecting massive comp."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9076050,
+    "parent_children": null,
+    "thread_id": 9072233,
+    "thread_children": 0
   },
   {
+    "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9072809,
     "top_level": false,
     "date": "Sep 15 2022 07:16",
@@ -1561,13 +2289,20 @@ window._comments = [
           "value": "Looking at the historical performance of many comments allows one to calibrate a prediction function that estimates the final performance of a comment using the number of early likes. And this algorithm can therefore rank comments based on their estimated final score."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 9072391,
+    "parent_children": null,
+    "thread_id": 9072391,
+    "thread_children": 0
   },
   {
+    "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9077985,
     "top_level": false,
     "date": "Sep 15 2022 11:29",
@@ -1580,13 +2315,20 @@ window._comments = [
           "value": "I agree. Particularly, I think downvoting prevents users from submitting short and poorly written disagreements by providing an alternative way to disagree. On Substack (and Twitter), the best you can hope for is that someone else has already written a decent rebuttal so that you can like the response. I.e., ratio the original comment/tweet."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9076899,
+    "parent_children": null,
+    "thread_id": 9072391,
+    "thread_children": 0
   },
   {
+    "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9072431,
     "top_level": true,
     "date": "Sep 15 2022 06:39",
@@ -1617,13 +2359,20 @@ window._comments = [
           "value": "Personally, I\u2019d like to see all defined benefit pensions being outlawed since they have such perverse incentives to incur future liabilities without sufficient current outlays to fund them. Even when attempting to prefund liabilities with a pension fund there is always a temptation to assume overly optimistic returns from the investments in this fund. Since no one can predict the future of financial markets (nor the costs of future benefits like healthcare), governments can\u2019t avoid the risk of these liabilities exceeding assets."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9072431,
+    "thread_children": 0
   },
   {
+    "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9072562,
     "top_level": true,
     "date": "Sep 15 2022 06:54",
@@ -1660,13 +2409,20 @@ window._comments = [
           "value": "I do agree that some teachers are better than others. And further agree that we should pay a premium for that. Yet I\u2019m not convinced we need to lure workers from other potential higher-paying career paths."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9072562,
+    "thread_children": 0
   },
   {
+    "post_id": 70469724,
     "title": "The student debt crisis as a macroeconomic phenomenon ",
     "canonical_url": "https://www.slowboring.com/p/the-student-debt-crisis-as-a-macroeconomic",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8721354,
     "top_level": false,
     "date": "Aug 30 2022 07:45",
@@ -1689,13 +2445,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/List_of_countries_by_tertiary_education_attainment"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8720969,
+    "parent_children": null,
+    "thread_id": 8720564,
+    "thread_children": 0
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8703628,
     "top_level": false,
     "date": "Aug 29 2022 10:39",
@@ -1714,13 +2477,20 @@ window._comments = [
           "value": "No such analogy exists for the internet and it\u2019s thereby going to be harder for liberal governments to justify regulating content platforms. Particularly for the US with the first amendment. "
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8702176,
+    "parent_children": null,
+    "thread_id": 8699487,
+    "thread_children": 0
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8699550,
     "top_level": true,
     "date": "Aug 29 2022 07:29",
@@ -1752,13 +2522,20 @@ window._comments = [
         }
       ],
       []
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8699550,
+    "thread_children": 0
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8699462,
     "top_level": true,
     "date": "Aug 29 2022 07:23",
@@ -1789,13 +2566,20 @@ window._comments = [
           "value": "*edited to add quoted text"
         }
       ]
-    ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8699462,
+    "thread_children": 2
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8699869,
     "top_level": false,
     "date": "Aug 29 2022 07:52",
@@ -1808,13 +2592,20 @@ window._comments = [
           "value": "I disagree that it is hard for people to resist buying snacks or booze ahead of time for future consumption. Instead, I would say that those people rationally think that the benefits of consuming those indulgences outweighs the costs. They might not have thought much about it, but the fact that they consistently buy these goods ahead of time suggests that the planning part of their mind finds snacks and booze to be a rational choice."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 8699618,
+    "parent_children": null,
+    "thread_id": 8699462,
+    "thread_children": 2
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8703750,
     "top_level": false,
     "date": "Aug 29 2022 10:43",
@@ -1833,13 +2624,20 @@ window._comments = [
           "value": "And there's a discount of between 5% to 15% for goods order through this service. But personally, I'd pay a premium for the service since it means I don't have to think about this stuff."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8702106,
+    "parent_children": null,
+    "thread_id": 8699462,
+    "thread_children": 2
   },
   {
+    "post_id": 70330779,
     "title": "The case against Meta",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-meta",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8699632,
     "top_level": false,
     "date": "Aug 29 2022 07:34",
@@ -1852,13 +2650,20 @@ window._comments = [
           "value": "Agreed. And I think there is a potential social media market disruption in terms of paid social media. Personally, I\u2019m finding the comment section of my paid substack subscriptions a superior form of social media and it\u2019s taking market share from my use of Twitter and reddit. (I elaborated on this idea in another comment on this article.)"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8699198,
+    "parent_children": null,
+    "thread_id": 8699198,
+    "thread_children": 0
   },
   {
+    "post_id": 72553392,
     "title": "Sunday Thread",
     "canonical_url": "https://www.slowboring.com/p/sunday-thread-14c",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9142978,
     "top_level": false,
     "date": "Sep 18 2022 20:52",
@@ -1904,13 +2709,20 @@ window._comments = [
         }
       ],
       []
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9135013,
+    "parent_children": null,
+    "thread_id": 9135013,
+    "thread_children": 0
   },
   {
+    "post_id": 47491031,
     "title": "Chuck Schumer should call the Baileys",
     "canonical_url": "https://www.slowboring.com/p/chuck-schumer-should-call-the-baileys",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4675823,
     "top_level": true,
     "date": "Jan 25 2022 10:51",
@@ -1935,13 +2747,20 @@ window._comments = [
           "value": "Historically, party leadership had much more control over the messaging. So while each party may have still contained some extremists, the extremist views had limited reach. The party could be focused on a strategic portion of the overton window knowing that extremists would naturally gravitate towards the more moderate party on their side. Party leadership chiefly concerned themselves with swing voters who were sympathetic to some issues on each side of the partisan divide."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 4675823,
+    "thread_children": 0
   },
   {
+    "post_id": 82923971,
     "title": "Election Day Thread",
     "canonical_url": "https://www.slowboring.com/p/election-day-thread",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10332670,
     "top_level": false,
     "date": "Nov 08 2022 19:34",
@@ -1960,13 +2779,20 @@ window._comments = [
           "value": "In contrast, when I moved back to Atlanta, GA in 2019, I made a next day appointment at the DMV. Was out in 15 minutes."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10331203,
+    "parent_children": null,
+    "thread_id": 10330309,
+    "thread_children": 0
   },
   {
+    "post_id": 61556524,
     "title": "America needs supply-side reform",
     "canonical_url": "https://www.slowboring.com/p/america-needs-supply-side-reform",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7450238,
     "top_level": true,
     "date": "Jun 30 2022 06:32",
@@ -2024,13 +2850,20 @@ window._comments = [
         }
       ],
       []
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7450238,
+    "thread_children": 0
   },
   {
+    "post_id": 42751863,
     "title": "Dave Chappelle and the still-doomed politics of shunning ",
     "canonical_url": "https://www.slowboring.com/p/dave-chappelle-and-the-still-doomed",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3305267,
     "top_level": false,
     "date": "Oct 20 2021 13:28",
@@ -2055,13 +2888,20 @@ window._comments = [
           "value": "Netflix doesn\u2019t just want to cater to a small slice of global culture, but instead wants to be the go to streaming platform for everyone. They will always have some content that offends somebody; it\u2019s possible that most people could find a single Netflix title that offends them in some way due Netflix\u2019s massive library. Hence, Netflix need to resist mob censorship at all costs in order to preserve their business model."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3301076,
+    "parent_children": null,
+    "thread_id": 3301076,
+    "thread_children": 0
   },
   {
+    "post_id": 69515164,
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8567846,
     "top_level": true,
     "date": "Aug 23 2022 06:55",
@@ -2156,13 +2996,20 @@ window._comments = [
           "value": "https://www.irs.gov/charities-non-profits/correspondence-audit"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8567846,
+    "thread_children": 0
   },
   {
+    "post_id": 69515164,
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8568062,
     "top_level": false,
     "date": "Aug 23 2022 07:15",
@@ -2187,13 +3034,20 @@ window._comments = [
           "value": "Most rich people have highly-tractable income and have their finances managed by highly-informed accountants and lawyers. While the rich engage in substantial amounts of legal tax avoidance, I doubt few of their hired financial professionals are willing to help them engage in criminal tax evasion."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 8567947,
+    "parent_children": null,
+    "thread_id": 8567791,
+    "thread_children": 0
   },
   {
+    "post_id": 69515164,
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8568445,
     "top_level": false,
     "date": "Aug 23 2022 07:48",
@@ -2218,13 +3072,20 @@ window._comments = [
           "value": "You mention \u201cdodgy tax shelters\u201d, but there are legal tax shelters and they require a substantial amount of registration and reporting. E.g., a trust is a legal entity that must conform to various federal and state law, including tax law. The structure, beneficiaries and contributors are all registered with the government and all financial transactions are subject to reporting. There just isn\u2019t any shadowy area to hide anything."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8568103,
+    "parent_children": null,
+    "thread_id": 8567791,
+    "thread_children": 0
   },
   {
+    "post_id": 69515164,
     "title": "Funding the tax police is very good ",
     "canonical_url": "https://www.slowboring.com/p/funding-the-tax-police-is-very-good",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8567960,
     "top_level": false,
     "date": "Aug 23 2022 07:05",
@@ -2237,13 +3098,20 @@ window._comments = [
           "value": "I don't think it's a fair comparison to include the employer portion of payroll taxes in compensation when determining the effective tax rate of small business owners. That is just the cost of employing people, including oneself, that are paid by all businesses. Might as well count the employer contribution of payroll taxes as both income and taxes to all employees to make a libertarian argument that all workers are being overtaxed."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8567733,
+    "parent_children": null,
+    "thread_id": 8567733,
+    "thread_children": 0
   },
   {
+    "post_id": 79379632,
     "title": "House of the mailbag ",
     "canonical_url": "https://www.slowboring.com/p/house-of-the-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9886124,
     "top_level": true,
     "date": "Oct 21 2022 06:36",
@@ -2290,13 +3158,20 @@ window._comments = [
           "value": "> The difference in the headline inflation rates narrowed to a large but not huge 1.7pp as the spike in European natural gas prices has raised their inflation rate much more than anything has in the US."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9886124,
+    "thread_children": 0
   },
   {
+    "post_id": 62988475,
     "title": "Pro-life austerity: good luck with that",
     "canonical_url": "https://www.slowboring.com/p/pro-life-austerity-good-luck-with",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7690428,
     "top_level": false,
     "date": "Jul 12 2022 10:25",
@@ -2319,13 +3194,20 @@ window._comments = [
           "value": "There have been 21 unique authors (or author pairs when co-authors). Most have only published once so I included a link to the most recent article for each author(s)."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7690017,
+    "parent_children": null,
+    "thread_id": 7686793,
+    "thread_children": 0
   },
   {
+    "post_id": 52832260,
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6266728,
     "top_level": true,
     "date": "Apr 27 2022 07:10",
@@ -2344,13 +3226,20 @@ window._comments = [
           "value": "In many ways Elon may shitposting us to a greener future where conservatives embrace EVs to stick it to the libs and liberals accept EVs to address climate change with only slight apprehension towards Elon. The far left will do their part by demonizing EVs as an exploitative capitalist tool that allows us to address climate change without a proper communist revolution."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6266728,
+    "thread_children": 0
   },
   {
+    "post_id": 52832260,
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6267041,
     "top_level": true,
     "date": "Apr 27 2022 07:37",
@@ -2409,13 +3298,20 @@ window._comments = [
           "value": "https://stratechery.com/2022/back-to-the-future-of-twitter/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6267041,
+    "thread_children": 0
   },
   {
+    "post_id": 52832260,
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6274232,
     "top_level": false,
     "date": "Apr 27 2022 13:40",
@@ -2440,13 +3336,20 @@ window._comments = [
           "value": "Hence, I recommend everyone always use their real name so they're not tempted to say something that would embarrass them should it be tied back to their real identity."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6272846,
+    "parent_children": null,
+    "thread_id": 6267178,
+    "thread_children": 0
   },
   {
+    "post_id": 52832260,
     "title": "Twenty-three theses on Elon Musk and Twitter",
     "canonical_url": "https://www.slowboring.com/p/twenty-three-theses-on-elon-musk",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6266613,
     "top_level": false,
     "date": "Apr 27 2022 06:59",
@@ -2459,13 +3362,20 @@ window._comments = [
           "value": "I think free speech can be generalized to a principle that goes beyond the government and the first amendment. E.g., the concerns around books being banned from public libraries as well as books being dropped by publishers or distributors. Maybe we need a new term for this principle, but it certainly is something that many people care about and for which there is a heated debate."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6266345,
+    "parent_children": null,
+    "thread_id": 6266345,
+    "thread_children": 0
   },
   {
+    "post_id": 46339666,
     "title": "\"Don't Look Up\" and the cinema of existential risk",
     "canonical_url": "https://www.slowboring.com/p/dont-look-up",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4289708,
     "top_level": false,
     "date": "Jan 04 2022 06:47",
@@ -2496,13 +3406,20 @@ window._comments = [
           "value": "Unfortunately it wouldn\u2019t surprise me to see these issues increasingly linked in the future. You can see this with the proposed supplement tax credit for EVs produced by union labor. Additional linking in future legislation could greatly impede progress of addressing climate change. Yet for many supposed climate change activists this would be acceptable, possibly even preferable, to an alternative where capitalists profit off accelerated progress of addressing climate change."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 4289519,
+    "parent_children": null,
+    "thread_id": 4289519,
+    "thread_children": 0
   },
   {
+    "post_id": 62667855,
     "title": "Tackling America's weirdly short life expectancy should be a priority ",
     "canonical_url": "https://www.slowboring.com/p/tackling-americas-weirdly-short-life",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7979665,
     "top_level": false,
     "date": "Jul 26 2022 10:00",
@@ -2531,13 +3448,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/Hispanic_paradox"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7976713,
+    "parent_children": null,
+    "thread_id": 7976713,
+    "thread_children": 0
   },
   {
+    "post_id": 70000534,
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8646359,
     "top_level": false,
     "date": "Aug 26 2022 10:50",
@@ -2556,13 +3480,20 @@ window._comments = [
           "value": "I still find Taibbi\u2019s writing uninteresting and potentially harmful to Democrats. Yet another thing he has in common with the Bernie bros."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8645659,
+    "parent_children": null,
+    "thread_id": 8642362,
+    "thread_children": 0
   },
   {
+    "post_id": 70000534,
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8646664,
     "top_level": false,
     "date": "Aug 26 2022 11:00",
@@ -2587,13 +3518,20 @@ window._comments = [
           "value": "*edit: fixed grammar error"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8643646,
+    "parent_children": null,
+    "thread_id": 8641603,
+    "thread_children": 0
   },
   {
+    "post_id": 70000534,
     "title": "Last week of summer mailbag!",
     "canonical_url": "https://www.slowboring.com/p/last-week-of-summer-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8647159,
     "top_level": false,
     "date": "Aug 26 2022 11:17",
@@ -2628,13 +3566,20 @@ window._comments = [
           "value": "https://www.thirteen.org/wnet/supremecourt/antebellum/history2.html"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8646472,
+    "parent_children": null,
+    "thread_id": 8643447,
+    "thread_children": 0
   },
   {
+    "post_id": 58601559,
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7099978,
     "top_level": true,
     "date": "Jun 13 2022 07:05",
@@ -2653,13 +3598,20 @@ window._comments = [
           "value": "At the end of the day, we need to accept that activists of all stripes are first and foremost focused on fundraising. I actually think there is a productive line of attack against counterproductive lefits NGOs based around this truth. Rather than attacking supply-side climate activists for their poor approach to limiting emissions, we should instead praise them for their innovative and effective marketing campaign. We should compare and contrast their marketing strategies through a capitalistic lens no different than how McKinsey would critique Coke\u2019s branding. We should offer advice on how they can create a better product to sell to their donors and suggest books on corporate marketing."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7099978,
+    "thread_children": 0
   },
   {
+    "post_id": 58601559,
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7099782,
     "top_level": true,
     "date": "Jun 13 2022 06:37",
@@ -2700,13 +3652,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/america-needs-an-actual-plan-to-boost?s=r"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7099782,
+    "thread_children": 0
   },
   {
+    "post_id": 58601559,
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7099844,
     "top_level": false,
     "date": "Jun 13 2022 06:45",
@@ -2725,13 +3684,20 @@ window._comments = [
           "value": "And there still are distributional issues beyond the regressive tax. Many people living in rural areas that rely on a lot of driving will be paying more in carbon taxes than they receive in dividends. Conversely, city dwellers that take public transit will get more in dividends than they pay through carbon taxes. Yes, that is what we want to encourage less consumption of fossil fuels. Yet many voters will find this incredibly unfair."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7099718,
+    "parent_children": null,
+    "thread_id": 7099718,
+    "thread_children": 0
   },
   {
+    "post_id": 58601559,
     "title": "The case against restricting domestic fossil fuel supply ",
     "canonical_url": "https://www.slowboring.com/p/the-case-against-restricting-domestic",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7102743,
     "top_level": false,
     "date": "Jun 13 2022 09:56",
@@ -2772,13 +3738,20 @@ window._comments = [
           "value": "* It\u2019s far more difficult to quantify wealth than income and there are plenty of games that accountants and lawyers can play to minimize or obfuscate the dollar value of wealth."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7099992,
+    "parent_children": null,
+    "thread_id": 7099992,
+    "thread_children": 0
   },
   {
+    "post_id": 81247288,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-839",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10183203,
     "top_level": true,
     "date": "Nov 02 2022 18:04",
@@ -2837,13 +3810,20 @@ window._comments = [
           "value": "I'll admit that the fact check is correct and does add some context. I guess the original tweet could mislead one that SS was increased through some action Biden took. Also seems like an overreaction to delete the tweet since that seems to confirm some embarrassment. "
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10183203,
+    "thread_children": 0
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10138366,
     "top_level": true,
     "date": "Nov 01 2022 07:14",
@@ -2898,13 +3878,20 @@ window._comments = [
           "value": "So in summary, engineers are expensive to hire, possess valuable differential tribal knowledge, are almost always a positive contribution to the team, and constantly leaving anyways. So there\u2019s just no reason to manage out low performers unless the firm runs into cash flow issues."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10138366,
+    "thread_children": 1
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10141065,
     "top_level": false,
     "date": "Nov 01 2022 09:45",
@@ -2935,13 +3922,20 @@ window._comments = [
           "value": "In merging into the eng org, the OGs adopted its tech culture for compatability, although they could certainly joke about some of the absurdities. Yet I imagine they all still have their hard-learned lessons, and it\u2019s not surprising that their top manager eventually became the VP of engineering a few years post-merge. I imagine that eng org is now particularly well positioned as we exit the current tech boom and cost/benefit trade offs matter again."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10139992,
+    "parent_children": null,
+    "thread_id": 10138366,
+    "thread_children": 1
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10137853,
     "top_level": true,
     "date": "Nov 01 2022 06:23",
@@ -3000,13 +3994,20 @@ window._comments = [
           "value": "https://stratechery.com/2022/back-to-the-future-of-twitter/"
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10137853,
+    "thread_children": 1
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10143181,
     "top_level": false,
     "date": "Nov 01 2022 11:12",
@@ -3019,13 +4020,20 @@ window._comments = [
           "value": "In Thompson's proposal, Twitter just charges for API usage and let's the organization providing the client figure out monetization. The third party clients can show ads (possibly using services provided by Twitter), they can charge a subscription fee, or they can pioneer a new monetization model."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10139578,
+    "parent_children": null,
+    "thread_id": 10137853,
+    "thread_children": 1
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10138003,
     "top_level": true,
     "date": "Nov 01 2022 06:39",
@@ -3054,13 +4062,20 @@ window._comments = [
           "value": "https://twitter.com/BurryArchive"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10138003,
+    "thread_children": 0
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10148881,
     "top_level": false,
     "date": "Nov 01 2022 14:36",
@@ -3073,13 +4088,20 @@ window._comments = [
           "value": "In Europe the highest tax brackets start at not particularly high income. E.g., the UK's highest tax bracket of 45% starts at  \u00a3150k. And 40% starts at \u00a350.2k. So it's not really the rich shouldering the tax burden as much as everyone middle class and above paying for the welfare state."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10147697,
+    "parent_children": null,
+    "thread_id": 10138944,
+    "thread_children": 0
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10138881,
     "top_level": true,
     "date": "Nov 01 2022 07:52",
@@ -3104,13 +4126,20 @@ window._comments = [
           "value": "Although he also has a biased perspective as arguably the top power user. Elon\u2019s ideal user experience may be quite different from 99.999% of users. The things that improve his subjective enjoyment of Twitter may degrade everyone else\u2019s experience."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10138881,
+    "thread_children": 0
   },
   {
+    "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10138753,
     "top_level": true,
     "date": "Nov 01 2022 07:44",
@@ -3141,13 +4170,20 @@ window._comments = [
           "value": "Yet as a private company Twitter could better weather the storm. There wouldn\u2019t be public investors dumping the stock or demanding a change in management. While ad revenue would initially decrease, marketers would eventually reevaluate the value of an ad impression with the knowledge that fewer ads are being shown to bots. We\u2019d expect their ad analytics to show higher ROI on ad impressions since fewer are wasted on bots that will never buy a product. Over time, marketers would likely be willing to pay more for each impression and revenue would recover."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10138753,
+    "thread_children": 0
   },
   {
+    "post_id": 69004628,
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8493765,
     "top_level": false,
     "date": "Aug 19 2022 10:24",
@@ -3172,13 +4208,20 @@ window._comments = [
           "value": "Yet, I personally don\u2019t find this to be a particularly concerning outcome. Should my future self find themselves in a state of mental and physical dimishment where they can be convinced to accept euthanasia rather than lobby for better options then I find that an acceptable outcome. At that point I\u2019d be quite far gone and couldn\u2019t properly contemplate the tradeoffs. I\u2019d much prefer that early ending than the alternative of possibly being kept alive in a diminished state as long as possible; particularly so if it comes at great social cost."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8489664,
+    "parent_children": null,
+    "thread_id": 8489664,
+    "thread_children": 0
   },
   {
+    "post_id": 69004628,
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8494349,
     "top_level": false,
     "date": "Aug 19 2022 10:47",
@@ -3209,13 +4252,20 @@ window._comments = [
           "value": "It would be challenging for a tech firm to provide part time roles in my opinion, particularly because so much time is already spent keeping up to speed on what is going on. Yet I bet there\u2019s a lot of labor cost savings available if a firm can figure it out. I bet there\u2019d be a lot of interest in half-time roles where the tech worker would take far less than half pay. E.g., rather than $400k total comp for a full time role, the half time worker might accept $100k or less."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8490827,
+    "parent_children": null,
+    "thread_id": 8490827,
+    "thread_children": 0
   },
   {
+    "post_id": 69004628,
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8494792,
     "top_level": false,
     "date": "Aug 19 2022 11:03",
@@ -3234,13 +4284,20 @@ window._comments = [
           "value": "Once Trump is out of the picture, I have no clue how the GOP will evolve. And not only could he likely end up in jail soon, he\u2019s also an obese geriatric so he could just keel over any day."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8490928,
+    "parent_children": null,
+    "thread_id": 8490928,
+    "thread_children": 0
   },
   {
+    "post_id": 60336780,
     "title": "Housing inflation is higher than the Fed thinks \u2014 but already falling",
     "canonical_url": "https://www.slowboring.com/p/housing-inflation-is-higher-than",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7303402,
     "top_level": true,
     "date": "Jun 23 2022 07:08",
@@ -3303,13 +4360,20 @@ window._comments = [
           "value": "https://www.richmondfed.org/research/national_economy/macro_minute/2022/mm_05_24_22"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7303402,
+    "thread_children": 0
   },
   {
+    "post_id": 60336780,
     "title": "Housing inflation is higher than the Fed thinks \u2014 but already falling",
     "canonical_url": "https://www.slowboring.com/p/housing-inflation-is-higher-than",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7303414,
     "top_level": false,
     "date": "Jun 23 2022 07:09",
@@ -3326,13 +4390,212 @@ window._comments = [
           "value": "https://www.slowboring.com/p/the-case-for-ngdp-targeting"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7303104,
+    "parent_children": null,
+    "thread_id": 7303104,
+    "thread_children": 0
   },
   {
+    "post_id": 87551177,
+    "title": "The climate left's plans for the next two years are bad",
+    "canonical_url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10837150,
+    "top_level": true,
+    "date": "Dec 01 2022 06:54",
+    "likes": 51,
+    "timestamp": 1669895689,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I\u2019m haunted by the specter of what\u2019s happened over the past decade with homelessness in Los Angeles. \u2026 There\u2019s money for everything \u2014 but what will actually get built? There are still big questions on the regulatory side."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Exactly! This should be the nexus of chief concern from those of us that care about climate change. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d love it if the energy and outrage currently aimed at blocking pipelines and oil leases could be redirected to build green energy infrastructure."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Every time a wind farm is blocked or delayed due to some zoning obstruction, there should be protests and outrage throughout twitter and progressive media. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Local politicians should be named and shamed as if they were an Exxon CEO overseeing an oil spill. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* People and organizations lobbying those politicians for obstructions should be branded as shills funded by the fossil fuel industry. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* We should \u201ccancel\u201d them with the same rage we\u2019d apply had we learned they were strident Trump supporters."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10837150,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87551177,
+    "title": "The climate left's plans for the next two years are bad",
+    "canonical_url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10836948,
+    "top_level": true,
+    "date": "Dec 01 2022 06:35",
+    "likes": 21,
+    "timestamp": 1669894515,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Sarah Bloom Raskin wrote an op-ed supported by major climate groups calling on the Fed to deny normal emergency support to the fossil fuel sector in hopes of bankrupting the industry"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I do think there are some interesting academic exercises in exploring the interaction of finance and climate. E.g., as we progress through the green transition, could fossil fuel infrastructure become stranded assets that no longer generate sufficient cash flow to pay off their debt financing? And could the resulting wave of defaults within the fossil fuel industry create stress on systemically important banks and other financial institutions?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet in practice I don\u2019t think there is currently anything actionable from such academic work. Therefore I believe that the Raskin op-ed was academic malpractice in suggesting that there was. For that reason, Biden should not have nominated her to the Fed Board of Governors. Thankfully Manchin saved us yet again."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I think there is a more general problem of searching for the \u201cone clever\u201d trick to achieve action on climate change when conventional politics fails. See also ESG investing. But for a problem as massive as climate change, there are no clever tricks. We instead need good policy that works within our current political reality; that includes considerations of constraints and tradeoffs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, we need to accept that the mass majority of voters care a lot about the price of energy. Even many Democratic voters who care about climate change would reject even a modest increase in the price of gasoline to reduce carbon emissions. There is no clever trick to work around that constraint. So if we are going to address climate change then our policies need to work within that political reality."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10836948,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87551177,
+    "title": "The climate left's plans for the next two years are bad",
+    "canonical_url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10837284,
+    "top_level": false,
+    "date": "Dec 01 2022 07:07",
+    "likes": 4,
+    "timestamp": 1669896475,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, to an extent, and that needs to be balanced against voters\u2019 other more pressing concerns. From Bloomberg's Nov 4th article, \"Climate Change Eclipsed by Inflation, Crime, Abortion in US Midterm Races\". [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cWill it be an electoral force in the 2022 midterms? No,\u201d says Danielle Deiseroth, lead climate strategist at the progressive research firm Data for Progress. \u201cThe data shows that, and it\u2019s just the fact of where we are right now.\u201d Instead, abortion, inflation and public safety are among voters\u2019 top priorities going into election day on Nov. 8. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Other recent polls show climate change is not a top voter priority. While Democratic voters report caring strongly about the issue, they cited it as their second \u201cextremely important\u201d issue behind abortion in a recent Gallup poll, and their fifth \u201cvery important\u201d issue behind the future of democracy, health care, abortion, and Supreme Court nominees in an Oct. 16-20 Pew Research Center poll. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I think there is a lot of truth to the narrative that aggressive action on climate change\u2014including prioritization over other issues\u2014is more of a minority, elitist position. Just a lot easier to make climate our number one priority when earning a top 5% income in a stable career."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-11-04/climate-change-eclipsed-by-inflation-crime-abortion-in-us-midterm-races"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10836834,
+    "parent_children": null,
+    "thread_id": 10836834,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87551177,
+    "title": "The climate left's plans for the next two years are bad",
+    "canonical_url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10837314,
+    "top_level": false,
+    "date": "Dec 01 2022 07:10",
+    "likes": 16,
+    "timestamp": 1669896655,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! Tomorrow, if someone repeats this crime, then someone else should simply respond with \"ratio\". The  likes will demonstrate our displeasure."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10836811,
+    "parent_children": null,
+    "thread_id": 10836773,
+    "thread_children": 0
+  },
+  {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6399846,
     "top_level": true,
     "date": "May 04 2022 17:07",
@@ -3391,13 +4654,20 @@ window._comments = [
           "value": "https://github.com/matthagy/slowboring_comment_analysis"
         }
       ]
-    ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6402326,
     "top_level": false,
     "date": "May 04 2022 19:13",
@@ -3410,13 +4680,20 @@ window._comments = [
           "value": "It is David R., as he correctly guessed in another comment in this thread."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6402251,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6402296,
     "top_level": false,
     "date": "May 04 2022 19:11",
@@ -3429,13 +4706,20 @@ window._comments = [
           "value": "Yep, you are the top contributor of comments for this time window."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 6402115,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6402949,
     "top_level": false,
     "date": "May 04 2022 19:55",
@@ -3448,13 +4732,20 @@ window._comments = [
           "value": "You're #5 for this time period with 644 comments."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6402792,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6403134,
     "top_level": false,
     "date": "May 04 2022 20:08",
@@ -3467,13 +4758,20 @@ window._comments = [
           "value": "Yep, using this approach one can access all attributes of a comment, including content. But one can only access posts and comments for substacks that they are subscribed to. So comments on a private post can only be accessed by paying subscribers."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6403067,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6402753,
     "top_level": false,
     "date": "May 04 2022 19:43",
@@ -3536,13 +4834,20 @@ window._comments = [
           "value": "At some point I\u2019ll put together a small Python library for using these APIs to access substack content programmatically."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6402552,
+    "parent_children": null,
+    "thread_id": 6399846,
+    "thread_children": 5
   },
   {
+    "post_id": 57982533,
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7404712,
     "top_level": true,
     "date": "Jun 28 2022 06:24",
@@ -3597,13 +4902,20 @@ window._comments = [
           "value": "*Edited to fix typo"
         }
       ]
-    ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7404712,
+    "thread_children": 2
   },
   {
+    "post_id": 57982533,
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7404808,
     "top_level": false,
     "date": "Jun 28 2022 06:39",
@@ -3628,13 +4940,20 @@ window._comments = [
           "value": "Anyone aware of good resources for learning about the worldview of young conservatives?"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7404712,
+    "parent_children": 2,
+    "thread_id": 7404712,
+    "thread_children": 2
   },
   {
+    "post_id": 57982533,
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7408589,
     "top_level": false,
     "date": "Jun 28 2022 10:15",
@@ -3775,13 +5094,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/Probit"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7404872,
+    "parent_children": null,
+    "thread_id": 7404712,
+    "thread_children": 2
   },
   {
+    "post_id": 57982533,
     "title": "Most Americans are moderates",
     "canonical_url": "https://www.slowboring.com/p/most-americans-are-moderates",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7404988,
     "top_level": false,
     "date": "Jun 28 2022 07:01",
@@ -3804,13 +5130,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/the-myth-of-the-overton-window"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7404746,
+    "parent_children": null,
+    "thread_id": 7404746,
+    "thread_children": 0
   },
   {
+    "post_id": 45073472,
     "title": "A boring post about how monetary policy works",
     "canonical_url": "https://www.slowboring.com/p/monetary-mechanism",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3949338,
     "top_level": true,
     "date": "Dec 10 2021 07:46",
@@ -3865,13 +5198,20 @@ window._comments = [
           "value": "I also think that it is noteworthy that the loosening of monetary policy induces a greater demand for riskier financial assets. There\u2019s a lot that we could all discuss around the pros and cons of increased speculation, but I\u2019ll end this long comment without adding my thoughts on that."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 3949338,
+    "thread_children": 0
   },
   {
+    "post_id": 43776715,
     "title": "European countries have really high taxes",
     "canonical_url": "https://www.slowboring.com/p/european-countries-have-really-high",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3592608,
     "top_level": false,
     "date": "Nov 12 2021 07:32",
@@ -3924,13 +5264,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/List_of_countries_by_government_spending_as_percentage_of_GDP"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3592377,
+    "parent_children": null,
+    "thread_id": 3592377,
+    "thread_children": 0
   },
   {
+    "post_id": 54303445,
     "title": "Multiverse of Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-lamb",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6550309,
     "top_level": false,
     "date": "May 13 2022 07:37",
@@ -3965,13 +5312,20 @@ window._comments = [
           "value": "http://www.tinyrevolution.com/mt/archives/001705.html"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6549600,
+    "parent_children": null,
+    "thread_id": 6549600,
+    "thread_children": 0
   },
   {
+    "post_id": 54303445,
     "title": "Multiverse of Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-lamb",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6550101,
     "top_level": false,
     "date": "May 13 2022 07:24",
@@ -3990,13 +5344,20 @@ window._comments = [
           "value": "Although similar to baseball cards and other collectables, I don\u2019t think NFTs are a prudent investment. Like all things crypto, there\u2019s a ton of hype and speculation. In the long term, I wouldn\u2019t expect NFTs to substantially increase the financial value (i.e., market cap) of all collectables. They might just pull money away from other collectables and modestly grow the market size of collectables."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6549704,
+    "parent_children": null,
+    "thread_id": 6549704,
+    "thread_children": 0
   },
   {
+    "post_id": 60820577,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3e6",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7421562,
     "top_level": false,
     "date": "Jun 28 2022 20:53",
@@ -4015,13 +5376,20 @@ window._comments = [
           "value": "I mainly think of this analysis as just being a curiosity about how an extremely simple model identifies terms that are correlated with the number of likes on a comment. The model itself is incredibly inaccurate at predicting the number of likes that a given comment will receive based upon the comments text as it fails to capture any nuance about the message communicated by the text."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7421121,
+    "parent_children": null,
+    "thread_id": 7418400,
+    "thread_children": 0
   },
   {
+    "post_id": 62033902,
     "title": "The case for a gas tax increase",
     "canonical_url": "https://www.slowboring.com/p/the-case-for-a-gas-tax-increase",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7572247,
     "top_level": true,
     "date": "Jul 06 2022 06:37",
@@ -4072,13 +5440,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/news/articles/2022-07-05/russia-may-keep-nord-stream-gas-curbed-after-works-goldman-says"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7572247,
+    "thread_children": 0
   },
   {
+    "post_id": 58251621,
     "title": "When the \"culture war\" was about religion",
     "canonical_url": "https://www.slowboring.com/p/when-the-culture-war-was-about-religion",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7006538,
     "top_level": true,
     "date": "Jun 08 2022 07:41",
@@ -4123,13 +5498,20 @@ window._comments = [
           "value": "I\u2019m a little ashamed to admit that I contributed to the barrage of online atheism writing as an edgy atheist teenager circa 2000. I think many of us enjoyed belonging to what felt like a rebellious community with \u201csecret\u201d knowledge of how religion influenced the world. Rather ironically, I imagine this is similar to the experience that draws people to cults. I believe that our long-form writing served as a religious rite that helped us feel closer to the atheist community and more deeply committed to the beliefs."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7006538,
+    "thread_children": 0
   },
   {
+    "post_id": 58251621,
     "title": "When the \"culture war\" was about religion",
     "canonical_url": "https://www.slowboring.com/p/when-the-culture-war-was-about-religion",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7005703,
     "top_level": true,
     "date": "Jun 08 2022 06:21",
@@ -4228,13 +5610,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/Go_God_Go"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7005703,
+    "thread_children": 0
   },
   {
+    "post_id": 57553651,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-717",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6979127,
     "top_level": true,
     "date": "Jun 06 2022 17:42",
@@ -4297,13 +5686,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/news/articles/2022-06-04/yellen-wanted-biden-relief-plan-cut-by-a-third-biographer-says"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6979127,
+    "thread_children": 0
   },
   {
+    "post_id": 59518168,
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7280853,
     "top_level": true,
     "date": "Jun 22 2022 06:58",
@@ -4332,13 +5728,20 @@ window._comments = [
           "value": "https://www.nytimes.com/2022/05/31/opinion/ezra-klein-podcast-erika-bachiochi.html"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7280853,
+    "thread_children": 0
   },
   {
+    "post_id": 59518168,
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7280929,
     "top_level": false,
     "date": "Jun 22 2022 07:05",
@@ -4351,13 +5754,20 @@ window._comments = [
           "value": "But I would argue that truth is not a distinguishing feature of human communication. People can communicate ideas that just feel right to them without needing to ground their ideas in some concept of truth. That can even lead to internally inconsistent ideas. Just look at the millenniums of discussion and debates around religion that addresses questions with answers that could never be falsified."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7280774,
+    "parent_children": null,
+    "thread_id": 7280774,
+    "thread_children": 0
   },
   {
+    "post_id": 59518168,
     "title": "We're asking the wrong question about AI sentience",
     "canonical_url": "https://www.slowboring.com/p/were-asking-the-wrong-question-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7281163,
     "top_level": true,
     "date": "Jun 22 2022 07:25",
@@ -4394,13 +5804,20 @@ window._comments = [
           "value": "*Edit: Fixed mistake of \"electrically\" instead of \"electorally\""
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7281163,
+    "thread_children": 0
   },
   {
+    "post_id": 83534788,
     "title": "Saturday Thread",
     "canonical_url": "https://www.slowboring.com/p/saturday-thread-71d",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10424558,
     "top_level": true,
     "date": "Nov 12 2022 14:33",
@@ -4449,13 +5866,20 @@ window._comments = [
           "value": "https://open.spotify.com/episode/2E9PB0drior2a5qGyJALzj?si=0ae2cc266bf0493b"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10424558,
+    "thread_children": 0
   },
   {
+    "post_id": 45221732,
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3986824,
     "top_level": false,
     "date": "Dec 13 2021 06:53",
@@ -4480,13 +5904,20 @@ window._comments = [
           "value": "Yet I do believe any student interested in a mathematical understanding of statistics will need to first take calculus before beginning a \u201cproper\u201d stats course. It\u2019s just that so much of stats involves integration; i.e., area under the curve. Further, I don\u2019t think one can fully appreciate a lot of important math concepts, including p-values and statistical significance, until they have some background in calculus. Such a proper stats course could be deferred until college or possibly taught in senior year of high school to advanced students."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3986733,
+    "parent_children": null,
+    "thread_id": 3986733,
+    "thread_children": 0
   },
   {
+    "post_id": 45221732,
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3986762,
     "top_level": true,
     "date": "Dec 13 2021 06:40",
@@ -4511,13 +5942,20 @@ window._comments = [
           "value": "The result would be a positive feedback loop whereby CA\u2019s public education system increasingly becomes a hobby project for affluent voters to demonstrate their commitment to socially progressive values without any concern for educational outcomes of the marginalized students who are subjected to our fancifulness."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 3986762,
+    "thread_children": 0
   },
   {
+    "post_id": 45221732,
     "title": "California\u2019s math detracking initiative seems pretty misguided",
     "canonical_url": "https://www.slowboring.com/p/californias-math-detracking-initiative",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3986844,
     "top_level": false,
     "date": "Dec 13 2021 06:56",
@@ -4538,13 +5976,20 @@ window._comments = [
           "value": " . (Believe he generally does this for all posts)"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3986734,
+    "parent_children": null,
+    "thread_id": 3986734,
+    "thread_children": 0
   },
   {
+    "post_id": 68903073,
     "title": "Should Democrats talk more about their values?",
     "canonical_url": "https://www.slowboring.com/p/should-democrats-talk-more-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8468999,
     "top_level": false,
     "date": "Aug 18 2022 10:06",
@@ -4573,13 +6018,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 8468170,
+    "parent_children": null,
+    "thread_id": 8465892,
+    "thread_children": 0
   },
   {
+    "post_id": 68903073,
     "title": "Should Democrats talk more about their values?",
     "canonical_url": "https://www.slowboring.com/p/should-democrats-talk-more-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8469255,
     "top_level": false,
     "date": "Aug 18 2022 10:15",
@@ -4598,13 +6050,20 @@ window._comments = [
           "value": "And these innate differences aren\u2019t deterministically genetic. Due to random genetic shuffling, the genetic siblings of a single couple can still vary considerably. One child may receive a particularly favorable set of genetic gifts\u2014favorable within our current institutions and social/economic structures\u2014while their sibling may receive fewer. Yet neither sibling should be massively rewarded nor penalized in their dignity and quality of life due their luck of the \u201cGenetic Lottery\u201d."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8468999,
+    "parent_children": 1,
+    "thread_id": 8465892,
+    "thread_children": 0
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10192913,
     "top_level": false,
     "date": "Nov 03 2022 07:13",
@@ -4623,13 +6082,20 @@ window._comments = [
           "value": "The potential global financial meltdown when all market participants need to account for the possibility of the US Federal Government defaulting on any of its financial obligations are beyond imagination. Particularly with the massive US Treasury market being foundational to all global dollar financing. This isn\u2019t just a run-of-the-mill government shutdown when we fail to pass a budget; this is financial nuclear armageddon."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 10192715,
+    "parent_children": null,
+    "thread_id": 10192519,
+    "thread_children": 0
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10193329,
     "top_level": false,
     "date": "Nov 03 2022 07:42",
@@ -4648,13 +6114,20 @@ window._comments = [
           "value": "Yet I worry that even the heightened risk of this unimaginable event would cause market participants to start positioning for financial meltdown and thereby trigger that very event. E.g., some investors start selling treasuries, driving down their price, and that triggers further selling such that we end up in a doom loop where the entire Treasury market collapses."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10193034,
+    "parent_children": null,
+    "thread_id": 10192519,
+    "thread_children": 0
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10192609,
     "top_level": true,
     "date": "Nov 03 2022 06:48",
@@ -4691,13 +6164,20 @@ window._comments = [
           "value": "My guess is that our leadership believes that Republicans will always back down and we can avoid any potential partisan attack. Yet we can neutralize the potential for attacks and eliminate the tail risk of Republicans taking this game of chicken all the way to global financial annihilation."
         }
       ]
-    ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10192609,
+    "thread_children": 4
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10192709,
     "top_level": false,
     "date": "Nov 03 2022 06:58",
@@ -4716,13 +6196,20 @@ window._comments = [
           "value": "And we should\u2019ve done this in early 2021 and already eliminated the entire issue. Instead, we had something of a showdown that ended in McConnell letting us pass a small increase along partisan lines anyways."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10192622,
+    "parent_children": null,
+    "thread_id": 10192609,
+    "thread_children": 4
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10193042,
     "top_level": false,
     "date": "Nov 03 2022 07:21",
@@ -4747,13 +6234,20 @@ window._comments = [
           "value": "Who backs down in that hypothetical situation?"
         }
       ]
-    ]
+    ],
+    "total_children": 2,
+    "parent_id": 10192622,
+    "parent_children": null,
+    "thread_id": 10192609,
+    "thread_children": 4
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10193239,
     "top_level": false,
     "date": "Nov 03 2022 07:36",
@@ -4772,13 +6266,20 @@ window._comments = [
           "value": "There\u2019s just some tail risk that we end up in a situation where Republicans believe that they have the leverage and the legitimacy to take the game of chicken to the brink. And we don\u2019t even need to hit the debt limit before market participants start positioning for financial meltdown and thereby trigger that very event."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 10193092,
+    "parent_children": null,
+    "thread_id": 10192609,
+    "thread_children": 4
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10194020,
     "top_level": false,
     "date": "Nov 03 2022 08:24",
@@ -4797,13 +6298,20 @@ window._comments = [
           "value": "And this is a distracting tail risk that we keep running into and thereby consume time and energy on some Republican BS sabotage tactic. We could unilaterally eliminate this permanently to remove both the tale risk and obstruction."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10193907,
+    "parent_children": null,
+    "thread_id": 10192609,
+    "thread_children": 4
   },
   {
+    "post_id": 81750627,
     "title": "What's concretely at stake in the midterms",
     "canonical_url": "https://www.slowboring.com/p/whats-concretely-at-stake-in-the",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10192861,
     "top_level": false,
     "date": "Nov 03 2022 07:09",
@@ -4862,13 +6370,180 @@ window._comments = [
           "value": "https://www.nytimes.com/2022/08/23/us/rayshard-brooks-officers-no-charges.html"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10192274,
+    "parent_children": null,
+    "thread_id": 10192274,
+    "thread_children": 0
   },
   {
+    "post_id": 85218122,
+    "title": "A Nancy Pelosi appreciation post ",
+    "canonical_url": "https://www.slowboring.com/p/a-nancy-pelosi-appreciation-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10618939,
+    "top_level": true,
+    "date": "Nov 21 2022 06:44",
+    "likes": 22,
+    "timestamp": 1669031057,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> she proved flexible enough to strike deals for the good of the country on things like a round of stimulus checks and the urgently needed TARP"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Pelosi deserves a ton of credit for getting TARP done since there was a lot of Republican opposition within the House. The bill only passed due to Democratic support. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The revised HR1424 was received from the Senate by the House, and on October 3, it voted 263-171 to enact the bill into law. Democrats voted 172 to 63 in favor of the legislation, while Republicans voted 108 to 91 against it"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So GW Bush had to work with Pelosi and House Democrats to get TARP done. We came dangerously close to a total market meltdown while House Republicans started to embrace some anti-technocratic populist opposition against their own party\u2019s president."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that the Republican opposition to TARP was the infancy of the Tea Party. As a Reason 2014 article explains, these Republicans were responding to rising populist sentiments within their party with the 2008 elections just a month away. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Karl Rove explained that Republicans literally feared for their political futures over this one vote."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some of the grassroots fervor is evidenced in the 60,000+ signatures collected at NoWallStreetBailout.com in the fall of 2008. A sampling of the petition signers' comments sounds a lot like the eventual tea party movement: "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"No Wall Street or auto bailouts! Maybe Americans should boycott paying 2008 federal income tax\u2014no income tax revenue, no bailout.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"This bailout could end up breaking the spirit that underlies the true American way.  The key word is \"RESPONSIBILITY!\"  WHERE IS IT?!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If it wasn\u2019t for Pelosi\u2019s leadership and pragmatic approach to a highly technocratic financial crisis, then our global financial system would\u2019ve melted down while Republican politicians worried about appeasing their increasingly ornery populist base."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#Second_House_vote,_October_3"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://reason.com/2014/10/03/the-birth-of-the-tea-party-movement-bega/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10618939,
+    "thread_children": 1
+  },
+  {
+    "post_id": 85218122,
+    "title": "A Nancy Pelosi appreciation post ",
+    "canonical_url": "https://www.slowboring.com/p/a-nancy-pelosi-appreciation-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10619185,
+    "top_level": false,
+    "date": "Nov 21 2022 07:08",
+    "likes": 8,
+    "timestamp": 1669032501,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "FYI, Adam Tooze\u2019s 2018 book \u201cCrashed\u201d does an excellent job covering the insane politicking around the TARP legislation. As someone who didn\u2019t follow this when it happened, I just couldn\u2019t believe how poorly the Republicans acted during this crisis when I read through this part of the book. At least GW Bush deferred to his Treasury Secretary and Fed Chair, and supported their proposal. Everyone else looks like a child."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a Sept 2008 NYT article that Tooze cites for some background on the Republican\u2019s actions, \u201cConservatives Viewed Bailout Plan as Last Straw\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2008/09/27/business/27repubs.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In a message to members of the conservative Republican Study Committee, leaders of the bloc of more than 100 lawmakers solicited ideas, calling for a \u201cfree-market alternative to the Treasury Department\u2019s proposal so that, regardless of how individual R.S.C. members vote on final passage, House conservatives have something to be for.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cYou were being asked to choose between financial meltdown on the one hand and taxpayer bankruptcy and the road to socialism on the other and you were told do it in 24 hours,\u201d Representative Jeb Hensarling of Texas, head of the conservative group, said. \u201cIt was just never going to happen.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> By Thursday, a legislative alternative was circulating, one centered on federal insurance for mortgage assets combined with tax cuts on investment gains. When Representative John A. Boehner of Ohio, the Republican leader, put that alternative on the table at the White House on Thursday afternoon, a verbal brawl broke out, scuttling a grand compromise and forcing negotiators back to the table."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cIf Democrats believe the only plan that will save the economy is the Paulson plan, they have the power and the moral responsibility to go ahead and pass it,\u201d said Mr. Hensarling. \u201cThey don\u2019t have to have Republican votes to get it done.\u201d"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10618939,
+    "parent_children": 1,
+    "thread_id": 10618939,
+    "thread_children": 1
+  },
+  {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366997,
     "top_level": false,
     "date": "Nov 10 2022 07:43",
@@ -4899,13 +6574,20 @@ window._comments = [
           "value": "Matt Levine brilliantly explains this ridiculous financial arrangement that only crypto could create. Between crypto and Elon, Levine is never going to run out of entertaining content."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10365943,
+    "parent_children": null,
+    "thread_id": 10365943,
+    "thread_children": 0
   },
   {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366449,
     "top_level": true,
     "date": "Nov 10 2022 07:13",
@@ -4984,13 +6666,20 @@ window._comments = [
           "value": "The subtitle explains this as \u201cThe two tech giants discussed revenue-sharing arrangements, including a potential ad-free, subscription version of Facebook.\u201d"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10366449,
+    "thread_children": 0
   },
   {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366353,
     "top_level": true,
     "date": "Nov 10 2022 07:07",
@@ -5015,13 +6704,20 @@ window._comments = [
           "value": "I personally think that Biden\u2019s commitment to the $400k line was a mistake, but seeing how close the 2020 presidential election was that may have been necessary. Particularly as Democrats increasingly become the party of the college-educated, affluent professionals. Maybe we just can\u2019t play basic class-centered, materialistic politics from the New Deal era."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10366353,
+    "thread_children": 0
   },
   {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366332,
     "top_level": true,
     "date": "Nov 10 2022 07:06",
@@ -5040,13 +6736,20 @@ window._comments = [
           "value": "I find that an insightful framing. Maybe NYT went too far, but that may have been necessary initially to shift the culture around tech coverage from the unbounded optimism of the early 2010s to something includes a critical critique."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10366332,
+    "thread_children": 0
   },
   {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366596,
     "top_level": false,
     "date": "Nov 10 2022 07:21",
@@ -5081,13 +6784,20 @@ window._comments = [
           "value": "> What is less often remembered in the popular mind is that the rate hike of 1965 did not, in fact, turn a corner on inflation. In the years that followed, fiscal stimulus was ample, war spending kept rising, and the deficit grew. But FOMC members were often divided, and their policy decisions reflected this ambivalence. Furthermore, while Martin saw monetary and fiscal policymakers as obligated to work together to promote price stability and growth, he discovered that dealing with this particular White House and Congress was often a one-way street. And even though the Fed was substantially upgrading its analytic capacity in the 1960s \u2014 hiring more Ph.D. economists, building up its research departments, and adopting forecasting \u2014 it didn't always translate into consistent monetary policymaking."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10366054,
+    "parent_children": null,
+    "thread_id": 10366054,
+    "thread_children": 0
   },
   {
+    "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10366374,
     "top_level": true,
     "date": "Nov 10 2022 07:09",
@@ -5118,13 +6828,20 @@ window._comments = [
           "value": "There are all sorts of eurozone/EU rules that attempt to minimize discrepancies between the fiscal policies of different member states. But in practice, it\u2019s my understanding that they don\u2019t accomplish much beyond stroking animosity between the different states when they accuse each other of incompliance. And then the ECB has to manage this impossible problem with esoteric financial instruments (e.g., heterogeneous PEPP reinvestment) that poorly mimics a fiscal union."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10366374,
+    "thread_children": 0
   },
   {
+    "post_id": 80475018,
     "title": "Spooky mailbag",
     "canonical_url": "https://www.slowboring.com/p/spooky-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10047442,
     "top_level": true,
     "date": "Oct 28 2022 07:02",
@@ -5159,13 +6876,20 @@ window._comments = [
           "value": "https://www.youtube.com/watch?v=py-e9-NvFn0"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10047442,
+    "thread_children": 0
   },
   {
+    "post_id": 80475018,
     "title": "Spooky mailbag",
     "canonical_url": "https://www.slowboring.com/p/spooky-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10047053,
     "top_level": true,
     "date": "Oct 28 2022 06:30",
@@ -5218,13 +6942,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/1876_United_States_presidential_election"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10047053,
+    "thread_children": 0
   },
   {
+    "post_id": 61349681,
     "title": "Some practical advice for making a difference in the new abortion fight",
     "canonical_url": "https://www.slowboring.com/p/some-practical-advice-for-making",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7426985,
     "top_level": true,
     "date": "Jun 29 2022 06:38",
@@ -5243,13 +6974,20 @@ window._comments = [
           "value": "Instead, our ire and frustration should be directed at the extremist on the anti-abortion side. We should raise the salience of their most extreme and counterproductive messaging. We should force the anti-abortion side to fight within their coalition, with their supporters of more moderate restrictions having to defend cases where they believe abortion should be allowed. E.g., in cases where both the mother\u2019s life is at risk and the fetus is non-viable. There are anti-abortion extremists that would fight to criminalize that life-saving medical procedure and we should encourage that online fight within our opponent\u2019s coalition."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7426985,
+    "thread_children": 1
   },
   {
+    "post_id": 61349681,
     "title": "Some practical advice for making a difference in the new abortion fight",
     "canonical_url": "https://www.slowboring.com/p/some-practical-advice-for-making",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7430970,
     "top_level": false,
     "date": "Jun 29 2022 10:00",
@@ -5280,13 +7018,20 @@ window._comments = [
           "value": "Rather than using 280 characters to provide a sharp criticism of our compatriots, we can write paragraphs in which we empathize with their views, celebrate our common goals, and offer a nuanced comparison of approaches towards our shared goals.  And should others choose to bring our disagreement to SM, possibly even referencing our longer form argument, we can simply choose not to engage. Let them shout into the void; we\u2019ll just ensure there\u2019s less echo."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7428276,
+    "parent_children": null,
+    "thread_id": 7426985,
+    "thread_children": 1
   },
   {
+    "post_id": 43937960,
     "title": "Time to declare victory on stimulating the economy ",
     "canonical_url": "https://www.slowboring.com/p/time-to-declare-victory-on-stimulating",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3644093,
     "top_level": false,
     "date": "Nov 16 2021 15:24",
@@ -5343,17 +7088,24 @@ window._comments = [
           "value": "https://www.bloomberg.com/news/articles/2021-11-15/shale-is-making-too-much-money-to-rescue-biden-from-oil-shortage"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3642299,
+    "parent_children": null,
+    "thread_id": 3642299,
+    "thread_children": 0
   },
   {
+    "post_id": 78234449,
     "title": "Deadweight loss, explained",
     "canonical_url": "https://www.slowboring.com/p/deadweight-loss-explained",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10456299,
     "top_level": true,
     "date": "Nov 14 2022 06:34",
-    "likes": 22,
+    "likes": 25,
     "timestamp": 1668425677,
     "body": [
       [
@@ -5398,13 +7150,20 @@ window._comments = [
           "value": "With the price ceiling, Popeyes could find that sales after 10 PM doesn\u2019t provide enough revenue to offset the costs of the minimum crew needed to operate a store. They could also find that some locations should be closed since they don\u2019t bring in enough revenue to cover their fixed costs regardless of hours of operation."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10456299,
+    "thread_children": 0
   },
   {
+    "post_id": 72273018,
     "title": "Janet Yellen explains Bidenomics ",
     "canonical_url": "https://www.slowboring.com/p/janet-yellen-explains-bidenomics",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8942202,
     "top_level": true,
     "date": "Sep 09 2022 06:51",
@@ -5433,13 +7192,20 @@ window._comments = [
           "value": "And in general, I highly recommend the Odd Lots podcast. It\u2019s an exceptionally entertaining and educational survey of numerous current economic themes."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8942202,
+    "thread_children": 0
   },
   {
+    "post_id": 72273018,
     "title": "Janet Yellen explains Bidenomics ",
     "canonical_url": "https://www.slowboring.com/p/janet-yellen-explains-bidenomics",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8942417,
     "top_level": true,
     "date": "Sep 09 2022 07:15",
@@ -5524,13 +7290,20 @@ window._comments = [
           "value": "Will be quite interesting to see how these GDP and GDI discrepancies are resolved in future revisions and which of these hypotheses turn out to be the cause. Could be a combination of multiple mechanisms and possibly causes that haven\u2019t yet been proposed."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8942417,
+    "thread_children": 0
   },
   {
+    "post_id": 58394722,
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7029273,
     "top_level": true,
     "date": "Jun 09 2022 07:29",
@@ -5555,13 +7328,20 @@ window._comments = [
           "value": "My particular concern for the Democrats is that our elites\u2019 disproportionate amount of power is particularly visible. In contrast, Republic elites (e.g., Koch, Cato, Manhattan Institute) are only known to political junkies. Further, our progressive elites\u2014particularly in journalism and academia\u2014are engaged in an intra-elite competition to see who can be the most pious progressive by developing and championing ever-more-extreme views. I worry that our highly visible elites will grow increasingly distant from the median Democratic voter (let alone the median voter in general) and this will be exploited by right wingers to pull away voters and possibly risk fracturing our broad coalition."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7029273,
+    "thread_children": 0
   },
   {
+    "post_id": 58394722,
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7028860,
     "top_level": false,
     "date": "Jun 09 2022 06:48",
@@ -5591,13 +7371,20 @@ window._comments = [
         }
       ],
       []
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7028748,
+    "parent_children": null,
+    "thread_id": 7028748,
+    "thread_children": 0
   },
   {
+    "post_id": 58394722,
     "title": "Is American democracy still doomed?",
     "canonical_url": "https://www.slowboring.com/p/is-american-democracy-still-doomed",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7028946,
     "top_level": true,
     "date": "Jun 09 2022 06:59",
@@ -5644,13 +7431,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/1995%E2%80%931996_United_States_federal_government_shutdowns"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7028946,
+    "thread_children": 0
   },
   {
+    "post_id": 82102641,
     "title": "Midterm Mailbag",
     "canonical_url": "https://www.slowboring.com/p/midterm-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10218829,
     "top_level": true,
     "date": "Nov 04 2022 07:02",
@@ -5719,13 +7513,20 @@ window._comments = [
           "value": "https://en.wikipedia.org/wiki/Clarence_Thomas_Supreme_Court_nomination#Clarence_Thomas_testimony"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10218829,
+    "thread_children": 0
   },
   {
+    "post_id": 53053394,
     "title": "Do investor-owned single-family homes cause drug overdoses? ",
     "canonical_url": "https://www.slowboring.com/p/do-investor-owned-single-family-homes",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6364395,
     "top_level": true,
     "date": "May 03 2022 06:32",
@@ -5776,13 +7577,20 @@ window._comments = [
           "value": "> The U.S. has roughly 140 million housing units, a broad category that includes mansions, tiny townhouses, and apartments of all sizes. Of those 140 million units, about 80 million are stand-alone single-family homes. Of those 80 million, about 15 million are rental properties. Of those 15 million single-family rentals, institutional investors own about 300,000; most of the rest are owned by individual landlords. Of that 300,000, the real-estate rental company Invitation Homes\u2014in which BlackRock is an investor\u2014owns about 80,000. (To clear up a common confusion: The investment firm Blackstone, not BlackRock, established Invitation Homes. Don\u2019t yell at me; I didn\u2019t name them.)"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6364395,
+    "thread_children": 0
   },
   {
+    "post_id": 53053394,
     "title": "Do investor-owned single-family homes cause drug overdoses? ",
     "canonical_url": "https://www.slowboring.com/p/do-investor-owned-single-family-homes",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6365053,
     "top_level": false,
     "date": "May 03 2022 07:37",
@@ -5795,13 +7603,288 @@ window._comments = [
           "value": "Yep. As has been stated many times, housing cannot be both affordable and a good investment. A good investment has returns that at least beat inflation, but that implies housing costs for new buyers will become increasingly expensive in real terms."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6364887,
+    "parent_children": null,
+    "thread_id": 6364887,
+    "thread_children": 0
   },
   {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10787805,
+    "top_level": true,
+    "date": "Nov 29 2022 06:43",
+    "likes": 43,
+    "timestamp": 1669722209,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I do think of this as part of an ethic of trying to be a not-awful person, but it\u2019s really just about being a cooperative member of society \u2014 someone who doesn\u2019t free ride \u2014 rather than being a truly other-directed gesture."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a lot in this article that I like and agree with, yet this point in particular resonated with me. Opposition to free riding seems like a right-coded belief, and despite that, I as a progressive liberal believe this is an essential foundation of society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At some level, I think all people have an intuitive disgust of freeloaders. We might disagree about who are the worst offenders: are they billionaires living opulent lives from the proceeds of other\u2019s labor or welfare cheats who live off the largess of the government? Yet, at a deep emotional level, everyone is offended by the idea of free riders in our society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, the psychological hardware that opposes mooching seems essential to human cooperation and flourishing society. When people begin to believe that others are gaming the system for unjust rewards, then they lose trust in institutions and society at large. For example, look at how tax evasion has become endemic in south Europe, which only adds to their fiscal and economic problems."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe it would be productive for all of us across the political spectrum to accept and even embrace this aspect of human psychology. For example, Democratic politicians could recognize freerider aversion as a challenge to address in welfare policy design. We\u2019d likely have more success in persuading voters to support welfare expansion if we communicate our concern about gaming the system, and further explain how we\u2019ll defend against cheaters, including punishing them. Similarly, Republicans might have more success in generally lowering taxes on the rich if they are willing to call out and prosecute the worst cases of tax evasion by the wealthy."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10787805,
+    "thread_children": 3
+  },
+  {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10788895,
+    "top_level": false,
+    "date": "Nov 29 2022 08:08",
+    "likes": 9,
+    "timestamp": 1669727325,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I agree. Yet that pragmatic argument does little to assuage voters\u2019 emotional disgust with freeloaders. At some level, I\u2019m willing to accept that we have to pay a price\u2014both financial and bureaucratic\u2014to at least appear in opposition to free riding if we want a defensible welfare state. "
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 10788647,
+    "parent_children": null,
+    "thread_id": 10787805,
+    "thread_children": 3
+  },
+  {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10789275,
+    "top_level": false,
+    "date": "Nov 29 2022 08:29",
+    "likes": 8,
+    "timestamp": 1669728550,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "One thing to add: I think individuals vary in the degree to which they accept this pragmatic argument. For some of us, including myself, we can easily rationalize away the need to defend against freeloading. But we can incorrectly project our mindset onto others and fail to empathize with their concerns. They didn\u2019t reason their way into a strong disgust with freeloading and we\u2019re unlikely to reason them out if it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also recognize that my own desire for a strong welfare state differs considerably from many of my compatriots. For many others, this is motivated by an emotional desire to care for the neediest in society. In contrast, I see a strong safety net as essential for a robust liberal, democratic, and capitalistic society. But that is more of a reasoned argument."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To my fellow capitalists who are skeptical of welfare, consider the following: With a sufficiently muscular welfare state, we may be able to create and embrace an even more competitive form of capitalism; a capitalism based around a level of cold, calculating, psychopathic profit maximization that would even frighten Ayn Rand. With a sufficient safety net, future Marxist may find few if any converts to oppose our capitalism."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10788895,
+    "parent_children": 2,
+    "thread_id": 10787805,
+    "thread_children": 3
+  },
+  {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10788999,
+    "top_level": false,
+    "date": "Nov 29 2022 08:14",
+    "likes": 10,
+    "timestamp": 1669727691,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, we should prosecute tax cheats and thankfully we\u2019ve significantly increased IRS funding to do just that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet I think there is a separate concern about freeloading in the context of welfare. And I suspect that also needs to be addressed to gain broad support for a strong welfare state."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10788927,
+    "parent_children": null,
+    "thread_id": 10787805,
+    "thread_children": 3
+  },
+  {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10788831,
+    "top_level": false,
+    "date": "Nov 29 2022 08:04",
+    "likes": 9,
+    "timestamp": 1669727080,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I personally struggle with this question of how much to give when I frame it as a donating vs. saving/investing tradeoff. It\u2019s one thing to forgo consumption, but as a relatively frugal person, I feel that giving a proper 10% to charity would entail sacrificing financial security."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My current solution to this conflict is two-fold:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A) I believe that I\u2019ll give substantially more than 10% of my salary after building a sufficient level of financial security; when I could live my current standard of living off the proceeds of my investments with a high degree of certainty."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I have no interest in early retirement because I get a lot of meaning out of having a job. If I no longer need to save/invest then I might as well donate a lot and I believe I\u2019ll be able to do so for decades in the future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "B) My estate is willed entirely to charity as I don\u2019t have nor plan to have children. At worst, my desire for financial security would make me a low-quality charitable endowment investment manager."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe a lot of this is self-delusion. Yet that\u2019s where I\u2019m at emotionally in my desire for financial security and I don\u2019t think I or anyone else is gonna shame myself out of that state."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10787675,
+    "parent_children": null,
+    "thread_id": 10787675,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87219657,
+    "title": "A sappy Giving Tuesday post",
+    "canonical_url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10788120,
+    "top_level": true,
+    "date": "Nov 29 2022 07:14",
+    "likes": 2,
+    "timestamp": 1669724042,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And I worry sometimes that people pay attention to national politics mostly because it\u2019s fun (Eitan Hirsh\u2019s political hobbyism) while telling themselves they are paying attention for high-minded reasons like the fate of the country."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We need better entertainment alternatives!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On a slightly more serious note, I\u2019ve been surprised at the level of youth engagement with politics. [1] Even if some of this reporting is overblown, I couldn\u2019t imagine anyone describing my elder-millennial cohort as politically engaged when we were teenagers; even as college students I believe vanishingly few of us ever went further than a lazy, \u201cFuck Bush.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my teenage years, political engagement would\u2019ve been extremely uncool. Sure, we could embrace some generic anti-establishment views; even echo some of the political slogans from our favorite RATM songs. But to actually care about concrete electoral politics would be super lame. Like even among my nerdiest friend group, I imagine we\u2019d mercilessly tease anyone that attempted to converse about the policy proposals of Gore or Kerry vs. Bush."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If even teens and college students are finding politics engaging today, then we desperately need better entertainment alternatives. Even a resurgent radical anti-establishment political media would be great as long as they deride the entire US political system. We need to make Rage Against the Machine great again!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \u201cYoung people\u2019s political engagement is surging. That\u2019s a problem for Republicans\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.latimes.com/politics/newsletter/2021-04-23/surge-political-engagement-youth-problem-for-gop-essential-politics"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10788120,
+    "thread_children": 0
+  },
+  {
+    "post_id": 81065545,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10129030,
     "top_level": true,
     "date": "Oct 31 2022 17:17",
@@ -5814,13 +7897,20 @@ window._comments = [
           "value": "What are your thoughts on Andrew Jackson? Particularly, how should we think, talk, and teach about him today?"
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10129030,
+    "thread_children": 1
   },
   {
+    "post_id": 81065545,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10129115,
     "top_level": false,
     "date": "Oct 31 2022 17:22",
@@ -5857,13 +7947,20 @@ window._comments = [
           "value": "Without Jackson, particularly with a John Quincy Adams-esque president, our United States might\u2019ve been nothing more than a short-lived experiment that simply demonstrated the follies of democracy."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10129030,
+    "parent_children": 1,
+    "thread_id": 10129030,
+    "thread_children": 1
   },
   {
+    "post_id": 81065545,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-e0a",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10131646,
     "top_level": false,
     "date": "Oct 31 2022 19:46",
@@ -5876,13 +7973,20 @@ window._comments = [
           "value": "And Thomas's living will most certainly includes instructions to keep his body on life support until Republicans control the Senate and Presidency, even if takes a decade or two. As a man of will and conviction, or at least a stubborn asshole, he wouldn't pass up one final opportunity to own the libs."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10130259,
+    "parent_children": null,
+    "thread_id": 10128941,
+    "thread_children": 0
   },
   {
+    "post_id": 78751941,
     "title": "Where have all the deficit hawks gone?",
     "canonical_url": "https://www.slowboring.com/p/where-have-all-the-deficit-hawks",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9808670,
     "top_level": true,
     "date": "Oct 18 2022 06:42",
@@ -5913,13 +8017,426 @@ window._comments = [
           "value": "I guess something similar could happen in the US. My understanding is that a lot of the 90s concern about deficit was focused on \u201cbond vigilantes\u201d causing financial turmoil if investors lost faith in US government debt. E.g., Carville\u2019s famous quote about wanting to be reincarnated as the bond market because, \u201cYou can intimidate everybody\u201d."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9808670,
+    "thread_children": 0
   },
   {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10530603,
+    "top_level": true,
+    "date": "Nov 17 2022 06:32",
+    "likes": 34,
+    "timestamp": 1668684746,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "If anyone wants to learn more about the FTX fiasco, I\u2019d recommend checking out Matt Levine\u2019s recent columns, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably the current info on FTX\u2019s balance sheet (it\u2019s stated assets and liabilities) [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But there is a range of possible badness, even in bankruptcy, and the balance sheet that Sam Bankman-Fried\u2019s failed crypto exchange FTX.com sent to potential investors last week before filing for bankruptcy on Friday is very bad. It\u2019s an Excel file full of the howling of ghosts and the shrieking of tortured souls. If you look too long at that spreadsheet, you will go insane. Antoine Gara, Kadhim Shubber and Joshua Oliver at the Financial Times reported on Saturday:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> Sam Bankman-Fried\u2019s main international FTX exchange held just $900mn in easily sellable assets against $9bn of liabilities the day before it collapsed into bankruptcy, according to investment materials seen by the Financial Times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But then there is the \u201cHidden, poorly internally labeled \u2018fiat@\u2019 account,\u201d with a balance of negative $8 billion.  I don\u2019t actually think that you\u2019re supposed to subtract that number from net equity \u2014 though I do not know how this balance sheet is supposed to work! \u2014 but it doesn\u2019t matter\u2026 You cannot apply ordinary arithmetic to numbers in a cell labeled \u201cHIDDEN POORLY INTERNALLY LABELED ACCOUNT.\u201d The result of adding or subtracting those numbers with ordinary numbers is not a number; it is prison."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Everything we know so far suggests at minimum extreme negligence from FTX and SBF; and outright criminal fraud seems almost certain."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10530603,
+    "thread_children": 2
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10533236,
+    "top_level": false,
+    "date": "Nov 17 2022 09:07",
+    "likes": 11,
+    "timestamp": 1668694043,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "New bankruptcy filing just dropped, "
+        },
+        {
+          "type": "url",
+          "value": "https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Highlights, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/kadhim/status/1593222595390107649?t=inwFSn06il_Wp1Vk72nijA&s=19"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> New CEO John Ray is scathing about Sam Bankman-Fried's management."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \"Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More coverage, \"Here Are the Wildest Parts of the New FTX Bankruptcy Filing\"  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-11-17/here-are-the-craziest-parts-from-the-new-ftx-bankruptcy-filing"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10530603,
+    "parent_children": 2,
+    "thread_id": 10530603,
+    "thread_children": 2
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10532047,
+    "top_level": false,
+    "date": "Nov 17 2022 08:14",
+    "likes": 3,
+    "timestamp": 1668690865,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And Odd Lots just released an episode this morning, \u201cUnderstanding the Collapse of Sam Bankman-Fried's Crypto Empire.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The collapse of the Sam Bankman-Fried empire is gigantic, sprawling and fast moving. While details are still coming out, it already ranks among the most prominent corporate disasters of all time and has left the entire crypto community reeling. To better understand the role that FTX played in the industry and how the exchange started to unravel, we speak with two guests on this episode. First, we have Evgeny Gaevoy, the founder and CEO of the crypto market-making firm Wintermute, to explain how he used the FTX platform and how he understood its relationship with SBF's trading firm, Alameda Research. Then we speak with independent researcher James Block, author of the Dirty Bubble Media newsletter, and one of the first observers to blow the whistle on the FTX disaster."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bloomberg: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-11-17/odd-lots-podcast-understanding-sam-bankman-fried-s-ftx-crypto-collapse?srnd=oddlots-podcast"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apple: "
+        },
+        {
+          "type": "url",
+          "value": "https://podcasts.apple.com/us/podcast/odd-lots/id1056200096"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Spotify: "
+        },
+        {
+          "type": "url",
+          "value": "https://open.spotify.com/show/1te7oSFyRVekxMBJUSethH"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Listening to it now and tomorrow they\u2019ll publish an episode with Matt Levine himself!"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10530603,
+    "parent_children": 2,
+    "thread_id": 10530603,
+    "thread_children": 2
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10533416,
+    "top_level": false,
+    "date": "Nov 17 2022 09:14",
+    "likes": 4,
+    "timestamp": 1668694480,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! Quote and additional details in new bankruptcy filing, "
+        },
+        {
+          "type": "url",
+          "value": "https://pacer-documents.s3.amazonaws.com/33/188450/042020648197.pdf"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10533360,
+    "parent_children": null,
+    "thread_id": 10533360,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": "\u2764",
+    "id": 10530754,
+    "top_level": true,
+    "date": "Nov 17 2022 06:46",
+    "likes": 13,
+    "timestamp": 1668685613,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Vox\u2019s interview with SBF, published yesterday, is quite damning about his intentions. [1] He is quite hostile to financial regulations (\u201cFuck regulators.\u201d) and appears openly duplicitous about his public persona (\"A dumb game we woke westerners play where we say all the right shiboleths and so everyone likes us.\") And he confirms that FTX lent customer assets to his crypto hedge fund, Alameda."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I can\u2019t believe he is even talking to journalists as well as \u201ctweeting through it.\u201d With his parents both being distinguished law professors, I would assume he\u2019d know to shut up."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.vox.com/future-perfect/23462333/sam-bankman-fried-ftx-cryptocurrency-effective-altruism-crypto-bahamas-philanthropy"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10530754,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10530945,
+    "top_level": false,
+    "date": "Nov 17 2022 07:02",
+    "likes": 17,
+    "timestamp": 1668686571,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve always found this quote to be an actionless platitude."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Especially when it comes to \u201cself-made\u201d billionaires. Bezos, Musk, Gates, Jobs, and Zuckerberg all started with worthless companies and grew them into juggernauts. Throughout the process, they sold off portions of their firms to raise capital for expansion, but still retained substantial ownership. Hence, they went from owning roughly 100% of $0 to 10% of $1 trillion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At what point was a policy failure performed? When their ownership stake became valued at a billion? Should we have then had the government take some of their ownership as a tax? Or should we seek a political economy system that prevents such companies from ever being built?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, I think it\u2019s great that the wealthiest Americans generally got there through entrepreneurship. Even if they almost all started from an extremely privileged place, they still had to actually create a tremendous amount of wealth by building firms that provide new goods and services. And most of them seem committed to giving away the majority of their extreme wealth rather than allowing their heirs to inherit it."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 10530470,
+    "parent_children": null,
+    "thread_id": 10530470,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10531351,
+    "top_level": false,
+    "date": "Nov 17 2022 07:32",
+    "likes": 2,
+    "timestamp": 1668688348,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Are you suggesting that we need sufficiently high wealth taxes to ensure that nobody ever becomes a billionaire?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If so, then we\u2019d have to contend with the reality that none of the tech juggernauts that I listed would\u2019ve achieved the same level of success. Even if the firms were still founded, the founders would\u2019ve been forced to sell a much larger portion of their ownership far earlier and thereby lose control earlier. The trajectory of these companies would be much different and likely far less impressive. Although, the more likely scenario is that we simply have far less entrepreneurship."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While these firms certainly have problems, they all still make massive contributions to America\u2019s economy by collectively employing millions and contributing hundreds of billions of economic activity. We\u2019d be a far poorer society without the goods and services that were invented by these firms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I do believe we need higher **income** taxes on the rich and more regulations on large corps. But a world with no billionaires is a world where the masses are far poorer; lacking in the goods and services pioneered by these entrepreneurs and their firms."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10531101,
+    "parent_children": null,
+    "thread_id": 10530470,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84489473,
+    "title": "Some thoughts on the FTX collapse",
+    "canonical_url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10531130,
+    "top_level": false,
+    "date": "Nov 17 2022 07:16",
+    "likes": 4,
+    "timestamp": 1668687392,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While we don\u2019t have the full story of how FTX ended up in bankruptcy, we do know its balance sheet (its listed assets vs. liabilities) was absolute garbage. [1] For example, FTX listed multiple cryptocurrencies that FTX had created at massive overvaluation. They also listed investments in crypto startups, which couldn\u2019t be liquidated; i.e., sold for cash."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was no plausible way that FTX could make good on its liabilities; i.e., they couldn\u2019t ever give their customers the assets that customers believed they had purchased or deposited. At the minimum this suggests extreme negligence; and outright criminal fraud seems near certain."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2022-11-14/ftx-s-balance-sheet-was-bad"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10530596,
+    "parent_children": null,
+    "thread_id": 10530596,
+    "thread_children": 0
+  },
+  {
+    "post_id": 73254041,
     "title": "God save the mailbag ",
     "canonical_url": "https://www.slowboring.com/p/god-save-the-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9094342,
     "top_level": true,
     "date": "Sep 16 2022 07:01",
@@ -5976,13 +8493,20 @@ window._comments = [
           "value": "https://www.federalreserve.gov/newsevents/speech/powell20220826a.htm"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9094342,
+    "thread_children": 0
   },
   {
+    "post_id": 68190824,
     "title": "What's long-term about \"longtermism\"? ",
     "canonical_url": "https://www.slowboring.com/p/whats-long-term-about-longtermism",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8446954,
     "top_level": false,
     "date": "Aug 17 2022 10:42",
@@ -6007,13 +8531,20 @@ window._comments = [
           "value": "Yet I haven\u2019t been able to find anything comparably concrete about AI existential risk. There\u2019s just nothing there to learn about and evaluate. It\u2019s all philosophical pontification about hypothetical \u201cwhat if\u201d scenarios."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8443440,
+    "parent_children": null,
+    "thread_id": 8443440,
+    "thread_children": 0
   },
   {
+    "post_id": 58930295,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7111874,
     "top_level": true,
     "date": "Jun 13 2022 17:04",
@@ -6036,13 +8567,20 @@ window._comments = [
           "value": "https://righteousmind.com/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7111874,
+    "thread_children": 0
   },
   {
+    "post_id": 58930295,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7111859,
     "top_level": true,
     "date": "Jun 13 2022 17:04",
@@ -6055,13 +8593,20 @@ window._comments = [
           "value": "If you were a GOP-paid-consultant, how would you advise Republicans to best weaponize our inflation problems for partisan gains in the midterms? Assuming they discover such a strategy on their own, how would you suggest Democrats best defend against this line of attack?"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7111859,
+    "thread_children": 0
   },
   {
+    "post_id": 58930295,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-7fd",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7112536,
     "top_level": true,
     "date": "Jun 13 2022 17:46",
@@ -6112,13 +8657,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/the-rise-of-self-made-billionaires/comment/1826501?s=r"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7112536,
+    "thread_children": 0
   },
   {
+    "post_id": 53302113,
     "title": "What the DLC got wrong ",
     "canonical_url": "https://www.slowboring.com/p/what-the-dlc-got-wrong",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6413521,
     "top_level": false,
     "date": "May 05 2022 11:35",
@@ -6153,13 +8705,20 @@ window._comments = [
           "value": "https://www.vox.com/2016/2/5/10918164/donald-trump-morality"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6411782,
+    "parent_children": null,
+    "thread_id": 6408486,
+    "thread_children": 0
   },
   {
+    "post_id": 49698652,
     "title": "Taking Putin's ideas seriously (and I guess literally, too)",
     "canonical_url": "https://www.slowboring.com/p/taking-putins-ideas-seriously-and",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5440550,
     "top_level": false,
     "date": "Mar 08 2022 10:30",
@@ -6184,13 +8743,20 @@ window._comments = [
           "value": "Again, I don\u2019t like the idea of promoting fossil fuel production. Yet I recognize that we Democrats need a holistic energy policy that includes stable gasoline prices if we want to shepherd the US through the green transition. Otherwise voters will elect another oil man like GWB who may attempt to make the US into another petrostate."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 5437792,
+    "parent_children": null,
+    "thread_id": 5437518,
+    "thread_children": 0
   },
   {
+    "post_id": 49698652,
     "title": "Taking Putin's ideas seriously (and I guess literally, too)",
     "canonical_url": "https://www.slowboring.com/p/taking-putins-ideas-seriously-and",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5440651,
     "top_level": false,
     "date": "Mar 08 2022 10:35",
@@ -6213,13 +8779,20 @@ window._comments = [
           "value": "> Deputy Prime Minister Alexander Novak warned late Monday that Russia could halt flows along the existing Nord Stream 1 pipeline to Germany. The EU is trying to get ahead of any such moves, mapping out a plan to cut its huge dependency on Russian gas."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 5437743,
+    "parent_children": null,
+    "thread_id": 5437518,
+    "thread_children": 0
   },
   {
+    "post_id": 71584256,
     "title": "Schools should try to teach kids the basics",
     "canonical_url": "https://www.slowboring.com/p/schools-should-try-to-teach-kids",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8872269,
     "top_level": false,
     "date": "Sep 06 2022 06:47",
@@ -6248,13 +8821,20 @@ window._comments = [
           "value": "> The brute reality is that most kids slot themselves into academic ability bands early in life and stay there throughout schooling. We have a certain natural level of performance, gravitate towards it early on, and are likely to remain in that band relative to peers until our education ends. There is some room for wiggle, and in large populations there are always outliers. But in thousands of years of education humanity has discovered no replicable and reliable means of taking kids from one educational percentile and raising them up into another. Mobility of individual students in quantitative academic metrics relative to their peers over time is far lower than popularly believed. The children identified as the smart kids early in elementary school will, with surprising regularity, maintain that position throughout schooling. Do some kids transcend (or fall from) their early positions? Sure. But the system as a whole is quite static. Most everybody stays in about the same place relative to peers over academic careers. The consequences of this are immense, as it is this relative position, not learning itself, which is rewarded economically and socially in our society."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8872204,
+    "parent_children": null,
+    "thread_id": 8872171,
+    "thread_children": 0
   },
   {
+    "post_id": 44832459,
     "title": "What is the goal of child care policy?",
     "canonical_url": "https://www.slowboring.com/p/what-is-the-goal-of-child-care-policy",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 3901854,
     "top_level": false,
     "date": "Dec 07 2021 05:28",
@@ -6293,13 +8873,20 @@ window._comments = [
           "value": "https://americanprogress.org/wp-content/uploads/2018/02/ChildcareDollar-Fig2-693.png"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 3897692,
+    "parent_children": null,
+    "thread_id": 3891603,
+    "thread_children": 0
   },
   {
+    "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9553551,
     "top_level": true,
     "date": "Oct 07 2022 06:30",
@@ -6330,13 +8917,20 @@ window._comments = [
           "value": "*Edit to fix a typo"
         }
       ]
-    ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9553551,
+    "thread_children": 2
   },
   {
+    "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9553854,
     "top_level": false,
     "date": "Oct 07 2022 06:56",
@@ -6361,13 +8955,20 @@ window._comments = [
           "value": "Even a hardass professor who relishes in handing out F can be a valuable obstacle to conquer. Life is unfair and we need to deal with the challenges we face while pursuing goals."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9553551,
+    "parent_children": 2,
+    "thread_id": 9553551,
+    "thread_children": 2
   },
   {
+    "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9553770,
     "top_level": false,
     "date": "Oct 07 2022 06:50",
@@ -6398,13 +8999,20 @@ window._comments = [
           "value": "Org has to live in this layer of rough, non-intuitive, approximate rules and squishy biological narratives."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9553551,
+    "parent_children": 2,
+    "thread_id": 9553551,
+    "thread_children": 2
   },
   {
+    "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9558982,
     "top_level": false,
     "date": "Oct 07 2022 10:27",
@@ -6435,13 +9043,20 @@ window._comments = [
           "value": "Yeah, you still needed some minimal GPA and GRE scores, but that was rarely the hurdle. Further, if your undergrad research advisor introduced you to a potential grad advisor, and the future advisor wanted you, then nothing else really mattered. Doubly so if your future grad advisor had funding for you. Exceptions could be made for anything. Such referrals were common and I even heard of professors competing for promising undergrads."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 9557411,
+    "parent_children": null,
+    "thread_id": 9553550,
+    "thread_children": 0
   },
   {
+    "post_id": 57548064,
     "title": "Mailbag: Maverick ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-maverick",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6926909,
     "top_level": false,
     "date": "Jun 03 2022 12:32",
@@ -6460,13 +9075,20 @@ window._comments = [
           "value": "At times I wonder if these arguments could be reversed to paint NIMBYism as a form of crony capitalism. We could speculate that the biggest and most politically connected corporate developers are leveraging their power to monopolize the local market by owning the zoning process. This allows them to drive out small developers that would otherwise be building more units and thereby providing the additional housing that our community desperately needs. These big corporate developers could even be financing astroturf campaigns that disguise their political stooges as champions of social justice so that they can continue to control the zoning process on behalf of their corporate overlords."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6921613,
+    "parent_children": null,
+    "thread_id": 6921613,
+    "thread_children": 0
   },
   {
+    "post_id": 73210423,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-f5f",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9161952,
     "top_level": true,
     "date": "Sep 19 2022 17:28",
@@ -6495,13 +9117,20 @@ window._comments = [
           "value": "https://www.grid.news/story/podcasts/2022/09/14/bad-takes-episode-3-how-joe-rogan-bullied-matt-into-losing-weight/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9161952,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246558,
     "top_level": true,
     "date": "Apr 26 2022 07:00",
@@ -6532,13 +9161,20 @@ window._comments = [
           "value": "It\u2019s even possible that these three leaders don\u2019t see the possibility of reconciling these priorities into a package that can garner sufficient votes among congressional Democrats. Any proposed package may be vetoed by Dems that don\u2019t see their hobby horse included. E.g., the SALT assholes. In which case our Democrat leadership finds themselves in the sisyphean task of going through the motions of developing and championing a cornucopia of Dem priorities while knowing no such bill will ever pass."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6246558,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246719,
     "top_level": true,
     "date": "Apr 26 2022 07:16",
@@ -6557,13 +9193,20 @@ window._comments = [
           "value": "Decreasing the savings and investment rate of the rich will aid in slowly decreasing inflation. With less investment in the economy fewer new businesses will be created and thereby fewer new jobs. Similarly, existing businesses will be less able to raise capital to expand operations. Distressed businesses will find themselves unable to restructure their debt with new financing and will instead need to minimize their operations or possibly go out of business. All of this will slow the growth of the economy and loosen up the labor market. Note these mechanisms are the same ones impacted by raising interest rates and increasing the cost of capital."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6246719,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246612,
     "top_level": false,
     "date": "Apr 26 2022 07:06",
@@ -6598,13 +9241,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/news/articles/2022-04-21/powell-hardens-hawkish-pivot-toward-half-point-fed-rate-hikes"
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 6246278,
+    "parent_children": null,
+    "thread_id": 6246278,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246905,
     "top_level": false,
     "date": "Apr 26 2022 07:26",
@@ -6623,13 +9273,20 @@ window._comments = [
           "value": "I don't think we're yet at the point where need a hard pivot on the Fed comparable to nominating another Volcker. By 1979 the Fed had over a decade of weak leadership and needed that jolt."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6246714,
+    "parent_children": null,
+    "thread_id": 6246278,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246430,
     "top_level": false,
     "date": "Apr 26 2022 06:46",
@@ -6642,13 +9299,20 @@ window._comments = [
           "value": "That is a gross misrepresentation that counts their unrealized capital gains as income. We certainly could increase the tax rate on *realized* capital gains; possibly making it progressively increasing. But we shouldn't use lies to bolster the argument for higher taxes on the rich."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 6246412,
+    "parent_children": null,
+    "thread_id": 6246412,
+    "thread_children": 0
   },
   {
+    "post_id": 52767182,
     "title": "It's time to raise taxes on the rich",
     "canonical_url": "https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6246568,
     "top_level": false,
     "date": "Apr 26 2022 07:01",
@@ -6661,13 +9325,20 @@ window._comments = [
           "value": "No. That is why I proposed increasing the taxes on realized capital gains."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6246497,
+    "parent_children": null,
+    "thread_id": 6246412,
+    "thread_children": 0
   },
   {
+    "post_id": 69956089,
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8615151,
     "top_level": true,
     "date": "Aug 25 2022 06:55",
@@ -6704,13 +9375,20 @@ window._comments = [
           "value": "I also like the idea of ensuring someone has some real skin in the game when determining the financial cost/benefit estimation. That could be the school\u2019s themselves being at least partially responsible for defaulting students. Or the loans could be at least partially funded through private sources, with that debit subject to standard bankruptcy law."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8615151,
+    "thread_children": 1
   },
   {
+    "post_id": 69956089,
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8628603,
     "top_level": false,
     "date": "Aug 25 2022 14:48",
@@ -6735,13 +9413,20 @@ window._comments = [
           "value": "Or we can internalize some of the costs to students since they also internalize a large amount of the benefits due to their higher lifetime earnings."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8627307,
+    "parent_children": null,
+    "thread_id": 8615151,
+    "thread_children": 1
   },
   {
+    "post_id": 69956089,
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8615247,
     "top_level": false,
     "date": "Aug 25 2022 07:07",
@@ -6766,13 +9451,20 @@ window._comments = [
           "value": "In that case Biden gets to be seen as being in favor of student loan forgiveness without having to suffer the consequences of doing so. Plus, he can rage against the Republican SCOTUS as being an enemy of democracy."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8615184,
+    "parent_children": null,
+    "thread_id": 8615184,
+    "thread_children": 0
   },
   {
+    "post_id": 69956089,
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8615012,
     "top_level": false,
     "date": "Aug 25 2022 06:41",
@@ -6797,13 +9489,20 @@ window._comments = [
           "value": "I will concede that Summers can at times come off as an overconfident arrogant asshole. I listen to him every week on Bloomberg's Wall Street Week, and I commonly find myself cringing at his rhetoric despite my agreement with his position. "
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": 8614943,
+    "parent_children": null,
+    "thread_id": 8614943,
+    "thread_children": 0
   },
   {
+    "post_id": 69956089,
     "title": "For the next two years, Biden needs to bring back the economists",
     "canonical_url": "https://www.slowboring.com/p/for-the-next-two-years-biden-needs",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8622972,
     "top_level": false,
     "date": "Aug 25 2022 12:01",
@@ -6850,13 +9549,196 @@ window._comments = [
           "value": "https://web-docs.stern.nyu.edu/old_web/economics/docs/workingpapers/2010/White_The%20Gramm-Leach-Bliley%20Act%20of%201999.pdf"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 8618534,
+    "parent_children": null,
+    "thread_id": 8614943,
+    "thread_children": 0
   },
   {
+    "post_id": 84695778,
+    "title": "Mailbag forever ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-forever-5f5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10569505,
+    "top_level": false,
+    "date": "Nov 18 2022 15:33",
+    "likes": 2,
+    "timestamp": 1668803612,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That $630M year includes a large one time payment. As Ben Thompson explained, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2022/musks-twitter-blue-a-twitter-subscription-revisited-apple-earnings/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> These numbers are deceiving; in December 2021 Twitter made a $809.5 million payment to settle a shareholder class-action lawsuit for having allegedly misled investors about user engagement metrics in 2015. Without that payment Twitter\u2019s 2021 cash flow from operations would have been $1.4 billion, which is, needless to say, enough to cover its debt burden. This shouldn\u2019t be a surprise, by the way: while I am sure the banks regret agreeing to fund Musk\u2019s horribly overpriced acquisition, it is silly to think that they would have committed more money than Twitter as currently constituted could afford to pay."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They now have a new problem with the withdrawal of advertisers due to the reputational risk of advertising on Musk\u2019s Twitter."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10561473,
+    "parent_children": null,
+    "thread_id": 10556391,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84695778,
+    "title": "Mailbag forever ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-forever-5f5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10556036,
+    "top_level": true,
+    "date": "Nov 18 2022 07:21",
+    "likes": 7,
+    "timestamp": 1668774076,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> US government debt plays a very important role in finance & in economics. Imagine we completely retired the debt & ran no deficits / balanced budgets forever after. What effect would this have on finance & economics?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this question is focused on the centrality of US treasuries within the global financial system and the answer doesn\u2019t really address the implications if these financial instruments were eliminated. Particularly, I think this question might be related to the \u201csafe asset shortage\u201d, [1] which was a major concern until recently. Now with inflation running high and the Fed being a net treasury seller through quantitative tightening, there is the opposing concern of a treasury glut. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My simplistic understanding is that our current global financial system couldn\u2019t work without the large and growing supply of US treasuries. They are the safest financial asset because they are backed by the most powerful military and from a government that also provides the global reserve currency. For corporations and institutional investors, treasuries are even safer than bank deposits since FDIC insurance is limited to $250k. There is just nothing else comparable to US treasuries."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Therefore treasuries are used all throughout the financial system. They serve as both long term reserves as well as collateral for short term funding through repurchase agreements (repo); basically borrowing cash against treasuries."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe the global financial system would become far more riskier and volatile if treasuries were slowly phased out. There\u2019d probably be a need for the US government to create some sort of replacement; possibly expanding FDIC insurance or creating some new Federal Reserve facility for guaranteeing deposits. But the simplest solution is to continue running a federal budget deficit. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \u201cThe Safe Assets Shortage Conundrum\u201d [2017], "
+        },
+        {
+          "type": "url",
+          "value": "https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.3.29"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] \u201cThe Dearth-of-Safe-Assets Era Is Over\u201d [Jul 2021], "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2021-07-26/a-u-s-treasuries-glut-brings-more-risk-to-the-economy"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10556036,
+    "thread_children": 0
+  },
+  {
+    "post_id": 85966745,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-0f7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10779300,
+    "top_level": false,
+    "date": "Nov 28 2022 17:57",
+    "likes": 6,
+    "timestamp": 1669676236,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In my limited experience there is a lot of variation between different state DMVs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "California, San Francisco specifically, was a nightmare. I had to make an appointment three months in advance and it still took over two hours to transfer a license. Time included waiting for my number to be called several times to visit several different counters as I advanced through the bureaucratic labyrinth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "When I moved back to Atlanta, GA, I was able to make a next-day appointment and transfer a license in 15 minutes."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10778462,
+    "parent_children": null,
+    "thread_id": 10778462,
+    "thread_children": 0
+  },
+  {
+    "post_id": 85966745,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-0f7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10803210,
+    "top_level": true,
+    "date": "Nov 29 2022 17:41",
+    "likes": 0,
+    "timestamp": 1669761660,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Do you have take on the looming railroad strike and Biden calling on Congress to avert that by passing a bill to require the unions to accept the tentative contract?"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10803210,
+    "thread_children": 0
+  },
+  {
+    "post_id": 67297001,
     "title": "A totally off-the-news post about taxes",
     "canonical_url": "https://www.slowboring.com/p/a-totally-off-the-news-post-about",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8419207,
     "top_level": true,
     "date": "Aug 16 2022 07:11",
@@ -6903,13 +9785,219 @@ window._comments = [
           "value": "In return for investing domestically and being a long term investor, you pay substantially lower taxes. At most you pay 20% and there are brackets taxed at lower rates. E.g., a single person pays nothing on the first $38k of qualified dividends and 15% up to $425k."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8419207,
+    "thread_children": 0
   },
   {
+    "post_id": 83900508,
+    "title": "Two years of strong and slow boring of hard boards",
+    "canonical_url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10481103,
+    "top_level": false,
+    "date": "Nov 15 2022 07:03",
+    "likes": 22,
+    "timestamp": 1668513781,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Found that we only had around 2000 unique comment contributors when analyzing comments from January through April 2022. Further,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 80% of comments were posted by 12.4% of commentators"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 50% of comments were posted by 2.35% of commentators"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 1,508 comments were made by the most prolific user"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More details in this May comment, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-8ac/comment/6399846"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 10481036,
+    "parent_children": null,
+    "thread_id": 10480944,
+    "thread_children": 0
+  },
+  {
+    "post_id": 83900508,
+    "title": "Two years of strong and slow boring of hard boards",
+    "canonical_url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10485238,
+    "top_level": false,
+    "date": "Nov 15 2022 10:39",
+    "likes": 1,
+    "timestamp": 1668526758,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! From that linked comment"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> the Gini coefficient of comments per a user is 0.819, which is more skewed than the highest country income inequality of 0.63 in South Africa"
+        }
+      ],
+      []
+    ],
+    "total_children": 0,
+    "parent_id": 10484781,
+    "parent_children": null,
+    "thread_id": 10480944,
+    "thread_children": 0
+  },
+  {
+    "post_id": 83900508,
+    "title": "Two years of strong and slow boring of hard boards",
+    "canonical_url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10481291,
+    "top_level": true,
+    "date": "Nov 15 2022 07:20",
+    "likes": 29,
+    "timestamp": 1668514813,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I strongly respect the mea culpa from Andrew Sullivan referenced in this article, \u201cThe Normie Center Strikes Back\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://andrewsullivan.substack.com/p/the-normie-center-strikes-back-e09"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Particularly this paragraph,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But these trends were overwhelmed by other issues, and did not amount to the kind of decisive rejection of Democratic leftism I favored and suspected would happen. I was wrong. I remain convinced that wokeness is terribly destructive to liberal society, but my obsessions are obviously not everyone\u2019s. And my fault was in not seeing how MAGA extremism \u2014 the sheer anti-democratic crazy of the GOP \u2014 was seen by independent voters as far more dangerous than the crazy left. I actually agree \u2014 see this recent piece, for example \u2014 and if I didn\u2019t live in a super-blue city, I might have felt differently about my protest vote. But from the broadest perspective, I was simply wrong to emphasize the impact of the far left as much as I have. You\u2019ve told me this many times. I should have listened more, and I will."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a recent subscriber to his newsletter, I\u2019ve found him to be an honest and insightful writer who gives me a lot of insight into conservative thought. Yet I\u2019ve been frustrated by how much attention he paid to woke issues. I\u2019m glad to see this correction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d recommend checking out Sullivan\u2019s free newsletter and podcast for anyone who\u2019d like to learn more about conservative beliefs. (And I also think it\u2019s worth paying $5/month for.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Among topics, he\u2019s had a series of guests exploring right wing political thought, including far-right radicalism. Notably, Sullivan\u2019s discussion with Matthew Rose was quite enlightening about the development of far-right thinkers throughout the 20th century. "
+        },
+        {
+          "type": "url",
+          "value": "https://andrewsullivan.substack.com/p/an-icon-not-an-idol-71f#%C2%A7new-on-the-dishcast-matthew-rose"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10481291,
+    "thread_children": 0
+  },
+  {
+    "post_id": 83900508,
+    "title": "Two years of strong and slow boring of hard boards",
+    "canonical_url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10481051,
+    "top_level": true,
+    "date": "Nov 15 2022 06:58",
+    "likes": 24,
+    "timestamp": 1668513495,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And there is a climate of perestroika in the media now that the intense emotions of 2020 have faded."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is an excellent development in the Democratic-aligned media ecosystem. I\u2019d be curious to learn more about the factors driving this vibe shift. Ben Smith\u2019s Oct Semafor article, \u201cInside the identity crisis at The New York Times,\u201d suggests that NYT management has reasserted control and the insurgents have \u201cgiven up.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe these changes in the media and some activists groups behoove us skeptics to take it easy on the hippy punching. Particularly, we should minimize relitigating the excesses of 2020/21 and generally declare amnesty. While it tempting to use subsequent developments (e.g., IRA succeeding where BBB failed and the collapse of \u201cdefund\u201d) as vindication of our earlier views, that could be counterproductive. Rather than changing people\u2019s minds, we might just force our compatriot interlocutors to double down as that is a instinctive ego defense mechanism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.semafor.com/article/10/18/2022/inside-the-identity-crisis-at-the-new-york-times"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10481051,
+    "thread_children": 0
+  },
+  {
+    "post_id": 61636691,
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7477145,
     "top_level": true,
     "date": "Jul 01 2022 07:57",
@@ -6946,13 +10034,20 @@ window._comments = [
           "value": "There may be some temptation for parents to be the \u201ccool parent\u201d that gives their child zero restrictions. But hopefully parents can use peer pressure on each other to enforce some common regulatory regime. And I think there is some value in letting groups of parents figure out the appropriate restrictions for their children in a highly localized manor."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7477145,
+    "thread_children": 0
   },
   {
+    "post_id": 61636691,
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7476897,
     "top_level": true,
     "date": "Jul 01 2022 07:40",
@@ -7031,13 +10126,20 @@ window._comments = [
           "value": "https://bam.kalzumeus.com/archive/community-banking-and-fintech/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7476897,
+    "thread_children": 0
   },
   {
+    "post_id": 61636691,
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7477402,
     "top_level": true,
     "date": "Jul 01 2022 08:13",
@@ -7062,13 +10164,20 @@ window._comments = [
           "value": "I would even like to see Substack give us readers the option to bring their own ranking algorithm or to choose from a selection of algorithms with customization options. Of course I'm a software engineer that has strong opinions on social media algorithms so I might not be representative here. Nonetheless, I think we reader\u2019s could benefit from options in terms of how comments are ranked. And the nerds among us could do a lot of experimentation to discover ranking algorithms that might be broadly useful for general readership."
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7477402,
+    "thread_children": 1
   },
   {
+    "post_id": 61636691,
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7481720,
     "top_level": false,
     "date": "Jul 01 2022 11:08",
@@ -7091,13 +10200,20 @@ window._comments = [
           "value": "https://www.slowboring.com/api/v1/post/61636691/comments?token=&all_comments=true&sort=best_first"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7478110,
+    "parent_children": null,
+    "thread_id": 7477402,
+    "thread_children": 1
   },
   {
+    "post_id": 57340427,
     "title": "Two cheers for American higher education ",
     "canonical_url": "https://www.slowboring.com/p/two-cheers-for-american-higher-education",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6900138,
     "top_level": true,
     "date": "Jun 02 2022 07:26",
@@ -7156,13 +10272,20 @@ window._comments = [
           "value": "https://www.insidehighered.com/news/2020/01/16/profit-programs-not-only-ones-would-fail-gainful-employment-test"
         }
       ]
-    ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6900138,
+    "thread_children": 1
   },
   {
+    "post_id": 57340427,
     "title": "Two cheers for American higher education ",
     "canonical_url": "https://www.slowboring.com/p/two-cheers-for-american-higher-education",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6908518,
     "top_level": false,
     "date": "Jun 02 2022 13:48",
@@ -7191,13 +10314,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/there-are-too-many-scams-in-higher?s=r"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6908321,
+    "parent_children": null,
+    "thread_id": 6900138,
+    "thread_children": 1
   },
   {
+    "post_id": 51320469,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-3c5",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5886333,
     "top_level": true,
     "date": "Apr 04 2022 17:13",
@@ -7210,13 +10340,20 @@ window._comments = [
           "value": "Do you think we could promote high-skilled immigration as a conservative policy proposal to economically attack us liberals? It seems conservatives are convinced that immigration depresses wages so it seems they could be convinced to support more immigration into industries that are disproportionately liberal. E.g., tech. Could a grassroot campaign to \u201cDefund the Liberals\u201d get some republican politicians to embrace high-skilled immigration?"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 5886333,
+    "thread_children": 0
   },
   {
+    "post_id": 51320469,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-3c5",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5886359,
     "top_level": true,
     "date": "Apr 04 2022 17:15",
@@ -7259,13 +10396,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/kathryn-paige-harden-on-the-genetic"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 5886359,
+    "thread_children": 0
   },
   {
+    "post_id": 59752737,
     "title": "Why progressive organizations have become so vulnerable to staff meltdowns",
     "canonical_url": "https://www.slowboring.com/p/why-progressive-organizations-have",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7260227,
     "top_level": true,
     "date": "Jun 21 2022 06:55",
@@ -7312,13 +10456,20 @@ window._comments = [
           "value": "https://www.slowboring.com/p/juneteenth-mailbag/comment/7191140"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7260227,
+    "thread_children": 0
   },
   {
+    "post_id": 45304661,
     "title": "Curtailing labor supply is a terrible way to boost wages",
     "canonical_url": "https://www.slowboring.com/p/curtailing-labor-supply-is-a-terrible",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4001226,
     "top_level": true,
     "date": "Dec 14 2021 06:43",
@@ -7403,13 +10554,20 @@ window._comments = [
           "value": "https://waverlyhs.weebly.com/us-history-blog-may-2016---may-2017/the-1950s-the-great-migration-the-mechanical-cotton-picker"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 4001226,
+    "thread_children": 0
   },
   {
+    "post_id": 58893445,
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7121135,
     "top_level": true,
     "date": "Jun 14 2022 06:33",
@@ -7440,13 +10598,20 @@ window._comments = [
           "value": "While vilifying oil and gas companies may please certain climate activists, this is a counterproductive approach towards achieving the green transition and further it alienates voters who are being financially squeezed by high and volatile energy prices. We instead need some sort of holistic energy plan that combines policies for accelerating the green transition with healthy respect for a robust domestic oil and gas industry that is necessary throughout this transition."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7121135,
+    "thread_children": 0
   },
   {
+    "post_id": 58893445,
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7126264,
     "top_level": false,
     "date": "Jun 14 2022 11:22",
@@ -7459,13 +10624,20 @@ window._comments = [
           "value": "I don\u2019t believe Republicans have an actual plan for how they want to address inflation. Instead, I think they will just attack whatever Democrats do as being inept or counterproductive. Therefore I think we should focus on strategies and messaging that minimizes the strengths of the Republican counter messaging. I don\u2019t think we\u2019ve landed on a good strategy yet and hence we\u2019ve given Republicans a lot of great material to work with."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 7124357,
+    "parent_children": null,
+    "thread_id": 7121305,
+    "thread_children": 0
   },
   {
+    "post_id": 58893445,
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7121284,
     "top_level": true,
     "date": "Jun 14 2022 06:53",
@@ -7484,13 +10656,20 @@ window._comments = [
           "value": "If we really wanna go with the greedflation narrative then we should properly commit to it. We should annonce an FTC investigation into collusion between oil and gas producers to curtail supply and therefore control prices. We should say that the general lack of investment into these highly lucrative industries is circumstantial evidence of illegal behavior and warrants a proper federal investigation. We could easily find at least one large investor that is a shareholder in two or more oil companies and suggest that they are illegally coordinating action between independent firms."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7121284,
+    "thread_children": 0
   },
   {
+    "post_id": 58893445,
     "title": "A windfall profits tax idea that could actually work",
     "canonical_url": "https://www.slowboring.com/p/a-windfall-profits-tax-idea-that",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7121569,
     "top_level": true,
     "date": "Jun 14 2022 07:24",
@@ -7521,13 +10700,90 @@ window._comments = [
           "value": "> Putin has subsequently made that choice with devastating consequences throughout the world, including painfully higher prices for all Americans. I should\u2019ve properly identified that risk even before entering the Whitehouse and prepared the appropriate domestic industrial policy to grow American productive output in these key industries. I have now directed my team to prepare such policy and it will be a top priority to strengthen our industries so that United States can replace Russia\u2019s output and stabilize prices."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7121569,
+    "thread_children": 0
   },
   {
+    "post_id": 84371323,
+    "title": "I would like to know Ron DeSantis\u2019 opinions on major policy issues",
+    "canonical_url": "https://www.slowboring.com/p/i-would-like-to-know-ron-desantis",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10504818,
+    "top_level": true,
+    "date": "Nov 16 2022 06:42",
+    "likes": 17,
+    "timestamp": 1668598930,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could it be that DeSantis is just a pragmatic politician with a fair amount of flexibility on policy positions? (Some might say machiavellian.) Reading through this history of his political career, it seems like he is just following the Republican party\u2019s hectic evolution without any noteworthy dissent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Like many Republicans, including Trump, DeSantis likely favors tax cuts for the rich. And like Trump, he may evade explicitly stating that policy position should he run for president. Even in debates with the Democratic candidate, DeSantis could deflect when pressed on that specific issue."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Trump himself didn\u2019t seem to pay much of a price for his tax cuts for the rich in the 2020 presidential election. It could be because Trump was defined by numerous other issues of higher salience. DeSantis could similarly avoid making this an issue in the 2024 election by leaning into non-fiscal issues, like immigration and culture war stuff."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10504818,
+    "thread_children": 0
+  },
+  {
+    "post_id": 84371323,
+    "title": "I would like to know Ron DeSantis\u2019 opinions on major policy issues",
+    "canonical_url": "https://www.slowboring.com/p/i-would-like-to-know-ron-desantis",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10504905,
+    "top_level": true,
+    "date": "Nov 16 2022 06:48",
+    "likes": 14,
+    "timestamp": 1668599319,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "If DeSantis runs for president in 2024, I don\u2019t think his policy positions will be that important. Instead, his fight with Trump in the Republican primary will be the defining feature. And even if DeSantis wins the nomination, he\u2019ll still have to contend with a vengeful Trump; a Trump who could run a third party spoiler campaign or at least instruct his supporters to refrain from voting in the general election."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Unless Trump is in jail, otherwise barred from office, or his heart finally gives out, I don\u2019t see how DeSantis or any other non-Trump candidate could win the general election."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10504905,
+    "thread_children": 0
+  },
+  {
+    "post_id": 50154475,
     "title": "What went wrong with Russia in the 1990s",
     "canonical_url": "https://www.slowboring.com/p/russia-1990s",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 5548903,
     "top_level": false,
     "date": "Mar 15 2022 06:59",
@@ -7550,13 +10806,244 @@ window._comments = [
           "value": "https://www.thepullrequest.com/p/history-restart"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 5548847,
+    "parent_children": null,
+    "thread_id": 5548729,
+    "thread_children": 0
   },
   {
+    "post_id": 87359583,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-926",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10855064,
+    "top_level": false,
+    "date": "Dec 01 2022 19:46",
+    "likes": 2,
+    "timestamp": 1669941967,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "From the clips I\u2019ve seen and tweet summaries I\u2019ve read, it is unfathomably gross while also incoherent. I get the impression that Jones is actually the most lucid and least antisemetic of the three, which is saying a lot. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/oneunderscore__/status/1598367806348996608"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This InfoWars interview with Kanye West is getting so thoroughly antisemitic that even Alex Jones is pushing back, after West has spent the last few minutes accusing Jews of being pedophiles. \"I think most Jews are great people,\" Jones says. \"But I agree there's a Jewish mafia.\""
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10853280,
+    "parent_children": null,
+    "thread_id": 10853280,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87359583,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-926",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10854094,
+    "top_level": true,
+    "date": "Dec 01 2022 18:48",
+    "likes": 5,
+    "timestamp": 1669938519,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Strongly recommend Noah Smith\u2019s and roon\u2019s recent article: \u201cGenerative AI: autocomplete for everything,\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think it\u2019s an excellent high-level summary of the current state of AI products for generating content. The article also provides some insightful ideas about how humans may leverage this technology rather than being replaced by machines."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They show how our current AI can leverage its superior memory and speed to provide a rough draft of an image, article, or computer program based upon concise, high-level instructions from a human creator. Yet the AI can neither self-inspire an idea nor get all of the details right. The human must therefore still do the challenging work of devising the novel idea as well as proof-read the draft work produced by the AI and correct small mistakes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Suggests that current technology won\u2019t replace humans anytime soon, but may massively increase our productivity. I personally hope to soon leverage this technology to reply to 25 substack comments every day using prompts like, \u201cwrite 10 paragraphs with authoritative references detailing why the original poster is not only incorrect, but also deeply immoral.\u201d"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10854094,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87359583,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-926",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10853411,
+    "top_level": false,
+    "date": "Dec 01 2022 18:08",
+    "likes": 3,
+    "timestamp": 1669936126,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a techie who is a bit critical of social media, I very much want to like Mastodon. The idea of federated (i.e., many independent) servers that can optionally link to each other (i.e., include each other's content) sounds enticing. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I particularly like the idea of different servers experimenting with different approaches to moderation and algorithmic ranking. That would allow different communities to better meet the unique needs of their members. The experimentation could also discover novel approaches to the moderation and algorithm challenges that could be adopted by mainstream social media sites."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet even I can\u2019t be bothered to search for the appropriate server to join and go through the rather involved process to set up an account. I\u2019ve browsed a few public servers without an account and haven\u2019t discovered any discussions that are particularly captivating. Further, I\u2019ve heard stories of petty site owners/moderators banning users for arbitrary reasons; mainly because they felt like it. Just doesn\u2019t seem worth the effort."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, I\u2019m actually finding substack comment sections to the superior federated social media. Chiefly, here on Slow Boring. (Although in some ways this is just rediscovering the internet forums of the 90s.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Kinda makes sense how the paywall and lower scale makes these sites less enticing to trolls and spammers. Similarly, there are fewer opportunities for partisan enemies to encounter each other since we all at least agree on paying for the author\u2019s unique content. Further, each substack owner can adopt their own moderation policies that they believe are appropriate for their own brand."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Curious if Substack might ever wanna offer some functionality to support the \u201clinking\u201d idea of the fediverse. For example, two authors with different, yet ideological overlapping communities could co-publish an article and allow subscribers from both sites to comment. There would certainly be more opportunities for conflict. But with some more hands-on moderation it could be a decent opportunity to encounter ideas from a different tribe. Site owners would likely only use this feature sparingly."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 10852182,
+    "parent_children": null,
+    "thread_id": 10852182,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87359583,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-926",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10855792,
+    "top_level": false,
+    "date": "Dec 01 2022 20:32",
+    "likes": 3,
+    "timestamp": 1669944770,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While I\u2019m more open to having my comment history public (as demonstrated below), I understand the concern and believe paid-only articles don\u2019t make the comment section available to the general public, including search engines. That might be a configurable option set by the substack owner."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also agree that comment history would be useful. I\u2019d also like some search functionality. For that reason, I\u2019ve actually built my own substack frontend for browsing, filtering, searching, and tagging comments. Here\u2019s an earlier public prototype that is only populated with my comments, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/"
+        },
+        {
+          "type": "text",
+          "value": " (My personal, private instance has all 192k comments and more features.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "One day I hope to open source the code, but it requires a fair amount of tech know-how to set up and operate. [1] So only other techie nerds in need of a new hobby could benefit. And I have zero interest in hosting something that others could use. Ideally substack will one day just build this functionality into their frontend."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Notably, fetching posts and comments is hacky since substack doesn\u2019t offer an API, and therefore a program has to fetch my browser cookies and pretend to be Chrome in making HTTP requests. Also, I\u2019m not a web developer, so all of the code is currently a horrific mess that I\u2019d need to clean up before sharing to avoid professional shame."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 10855312,
+    "parent_children": null,
+    "thread_id": 10852182,
+    "thread_children": 0
+  },
+  {
+    "post_id": 87359583,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-926",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10856301,
+    "top_level": false,
+    "date": "Dec 01 2022 21:07",
+    "likes": 0,
+    "timestamp": 1669946838,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks! And, yes, I\u2019ll share it on HN once I get around to cleaning it up."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10855836,
+    "parent_children": null,
+    "thread_id": 10852182,
+    "thread_children": 0
+  },
+  {
+    "post_id": 69431698,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-edc",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 8712397,
     "top_level": true,
     "date": "Aug 29 2022 17:20",
@@ -7581,13 +11068,20 @@ window._comments = [
           "value": "Basically a brain drain between economic classes rather than between countries."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 8712397,
+    "thread_children": 0
   },
   {
+    "post_id": 73638721,
     "title": "Russia's military and economic strategy is failing",
     "canonical_url": "https://www.slowboring.com/p/russias-military-and-economic-strategy",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 9195913,
     "top_level": true,
     "date": "Sep 21 2022 07:02",
@@ -7650,13 +11144,20 @@ window._comments = [
           "value": "https://www.bloomberg.com/opinion/articles/2022-09-19/frustrated-and-snubbed-putin-is-running-out-of-options-at-home-and-in-ukraine"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 9195913,
+    "thread_children": 0
   },
   {
+    "post_id": 59616580,
     "title": "The merits of a \"narrow target\" campaign",
     "canonical_url": "https://www.slowboring.com/p/the-merits-of-a-narrow-target-campaign",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7380373,
     "top_level": true,
     "date": "Jun 27 2022 07:10",
@@ -7703,13 +11204,20 @@ window._comments = [
           "value": "https://www.employamerica.org/researchreports/the-break-glass-moment/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7380373,
+    "thread_children": 0
   },
   {
+    "post_id": 59616580,
     "title": "The merits of a \"narrow target\" campaign",
     "canonical_url": "https://www.slowboring.com/p/the-merits-of-a-narrow-target-campaign",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 7379950,
     "top_level": true,
     "date": "Jun 27 2022 06:31",
@@ -7740,13 +11248,20 @@ window._comments = [
           "value": "I like to think there's a line of attack against our current counterproductive activists that focuses on their lack of table stakes. Something that paints them as charlatans focused on fame and money by exploiting causes that they\u2019re buffered against due to their privileges of elite education and social connections."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 7379950,
+    "thread_children": 0
   },
   {
+    "post_id": 83535266,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10473463,
     "top_level": false,
     "date": "Nov 14 2022 18:55",
@@ -7781,17 +11296,24 @@ window._comments = [
           "value": "> \u201cIt was wealthy individuals, families, people who don\u2019t spend basically every waking hour thinking about business models and problems and breakthroughs in health care,\u201d Bryan Roberts, a partner at the venture capital firm Venrock who focuses on health care investment, told Recode. \u201cIn the sort of core early-stage venture investment community, I think there\u2019s been zero impact.\u201d"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10471696,
+    "parent_children": null,
+    "thread_id": 10471696,
+    "thread_children": 0
   },
   {
+    "post_id": 83535266,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10471481,
     "top_level": true,
     "date": "Nov 14 2022 17:11",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1668463892,
     "body": [
       [
@@ -7854,13 +11376,20 @@ window._comments = [
           "value": "> \u201cHigh inflation necessitates a response. But the concern is the Fed is doing too much, too quickly,\u201d the lawmaker from Colorado wrote in a letter Thursday. \u201cI write to urge the Federal Reserve to pause and seriously consider the negative consequences of again raising interest rates.\u201d"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10471481,
+    "thread_children": 0
   },
   {
+    "post_id": 83535266,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 10473656,
     "top_level": false,
     "date": "Nov 14 2022 19:07",
@@ -7907,13 +11436,274 @@ window._comments = [
           "value": "https://constitutioncenter.org/the-constitution/articles/article-i#article-section-8"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 10472161,
+    "parent_children": null,
+    "thread_id": 10472161,
+    "thread_children": 0
   },
   {
+    "post_id": 85962904,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10635241,
+    "top_level": false,
+    "date": "Nov 21 2022 20:21",
+    "likes": 1,
+    "timestamp": 1669080091,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. From my stats, 8 users have been banned; 1 permanently. The other users were banned for either 1, 7 or 30 days."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10632476,
+    "parent_children": null,
+    "thread_id": 10632399,
+    "thread_children": 0
+  },
+  {
+    "post_id": 86347660,
+    "title": "Cities shouldn't reject growth in the name of climate mitigation",
+    "canonical_url": "https://www.slowboring.com/p/cities-shouldnt-reject-growth-in",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10763958,
+    "top_level": true,
+    "date": "Nov 28 2022 06:43",
+    "likes": 23,
+    "timestamp": 1669635787,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m curious about why degrowth is appealing to anyone. I personally struggle to empathize with the desire to make anyone materially poorer; particularly myself. Yet there is a long and rich history of religious and philosophical thought on rejecting material comforts for spiritual enrichment. This leads me to believe that the appeal of degrowth rests on some aspect of human psychology."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m tempted to believe that the rejection of material wealth can at times be a form of sour grapes. I.e., some people see material comfort as being unattainable for themselves and therefore reject it as something worth pursuing. Such a disposition would serve as an ego defense mechanism. I find this theory particularly appealing when degrowth advocates demand to impose their beliefs on others; including others with more financial success."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet on reflection, that hypothesis just seems lazy, biased, and self-serving. There is likely more to the psychological appeal of degrowth that I just don\u2019t yet understand."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Anyone have a better theory on why degrowth is an attractive idea to some people?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10763958,
+    "thread_children": 1
+  },
+  {
+    "post_id": 86347660,
+    "title": "Cities shouldn't reject growth in the name of climate mitigation",
+    "canonical_url": "https://www.slowboring.com/p/cities-shouldnt-reject-growth-in",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10764309,
+    "top_level": false,
+    "date": "Nov 28 2022 07:16",
+    "likes": 18,
+    "timestamp": 1669637782,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s been a lot of discussion of degrowth and eco-asceticism in the comments of previous articles and I found some interesting insights when searching past comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "evan bear,  Aug 2021, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/is-cuban-healthcare-actually-good/comment/2679482"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I think a lot of Cuba's appeal to certain lefties (who aren't necessarily communists) is precisely because they find non-malnutrition-level poverty attractive for a mixture of moral and aesthetic reasons. It's the same reason why some climate folks are so attracted to degrowth as a solution: they see it as a positive good, separate and apart from its necessity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There is something to be said for poverty as a personal lifestyle choice - it obviously has deep roots in many religious traditions including Christianity. But it doesn't really make sense as a principle for organizing society through public policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "James B., Oct 2022, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/saturday-thread-b6b/comment/10082955"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There's an area of disagreement I have with Matt that I've been trying to put my finger on. Basically, an underlying theme of some of Matt's writing seems to be that \"consumerism is good, actually\" (this came to mind recently due to the \"alternative meats\" article). I get that he is trying to push back against the strands of eco-asceticism and pastoralism you see on the left, and I do not subscribe to that worldview, but I can't help but feel there is just something decadent and hollow about American-style consumerism. That an abundance of cheap consumer goods shouldn't be the ultimate measure of a modern prosperous society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "evan bear, Jan 2022, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/dont-look-up/comment/4291085"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If you dig one level deeper, the unpopular ideas about eco-asceticism or anticapitalism are themselves \"really about\" something else. What that is differs from person to person, but often it's just a desire to be able to one-up other left-of-center people, for ego-driven purposes. Sirota himself is like the personification of this phenomenon."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Quite a few interesting comments on the March 2022 article, \u201cClimate politics for the real world\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunrise-movement/comments"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Old Man Riverwalk, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunrise-movement/comment/5571212"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There is definitely a subset of environmentalists who use climate as a pretext to push their worldview that the way Americans currently live is excessive and that we need to consume/produce less. Degrowth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "BronxZooCobra, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunrise-movement/comment/5565650"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The \u201cwe need to make sacrifices\u201d gets \u201cactivists\u201d dicks hard way more than it should."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Battery and solar panel prices are falling to the point where folks can be self sufficient in energy, including vehicle charging. A world where the average American comes home and plugs in his F150 Lightning and reads about some revolution in Saudi Arabia or Iran and thinks, \u201cTo think we used to worry about that.\u201d Is a wonderful vision you could sell to voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "An observer from abroad, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunrise-movement/comment/5565806"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> You see the same thing with covid policies. Sacrifice for the sake of sacrifice, never doing what works without disproportionate cost. A policy of \u2018vax and relax\u2019 is too painless. Better to \u2018vax and do crazy rituals with masks and close government offices forevermore\u2019."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "FrigidWind, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunrise-movement/comment/5567205"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> It's all religious. We are the ones who sacrifice the most therefore we are pure and you unwashed infidels must listen to us."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10763958,
+    "parent_children": 1,
+    "thread_id": 10763958,
+    "thread_children": 1
+  },
+  {
+    "post_id": 57830726,
     "title": "America spends a lot more on schools than on police ",
     "canonical_url": "https://www.slowboring.com/p/america-spends-a-lot-more-on-schools",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6986671,
     "top_level": true,
     "date": "Jun 07 2022 07:30",
@@ -7974,13 +11764,20 @@ window._comments = [
           "value": ", \u201cschool performance is dominated by out-of-school factors.\u201d"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 6986671,
+    "thread_children": 0
   },
   {
+    "post_id": 57830726,
     "title": "America spends a lot more on schools than on police ",
     "canonical_url": "https://www.slowboring.com/p/america-spends-a-lot-more-on-schools",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 6986503,
     "top_level": false,
     "date": "Jun 07 2022 07:16",
@@ -7993,13 +11790,20 @@ window._comments = [
           "value": "I believe there was near universal backlash against busing policy. That backlash wasn\u2019t limited to affluent whites; working class people and people of color also protested these policies. Chiefly because many had their children spending 1-2 hours a day on buses. Parents found that a horrible waste of time and it necessitated children waking up particularly early. Further, children's social relations were strained by the fact that their in-school friends might live an hour or more away."
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 6986311,
+    "parent_children": null,
+    "thread_id": 6985994,
+    "thread_children": 0
   },
   {
+    "post_id": 47951599,
     "title": "A tepid take on the bipartisan drive to ban tech self-preferencing",
     "canonical_url": "https://www.slowboring.com/p/a-tepid-take-on-the-bipartisan-drive",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4807658,
     "top_level": false,
     "date": "Feb 01 2022 06:38",
@@ -8038,13 +11842,20 @@ window._comments = [
           "value": "https://www.howtogeek.com/313433/how-to-sideload-apps-on-android/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": 4807545,
+    "parent_children": null,
+    "thread_id": 4807545,
+    "thread_children": 0
   },
   {
+    "post_id": 47951599,
     "title": "A tepid take on the bipartisan drive to ban tech self-preferencing",
     "canonical_url": "https://www.slowboring.com/p/a-tepid-take-on-the-bipartisan-drive",
     "name": "Matt Hagy",
     "user_id": 3094604,
+    "reaction": null,
     "id": 4807589,
     "top_level": true,
     "date": "Feb 01 2022 06:29",
@@ -8091,6 +11902,73 @@ window._comments = [
           "value": "https://techcrunch.com/2010/02/24/yelp-class-action-lawsuit/"
         }
       ]
-    ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 4807589,
+    "thread_children": 0
+  },
+  {
+    "post_id": 86783389,
+    "title": "New York City shouldn't be covered in sidewalk sheds",
+    "canonical_url": "https://www.slowboring.com/p/new-york-city-shouldnt-be-covered",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10812862,
+    "top_level": true,
+    "date": "Nov 30 2022 06:51",
+    "likes": 51,
+    "timestamp": 1669809068,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This process [cost-benefit analysis] is often controversial on the left"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, this is an instance of a more general problem within the current American leftist thought: denial of constraints and tradeoffs. They view such considerations as capitalistic, or neoliberal, and therefore refuse to acknowledge them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For a hypothetical extreme example, imagine a new medical procedure that could extend the life of someone at an age of 90 for another 3 months at a cost of $1,000,000. A pragmatic progressive could argue that medicare shouldn\u2019t cover this procedure following a cost benefit analysis. Yet American leftists would argue that we can\u2019t put a dollar value on human life and therefore no cost is too great for any medical procedure."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even ignoring the capitalistic stain of dollars doesn\u2019t fully ameliorate such tradeoff considerations. For example, one could argue that there are only X doctors currently capable of performing this procedure, and there is an opportunity cost in that they can\u2019t provide other more beneficial procedures. American leftists would counter that the real problem is insufficient doctors, and at most might begrudgingly accept there are some minimal short term tradeoff considerations. They would largely deflect the hard tradeoff question by pivoting to this idealistic one."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is incredibly frustrating for us pragmatic progressives because constraints and tradeoffs exist in all political economic systems. Even Marxist ones! Should a communist revolution succeed in the US today, then tomorrow we\u2019d still be faced with many of the same constraints and tradeoffs. Particularly, we\u2019d have to consider consumption now vs. investing in the future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Continuing the healthcare example, our Marxist government might want to aggressively expand doctor training so that we can provide more beneficial procedures in the future. Yet that would require more medical teachers and mentors; a role that is primarily provided by our current doctors. Just focusing solely on personnel constraints, we\u2019d have to determine how to allocate our current medical professionals to practicing medicine vs. training new doctors. To aggressively expand doctor training for the future, we\u2019d have to significantly decrease the availability of medical procedures in the present."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In our Marxist America, I\u2019d much rather discuss and debate these medical tradeoffs with Jeff Bezos (our Czar of Logistics) than our current American leftists, who I would expect to continue denying constraints and tradeoffs. They\u2019d likely label these concerns as reactionary propaganda and focus on a good-old-fashioned leftist purge."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10812862,
+    "thread_children": 0
   }
 ];
