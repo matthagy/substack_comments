@@ -83,6 +83,10 @@ function loadComments() {
                     return a['timestamp'] < b['timestamp'] ? 1 : -1;
                 case 'old':
                     return a['timestamp'] > b['timestamp'] ? 1 : -1;
+                case 'ratio_recv':
+                    return a['ratio_recv'] > b['ratio_recv'] ? -1 : 1;
+                case 'ratio_give':
+                    return a['ratio_give'] > b['ratio_give'] ? -1 : 1;
             }
         });
 
@@ -128,6 +132,18 @@ function loadComments() {
         }
     }
 
+    function createLink(url, text, cssClass) {
+        const link = document.createElement('a');
+        if (cssClass) {
+            link.classList.add(cssClass);
+        }
+        link.setAttribute('href', url);
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+        link.appendChild(document.createTextNode(text));
+        return link;
+    }
+
     function renderComment(comment, termsMatcher) {
         const entryDiv = document.createElement('div');
         entryDiv.classList.add('entry');
@@ -135,32 +151,27 @@ function loadComments() {
         const metaDiv = document.createElement('div');
         entryDiv.appendChild(metaDiv);
 
-        const nameSpan = document.createElement('span');
-        metaDiv.appendChild(nameSpan);
-        nameSpan.classList.add('name');
-        nameSpan.appendChild(document.createTextNode(`${comment['name']} `));
+        function createText(text, cssClass) {
+            const likeSpan = document.createElement('span');
+            metaDiv.appendChild(likeSpan);
+            likeSpan.classList.add(cssClass);
+            likeSpan.appendChild(document.createTextNode(text));
+        }
 
-        const likeSpan = document.createElement('span');
-        metaDiv.appendChild(likeSpan);
-        likeSpan.classList.add('meta');
-        likeSpan.appendChild(document.createTextNode(`❤ ${comment['likes']} `));
+        function createCommentLink(commentId, text) {
+            metaDiv.appendChild(createLink(`${comment['canonical_url']}/comment/${commentId}`, text, 'meta'));
+        }
 
-        const dateLink = document.createElement('a');
-        metaDiv.appendChild(dateLink);
-        dateLink.classList.add('meta');
-        dateLink.setAttribute('href', `${comment['canonical_url']}/comment/${comment['id']}`);
-        dateLink.appendChild(document.createTextNode(comment['date']));
+        createText(comment['name'], 'name');
+        createText(`❤ ${comment['likes']} ${comment['date']}`, 'meta');
+        metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
+        createCommentLink(comment.id,
+            `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
 
-        const postLink = document.createElement('a');
-        metaDiv.appendChild(postLink);
-        postLink.classList.add('post-title');
-        postLink.setAttribute('href', comment['canonical_url']);
-        postLink.appendChild(document.createTextNode(comment['title'].trim()));
-
-        const typeSpan = document.createElement('span');
-        metaDiv.appendChild(typeSpan);
-        typeSpan.classList.add('meta');
-        typeSpan.appendChild(document.createTextNode(`${comment['top_level'] ? 'top-level' : 'reply'} comment`));
+        if (!comment.top_level) {
+            createCommentLink(comment.thread_id, `thread (${comment.thread_children})`);
+            createCommentLink(comment.parent_id, `parent (${comment.parent_children})`);
+        }
 
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');

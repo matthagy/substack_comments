@@ -43,22 +43,22 @@ input[type="text"] {
     padding: 8px;
 }
 
-.name {
+.name, .meta, .post-title {
     font-size: 12px;
+    margin-right: 6px;
+}
+
+.name {
     color: #202020;
     font-weight: bold;
 }
 
 .meta {
-    font-size: 12px;
     color: #808080;
 }
 
 .post-title {
-    font-size: 12px;
     color: #202020;
-    margin-left: 6px;
-    margin-right: 6px;
 }
 
 a.link {

@@ -51,11 +51,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 10,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7252326,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": -31,
+    "ratio_give": null
   },
   {
     "post_id": 59737189,
@@ -97,11 +99,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": 7252840,
-    "parent_children": null,
+    "parent_children": 17,
     "thread_id": 7252840,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": 0,
+    "ratio_give": -4
   },
   {
     "post_id": 59737189,
@@ -127,11 +131,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7252070,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 7252070,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -6,
+    "ratio_give": 3
   },
   {
     "post_id": 59737189,
@@ -201,11 +207,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7258322,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 7258322,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": 0
   },
   {
     "post_id": 59737189,
@@ -259,9 +267,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 7269685,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 7269685,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": 0
   },
   {
     "post_id": 87749070,
@@ -289,9 +299,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10865642,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 10863106,
-    "thread_children": 0
+    "thread_children": 75,
+    "ratio_recv": null,
+    "ratio_give": -4
   },
   {
     "post_id": 87749070,
@@ -329,11 +341,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 20,
     "parent_id": 10861640,
-    "parent_children": null,
+    "parent_children": 104,
     "thread_id": 10861640,
-    "thread_children": 0
+    "thread_children": 104,
+    "ratio_recv": -8,
+    "ratio_give": -5
   },
   {
     "post_id": 87749070,
@@ -367,11 +381,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 16,
     "parent_id": 10862049,
-    "parent_children": null,
+    "parent_children": 19,
     "thread_id": 10861640,
-    "thread_children": 0
+    "thread_children": 104,
+    "ratio_recv": -9,
+    "ratio_give": 7
   },
   {
     "post_id": 87749070,
@@ -399,11 +415,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 12,
     "parent_id": 10862561,
-    "parent_children": null,
+    "parent_children": 13,
     "thread_id": 10861640,
-    "thread_children": 0
+    "thread_children": 104,
+    "ratio_recv": -15,
+    "ratio_give": 16
   },
   {
     "post_id": 87749070,
@@ -433,9 +451,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10870461,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10861640,
-    "thread_children": 0
+    "thread_children": 104,
+    "ratio_recv": null,
+    "ratio_give": 1
   },
   {
     "post_id": 87749070,
@@ -473,11 +493,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10866688,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 10861640,
-    "thread_children": 0
+    "thread_children": 104,
+    "ratio_recv": -4,
+    "ratio_give": 3
   },
   {
     "post_id": 87749070,
@@ -517,11 +539,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10861788,
-    "thread_children": 1
+    "thread_children": 3,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 87749070,
@@ -563,9 +587,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10861788,
-    "parent_children": 1,
+    "parent_children": 3,
     "thread_id": 10861788,
-    "thread_children": 1
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": -4
   },
   {
     "post_id": 87749070,
@@ -605,11 +631,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10862365,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 55799999,
@@ -665,11 +693,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6736898,
-    "thread_children": 0
+    "thread_children": 21,
+    "ratio_recv": -17,
+    "ratio_give": null
   },
   {
     "post_id": 79072865,
@@ -753,11 +783,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 26,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9860195,
-    "thread_children": 0
+    "thread_children": 26,
+    "ratio_recv": -2,
+    "ratio_give": null
   },
   {
     "post_id": 67642825,
@@ -791,11 +823,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 38,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8313885,
-    "thread_children": 1
+    "thread_children": 38,
+    "ratio_recv": -36,
+    "ratio_give": null
   },
   {
     "post_id": 67642825,
@@ -817,11 +851,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 8314924,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 8313885,
-    "thread_children": 1
+    "thread_children": 38,
+    "ratio_recv": -4,
+    "ratio_give": 1
   },
   {
     "post_id": 51403483,
@@ -855,11 +891,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 5893555,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": -12,
+    "ratio_give": null
   },
   {
     "post_id": 57532707,
@@ -903,11 +941,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 6967826,
-    "parent_children": null,
+    "parent_children": 9,
     "thread_id": 6967826,
-    "thread_children": 0
+    "thread_children": 9,
+    "ratio_recv": -7,
+    "ratio_give": -3
   },
   {
     "post_id": 57532707,
@@ -975,11 +1015,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6967940,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 57532707,
@@ -1007,11 +1049,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6968016,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 57532707,
@@ -1065,7 +1109,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6968089,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 58867637,
@@ -1093,11 +1139,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 71,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7165152,
-    "thread_children": 0
+    "thread_children": 71,
+    "ratio_recv": 38,
+    "ratio_give": null
   },
   {
     "post_id": 58867637,
@@ -1125,11 +1173,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7164978,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": 4,
+    "ratio_give": null
   },
   {
     "post_id": 60539716,
@@ -1169,11 +1219,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 7326576,
-    "parent_children": null,
+    "parent_children": 5,
     "thread_id": 7323493,
-    "thread_children": 0
+    "thread_children": 25,
+    "ratio_recv": 0,
+    "ratio_give": -5
   },
   {
     "post_id": 70608891,
@@ -1245,7 +1297,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8743547,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 46030715,
@@ -1279,11 +1333,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 4269797,
-    "thread_children": 1
+    "thread_children": 3,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 46030715,
@@ -1323,9 +1379,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 4270001,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 4269797,
-    "thread_children": 1
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 1
   },
   {
     "post_id": 48797501,
@@ -1353,11 +1411,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 5131926,
-    "parent_children": null,
+    "parent_children": 12,
     "thread_id": 5131129,
-    "thread_children": 0
+    "thread_children": 61,
+    "ratio_recv": -6,
+    "ratio_give": 6
   },
   {
     "post_id": 48797501,
@@ -1387,9 +1447,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 5131212,
-    "parent_children": null,
+    "parent_children": 12,
     "thread_id": 5131212,
-    "thread_children": 0
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 56724202,
@@ -1457,11 +1519,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6862403,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": -3,
+    "ratio_give": null
   },
   {
     "post_id": 56724202,
@@ -1485,9 +1549,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6862242,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 6862192,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 56724202,
@@ -1511,9 +1577,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6862183,
-    "parent_children": null,
+    "parent_children": 10,
     "thread_id": 6862122,
-    "thread_children": 0
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 3
   },
   {
     "post_id": 71786926,
@@ -1547,11 +1615,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8895077,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 71786926,
@@ -1585,11 +1655,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 8,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8894881,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 67219249,
@@ -1629,11 +1701,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8264048,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 81372927,
@@ -1673,11 +1747,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 10166149,
-    "parent_children": null,
+    "parent_children": 5,
     "thread_id": 10164981,
-    "thread_children": 0
+    "thread_children": 137,
+    "ratio_recv": -1,
+    "ratio_give": -4
   },
   {
     "post_id": 81372927,
@@ -1699,11 +1775,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10169017,
-    "parent_children": 1,
+    "parent_children": 3,
     "thread_id": 10164981,
-    "thread_children": 0
+    "thread_children": 137,
+    "ratio_recv": -3,
+    "ratio_give": -1
   },
   {
     "post_id": 81372927,
@@ -1759,11 +1837,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10164753,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -19,
+    "ratio_give": null
   },
   {
     "post_id": 55302326,
@@ -1795,11 +1875,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6748702,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -5,
+    "ratio_give": null
   },
   {
     "post_id": 59628308,
@@ -1821,11 +1903,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7197437,
-    "parent_children": null,
+    "parent_children": 13,
     "thread_id": 7191140,
-    "thread_children": 0
+    "thread_children": 25,
+    "ratio_recv": -6,
+    "ratio_give": 6
   },
   {
     "post_id": 52577286,
@@ -1879,11 +1963,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 43,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6228662,
-    "thread_children": 0
+    "thread_children": 43,
+    "ratio_recv": -13,
+    "ratio_give": null
   },
   {
     "post_id": 86845811,
@@ -1913,9 +1999,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10802758,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 10802758,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -16
   },
   {
     "post_id": 86845811,
@@ -1977,11 +2065,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 34,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10802478,
-    "thread_children": 0
+    "thread_children": 34,
+    "ratio_recv": 3,
+    "ratio_give": null
   },
   {
     "post_id": 70864744,
@@ -2020,11 +2110,13 @@ window._comments = [
       ],
       []
     ],
-    "total_children": 0,
+    "total_children": 11,
     "parent_id": 8768623,
-    "parent_children": null,
+    "parent_children": 28,
     "thread_id": 8768623,
-    "thread_children": 0
+    "thread_children": 28,
+    "ratio_recv": -11,
+    "ratio_give": 9
   },
   {
     "post_id": 70864744,
@@ -2074,11 +2166,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8768716,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": 2,
+    "ratio_give": null
   },
   {
     "post_id": 67128817,
@@ -2112,11 +2206,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 10,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8241339,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": -24,
+    "ratio_give": null
   },
   {
     "post_id": 82320227,
@@ -2160,11 +2256,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 10287938,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 10287836,
-    "thread_children": 0
+    "thread_children": 64,
+    "ratio_recv": 2,
+    "ratio_give": -2
   },
   {
     "post_id": 82320227,
@@ -2214,11 +2312,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 7,
     "parent_id": 10287744,
-    "parent_children": null,
+    "parent_children": 14,
     "thread_id": 10287744,
-    "thread_children": 0
+    "thread_children": 14,
+    "ratio_recv": -1,
+    "ratio_give": -8
   },
   {
     "post_id": 73006846,
@@ -2252,11 +2352,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 9076050,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 9072233,
-    "thread_children": 0
+    "thread_children": 118,
+    "ratio_recv": 0,
+    "ratio_give": 2
   },
   {
     "post_id": 73006846,
@@ -2290,11 +2392,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 12,
     "parent_id": 9072391,
-    "parent_children": null,
+    "parent_children": 36,
     "thread_id": 9072391,
-    "thread_children": 0
+    "thread_children": 36,
+    "ratio_recv": -2,
+    "ratio_give": -19
   },
   {
     "post_id": 73006846,
@@ -2316,11 +2420,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 9076899,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 9072391,
-    "thread_children": 0
+    "thread_children": 36,
+    "ratio_recv": -3,
+    "ratio_give": -4
   },
   {
     "post_id": 73006846,
@@ -2360,11 +2466,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9072431,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -15,
+    "ratio_give": null
   },
   {
     "post_id": 73006846,
@@ -2410,11 +2518,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9072562,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 70469724,
@@ -2446,11 +2556,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 8720969,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 8720564,
-    "thread_children": 0
+    "thread_children": 14,
+    "ratio_recv": -3,
+    "ratio_give": 2
   },
   {
     "post_id": 70330779,
@@ -2478,11 +2590,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 8702176,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 8699487,
-    "thread_children": 0
+    "thread_children": 18,
+    "ratio_recv": -7,
+    "ratio_give": 6
   },
   {
     "post_id": 70330779,
@@ -2523,11 +2637,13 @@ window._comments = [
       ],
       []
     ],
-    "total_children": 0,
+    "total_children": 19,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8699550,
-    "thread_children": 0
+    "thread_children": 19,
+    "ratio_recv": -3,
+    "ratio_give": null
   },
   {
     "post_id": 70330779,
@@ -2567,11 +2683,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 16,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8699462,
-    "thread_children": 2
+    "thread_children": 16,
+    "ratio_recv": 3,
+    "ratio_give": null
   },
   {
     "post_id": 70330779,
@@ -2593,11 +2711,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 11,
     "parent_id": 8699618,
-    "parent_children": null,
+    "parent_children": 12,
     "thread_id": 8699462,
-    "thread_children": 2
+    "thread_children": 16,
+    "ratio_recv": 10,
+    "ratio_give": -17
   },
   {
     "post_id": 70330779,
@@ -2625,11 +2745,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 8702106,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 8699462,
-    "thread_children": 2
+    "thread_children": 16,
+    "ratio_recv": 0,
+    "ratio_give": -4
   },
   {
     "post_id": 70330779,
@@ -2653,9 +2775,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 8699198,
-    "parent_children": null,
+    "parent_children": 16,
     "thread_id": 8699198,
-    "thread_children": 0
+    "thread_children": 16,
+    "ratio_recv": null,
+    "ratio_give": 0
   },
   {
     "post_id": 72553392,
@@ -2712,9 +2836,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 9135013,
-    "parent_children": null,
+    "parent_children": 12,
     "thread_id": 9135013,
-    "thread_children": 0
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -6
   },
   {
     "post_id": 47491031,
@@ -2748,11 +2874,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 9,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 4675823,
-    "thread_children": 0
+    "thread_children": 9,
+    "ratio_recv": 7,
+    "ratio_give": null
   },
   {
     "post_id": 82923971,
@@ -2782,9 +2910,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10331203,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 10330309,
-    "thread_children": 0
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 61556524,
@@ -2851,11 +2981,13 @@ window._comments = [
       ],
       []
     ],
-    "total_children": 0,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7450238,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": -10,
+    "ratio_give": null
   },
   {
     "post_id": 42751863,
@@ -2889,11 +3021,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 3301076,
-    "parent_children": null,
+    "parent_children": 17,
     "thread_id": 3301076,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": -6,
+    "ratio_give": -3
   },
   {
     "post_id": 69515164,
@@ -2997,11 +3131,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 16,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8567846,
-    "thread_children": 0
+    "thread_children": 16,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 69515164,
@@ -3035,11 +3171,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 11,
     "parent_id": 8567947,
-    "parent_children": null,
+    "parent_children": 12,
     "thread_id": 8567791,
-    "thread_children": 0
+    "thread_children": 68,
+    "ratio_recv": -5,
+    "ratio_give": 4
   },
   {
     "post_id": 69515164,
@@ -3073,11 +3211,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 8568103,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 8567791,
-    "thread_children": 0
+    "thread_children": 68,
+    "ratio_recv": -2,
+    "ratio_give": -1
   },
   {
     "post_id": 69515164,
@@ -3099,11 +3239,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 8567733,
-    "parent_children": null,
+    "parent_children": 9,
     "thread_id": 8567733,
-    "thread_children": 0
+    "thread_children": 9,
+    "ratio_recv": -2,
+    "ratio_give": 2
   },
   {
     "post_id": 79379632,
@@ -3159,11 +3301,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9886124,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": 0,
+    "ratio_give": null
   },
   {
     "post_id": 62988475,
@@ -3195,11 +3339,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 12,
     "parent_id": 7690017,
-    "parent_children": null,
+    "parent_children": 13,
     "thread_id": 7686793,
-    "thread_children": 0
+    "thread_children": 164,
+    "ratio_recv": -1,
+    "ratio_give": 4
   },
   {
     "post_id": 52832260,
@@ -3227,11 +3373,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 35,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6266728,
-    "thread_children": 0
+    "thread_children": 35,
+    "ratio_recv": -30,
+    "ratio_give": null
   },
   {
     "post_id": 52832260,
@@ -3299,11 +3447,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6267041,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -11,
+    "ratio_give": null
   },
   {
     "post_id": 52832260,
@@ -3339,9 +3489,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6272846,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 6267178,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 52832260,
@@ -3363,11 +3515,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 6266345,
-    "parent_children": null,
+    "parent_children": 48,
     "thread_id": 6266345,
-    "thread_children": 0
+    "thread_children": 48,
+    "ratio_recv": -4,
+    "ratio_give": 4
   },
   {
     "post_id": 46339666,
@@ -3407,11 +3561,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 8,
     "parent_id": 4289519,
-    "parent_children": null,
+    "parent_children": 70,
     "thread_id": 4289519,
-    "thread_children": 0
+    "thread_children": 70,
+    "ratio_recv": -13,
+    "ratio_give": -40
   },
   {
     "post_id": 62667855,
@@ -3449,11 +3605,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": 7976713,
-    "parent_children": null,
+    "parent_children": 19,
     "thread_id": 7976713,
-    "thread_children": 0
+    "thread_children": 19,
+    "ratio_recv": -2,
+    "ratio_give": -7
   },
   {
     "post_id": 70000534,
@@ -3481,11 +3639,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": 8645659,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 8642362,
-    "thread_children": 0
+    "thread_children": 12,
+    "ratio_recv": -4,
+    "ratio_give": -1
   },
   {
     "post_id": 70000534,
@@ -3519,11 +3679,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 8643646,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 8641603,
-    "thread_children": 0
+    "thread_children": 68,
+    "ratio_recv": 0,
+    "ratio_give": -4
   },
   {
     "post_id": 70000534,
@@ -3567,11 +3729,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 8646472,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 8643447,
-    "thread_children": 0
+    "thread_children": 22,
+    "ratio_recv": -1,
+    "ratio_give": -1
   },
   {
     "post_id": 58601559,
@@ -3599,11 +3763,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 29,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7099978,
-    "thread_children": 0
+    "thread_children": 29,
+    "ratio_recv": -13,
+    "ratio_give": null
   },
   {
     "post_id": 58601559,
@@ -3653,11 +3819,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7099782,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 58601559,
@@ -3685,11 +3853,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 11,
     "parent_id": 7099718,
-    "parent_children": null,
+    "parent_children": 65,
     "thread_id": 7099718,
-    "thread_children": 0
+    "thread_children": 65,
+    "ratio_recv": -8,
+    "ratio_give": 11
   },
   {
     "post_id": 58601559,
@@ -3741,9 +3911,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 7099992,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 7099992,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 2
   },
   {
     "post_id": 81247288,
@@ -3811,11 +3983,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10183203,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 81292136,
@@ -3879,11 +4053,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 35,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10138366,
-    "thread_children": 1
+    "thread_children": 35,
+    "ratio_recv": -77,
+    "ratio_give": null
   },
   {
     "post_id": 81292136,
@@ -3925,9 +4101,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10139992,
-    "parent_children": null,
+    "parent_children": 10,
     "thread_id": 10138366,
-    "thread_children": 1
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": 1
   },
   {
     "post_id": 81292136,
@@ -3995,11 +4173,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10137853,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": -13,
+    "ratio_give": null
   },
   {
     "post_id": 81292136,
@@ -4023,9 +4203,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10139578,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 10137853,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": -5
   },
   {
     "post_id": 81292136,
@@ -4063,11 +4245,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10138003,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 81292136,
@@ -4089,11 +4273,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10147697,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 10138944,
-    "thread_children": 0
+    "thread_children": 28,
+    "ratio_recv": 1,
+    "ratio_give": 0
   },
   {
     "post_id": 81292136,
@@ -4127,11 +4313,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10138881,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 81292136,
@@ -4171,11 +4359,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10138753,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 69004628,
@@ -4209,11 +4399,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": 8489664,
-    "parent_children": null,
+    "parent_children": 56,
     "thread_id": 8489664,
-    "thread_children": 0
+    "thread_children": 56,
+    "ratio_recv": -10,
+    "ratio_give": -43
   },
   {
     "post_id": 69004628,
@@ -4253,11 +4445,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 8490827,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 8490827,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": -3,
+    "ratio_give": -13
   },
   {
     "post_id": 69004628,
@@ -4285,11 +4479,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 8490928,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 8490928,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": -3,
+    "ratio_give": -8
   },
   {
     "post_id": 60336780,
@@ -4365,7 +4561,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7303402,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 60336780,
@@ -4391,11 +4589,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": 7303104,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 7303104,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": 1,
+    "ratio_give": 1
   },
   {
     "post_id": 87551177,
@@ -4453,11 +4653,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10837150,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -36,
+    "ratio_give": null
   },
   {
     "post_id": 87551177,
@@ -4503,11 +4705,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 11,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10836948,
-    "thread_children": 0
+    "thread_children": 11,
+    "ratio_recv": -12,
+    "ratio_give": null
   },
   {
     "post_id": 87551177,
@@ -4557,11 +4761,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 10836834,
-    "parent_children": null,
+    "parent_children": 8,
     "thread_id": 10836834,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": -2,
+    "ratio_give": 0
   },
   {
     "post_id": 87551177,
@@ -4585,9 +4791,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10836811,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10836773,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 10
   },
   {
     "post_id": 53154031,
@@ -4655,11 +4863,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 47,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": -20,
+    "ratio_give": null
   },
   {
     "post_id": 53154031,
@@ -4681,11 +4891,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 6402251,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": -8,
+    "ratio_give": 4
   },
   {
     "post_id": 53154031,
@@ -4707,11 +4919,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 18,
     "parent_id": 6402115,
-    "parent_children": null,
+    "parent_children": 20,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": -1,
+    "ratio_give": -10
   },
   {
     "post_id": 53154031,
@@ -4733,11 +4947,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 6402792,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": -1,
+    "ratio_give": 0
   },
   {
     "post_id": 53154031,
@@ -4759,11 +4975,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 6,
     "parent_id": 6403067,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": 5,
+    "ratio_give": 1
   },
   {
     "post_id": 53154031,
@@ -4835,11 +5053,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 6402552,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 6399846,
-    "thread_children": 5
+    "thread_children": 47,
+    "ratio_recv": -4,
+    "ratio_give": 4
   },
   {
     "post_id": 57982533,
@@ -4903,11 +5123,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 33,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7404712,
-    "thread_children": 2
+    "thread_children": 33,
+    "ratio_recv": 2,
+    "ratio_give": null
   },
   {
     "post_id": 57982533,
@@ -4941,11 +5163,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 20,
     "parent_id": 7404712,
-    "parent_children": 2,
+    "parent_children": 33,
     "thread_id": 7404712,
-    "thread_children": 2
+    "thread_children": 33,
+    "ratio_recv": 4,
+    "ratio_give": 2
   },
   {
     "post_id": 57982533,
@@ -5095,11 +5319,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 7404872,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 7404712,
-    "thread_children": 2
+    "thread_children": 33,
+    "ratio_recv": -2,
+    "ratio_give": 2
   },
   {
     "post_id": 57982533,
@@ -5131,11 +5357,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 7404746,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 7404746,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": -11,
+    "ratio_give": 11
   },
   {
     "post_id": 45073472,
@@ -5203,7 +5431,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 3949338,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 43776715,
@@ -5265,11 +5495,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": 3592377,
-    "parent_children": null,
+    "parent_children": 15,
     "thread_id": 3592377,
-    "thread_children": 0
+    "thread_children": 15,
+    "ratio_recv": -13,
+    "ratio_give": 2
   },
   {
     "post_id": 54303445,
@@ -5313,11 +5545,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 20,
     "parent_id": 6549600,
-    "parent_children": null,
+    "parent_children": 30,
     "thread_id": 6549600,
-    "thread_children": 0
+    "thread_children": 30,
+    "ratio_recv": -18,
+    "ratio_give": 4
   },
   {
     "post_id": 54303445,
@@ -5347,9 +5581,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6549704,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 6549704,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": 5
   },
   {
     "post_id": 60820577,
@@ -5377,11 +5613,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7421121,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 7418400,
-    "thread_children": 0
+    "thread_children": 35,
+    "ratio_recv": -9,
+    "ratio_give": -7
   },
   {
     "post_id": 62033902,
@@ -5445,7 +5683,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7572247,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 58251621,
@@ -5499,11 +5739,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7006538,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -15,
+    "ratio_give": null
   },
   {
     "post_id": 58251621,
@@ -5615,7 +5857,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7005703,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 57553651,
@@ -5691,7 +5935,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6979127,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 59518168,
@@ -5729,11 +5975,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7280853,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -24,
+    "ratio_give": null
   },
   {
     "post_id": 59518168,
@@ -5755,11 +6003,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 7280774,
-    "parent_children": null,
+    "parent_children": 13,
     "thread_id": 7280774,
-    "thread_children": 0
+    "thread_children": 13,
+    "ratio_recv": 11,
+    "ratio_give": -1
   },
   {
     "post_id": 59518168,
@@ -5805,11 +6055,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7281163,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": 4,
+    "ratio_give": null
   },
   {
     "post_id": 83534788,
@@ -5871,7 +6123,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10424558,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 45221732,
@@ -5905,11 +6159,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 3986733,
-    "parent_children": null,
+    "parent_children": 29,
     "thread_id": 3986733,
-    "thread_children": 0
+    "thread_children": 29,
+    "ratio_recv": -8,
+    "ratio_give": -23
   },
   {
     "post_id": 45221732,
@@ -5943,11 +6199,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 14,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 3986762,
-    "thread_children": 0
+    "thread_children": 14,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 45221732,
@@ -5979,9 +6237,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 3986734,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 3986734,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": 0
   },
   {
     "post_id": 68903073,
@@ -6019,11 +6279,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 8468170,
-    "parent_children": null,
+    "parent_children": 39,
     "thread_id": 8465892,
-    "thread_children": 0
+    "thread_children": 135,
+    "ratio_recv": -2,
+    "ratio_give": -4
   },
   {
     "post_id": 68903073,
@@ -6051,11 +6313,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 8468999,
-    "parent_children": 1,
+    "parent_children": 2,
     "thread_id": 8465892,
-    "thread_children": 0
+    "thread_children": 135,
+    "ratio_recv": -3,
+    "ratio_give": -2
   },
   {
     "post_id": 81750627,
@@ -6083,11 +6347,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 4,
     "parent_id": 10192715,
-    "parent_children": null,
+    "parent_children": 42,
     "thread_id": 10192519,
-    "thread_children": 0
+    "thread_children": 45,
+    "ratio_recv": 0,
+    "ratio_give": -3
   },
   {
     "post_id": 81750627,
@@ -6117,9 +6383,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10193034,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10192519,
-    "thread_children": 0
+    "thread_children": 45,
+    "ratio_recv": null,
+    "ratio_give": -1
   },
   {
     "post_id": 81750627,
@@ -6165,11 +6433,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 8,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10192609,
-    "thread_children": 4
+    "thread_children": 8,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 81750627,
@@ -6199,9 +6469,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10192622,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 10192609,
-    "thread_children": 4
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": 4
   },
   {
     "post_id": 81750627,
@@ -6235,11 +6507,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": 10192622,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 10192609,
-    "thread_children": 4
+    "thread_children": 8,
+    "ratio_recv": -2,
+    "ratio_give": 0
   },
   {
     "post_id": 81750627,
@@ -6267,11 +6541,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 10193092,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 10192609,
-    "thread_children": 4
+    "thread_children": 8,
+    "ratio_recv": -2,
+    "ratio_give": 3
   },
   {
     "post_id": 81750627,
@@ -6301,9 +6577,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10193907,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10192609,
-    "thread_children": 4
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": -1
   },
   {
     "post_id": 81750627,
@@ -6371,11 +6649,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 10192274,
-    "parent_children": null,
+    "parent_children": 27,
     "thread_id": 10192274,
-    "thread_children": 0
+    "thread_children": 27,
+    "ratio_recv": -4,
+    "ratio_give": 6
   },
   {
     "post_id": 85218122,
@@ -6471,11 +6751,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 22,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10618939,
-    "thread_children": 1
+    "thread_children": 22,
+    "ratio_recv": -11,
+    "ratio_give": null
   },
   {
     "post_id": 85218122,
@@ -6531,11 +6813,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 15,
     "parent_id": 10618939,
-    "parent_children": 1,
+    "parent_children": 22,
     "thread_id": 10618939,
-    "thread_children": 1
+    "thread_children": 22,
+    "ratio_recv": -1,
+    "ratio_give": -14
   },
   {
     "post_id": 83218989,
@@ -6575,11 +6859,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 10365943,
-    "parent_children": null,
+    "parent_children": 50,
     "thread_id": 10365943,
-    "thread_children": 0
+    "thread_children": 50,
+    "ratio_recv": -8,
+    "ratio_give": -10
   },
   {
     "post_id": 83218989,
@@ -6667,11 +6953,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10366449,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -5,
+    "ratio_give": null
   },
   {
     "post_id": 83218989,
@@ -6705,11 +6993,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 26,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10366353,
-    "thread_children": 0
+    "thread_children": 26,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 83218989,
@@ -6737,11 +7027,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 10,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10366332,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": 6,
+    "ratio_give": null
   },
   {
     "post_id": 83218989,
@@ -6785,11 +7077,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 10366054,
-    "parent_children": null,
+    "parent_children": 5,
     "thread_id": 10366054,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -1,
+    "ratio_give": -4
   },
   {
     "post_id": 83218989,
@@ -6833,7 +7127,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10366374,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 80475018,
@@ -6877,11 +7173,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 110,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10047442,
-    "thread_children": 0
+    "thread_children": 110,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 80475018,
@@ -6947,7 +7245,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10047053,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 61349681,
@@ -6975,11 +7275,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 23,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7426985,
-    "thread_children": 1
+    "thread_children": 23,
+    "ratio_recv": -5,
+    "ratio_give": null
   },
   {
     "post_id": 61349681,
@@ -7019,11 +7321,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7428276,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 7426985,
-    "thread_children": 1
+    "thread_children": 23,
+    "ratio_recv": -9,
+    "ratio_give": 8
   },
   {
     "post_id": 43937960,
@@ -7089,11 +7393,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 3642299,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 3642299,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": 0,
+    "ratio_give": -3
   },
   {
     "post_id": 78234449,
@@ -7151,11 +7457,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10456299,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": -21,
+    "ratio_give": null
   },
   {
     "post_id": 72273018,
@@ -7193,11 +7501,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8942202,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -26,
+    "ratio_give": null
   },
   {
     "post_id": 72273018,
@@ -7291,11 +7601,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8942417,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -5,
+    "ratio_give": null
   },
   {
     "post_id": 58394722,
@@ -7329,11 +7641,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7029273,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -14,
+    "ratio_give": null
   },
   {
     "post_id": 58394722,
@@ -7372,11 +7686,13 @@ window._comments = [
       ],
       []
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7028748,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 7028748,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": -2
   },
   {
     "post_id": 58394722,
@@ -7436,7 +7752,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7028946,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 82102641,
@@ -7514,11 +7832,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10218829,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -2,
+    "ratio_give": null
   },
   {
     "post_id": 53053394,
@@ -7578,11 +7898,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6364395,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": -5,
+    "ratio_give": null
   },
   {
     "post_id": 53053394,
@@ -7604,11 +7926,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 7,
     "parent_id": 6364887,
-    "parent_children": null,
+    "parent_children": 8,
     "thread_id": 6364887,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": -24,
+    "ratio_give": 15
   },
   {
     "post_id": 87219657,
@@ -7654,11 +7978,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 68,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10787805,
-    "thread_children": 3
+    "thread_children": 68,
+    "ratio_recv": -34,
+    "ratio_give": null
   },
   {
     "post_id": 87219657,
@@ -7680,11 +8006,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 18,
     "parent_id": 10788647,
-    "parent_children": null,
+    "parent_children": 62,
     "thread_id": 10787805,
-    "thread_children": 3
+    "thread_children": 68,
+    "ratio_recv": -1,
+    "ratio_give": 5
   },
   {
     "post_id": 87219657,
@@ -7718,11 +8046,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 6,
     "parent_id": 10788895,
-    "parent_children": 2,
+    "parent_children": 18,
     "thread_id": 10787805,
-    "thread_children": 3
+    "thread_children": 68,
+    "ratio_recv": 0,
+    "ratio_give": -1
   },
   {
     "post_id": 87219657,
@@ -7752,9 +8082,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10788927,
-    "parent_children": null,
+    "parent_children": 10,
     "thread_id": 10787805,
-    "thread_children": 3
+    "thread_children": 68,
+    "ratio_recv": null,
+    "ratio_give": 7
   },
   {
     "post_id": 87219657,
@@ -7812,11 +8144,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10787675,
-    "parent_children": null,
+    "parent_children": 23,
     "thread_id": 10787675,
-    "thread_children": 0
+    "thread_children": 23,
+    "ratio_recv": -7,
+    "ratio_give": 1
   },
   {
     "post_id": 87219657,
@@ -7872,11 +8206,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10788120,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": 2,
+    "ratio_give": null
   },
   {
     "post_id": 81065545,
@@ -7898,11 +8234,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10129030,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 81065545,
@@ -7948,11 +8286,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": 10129030,
-    "parent_children": 1,
+    "parent_children": 7,
     "thread_id": 10129030,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": -3,
+    "ratio_give": -6
   },
   {
     "post_id": 81065545,
@@ -7976,9 +8316,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10130259,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 10128941,
-    "thread_children": 0
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -4
   },
   {
     "post_id": 78751941,
@@ -8018,11 +8360,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9808670,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": -13,
+    "ratio_give": null
   },
   {
     "post_id": 84489473,
@@ -8088,11 +8432,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10530603,
-    "thread_children": 2
+    "thread_children": 21,
+    "ratio_recv": -18,
+    "ratio_give": null
   },
   {
     "post_id": 84489473,
@@ -8150,11 +8496,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": 10530603,
-    "parent_children": 2,
+    "parent_children": 21,
     "thread_id": 10530603,
-    "thread_children": 2
+    "thread_children": 21,
+    "ratio_recv": -3,
+    "ratio_give": -23
   },
   {
     "post_id": 84489473,
@@ -8218,11 +8566,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 10,
     "parent_id": 10530603,
-    "parent_children": 2,
+    "parent_children": 21,
     "thread_id": 10530603,
-    "thread_children": 2
+    "thread_children": 21,
+    "ratio_recv": 6,
+    "ratio_give": -31
   },
   {
     "post_id": 84489473,
@@ -8252,11 +8602,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10533360,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 10533360,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": -9
   },
   {
     "post_id": 84489473,
@@ -8294,11 +8646,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 12,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10530754,
-    "thread_children": 0
+    "thread_children": 12,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 84489473,
@@ -8338,11 +8692,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 17,
     "parent_id": 10530470,
-    "parent_children": null,
+    "parent_children": 40,
     "thread_id": 10530470,
-    "thread_children": 0
+    "thread_children": 40,
+    "ratio_recv": -7,
+    "ratio_give": 14
   },
   {
     "post_id": 84489473,
@@ -8382,11 +8738,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 6,
     "parent_id": 10531101,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 10530470,
-    "thread_children": 0
+    "thread_children": 40,
+    "ratio_recv": 1,
+    "ratio_give": 1
   },
   {
     "post_id": 84489473,
@@ -8426,9 +8784,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10530596,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10530596,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": 3
   },
   {
     "post_id": 73254041,
@@ -8498,7 +8858,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9094342,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 68190824,
@@ -8532,11 +8894,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 8443440,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 8443440,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": 0,
+    "ratio_give": -15
   },
   {
     "post_id": 58930295,
@@ -8568,11 +8932,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7111874,
-    "thread_children": 0
+    "thread_children": 21,
+    "ratio_recv": -17,
+    "ratio_give": null
   },
   {
     "post_id": 58930295,
@@ -8594,11 +8960,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 10,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7111859,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": -11,
+    "ratio_give": null
   },
   {
     "post_id": 58930295,
@@ -8658,11 +9026,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7112536,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 53302113,
@@ -8706,11 +9076,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 6411782,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 6408486,
-    "thread_children": 0
+    "thread_children": 38,
+    "ratio_recv": -8,
+    "ratio_give": -3
   },
   {
     "post_id": 49698652,
@@ -8746,9 +9118,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 5437792,
-    "parent_children": null,
+    "parent_children": 36,
     "thread_id": 5437518,
-    "thread_children": 0
+    "thread_children": 68,
+    "ratio_recv": null,
+    "ratio_give": -3
   },
   {
     "post_id": 49698652,
@@ -8780,11 +9154,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 5437743,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 5437518,
-    "thread_children": 0
+    "thread_children": 68,
+    "ratio_recv": 0,
+    "ratio_give": 0
   },
   {
     "post_id": 71584256,
@@ -8822,11 +9198,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 20,
     "parent_id": 8872204,
-    "parent_children": null,
+    "parent_children": 21,
     "thread_id": 8872171,
-    "thread_children": 0
+    "thread_children": 38,
+    "ratio_recv": -14,
+    "ratio_give": 18
   },
   {
     "post_id": 44832459,
@@ -8876,9 +9254,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 3897692,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 3891603,
-    "thread_children": 0
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 75632816,
@@ -8918,11 +9298,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 38,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9553551,
-    "thread_children": 2
+    "thread_children": 38,
+    "ratio_recv": 11,
+    "ratio_give": null
   },
   {
     "post_id": 75632816,
@@ -8956,11 +9338,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 15,
     "parent_id": 9553551,
-    "parent_children": 2,
+    "parent_children": 38,
     "thread_id": 9553551,
-    "thread_children": 2
+    "thread_children": 38,
+    "ratio_recv": -7,
+    "ratio_give": 11
   },
   {
     "post_id": 75632816,
@@ -9000,11 +9384,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 9553551,
-    "parent_children": 2,
+    "parent_children": 38,
     "thread_id": 9553551,
-    "thread_children": 2
+    "thread_children": 38,
+    "ratio_recv": 2,
+    "ratio_give": -1
   },
   {
     "post_id": 75632816,
@@ -9044,11 +9430,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 9557411,
-    "parent_children": null,
+    "parent_children": 5,
     "thread_id": 9553550,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": 0,
+    "ratio_give": 2
   },
   {
     "post_id": 57548064,
@@ -9076,11 +9464,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 6921613,
-    "parent_children": null,
+    "parent_children": 17,
     "thread_id": 6921613,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": 1,
+    "ratio_give": -41
   },
   {
     "post_id": 73210423,
@@ -9118,11 +9508,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 15,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9161952,
-    "thread_children": 0
+    "thread_children": 15,
+    "ratio_recv": -3,
+    "ratio_give": null
   },
   {
     "post_id": 52767182,
@@ -9162,11 +9554,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 8,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6246558,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": -11,
+    "ratio_give": null
   },
   {
     "post_id": 52767182,
@@ -9194,11 +9588,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6246719,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -7,
+    "ratio_give": null
   },
   {
     "post_id": 52767182,
@@ -9242,11 +9638,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 8,
     "parent_id": 6246278,
-    "parent_children": null,
+    "parent_children": 11,
     "thread_id": 6246278,
-    "thread_children": 0
+    "thread_children": 11,
+    "ratio_recv": -1,
+    "ratio_give": 1
   },
   {
     "post_id": 52767182,
@@ -9276,9 +9674,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6246714,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 6246278,
-    "thread_children": 0
+    "thread_children": 11,
+    "ratio_recv": null,
+    "ratio_give": 0
   },
   {
     "post_id": 52767182,
@@ -9300,11 +9700,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 6246412,
-    "parent_children": null,
+    "parent_children": 13,
     "thread_id": 6246412,
-    "thread_children": 0
+    "thread_children": 13,
+    "ratio_recv": -20,
+    "ratio_give": 20
   },
   {
     "post_id": 52767182,
@@ -9328,9 +9730,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6246497,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 6246412,
-    "thread_children": 0
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 8
   },
   {
     "post_id": 69956089,
@@ -9376,11 +9780,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 34,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8615151,
-    "thread_children": 1
+    "thread_children": 34,
+    "ratio_recv": 0,
+    "ratio_give": null
   },
   {
     "post_id": 69956089,
@@ -9414,11 +9820,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 13,
     "parent_id": 8627307,
-    "parent_children": null,
+    "parent_children": 21,
     "thread_id": 8615151,
-    "thread_children": 1
+    "thread_children": 34,
+    "ratio_recv": -3,
+    "ratio_give": 5
   },
   {
     "post_id": 69956089,
@@ -9452,11 +9860,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 8615184,
-    "parent_children": null,
+    "parent_children": 6,
     "thread_id": 8615184,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": -5,
+    "ratio_give": -1
   },
   {
     "post_id": 69956089,
@@ -9490,11 +9900,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 9,
     "parent_id": 8614943,
-    "parent_children": null,
+    "parent_children": 17,
     "thread_id": 8614943,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": -2,
+    "ratio_give": 4
   },
   {
     "post_id": 69956089,
@@ -9550,11 +9962,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 8618534,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 8614943,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": -2,
+    "ratio_give": -1
   },
   {
     "post_id": 84695778,
@@ -9592,11 +10006,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10561473,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 10556391,
-    "thread_children": 0
+    "thread_children": 6,
+    "ratio_recv": -2,
+    "ratio_give": -1
   },
   {
     "post_id": 84695778,
@@ -9662,11 +10078,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10556036,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 85966745,
@@ -9700,11 +10118,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 10778462,
-    "parent_children": null,
+    "parent_children": 40,
     "thread_id": 10778462,
-    "thread_children": 0
+    "thread_children": 40,
+    "ratio_recv": -3,
+    "ratio_give": -17
   },
   {
     "post_id": 85966745,
@@ -9730,7 +10150,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10803210,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 67297001,
@@ -9790,7 +10212,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8419207,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 83900508,
@@ -9840,11 +10264,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 10481036,
-    "parent_children": null,
+    "parent_children": 25,
     "thread_id": 10480944,
-    "thread_children": 0
+    "thread_children": 27,
+    "ratio_recv": -18,
+    "ratio_give": 1
   },
   {
     "post_id": 83900508,
@@ -9875,9 +10301,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10484781,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10480944,
-    "thread_children": 0
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -3
   },
   {
     "post_id": 83900508,
@@ -9937,11 +10365,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 40,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10481291,
-    "thread_children": 0
+    "thread_children": 40,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 83900508,
@@ -9985,11 +10415,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 19,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10481051,
-    "thread_children": 0
+    "thread_children": 19,
+    "ratio_recv": -8,
+    "ratio_give": null
   },
   {
     "post_id": 61636691,
@@ -10035,11 +10467,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 25,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7477145,
-    "thread_children": 0
+    "thread_children": 25,
+    "ratio_recv": -16,
+    "ratio_give": null
   },
   {
     "post_id": 61636691,
@@ -10127,11 +10561,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7476897,
-    "thread_children": 0
+    "thread_children": 4,
+    "ratio_recv": -24,
+    "ratio_give": null
   },
   {
     "post_id": 61636691,
@@ -10165,11 +10601,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7477402,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": 7,
+    "ratio_give": null
   },
   {
     "post_id": 61636691,
@@ -10203,9 +10641,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 7478110,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 7477402,
-    "thread_children": 1
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": -16
   },
   {
     "post_id": 57340427,
@@ -10273,11 +10713,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 5,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6900138,
-    "thread_children": 1
+    "thread_children": 5,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 57340427,
@@ -10317,9 +10759,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 6908321,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 6900138,
-    "thread_children": 1
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -2
   },
   {
     "post_id": 51320469,
@@ -10341,11 +10785,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 5886333,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -2,
+    "ratio_give": null
   },
   {
     "post_id": 51320469,
@@ -10397,11 +10843,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 5886359,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": 0,
+    "ratio_give": null
   },
   {
     "post_id": 59752737,
@@ -10457,11 +10905,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 24,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7260227,
-    "thread_children": 0
+    "thread_children": 24,
+    "ratio_recv": -17,
+    "ratio_give": null
   },
   {
     "post_id": 45304661,
@@ -10555,11 +11005,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 4001226,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": -4,
+    "ratio_give": null
   },
   {
     "post_id": 58893445,
@@ -10603,7 +11055,9 @@ window._comments = [
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7121135,
-    "thread_children": 0
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 58893445,
@@ -10625,11 +11079,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 7124357,
-    "parent_children": null,
+    "parent_children": 2,
     "thread_id": 7121305,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -4,
+    "ratio_give": 0
   },
   {
     "post_id": 58893445,
@@ -10657,11 +11113,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 12,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7121284,
-    "thread_children": 0
+    "thread_children": 12,
+    "ratio_recv": 3,
+    "ratio_give": null
   },
   {
     "post_id": 58893445,
@@ -10701,11 +11159,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7121569,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": 0,
+    "ratio_give": null
   },
   {
     "post_id": 84371323,
@@ -10739,11 +11199,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10504818,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -2,
+    "ratio_give": null
   },
   {
     "post_id": 84371323,
@@ -10771,11 +11233,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10504905,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -9,
+    "ratio_give": null
   },
   {
     "post_id": 50154475,
@@ -10809,9 +11273,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 5548847,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 5548729,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": -8
   },
   {
     "post_id": 87359583,
@@ -10851,9 +11317,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10853280,
-    "parent_children": null,
+    "parent_children": 11,
     "thread_id": 10853280,
-    "thread_children": 0
+    "thread_children": 11,
+    "ratio_recv": null,
+    "ratio_give": -6
   },
   {
     "post_id": 87359583,
@@ -10897,11 +11365,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10854094,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 87359583,
@@ -10953,11 +11423,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 6,
     "parent_id": 10852182,
-    "parent_children": null,
+    "parent_children": 10,
     "thread_id": 10852182,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": -1,
+    "ratio_give": -1
   },
   {
     "post_id": 87359583,
@@ -11005,11 +11477,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 10855312,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 10852182,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": -2,
+    "ratio_give": 1
   },
   {
     "post_id": 87359583,
@@ -11033,9 +11507,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10855836,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10852182,
-    "thread_children": 0
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1
   },
   {
     "post_id": 69431698,
@@ -11069,11 +11545,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 33,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 8712397,
-    "thread_children": 0
+    "thread_children": 33,
+    "ratio_recv": -44,
+    "ratio_give": null
   },
   {
     "post_id": 73638721,
@@ -11145,11 +11623,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 29,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 9195913,
-    "thread_children": 0
+    "thread_children": 29,
+    "ratio_recv": -2,
+    "ratio_give": null
   },
   {
     "post_id": 59616580,
@@ -11205,11 +11685,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 26,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7380373,
-    "thread_children": 0
+    "thread_children": 26,
+    "ratio_recv": -14,
+    "ratio_give": null
   },
   {
     "post_id": 59616580,
@@ -11249,11 +11731,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7379950,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": 0,
+    "ratio_give": null
   },
   {
     "post_id": 83535266,
@@ -11297,11 +11781,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10471696,
-    "parent_children": null,
+    "parent_children": 3,
     "thread_id": 10471696,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": 0,
+    "ratio_give": -7
   },
   {
     "post_id": 83535266,
@@ -11377,11 +11863,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10471481,
-    "thread_children": 0
+    "thread_children": 1,
+    "ratio_recv": -6,
+    "ratio_give": null
   },
   {
     "post_id": 83535266,
@@ -11437,11 +11925,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 8,
     "parent_id": 10472161,
-    "parent_children": null,
+    "parent_children": 11,
     "thread_id": 10472161,
-    "thread_children": 0
+    "thread_children": 11,
+    "ratio_recv": 1,
+    "ratio_give": -3
   },
   {
     "post_id": 85962904,
@@ -11465,9 +11955,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 10632476,
-    "parent_children": null,
+    "parent_children": 1,
     "thread_id": 10632399,
-    "thread_children": 0
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 0
   },
   {
     "post_id": 86347660,
@@ -11507,11 +11999,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 68,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10763958,
-    "thread_children": 1
+    "thread_children": 68,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 86347660,
@@ -11691,11 +12185,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 5,
     "parent_id": 10763958,
-    "parent_children": 1,
+    "parent_children": 68,
     "thread_id": 10763958,
-    "thread_children": 1
+    "thread_children": 68,
+    "ratio_recv": -13,
+    "ratio_give": -5
   },
   {
     "post_id": 57830726,
@@ -11765,11 +12261,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 8,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6986671,
-    "thread_children": 0
+    "thread_children": 8,
+    "ratio_recv": -1,
+    "ratio_give": null
   },
   {
     "post_id": 57830726,
@@ -11791,11 +12289,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 6986311,
-    "parent_children": null,
+    "parent_children": 4,
     "thread_id": 6985994,
-    "thread_children": 0
+    "thread_children": 42,
+    "ratio_recv": -9,
+    "ratio_give": 17
   },
   {
     "post_id": 47951599,
@@ -11843,11 +12343,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 4807545,
-    "parent_children": null,
+    "parent_children": 7,
     "thread_id": 4807545,
-    "thread_children": 0
+    "thread_children": 7,
+    "ratio_recv": -21,
+    "ratio_give": 14
   },
   {
     "post_id": 47951599,
@@ -11903,11 +12405,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 4807589,
-    "thread_children": 0
+    "thread_children": 3,
+    "ratio_recv": 1,
+    "ratio_give": null
   },
   {
     "post_id": 86783389,
@@ -11965,10 +12469,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 17,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10812862,
-    "thread_children": 0
+    "thread_children": 17,
+    "ratio_recv": -31,
+    "ratio_give": null
   }
 ];
