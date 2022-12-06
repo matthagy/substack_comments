@@ -7850,7 +7850,7 @@ window._comments = [
     "id": 10918280,
     "top_level": true,
     "date": "Dec 04 2022 17:38",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1670193481,
     "body": [
       [
@@ -7915,7 +7915,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 10918280,
     "thread_children": 3,
-    "ratio_recv": -2,
+    "ratio_recv": -3,
     "ratio_give": null
   },
   {
@@ -9632,7 +9632,7 @@ window._comments = [
     "id": 10926838,
     "top_level": true,
     "date": "Dec 05 2022 06:29",
-    "likes": 90,
+    "likes": 98,
     "timestamp": 1670239763,
     "body": [
       [
@@ -9653,7 +9653,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 10926838,
     "thread_children": 16,
-    "ratio_recv": -75,
+    "ratio_recv": -79,
     "ratio_give": null
   },
   {
@@ -9694,11 +9694,11 @@ window._comments = [
     ],
     "total_children": 64,
     "parent_id": 10926897,
-    "parent_children": 106,
+    "parent_children": 108,
     "thread_id": 10926897,
-    "thread_children": 106,
+    "thread_children": 108,
     "ratio_recv": -11,
-    "ratio_give": 4
+    "ratio_give": 3
   },
   {
     "post_id": 88097777,
@@ -9742,7 +9742,7 @@ window._comments = [
     "parent_id": 10927207,
     "parent_children": 62,
     "thread_id": 10926897,
-    "thread_children": 106,
+    "thread_children": 108,
     "ratio_recv": -6,
     "ratio_give": 7
   },
@@ -9783,7 +9783,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 10926943,
     "thread_children": 2,
-    "ratio_recv": -3,
+    "ratio_recv": -2,
     "ratio_give": null
   },
   {
@@ -9806,12 +9806,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": 10942610,
-    "parent_children": 1,
+    "parent_children": 2,
     "thread_id": 10941743,
-    "thread_children": 6,
-    "ratio_recv": null,
+    "thread_children": 21,
+    "ratio_recv": 0,
     "ratio_give": 0
   },
   {
@@ -9824,7 +9824,7 @@ window._comments = [
     "id": 10943277,
     "top_level": false,
     "date": "Dec 05 2022 18:23",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1670282601,
     "body": [
       [
@@ -9884,13 +9884,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 3,
     "parent_id": 10941639,
-    "parent_children": 14,
+    "parent_children": 21,
     "thread_id": 10941639,
-    "thread_children": 14,
-    "ratio_recv": null,
-    "ratio_give": -1
+    "thread_children": 21,
+    "ratio_recv": 0,
+    "ratio_give": 0
   },
   {
     "post_id": 52767182,
