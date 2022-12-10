@@ -1912,6 +1912,52 @@ window._comments = [
     "ratio_give": 6
   },
   {
+    "post_id": 88072201,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-e48",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11024962,
+    "top_level": false,
+    "date": "Dec 09 2022 04:34",
+    "likes": 2,
+    "timestamp": 1670578461,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This can be accomplished with email filters since substack uses two different email addresses for these notifications."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "comments forum@mg1.substack.com "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "likes reaction@mg1.substack.com"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I use a GMail filter that includes both emails to keep this noise out of my inbox. Give matching emails the label \u201csubstack\u201d so I can check them at my leisure."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11017945,
+    "parent_children": 2,
+    "thread_id": 11017945,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -6
+  },
+  {
     "post_id": 52577286,
     "title": "Donald Trump's re-election is a dire threat to free speech",
     "canonical_url": "https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire",
@@ -4798,6 +4844,102 @@ window._comments = [
     "ratio_give": 11
   },
   {
+    "post_id": 88859649,
+    "title": "Amtrak should build a good train",
+    "canonical_url": "https://www.slowboring.com/p/amtrak-should-build-a-good-train",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11001701,
+    "top_level": true,
+    "date": "Dec 08 2022 06:35",
+    "likes": 46,
+    "timestamp": 1670499301,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As Yglesias has written before, [1] the issue is Amtrak leadership. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I sometimes like to tell the story of the time an Amtrak executive told me \u201cto be honest, I don\u2019t know that much about trains.\u201d "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And I think this is emblematic of Amtrak. It is run by people who are not curious about trains."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A leadership shakeup is needed to address these issues. The suggestion in that earlier article is to bring in a foreign CEO who has experience in running a functional rail system. E.g., someone from the rail programs of France, Italy, Japan, Korean, etc."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But there just isn\u2019t the political will to fix Amtrak leadership and there are existing constituencies that benefit from the current pork barrel approach."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \u201cAmtrak should bring in foreign experts to make trains great again\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/amtrak-should-bring-in-foreign-experts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11001701,
+    "thread_children": 1,
+    "ratio_recv": -46,
+    "ratio_give": null
+  },
+  {
+    "post_id": 88859649,
+    "title": "Amtrak should build a good train",
+    "canonical_url": "https://www.slowboring.com/p/amtrak-should-build-a-good-train",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11002438,
+    "top_level": false,
+    "date": "Dec 08 2022 07:38",
+    "likes": 4,
+    "timestamp": 1670503135,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Rail can compete with other travel options, namely flying and driving."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11002329,
+    "parent_children": 35,
+    "thread_id": 11002215,
+    "thread_children": 36,
+    "ratio_recv": -3,
+    "ratio_give": 0
+  },
+  {
     "post_id": 53154031,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
@@ -5938,6 +6080,34 @@ window._comments = [
     "thread_children": 0,
     "ratio_recv": null,
     "ratio_give": null
+  },
+  {
+    "post_id": 88071358,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-48b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10966809,
+    "top_level": false,
+    "date": "Dec 06 2022 17:13",
+    "likes": 8,
+    "timestamp": 1670364801,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. I also encountered that bug today."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10966721,
+    "parent_children": 15,
+    "thread_id": 10966721,
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": -8
   },
   {
     "post_id": 59518168,
@@ -7607,6 +7777,566 @@ window._comments = [
     "thread_id": 8942417,
     "thread_children": 1,
     "ratio_recv": -5,
+    "ratio_give": null
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11025759,
+    "top_level": true,
+    "date": "Dec 09 2022 06:18",
+    "likes": 29,
+    "timestamp": 1670584690,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  Should educators think of these tools [large language models like ChatGPT] as a source of cheating and redesign their assignments so that students aren\u2019t using them, or should they think of them as writing tools (comparable to a spellcheck program) that everyone should use and that just set the bar higher in terms of what kinds of outputs we expect to see?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In this AI tool vision, Ben Thompson has an interesting idea for using generative AI within education in his recent article, \u201cAI Homework\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2022/ai-homework/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He suggests that students could be given an assignment to correct an essay generated by AI because these AI programs commonly make factual errors. The AI could even be biased to introduce more errors or create specific types of errors. In this assignment, the student would take the role of an editor rather than an author."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Students would still need to use conventional learning materials like books and lectures to gain enough familiarity with the subject. They could also probe the AI with different prompts and questions to see the contours of its understanding. Further, they could instruct the AI to correct specific factual errors and then regenerate the essay. And if the student completes this work in an assigned AI program, then there is a history of the work they performed, which the teacher can use in grading."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson argues that it is counterproductive to resist AI because students may just cheat using AI if given conventional assignments. Further, such generative AI may become a commonplace tool and therefore students should learn familiarity with it early. He gives the comparison to the electronic calculator, which removed much of the drudgery of manually performing math."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, the rote effort of constructing essays may be supplanted by generative AI that does the low level work of optimizing sentences and paragraphs, while leveraging its larger memory for referencing knowledge. The user instead handles the higher level of tasks of creating the problem statement and they then serve as an editor to correct mistakes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson cites the Noah Smith and roon article, \u201cGenerative AI: autocomplete for everything\u201d as introducing this sandwich\u201d workflow, "
+        },
+        {
+          "type": "url",
+          "value": "https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> What\u2019s common to all of these visions is something we call the \u201csandwich\u201d workflow. This is a three-step process. First, a human has a creative impulse, and gives the AI a prompt. The AI then generates a menu of options. The human then chooses an option, edits it, and adds any touches they like."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly recommend the Noah/roon article for an introduction to the current state of generative AI and their thoughts for how it could impact creative and knowledge work."
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11025759,
+    "thread_children": 19,
+    "ratio_recv": -19,
+    "ratio_give": null
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11030046,
+    "top_level": false,
+    "date": "Dec 09 2022 10:11",
+    "likes": 1,
+    "timestamp": 1670598663,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For fun, here is ChatGPT's output for, \"Advise the CEO of an automaker on how to manage relationships with suppliers.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As the CEO of an automaker, managing relationships with suppliers is a crucial part of ensuring the success of your business. Strong relationships with suppliers can lead to improved quality, increased efficiency, and better overall performance. Here are a few tips for managing relationships with suppliers:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1. Communicate openly and honestly: It's important to establish open and honest communication with your suppliers. This means being transparent about your expectations and needs, as well as any potential challenges or concerns. By doing so, you can build trust and foster a sense of collaboration, which can help to improve the overall relationship."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 2. Show appreciation for their work: Acknowledge and appreciate the work that your suppliers do. This can be as simple as thanking them for their efforts, or recognizing their contributions in a more formal way. By showing appreciation, you can motivate your suppliers to continue delivering high-quality products and services."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 3. Be responsive and reliable: As the CEO of an automaker, it's important to be responsive and reliable when it comes to working with your suppliers. This means being available to answer questions and address concerns in a timely manner. It also means being consistent in your communication and following through on any promises or commitments you make."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 4. Foster a culture of collaboration: Encourage a culture of collaboration within your company, and make it a priority to work closely with your suppliers. This can include regular meetings, joint brainstorming sessions, and other opportunities for collaboration. By fostering a collaborative culture, you can improve communication and alignment, which can lead to better outcomes for everyone involved."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 5. Establish clear contracts and expectations: Clearly define the terms of your relationship with your suppliers in a written contract. This should include expectations for delivery times, quality standards, and other key aspects of the relationship. By establishing clear contracts and expectations, you can avoid misunderstandings and ensure that both parties are on the same page."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Seems pretty generic, but reasonable. I guess it would be more useful if the prompt included specific challenges the hypothetical automaker was facing with suppliers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Anyone can sign up for free access, so if you're curious, "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/chat"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11028369,
+    "parent_children": 4,
+    "thread_id": 11025759,
+    "thread_children": 19,
+    "ratio_recv": 4,
+    "ratio_give": -5
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11029918,
+    "top_level": false,
+    "date": "Dec 09 2022 10:05",
+    "likes": 2,
+    "timestamp": 1670598342,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Thompson therefore suggests students will have to craft their essays using an assigned program that is augmented with generative AI. That AI can be specifically trained to introduce errors, possibly biased to specific types of factual errors. Further, the program will collect a history of work performed to use in grading. That includes verifying that the student didn\u2019t just copy-and-paste the results of another generative AI program."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11027750,
+    "parent_children": 1,
+    "thread_id": 11025759,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": -1
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11029869,
+    "top_level": false,
+    "date": "Dec 09 2022 10:03",
+    "likes": 3,
+    "timestamp": 1670598197,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that students will still need to learn the basics of writing comparable to how they still learn multiplication tables. Similarly, they can be tested on both in person where we can prevent them from using either calculators or generative AI."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet Homework is disrupted by both technologies. We already can\u2019t count on students resisting the urge to use calculators when working through homework. Therefore as students advance into higher grades, we design math homework with that in mind. We even explicitly allow and encourage them to use calculators so that they can focus on higher level skills."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, with generative AI it may no longer make sense to assign conventional essays. The temptations to cheat are just too great. Further, writers and other creative professionals will be using these tools and students should learn familiarity with them in preparation for their future careers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a historical example, in the 90s, my middle school taught us all how to use Microsoft Word and assumed many of us would use it writing essays. We made fewer spelling errors than previous cohorts of students due to spellcheck and it therefore didn\u2019t make sense to grade heavily on that dimension. Modern word processors include more advanced assistance in identifying grammar errors, and that should also impact grading. (I\u2019m writing this comment in Google Doc, and it already corrected multiple such mistakes that would\u2019ve otherwise annoyed readers greatly.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m not sure how exactly education will need to adapt to generative AI and just shared one idea. Yet I am convinced it will have to adapt to not only minimize cheating but to also prepare students for professional work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edited to fix a mistake that Google Doc didn't catch"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11027871,
+    "parent_children": 5,
+    "thread_id": 11025759,
+    "thread_children": 19,
+    "ratio_recv": -2,
+    "ratio_give": 2
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11029556,
+    "top_level": false,
+    "date": "Dec 09 2022 09:50",
+    "likes": 3,
+    "timestamp": 1670597451,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI detecting AI is an arms race; while the detector is trained to differentiate AI-generated content from human-generated content, the generative AI can be trained to evade detection."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s even a formal method where the two AI adversaries are trained together in a Generative Adversarial Network, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Generative_adversarial_network"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Two neural networks contest with each other in the form of a zero-sum game, where one agent's gain is another agent's loss."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Given a training set, this technique learns to generate new data with the same statistics as the training set. For example, a GAN trained on photographs can generate new photographs that look at least superficially authentic to human observers, having many realistic characteristics. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While detecting methods may temporarily win the competition at times, we can\u2019t count on this as a sustainable strategy for managing the problems of generative AI."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11027921,
+    "parent_children": 2,
+    "thread_id": 11025759,
+    "thread_children": 19,
+    "ratio_recv": -3,
+    "ratio_give": 2
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026292,
+    "top_level": false,
+    "date": "Dec 09 2022 07:03",
+    "likes": 9,
+    "timestamp": 1670587421,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I guess a more charitable interpretation is that they are both primarily antiestablishmentarians, and they\u2019ve recently focused their ire on liberal institutions, particularly liberal-aligned media. That attracts a rightwing audience\u2014who interpret Taibbi and Greenwald as fellow travelers\u2014which incentivizes these authors to further attack liberal institutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So while they might not be rightwingers themselves, they **appear** to be catering to that audience. I say that as someone that hasn\u2019t read a piece from either of them recently. Hence my emphasis on the word \u201cappear\u201d."
+        }
+      ]
+    ],
+    "total_children": 24,
+    "parent_id": 11026168,
+    "parent_children": 79,
+    "thread_id": 11026168,
+    "thread_children": 79,
+    "ratio_recv": -5,
+    "ratio_give": -1
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026405,
+    "top_level": false,
+    "date": "Dec 09 2022 07:13",
+    "likes": 0,
+    "timestamp": 1670587985,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that there may be a distinction. I haven\u2019t read them recently and therefore won\u2019t make a judgment call there. I\u2019m just pointing out that they appear to be generating a lot of rightwing content and catering to a rightwing audience, hence they certainly appear rightwing to those of us who aren\u2019t reading them."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 11026337,
+    "parent_children": 22,
+    "thread_id": 11026168,
+    "thread_children": 79,
+    "ratio_recv": 5,
+    "ratio_give": -4
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026372,
+    "top_level": false,
+    "date": "Dec 09 2022 07:10",
+    "likes": 4,
+    "timestamp": 1670587835,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s bad and in character. She definitely wants to be a maverick and is therefore doing a poor job of channeling McCain."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 11026328,
+    "parent_children": 55,
+    "thread_id": 11026328,
+    "thread_children": 55,
+    "ratio_recv": 4,
+    "ratio_give": -5
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026342,
+    "top_level": false,
+    "date": "Dec 09 2022 07:08",
+    "likes": 12,
+    "timestamp": 1670587730,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think this is just a continuation of a trend; technology is a lever that can exacerbate inequality. For example, music recording and the radio allowed a small number of exceptional musicians to displace mediocre ones. There\u2019s just far less of a need for local performers when the best can be accessed at will."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With greater inequality comes a greater need to address this problem. Ideally by expanding and strengthening our social safety nets rather than fighting technology that drives inequality."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11026176,
+    "parent_children": 1,
+    "thread_id": 11026176,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": 10
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026460,
+    "top_level": false,
+    "date": "Dec 09 2022 07:17",
+    "likes": 2,
+    "timestamp": 1670588259,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think it's a demand problem; most people just aren\u2019t that interested in local news. National news, particularly politics, is just more interesting and engaging. Doubly so when reported on in a way that enhances the reality-tv-like drama and frames the issues with exaggerated stakes."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 11026162,
+    "parent_children": 9,
+    "thread_id": 11026162,
+    "thread_children": 9,
+    "ratio_recv": -1,
+    "ratio_give": 1
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11030953,
+    "top_level": false,
+    "date": "Dec 09 2022 10:46",
+    "likes": 2,
+    "timestamp": 1670600766,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "People just have access to way more alternatives with the internet; particularly with social media. Pre-internet, your local paper was the best option for daily news and entertainment. People didn\u2019t specifically crave local news but instead received it as part of a bundle that also included national news, sports coverage, comics, classified ads, and more."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Now news, including local news, and entertainment are unbundled. You can easily subscribe to niche publications (e.g., Slow Boring) or just browse Twitter. When given the choice, people just don\u2019t prioritize local news because there are more engaging alternatives."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11029285,
+    "parent_children": 7,
+    "thread_id": 11026162,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": 1
+  },
+  {
+    "post_id": 89196577,
+    "title": "Artisanal, human-crafted mailbag",
+    "canonical_url": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11026041,
+    "top_level": true,
+    "date": "Dec 09 2022 06:43",
+    "likes": 1,
+    "timestamp": 1670586200,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  The real hydraulic heads are saying that despite housing inflation now calming, we\u2019ll need a recession to tame inflation, even if we can keep commodities on track. I\u2019m just not sure I buy that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think the current inflation concern is high nominal wage growth that could keep driving inflation. The hope is that higher interest rates can cool the labor market without causing a substantial increase in unemployment. As Jason Furman explains, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The pace of nominal wage or compensation growth over the last six months is generally consistent with about a 4.5 percent inflation rate. \u2026 Moreover, the growth of labor costs has largely tracked price growth, so there is little reason to believe that business margin compression will meaningfully lower inflation without a slowdown in compensation growth or that real wages will easily return to their previous trajectory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Will the labor market continue to loosen on its own without much of an increase in unemployment? How quickly will wage growth slow? And, how much will slower wage growth translate into slower price growth? Given the magnitude of the issues, it is unlikely that we will see inflation much below 3.5 percent in 2023."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, Furman is Harvard econ prof and  a prominent Democratic econ advisor from the Obama administration. I think he's had the most clear and honest analysis of the economic factors of the pandemic and the recovery. While he initially believed inflation would be transitory and downplayed the risks, he changed his mind as new data piled up demonstrating the risk of persistent inflation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.piie.com/blogs/realtime-economics/will-slower-wage-growth-dampen-inflation"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11026041,
+    "thread_children": 0,
+    "ratio_recv": null,
     "ratio_give": null
   },
   {
@@ -9623,6 +10353,151 @@ window._comments = [
     "ratio_give": null
   },
   {
+    "post_id": 88219618,
+    "title": "The strange career of the expanded Child Tax Credit",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-career-of-the-expanded",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10952722,
+    "top_level": true,
+    "date": "Dec 06 2022 06:39",
+    "likes": 9,
+    "timestamp": 1670326763,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What, if any, taxes would be added or increased to pay for the CTC? Or is the plan to deficit fund it?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think that will be a key part of the discussion, debate, and negotiation among lawmakers in determining an enhanced CTC design. I\u2019d expect Manchin to oppose deficit financing due to his concern about inflation. And any new or increased tax will face some opposition as we saw in the development of the IRA."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10952722,
+    "thread_children": 4,
+    "ratio_recv": -3,
+    "ratio_give": null
+  },
+  {
+    "post_id": 88219618,
+    "title": "The strange career of the expanded Child Tax Credit",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-career-of-the-expanded",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10953002,
+    "top_level": false,
+    "date": "Dec 06 2022 07:03",
+    "likes": 5,
+    "timestamp": 1670328213,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Vox has some numbers on the costs:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* $100+B/year for continuing the now-expired expanded CTC"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* $45-60B/year for expiring corp taxes"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.vox.com/policy-and-politics/2022/12/5/23489576/congress-child-tax-credit-omnibus-tax-lame-duck"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> One reason many Democrats are trying to minimize discussion of the 2021 expanded child tax credit now is because it \u2014 and the version Democrats passed in their subsequent House Build Back Better package \u2014 is very expensive, with a price tag exceeding more than $100 billion per year."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In comparison, the corporate tax breaks with which advocates are hoping to pair a child tax credit expansion come at a lower cost. Estimates vary, but the ballpark figure floating around the Senate is somewhere between $45 billion and $60 billion per year. The Committee for a Responsible Federal Budget has estimated that a permanent R&D fix would cost roughly $155 billion over the next 10 years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cI love the CTC, but I think advocates have done a terrible job of acting like it costs peanuts,\u201d said one Democratic aide working on the negotiations. \u201cIt gets you nowhere to pretend we can do this massive transformational thing for nothing. Like expectations here have just been so out of whack because none of the advocates would admit this massive expansion of child benefits costs a lot of money.\u201d"
+        }
+      ],
+      []
+    ],
+    "total_children": 0,
+    "parent_id": 10952722,
+    "parent_children": 4,
+    "thread_id": 10952722,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -4
+  },
+  {
+    "post_id": 88219618,
+    "title": "The strange career of the expanded Child Tax Credit",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-career-of-the-expanded",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10952916,
+    "top_level": true,
+    "date": "Dec 06 2022 06:57",
+    "likes": 6,
+    "timestamp": 1670327820,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> It also turned out that while Brown and Bennet had a lot of cosponsors, they had not persuaded the rest of the party to pursue CTC expansion instead of other family-centric priorities, and leadership was also trying to pass subsidized childcare, preschool, and paid parental leave."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this failure to prioritize and say no to some policy proposals and their constituencies in developing BBB was political malpractice. We spent a lot of time and created a lot of unnecessary in-party fighting to eventually land at the IRA. That could\u2019ve been avoided."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I personally blame Democratic leadership\u2014Biden, Pelosi, and Schumer\u2014for this fiasco. Everyone wants to blame Manchin, but I think leadership needs to recognize the political constraints they face (including Manchin\u2019s views) and prioritize policies within those constraints. That is the job of being in a leadership role; making the hard calls that can build a voting block to pass legislation and receiving political flack for their decisions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although at the time I recognized the challenge faced by leadership with their razor congressional margins and their diverse coalition containing multiple constituencies, each with their own pet projects. I can understand their concerns about having to anger some political blocks, journalists, and twitterati \u201cthought leaders\u201d by explicitly endorsing certain priorities over others. E.g., stating they want to drop child care programs in favor of continuing the CTC. No matter what they choose they will anger someone and receive a fair amount of loud condemnation."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10952916,
+    "thread_children": 1,
+    "ratio_recv": -6,
+    "ratio_give": null
+  },
+  {
     "post_id": 88097777,
     "title": "A lot of the best political messages are really boring",
     "canonical_url": "https://www.slowboring.com/p/a-lot-of-the-best-political-messages",
@@ -9632,7 +10507,7 @@ window._comments = [
     "id": 10926838,
     "top_level": true,
     "date": "Dec 05 2022 06:29",
-    "likes": 98,
+    "likes": 105,
     "timestamp": 1670239763,
     "body": [
       [
@@ -9648,12 +10523,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 16,
+    "total_children": 18,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 10926838,
-    "thread_children": 16,
-    "ratio_recv": -79,
+    "thread_children": 18,
+    "ratio_recv": -84,
     "ratio_give": null
   },
   {
@@ -9694,11 +10569,11 @@ window._comments = [
     ],
     "total_children": 64,
     "parent_id": 10926897,
-    "parent_children": 108,
+    "parent_children": 118,
     "thread_id": 10926897,
-    "thread_children": 108,
-    "ratio_recv": -11,
-    "ratio_give": 3
+    "thread_children": 118,
+    "ratio_recv": -10,
+    "ratio_give": 2
   },
   {
     "post_id": 88097777,
@@ -9742,9 +10617,9 @@ window._comments = [
     "parent_id": 10927207,
     "parent_children": 62,
     "thread_id": 10926897,
-    "thread_children": 108,
+    "thread_children": 118,
     "ratio_recv": -6,
-    "ratio_give": 7
+    "ratio_give": 6
   },
   {
     "post_id": 88097777,
@@ -9756,7 +10631,7 @@ window._comments = [
     "id": 10926943,
     "top_level": true,
     "date": "Dec 05 2022 06:41",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1670240491,
     "body": [
       [
@@ -9783,7 +10658,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 10926943,
     "thread_children": 2,
-    "ratio_recv": -2,
+    "ratio_recv": -3,
     "ratio_give": null
   },
   {
@@ -9806,11 +10681,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 10942610,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 10941743,
-    "thread_children": 21,
+    "thread_children": 22,
     "ratio_recv": 0,
     "ratio_give": 0
   },
@@ -9824,7 +10699,7 @@ window._comments = [
     "id": 10943277,
     "top_level": false,
     "date": "Dec 05 2022 18:23",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1670282601,
     "body": [
       [
@@ -9889,7 +10764,7 @@ window._comments = [
     "parent_children": 21,
     "thread_id": 10941639,
     "thread_children": 21,
-    "ratio_recv": 0,
+    "ratio_recv": -1,
     "ratio_give": 0
   },
   {
@@ -12336,6 +13211,316 @@ window._comments = [
     "thread_children": 2,
     "ratio_recv": null,
     "ratio_give": 0
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10976922,
+    "top_level": true,
+    "date": "Dec 07 2022 07:24",
+    "likes": 70,
+    "timestamp": 1670415844,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> One of my most neoliberal shill beliefs is that journalists and academics and intellectuals tend to underestimate businesspeople because they underestimate how difficult this stuff all is. And I think that leads to errors of political judgment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think these critics fundamentally fail to appreciate the dynamics of business, particularly the extent to which they are constantly addressing challenges and thereby changing. They instead see a firm as a static entity that some people have gained control over, likely for unjust reasons. That may be because such a static and statist mental model is appropriate for the institutions that house these critiques; e.g., universities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Consider the juggernaut Amazon; a common target of these critics. They see it as a massive and powerful institution that Jeff Bezos just happened to have gained control over. (Before he recently stepped out of the CEO role.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The critics don\u2019t recognize how this crazy and driven person quit his lucrative hedge fund VP job to sell books out of his garage. They aren\u2019t aware of how this weirdo embraced his new, lesser role, including packing boxes and hand delivering them to the post office. The denigrators fail to see the extent to which Bezos had to learn this business from scratch and in the process create a new and revolutionary business model. And because he was crazy enough\u2014some might say irrational enough\u2014to start selling books out of his garage, Bezos now owns about 10% of AMZN. Hence why he is incredibly wealthy and why he had control over this massive and powerful company."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The critics just don\u2019t have a correct mental model of business and therefore can\u2019t make sense of any of this."
+        }
+      ]
+    ],
+    "total_children": 42,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10976922,
+    "thread_children": 42,
+    "ratio_recv": -39,
+    "ratio_give": null
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10982062,
+    "top_level": false,
+    "date": "Dec 07 2022 11:00",
+    "likes": 5,
+    "timestamp": 1670428811,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The innovation of AWS was managed services. Initially, Amazon Simple Storage Service, which was launched in 2006. S3 allowed anyone to store arbitrarily large files by just calling an API. You could sign up online with just a credit card and it was builded by usage. If you wanted to make that publicly available\u2014say to serve web pages\u2014then it could scale to serving everyone on the internet if needed. AWS did all the hard work of managing the underlying hardware and software that facilitated that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Amazon Elastic Compute Cloud was also launched at the same time and does share some similarities to time timesharing. You could already rent shared servers from many vendors for a while. E.g., I rented a shared Apache server in the 90s. EC2 was different in that they offered far more fine grained billing\u2014initially by the hour and now by the second\u2014whereas other vendors required at least monthly commitments. Further,  you spin up (or down) an instance with an API call so that it could be fully automated. And again AWS managed all the auxiliary stuff that facilitated it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "S3 and EC2 were revolutionary at the time of their debut due to their fine grained, usage-based billing and AWS managing everything behind the scenes. These attributes are what distinguish cloud computing from conventional server leasing, including timesharing on shared instances."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 10979686,
+    "parent_children": 3,
+    "thread_id": 10976922,
+    "thread_children": 42,
+    "ratio_recv": null,
+    "ratio_give": -2
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10977031,
+    "top_level": false,
+    "date": "Dec 07 2022 07:31",
+    "likes": 6,
+    "timestamp": 1670416273,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The US has the Public Broadcasting Service, which does receive funding from the federal government. They do great journalism, including daily reporting of the news. PBS doesn\u2019t control the narrative because there isn\u2019t much demand for such journalism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Instead, American voters prefer biased sources that primarily reaffirm their world view. These preferred sources, such as Fox News (and MSNBC), should never receive public funding due to the horrible incentives."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 10976495,
+    "parent_children": 18,
+    "thread_id": 10976495,
+    "thread_children": 18,
+    "ratio_recv": -1,
+    "ratio_give": -2
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10976271,
+    "top_level": true,
+    "date": "Dec 07 2022 06:29",
+    "likes": 5,
+    "timestamp": 1670412589,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Indeed, the fact that their readers are paid subscribers only serves to increase the audience\u2019s value to advertisers \u2014 it\u2019s proof that New York Times readers actually care about and value the New York Times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These ad impressions are particularly valuable because the audience is more likely to buy other discretionary products, including other online subscriptions. This is because NYT subscriber audience has an above average income and are likely more open to trying new things."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10976271,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10976425,
+    "top_level": true,
+    "date": "Dec 07 2022 06:43",
+    "likes": 1,
+    "timestamp": 1670413408,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> people to this day underrate the influence of these companies [Google and Facebook] on the structural properties of the content you consume"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson has written extensively on the power of these companies in his Aggregation Theory, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/aggregation-theory/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Google, Facebook, and other aggregators are powerful because they **control demand**. In contrast, traditional information businesses are all about supply. For example, a regional newspaper has a geographical monopoly because they have invested in printing and physical distribution infrastructure for that area. Similarly, cable companies have monopolies in owning the physical wires that distribute their content."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The internet fundamentally changed that because"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Zero distribution costs. Zero marginal costs. Zero transactions. This is what the Internet enables, and it is completely transforming not just technology companies but companies in every single industry. Old moats are gone \u2014 and new ones can be built \u2014 and Aggregation Theory helps you identify both."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson has written numerous articles over the years about how these internet companies have disrupted various businesses and society at large. For the SB audience, I\u2019d particularly recommend his Mar 2016 article, \u201cThe Voters Decide\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2016/the-voters-decide/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In that article he references a contemporary NYT piece about how party leadership has lost control over candidate selection. In that 2016 election, both Trump and Sanders\u2014like Obama before them\u2014were able to leverage internet platforms to sidestep party elites and go straight to the voters with their novel messages. Thompson applies Aggregation Theory to explore the mechanisms by which internet platforms disrupted politics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This is a big problem for the parties as described in The Party Decides. Remember, in Noel and company\u2019s description party actors care more about their policy preferences than they do voter preferences, but in an aggregated world it is voters aka users who decide which issues get traction and which don\u2019t. And, by extension, the most successful politicians in an aggregated world are not those who serve the party but rather those who tell voters what they most want to hear."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 10976425,
+    "thread_children": 2,
+    "ratio_recv": 1,
+    "ratio_give": null
+  },
+  {
+    "post_id": 88579100,
+    "title": "What I learned co-founding Vox",
+    "canonical_url": "https://www.slowboring.com/p/what-i-learned-co-founding-vox",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 10976660,
+    "top_level": false,
+    "date": "Dec 07 2022 07:04",
+    "likes": 2,
+    "timestamp": 1670414699,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson also has a lot of thoughts on paid subscription publications because he\u2019s been running one since 2014. The Substack founders even listed his Stratechery publication as inspiration for their business. [1]  Thompsons wrote about Slow Boring in his 2021 article, \u201cSovereign Writers and Substack\u201d. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Substack Pro made it possible for Yglesias to launch Slow Boring without worrying about paying the bills, and is making a profit as a reward for bearing the risk of Yglesias not succeeding or succeeding more slowly than he needed. As for Yglesias, he may end up missing out on several hundred thousand dollars this year, but given he\u2019s not selling a book but rather a subscription he can look forward to a huge increase in revenue next year."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In that article, Thompsons defends Substack Pro, where Substack offers writers a guaranteed income for the first year, while capping their upside. Substack was getting a lot of criticism for offering this arrangement to controversial writers (e.g., Andrew Sullivan) and they were accused of not just platforming, but also funding the promulgation of these views. Thompson suggests that Substack Pro is comparable to a book advance and generally works to the authors disadvantage since Substack captures all of the upside."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson\u2019s article provides some great insight into Substack\u2019s business model and the risks it prevents to traditional publications. He again references Slow Boring when explaining how Substack allows for unbundling such that the highest value authors can directly capture their value."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Still, that doesn\u2019t change the fact there is a real unfair deal in publishing, and it has nothing to do with Substack. Go back to Yglesias: while I don\u2019t know what he was paid by Vox (it turns out that Substack, thanks to their leaderboards, is actually far more transparent about writers\u2019 income than nearly anywhere else), I\u2019m guessing it was a lot less than the $380,000 he is on pace for, much less the $775,000 he would earn had he forgone an advance. It was Vox, in other words, that was taking advantage of Yglesias."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.vox.com/2017/10/16/16480782/substack-subscription-newsletter-sinocism-bill-bishop-ben-thompson-stratechery"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2021/sovereign-writers-and-substack/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 10976425,
+    "parent_children": 2,
+    "thread_id": 10976425,
+    "thread_children": 2,
+    "ratio_recv": -1,
+    "ratio_give": 1
   },
   {
     "post_id": 86347660,
