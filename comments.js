@@ -9,7 +9,7 @@ window._comments = [
     "id": 7252326,
     "top_level": true,
     "date": "Jun 20 2022 17:14",
-    "likes": 38,
+    "likes": 39,
     "timestamp": 1655759670,
     "body": [
       [
@@ -51,12 +51,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 11,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7252326,
-    "thread_children": 10,
-    "ratio_recv": -31,
+    "thread_children": 11,
+    "ratio_recv": -32,
     "ratio_give": null
   },
   {
@@ -225,7 +225,7 @@ window._comments = [
     "id": 7273084,
     "top_level": false,
     "date": "Jun 21 2022 17:15",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1655846117,
     "body": [
       [
@@ -271,7 +271,7 @@ window._comments = [
     "thread_id": 7269685,
     "thread_children": 1,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 1
   },
   {
     "post_id": 87749070,
@@ -649,7 +649,7 @@ window._comments = [
     "id": 6736898,
     "top_level": true,
     "date": "May 24 2022 06:33",
-    "likes": 22,
+    "likes": 24,
     "timestamp": 1653388399,
     "body": [
       [
@@ -698,7 +698,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 6736898,
     "thread_children": 21,
-    "ratio_recv": -17,
+    "ratio_recv": -19,
     "ratio_give": null
   },
   {
@@ -900,6 +900,409 @@ window._comments = [
     "ratio_give": null
   },
   {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11148058,
+    "top_level": false,
+    "date": "Dec 14 2022 11:41",
+    "likes": 11,
+    "timestamp": 1671036090,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d challenge the charge that the subprime financial crisis resulted from bad faith actors. None of the notable actors (e.g., the Fed, Congress, Banks, Regulators, Presidents, Treasury Secretaries, etc.) knowingly caused this issue. Many believed that the loosening of lending criteria/regulations and the broader availability of funding through securitization to be socially beneficial in promoting home ownership."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 had good intentions as summarized on Wikipedia, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This legislation established an \"affordable housing\" loan purchase mandate for Fannie Mae and Freddie Mac, and that mandate was to be regulated by HUD. Initially, the 1992 legislation required that 30% or more of Fannie's and Freddie's loan purchases be related to \"affordable housing\" (borrowers who were below normal lending standards). However, HUD was given the power to set future requirements, and HUD soon increased the mandates. This encouraged \"subprime\" mortgages. (See HUD Mandates, below.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet that legislation combined with numerous other decisions\u2014decisions made by both private and public actors\u2014to create the subprime mortgage crisis. Still, no one was knowingly acting in bad faith in all of the major events leading to the subprime crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Government_policies_and_the_subprime_mortgage_crisis#The_Housing_and_Community_Development_Act_of_1992"
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 11142045,
+    "parent_children": 23,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": -11,
+    "ratio_give": -10
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11151255,
+    "top_level": false,
+    "date": "Dec 14 2022 13:30",
+    "likes": 4,
+    "timestamp": 1671042622,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I disagree that unprosecuted crimes were committed by subprime mortgage issuers because I\u2019ve yet to find anyone who argues that specific laws were broken by specific individuals through specific actions, including the evidence of these crimes. Instead, I\u2019ve just seen vague references to nebulous actions by supposed groups of people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, many bad decisions were made, chiefly the extension of credit to subprime borrowers. Those lending decisions were not crimes but instead bipartisan policy aims to extend homeownership. And yes, there were a few isolated instances of actual fraud related to subprime lending. Those were prosecuted. Yet these crimes did not contribute to the subprime financial crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Instead, it was the broad issuance of credit to borrowers who were at high risk of default that caused the subprime financial crisis. Further, the financial industry failed to update their modeling of mortgage default risk to account for the new, lower lending standards. Those models overestimated the quality of securitized mortgage instruments. That then led to their inclusion of these financial timebombs on the balance sheet of systemically important financial institutions that could not weather the losses."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 11148865,
+    "parent_children": 13,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": -4,
+    "ratio_give": 4
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11152355,
+    "top_level": false,
+    "date": "Dec 14 2022 14:11",
+    "likes": 3,
+    "timestamp": 1671045116,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Nope. I'm simply stating that, to my knowledge, no one has credibly proposed actual specific cases that still need to be prosecuted. The burden of proof is on the prosecutor, or people calling for prosecution."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 11152123,
+    "parent_children": 10,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": -3,
+    "ratio_give": 3
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11153142,
+    "top_level": false,
+    "date": "Dec 14 2022 14:44",
+    "likes": 5,
+    "timestamp": 1671047045,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Again, specifics. Name a specific executive and the specific action(s) of fraud that they committed; action which meets the standards of criminal (not civil) culpability."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11152552,
+    "parent_children": 7,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": -5,
+    "ratio_give": 5
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11141912,
+    "top_level": false,
+    "date": "Dec 14 2022 07:28",
+    "likes": 13,
+    "timestamp": 1671020888,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  But there should have been more accountability for those who contributed to the Financial Crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was accountability for the banks in the form of Dodd-Frank regulations. The banks certainly viewed that as their punishment for taking dangerous financial risks. Those regulations constrained risk taking and therefore reduced bank return-on-equity; i.e., made the banks less profitable. That is a good thing for society since banks proved unable to responsibly manage risk due to free market forces alone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hard to hold anyone individually accountable, because as you pointed out, no one was breaking the law. There was also a lot of reputational damage for politicians and experts who championed financial deregulation. A lot of that was criticism sloppy applied\u2014e.g., a focus on the 1999 repeal of Glass-Steagal\u2014sloppiness that was demonstrated because we didn\u2019t reinstate old regulations but instead created new ones."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 11141666,
+    "parent_children": 48,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": -9,
+    "ratio_give": -14
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11157661,
+    "top_level": false,
+    "date": "Dec 14 2022 18:16",
+    "likes": 0,
+    "timestamp": 1671059796,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Punishing the executives and investors of reckless financial institutions sounds great as a thought exercise. But in the depths of the financial meltdown, there just wasn\u2019t any mechanism to do so. The government lacked authority to nationalize the banks and if they wanted the banks to cooperate, then the government had to offer favorable terms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And things moved fast! Lehman collapsed on Sept 15th and within weeks the SP500 dropped 20%. Worse, the money market funding used by all corporations was drying up as lenders feared the worst. Reputable non-financial firms, including John Deer and Coca Cola, were concerned they wouldn\u2019t be able to make Sept. end-of-month payroll because their short-term funding was at risk of being withdrawn. TARP was quickly put together and passed on Oct 3rd, and the major bank bailouts were completed by the end of October. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, Paulson, Berneke, Geithner, and other gov leaders recognized they couldn\u2019t just help weak banks. Doing so would single those banks out and cause their counterparties to withdraw assets. Instead, they needed all major banks to accept some TARP funds, even if some banks didn\u2019t need them. So TARP funding was structured on particularly favorable terms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The collapse of Lehman is insightful to what could\u2019ve happened. Paulson tried to engineer some acquisitions, but CEO Dick Fuld kept pushing acquirers for better terms. He waited too long and eventually only Barclays was still at the table.. Fuld reluctantly agreed to rough terms, but the British government blocked the deal; and for good reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many more vulnerable banks would\u2019ve gone the way of Lehman if the Federal Gov attempted to push harsh terms for accepting TARP."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11155627,
+    "parent_children": 2,
+    "thread_id": 11141666,
+    "thread_children": 48,
+    "ratio_recv": 0,
+    "ratio_give": 0
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11141199,
+    "top_level": true,
+    "date": "Dec 14 2022 06:26",
+    "likes": 6,
+    "timestamp": 1671017199,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Elon has long been an irrational and annoying edgelord on Twitter, and he\u2019s gotten worse since purchasing the site. (He\u2019s also used Twitter to commit security fraud.) Yet I think the explicit right-wing stance started in the last year. Now it looks like a downward spiral into insanity, but when his rightward journey began, I wondered if some of that was a plausibly justifiable reaction to Biden slighting Tesla on electric vehicles."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From Bloomberg\u2019s in Feb 2022 , \u201cTesla, Who? Biden Can't Bring Himself to Say It \u2014 and Musk Has Noticed\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> At every opportunity, Biden hails progress Ford and GM have made toward fielding an electric fleet. But his ongoing and obvious snubs of Tesla -- a source of mild intrigue within the administration -- have sparked increasingly exasperated public reactions from Musk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Last fall, after a White House event promoting electric vehicles that excluded Tesla, Musk said Biden is \u201cbiased\u201d against the company and said his administration \u201cseems to be controlled by unions.\u201d  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At the time, I was frustrated with Biden for potentially compromising the EV transition in some anachronistic attempt to appear pro-union. I thought that Biden should\u2019ve embraced and championed Tesla as an example of American innovation that was accelerating our green transition. There could still be room for legacy American automakers as they attempt to catch up through their own belated innovations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Certainly doesn\u2019t justify Elon's spiral into right-wing insanity. Further, he\u2019s now also jeopardizing the transition to EVs by both distracting himself with Twitter and making Tesla a politically polarizing company. E.g., a MAGA hat on wheels."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-02-02/tesla-who-biden-can-t-bring-himself-to-say-name-angering-musk"
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11141199,
+    "thread_children": 13,
+    "ratio_recv": 8,
+    "ratio_give": null
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11141755,
+    "top_level": false,
+    "date": "Dec 14 2022 07:16",
+    "likes": 1,
+    "timestamp": 1671020215,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I don\u2019t believe he attempted to hide that. Still seems like Biden could have found other opportunities to support unions in less climate critical industries. Particularly when auto unions have previously resisted necessary changes at legacy automakers to retool for EVs. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Dread over the prospect that plug-in cars -- which have fewer parts and require less labor to build -- will doom auto jobs helped spark the first United Auto Workers strike against General Motors Co. in over a decade. Ford Motor Co. and Fiat Chrysler Automobiles NV, which are rolling their own battery-powered models to market in the coming years, could face a similar fate if they\u2019re unable to quell the UAW\u2019s concerns that widespread adoption of EVs endangers the employment of 35,000 union members."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \u2018They Don\u2019t Need Us Anymore\u2019: Auto Workers Fear Electric Unrest, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2019-09-27/-they-don-t-need-us-anymore-auto-workers-fear-electric-unrest"
+        }
+      ],
+      []
+    ],
+    "total_children": 0,
+    "parent_id": 11141510,
+    "parent_children": 9,
+    "thread_id": 11141199,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -4
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11141403,
+    "top_level": true,
+    "date": "Dec 14 2022 06:48",
+    "likes": 5,
+    "timestamp": 1671018530,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But a key element to this kind of rage and theatricality is convincing yourself that being calm is a form of weakness"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I would argue the directionality is backwards. They aren\u2019t reasoning themselves into believing rage is the appropriate political strategy but instead feeling rage and creating a post hoc justification for expressing that feeling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is me once again shilling Haidt\u2019s theories from \u201cThe Righteous Mind.\u201d Intuition and emotions come first and then reasoning is used to construct a socially acceptable narrative that validates the feelings and resulting behavior. And that applies to all of us, myself included."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The best we can hope for is to accept and explore our feelings. We can then inspect our current justifying narratives and see if any aspect seems inconsistent with our values or our factual understanding. That is actually useful for creating more cogent justifications, although at times we\u2019ll find contradictions. Working through those dilemmas, particularly discussing them with respected interlocutors, can slowly change our intuitions."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11141403,
+    "thread_children": 3,
+    "ratio_recv": -3,
+    "ratio_give": null
+  },
+  {
     "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
@@ -909,7 +1312,7 @@ window._comments = [
     "id": 6968185,
     "top_level": false,
     "date": "Jun 06 2022 07:13",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1654513992,
     "body": [
       [
@@ -946,8 +1349,8 @@ window._comments = [
     "parent_children": 9,
     "thread_id": 6967826,
     "thread_children": 9,
-    "ratio_recv": -7,
-    "ratio_give": -3
+    "ratio_recv": -8,
+    "ratio_give": -2
   },
   {
     "post_id": 57532707,
@@ -959,7 +1362,7 @@ window._comments = [
     "id": 6967940,
     "top_level": true,
     "date": "Jun 06 2022 06:41",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1654512076,
     "body": [
       [
@@ -1020,7 +1423,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 6967940,
     "thread_children": 1,
-    "ratio_recv": -4,
+    "ratio_recv": -5,
     "ratio_give": null
   },
   {
@@ -1123,7 +1526,7 @@ window._comments = [
     "id": 7165152,
     "top_level": true,
     "date": "Jun 16 2022 06:53",
-    "likes": 46,
+    "likes": 52,
     "timestamp": 1655376821,
     "body": [
       [
@@ -1139,12 +1542,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 71,
+    "total_children": 75,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7165152,
-    "thread_children": 71,
-    "ratio_recv": 38,
+    "thread_children": 75,
+    "ratio_recv": 45,
     "ratio_give": null
   },
   {
@@ -1223,7 +1626,7 @@ window._comments = [
     "parent_id": 7326576,
     "parent_children": 5,
     "thread_id": 7323493,
-    "thread_children": 25,
+    "thread_children": 26,
     "ratio_recv": 0,
     "ratio_give": -5
   },
@@ -1846,6 +2249,200 @@ window._comments = [
     "ratio_give": null
   },
   {
+    "post_id": 90018342,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-832",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11156783,
+    "top_level": true,
+    "date": "Dec 14 2022 17:28",
+    "likes": 3,
+    "timestamp": 1671056923,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I generally enjoyed the episode and agreed with what Laura and Matt said."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think the Romney take was particularly interesting to explore. Just seemed like a generic way for a Republican to snide Democrats by supporting a dissenting Democrat. While the tweet did include some potentially valid praise for Sinema, and therefore allowed the hosts to engage with that, the tweet itself was rather uninteresting."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I did appreciate that most of the episode focused on Sinema\u2019s unexplainable actions rather than any specific bad takes. They provided a good recap on why so many of us are frustrated with her. Particularly, Sinema\u2019s failure to explain her unpopular positions, including"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Why is she opposed to medicare negotiating drug prices?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Why does she support the carried interest tax loophole?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While there are arguments for those positions, although generally not arguments made by Democrats, Sinema doesn't offer any argument. In many ways that is more frustrating than having weak or incorrect justification."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I would\u2019ve appreciated some speculation on why Sinema has adopted these specific unpopular positions, and why she doesn\u2019t defend them. Maybe there are even some rumors from congressional staff and acquaintances that could suggest her rationale."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Twitter has plenty of conspiracy theories for Sinema\u2019s actions, but I don\u2019t find any of it convincing. E.g., maybe some billionaires are promising her a rich payoff after her political career. The reality is likely more boring; like maybe Sinema genuinely holds some heterodox views. I just can\u2019t understand why she doesn\u2019t attempt to defend her unpopular stances. "
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11156783,
+    "thread_children": 19,
+    "ratio_recv": -2,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90018342,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-832",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11158877,
+    "top_level": false,
+    "date": "Dec 14 2022 19:20",
+    "likes": 5,
+    "timestamp": 1671063649,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It shouldn\u2019t count as capital gains because they are not putting their own money at risk. Instead, this performance-based comp looks just like a sales bonus structure; the more you sell, the more you make. Plenty of professions have bonus structures based upon performance, but only investment managers get this preferential tax treatment. We should close the loophole."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 11157518,
+    "parent_children": 12,
+    "thread_id": 11156783,
+    "thread_children": 19,
+    "ratio_recv": -5,
+    "ratio_give": 5
+  },
+  {
+    "post_id": 90018342,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-832",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11159094,
+    "top_level": false,
+    "date": "Dec 14 2022 19:31",
+    "likes": 1,
+    "timestamp": 1671064275,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  manipulating markets for their own personal gain by borrowing to finance stock buybacks"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Financing stock buybacks with newly issued debt it totally reasonable way to restructure a firm's capital structure; i.e., its mix of equity and debt financing. Some firms, particularly asset heavy firms like real estate, should use a fair amount of debt financing since they can issue secured bonds with their assets as collateral. Fixed income investment investors value the opportunity for relatively safe bonds and stockholders get better return on equity by using less of it for financing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "When financial conditions change and a firm\u2019s capital structure becomes imbalanced then that should be corrected. At times they\u2019ll repurchase stock with newly issued debt. Conversely, they can issue new shares and use the proceeds to retire debt at other times. Overall, both equity and fixed income investors prefer the regularly optimized capital structure."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11157225,
+    "parent_children": 17,
+    "thread_id": 11156783,
+    "thread_children": 19,
+    "ratio_recv": 0,
+    "ratio_give": 0
+  },
+  {
+    "post_id": 90018342,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-832",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11158781,
+    "top_level": true,
+    "date": "Dec 14 2022 19:16",
+    "likes": 2,
+    "timestamp": 1671063393,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "SBF update, \u201cSam Bankman-Fried\u2019s Harsh Bahamas Jail Could Shift His Stance on Extradition\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-12-14/bankman-fried-s-harsh-bahamas-jail-could-shift-extradition-stance?sref=vuYGislZ"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Despite its bucolic name, Fox Hill is known for overcrowding, poor nutrition, inadequate sanitation and substandard medical care, according to a 2020 US State Department report. The report described rat and maggot infestation as well as tiny cells with only buckets for toilets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> One person said Bankman-Fried\u2019s relatives called the prison Tuesday night to ask whether vegan meals could be delivered to him. He can\u2019t receive visitors due to COVID restrictions at the prison."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cIt would be tough for SBF to withstand that for any period of time,\u201d said Bruce Zagaris, a Washington-based lawyer. \u201cHe won\u2019t get any special treatment from the inmates and the guards, like he did at the Albany condominium. Eventually, he\u2019s going to say \u2018I don\u2019t want to spend another few years at this place, what are my alternatives?\u2019\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Feel a little bit of sympathy for him since that jails sounds like a particular hellhole. And I agree with the article, SBF may soon embrace his extradition to get humane prison accommodations in the US."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11158781,
+    "thread_children": 4,
+    "ratio_recv": 3,
+    "ratio_give": null
+  },
+  {
     "post_id": 55302326,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e15",
@@ -1893,7 +2490,7 @@ window._comments = [
     "id": 7198971,
     "top_level": false,
     "date": "Jun 17 2022 14:06",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1655489214,
     "body": [
       [
@@ -1903,13 +2500,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 7197437,
-    "parent_children": 13,
+    "parent_children": 14,
     "thread_id": 7191140,
-    "thread_children": 25,
-    "ratio_recv": -6,
-    "ratio_give": 6
+    "thread_children": 26,
+    "ratio_recv": -7,
+    "ratio_give": 7
   },
   {
     "post_id": 88072201,
@@ -2688,7 +3285,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 8699550,
     "thread_children": 19,
-    "ratio_recv": -3,
+    "ratio_recv": -2,
     "ratio_give": null
   },
   {
@@ -2972,7 +3569,7 @@ window._comments = [
     "id": 7450238,
     "top_level": true,
     "date": "Jun 30 2022 06:32",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1656585173,
     "body": [
       [
@@ -3032,7 +3629,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 7450238,
     "thread_children": 7,
-    "ratio_recv": -10,
+    "ratio_recv": -11,
     "ratio_give": null
   },
   {
@@ -3085,7 +3682,7 @@ window._comments = [
     "id": 8567846,
     "top_level": true,
     "date": "Aug 23 2022 06:55",
-    "likes": 24,
+    "likes": 25,
     "timestamp": 1661252103,
     "body": [
       [
@@ -3182,7 +3779,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 8567846,
     "thread_children": 16,
-    "ratio_recv": -9,
+    "ratio_recv": -10,
     "ratio_give": null
   },
   {
@@ -3389,7 +3986,7 @@ window._comments = [
     "parent_id": 7690017,
     "parent_children": 13,
     "thread_id": 7686793,
-    "thread_children": 164,
+    "thread_children": 163,
     "ratio_recv": -1,
     "ratio_give": 4
   },
@@ -3616,6 +4213,300 @@ window._comments = [
     "ratio_give": -40
   },
   {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11091202,
+    "top_level": true,
+    "date": "Dec 12 2022 06:53",
+    "likes": 10,
+    "timestamp": 1670846013,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  And thus was born the familiar university bundle that combines libraries, scholarship, teaching, and certification."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think the certification function is essential to the continuing durability of universities. Some professions, like law and medicine, have a hard requirement on credentials from accredited institutions. Other professions still use degrees as an initial filter in finding candidates with relevant knowledge and some demonstrated ability; even just demonstration of the diligence and conscientiousness necessary to complete four years of assigned coursework."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think the tech industry is the exception that proves the rule. First, in the dotcom boom and subsequent resurrection, there just were not sufficient computer-science/engineering graduates to meet the labor demand. Second, even as enrollment boomed, degrees never became a sufficient, nor even necessary, mark of certification. There\u2019s a lot of contention among tech workers (including myself) about why degrees have failed to fill this certification role, but we all generally accept that as fact. Even Stanford CS grads are put through the gauntlet, and a non-trivial portion of them are rejected."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, the tech industry has developed rigorous interview screening criteria to judge abilities and has a tradition of hiring people from a diverse range of backgrounds. The lack of formal certification has led to a boom in vocation tech schools (i.e., coding bootcamps) that promise students lucrative tech careers with as little as three months of training. I\u2019ve worked with numerous software engineers and data scientists with excellent capabilities who came from these programs. But I also have rejected a higher portion of candidates from these university alternatives in conducting roughly 1000 interviews."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The \u201cdisruption\u201d of education for tech work has led many to believe that the bootcamp model can be generalized to other industries. But the proponents of that vision fail to account for why this has succeeded in tech; the lack of formal certification. We in the industry would greatly appreciate such certification\u2014it would save a ton of time and money on interviewing\u2014but we\u2019ve so far failed to create one."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Other industries that are satisfied with existing university certification are not going to be eager to invent their own in-house aptitude tests nor trust some alternative certification. Hence, I think universities are not at risk of disruption due their value as certifiers."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11091202,
+    "thread_children": 14,
+    "ratio_recv": 1,
+    "ratio_give": null
+  },
+  {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11095273,
+    "top_level": false,
+    "date": "Dec 12 2022 10:27",
+    "likes": 9,
+    "timestamp": 1670858873,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that a lot of software engineering work doesn\u2019t require deep CS knowledge. Yet even the most mundane work requires familiarity with rudimental data structures and algorithms. I\u2019ve been surprised that many CS grads, including at times those from prestigious programs, and even occasionally experienced engineers, cannot demonstrate such basic competencies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, I commonly used the following exercise as an effective quick screen."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> You have a file on your laptop, how would you count the number of unique lines in it?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To provide context for non-engineers, one needn\u2019t even write code to solve that exercise. You can just type a command into a terminal and get the answer. The strongest candidates immediately provided that solution. The weakest candidates struggled even with the concept of a file."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even a coding solution to this problem is extremely simple, taking 1-10 lines of code in mainstream programming languages. Most candidates could eventually describe a solution, but many couldn\u2019t. In contrast, the strongest candidates immediately followed their command-line solution with something like the following,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I would iterate through the lines of the file, add each line to a hashtable (i.e., set), and the final length of that collection in the answer"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The reference data structure, the hashtable, is one of the most ubiquitous and foundational data structures in CS. All intro algo/DS courses teach it and test it. And subsequent student projects over multiple courses will commonly use a hashtable. By the time of graduation it should be second nature."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet a frighteningly high fraction (~10%) of CS grads couldn\u2019t even solve this simple exercise even after I explicitly told them to use a hashtable. Some didn\u2019t even know what it was! I imagine some of this adverse selection in interviewing (i.e., a market for lemons), where the weakest candidates are constantly interviewing, while the strongest get an offer directly from internships."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apologies for the long rant. I just find it deeply frustrating that any CS program could confer a degree to these candidates. And hence the need for tech companies to develop rigorous (and time consuming) aptitude screening."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11091271,
+    "parent_children": 4,
+    "thread_id": 11091202,
+    "thread_children": 14,
+    "ratio_recv": -6,
+    "ratio_give": -2
+  },
+  {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11091573,
+    "top_level": false,
+    "date": "Dec 12 2022 07:25",
+    "likes": 2,
+    "timestamp": 1670847918,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m not aware of any reputable tech company that considers these certificates in evaluating candidates for software engineering roles. Some certificates (e.g., IBM Cloud Expert) are even seen as a negative signal because they demonstrate that the candidate is willing to waste their own time on something that provides no valuable knowledge."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 11091352,
+    "parent_children": 8,
+    "thread_id": 11091202,
+    "thread_children": 14,
+    "ratio_recv": 6,
+    "ratio_give": -2
+  },
+  {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11095471,
+    "top_level": false,
+    "date": "Dec 12 2022 10:36",
+    "likes": 1,
+    "timestamp": 1670859414,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There is only one practical reason to get a masters in CS; to get a J1 work visa. (Or if you leave a PhD program and get one as a concession prize.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There just aren\u2019t any CS jobs that leverage a masters education. Research is done by PhDs, commonly in collaboration with academia. Software engineering work doesn\u2019t leverage anything taught at a masters level."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The only potential exception is machine learning engineers at a few elite firms (e.g., Google) that are implementing cut edge research in production. I don\u2019t have any experience with that and am just guessing."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11094698,
+    "parent_children": 3,
+    "thread_id": 11091202,
+    "thread_children": 14,
+    "ratio_recv": 0,
+    "ratio_give": 1
+  },
+  {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11091510,
+    "top_level": true,
+    "date": "Dec 12 2022 07:20",
+    "likes": 3,
+    "timestamp": 1670847608,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Motivation and self-discipline are valuable commodities, and an in-person instructor can help provide them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree that an in-person instructor provides some value in the form of motivation, but I\u2019d challenge the analogy to a personal trainer. A personal trainer provides far more personalized coaching, including adapting to the specific strengths and weaknesses of their trainee. They can also design training around exercises and activities that the trainee particularly enjoys (or at least hates less.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While a teacher or professor can provide some personalized support, say feedback in grading an assignment, they lack the time to provide the same level of one-on-one instruction as a personal trainer. Further, they lack flexibility in adapting course work since they are teaching an entire class of students."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Therefore I see an opportunity for more personalized education, and AI (or software in general) might one day capitalize on that. Not only could coursework be adapted to the specific strengths and weaknesses of each individual student, the material could be presented to appeal to each student\u2019s interests. That could help address the motivation issue by including content that is genuinely interesting to each student. For example, a student who is obsessed with Minecraft could be given math problems in the context of solving common in-game challenges that a player could encounter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m not particularly excited about such tech-in-education opportunities because, as the article points out, tech has repeatedly failed to disrupt education. I just recognize the potential for far greater personalized education and one day tech might offer a scalable solution."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11091510,
+    "thread_children": 2,
+    "ratio_recv": 4,
+    "ratio_give": null
+  },
+  {
+    "post_id": 89412470,
+    "title": "Why hasn\u2019t technology disrupted higher education already?",
+    "canonical_url": "https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11096029,
+    "top_level": false,
+    "date": "Dec 12 2022 10:58",
+    "likes": 0,
+    "timestamp": 1670860725,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To an extent, yes. But that has to be calibrated to the specific individual and where they are currently at. I get the impression that many people just struggle to show up; both in fitness and education."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "When I had a personal trainer, he frequently asked questions about excitement, energy level, and other things related to motivation. He would adapt a routine in real time and also planned out a workout schedule with a balance between stuff I loved and other stuff I found frustrating."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine a light touch is needed for low-motivation trainees, particularly if they\u2019re just getting into exercising. Just pre-purchasing a dozen $160/hr sessions probably provides value in commitment for some. From there, getting some enjoyable (or at least bearable) activities can help build some baseline fitness and good habits that makes further progression possible."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11092365,
+    "parent_children": 1,
+    "thread_id": 11091510,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -7
+  },
+  {
     "post_id": 62667855,
     "title": "Tackling America's weirdly short life expectancy should be a priority ",
     "canonical_url": "https://www.slowboring.com/p/tackling-americas-weirdly-short-life",
@@ -3793,7 +4684,7 @@ window._comments = [
     "id": 7099978,
     "top_level": true,
     "date": "Jun 13 2022 07:05",
-    "likes": 23,
+    "likes": 25,
     "timestamp": 1655118303,
     "body": [
       [
@@ -3827,7 +4718,7 @@ window._comments = [
     "id": 7099782,
     "top_level": true,
     "date": "Jun 13 2022 06:37",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1655116648,
     "body": [
       [
@@ -3865,12 +4756,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7099782,
-    "thread_children": 3,
-    "ratio_recv": 1,
+    "thread_children": 2,
+    "ratio_recv": -4,
     "ratio_give": null
   },
   {
@@ -3901,9 +4792,9 @@ window._comments = [
     ],
     "total_children": 11,
     "parent_id": 7099718,
-    "parent_children": 65,
+    "parent_children": 68,
     "thread_id": 7099718,
-    "thread_children": 65,
+    "thread_children": 68,
     "ratio_recv": -8,
     "ratio_give": 11
   },
@@ -3957,9 +4848,9 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 7099992,
-    "parent_children": 4,
+    "parent_children": 3,
     "thread_id": 7099992,
-    "thread_children": 4,
+    "thread_children": 3,
     "ratio_recv": null,
     "ratio_give": 2
   },
@@ -4423,7 +5314,7 @@ window._comments = [
     "id": 8493765,
     "top_level": false,
     "date": "Aug 19 2022 10:24",
-    "likes": 11,
+    "likes": 12,
     "timestamp": 1660919043,
     "body": [
       [
@@ -4450,8 +5341,8 @@ window._comments = [
     "parent_children": 56,
     "thread_id": 8489664,
     "thread_children": 56,
-    "ratio_recv": -10,
-    "ratio_give": -43
+    "ratio_recv": -11,
+    "ratio_give": -46
   },
   {
     "post_id": 69004628,
@@ -4530,7 +5421,7 @@ window._comments = [
     "parent_children": 6,
     "thread_id": 8490928,
     "thread_children": 6,
-    "ratio_recv": -3,
+    "ratio_recv": -2,
     "ratio_give": -8
   },
   {
@@ -4949,7 +5840,7 @@ window._comments = [
     "id": 6399846,
     "top_level": true,
     "date": "May 04 2022 17:07",
-    "likes": 25,
+    "likes": 30,
     "timestamp": 1651698466,
     "body": [
       [
@@ -5005,12 +5896,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 47,
+    "total_children": 49,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 6399846,
-    "thread_children": 47,
-    "ratio_recv": -20,
+    "thread_children": 49,
+    "ratio_recv": -23,
     "ratio_give": null
   },
   {
@@ -5023,7 +5914,7 @@ window._comments = [
     "id": 6402326,
     "top_level": false,
     "date": "May 04 2022 19:13",
-    "likes": 8,
+    "likes": 12,
     "timestamp": 1651706009,
     "body": [
       [
@@ -5033,13 +5924,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 6402251,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 6399846,
-    "thread_children": 47,
-    "ratio_recv": -8,
-    "ratio_give": 4
+    "thread_children": 49,
+    "ratio_recv": -12,
+    "ratio_give": 6
   },
   {
     "post_id": 53154031,
@@ -5065,9 +5956,9 @@ window._comments = [
     "parent_id": 6402115,
     "parent_children": 20,
     "thread_id": 6399846,
-    "thread_children": 47,
+    "thread_children": 49,
     "ratio_recv": -1,
-    "ratio_give": -10
+    "ratio_give": -14
   },
   {
     "post_id": 53154031,
@@ -5079,7 +5970,7 @@ window._comments = [
     "id": 6402949,
     "top_level": false,
     "date": "May 04 2022 19:55",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1651708506,
     "body": [
       [
@@ -5093,36 +5984,8 @@ window._comments = [
     "parent_id": 6402792,
     "parent_children": 4,
     "thread_id": 6399846,
-    "thread_children": 47,
-    "ratio_recv": -1,
-    "ratio_give": 0
-  },
-  {
-    "post_id": 53154031,
-    "title": "Wednesday Thread",
-    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": null,
-    "id": 6403134,
-    "top_level": false,
-    "date": "May 04 2022 20:08",
-    "likes": 3,
-    "timestamp": 1651709301,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yep, using this approach one can access all attributes of a comment, including content. But one can only access posts and comments for substacks that they are subscribed to. So comments on a private post can only be accessed by paying subscribers."
-        }
-      ]
-    ],
-    "total_children": 6,
-    "parent_id": 6403067,
-    "parent_children": 7,
-    "thread_id": 6399846,
-    "thread_children": 47,
-    "ratio_recv": 5,
+    "thread_children": 49,
+    "ratio_recv": -2,
     "ratio_give": 1
   },
   {
@@ -5135,7 +5998,7 @@ window._comments = [
     "id": 6402753,
     "top_level": false,
     "date": "May 04 2022 19:43",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1651707828,
     "body": [
       [
@@ -5199,9 +6062,37 @@ window._comments = [
     "parent_id": 6402552,
     "parent_children": 2,
     "thread_id": 6399846,
-    "thread_children": 47,
-    "ratio_recv": -4,
-    "ratio_give": 4
+    "thread_children": 49,
+    "ratio_recv": -5,
+    "ratio_give": 5
+  },
+  {
+    "post_id": 53154031,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-8ac",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 6403134,
+    "top_level": false,
+    "date": "May 04 2022 20:08",
+    "likes": 3,
+    "timestamp": 1651709301,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, using this approach one can access all attributes of a comment, including content. But one can only access posts and comments for substacks that they are subscribed to. So comments on a private post can only be accessed by paying subscribers."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 6403067,
+    "parent_children": 6,
+    "thread_id": 6399846,
+    "thread_children": 49,
+    "ratio_recv": 5,
+    "ratio_give": 1
   },
   {
     "post_id": 57982533,
@@ -5265,11 +6156,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 33,
+    "total_children": 32,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7404712,
-    "thread_children": 33,
+    "thread_children": 32,
     "ratio_recv": 2,
     "ratio_give": null
   },
@@ -5305,11 +6196,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 20,
+    "total_children": 19,
     "parent_id": 7404712,
-    "parent_children": 33,
+    "parent_children": 32,
     "thread_id": 7404712,
-    "thread_children": 33,
+    "thread_children": 32,
     "ratio_recv": 4,
     "ratio_give": 2
   },
@@ -5465,7 +6356,7 @@ window._comments = [
     "parent_id": 7404872,
     "parent_children": 6,
     "thread_id": 7404712,
-    "thread_children": 33,
+    "thread_children": 32,
     "ratio_recv": -2,
     "ratio_give": 2
   },
@@ -5655,7 +6546,7 @@ window._comments = [
     "id": 6550309,
     "top_level": false,
     "date": "May 13 2022 07:37",
-    "likes": 37,
+    "likes": 40,
     "timestamp": 1652441873,
     "body": [
       [
@@ -5692,8 +6583,8 @@ window._comments = [
     "parent_children": 30,
     "thread_id": 6549600,
     "thread_children": 30,
-    "ratio_recv": -18,
-    "ratio_give": 4
+    "ratio_recv": -19,
+    "ratio_give": 5
   },
   {
     "post_id": 54303445,
@@ -5761,7 +6652,7 @@ window._comments = [
     "thread_id": 7418400,
     "thread_children": 35,
     "ratio_recv": -9,
-    "ratio_give": -7
+    "ratio_give": -8
   },
   {
     "post_id": 62033902,
@@ -5839,7 +6730,7 @@ window._comments = [
     "id": 7006538,
     "top_level": true,
     "date": "Jun 08 2022 07:41",
-    "likes": 31,
+    "likes": 35,
     "timestamp": 1654688497,
     "body": [
       [
@@ -5886,7 +6777,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 7006538,
     "thread_children": 2,
-    "ratio_recv": -15,
+    "ratio_recv": -18,
     "ratio_give": null
   },
   {
@@ -6119,7 +7010,7 @@ window._comments = [
     "id": 7280853,
     "top_level": true,
     "date": "Jun 22 2022 06:58",
-    "likes": 26,
+    "likes": 27,
     "timestamp": 1655895490,
     "body": [
       [
@@ -6145,12 +7036,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7280853,
-    "thread_children": 1,
-    "ratio_recv": -24,
+    "thread_children": 2,
+    "ratio_recv": -25,
     "ratio_give": null
   },
   {
@@ -6173,11 +7064,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 7280774,
-    "parent_children": 13,
+    "parent_children": 14,
     "thread_id": 7280774,
-    "thread_children": 13,
+    "thread_children": 14,
     "ratio_recv": 11,
     "ratio_give": -1
   },
@@ -7429,7 +8320,7 @@ window._comments = [
     "id": 7426985,
     "top_level": true,
     "date": "Jun 29 2022 06:38",
-    "likes": 47,
+    "likes": 52,
     "timestamp": 1656499133,
     "body": [
       [
@@ -7445,12 +8336,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 23,
+    "total_children": 24,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7426985,
-    "thread_children": 23,
-    "ratio_recv": -5,
+    "thread_children": 24,
+    "ratio_recv": -6,
     "ratio_give": null
   },
   {
@@ -7463,7 +8354,7 @@ window._comments = [
     "id": 7430970,
     "top_level": false,
     "date": "Jun 29 2022 10:00",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1656511242,
     "body": [
       [
@@ -7495,9 +8386,9 @@ window._comments = [
     "parent_id": 7428276,
     "parent_children": 2,
     "thread_id": 7426985,
-    "thread_children": 23,
+    "thread_children": 24,
     "ratio_recv": -9,
-    "ratio_give": 8
+    "ratio_give": 9
   },
   {
     "post_id": 43937960,
@@ -7789,7 +8680,7 @@ window._comments = [
     "id": 11025759,
     "top_level": true,
     "date": "Dec 09 2022 06:18",
-    "likes": 29,
+    "likes": 31,
     "timestamp": 1670584690,
     "body": [
       [
@@ -8101,7 +8992,7 @@ window._comments = [
     "id": 11026292,
     "top_level": false,
     "date": "Dec 09 2022 07:03",
-    "likes": 9,
+    "likes": 11,
     "timestamp": 1670587421,
     "body": [
       [
@@ -8119,11 +9010,11 @@ window._comments = [
     ],
     "total_children": 24,
     "parent_id": 11026168,
-    "parent_children": 79,
+    "parent_children": 81,
     "thread_id": 11026168,
-    "thread_children": 79,
-    "ratio_recv": -5,
-    "ratio_give": -1
+    "thread_children": 81,
+    "ratio_recv": -7,
+    "ratio_give": 0
   },
   {
     "post_id": 89196577,
@@ -8149,8 +9040,8 @@ window._comments = [
     "parent_id": 11026337,
     "parent_children": 22,
     "thread_id": 11026168,
-    "thread_children": 79,
-    "ratio_recv": 5,
+    "thread_children": 81,
+    "ratio_recv": 6,
     "ratio_give": -4
   },
   {
@@ -8175,11 +9066,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 11026328,
-    "parent_children": 55,
+    "parent_children": 57,
     "thread_id": 11026328,
-    "thread_children": 55,
-    "ratio_recv": 4,
-    "ratio_give": -5
+    "thread_children": 57,
+    "ratio_recv": 5,
+    "ratio_give": -6
   },
   {
     "post_id": 89196577,
@@ -8686,7 +9577,7 @@ window._comments = [
     "id": 6364395,
     "top_level": true,
     "date": "May 03 2022 06:32",
-    "likes": 33,
+    "likes": 35,
     "timestamp": 1651573921,
     "body": [
       [
@@ -9708,7 +10599,7 @@ window._comments = [
     "id": 8446954,
     "top_level": false,
     "date": "Aug 17 2022 10:42",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1660747324,
     "body": [
       [
@@ -9796,11 +10687,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 9,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7111859,
-    "thread_children": 10,
+    "thread_children": 9,
     "ratio_recv": -11,
     "ratio_give": null
   },
@@ -9880,7 +10771,7 @@ window._comments = [
     "id": 6413521,
     "top_level": false,
     "date": "May 05 2022 11:35",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1651764909,
     "body": [
       [
@@ -9912,13 +10803,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 6411782,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 6408486,
-    "thread_children": 38,
-    "ratio_recv": -8,
-    "ratio_give": -3
+    "thread_children": 39,
+    "ratio_recv": -10,
+    "ratio_give": -2
   },
   {
     "post_id": 49698652,
@@ -10284,7 +11175,7 @@ window._comments = [
     "id": 6926909,
     "top_level": false,
     "date": "Jun 03 2022 12:32",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1654273962,
     "body": [
       [
@@ -10305,8 +11196,8 @@ window._comments = [
     "parent_children": 17,
     "thread_id": 6921613,
     "thread_children": 17,
-    "ratio_recv": 1,
-    "ratio_give": -41
+    "ratio_recv": 0,
+    "ratio_give": -44
   },
   {
     "post_id": 73210423,
@@ -10889,11 +11780,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 8,
+    "total_children": 6,
     "parent_id": 6246278,
-    "parent_children": 11,
+    "parent_children": 9,
     "thread_id": 6246278,
-    "thread_children": 11,
+    "thread_children": 9,
     "ratio_recv": -1,
     "ratio_give": 1
   },
@@ -10927,7 +11818,7 @@ window._comments = [
     "parent_id": 6246714,
     "parent_children": 1,
     "thread_id": 6246278,
-    "thread_children": 11,
+    "thread_children": 9,
     "ratio_recv": null,
     "ratio_give": 0
   },
@@ -11036,7 +11927,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 8615151,
     "thread_children": 34,
-    "ratio_recv": 0,
+    "ratio_recv": 1,
     "ratio_give": null
   },
   {
@@ -11129,7 +12020,7 @@ window._comments = [
     "id": 8615012,
     "top_level": false,
     "date": "Aug 25 2022 06:41",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1661424110,
     "body": [
       [
@@ -11156,7 +12047,7 @@ window._comments = [
     "parent_children": 17,
     "thread_id": 8614943,
     "thread_children": 17,
-    "ratio_recv": -2,
+    "ratio_recv": -3,
     "ratio_give": 4
   },
   {
@@ -11675,6 +12566,44 @@ window._comments = [
     "ratio_give": null
   },
   {
+    "post_id": 90017925,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-c23",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11105838,
+    "top_level": true,
+    "date": "Dec 12 2022 17:11",
+    "likes": 31,
+    "timestamp": 1670883092,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In the early months of Slow Boring, you frequently engaged in the comment section and that has tapered off in the last year. Any particular reason you\u2019ve decreased your participation in comments?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Comment frequency stats, "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/slowboring_comment_analysis/blob/master/figs/yglesias_comments.png"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11105838,
+    "thread_children": 8,
+    "ratio_recv": -6,
+    "ratio_give": null
+  },
+  {
     "post_id": 61636691,
     "title": "Nordic alliance mailbag ",
     "canonical_url": "https://www.slowboring.com/p/nordic-alliance-mailbag",
@@ -11718,11 +12647,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 25,
+    "total_children": 23,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7477145,
-    "thread_children": 25,
+    "thread_children": 23,
     "ratio_recv": -16,
     "ratio_give": null
   },
@@ -11812,11 +12741,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7476897,
-    "thread_children": 4,
+    "thread_children": 3,
     "ratio_recv": -24,
     "ratio_give": null
   },
@@ -11852,11 +12781,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7477402,
-    "thread_children": 7,
+    "thread_children": 6,
     "ratio_recv": 7,
     "ratio_give": null
   },
@@ -11894,7 +12823,7 @@ window._comments = [
     "parent_id": 7478110,
     "parent_children": 1,
     "thread_id": 7477402,
-    "thread_children": 7,
+    "thread_children": 6,
     "ratio_recv": null,
     "ratio_give": -16
   },
@@ -12112,7 +13041,7 @@ window._comments = [
     "id": 7260227,
     "top_level": true,
     "date": "Jun 21 2022 06:55",
-    "likes": 47,
+    "likes": 51,
     "timestamp": 1655808912,
     "body": [
       [
@@ -12161,7 +13090,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 7260227,
     "thread_children": 24,
-    "ratio_recv": -17,
+    "ratio_recv": -20,
     "ratio_give": null
   },
   {
@@ -12336,7 +13265,7 @@ window._comments = [
     "thread_id": 7121305,
     "thread_children": 3,
     "ratio_recv": -4,
-    "ratio_give": 0
+    "ratio_give": -1
   },
   {
     "post_id": 58893445,
@@ -12410,12 +13339,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 0,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 7121569,
-    "thread_children": 1,
-    "ratio_recv": 0,
+    "thread_children": 0,
+    "ratio_recv": null,
     "ratio_give": null
   },
   {
@@ -12774,7 +13703,7 @@ window._comments = [
     "id": 8712397,
     "top_level": true,
     "date": "Aug 29 2022 17:20",
-    "likes": 54,
+    "likes": 55,
     "timestamp": 1661808055,
     "body": [
       [
@@ -12892,7 +13821,7 @@ window._comments = [
     "id": 7380373,
     "top_level": true,
     "date": "Jun 27 2022 07:10",
-    "likes": 27,
+    "likes": 28,
     "timestamp": 1656328250,
     "body": [
       [
@@ -12941,7 +13870,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 7380373,
     "thread_children": 26,
-    "ratio_recv": -14,
+    "ratio_recv": -15,
     "ratio_give": null
   },
   {
@@ -13183,6 +14112,40 @@ window._comments = [
     "thread_children": 11,
     "ratio_recv": 1,
     "ratio_give": -3
+  },
+  {
+    "post_id": 89637783,
+    "title": "The midterms should be a stake through the heart of the mobilization myth",
+    "canonical_url": "https://www.slowboring.com/p/the-midterms-should-be-a-stake-through",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11116225,
+    "top_level": true,
+    "date": "Dec 13 2022 06:34",
+    "likes": 43,
+    "timestamp": 1670931255,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Great article! It is yet another solid analysis and argument for courting swing voters. The 2022 election data provides exceptionally strong evidence against mobilization theory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet it won\u2019t convince the proponents of this theory to abandon it in favor of courting swing voters. This is because they didn\u2019t calculate their way into mobilization theory based on any polling/voting data but instead adopted it as a post hoc justification for why they needn\u2019t abandon their most unpopular policies and messaging. We simply can\u2019t reason people out of ideas that they didn\u2019t reason themselves into in the first place."
+        }
+      ]
+    ],
+    "total_children": 29,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11116225,
+    "thread_children": 29,
+    "ratio_recv": -13,
+    "ratio_give": null
   },
   {
     "post_id": 85962904,
@@ -13764,7 +14727,7 @@ window._comments = [
     "id": 6986671,
     "top_level": true,
     "date": "Jun 07 2022 07:30",
-    "likes": 11,
+    "likes": 13,
     "timestamp": 1654601420,
     "body": [
       [
@@ -13827,7 +14790,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 6986671,
     "thread_children": 8,
-    "ratio_recv": -1,
+    "ratio_recv": -2,
     "ratio_give": null
   },
   {
@@ -13850,11 +14813,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 2,
     "parent_id": 6986311,
-    "parent_children": 4,
+    "parent_children": 3,
     "thread_id": 6985994,
-    "thread_children": 42,
+    "thread_children": 41,
     "ratio_recv": -9,
     "ratio_give": 17
   },
