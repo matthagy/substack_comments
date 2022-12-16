@@ -947,11 +947,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 14,
+    "total_children": 15,
     "parent_id": 11142045,
-    "parent_children": 23,
+    "parent_children": 27,
     "thread_id": 11141666,
-    "thread_children": 48,
+    "thread_children": 55,
     "ratio_recv": -11,
     "ratio_give": -10
   },
@@ -991,7 +991,7 @@ window._comments = [
     "parent_id": 11148865,
     "parent_children": 13,
     "thread_id": 11141666,
-    "thread_children": 48,
+    "thread_children": 55,
     "ratio_recv": -4,
     "ratio_give": 4
   },
@@ -1019,7 +1019,7 @@ window._comments = [
     "parent_id": 11152123,
     "parent_children": 10,
     "thread_id": 11141666,
-    "thread_children": 48,
+    "thread_children": 55,
     "ratio_recv": -3,
     "ratio_give": 3
   },
@@ -1047,8 +1047,8 @@ window._comments = [
     "parent_id": 11152552,
     "parent_children": 7,
     "thread_id": 11141666,
-    "thread_children": 48,
-    "ratio_recv": -5,
+    "thread_children": 55,
+    "ratio_recv": -4,
     "ratio_give": 5
   },
   {
@@ -1083,11 +1083,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 12,
+    "total_children": 15,
     "parent_id": 11141666,
-    "parent_children": 48,
+    "parent_children": 55,
     "thread_id": 11141666,
-    "thread_children": 48,
+    "thread_children": 55,
     "ratio_recv": -9,
     "ratio_give": -14
   },
@@ -1135,12 +1135,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 4,
     "parent_id": 11155627,
-    "parent_children": 2,
+    "parent_children": 5,
     "thread_id": 11141666,
-    "thread_children": 48,
-    "ratio_recv": 0,
+    "thread_children": 55,
+    "ratio_recv": 1,
     "ratio_give": 0
   },
   {
@@ -2258,7 +2258,7 @@ window._comments = [
     "id": 11156783,
     "top_level": true,
     "date": "Dec 14 2022 17:28",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1671056923,
     "body": [
       [
@@ -2310,12 +2310,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 19,
+    "total_children": 20,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11156783,
-    "thread_children": 19,
-    "ratio_recv": -2,
+    "thread_children": 20,
+    "ratio_recv": -3,
     "ratio_give": null
   },
   {
@@ -2328,7 +2328,7 @@ window._comments = [
     "id": 11158877,
     "top_level": false,
     "date": "Dec 14 2022 19:20",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1671063649,
     "body": [
       [
@@ -2338,13 +2338,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 11157518,
-    "parent_children": 12,
+    "parent_children": 13,
     "thread_id": 11156783,
-    "thread_children": 19,
-    "ratio_recv": -5,
-    "ratio_give": 5
+    "thread_children": 20,
+    "ratio_recv": -6,
+    "ratio_give": 6
   },
   {
     "post_id": 90018342,
@@ -2380,9 +2380,9 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 11157225,
-    "parent_children": 17,
+    "parent_children": 18,
     "thread_id": 11156783,
-    "thread_children": 19,
+    "thread_children": 20,
     "ratio_recv": 0,
     "ratio_give": 0
   },
@@ -13091,6 +13091,443 @@ window._comments = [
     "thread_id": 7260227,
     "thread_children": 24,
     "ratio_recv": -20,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11167548,
+    "top_level": false,
+    "date": "Dec 15 2022 07:25",
+    "likes": 29,
+    "timestamp": 1671107128,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "At least the libertarian/anarchist goldbug era of early Bitcoin was more honest than the \u201cweb3\u201d promoters. The early enthusiasts were explicitly hostile to managed financial systems and these weirdos mainly just discussed the sociopolitics of money amongst themselves. None of them promised the vaporware of a new internet."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even the Silk Road era was markedly more truthful. These Bitcoin promoters wanted to facilitate financial crimes, notably purchasing illegal drugs. Some of them were politically opposed to drug laws and saw Bitcoin as facilitating social productive civil disobedience. Others were just criminals who appreciated how the tech helped them commit crime."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11167216,
+    "parent_children": 3,
+    "thread_id": 11166855,
+    "thread_children": 29,
+    "ratio_recv": null,
+    "ratio_give": -2
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11167077,
+    "top_level": false,
+    "date": "Dec 15 2022 06:52",
+    "likes": 1,
+    "timestamp": 1671105147,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Adam Back [1] is Satoshi Nakamoto. Or at least that is the general consensus among the Bitcoin enthusiasts I know. I went down this rabbit hole a couple years ago and came away generally agreeing with that theory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe the 2020 video from Barely Sociable, \u201cBitcoin - Unmasking Satoshi Nakamoto\u201d is the canonical presentation of this theory. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=XfcvX0P1b5g"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just now searched for a summary, and this 2021 article from Coinspeaker seems decent, \u201cBarely Sociable Analyst Believes Blockstream CEO Adam Back Is Satoshi Nakamoto\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.coinspeaker.com/barely-sociable-adam-back-satoshi/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In particular, Barely Sociable revealed that Adam Back described blockchain technology as early as 1998. Notably, his research was the same as the Bitcoin white paper published in 2008. However, prior to the release of Bitcoin, Back disappeared during 2009 and 2010, which coincided with Satoshi\u2019s Bitcoin development period. What is more interesting, after Satoshi left, Back appeared again on the bitcointalk.org forum"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Since the creation of Bitcoin, Adam Back has been strongly supporting the currency. Being very passionate about BTC, Back has made incredible price predictions several times. In 2020, he stated that BTC was likely to reach up to $300,000 in a 5-year perspective, even without institutional investors\u2019 support. In addition, Back believes that in the future, people will realize that Bitcoin helps protect from inflation as governments keep printing money."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Adam_Back"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11166747,
+    "parent_children": 7,
+    "thread_id": 11166747,
+    "thread_children": 7,
+    "ratio_recv": 1,
+    "ratio_give": -6
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11167302,
+    "top_level": false,
+    "date": "Dec 15 2022 07:08",
+    "likes": 8,
+    "timestamp": 1671106110,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although the US financial infrastructure could use a tech upgrade regardless of crypto. It is horrifying the extent to which trillions of dollars are moved daily through rickety software systems using tech standards developed decades ago."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, there is no technical reason that most financial transactions require a day or two to settle; i.e., show up in your account. But the original fintech systems were designed to augment highly manual processes that could only be managed in daily batches. Further, the tech of that era was extremely underpowered compared to today and couldn\u2019t have supported real-time settlement anyways."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worst of all, far too much of the original code from that era is still being used despite the fact that none of the current engineers understand it. Some of these issues are presented in the 2017 Reuters article, \u201cBanks scramble to fix old systems as IT 'cowboys' ride into sunset\u201d. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Common Business-Oriented Language was developed nearly 60 years ago and has been gradually replaced by newer, more versatile languages such as Java, C and Python. Although few universities still offer COBOL courses, the language remains crucial to businesses and institutions around the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In the United States, the financial sector, major corporations and parts of the federal government still largely rely on it because it underpins powerful systems that were built in the 70s or 80s and never fully replaced. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And here lies the problem: if something goes wrong, few people know how to fix it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reuters.com/article/us-usa-banks-cobol/banks-scramble-to-fix-old-systems-as-it-cowboys-ride-into-sunset-idUSKBN17C0D8"
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 11166859,
+    "parent_children": 13,
+    "thread_id": 11166859,
+    "thread_children": 13,
+    "ratio_recv": 0,
+    "ratio_give": 2
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11171378,
+    "top_level": false,
+    "date": "Dec 15 2022 10:24",
+    "likes": 3,
+    "timestamp": 1671117882,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, batch vs. real-time settlement does not constrain a bank's ability to earn on float since that only impacts at most 1 day of liquidity. They are instead constrained by regulations like liquidity coverage ratio requirements, which requires them to hold high quality, liquid assets of at least 30 days of outflows under high-stress conditions. [1] In general, banks met HQLA regulations by holding central bank reserves. [2] Those reserves are pure liquidity and are the lowest yielding asset available to bank balance sheets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20140903a.htm"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.newyorkfed.org/research/staff_reports/sr852"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 11168119,
+    "parent_children": 7,
+    "thread_id": 11166859,
+    "thread_children": 13,
+    "ratio_recv": -3,
+    "ratio_give": -5
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11173921,
+    "top_level": false,
+    "date": "Dec 15 2022 11:59",
+    "likes": 3,
+    "timestamp": 1671123549,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that their return-on-equity is appropriate and am not arguing otherwise. I\u2019m simply diffusing the faulty argument that they earn more with batch settlement than they would with real-time. In actuality, banks are resisting modernization because it would cost them a lot of time and money."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I\u2019m not arguing in favor of bank de-regulation nor crypto. I\u2019m instead petitioning for regulations that require banks to upgrade their financial tech infrastructure. That includes requiring both support for real-time settlement and the usage of modern engineering practices."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11173628,
+    "parent_children": 4,
+    "thread_id": 11166859,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 3
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11182022,
+    "top_level": false,
+    "date": "Dec 15 2022 16:19",
+    "likes": 2,
+    "timestamp": 1671139169,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, it uses a different technology. Or more specifically, Zelle is a technology layer on top of the existing batch settlement system. Behind the scenes, the banks are still batch settling. Beyond the tech, new contractual terms are what allows the banks to immediately offer funds to recipients. Specifically, Zelle provides sufficiently strong guarantees against counterparty risks (e.g., a bounced check)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is work-in-progress to introduce real-time settlement between banks, including some Zelle payments. [1] This leverages the Real-Time Payment network, an actual technology and business relations solution for real-time settlement between banks. [2] RTP is a new service provided by The Clearing House, a banking consortium that has been managing settlement between banks in the US since the 1850\u2019s. They developed the original Automated Clearing House service that is central to current batch settlement in the 1960\u2019s and RTP is their anointed successor."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Federal Reserve is also working on a solution for real-time settlement named FedNow. [3] It is roughly an improved FedWire. Notably, it offers 24/7/365 availability, lower transaction costs, and modernized tech standards. FedNow is planned to launch next year and it is a major milestone on the road to eliminating batch settlement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.pymnts.com/digital-payments/2021/early-warning-services-tch-now-allow-zelle-payments-via-rtp-network/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.theclearinghouse.org/payment-systems/rtp"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.frbservices.org/financial-services/fednow/about.html"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11175002,
+    "parent_children": 2,
+    "thread_id": 11166859,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 2
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11166962,
+    "top_level": true,
+    "date": "Dec 15 2022 06:40",
+    "likes": 5,
+    "timestamp": 1671104446,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "How should crypto be regulated? I think that is the key question now and options include outlawing, using existing securities law, or creating new laws."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Doing nothing may also be a good idea. Joe Weisenthal (and others) have suggested that the lack of crypto regulation has limited institutional investment in crypto and that is good. [1] Particularly, no important institutional investors have suffered significant losses in the current crypto meltdown. In contrast, had regulation enabled greater institutional investment, then the broader financial market could\u2019ve gone into a crisis similar to how the subprime mortgage meltdown triggered a broader financial crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Crypto might even be a good outlet for the most reckless financial speculators as long as it remains isolated from our broader financial markets. These gamblers can trade amongst each other, and when their house of cards collapses there will be no collateral damage. That is superior to having these irresponsible traders participating in markets that actually matter and thereby exacerbating bubbles and busts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/TheStalwart/status/1595483624819695617"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11166962,
+    "thread_children": 7,
+    "ratio_recv": -2,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11173478,
+    "top_level": true,
+    "date": "Dec 15 2022 11:44",
+    "likes": 2,
+    "timestamp": 1671122666,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Perfect timing! Today's news in NFTs, \u201cDonald Trump\u2019s Big Announcement: He\u2019s Selling $99 Digital Trading Cards in His Likeness\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.yahoo.com/entertainment/donald-trump-big-announcement-selling-161804314.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Former President Donald Trump on Thursday revealed a new foray into NFT sales, sharing a website that offers a series of what he called \u201cdigital trading cards\u201d for $99 each."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> On a website called CollectTrumpCards.com, the 45th president is selling a series of artworks featuring likenesses of the 45th president depicted as a superhero with laser eyes, an astronaut, a John Wayne-like cowboy and, of course, a dark-suited Trump surrounded by gold bars and one of him golfing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But Trump\u2019s launch comes at a time when the NFT market has stagnated, with prices dropping 97% since the start of the year."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cRemember, Christmas is coming, and this makes a great Christmas gift,\u201d the 45th president said in a video accompanying the launch."
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11173478,
+    "thread_children": 1,
+    "ratio_recv": 0,
     "ratio_give": null
   },
   {
