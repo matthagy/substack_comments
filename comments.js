@@ -6280,7 +6280,7 @@ window._comments = [
     "thread_id": 11192944,
     "thread_children": 19,
     "ratio_recv": -2,
-    "ratio_give": -10
+    "ratio_give": -11
   },
   {
     "post_id": 90613026,
@@ -6292,7 +6292,7 @@ window._comments = [
     "id": 11197039,
     "top_level": false,
     "date": "Dec 16 2022 10:12",
-    "likes": 12,
+    "likes": 13,
     "timestamp": 1671203566,
     "body": [
       [
@@ -6312,9 +6312,9 @@ window._comments = [
     "parent_id": 11194946,
     "parent_children": 15,
     "thread_id": 11193057,
-    "thread_children": 108,
+    "thread_children": 115,
     "ratio_recv": -4,
-    "ratio_give": 9
+    "ratio_give": 10
   },
   {
     "post_id": 90613026,
@@ -6368,7 +6368,7 @@ window._comments = [
     "parent_id": 11197548,
     "parent_children": 8,
     "thread_id": 11193057,
-    "thread_children": 108,
+    "thread_children": 115,
     "ratio_recv": -5,
     "ratio_give": 5
   },
@@ -6402,7 +6402,7 @@ window._comments = [
     "parent_id": 11204118,
     "parent_children": 1,
     "thread_id": 11193057,
-    "thread_children": 108,
+    "thread_children": 115,
     "ratio_recv": null,
     "ratio_give": -1
   },
@@ -13669,7 +13669,7 @@ window._comments = [
     "id": 11167548,
     "top_level": false,
     "date": "Dec 15 2022 07:25",
-    "likes": 29,
+    "likes": 30,
     "timestamp": 1671107128,
     "body": [
       [
@@ -13691,7 +13691,7 @@ window._comments = [
     "thread_id": 11166855,
     "thread_children": 30,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -5
   },
   {
     "post_id": 90417774,
@@ -13731,11 +13731,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 11173124,
-    "parent_children": 6,
+    "parent_children": 8,
     "thread_id": 11172205,
-    "thread_children": 8,
+    "thread_children": 10,
     "ratio_recv": 0,
     "ratio_give": -8
   },
