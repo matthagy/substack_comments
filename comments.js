@@ -947,11 +947,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 15,
+    "total_children": 19,
     "parent_id": 11142045,
-    "parent_children": 27,
+    "parent_children": 31,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": -11,
     "ratio_give": -10
   },
@@ -987,11 +987,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 12,
+    "total_children": 16,
     "parent_id": 11148865,
-    "parent_children": 13,
+    "parent_children": 17,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": -4,
     "ratio_give": 4
   },
@@ -1015,11 +1015,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 9,
+    "total_children": 13,
     "parent_id": 11152123,
-    "parent_children": 10,
+    "parent_children": 14,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": -3,
     "ratio_give": 3
   },
@@ -1043,13 +1043,147 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 6,
     "parent_id": 11152552,
-    "parent_children": 7,
+    "parent_children": 11,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": -4,
     "ratio_give": 5
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11191775,
+    "top_level": false,
+    "date": "Dec 16 2022 04:09",
+    "likes": 0,
+    "timestamp": 1671181746,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Angelo Mozilo was investigated by the federal government and they did not find sufficient evidence to bring **criminal** charges. That is in the Wikipedia article you cited. From the LA Times in 2011, \u201cU.S. drops criminal probe of former Countrywide chief Angelo Mozilo.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Federal prosecutors have shelved a criminal investigation of Angelo R. Mozilo after determining that his actions in the mortgage meltdown \u2014 which led to $67.5-million settlement against him \u2014 did not amount to criminal wrongdoing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He was charged by the SEC with securities fraud under civil law, but that was not fraud in issuing subprime mortgages. [2] It was instead fraud for lying to the shareholders of Countrywide Financial about the risks of their mortgage business. Mozilo did that so that he could sell his shares at a high stock price and thereby his settlement also included insider trading charges."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, plenty of horrible decisions were made in the events leading to the subprime crisis, but none of the major actions were crimes. When there were allegations of fraud, it was investigated. In the case of Mozilo, the SEC was able to force him into a massive settlement under the less stringent criteria of civil law. There unfortunately wasn\u2019t sufficient evidence to also bring criminal charges because that requires a far higher burden of proof."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.latimes.com/business/la-xpm-2011-feb-18-la-fi-mozilo-20110219-story.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.sec.gov/news/press/2009/2009-129.htm"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11157149,
+    "parent_children": 2,
+    "thread_id": 11141666,
+    "thread_children": 59,
+    "ratio_recv": 0,
+    "ratio_give": -1
+  },
+  {
+    "post_id": 89799685,
+    "title": "Elon Musk is the latest victim of the online ragetrap ",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11191896,
+    "top_level": false,
+    "date": "Dec 16 2022 04:27",
+    "likes": 0,
+    "timestamp": 1671182858,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I agree that some dubious ethics were at play in the subprime crisis. But we should differentiate that from criminal behavior. We can be disgusted with actions taken by banks, regulators, and politicians in the events leading up to the subprime crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet your original comment incorrectly tied that to criminal actions, and worse claimed these went unprosecuted. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">  There were a lot of bad faith actors in the private sector who broke the law when issuing subprime mortgages. Very few of them were prosecuted."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That is the type of misinformation that erodes trust in institutions. It implies that our government is corrupt and conspires with the rich and powerful to allow them to escape justice. When in actuality our government is quite effective and sophisticated at administering justice."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In cases where unethical corporation actions go unpunished, it is generally because those actions were carried out under the counsel of similarly sophisticated private lawyers. Our\u2019s is a system of laws and those laws are imperfect. At times actors will exploit that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While we can be disgusted with their actions, we should not recognize it as a failure to enforce the law. Instead, we should identify the inadequacies of current laws and regulations, and then fix them. That is exactly what Congress did in developing and passing the Dodd-Frank legislation to overhaul financial regulations in 2010."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of/comment/11148865"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11156957,
+    "parent_children": 2,
+    "thread_id": 11141666,
+    "thread_children": 59,
+    "ratio_recv": 0,
+    "ratio_give": -1
   },
   {
     "post_id": 89799685,
@@ -1085,9 +1219,9 @@ window._comments = [
     ],
     "total_children": 15,
     "parent_id": 11141666,
-    "parent_children": 55,
+    "parent_children": 59,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": -9,
     "ratio_give": -14
   },
@@ -1139,7 +1273,7 @@ window._comments = [
     "parent_id": 11155627,
     "parent_children": 5,
     "thread_id": 11141666,
-    "thread_children": 55,
+    "thread_children": 59,
     "ratio_recv": 1,
     "ratio_give": 0
   },
@@ -1294,11 +1428,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11141403,
-    "thread_children": 3,
+    "thread_children": 4,
     "ratio_recv": -3,
     "ratio_give": null
   },
@@ -6093,6 +6227,438 @@ window._comments = [
     "thread_children": 49,
     "ratio_recv": 5,
     "ratio_give": 1
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11207788,
+    "top_level": false,
+    "date": "Dec 16 2022 16:14",
+    "likes": 2,
+    "timestamp": 1671225291,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Looking for this Sept 2022 comment by B. Schak? "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/god-save-the-mailbag/comment/9094425"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Good news for NYC: a containerization pilot is on its way: "
+        },
+        {
+          "type": "url",
+          "value": "https://www1.nyc.gov/office-of-the-mayor/news/227-22/mayor-adams-clean-curbs-waste-containerization-pilot-expansion-all-five-boroughs#/0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (Of course the mayor\u2019s announcement had to be couched in terms of \u201cenvironmental justice\u201d because NY Democratic politicians can\u2019t ever do something simply to make life more pleasant for all New Yorkers.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Found that using a private mirror of Substack with comment search."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11201562,
+    "parent_children": 2,
+    "thread_id": 11192944,
+    "thread_children": 19,
+    "ratio_recv": -2,
+    "ratio_give": -10
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11197039,
+    "top_level": false,
+    "date": "Dec 16 2022 10:12",
+    "likes": 12,
+    "timestamp": 1671203566,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a Yimby who left San Francisco after 5 years, I'd say we'd have more credibility if we first address the negative externalities of density. Even if that requires suboptimal policies without concurrently increasing housing abundance, we gotta make city living appealing if we wanna advocate for more."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Chiefly, we gotta get the crazies and antisocials off living on the streets."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 11194946,
+    "parent_children": 15,
+    "thread_id": 11193057,
+    "thread_children": 108,
+    "ratio_recv": -4,
+    "ratio_give": 9
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11199888,
+    "top_level": false,
+    "date": "Dec 16 2022 11:45",
+    "likes": 8,
+    "timestamp": 1671209105,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, I did use quite provocative language. And I agree with your concerns about solely warehousing people, particularly in jails."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a starting point, we homeless/housing advocates cannot conflate two different homeless populations: the simply downtrodden and mentally-ill/drug-addicts/antisocial-assholes. At times I\u2019ve criticized Yglesias for commingling the two. [1] While it may be true that the downtrodden are a far larger group, they are also far less visible."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "When we advocate for building homeless shelters and low-income housing, we should be clear that only the downtrodden will be occupying those structures. We will not be warehousing problematic people in one\u2019s neighborhood. Insead, these individuals will be institutionalized in specialized medical facilities. At worst, we\u2019ll create low-security prisons, far-removed from cities, if medical institutionalization is inappropriate for some."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But we need to explicitly recognize the negative externalities of these problematic homeless and use language that clearly separates them from the simply downtrodden. We also need to take actions to demonstrate our commitment to addressing these externalities, even if a few gadflys criticize that as cruel. Only then will people trust us to offer housing solutions for the downtrodden within their neighborhoods."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/legalize-housing-not-tent-encampments/comment/7165152"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 11197548,
+    "parent_children": 8,
+    "thread_id": 11193057,
+    "thread_children": 108,
+    "ratio_recv": -5,
+    "ratio_give": 5
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11207045,
+    "top_level": false,
+    "date": "Dec 16 2022 15:44",
+    "likes": 0,
+    "timestamp": 1671223478,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We can use conventional language. Just say we're building housing for working class families that are down on their luck. We refuse to allow drug addicts, the mentally ill, and petty criminals to disturb those families and our neighborhood at large. We can even just use \"homeless\" if that is the term most people associate with the visible miscreants."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, I don't care what specific terminology we use. Just use whatever words normies recognize as differentiating between problematic homeless vs. working poor. Make it clear that if we're asking to build a shelter or low-income housing in their neighborhood, then we promise to keep the crazies and drug addicts out. "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11204118,
+    "parent_children": 1,
+    "thread_id": 11193057,
+    "thread_children": 108,
+    "ratio_recv": null,
+    "ratio_give": -1
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11193094,
+    "top_level": true,
+    "date": "Dec 16 2022 07:01",
+    "likes": 21,
+    "timestamp": 1671192071,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "On the politics of Taibbi and Greenwald, I\u2019ve been reflecting on the pushback I received in defending their classification as right-wing. [1] Notably, the counterargument that they promote left-wing economic policy and therefore do not fit into a convention right/left divide. [2] "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m starting to see how others view Taibbi, Greenwald, and compatriots as something like anti-establishment leftists. They hold left-wing views but their allegiance is to a populist left that is distrustful of all authority. Further, they put populism first and are therefore particularly suspicious of institutions and authority based around technocratic expertises. That would include not only the CDC, FDA, and the Federal Reserve, but also reputable journalism with an institutional claim to authoritative reporting."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Therefore these populist leftists have identified Democrat-aligned institutions as their chief adversaries. Further, they find comfort among MAGA Republicans now that that party has abandoned any respect for institutions and expertise."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From my perspective, Taibbi and Greenwald are acting as if they were partisan Republicans by solely attacking Democrats and our aligned institutions. Yet I can see how others would find that a poor classification since these left populist would, in theory, eagerly attack a Romeny Republican party that wielded authoritative institutional power comparable to Democrats."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag/comment/11026292"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag/comment/11032556"
+        },
+        {
+          "type": "text",
+          "value": " , "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/artisanal-human-crafted-mailbag/comment/11026168"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11193094,
+    "thread_children": 23,
+    "ratio_recv": -3,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11196773,
+    "top_level": false,
+    "date": "Dec 16 2022 10:01",
+    "likes": 4,
+    "timestamp": 1671202912,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To be clear, I'm not trying to develop a factual understanding of how Taibbi and Greenwald think. I have far too little interest in reading their work for that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm Instead looking to understand the mental model of thoughtful SB members who pushed back against my model. In general, looking to challenge my own biased worldview, and I find this task productive towards that end."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11193873,
+    "parent_children": 17,
+    "thread_id": 11193094,
+    "thread_children": 23,
+    "ratio_recv": -3,
+    "ratio_give": -14
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11193322,
+    "top_level": true,
+    "date": "Dec 16 2022 07:19",
+    "likes": 8,
+    "timestamp": 1671193188,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But I think it says bad things about the profession that we are letting Columbia and Northwestern reap huge amounts of revenue for what amounts to an internship placement service."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Seems like an opportunity for disruption by offering a more economical pathway to journalist careers. And Vox did that! They identified a lot of excellent early talent and coached them into world-class journalists, while also giving them a notable platform for building a portfolio."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It sucked that more prestigious, richer outlets poached this talent, but maybe Vox could\u2019ve capitalized on that. Say a bootcamp model where junior reporters sign a contract that offers the firm 20% of future earnings above $70k for three years if they leave within five years. The bootcamp would market this as a paid internship where they identify and coach promising journalistic talent as well as give them a noteworthy platform."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d invest in a Slow Boring Journalism Bootcamp. Or at least read the intern articles and offer feedback. And there is already a track record of success with Milan\u2019s excellent articles."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11193322,
+    "thread_children": 5,
+    "ratio_recv": -5,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11195851,
+    "top_level": true,
+    "date": "Dec 16 2022 09:27",
+    "likes": 5,
+    "timestamp": 1671200852,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Bari Weiss, who reported The Twitter Files, shares Yglesias's China concerns,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Much more seriously, Musk has business interests in China. Could he wind up suppressing information negative to China to please the CCP? Old Twitter was moderated by the morals and mores of one group. Now it is moderated by the morals and mores of one man. "
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.thefp.com/p/why-we-went-to-twitter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "HT Josh Barro, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.joshbarro.com/p/the-fed-moves-closer-to-reality"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11195851,
+    "thread_children": 1,
+    "ratio_recv": -3,
+    "ratio_give": null
+  },
+  {
+    "post_id": 90613026,
+    "title": "Solstice is nearing mailbag",
+    "canonical_url": "https://www.slowboring.com/p/solstice-is-nearing-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11193627,
+    "top_level": true,
+    "date": "Dec 16 2022 07:39",
+    "likes": 5,
+    "timestamp": 1671194364,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Accepting oil payments in dozens of different currencies and then swapping them into the currencies they need would be annoying. \u2026 The positive impact on the United States of our currency being used this way is pretty minor, whereas the convenience for everyone involved of coordinating on a single widely available currency is large."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yep, and not only is the US dollar useful to minimize exchange challenges, it is also the premiere funding currency for investments and operations. For example, if you\u2019re shipping oil, then you also need to pay shipping costs, including insurance. If your trade and finance currencies are different, then you also need to hedge the risk of that currency pair moving against you, which adds cost"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, the US dollar has the largest and deepest funding markets. Depth in this context implies a diverse pool of counterparties willing to take the other side of any trade. That minimizes deadweight loss since there are more competitors that you can choose from, which improves pricing efficiency. If you\u2019re looking for investors to finance your oil production infrastructure, you\u2019ll get the lowest cost of capital by using dollar funding."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With dollar liabilities, you now want dollar revenue rather than hedging that foreign exchange. Further, if you have a trade surplus, the US financial market depth again benefits you in offering numerous investment opportunities. We could say that the US dollar has network effects that makes it exceptionally sticky for global trade and financing."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11193627,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null
   },
   {
     "post_id": 57982533,
@@ -13123,9 +13689,55 @@ window._comments = [
     "parent_id": 11167216,
     "parent_children": 3,
     "thread_id": 11166855,
-    "thread_children": 29,
+    "thread_children": 30,
     "ratio_recv": null,
     "ratio_give": -2
+  },
+  {
+    "post_id": 90417774,
+    "title": "Cryptocurrency is the Segway of finance",
+    "canonical_url": "https://www.slowboring.com/p/cryptocurrency-is-the-segway-of-finance",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11192335,
+    "top_level": false,
+    "date": "Dec 16 2022 05:31",
+    "likes": 0,
+    "timestamp": 1671186671,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As another KYC/AML advocate, I just want to chime in with supportive analogy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You need a driver's license, car registration, and insurance to drive. In a narrow framing, that is a restriction of privacy and freedom. Yet these restrictions are necessary because cars are dangerous. We want to ensure that cars are used responsibly so therefore the privilege of driving requires these restrictions, including documentation of ownership and active driver certification. One can always walk or take the bus if they find these restrictions overly invasive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, the modern finance system is incredibly powerful. Anyone can move arbitrarily large amounts of money with trivial effort, yet solid guarantees of security and fidelity. Even at a small scale, electronic funds transfers can greatly facilitate crimes. E.g., selling child pornography over the internet with electronic payments. Therefore we have instituted numerous regulations and restrictions around banking, including KYC/AML. One can always use cash if they find these restrictions overly invasive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regulations also include strong protections against misuse of KYC/AML information by either financial institutions or the government. That includes narrow access controls and permanent audit records of all access as well as criminal penalties for misuse. This is similar to how a police officer can be charged with a crime if they attempt to misuse DMV records. Our government is therefore guarding the privacy of individuals who comply with its regulations because that is recognized as important."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11173124,
+    "parent_children": 6,
+    "thread_id": 11172205,
+    "thread_children": 8,
+    "ratio_recv": 0,
+    "ratio_give": -8
   },
   {
     "post_id": 90417774,
