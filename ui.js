@@ -87,6 +87,10 @@ function loadComments() {
                     return a['ratio_recv'] > b['ratio_recv'] ? -1 : 1;
                 case 'ratio_give':
                     return a['ratio_give'] > b['ratio_give'] ? -1 : 1;
+                case 'fk_asc':
+                    return a['grade_level'] < b['grade_level'] ? -1 : 1;
+                case 'fk_desc':
+                    return a['grade_level'] > b['grade_level'] ? -1 : 1;
             }
         });
 
@@ -163,7 +167,7 @@ function loadComments() {
         }
 
         createText(comment['name'], 'name');
-        createText(`❤ ${comment['likes']} ${comment['date']}`, 'meta');
+        createText(`❤ ${comment['likes']}, ${comment['date']}, KF=${comment['grade_level']}`, 'meta');
         metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
         createCommentLink(comment.id,
             `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
