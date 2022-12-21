@@ -57,7 +57,9 @@ window._comments = [
     "thread_id": 7252326,
     "thread_children": 11,
     "ratio_recv": -32,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.1,
+    "word_count": 271
   },
   {
     "post_id": 59737189,
@@ -105,7 +107,9 @@ window._comments = [
     "thread_id": 7252840,
     "thread_children": 17,
     "ratio_recv": 0,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 10.1,
+    "word_count": 141
   },
   {
     "post_id": 59737189,
@@ -137,7 +141,9 @@ window._comments = [
     "thread_id": 7252070,
     "thread_children": 2,
     "ratio_recv": -6,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 10.7,
+    "word_count": 7
   },
   {
     "post_id": 59737189,
@@ -213,7 +219,9 @@ window._comments = [
     "thread_id": 7258322,
     "thread_children": 2,
     "ratio_recv": 0,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 11.2,
+    "word_count": 255
   },
   {
     "post_id": 59737189,
@@ -271,7 +279,9 @@ window._comments = [
     "thread_id": 7269685,
     "thread_children": 1,
     "ratio_recv": null,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 9.3,
+    "word_count": 37
   },
   {
     "post_id": 87749070,
@@ -303,7 +313,9 @@ window._comments = [
     "thread_id": 10863106,
     "thread_children": 97,
     "ratio_recv": null,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 18.1,
+    "word_count": 35
   },
   {
     "post_id": 87749070,
@@ -347,7 +359,9 @@ window._comments = [
     "thread_id": 10861640,
     "thread_children": 107,
     "ratio_recv": -9,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 9.9,
+    "word_count": 102
   },
   {
     "post_id": 87749070,
@@ -387,7 +401,9 @@ window._comments = [
     "thread_id": 10861640,
     "thread_children": 107,
     "ratio_recv": -10,
-    "ratio_give": 8
+    "ratio_give": 8,
+    "grade_level": 10.7,
+    "word_count": 170
   },
   {
     "post_id": 87749070,
@@ -421,7 +437,9 @@ window._comments = [
     "thread_id": 10861640,
     "thread_children": 107,
     "ratio_recv": -15,
-    "ratio_give": 16
+    "ratio_give": 16,
+    "grade_level": 11.7,
+    "word_count": 123
   },
   {
     "post_id": 87749070,
@@ -455,7 +473,9 @@ window._comments = [
     "thread_id": 10861640,
     "thread_children": 107,
     "ratio_recv": null,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 10.4,
+    "word_count": 92
   },
   {
     "post_id": 87749070,
@@ -499,7 +519,9 @@ window._comments = [
     "thread_id": 10861640,
     "thread_children": 107,
     "ratio_recv": -4,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 11.1,
+    "word_count": 100
   },
   {
     "post_id": 87749070,
@@ -545,7 +567,9 @@ window._comments = [
     "thread_id": 10861788,
     "thread_children": 3,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 141
   },
   {
     "post_id": 87749070,
@@ -591,7 +615,9 @@ window._comments = [
     "thread_id": 10861788,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 14.0,
+    "word_count": 387
   },
   {
     "post_id": 87749070,
@@ -637,7 +663,9 @@ window._comments = [
     "thread_id": 10862365,
     "thread_children": 4,
     "ratio_recv": 0,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 6.8,
+    "word_count": 193
   },
   {
     "post_id": 55799999,
@@ -699,7 +727,367 @@ window._comments = [
     "thread_id": 6736898,
     "thread_children": 21,
     "ratio_recv": -19,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.2,
+    "word_count": 325
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11259406,
+    "top_level": true,
+    "date": "Dec 19 2022 06:20",
+    "likes": 1,
+    "timestamp": 1671448848,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think our largest inflation concern currently is unsustainably high nominal wage growth that could keep driving inflation. The hope is that higher interest rates can cool the labor market without causing a substantial increase in unemployment. As Jason Furman explains, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The pace of nominal wage or compensation growth over the last six months is generally consistent with about a 4.5 percent inflation rate. \u2026 Moreover, the growth of labor costs has largely tracked price growth, so there is little reason to believe that business margin compression will meaningfully lower inflation without a slowdown in compensation growth or that real wages will easily return to their previous trajectory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Will the labor market continue to loosen on its own without much of an increase in unemployment? How quickly will wage growth slow? And, how much will slower wage growth translate into slower price growth? Given the magnitude of the issues, it is unlikely that we will see inflation much below 3.5 percent in 2023."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, Furman is a Harvard econ prof and a prominent Democratic econ advisor from the Obama administration. I think he's had the most clear and honest analysis of the economic factors of the pandemic and the recovery. While he initially believed inflation would be transitory and downplayed the risks, he has changed his mind as new data piled up demonstrating the risk of persistent inflation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.piie.com/blogs/realtime-economics/will-slower-wage-growth-dampen-inflation"
+        }
+      ]
+    ],
+    "total_children": 26,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": 6,
+    "ratio_give": null,
+    "grade_level": 10.2,
+    "word_count": 230
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11260687,
+    "top_level": false,
+    "date": "Dec 19 2022 08:02",
+    "likes": 1,
+    "timestamp": 1671454924,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, I agree, these policies would help."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m just adding context on the current major driver of inflation and why policy makers are committed to restrictive monetary policy even as some inflation components are normalizing. The labor market is not normalizing and that alone can keep inflation above trend."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some of these policies would certainly help normalize the labor market and in lieu of that the Fed will have to decrease labor demand through restrictive monetary policy. I.e., they may have to engineer a recession."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11260549,
+    "parent_children": 11,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 9.9,
+    "word_count": 85
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11259699,
+    "top_level": false,
+    "date": "Dec 19 2022 06:49",
+    "likes": 1,
+    "timestamp": 1671450564,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Matthew Klein, another early promoter of transient inflation and a monetary dove, has also recently turned less sanguine about a soft landing. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I want to believe that there is still a path to \u201cimmaculate disinflation\u201d, with job market churn fading in the context of rising employment and rising living standards for all. But it is getting harder to see how it happens. Tolerating persistent inflation of 4-5% may be a bitter pill for many policymakers, but may be better than many of the alternatives. At least right now most people still have jobs and real consumer spending is still rising on trend."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Since that is a paid-only post, I won\u2019t quote it at length. I\u2019ll simply note that Klein provides a rigorous overview of how nominal wage growth can drive inflation. Notably, this not only increases the cost of services\u2014which are a larger component of US consumer spending than goods\u2014but this also provides consumers with the means to continue bidding up the costs of scarce goods and services. This is not necessarily the doom loop of accelerating inflation in a wage-price spiral, but instead simply persistent inflation that becomes increasingly entrenched in the expectations of businesses and consumers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Klein also draws attention to a hawkish-language pivot from the Fed\u2019s chief dove, Vice Chair Lael Brainard. From her Nov 28th speech on monetary policy in the face of supply shocks, [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Even when each individual supply shock fades over time and behaves like a temporary shock on its own, a drawn-out sequence of adverse supply shocks that has the cumulative effect of constraining potential output for an extended period is likely to call for monetary policy tightening to restore balance between demand and supply."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In addition, a protracted series of supply shocks associated with an extended period of high inflation\u2014as with the pandemic and the war\u2014risks pushing the inflation expectations of households and businesses above levels consistent with the central bank's long-run inflation objective. It is vital for monetary policy to keep inflation expectations anchored, because inflation expectations shape the behavior of households, businesses, and workers and enter directly into the inflation process."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Even in the presence of pandemics and wars, central bankers have the responsibility to ensure that inflation expectations remain firmly anchored at levels consistent with our target."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With Brainard embracing hawkish policy in the face of a supply-constrained economy, which would include labor shortages, I\u2019m starting to share Klein\u2019s concern that we won\u2019t be able to get inflation under control without a bit of pain in the labor market. I.e., we need to decrease labor demand by contracting economic activity through restrictive monetary policy. A recession seems increasingly likely, and hopefully it will be short and shallow. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://theovershoot.co/p/immaculate-disinflation-hopes-dashed"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreserve.gov/newsevents/speech/brainard20221128a.htm"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11259406,
+    "parent_children": 26,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": 1,
+    "ratio_give": 0,
+    "grade_level": 13.7,
+    "word_count": 452
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11264866,
+    "top_level": false,
+    "date": "Dec 19 2022 11:14",
+    "likes": 0,
+    "timestamp": 1671466473,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I find this relevant context for understanding why, as the article says, \u201cit would be inappropriate for the Fed to declare victory on inflation\u201d, and why the Fed is not indicating that, \u201c it is time to start taking a more measured approach and see how the data evolves.\u201d It is important to know that even the inflation doves\u2014including doves that set monetary policy\u2014believe we need a softening in the labor market to get inflation under control and thereby project restrictive monetary policy throughout 2023."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 11260444,
+    "parent_children": 5,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 19.7,
+    "word_count": 84
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11271172,
+    "top_level": false,
+    "date": "Dec 19 2022 15:42",
+    "likes": 0,
+    "timestamp": 1671482537,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Economists and policy makers are heavily focused on wages because labor is the primary cost in providing services, and the current pace of nominal wage growth is consistent with around 4-6% core inflation. I.e., we cannot get core inflation back on trend until the labor market normalizes. The Fed doesn\u2019t have any mechanism to increase labor supply so they can only correct the labor market imbalance with sufficiently restrictive monetary policy to decrease labor demand. "
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 11268679,
+    "parent_children": 3,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 14.2,
+    "word_count": 75
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11281564,
+    "top_level": false,
+    "date": "Dec 20 2022 05:56",
+    "likes": 0,
+    "timestamp": 1671533811,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> All markets have to \"normalize\" not just the labor market. So I remain a little puzzled by singling _that_ market ou"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, everyone is monitoring the labor market because it\u2019s the largest market that is currently out of balance. Core inflation will run at 4-6% at these rates of nominal wage growth due to the flow through of labor costs into services as well as the continued increase in nominal purchasing power."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And yes, part of that is, as you point, the Fed signaling their commitment to taming inflation even at the cost of higher unemployment. Nonetheless, everyone knows we can\u2019t get back on trend inflation until the labor market normalizes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But _my_ reason to worry about excess tightening by the Fed is based on TIPS and seeing inflation falling. Nothing to do with the labor market."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Traders in the TIPS market are pricing in Fed policy; they expect the Fed to \u201ckeep at\u201d regardless of deterioration in the labor market or financial stress."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11273466,
+    "parent_children": 1,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.1,
+    "word_count": 164
+  },
+  {
+    "post_id": 90873639,
+    "title": "The Fed can't save the economy ",
+    "canonical_url": "https://www.slowboring.com/p/the-fed-cant-save-the-economy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11260528,
+    "top_level": false,
+    "date": "Dec 19 2022 07:52",
+    "likes": 7,
+    "timestamp": 1671454340,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I agree, but inflation is causing workers\u2019 real wages (i.e., inflation adjusted) to fall. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">  Real average hourly earnings decreased in October and were down 2.8% from a year earlier. After adjusting for inflation, annual wages have fallen each month since April 2021."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Sustainable real spending power increases require some combination of income redistribution through taxes as well as increases in productivity. Inflation is not helpful towards this objective."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-11-10/us-core-cpi-slows-more-than-forecast-gives-fed-downshift-room"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11260357,
+    "parent_children": 4,
+    "thread_id": 11259406,
+    "thread_children": 26,
+    "ratio_recv": null,
+    "ratio_give": 7,
+    "grade_level": 9.6,
+    "word_count": 71
   },
   {
     "post_id": 79072865,
@@ -789,7 +1177,9 @@ window._comments = [
     "thread_id": 9860195,
     "thread_children": 26,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 202
   },
   {
     "post_id": 67642825,
@@ -829,7 +1219,9 @@ window._comments = [
     "thread_id": 8313885,
     "thread_children": 38,
     "ratio_recv": -36,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 219
   },
   {
     "post_id": 67642825,
@@ -857,7 +1249,9 @@ window._comments = [
     "thread_id": 8313885,
     "thread_children": 38,
     "ratio_recv": -4,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 4.5,
+    "word_count": 6
   },
   {
     "post_id": 51403483,
@@ -897,7 +1291,9 @@ window._comments = [
     "thread_id": 5893555,
     "thread_children": 4,
     "ratio_recv": -12,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 196
   },
   {
     "post_id": 89799685,
@@ -953,7 +1349,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": -11,
-    "ratio_give": -10
+    "ratio_give": -10,
+    "grade_level": 10.8,
+    "word_count": 194
   },
   {
     "post_id": 89799685,
@@ -993,7 +1391,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": -4,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 11.0,
+    "word_count": 185
   },
   {
     "post_id": 89799685,
@@ -1021,7 +1421,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": -3,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 11.3,
+    "word_count": 35
   },
   {
     "post_id": 89799685,
@@ -1049,7 +1451,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": -4,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 15.4,
+    "word_count": 25
   },
   {
     "post_id": 89799685,
@@ -1115,7 +1519,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": 0,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.4,
+    "word_count": 219
   },
   {
     "post_id": 89799685,
@@ -1183,7 +1589,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": 0,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.2,
+    "word_count": 227
   },
   {
     "post_id": 89799685,
@@ -1223,7 +1631,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": -9,
-    "ratio_give": -14
+    "ratio_give": -14,
+    "grade_level": 8.8,
+    "word_count": 140
   },
   {
     "post_id": 89799685,
@@ -1275,7 +1685,9 @@ window._comments = [
     "thread_id": 11141666,
     "thread_children": 59,
     "ratio_recv": 1,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 8.0,
+    "word_count": 274
   },
   {
     "post_id": 89799685,
@@ -1343,7 +1755,9 @@ window._comments = [
     "thread_id": 11141199,
     "thread_children": 13,
     "ratio_recv": 8,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 261
   },
   {
     "post_id": 89799685,
@@ -1388,7 +1802,9 @@ window._comments = [
     "thread_id": 11141199,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 8.8,
+    "word_count": 137
   },
   {
     "post_id": 89799685,
@@ -1434,7 +1850,9 @@ window._comments = [
     "thread_id": 11141403,
     "thread_children": 4,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 164
   },
   {
     "post_id": 57532707,
@@ -1484,7 +1902,9 @@ window._comments = [
     "thread_id": 6967826,
     "thread_children": 9,
     "ratio_recv": -8,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 6.4,
+    "word_count": 238
   },
   {
     "post_id": 57532707,
@@ -1558,7 +1978,9 @@ window._comments = [
     "thread_id": 6967940,
     "thread_children": 1,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 179
   },
   {
     "post_id": 57532707,
@@ -1592,7 +2014,9 @@ window._comments = [
     "thread_id": 6968016,
     "thread_children": 5,
     "ratio_recv": -4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.1,
+    "word_count": 108
   },
   {
     "post_id": 57532707,
@@ -1648,7 +2072,9 @@ window._comments = [
     "thread_id": 6968089,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.0,
+    "word_count": 220
   },
   {
     "post_id": 58867637,
@@ -1682,7 +2108,9 @@ window._comments = [
     "thread_id": 7165152,
     "thread_children": 75,
     "ratio_recv": 45,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.8,
+    "word_count": 197
   },
   {
     "post_id": 58867637,
@@ -1716,7 +2144,9 @@ window._comments = [
     "thread_id": 7164978,
     "thread_children": 2,
     "ratio_recv": 4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 186
   },
   {
     "post_id": 60539716,
@@ -1762,7 +2192,9 @@ window._comments = [
     "thread_id": 7323493,
     "thread_children": 26,
     "ratio_recv": 0,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 9.9,
+    "word_count": 206
   },
   {
     "post_id": 70608891,
@@ -1836,7 +2268,9 @@ window._comments = [
     "thread_id": 8743547,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 15.1,
+    "word_count": 267
   },
   {
     "post_id": 46030715,
@@ -1876,7 +2310,9 @@ window._comments = [
     "thread_id": 4269797,
     "thread_children": 3,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.0,
+    "word_count": 236
   },
   {
     "post_id": 46030715,
@@ -1920,7 +2356,9 @@ window._comments = [
     "thread_id": 4269797,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 11.6,
+    "word_count": 171
   },
   {
     "post_id": 48797501,
@@ -1954,7 +2392,9 @@ window._comments = [
     "thread_id": 5131129,
     "thread_children": 61,
     "ratio_recv": -6,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 9.2,
+    "word_count": 254
   },
   {
     "post_id": 48797501,
@@ -1988,7 +2428,9 @@ window._comments = [
     "thread_id": 5131212,
     "thread_children": 12,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 10.1,
+    "word_count": 139
   },
   {
     "post_id": 56724202,
@@ -2062,7 +2504,9 @@ window._comments = [
     "thread_id": 6862403,
     "thread_children": 4,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 7.1,
+    "word_count": 167
   },
   {
     "post_id": 56724202,
@@ -2090,7 +2534,9 @@ window._comments = [
     "thread_id": 6862192,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 8.5,
+    "word_count": 78
   },
   {
     "post_id": 56724202,
@@ -2118,7 +2564,9 @@ window._comments = [
     "thread_id": 6862122,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 12.3,
+    "word_count": 14
   },
   {
     "post_id": 71786926,
@@ -2158,7 +2606,9 @@ window._comments = [
     "thread_id": 8895077,
     "thread_children": 1,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 233
   },
   {
     "post_id": 71786926,
@@ -2198,7 +2648,9 @@ window._comments = [
     "thread_id": 8894881,
     "thread_children": 8,
     "ratio_recv": -1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 196
   },
   {
     "post_id": 67219249,
@@ -2244,7 +2696,9 @@ window._comments = [
     "thread_id": 8264048,
     "thread_children": 2,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.6,
+    "word_count": 191
   },
   {
     "post_id": 81372927,
@@ -2290,7 +2744,9 @@ window._comments = [
     "thread_id": 10164981,
     "thread_children": 137,
     "ratio_recv": -1,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 8.9,
+    "word_count": 174
   },
   {
     "post_id": 81372927,
@@ -2318,7 +2774,9 @@ window._comments = [
     "thread_id": 10164981,
     "thread_children": 137,
     "ratio_recv": -3,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 5.9,
+    "word_count": 48
   },
   {
     "post_id": 81372927,
@@ -2380,7 +2838,9 @@ window._comments = [
     "thread_id": 10164753,
     "thread_children": 5,
     "ratio_recv": -19,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 150
   },
   {
     "post_id": 90018342,
@@ -2450,7 +2910,9 @@ window._comments = [
     "thread_id": 11156783,
     "thread_children": 20,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 254
   },
   {
     "post_id": 90018342,
@@ -2478,7 +2940,9 @@ window._comments = [
     "thread_id": 11156783,
     "thread_children": 20,
     "ratio_recv": -6,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 6.6,
+    "word_count": 58
   },
   {
     "post_id": 90018342,
@@ -2518,7 +2982,9 @@ window._comments = [
     "thread_id": 11156783,
     "thread_children": 20,
     "ratio_recv": 0,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 11.5,
+    "word_count": 145
   },
   {
     "post_id": 90018342,
@@ -2574,7 +3040,9 @@ window._comments = [
     "thread_id": 11158781,
     "thread_children": 4,
     "ratio_recv": 3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.0,
+    "word_count": 182
   },
   {
     "post_id": 55302326,
@@ -2612,7 +3080,9 @@ window._comments = [
     "thread_id": 6748702,
     "thread_children": 3,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 104
   },
   {
     "post_id": 59628308,
@@ -2640,7 +3110,9 @@ window._comments = [
     "thread_id": 7191140,
     "thread_children": 26,
     "ratio_recv": -7,
-    "ratio_give": 7
+    "ratio_give": 7,
+    "grade_level": 15.1,
+    "word_count": 64
   },
   {
     "post_id": 88072201,
@@ -2686,7 +3158,9 @@ window._comments = [
     "thread_id": 11017945,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": -6
+    "ratio_give": -6,
+    "grade_level": 8.4,
+    "word_count": 52
   },
   {
     "post_id": 52577286,
@@ -2746,7 +3220,9 @@ window._comments = [
     "thread_id": 6228662,
     "thread_children": 43,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 224
   },
   {
     "post_id": 86845811,
@@ -2780,7 +3256,9 @@ window._comments = [
     "thread_id": 10802758,
     "thread_children": 4,
     "ratio_recv": null,
-    "ratio_give": -16
+    "ratio_give": -16,
+    "grade_level": 8.1,
+    "word_count": 61
   },
   {
     "post_id": 86845811,
@@ -2848,7 +3326,9 @@ window._comments = [
     "thread_id": 10802478,
     "thread_children": 34,
     "ratio_recv": 3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.2,
+    "word_count": 194
   },
   {
     "post_id": 70864744,
@@ -2893,7 +3373,9 @@ window._comments = [
     "thread_id": 8768623,
     "thread_children": 28,
     "ratio_recv": -11,
-    "ratio_give": 9
+    "ratio_give": 9,
+    "grade_level": 13.4,
+    "word_count": 87
   },
   {
     "post_id": 70864744,
@@ -2949,7 +3431,9 @@ window._comments = [
     "thread_id": 8768716,
     "thread_children": 7,
     "ratio_recv": 2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 216
   },
   {
     "post_id": 67128817,
@@ -2989,7 +3473,9 @@ window._comments = [
     "thread_id": 8241339,
     "thread_children": 10,
     "ratio_recv": -24,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.1,
+    "word_count": 130
   },
   {
     "post_id": 82320227,
@@ -3039,7 +3525,9 @@ window._comments = [
     "thread_id": 10287836,
     "thread_children": 64,
     "ratio_recv": 2,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 9.1,
+    "word_count": 287
   },
   {
     "post_id": 82320227,
@@ -3095,7 +3583,9 @@ window._comments = [
     "thread_id": 10287744,
     "thread_children": 14,
     "ratio_recv": -1,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 12.9,
+    "word_count": 494
   },
   {
     "post_id": 73006846,
@@ -3135,7 +3625,9 @@ window._comments = [
     "thread_id": 9072233,
     "thread_children": 118,
     "ratio_recv": 0,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 8.4,
+    "word_count": 173
   },
   {
     "post_id": 73006846,
@@ -3175,7 +3667,9 @@ window._comments = [
     "thread_id": 9072391,
     "thread_children": 36,
     "ratio_recv": -2,
-    "ratio_give": -19
+    "ratio_give": -19,
+    "grade_level": 9.6,
+    "word_count": 191
   },
   {
     "post_id": 73006846,
@@ -3203,7 +3697,9 @@ window._comments = [
     "thread_id": 9072391,
     "thread_children": 36,
     "ratio_recv": -3,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 10.3,
+    "word_count": 54
   },
   {
     "post_id": 73006846,
@@ -3249,7 +3745,9 @@ window._comments = [
     "thread_id": 9072431,
     "thread_children": 2,
     "ratio_recv": -15,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 286
   },
   {
     "post_id": 73006846,
@@ -3301,7 +3799,9 @@ window._comments = [
     "thread_id": 9072562,
     "thread_children": 2,
     "ratio_recv": -9,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.7,
+    "word_count": 197
   },
   {
     "post_id": 70469724,
@@ -3339,7 +3839,9 @@ window._comments = [
     "thread_id": 8720564,
     "thread_children": 14,
     "ratio_recv": -3,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 8.6,
+    "word_count": 50
   },
   {
     "post_id": 70330779,
@@ -3373,7 +3875,9 @@ window._comments = [
     "thread_id": 8699487,
     "thread_children": 18,
     "ratio_recv": -7,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 12.0,
+    "word_count": 77
   },
   {
     "post_id": 70330779,
@@ -3420,7 +3924,9 @@ window._comments = [
     "thread_id": 8699550,
     "thread_children": 19,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 180
   },
   {
     "post_id": 70330779,
@@ -3466,7 +3972,9 @@ window._comments = [
     "thread_id": 8699462,
     "thread_children": 16,
     "ratio_recv": 3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 187
   },
   {
     "post_id": 70330779,
@@ -3494,7 +4002,9 @@ window._comments = [
     "thread_id": 8699462,
     "thread_children": 16,
     "ratio_recv": 10,
-    "ratio_give": -17
+    "ratio_give": -17,
+    "grade_level": 9.6,
+    "word_count": 76
   },
   {
     "post_id": 70330779,
@@ -3528,7 +4038,9 @@ window._comments = [
     "thread_id": 8699462,
     "thread_children": 16,
     "ratio_recv": 0,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 7.4,
+    "word_count": 83
   },
   {
     "post_id": 70330779,
@@ -3556,7 +4068,9 @@ window._comments = [
     "thread_id": 8699198,
     "thread_children": 16,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 10.8,
+    "word_count": 58
   },
   {
     "post_id": 72553392,
@@ -3617,7 +4131,9 @@ window._comments = [
     "thread_id": 9135013,
     "thread_children": 12,
     "ratio_recv": null,
-    "ratio_give": -6
+    "ratio_give": -6,
+    "grade_level": 13.8,
+    "word_count": 229
   },
   {
     "post_id": 47491031,
@@ -3657,7 +4173,9 @@ window._comments = [
     "thread_id": 4675823,
     "thread_children": 9,
     "ratio_recv": 7,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 241
   },
   {
     "post_id": 82923971,
@@ -3691,7 +4209,9 @@ window._comments = [
     "thread_id": 10330309,
     "thread_children": 15,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 5.7,
+    "word_count": 61
   },
   {
     "post_id": 61556524,
@@ -3764,7 +4284,9 @@ window._comments = [
     "thread_id": 7450238,
     "thread_children": 7,
     "ratio_recv": -11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.7,
+    "word_count": 179
   },
   {
     "post_id": 42751863,
@@ -3804,7 +4326,9 @@ window._comments = [
     "thread_id": 3301076,
     "thread_children": 17,
     "ratio_recv": -6,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 10.3,
+    "word_count": 188
   },
   {
     "post_id": 69515164,
@@ -3914,7 +4438,9 @@ window._comments = [
     "thread_id": 8567846,
     "thread_children": 16,
     "ratio_recv": -10,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 427
   },
   {
     "post_id": 69515164,
@@ -3954,7 +4480,9 @@ window._comments = [
     "thread_id": 8567791,
     "thread_children": 68,
     "ratio_recv": -5,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 12.8,
+    "word_count": 122
   },
   {
     "post_id": 69515164,
@@ -3994,7 +4522,9 @@ window._comments = [
     "thread_id": 8567791,
     "thread_children": 68,
     "ratio_recv": -2,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 12.5,
+    "word_count": 185
   },
   {
     "post_id": 69515164,
@@ -4022,7 +4552,9 @@ window._comments = [
     "thread_id": 8567733,
     "thread_children": 9,
     "ratio_recv": -2,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 13.8,
+    "word_count": 72
   },
   {
     "post_id": 79379632,
@@ -4084,7 +4616,9 @@ window._comments = [
     "thread_id": 9886124,
     "thread_children": 6,
     "ratio_recv": 0,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.1,
+    "word_count": 169
   },
   {
     "post_id": 62988475,
@@ -4122,7 +4656,9 @@ window._comments = [
     "thread_id": 7686793,
     "thread_children": 163,
     "ratio_recv": -1,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 8.1,
+    "word_count": 43
   },
   {
     "post_id": 52832260,
@@ -4156,7 +4692,9 @@ window._comments = [
     "thread_id": 6266728,
     "thread_children": 35,
     "ratio_recv": -30,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.2,
+    "word_count": 142
   },
   {
     "post_id": 52832260,
@@ -4230,7 +4768,9 @@ window._comments = [
     "thread_id": 6267041,
     "thread_children": 5,
     "ratio_recv": -11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 386
   },
   {
     "post_id": 52832260,
@@ -4270,7 +4810,9 @@ window._comments = [
     "thread_id": 6267178,
     "thread_children": 8,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 9.5,
+    "word_count": 152
   },
   {
     "post_id": 52832260,
@@ -4298,7 +4840,105 @@ window._comments = [
     "thread_id": 6266345,
     "thread_children": 48,
     "ratio_recv": -4,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 9.5,
+    "word_count": 66
+  },
+  {
+    "post_id": 90872624,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-bb6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11273634,
+    "top_level": true,
+    "date": "Dec 19 2022 17:28",
+    "likes": 22,
+    "timestamp": 1671488916,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Why do Democratic politicians feel that they have to promise not to raise taxes on anyone earning less than $400k? Are their feelings justified?"
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11273634,
+    "thread_children": 9,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 5.6,
+    "word_count": 24
+  },
+  {
+    "post_id": 90872624,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-bb6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11273151,
+    "top_level": true,
+    "date": "Dec 19 2022 17:05",
+    "likes": 5,
+    "timestamp": 1671487548,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Your recent takedown of mobilization theory contrasts it against persuasion. [1] I.e., convince cross-pressured voters, including some Republicans, to vote Democrat. Whereas in your previous work, the alternative to mobilization could better be described as bargaining with these voters. [2] I.e., craft a policy package that appeals to enough cross-pressured voters to win, even if that entails compromising on some positions. For example, dropping opposition to our domestic fossil fuel industry. [3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While both persuasion and bargaining are important, which in general do you think Democrats need more improvement on to expand electoral victories? In other words, do we have a sufficiently popular policy platform that just needs better messaging or does the platform itself need non-trivial revisions?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-midterms-should-be-a-stake-through"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/progressives-mobilization-delusion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-case-against-restricting-domestic"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11273151,
+    "thread_children": 3,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 121
   },
   {
     "post_id": 46339666,
@@ -4344,7 +4984,9 @@ window._comments = [
     "thread_id": 4289519,
     "thread_children": 70,
     "ratio_recv": -13,
-    "ratio_give": -40
+    "ratio_give": -40,
+    "grade_level": 12.6,
+    "word_count": 341
   },
   {
     "post_id": 89412470,
@@ -4402,7 +5044,9 @@ window._comments = [
     "thread_id": 11091202,
     "thread_children": 14,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 375
   },
   {
     "post_id": 89412470,
@@ -4478,7 +5122,9 @@ window._comments = [
     "thread_id": 11091202,
     "thread_children": 14,
     "ratio_recv": -6,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 9.2,
+    "word_count": 347
   },
   {
     "post_id": 89412470,
@@ -4506,7 +5152,9 @@ window._comments = [
     "thread_id": 11091202,
     "thread_children": 14,
     "ratio_recv": 6,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 10.0,
+    "word_count": 52
   },
   {
     "post_id": 89412470,
@@ -4546,7 +5194,9 @@ window._comments = [
     "thread_id": 11091202,
     "thread_children": 14,
     "ratio_recv": 0,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 6.9,
+    "word_count": 98
   },
   {
     "post_id": 89412470,
@@ -4598,7 +5248,9 @@ window._comments = [
     "thread_id": 11091510,
     "thread_children": 2,
     "ratio_recv": 4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 256
   },
   {
     "post_id": 89412470,
@@ -4638,7 +5290,9 @@ window._comments = [
     "thread_id": 11091510,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": -7
+    "ratio_give": -7,
+    "grade_level": 10.1,
+    "word_count": 139
   },
   {
     "post_id": 62667855,
@@ -4682,7 +5336,9 @@ window._comments = [
     "thread_id": 7976713,
     "thread_children": 19,
     "ratio_recv": -2,
-    "ratio_give": -7
+    "ratio_give": -7,
+    "grade_level": 13.2,
+    "word_count": 135
   },
   {
     "post_id": 70000534,
@@ -4716,7 +5372,9 @@ window._comments = [
     "thread_id": 8642362,
     "thread_children": 12,
     "ratio_recv": -4,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 11.8,
+    "word_count": 94
   },
   {
     "post_id": 70000534,
@@ -4756,7 +5414,9 @@ window._comments = [
     "thread_id": 8641603,
     "thread_children": 68,
     "ratio_recv": 0,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 12.3,
+    "word_count": 80
   },
   {
     "post_id": 70000534,
@@ -4806,7 +5466,9 @@ window._comments = [
     "thread_id": 8643447,
     "thread_children": 22,
     "ratio_recv": -1,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.5,
+    "word_count": 79
   },
   {
     "post_id": 58601559,
@@ -4840,7 +5502,9 @@ window._comments = [
     "thread_id": 7099978,
     "thread_children": 29,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 221
   },
   {
     "post_id": 58601559,
@@ -4896,7 +5560,9 @@ window._comments = [
     "thread_id": 7099782,
     "thread_children": 2,
     "ratio_recv": -4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 332
   },
   {
     "post_id": 58601559,
@@ -4930,7 +5596,9 @@ window._comments = [
     "thread_id": 7099718,
     "thread_children": 68,
     "ratio_recv": -8,
-    "ratio_give": 11
+    "ratio_give": 11,
+    "grade_level": 7.5,
+    "word_count": 138
   },
   {
     "post_id": 58601559,
@@ -4986,7 +5654,9 @@ window._comments = [
     "thread_id": 7099992,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 12.7,
+    "word_count": 120
   },
   {
     "post_id": 81247288,
@@ -5060,7 +5730,9 @@ window._comments = [
     "thread_id": 10183203,
     "thread_children": 3,
     "ratio_recv": -4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 220
   },
   {
     "post_id": 81292136,
@@ -5130,7 +5802,9 @@ window._comments = [
     "thread_id": 10138366,
     "thread_children": 35,
     "ratio_recv": -77,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 433
   },
   {
     "post_id": 81292136,
@@ -5176,7 +5850,9 @@ window._comments = [
     "thread_id": 10138366,
     "thread_children": 35,
     "ratio_recv": null,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 10.2,
+    "word_count": 270
   },
   {
     "post_id": 81292136,
@@ -5250,7 +5926,9 @@ window._comments = [
     "thread_id": 10137853,
     "thread_children": 7,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.3,
+    "word_count": 388
   },
   {
     "post_id": 81292136,
@@ -5278,7 +5956,9 @@ window._comments = [
     "thread_id": 10137853,
     "thread_children": 7,
     "ratio_recv": null,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 13.4,
+    "word_count": 46
   },
   {
     "post_id": 81292136,
@@ -5322,7 +6002,9 @@ window._comments = [
     "thread_id": 10138003,
     "thread_children": 3,
     "ratio_recv": -9,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.2,
+    "word_count": 128
   },
   {
     "post_id": 81292136,
@@ -5350,7 +6032,9 @@ window._comments = [
     "thread_id": 10138944,
     "thread_children": 28,
     "ratio_recv": 1,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 5.9,
+    "word_count": 51
   },
   {
     "post_id": 81292136,
@@ -5390,7 +6074,9 @@ window._comments = [
     "thread_id": 10138881,
     "thread_children": 6,
     "ratio_recv": -4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 7.7,
+    "word_count": 129
   },
   {
     "post_id": 81292136,
@@ -5436,7 +6122,9 @@ window._comments = [
     "thread_id": 10138753,
     "thread_children": 4,
     "ratio_recv": -1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.2,
+    "word_count": 291
   },
   {
     "post_id": 69004628,
@@ -5476,7 +6164,9 @@ window._comments = [
     "thread_id": 8489664,
     "thread_children": 56,
     "ratio_recv": -11,
-    "ratio_give": -46
+    "ratio_give": -46,
+    "grade_level": 13.0,
+    "word_count": 199
   },
   {
     "post_id": 69004628,
@@ -5522,7 +6212,9 @@ window._comments = [
     "thread_id": 8490827,
     "thread_children": 7,
     "ratio_recv": -3,
-    "ratio_give": -13
+    "ratio_give": -13,
+    "grade_level": 11.3,
+    "word_count": 307
   },
   {
     "post_id": 69004628,
@@ -5556,7 +6248,9 @@ window._comments = [
     "thread_id": 8490928,
     "thread_children": 6,
     "ratio_recv": -2,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 7.0,
+    "word_count": 86
   },
   {
     "post_id": 60336780,
@@ -5634,7 +6328,9 @@ window._comments = [
     "thread_id": 7303402,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 463
   },
   {
     "post_id": 60336780,
@@ -5666,7 +6362,9 @@ window._comments = [
     "thread_id": 7303104,
     "thread_children": 6,
     "ratio_recv": 1,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 2.9,
+    "word_count": 5
   },
   {
     "post_id": 87551177,
@@ -5730,7 +6428,9 @@ window._comments = [
     "thread_id": 10837150,
     "thread_children": 6,
     "ratio_recv": -37,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.0,
+    "word_count": 158
   },
   {
     "post_id": 87551177,
@@ -5782,7 +6482,9 @@ window._comments = [
     "thread_id": 10836948,
     "thread_children": 11,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 284
   },
   {
     "post_id": 87551177,
@@ -5838,7 +6540,9 @@ window._comments = [
     "thread_id": 10836834,
     "thread_children": 8,
     "ratio_recv": -2,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 9.3,
+    "word_count": 204
   },
   {
     "post_id": 87551177,
@@ -5866,7 +6570,9 @@ window._comments = [
     "thread_id": 10836773,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": 11
+    "ratio_give": 11,
+    "grade_level": 6.2,
+    "word_count": 21
   },
   {
     "post_id": 88859649,
@@ -5934,7 +6640,9 @@ window._comments = [
     "thread_id": 11001701,
     "thread_children": 1,
     "ratio_recv": -46,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.1,
+    "word_count": 138
   },
   {
     "post_id": 88859649,
@@ -5962,7 +6670,9 @@ window._comments = [
     "thread_id": 11002215,
     "thread_children": 36,
     "ratio_recv": -3,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 7.6,
+    "word_count": 11
   },
   {
     "post_id": 53154031,
@@ -6036,7 +6746,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": -23,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.1,
+    "word_count": 142
   },
   {
     "post_id": 53154031,
@@ -6064,7 +6776,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": -12,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 3.7,
+    "word_count": 14
   },
   {
     "post_id": 53154031,
@@ -6092,7 +6806,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": -1,
-    "ratio_give": -14
+    "ratio_give": -14,
+    "grade_level": 5.6,
+    "word_count": 12
   },
   {
     "post_id": 53154031,
@@ -6120,7 +6836,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": -2,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 3.3,
+    "word_count": 9
   },
   {
     "post_id": 53154031,
@@ -6198,7 +6916,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": -5,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 7.5,
+    "word_count": 125
   },
   {
     "post_id": 53154031,
@@ -6226,7 +6946,9 @@ window._comments = [
     "thread_id": 6399846,
     "thread_children": 49,
     "ratio_recv": 5,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 7.6,
+    "word_count": 42
   },
   {
     "post_id": 90613026,
@@ -6238,7 +6960,7 @@ window._comments = [
     "id": 11207788,
     "top_level": false,
     "date": "Dec 16 2022 16:14",
-    "likes": 2,
+    "likes": 4,
     "timestamp": 1671225291,
     "body": [
       [
@@ -6278,9 +7000,11 @@ window._comments = [
     "parent_id": 11201562,
     "parent_children": 2,
     "thread_id": 11192944,
-    "thread_children": 19,
-    "ratio_recv": -2,
-    "ratio_give": -11
+    "thread_children": 20,
+    "ratio_recv": -4,
+    "ratio_give": -13,
+    "grade_level": 9.1,
+    "word_count": 63
   },
   {
     "post_id": 90613026,
@@ -6292,7 +7016,7 @@ window._comments = [
     "id": 11197039,
     "top_level": false,
     "date": "Dec 16 2022 10:12",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1671203566,
     "body": [
       [
@@ -6312,9 +7036,11 @@ window._comments = [
     "parent_id": 11194946,
     "parent_children": 15,
     "thread_id": 11193057,
-    "thread_children": 115,
-    "ratio_recv": -4,
-    "ratio_give": 10
+    "thread_children": 129,
+    "ratio_recv": -5,
+    "ratio_give": 11,
+    "grade_level": 12.4,
+    "word_count": 61
   },
   {
     "post_id": 90613026,
@@ -6326,7 +7052,7 @@ window._comments = [
     "id": 11199888,
     "top_level": false,
     "date": "Dec 16 2022 11:45",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1671209105,
     "body": [
       [
@@ -6368,9 +7094,11 @@ window._comments = [
     "parent_id": 11197548,
     "parent_children": 8,
     "thread_id": 11193057,
-    "thread_children": 115,
-    "ratio_recv": -5,
-    "ratio_give": 5
+    "thread_children": 129,
+    "ratio_recv": -3,
+    "ratio_give": 6,
+    "grade_level": 11.8,
+    "word_count": 190
   },
   {
     "post_id": 90613026,
@@ -6382,7 +7110,7 @@ window._comments = [
     "id": 11207045,
     "top_level": false,
     "date": "Dec 16 2022 15:44",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1671223478,
     "body": [
       [
@@ -6402,9 +7130,11 @@ window._comments = [
     "parent_id": 11204118,
     "parent_children": 1,
     "thread_id": 11193057,
-    "thread_children": 115,
+    "thread_children": 129,
     "ratio_recv": null,
-    "ratio_give": -1
+    "ratio_give": 0,
+    "grade_level": 9.4,
+    "word_count": 110
   },
   {
     "post_id": 90613026,
@@ -6476,13 +7206,15 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 23,
+    "total_children": 24,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11193094,
-    "thread_children": 23,
-    "ratio_recv": -3,
-    "ratio_give": null
+    "thread_children": 24,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 205
   },
   {
     "post_id": 90613026,
@@ -6512,11 +7244,13 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 11193873,
-    "parent_children": 17,
+    "parent_children": 18,
     "thread_id": 11193094,
-    "thread_children": 23,
+    "thread_children": 24,
     "ratio_recv": -3,
-    "ratio_give": -14
+    "ratio_give": -16,
+    "grade_level": 8.5,
+    "word_count": 65
   },
   {
     "post_id": 90613026,
@@ -6528,7 +7262,7 @@ window._comments = [
     "id": 11193322,
     "top_level": true,
     "date": "Dec 16 2022 07:19",
-    "likes": 8,
+    "likes": 10,
     "timestamp": 1671193188,
     "body": [
       [
@@ -6561,8 +7295,10 @@ window._comments = [
     "parent_children": null,
     "thread_id": 11193322,
     "thread_children": 5,
-    "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 9.0,
+    "word_count": 176
   },
   {
     "post_id": 90613026,
@@ -6612,7 +7348,9 @@ window._comments = [
     "thread_id": 11195851,
     "thread_children": 1,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 6.8,
+    "word_count": 60
   },
   {
     "post_id": 90613026,
@@ -6658,7 +7396,9 @@ window._comments = [
     "thread_id": 11193627,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 243
   },
   {
     "post_id": 57982533,
@@ -6728,7 +7468,9 @@ window._comments = [
     "thread_id": 7404712,
     "thread_children": 32,
     "ratio_recv": 2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.5,
+    "word_count": 213
   },
   {
     "post_id": 57982533,
@@ -6768,7 +7510,9 @@ window._comments = [
     "thread_id": 7404712,
     "thread_children": 32,
     "ratio_recv": 4,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 10.2,
+    "word_count": 147
   },
   {
     "post_id": 57982533,
@@ -6924,7 +7668,9 @@ window._comments = [
     "thread_id": 7404712,
     "thread_children": 32,
     "ratio_recv": -2,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 8.2,
+    "word_count": 218
   },
   {
     "post_id": 57982533,
@@ -6962,7 +7708,9 @@ window._comments = [
     "thread_id": 7404746,
     "thread_children": 7,
     "ratio_recv": -11,
-    "ratio_give": 11
+    "ratio_give": 11,
+    "grade_level": 13.8,
+    "word_count": 104
   },
   {
     "post_id": 45073472,
@@ -7032,7 +7780,9 @@ window._comments = [
     "thread_id": 3949338,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.7,
+    "word_count": 570
   },
   {
     "post_id": 43776715,
@@ -7100,7 +7850,9 @@ window._comments = [
     "thread_id": 3592377,
     "thread_children": 15,
     "ratio_recv": -13,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 5.0,
+    "word_count": 73
   },
   {
     "post_id": 54303445,
@@ -7150,7 +7902,9 @@ window._comments = [
     "thread_id": 6549600,
     "thread_children": 30,
     "ratio_recv": -19,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 11.0,
+    "word_count": 160
   },
   {
     "post_id": 54303445,
@@ -7184,7 +7938,9 @@ window._comments = [
     "thread_id": 6549704,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 9.6,
+    "word_count": 130
   },
   {
     "post_id": 60820577,
@@ -7218,7 +7974,9 @@ window._comments = [
     "thread_id": 7418400,
     "thread_children": 35,
     "ratio_recv": -9,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 12.9,
+    "word_count": 148
   },
   {
     "post_id": 62033902,
@@ -7284,7 +8042,9 @@ window._comments = [
     "thread_id": 7572247,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.3,
+    "word_count": 175
   },
   {
     "post_id": 58251621,
@@ -7344,7 +8104,9 @@ window._comments = [
     "thread_id": 7006538,
     "thread_children": 2,
     "ratio_recv": -18,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 313
   },
   {
     "post_id": 58251621,
@@ -7458,7 +8220,9 @@ window._comments = [
     "thread_id": 7005703,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 5.8,
+    "word_count": 298
   },
   {
     "post_id": 57553651,
@@ -7536,7 +8300,9 @@ window._comments = [
     "thread_id": 6979127,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.4,
+    "word_count": 192
   },
   {
     "post_id": 88071358,
@@ -7564,7 +8330,9 @@ window._comments = [
     "thread_id": 10966721,
     "thread_children": 15,
     "ratio_recv": null,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 6.0,
+    "word_count": 7
   },
   {
     "post_id": 59518168,
@@ -7608,7 +8376,9 @@ window._comments = [
     "thread_id": 7280853,
     "thread_children": 2,
     "ratio_recv": -25,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 189
   },
   {
     "post_id": 59518168,
@@ -7636,7 +8406,9 @@ window._comments = [
     "thread_id": 7280774,
     "thread_children": 14,
     "ratio_recv": 11,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.5,
+    "word_count": 64
   },
   {
     "post_id": 59518168,
@@ -7688,7 +8460,9 @@ window._comments = [
     "thread_id": 7281163,
     "thread_children": 3,
     "ratio_recv": 4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.8,
+    "word_count": 285
   },
   {
     "post_id": 83534788,
@@ -7752,7 +8526,9 @@ window._comments = [
     "thread_id": 10424558,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.1,
+    "word_count": 160
   },
   {
     "post_id": 45221732,
@@ -7792,7 +8568,9 @@ window._comments = [
     "thread_id": 3986733,
     "thread_children": 29,
     "ratio_recv": -8,
-    "ratio_give": -23
+    "ratio_give": -23,
+    "grade_level": 10.5,
+    "word_count": 223
   },
   {
     "post_id": 45221732,
@@ -7832,7 +8610,9 @@ window._comments = [
     "thread_id": 3986762,
     "thread_children": 14,
     "ratio_recv": -9,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 15.5,
+    "word_count": 198
   },
   {
     "post_id": 45221732,
@@ -7868,7 +8648,9 @@ window._comments = [
     "thread_id": 3986734,
     "thread_children": 1,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 3.3,
+    "word_count": 18
   },
   {
     "post_id": 68903073,
@@ -7912,7 +8694,9 @@ window._comments = [
     "thread_id": 8465892,
     "thread_children": 135,
     "ratio_recv": -2,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 7.3,
+    "word_count": 230
   },
   {
     "post_id": 68903073,
@@ -7946,7 +8730,197 @@ window._comments = [
     "thread_id": 8465892,
     "thread_children": 135,
     "ratio_recv": -3,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 12.8,
+    "word_count": 150
+  },
+  {
+    "post_id": 88818373,
+    "title": "We should pair marijuana legalization with tougher rules on booze",
+    "canonical_url": "https://www.slowboring.com/p/we-should-pair-marijuana-legalization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11282409,
+    "top_level": false,
+    "date": "Dec 20 2022 07:24",
+    "likes": 27,
+    "timestamp": 1671539090,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, this satirization of the nanny state approach resonates with me too."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I actually used to be rather in favor of state interventions to promote public health and general social wellbeing. Then the state came for something I valued, my e-cig. First San Francisco, and then California, increasingly banned e-cig products that I enjoyed (e.g. the flavor ban). Probably played a major role in my decision to move back to Georgia. And now the federal government has banned the mail delivery of these products and there appears to be interest in going further."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I understand the desire to promote public health, particularly to protect children, but I still believe that we have to give adults a fair amount of latitude to live their lives as they want; even at the expense of their own health and wellbeing. To me, this freedom just feels deeply tied into human dignity and autonomy. Further, to not be a hypocrite, I want to extend this freedom to vices that I abhor. E.g., sugary processed foods and gambling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That does introduce something of contradiction with my belief that the state should provide healthcare to everyone. After all, if the state has to pay for our healthcare, does it not have a vested interest in promoting healthy habits and restricting unhealthy products even if only to control costs? I\u2019m not sure how to resolve that contradiction, but I\u2019m open to some libertarian-esque compromises such as allowing individuals to opt out of some future benefits (but not the taxes) in exchange for the freedom to wreck their own health."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And there are extensions to non-health areas such as how gambling can ruin peoples financial wellbeing. Not sure how to resolve the contradiction between that and a strong social safety net, but again, maybe there is some libertarian-like compromise."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just deeply believe that adults should be given a fair amount of freedom to live their life as they want, particularly if the costs of their bad decisions can be internalized. And the more I reflect on this value, the more some libertarian BS starts to look reasonable to me."
+        }
+      ]
+    ],
+    "total_children": 52,
+    "parent_id": 11282036,
+    "parent_children": 82,
+    "thread_id": 11282036,
+    "thread_children": 82,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 9.8,
+    "word_count": 352
+  },
+  {
+    "post_id": 88818373,
+    "title": "We should pair marijuana legalization with tougher rules on booze",
+    "canonical_url": "https://www.slowboring.com/p/we-should-pair-marijuana-legalization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11282846,
+    "top_level": false,
+    "date": "Dec 20 2022 07:53",
+    "likes": 12,
+    "timestamp": 1671540808,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, nanny state is a loaded term and I\u2019m just using it to build off that satire as I transition to a more serious argument."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And yes, I agree that the state has a valid interest in minimizing externalities. I\u2019m just arguing that that interest has to be weighed against the importances human dignity and individual autonomy. Hence, I think we should work towards approaches that internalize the costs of suboptimal behavior on the individual practicing it rather than broad restrictions on choices available to individuals."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Your example of drunk driving is a case where we can\u2019t internalize the cost of the behavior and outlawing that is appropriate. Other costs associated with drinking and other unhealthy behavior can be internalized so restrictions may not be warranted. It is a judgment call to determine where specifically to draw the line when there is a mix of internal and external costs."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 11282611,
+    "parent_children": 9,
+    "thread_id": 11282036,
+    "thread_children": 82,
+    "ratio_recv": -6,
+    "ratio_give": -13,
+    "grade_level": 12.8,
+    "word_count": 149
+  },
+  {
+    "post_id": 88818373,
+    "title": "We should pair marijuana legalization with tougher rules on booze",
+    "canonical_url": "https://www.slowboring.com/p/we-should-pair-marijuana-legalization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11282106,
+    "top_level": true,
+    "date": "Dec 20 2022 06:55",
+    "likes": 7,
+    "timestamp": 1671537358,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My naive understanding is that there are some challenges to regulating alcohol (or legalized marijuana) advertising due to the first amendment, particularly its application to commercial speech. Searching for relevant precedent, I found an article on \u201cAlcohol Advertising\u201d from the Free Speech Center. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Due to the commercial speech doctrine developed by the Supreme Court, state regulations of alcohol advertising are subject to careful review. Commercial speech is generally defined as speech designed to convince a target audience to purchase a good or service so that a business or individual can make a profit. The Court first explicitly ruled that truthful commercial speech was protected by the First Amendment in Virginia Pharmacy v. Virginia Consumer Council (1976)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The article goes on to lists several cases where courts have struck down alcohol advertising restrictions at the state and federal level, and then mentions some limited cases where regulations were allowed to stand."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Regardless, some courts have allowed cities to ban alcohol and cigarette advertising on billboards, which are easily viewed by minors, implicitly accepting city arguments that such advertising increased alcohol consumption and that their regulation was narrowly drawn to advance a compelling government interest. See Anheuser-Busch v. Schmoke (4th Cir. 1996)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, I believe tobacco marketing was restricted by the Master Settlement Agreement between tobacco companies and 46 states. As explained on Wikipedia, [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The states settled their Medicaid lawsuits against the tobacco industry for recovery of their tobacco-related health-care costs.\u200a In exchange, the companies agreed to curtail or cease certain tobacco marketing practices\u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Therefore it might not be possible to regulate alcohol/marijuana marketing to the same extent as tobacco."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.mtsu.edu/first-amendment/article/977/alcohol-advertising"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Tobacco_Master_Settlement_Agreement"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11282106,
+    "thread_children": 2,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 13.8,
+    "word_count": 273
   },
   {
     "post_id": 81750627,
@@ -7980,7 +8954,9 @@ window._comments = [
     "thread_id": 10192519,
     "thread_children": 45,
     "ratio_recv": 0,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 13.1,
+    "word_count": 96
   },
   {
     "post_id": 81750627,
@@ -8014,7 +8990,9 @@ window._comments = [
     "thread_id": 10192519,
     "thread_children": 45,
     "ratio_recv": null,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 13.3,
+    "word_count": 86
   },
   {
     "post_id": 81750627,
@@ -8066,7 +9044,9 @@ window._comments = [
     "thread_id": 10192609,
     "thread_children": 8,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.5,
+    "word_count": 248
   },
   {
     "post_id": 81750627,
@@ -8100,7 +9080,9 @@ window._comments = [
     "thread_id": 10192609,
     "thread_children": 8,
     "ratio_recv": null,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 7.7,
+    "word_count": 43
   },
   {
     "post_id": 81750627,
@@ -8140,7 +9122,9 @@ window._comments = [
     "thread_id": 10192609,
     "thread_children": 8,
     "ratio_recv": -2,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 8.7,
+    "word_count": 101
   },
   {
     "post_id": 81750627,
@@ -8174,7 +9158,9 @@ window._comments = [
     "thread_id": 10192609,
     "thread_children": 8,
     "ratio_recv": -2,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 11.9,
+    "word_count": 126
   },
   {
     "post_id": 81750627,
@@ -8208,7 +9194,9 @@ window._comments = [
     "thread_id": 10192609,
     "thread_children": 8,
     "ratio_recv": null,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.9,
+    "word_count": 42
   },
   {
     "post_id": 81750627,
@@ -8282,7 +9270,9 @@ window._comments = [
     "thread_id": 10192274,
     "thread_children": 27,
     "ratio_recv": -4,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 9.5,
+    "word_count": 208
   },
   {
     "post_id": 85218122,
@@ -8384,7 +9374,9 @@ window._comments = [
     "thread_id": 10618939,
     "thread_children": 22,
     "ratio_recv": -11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.8,
+    "word_count": 307
   },
   {
     "post_id": 85218122,
@@ -8446,7 +9438,9 @@ window._comments = [
     "thread_id": 10618939,
     "thread_children": 22,
     "ratio_recv": -1,
-    "ratio_give": -14
+    "ratio_give": -14,
+    "grade_level": 12.3,
+    "word_count": 299
   },
   {
     "post_id": 83218989,
@@ -8492,7 +9486,9 @@ window._comments = [
     "thread_id": 10365943,
     "thread_children": 50,
     "ratio_recv": -8,
-    "ratio_give": -10
+    "ratio_give": -10,
+    "grade_level": 9.6,
+    "word_count": 153
   },
   {
     "post_id": 83218989,
@@ -8586,7 +9582,9 @@ window._comments = [
     "thread_id": 10366449,
     "thread_children": 3,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.5,
+    "word_count": 446
   },
   {
     "post_id": 83218989,
@@ -8626,7 +9624,9 @@ window._comments = [
     "thread_id": 10366353,
     "thread_children": 26,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.4,
+    "word_count": 161
   },
   {
     "post_id": 83218989,
@@ -8660,7 +9660,9 @@ window._comments = [
     "thread_id": 10366332,
     "thread_children": 10,
     "ratio_recv": 6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.0,
+    "word_count": 100
   },
   {
     "post_id": 83218989,
@@ -8710,7 +9712,9 @@ window._comments = [
     "thread_id": 10366054,
     "thread_children": 5,
     "ratio_recv": -1,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 11.5,
+    "word_count": 338
   },
   {
     "post_id": 83218989,
@@ -8756,7 +9760,9 @@ window._comments = [
     "thread_id": 10366374,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 248
   },
   {
     "post_id": 80475018,
@@ -8806,7 +9812,9 @@ window._comments = [
     "thread_id": 10047442,
     "thread_children": 110,
     "ratio_recv": -1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.8,
+    "word_count": 196
   },
   {
     "post_id": 80475018,
@@ -8874,7 +9882,9 @@ window._comments = [
     "thread_id": 10047053,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 278
   },
   {
     "post_id": 61349681,
@@ -8908,7 +9918,9 @@ window._comments = [
     "thread_id": 7426985,
     "thread_children": 24,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 193
   },
   {
     "post_id": 61349681,
@@ -8954,7 +9966,9 @@ window._comments = [
     "thread_id": 7426985,
     "thread_children": 24,
     "ratio_recv": -9,
-    "ratio_give": 9
+    "ratio_give": 9,
+    "grade_level": 10.8,
+    "word_count": 246
   },
   {
     "post_id": 43937960,
@@ -9026,7 +10040,9 @@ window._comments = [
     "thread_id": 3642299,
     "thread_children": 4,
     "ratio_recv": 0,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 8.9,
+    "word_count": 245
   },
   {
     "post_id": 78234449,
@@ -9090,7 +10106,9 @@ window._comments = [
     "thread_id": 10456299,
     "thread_children": 4,
     "ratio_recv": -21,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 121
   },
   {
     "post_id": 72273018,
@@ -9134,7 +10152,9 @@ window._comments = [
     "thread_id": 8942202,
     "thread_children": 1,
     "ratio_recv": -26,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.3,
+    "word_count": 99
   },
   {
     "post_id": 72273018,
@@ -9234,7 +10254,9 @@ window._comments = [
     "thread_id": 8942417,
     "thread_children": 1,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 284
   },
   {
     "post_id": 89196577,
@@ -9318,7 +10340,9 @@ window._comments = [
     "thread_id": 11025759,
     "thread_children": 19,
     "ratio_recv": -19,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 436
   },
   {
     "post_id": 89196577,
@@ -9404,7 +10428,9 @@ window._comments = [
     "thread_id": 11025759,
     "thread_children": 19,
     "ratio_recv": 4,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 12.4,
+    "word_count": 378
   },
   {
     "post_id": 89196577,
@@ -9432,7 +10458,9 @@ window._comments = [
     "thread_id": 11025759,
     "thread_children": 19,
     "ratio_recv": null,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 11.1,
+    "word_count": 68
   },
   {
     "post_id": 89196577,
@@ -9490,7 +10518,9 @@ window._comments = [
     "thread_id": 11025759,
     "thread_children": 19,
     "ratio_recv": -2,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 10.2,
+    "word_count": 285
   },
   {
     "post_id": 89196577,
@@ -9546,7 +10576,9 @@ window._comments = [
     "thread_id": 11025759,
     "thread_children": 19,
     "ratio_recv": -3,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 15.2,
+    "word_count": 137
   },
   {
     "post_id": 89196577,
@@ -9580,7 +10612,9 @@ window._comments = [
     "thread_id": 11026168,
     "thread_children": 81,
     "ratio_recv": -7,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 12.1,
+    "word_count": 83
   },
   {
     "post_id": 89196577,
@@ -9608,7 +10642,9 @@ window._comments = [
     "thread_id": 11026168,
     "thread_children": 81,
     "ratio_recv": 6,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 8.1,
+    "word_count": 55
   },
   {
     "post_id": 89196577,
@@ -9636,7 +10672,9 @@ window._comments = [
     "thread_id": 11026328,
     "thread_children": 57,
     "ratio_recv": 5,
-    "ratio_give": -6
+    "ratio_give": -6,
+    "grade_level": 6.4,
+    "word_count": 22
   },
   {
     "post_id": 89196577,
@@ -9670,7 +10708,9 @@ window._comments = [
     "thread_id": 11026176,
     "thread_children": 1,
     "ratio_recv": null,
-    "ratio_give": 10
+    "ratio_give": 10,
+    "grade_level": 9.6,
+    "word_count": 81
   },
   {
     "post_id": 89196577,
@@ -9698,7 +10738,9 @@ window._comments = [
     "thread_id": 11026162,
     "thread_children": 9,
     "ratio_recv": -1,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 11.5,
+    "word_count": 45
   },
   {
     "post_id": 89196577,
@@ -9732,7 +10774,9 @@ window._comments = [
     "thread_id": 11026162,
     "thread_children": 9,
     "ratio_recv": null,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 9.7,
+    "word_count": 94
   },
   {
     "post_id": 89196577,
@@ -9794,7 +10838,9 @@ window._comments = [
     "thread_id": 11026041,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.0,
+    "word_count": 260
   },
   {
     "post_id": 58394722,
@@ -9834,7 +10880,9 @@ window._comments = [
     "thread_id": 7029273,
     "thread_children": 5,
     "ratio_recv": -14,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.0,
+    "word_count": 195
   },
   {
     "post_id": 58394722,
@@ -9879,7 +10927,9 @@ window._comments = [
     "thread_id": 7028748,
     "thread_children": 2,
     "ratio_recv": 0,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 9.8,
+    "word_count": 158
   },
   {
     "post_id": 58394722,
@@ -9941,7 +10991,9 @@ window._comments = [
     "thread_id": 7028946,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 200
   },
   {
     "post_id": 82102641,
@@ -10025,7 +11077,9 @@ window._comments = [
     "thread_id": 10218829,
     "thread_children": 5,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.8,
+    "word_count": 286
   },
   {
     "post_id": 87457071,
@@ -10103,7 +11157,9 @@ window._comments = [
     "thread_id": 10918280,
     "thread_children": 3,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 203
   },
   {
     "post_id": 87457071,
@@ -10131,7 +11187,9 @@ window._comments = [
     "thread_id": 10918280,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 4.0,
+    "word_count": 14
   },
   {
     "post_id": 53053394,
@@ -10197,7 +11255,9 @@ window._comments = [
     "thread_id": 6364395,
     "thread_children": 7,
     "ratio_recv": -5,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 314
   },
   {
     "post_id": 53053394,
@@ -10225,7 +11285,9 @@ window._comments = [
     "thread_id": 6364887,
     "thread_children": 8,
     "ratio_recv": -24,
-    "ratio_give": 15
+    "ratio_give": 15,
+    "grade_level": 10.1,
+    "word_count": 41
   },
   {
     "post_id": 87219657,
@@ -10277,7 +11339,9 @@ window._comments = [
     "thread_id": 10787805,
     "thread_children": 68,
     "ratio_recv": -34,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 313
   },
   {
     "post_id": 87219657,
@@ -10305,7 +11369,9 @@ window._comments = [
     "thread_id": 10787805,
     "thread_children": 68,
     "ratio_recv": -1,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 9.5,
+    "word_count": 48
   },
   {
     "post_id": 87219657,
@@ -10345,7 +11411,9 @@ window._comments = [
     "thread_id": 10787805,
     "thread_children": 68,
     "ratio_recv": 0,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 11.1,
+    "word_count": 201
   },
   {
     "post_id": 87219657,
@@ -10379,7 +11447,9 @@ window._comments = [
     "thread_id": 10787805,
     "thread_children": 68,
     "ratio_recv": null,
-    "ratio_give": 7
+    "ratio_give": 7,
+    "grade_level": 7.4,
+    "word_count": 50
   },
   {
     "post_id": 87219657,
@@ -10443,7 +11513,9 @@ window._comments = [
     "thread_id": 10787675,
     "thread_children": 23,
     "ratio_recv": -7,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 11.4,
+    "word_count": 214
   },
   {
     "post_id": 87219657,
@@ -10505,7 +11577,9 @@ window._comments = [
     "thread_id": 10788120,
     "thread_children": 1,
     "ratio_recv": 2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 228
   },
   {
     "post_id": 81065545,
@@ -10533,7 +11607,9 @@ window._comments = [
     "thread_id": 10129030,
     "thread_children": 7,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 4.4,
+    "word_count": 18
   },
   {
     "post_id": 81065545,
@@ -10585,7 +11661,9 @@ window._comments = [
     "thread_id": 10129030,
     "thread_children": 7,
     "ratio_recv": -3,
-    "ratio_give": -6
+    "ratio_give": -6,
+    "grade_level": 12.5,
+    "word_count": 236
   },
   {
     "post_id": 81065545,
@@ -10613,7 +11691,9 @@ window._comments = [
     "thread_id": 10128941,
     "thread_children": 14,
     "ratio_recv": null,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 12.4,
+    "word_count": 53
   },
   {
     "post_id": 78751941,
@@ -10659,7 +11739,9 @@ window._comments = [
     "thread_id": 9808670,
     "thread_children": 5,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.8,
+    "word_count": 240
   },
   {
     "post_id": 84489473,
@@ -10731,7 +11813,9 @@ window._comments = [
     "thread_id": 10530603,
     "thread_children": 21,
     "ratio_recv": -18,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.0,
+    "word_count": 249
   },
   {
     "post_id": 84489473,
@@ -10795,7 +11879,9 @@ window._comments = [
     "thread_id": 10530603,
     "thread_children": 21,
     "ratio_recv": -3,
-    "ratio_give": -23
+    "ratio_give": -23,
+    "grade_level": 8.9,
+    "word_count": 52
   },
   {
     "post_id": 84489473,
@@ -10865,7 +11951,9 @@ window._comments = [
     "thread_id": 10530603,
     "thread_children": 21,
     "ratio_recv": 6,
-    "ratio_give": -31
+    "ratio_give": -31,
+    "grade_level": 11.2,
+    "word_count": 163
   },
   {
     "post_id": 84489473,
@@ -10901,7 +11989,9 @@ window._comments = [
     "thread_id": 10533360,
     "thread_children": 2,
     "ratio_recv": 0,
-    "ratio_give": -9
+    "ratio_give": -9,
+    "grade_level": 9.2,
+    "word_count": 9
   },
   {
     "post_id": 84489473,
@@ -10945,7 +12035,9 @@ window._comments = [
     "thread_id": 10530754,
     "thread_children": 12,
     "ratio_recv": -1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.3,
+    "word_count": 95
   },
   {
     "post_id": 84489473,
@@ -10991,7 +12083,9 @@ window._comments = [
     "thread_id": 10530470,
     "thread_children": 40,
     "ratio_recv": -7,
-    "ratio_give": 14
+    "ratio_give": 14,
+    "grade_level": 8.1,
+    "word_count": 184
   },
   {
     "post_id": 84489473,
@@ -11037,7 +12131,9 @@ window._comments = [
     "thread_id": 10530470,
     "thread_children": 40,
     "ratio_recv": 1,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 10.3,
+    "word_count": 188
   },
   {
     "post_id": 84489473,
@@ -11081,7 +12177,9 @@ window._comments = [
     "thread_id": 10530596,
     "thread_children": 1,
     "ratio_recv": null,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 8.3,
+    "word_count": 102
   },
   {
     "post_id": 73254041,
@@ -11153,7 +12251,9 @@ window._comments = [
     "thread_id": 9094342,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.8,
+    "word_count": 359
   },
   {
     "post_id": 68190824,
@@ -11193,7 +12293,9 @@ window._comments = [
     "thread_id": 8443440,
     "thread_children": 4,
     "ratio_recv": 0,
-    "ratio_give": -15
+    "ratio_give": -15,
+    "grade_level": 10.9,
+    "word_count": 131
   },
   {
     "post_id": 58930295,
@@ -11231,7 +12333,9 @@ window._comments = [
     "thread_id": 7111874,
     "thread_children": 21,
     "ratio_recv": -17,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 84
   },
   {
     "post_id": 58930295,
@@ -11259,7 +12363,9 @@ window._comments = [
     "thread_id": 7111859,
     "thread_children": 9,
     "ratio_recv": -11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 43
   },
   {
     "post_id": 58930295,
@@ -11325,7 +12431,9 @@ window._comments = [
     "thread_id": 7112536,
     "thread_children": 5,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.3,
+    "word_count": 156
   },
   {
     "post_id": 53302113,
@@ -11375,7 +12483,9 @@ window._comments = [
     "thread_id": 6408486,
     "thread_children": 39,
     "ratio_recv": -10,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 10.6,
+    "word_count": 169
   },
   {
     "post_id": 49698652,
@@ -11415,7 +12525,9 @@ window._comments = [
     "thread_id": 5437518,
     "thread_children": 68,
     "ratio_recv": null,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 10.8,
+    "word_count": 245
   },
   {
     "post_id": 49698652,
@@ -11453,7 +12565,9 @@ window._comments = [
     "thread_id": 5437518,
     "thread_children": 68,
     "ratio_recv": 0,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 12.2,
+    "word_count": 58
   },
   {
     "post_id": 71584256,
@@ -11497,7 +12611,9 @@ window._comments = [
     "thread_id": 8872171,
     "thread_children": 38,
     "ratio_recv": -14,
-    "ratio_give": 18
+    "ratio_give": 18,
+    "grade_level": 11.5,
+    "word_count": 268
   },
   {
     "post_id": 44832459,
@@ -11551,7 +12667,9 @@ window._comments = [
     "thread_id": 3891603,
     "thread_children": 5,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 10.7,
+    "word_count": 132
   },
   {
     "post_id": 75632816,
@@ -11597,7 +12715,9 @@ window._comments = [
     "thread_id": 9553551,
     "thread_children": 38,
     "ratio_recv": 11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 7.8,
+    "word_count": 194
   },
   {
     "post_id": 75632816,
@@ -11637,7 +12757,9 @@ window._comments = [
     "thread_id": 9553551,
     "thread_children": 38,
     "ratio_recv": -7,
-    "ratio_give": 11
+    "ratio_give": 11,
+    "grade_level": 9.1,
+    "word_count": 89
   },
   {
     "post_id": 75632816,
@@ -11683,7 +12805,9 @@ window._comments = [
     "thread_id": 9553551,
     "thread_children": 38,
     "ratio_recv": 2,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 12.9,
+    "word_count": 236
   },
   {
     "post_id": 75632816,
@@ -11729,7 +12853,9 @@ window._comments = [
     "thread_id": 9553550,
     "thread_children": 8,
     "ratio_recv": 0,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 11.2,
+    "word_count": 206
   },
   {
     "post_id": 57548064,
@@ -11763,7 +12889,9 @@ window._comments = [
     "thread_id": 6921613,
     "thread_children": 17,
     "ratio_recv": 0,
-    "ratio_give": -44
+    "ratio_give": -44,
+    "grade_level": 13.7,
+    "word_count": 189
   },
   {
     "post_id": 73210423,
@@ -11807,7 +12935,9 @@ window._comments = [
     "thread_id": 9161952,
     "thread_children": 15,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 131
   },
   {
     "post_id": 88219618,
@@ -11841,7 +12971,9 @@ window._comments = [
     "thread_id": 10952722,
     "thread_children": 4,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 6.9,
+    "word_count": 76
   },
   {
     "post_id": 88219618,
@@ -11906,7 +13038,9 @@ window._comments = [
     "thread_id": 10952722,
     "thread_children": 4,
     "ratio_recv": null,
-    "ratio_give": -4
+    "ratio_give": -4,
+    "grade_level": 13.4,
+    "word_count": 203
   },
   {
     "post_id": 88219618,
@@ -11952,7 +13086,9 @@ window._comments = [
     "thread_id": 10952916,
     "thread_children": 1,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 244
   },
   {
     "post_id": 88097777,
@@ -11986,7 +13122,9 @@ window._comments = [
     "thread_id": 10926838,
     "thread_children": 18,
     "ratio_recv": -84,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 108
   },
   {
     "post_id": 88097777,
@@ -12030,7 +13168,9 @@ window._comments = [
     "thread_id": 10926897,
     "thread_children": 118,
     "ratio_recv": -10,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 13.4,
+    "word_count": 137
   },
   {
     "post_id": 88097777,
@@ -12076,7 +13216,9 @@ window._comments = [
     "thread_id": 10926897,
     "thread_children": 118,
     "ratio_recv": -6,
-    "ratio_give": 6
+    "ratio_give": 6,
+    "grade_level": 10.9,
+    "word_count": 216
   },
   {
     "post_id": 88097777,
@@ -12116,7 +13258,9 @@ window._comments = [
     "thread_id": 10926943,
     "thread_children": 2,
     "ratio_recv": -3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 132
   },
   {
     "post_id": 88070789,
@@ -12144,7 +13288,9 @@ window._comments = [
     "thread_id": 10941743,
     "thread_children": 22,
     "ratio_recv": 0,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 11.1,
+    "word_count": 34
   },
   {
     "post_id": 88070789,
@@ -12222,7 +13368,9 @@ window._comments = [
     "thread_id": 10941639,
     "thread_children": 21,
     "ratio_recv": -1,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 11.0,
+    "word_count": 375
   },
   {
     "post_id": 52767182,
@@ -12268,7 +13416,9 @@ window._comments = [
     "thread_id": 6246558,
     "thread_children": 8,
     "ratio_recv": -11,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.2,
+    "word_count": 249
   },
   {
     "post_id": 52767182,
@@ -12302,7 +13452,9 @@ window._comments = [
     "thread_id": 6246719,
     "thread_children": 1,
     "ratio_recv": -7,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 200
   },
   {
     "post_id": 52767182,
@@ -12352,7 +13504,9 @@ window._comments = [
     "thread_id": 6246278,
     "thread_children": 9,
     "ratio_recv": -1,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 11.5,
+    "word_count": 105
   },
   {
     "post_id": 52767182,
@@ -12386,7 +13540,9 @@ window._comments = [
     "thread_id": 6246278,
     "thread_children": 9,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 6.4,
+    "word_count": 68
   },
   {
     "post_id": 52767182,
@@ -12414,7 +13570,9 @@ window._comments = [
     "thread_id": 6246412,
     "thread_children": 13,
     "ratio_recv": -20,
-    "ratio_give": 20
+    "ratio_give": 20,
+    "grade_level": 10.2,
+    "word_count": 44
   },
   {
     "post_id": 52767182,
@@ -12442,7 +13600,9 @@ window._comments = [
     "thread_id": 6246412,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": 8
+    "ratio_give": 8,
+    "grade_level": 8.4,
+    "word_count": 13
   },
   {
     "post_id": 69956089,
@@ -12494,7 +13654,9 @@ window._comments = [
     "thread_id": 8615151,
     "thread_children": 34,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.4,
+    "word_count": 297
   },
   {
     "post_id": 69956089,
@@ -12534,7 +13696,9 @@ window._comments = [
     "thread_id": 8615151,
     "thread_children": 34,
     "ratio_recv": -3,
-    "ratio_give": 5
+    "ratio_give": 5,
+    "grade_level": 12.3,
+    "word_count": 138
   },
   {
     "post_id": 69956089,
@@ -12574,7 +13738,9 @@ window._comments = [
     "thread_id": 8615184,
     "thread_children": 6,
     "ratio_recv": -5,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.9,
+    "word_count": 120
   },
   {
     "post_id": 69956089,
@@ -12614,7 +13780,9 @@ window._comments = [
     "thread_id": 8614943,
     "thread_children": 17,
     "ratio_recv": -3,
-    "ratio_give": 4
+    "ratio_give": 4,
+    "grade_level": 9.0,
+    "word_count": 158
   },
   {
     "post_id": 69956089,
@@ -12676,7 +13844,9 @@ window._comments = [
     "thread_id": 8614943,
     "thread_children": 17,
     "ratio_recv": -2,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 9.1,
+    "word_count": 268
   },
   {
     "post_id": 84695778,
@@ -12720,7 +13890,9 @@ window._comments = [
     "thread_id": 10556391,
     "thread_children": 6,
     "ratio_recv": -2,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 10.7,
+    "word_count": 132
   },
   {
     "post_id": 84695778,
@@ -12792,7 +13964,9 @@ window._comments = [
     "thread_id": 10556036,
     "thread_children": 2,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 294
   },
   {
     "post_id": 85966745,
@@ -12832,7 +14006,9 @@ window._comments = [
     "thread_id": 10778462,
     "thread_children": 40,
     "ratio_recv": -3,
-    "ratio_give": -17
+    "ratio_give": -17,
+    "grade_level": 8.9,
+    "word_count": 87
   },
   {
     "post_id": 85966745,
@@ -12860,7 +14036,9 @@ window._comments = [
     "thread_id": 10803210,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 30
   },
   {
     "post_id": 67297001,
@@ -12922,7 +14100,9 @@ window._comments = [
     "thread_id": 8419207,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 168
   },
   {
     "post_id": 83900508,
@@ -12978,7 +14158,9 @@ window._comments = [
     "thread_id": 10480944,
     "thread_children": 27,
     "ratio_recv": -18,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 7.2,
+    "word_count": 52
   },
   {
     "post_id": 83900508,
@@ -13013,7 +14195,9 @@ window._comments = [
     "thread_id": 10480944,
     "thread_children": 27,
     "ratio_recv": null,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 4.8,
+    "word_count": 30
   },
   {
     "post_id": 83900508,
@@ -13079,7 +14263,9 @@ window._comments = [
     "thread_id": 10481291,
     "thread_children": 40,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.2,
+    "word_count": 271
   },
   {
     "post_id": 83900508,
@@ -13129,7 +14315,9 @@ window._comments = [
     "thread_id": 10481051,
     "thread_children": 19,
     "ratio_recv": -8,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 157
   },
   {
     "post_id": 90017925,
@@ -13167,7 +14355,9 @@ window._comments = [
     "thread_id": 11105838,
     "thread_children": 8,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 7.9,
+    "word_count": 35
   },
   {
     "post_id": 61636691,
@@ -13219,7 +14409,9 @@ window._comments = [
     "thread_id": 7477145,
     "thread_children": 23,
     "ratio_recv": -16,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.0,
+    "word_count": 365
   },
   {
     "post_id": 61636691,
@@ -13313,7 +14505,9 @@ window._comments = [
     "thread_id": 7476897,
     "thread_children": 3,
     "ratio_recv": -24,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 8.3,
+    "word_count": 490
   },
   {
     "post_id": 61636691,
@@ -13353,7 +14547,9 @@ window._comments = [
     "thread_id": 7477402,
     "thread_children": 6,
     "ratio_recv": 7,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 256
   },
   {
     "post_id": 61636691,
@@ -13391,7 +14587,9 @@ window._comments = [
     "thread_id": 7477402,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -16
+    "ratio_give": -16,
+    "grade_level": 8.6,
+    "word_count": 91
   },
   {
     "post_id": 57340427,
@@ -13465,7 +14663,9 @@ window._comments = [
     "thread_id": 6900138,
     "thread_children": 5,
     "ratio_recv": -9,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 330
   },
   {
     "post_id": 57340427,
@@ -13509,7 +14709,9 @@ window._comments = [
     "thread_id": 6900138,
     "thread_children": 5,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 10.2,
+    "word_count": 59
   },
   {
     "post_id": 51320469,
@@ -13537,7 +14739,9 @@ window._comments = [
     "thread_id": 5886333,
     "thread_children": 1,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.9,
+    "word_count": 62
   },
   {
     "post_id": 51320469,
@@ -13595,7 +14799,9 @@ window._comments = [
     "thread_id": 5886359,
     "thread_children": 1,
     "ratio_recv": 0,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 228
   },
   {
     "post_id": 59752737,
@@ -13657,7 +14863,9 @@ window._comments = [
     "thread_id": 7260227,
     "thread_children": 24,
     "ratio_recv": -20,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 364
   },
   {
     "post_id": 90417774,
@@ -13669,7 +14877,7 @@ window._comments = [
     "id": 11167548,
     "top_level": false,
     "date": "Dec 15 2022 07:25",
-    "likes": 30,
+    "likes": 31,
     "timestamp": 1671107128,
     "body": [
       [
@@ -13689,9 +14897,11 @@ window._comments = [
     "parent_id": 11167216,
     "parent_children": 3,
     "thread_id": 11166855,
-    "thread_children": 30,
+    "thread_children": 31,
     "ratio_recv": null,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 11.2,
+    "word_count": 100
   },
   {
     "post_id": 90417774,
@@ -13703,7 +14913,7 @@ window._comments = [
     "id": 11192335,
     "top_level": false,
     "date": "Dec 16 2022 05:31",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1671186671,
     "body": [
       [
@@ -13737,7 +14947,9 @@ window._comments = [
     "thread_id": 11172205,
     "thread_children": 10,
     "ratio_recv": 0,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 11.4,
+    "word_count": 235
   },
   {
     "post_id": 90417774,
@@ -13807,7 +15019,9 @@ window._comments = [
     "thread_id": 11166747,
     "thread_children": 7,
     "ratio_recv": 1,
-    "ratio_give": -6
+    "ratio_give": -7,
+    "grade_level": 10.3,
+    "word_count": 217
   },
   {
     "post_id": 90417774,
@@ -13875,7 +15089,9 @@ window._comments = [
     "thread_id": 11166859,
     "thread_children": 13,
     "ratio_recv": 0,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 11.4,
+    "word_count": 250
   },
   {
     "post_id": 90417774,
@@ -13923,7 +15139,9 @@ window._comments = [
     "thread_id": 11166859,
     "thread_children": 13,
     "ratio_recv": -3,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 10.0,
+    "word_count": 86
   },
   {
     "post_id": 90417774,
@@ -13957,7 +15175,9 @@ window._comments = [
     "thread_id": 11166859,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": 3
+    "ratio_give": 3,
+    "grade_level": 10.1,
+    "word_count": 87
   },
   {
     "post_id": 90417774,
@@ -14027,7 +15247,9 @@ window._comments = [
     "thread_id": 11166859,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": 2
+    "ratio_give": 2,
+    "grade_level": 9.7,
+    "word_count": 200
   },
   {
     "post_id": 90417774,
@@ -14083,7 +15305,9 @@ window._comments = [
     "thread_id": 11166962,
     "thread_children": 7,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 169
   },
   {
     "post_id": 90417774,
@@ -14140,7 +15364,9 @@ window._comments = [
     "thread_id": 11173478,
     "thread_children": 1,
     "ratio_recv": 0,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 141
   },
   {
     "post_id": 45304661,
@@ -14240,7 +15466,9 @@ window._comments = [
     "thread_id": 4001226,
     "thread_children": 2,
     "ratio_recv": -4,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 342
   },
   {
     "post_id": 58893445,
@@ -14286,7 +15514,9 @@ window._comments = [
     "thread_id": 7121135,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 291
   },
   {
     "post_id": 58893445,
@@ -14314,7 +15544,9 @@ window._comments = [
     "thread_id": 7121305,
     "thread_children": 3,
     "ratio_recv": -4,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 10.3,
+    "word_count": 72
   },
   {
     "post_id": 58893445,
@@ -14348,7 +15580,9 @@ window._comments = [
     "thread_id": 7121284,
     "thread_children": 12,
     "ratio_recv": 3,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.1,
+    "word_count": 176
   },
   {
     "post_id": 58893445,
@@ -14394,7 +15628,9 @@ window._comments = [
     "thread_id": 7121569,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 330
   },
   {
     "post_id": 84371323,
@@ -14434,7 +15670,9 @@ window._comments = [
     "thread_id": 10504818,
     "thread_children": 3,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.8,
+    "word_count": 151
   },
   {
     "post_id": 84371323,
@@ -14468,7 +15706,9 @@ window._comments = [
     "thread_id": 10504905,
     "thread_children": 3,
     "ratio_recv": -9,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 101
   },
   {
     "post_id": 50154475,
@@ -14506,7 +15746,9 @@ window._comments = [
     "thread_id": 5548729,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": -8
+    "ratio_give": -8,
+    "grade_level": 10.6,
+    "word_count": 64
   },
   {
     "post_id": 87359583,
@@ -14550,7 +15792,9 @@ window._comments = [
     "thread_id": 10853280,
     "thread_children": 11,
     "ratio_recv": null,
-    "ratio_give": -6
+    "ratio_give": -6,
+    "grade_level": 7.7,
+    "word_count": 87
   },
   {
     "post_id": 87359583,
@@ -14600,7 +15844,9 @@ window._comments = [
     "thread_id": 10854094,
     "thread_children": 3,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.6,
+    "word_count": 181
   },
   {
     "post_id": 87359583,
@@ -14658,7 +15904,9 @@ window._comments = [
     "thread_id": 10852182,
     "thread_children": 10,
     "ratio_recv": -1,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 10.4,
+    "word_count": 332
   },
   {
     "post_id": 87359583,
@@ -14712,7 +15960,9 @@ window._comments = [
     "thread_id": 10852182,
     "thread_children": 10,
     "ratio_recv": -2,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 9.3,
+    "word_count": 222
   },
   {
     "post_id": 87359583,
@@ -14740,7 +15990,9 @@ window._comments = [
     "thread_id": 10852182,
     "thread_children": 10,
     "ratio_recv": null,
-    "ratio_give": -1
+    "ratio_give": -1,
+    "grade_level": 3.6,
+    "word_count": 16
   },
   {
     "post_id": 69431698,
@@ -14780,7 +16032,9 @@ window._comments = [
     "thread_id": 8712397,
     "thread_children": 33,
     "ratio_recv": -44,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.2,
+    "word_count": 153
   },
   {
     "post_id": 73638721,
@@ -14858,7 +16112,9 @@ window._comments = [
     "thread_id": 9195913,
     "thread_children": 29,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.6,
+    "word_count": 268
   },
   {
     "post_id": 59616580,
@@ -14920,7 +16176,9 @@ window._comments = [
     "thread_id": 7380373,
     "thread_children": 26,
     "ratio_recv": -15,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 227
   },
   {
     "post_id": 59616580,
@@ -14966,7 +16224,9 @@ window._comments = [
     "thread_id": 7379950,
     "thread_children": 1,
     "ratio_recv": 0,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 265
   },
   {
     "post_id": 83535266,
@@ -15016,7 +16276,9 @@ window._comments = [
     "thread_id": 10471696,
     "thread_children": 3,
     "ratio_recv": 0,
-    "ratio_give": -7
+    "ratio_give": -7,
+    "grade_level": 14.2,
+    "word_count": 125
   },
   {
     "post_id": 83535266,
@@ -15098,7 +16360,9 @@ window._comments = [
     "thread_id": 10471481,
     "thread_children": 1,
     "ratio_recv": -6,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 16.3,
+    "word_count": 242
   },
   {
     "post_id": 83535266,
@@ -15160,7 +16424,9 @@ window._comments = [
     "thread_id": 10472161,
     "thread_children": 11,
     "ratio_recv": 1,
-    "ratio_give": -3
+    "ratio_give": -3,
+    "grade_level": 16.2,
+    "word_count": 99
   },
   {
     "post_id": 89637783,
@@ -15194,7 +16460,9 @@ window._comments = [
     "thread_id": 11116225,
     "thread_children": 29,
     "ratio_recv": -13,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 97
   },
   {
     "post_id": 85962904,
@@ -15222,7 +16490,9 @@ window._comments = [
     "thread_id": 10632399,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": 0
+    "ratio_give": 0,
+    "grade_level": 3.1,
+    "word_count": 23
   },
   {
     "post_id": 88579100,
@@ -15274,7 +16544,9 @@ window._comments = [
     "thread_id": 10976922,
     "thread_children": 42,
     "ratio_recv": -39,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 9.9,
+    "word_count": 278
   },
   {
     "post_id": 88579100,
@@ -15314,7 +16586,9 @@ window._comments = [
     "thread_id": 10976922,
     "thread_children": 42,
     "ratio_recv": null,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 8.4,
+    "word_count": 224
   },
   {
     "post_id": 88579100,
@@ -15348,7 +16622,9 @@ window._comments = [
     "thread_id": 10976495,
     "thread_children": 18,
     "ratio_recv": -1,
-    "ratio_give": -2
+    "ratio_give": -2,
+    "grade_level": 9.9,
+    "word_count": 69
   },
   {
     "post_id": 88579100,
@@ -15382,7 +16658,9 @@ window._comments = [
     "thread_id": 10976271,
     "thread_children": 0,
     "ratio_recv": null,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 13.0,
+    "word_count": 75
   },
   {
     "post_id": 88579100,
@@ -15460,7 +16738,9 @@ window._comments = [
     "thread_id": 10976425,
     "thread_children": 2,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 325
   },
   {
     "post_id": 88579100,
@@ -15532,7 +16812,9 @@ window._comments = [
     "thread_id": 10976425,
     "thread_children": 2,
     "ratio_recv": -1,
-    "ratio_give": 1
+    "ratio_give": 1,
+    "grade_level": 11.7,
+    "word_count": 345
   },
   {
     "post_id": 86347660,
@@ -15578,7 +16860,9 @@ window._comments = [
     "thread_id": 10763958,
     "thread_children": 68,
     "ratio_recv": -1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 173
   },
   {
     "post_id": 86347660,
@@ -15764,7 +17048,9 @@ window._comments = [
     "thread_id": 10763958,
     "thread_children": 68,
     "ratio_recv": -13,
-    "ratio_give": -5
+    "ratio_give": -5,
+    "grade_level": 10.6,
+    "word_count": 501
   },
   {
     "post_id": 57830726,
@@ -15840,7 +17126,9 @@ window._comments = [
     "thread_id": 6986671,
     "thread_children": 8,
     "ratio_recv": -2,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 14.7,
+    "word_count": 300
   },
   {
     "post_id": 57830726,
@@ -15868,7 +17156,9 @@ window._comments = [
     "thread_id": 6985994,
     "thread_children": 41,
     "ratio_recv": -9,
-    "ratio_give": 17
+    "ratio_give": 17,
+    "grade_level": 9.3,
+    "word_count": 77
   },
   {
     "post_id": 47951599,
@@ -15922,7 +17212,9 @@ window._comments = [
     "thread_id": 4807545,
     "thread_children": 7,
     "ratio_recv": -21,
-    "ratio_give": 14
+    "ratio_give": 14,
+    "grade_level": 7.7,
+    "word_count": 138
   },
   {
     "post_id": 47951599,
@@ -15984,7 +17276,9 @@ window._comments = [
     "thread_id": 4807589,
     "thread_children": 3,
     "ratio_recv": 1,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 351
   },
   {
     "post_id": 86783389,
@@ -16048,6 +17342,8 @@ window._comments = [
     "thread_id": 10812862,
     "thread_children": 17,
     "ratio_recv": -31,
-    "ratio_give": null
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 399
   }
 ];
