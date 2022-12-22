@@ -3045,6 +3045,134 @@ window._comments = [
     "word_count": 182
   },
   {
+    "post_id": 90873268,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-a2b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11318592,
+    "top_level": true,
+    "date": "Dec 21 2022 17:30",
+    "likes": 9,
+    "timestamp": 1671661857,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree with Laura and Matt in the refutation of Frank\u2019s provocative assertion; in actuality Democrats have plenty of dynamism and have made substantial political and cultural victories. Yet I find that to be a narrow reading of the article, which is clearly a mourning of the collapse of the New Deal coalition and its replacement by the Third Way centrism marked by the election of Clinton in 1992. Laura and Matt do engage with that a bit towards the end of the episode, and they agree that it is unfortunate that Democrats have been losing working class voters, possibly due to culture war issues and a reduced focus on economic populism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Frank\u2019s article mirrors a criticism of Democrats that I\u2019ve commonly seen from the economic populist left (i.e., Sanders supports) in which Democrats are castigated for embracing the highly-educated professional class at the expense of the working class. In the more conspiratorial tellings, this condemnation alleges that the Democratic party has been captured by the rich so that liberal proclivities could be redirected from redistributional economics onto identity and cultural issues. A more reasonable narrative is that these highly-educated professionals have a mix of liberal policy priorities that include both redistribution economics and civil rights issues."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this genre of criticism is most fair when focused on the disproportionately large impact that highly-educated professionals have on setting the policy priorities and messaging of the Democratic party. As Matt has pointed out before in multiple Slow Boring articles, the Democratic party is strongly influenced by staffers and activists that are quite far to the left of the median Democratic voter, particularly on cultural issues and in their usage of esoteric academic language."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, there may also be some truth to the assertion that the courting of affluent professionals has muted Democrats' focus on practical economic redistribution. While there is plenty of desire to tax the rich, the income line delineating rich keeps rising, currently sitting at $400k/year. In practice, you can\u2019t build a robust welfare state with taxes only focused on such a small group of taxpayers. There is a lot of income, financing a lot of private consumption, within the upper middle class, and we\u2019ll need to significantly increase taxes on that income band in order to redirect resources from private consumption into public services. A strong welfare state entails the reallocation of tangible resources (chiefly labor) and our taxes need to be structured accordingly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I do think there is something to Frank\u2019s broader argument, but I\u2019m not sure what, if any, practical steps Democratic politicians could take to embrace economic populism and win back the working class. There is a reason the New Deal coalition collapsed; chiefly the Republican\u2019s Southern strategy to win the white working class as Democrats fought for civil rights. Some have suggested that Democrats should focus solely on economic issues, but that ignores the very real interest in civil rights and cultural issues among many Democratic voters. Should some politicians ignore that, others will fill the void. For example, Clinton\u2019s embrace of identity issues in the 2016 primary election to outflank Sanders."
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11318592,
+    "thread_children": 23,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 14.0,
+    "word_count": 520
+  },
+  {
+    "post_id": 90873268,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-a2b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11319299,
+    "top_level": false,
+    "date": "Dec 21 2022 18:05",
+    "likes": 4,
+    "timestamp": 1671663955,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks! I'm also glad that he's again participating more in the comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For other\u2019s reference, this is the thread we\u2019re mentioning, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/matts-mailbox-c23/comment/11105838"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11318975,
+    "parent_children": 1,
+    "thread_id": 11318592,
+    "thread_children": 23,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 6.2,
+    "word_count": 21
+  },
+  {
+    "post_id": 90873268,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-a2b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11319226,
+    "top_level": false,
+    "date": "Dec 21 2022 18:02",
+    "likes": 2,
+    "timestamp": 1671663737,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree with the reason for why Clinton won the primary and was referencing some unnecessary positions she took as detailed in, \u201cHow Hillary Clinton unleashed the Great Awokening\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/how-hillary-clinton-unleashed-the"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11318993,
+    "parent_children": 4,
+    "thread_id": 11318592,
+    "thread_children": 23,
+    "ratio_recv": 0,
+    "ratio_give": -5,
+    "grade_level": 14.6,
+    "word_count": 29
+  },
+  {
     "post_id": 55302326,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e15",
@@ -4854,7 +4982,7 @@ window._comments = [
     "id": 11273634,
     "top_level": true,
     "date": "Dec 19 2022 17:28",
-    "likes": 22,
+    "likes": 24,
     "timestamp": 1671488916,
     "body": [
       [
@@ -8744,7 +8872,7 @@ window._comments = [
     "id": 11282409,
     "top_level": false,
     "date": "Dec 20 2022 07:24",
-    "likes": 27,
+    "likes": 28,
     "timestamp": 1671539090,
     "body": [
       [
@@ -8784,13 +8912,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 52,
+    "total_children": 56,
     "parent_id": 11282036,
-    "parent_children": 82,
+    "parent_children": 87,
     "thread_id": 11282036,
-    "thread_children": 82,
-    "ratio_recv": -2,
-    "ratio_give": 2,
+    "thread_children": 87,
+    "ratio_recv": -1,
+    "ratio_give": 0,
     "grade_level": 9.8,
     "word_count": 352
   },
@@ -8826,13 +8954,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 8,
+    "total_children": 9,
     "parent_id": 11282611,
-    "parent_children": 9,
+    "parent_children": 10,
     "thread_id": 11282036,
-    "thread_children": 82,
+    "thread_children": 87,
     "ratio_recv": -6,
-    "ratio_give": -13,
+    "ratio_give": -15,
     "grade_level": 12.8,
     "word_count": 149
   },
@@ -10841,6 +10969,114 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 260
+  },
+  {
+    "post_id": 91424801,
+    "title": "Secret Congress delivers more good news on clean water",
+    "canonical_url": "https://www.slowboring.com/p/secret-congress-delivers-more-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11307117,
+    "top_level": true,
+    "date": "Dec 21 2022 07:14",
+    "likes": 6,
+    "timestamp": 1671624850,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> So I\u2019d encourage everyone to try to be more mindful in their consumption and sharing habits \u2014 spread some good news!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Jonathan Haidt provides a good description of the negativity bias and how to manage that through mindfulness in his book, \u201cThe Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom.\u201d Been a while since I read it (I should re-read it), and reviewing my notes now I find some useful tidbits."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Responses to threats and unpleasantness are faster, stronger, and harder to inhibit than responses to opportunities and pleasures."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Depressed people are caught in a feedback loop in which distorted thoughts cause negative feelings, which then distort thinking further."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As Buddha said: \u201c\"When a man knows the solitude of silence, and feels the joy of quietness, he is then free from fear and sin.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I found this book helpful in understanding the significance of subconscious thought and emotions in shaping our perception of the world. Particularly, learning that a lot of our rational thought is just narrative building around our initial intuitions. Simply reading through the research presented in the book makes it easier to accept that you can\u2019t force yourself into feeling a specific way nor eliminate a biased perception of reality. Similarly, learning the research on the benefits of mindfulness motivates practicing that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Rather than fight emotions, I recall that Haidt recommends a gentler approach of recognizing feelings without judgment and then exploring the narratives that our rational mind is building around those subconscious intuitions.  Once the feelings are accepted it becomes easier to recognize our rational mind\u2019s attempt to construct a story that justifies them. One can play with that narrative and also gently challenge some of its components. That allows us to introduce some aspects of positivity, and as the rational mind ponders the revised narrative, our emotions can slowly move a bit in that direction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly recommend reading the \u201cThe Happiness Hypothesis\u201d and incorporating some of Haidt\u2019s recommendations into your thinking.   "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11307117,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.8,
+    "word_count": 326
+  },
+  {
+    "post_id": 91424801,
+    "title": "Secret Congress delivers more good news on clean water",
+    "canonical_url": "https://www.slowboring.com/p/secret-congress-delivers-more-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11307307,
+    "top_level": false,
+    "date": "Dec 21 2022 07:26",
+    "likes": 2,
+    "timestamp": 1671625609,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Infotainment is chiefly about affirming the audience\u2019s worldview. If Fox started presenting Republicans unpopular policies, then viewers would just seek out a different media product that champions the Republicans. I\u2019m sure there are Republicans that still primarily get their news from WSJ and would bet that they have a more accurate perception. (WSJ readers enjoy learning Republican\u2019s commitment to tearing down our limited welfare state.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And yes, we\u2019re all guilty of this to an extent. I like to think that Bloomberg news and streaming TV is giving me a fairly factual understanding of reality. But I\u2019ve probably been far more concerned about inflation and Federal Reserve policy than reasonable because I\u2019m seeking out infotainment of that genre."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 11306673,
+    "parent_children": 13,
+    "thread_id": 11306673,
+    "thread_children": 13,
+    "ratio_recv": -2,
+    "ratio_give": -1,
+    "grade_level": 11.0,
+    "word_count": 117
   },
   {
     "post_id": 58394722,
