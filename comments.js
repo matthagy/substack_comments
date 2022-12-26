@@ -3054,7 +3054,7 @@ window._comments = [
     "id": 11318592,
     "top_level": true,
     "date": "Dec 21 2022 17:30",
-    "likes": 9,
+    "likes": 10,
     "timestamp": 1671661857,
     "body": [
       [
@@ -3088,12 +3088,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 23,
+    "total_children": 29,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11318592,
-    "thread_children": 23,
-    "ratio_recv": 0,
+    "thread_children": 29,
+    "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 520
@@ -3132,7 +3132,7 @@ window._comments = [
     "parent_id": 11318975,
     "parent_children": 1,
     "thread_id": 11318592,
-    "thread_children": 23,
+    "thread_children": 29,
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 6.2,
@@ -3166,7 +3166,7 @@ window._comments = [
     "parent_id": 11318993,
     "parent_children": 4,
     "thread_id": 11318592,
-    "thread_children": 23,
+    "thread_children": 29,
     "ratio_recv": 0,
     "ratio_give": -5,
     "grade_level": 14.6,
@@ -11074,7 +11074,7 @@ window._comments = [
     "thread_id": 11306673,
     "thread_children": 13,
     "ratio_recv": -2,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 11.0,
     "word_count": 117
   },
@@ -13839,6 +13839,160 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 8.4,
     "word_count": 13
+  },
+  {
+    "post_id": 91985864,
+    "title": "Beginning to feel a lot like Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/beginning-to-feel-a-lot-like-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11353340,
+    "top_level": false,
+    "date": "Dec 23 2022 08:28",
+    "likes": 21,
+    "timestamp": 1671802084,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good idea. Re-computed the relationship between comment term frequency and number of likes. Plot with top 15 and bottom 15, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report#key-terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Top 5 Terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* miserable 4.62"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* demonstrate 3.60"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* trusted 3.47"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* baltimore 3.25"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* beings 3.19"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bottom 5 Terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* consciousness -1.99"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* gen -2.00"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* connect -2.00"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* sectors -2.10"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* red states -2.30"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Housing related terms aren\u2019t among the top nor bottom."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing costs 2.01"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* houses 0.36"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* house 0.34"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing -0.12"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing prices -0.15"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* affordable housing -0.55"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Planning to do some more analysis of Slow Boring comments (and other Substacks) over the holidays and will share updated results next week. Notably, looking to quantify which communities have the most sophisticated comments using the Flesh-Kincaid grade-level test. Preliminary results (in that link) show SB commentators having the highest average grade level."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": 11352377,
+    "parent_children": 18,
+    "thread_id": 11352334,
+    "thread_children": 24,
+    "ratio_recv": 10,
+    "ratio_give": 14,
+    "grade_level": 5.6,
+    "word_count": 124
   },
   {
     "post_id": 69956089,
