@@ -3716,6 +3716,58 @@ window._comments = [
     "word_count": 494
   },
   {
+    "post_id": 93547723,
+    "title": "Happy New Year! Republicans have changed a lot since 2008",
+    "canonical_url": "https://www.slowboring.com/p/happy-new-year-republicans-have-changed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11560068,
+    "top_level": true,
+    "date": "Jan 02 2023 07:39",
+    "likes": 5,
+    "timestamp": 1672663161,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The linked video where Paul Ryan discusses his views is centered around Matthew Continetti\u2019s book \u201cThe Right: The Hundred-Year War for American Conservativism.\u201d That author and book topic sounded familiar and I found the May 2022 Ezra Klein Show interview with Continetti, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/05/06/podcasts/transcript-ezra-klein-interviews-matt-continetti.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall this being an insightful discussion of the evolution of the Republican party, particularly the contradictions and conflicts between the elite Reagan-era consensus and the populist Buchanan/Trump wing. From the NYT description"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Continetti was straddling two conservative tendencies that were about to rip apart, the establishment conservatism of George W. Bush and Bill Kristol, and the populist conservatism of Spiro Agnew, and soon, Donald Trump. And rip apart they did. Today, the right that Continetti joined, it barely exists. \u201cThe Weekly Standard\u201d is gone. Kristol became a leading Never Trumper. Trump took over the Republican Party in part by weaponizing anger and disappointment at its establishment, and particularly at the Bush family. The policy ideas so dutifully churned out by the American Enterprise Institute for so many years have little purchase on the rising generation of populist right leaders. In many cases, they\u2019re running against those ideas. Continetti writes that \u2014 quote \u2014 \u201cto define oneself as a conservative in the 2020s was to reject the ideas and practices of the establishment that 1150 17th Street had come to represent. I\u2019ve spent the last decade thinking about this change.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The product of Continetti\u2019s decade of thinking and research isn\u2019t a manifesto or an essay. It\u2019s a history book, \u201cIn the Right: The 100 Year War for American Conservatism.\u201d Continetti does something valuable. He takes seriously the populist history of conservatism, running from Joseph McCarthy to William F. Buckley Jr., to the John Birch Society, to Richard Nixon and Spiro Agnew, to the Tea Party, and Sarah Palin, and Donald Trump, and beyond. He doesn\u2019t treat the forces that produced Trumpism as somehow alien to the Republican Party. What\u2019s aberrational is not a populist right, but the belief, so widespread before Donald Trump, that conservatism was what Paul Ryan and Mitch McConnell and \u201cThe Weekly Standard\u201d and the American Enterprise Institute wanted it to be, that that is where the energy and the values of the people who put Republicans in power really sat."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11560068,
+    "thread_children": 10,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 374
+  },
+  {
     "post_id": 73006846,
     "title": "Are teachers overpaid or underpaid?",
     "canonical_url": "https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid",
@@ -5421,6 +5473,56 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 10.1,
     "word_count": 139
+  },
+  {
+    "post_id": 93896906,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-239",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11576366,
+    "top_level": false,
+    "date": "Jan 02 2023 18:27",
+    "likes": 10,
+    "timestamp": 1672702044,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We subscribers wouldn't need to do anything. Substack deliberately gives authors control of their email list and Stripe credit-card-processing integration (and in SB's cases the domain name) so that authors needn't concern themselves with vendor lock-in. That is important for getting authors to trial Substack, but it leaves the firm vulnerable to lower cost competitors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, a non-profit competitor Ghost has a guide on migrating from Substack with no impact on subscribers, "
+        },
+        {
+          "type": "url",
+          "value": "https://ghost.org/docs/migration/substack/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson discusses this challenge for Substack\u2019s business in his March 2021 article, \u201cSovereign Writers and Substack\u201d, in which he considers Slow Boring as a case study, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.tw/2021/sovereign-writers-and-substack/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11575126,
+    "parent_children": 2,
+    "thread_id": 11574682,
+    "thread_children": 4,
+    "ratio_recv": -9,
+    "ratio_give": 3,
+    "grade_level": 13.0,
+    "word_count": 100
   },
   {
     "post_id": 62667855,
@@ -8107,6 +8209,88 @@ window._comments = [
     "word_count": 148
   },
   {
+    "post_id": 92998341,
+    "title": "New Year's Day Thread",
+    "canonical_url": "https://www.slowboring.com/p/new-years-day-thread-55a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11546764,
+    "top_level": true,
+    "date": "Jan 01 2023 14:00",
+    "likes": 14,
+    "timestamp": 1672599615,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Matt Levine has a great summary of the crypto collapse and SBF/FTX fraud, \u201cHow Not to Play the Game\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I particularly like his framing of crypto as a \u201ctoy financial system.\u201d In some ways it is a cleaner and purer system in that it isn\u2019t restrained by centuries of financial regulation, bureaucracy, and legacy technology. A sort of an idealized model of a financial system."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Over time it developed many of the same components of the traditional financial system such as exchanges, derivatives, hedge funds, etc. But crypto never developed any substantial connection to the actual economy and the real world; it was never used to finance any real production. Levine contrasts that to the real financial system,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The regular financial system is built up from things in the real world, things that have some practical value and produce some reliable cash flows. A synthetic collateralized debt obligation of mortgage-backed securities is a very abstract bit of financial engineering, but it is the output of a complicated machine, and the inputs to the machine are people who live in houses sending monthly checks to pay for those houses. There\u2019s a lot of math and judgment involved in structuring and pricing the thing, but there is also a house. The value of a synthetic CDO tranche can go to zero, but the value of all the stuff that goes into the machine can\u2019t go to zero as long as people need houses."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Crypto never developed anything like that and therefore the financial value assigned to crypto assets was never based on any real economic activity nor hard assets. It was instead entirely speculation about potential future utility. As the frenzy died down, there was no floor on how far valuations could fall. Even a portfolio of mortgages with a high default rate still has some economic value due the non-defaulting mortgages as well as the houses pledged as collateral."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And in some ways we are fortunate that crypto never developed any ties to the real economy. Despite crypto's spectacular collapse, we are not seeing any financial stress in the real world. I personally think there might even be some value in having this isolated and contained financial system that can serve as an outlet for financial gambling in that it can absorb the worst excesses of speculators."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Levine also muses about the educational value of this toy financial system. Over the years, crypto has provided him with numerous entertaining financial stories that can illustrate general financial concepts. For example, counterparty risk in trading and lending. In exploring crypto\u2019s failures, Levine can explain the value of regulations and other mechanisms developed in the traditional financial system to guard against such failures. Many people have described crypto as a speedrun in developing a financial system and that is quite educational."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly recommend checking out the article. Particularly like this explanation of how the FTX collapse is framed in terms of the toy financial system model."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> What happened at FTX? \u201cThey stole the money\u201d seems to be a true but insufficient answer. I think that part of the answer is that they found, and helped to build, a toy financial system, and they played with it. They didn\u2019t take the game too seriously; they didn\u2019t spend a lot of energy hiring accountants and compliance people, because that is not the fun part of finance. They built clever systems for margin lending and risk management, because it is fun to build an idealized trading system from scratch. But they also exempted themselves\u2014Alameda\u2014from that system, because it was just a game. In the real world, if you run a hedge fund and your balance becomes negative, the game is over. At FTX, when Alameda\u2019s balance became negative, it got to keep playing."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11546764,
+    "thread_children": 11,
+    "ratio_recv": -12,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 627
+  },
+  {
     "post_id": 62033902,
     "title": "The case for a gas tax increase",
     "canonical_url": "https://www.slowboring.com/p/the-case-for-a-gas-tax-increase",
@@ -10013,6 +10197,112 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278
+  },
+  {
+    "post_id": 93095527,
+    "title": "Last mailbag of the year",
+    "canonical_url": "https://www.slowboring.com/p/last-mailbag-of-the-year",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11491429,
+    "top_level": true,
+    "date": "Dec 30 2022 06:59",
+    "likes": 12,
+    "timestamp": 1672401568,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "On the question of goods vs. service wages, I think services can also have productivity improvements that allow real wages to increase without rising prices. For example, the modern fast food kitchen uses a lot of technology to leverage labor through capital investments. I.e., capital-labor substitution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some services are less easily augmented with technology. E.g., education and childcare. Yet even that might change in the future and allow us to better manage Baumol's cost disease."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11491429,
+    "thread_children": 2,
+    "ratio_recv": -10,
+    "ratio_give": null,
+    "grade_level": 9.3,
+    "word_count": 75
+  },
+  {
+    "post_id": 93095527,
+    "title": "Last mailbag of the year",
+    "canonical_url": "https://www.slowboring.com/p/last-mailbag-of-the-year",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11491300,
+    "top_level": true,
+    "date": "Dec 30 2022 06:47",
+    "likes": 7,
+    "timestamp": 1672400834,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The other is that lots of European countries have formally recognized national minority populations and official policy structures in place to recognize and support the established minority community. \u2026 The unintended consequence of having these separate formal identities is that it creates a presumption of an ethnic basis of citizenship, and that equality means a kind of separateness."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think it\u2019s important to mention Canada having this problem despite it also being a \u201cnation of immigrants.\u201d The semi-sovereign province of Quebec does conceptualize itself as distinct from the rest of Canada due to its history of being settled by the French."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, the province of Alberta also just recently challenged Canadian federal laws with the passage of their Alberta Sovereignty Act in Nov 2022. [1] That is further straining Canadian national unity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The shadow cast by all these dimensions is that, of course, the worst-off groups in the United States are the groups descended from enslaved people or from the conquered indigenous population \u2014 the exceptions to the \u201cnation of immigrants\u201d narrative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll again recommend Joseph Heath's article, \u201cWhy Are Racial Problems in the United States So Intractable?\u201d, for an exploration of how different countries address immigration and race/ethnic issues. The article then contrasts these approaches against those of the US."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://americanaffairsjournal.org/2021/08/why-are-racial-problems-in-the-united-states-so-intractable/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Bill Brands, a US history prof, has an enlightening short article where he contrast Alberta\u2019s recent act against that of the US\u2019s nullification crisis in 1832, "
+        },
+        {
+          "type": "url",
+          "value": "https://hwbrands.substack.com/p/canadian-echoes-of-calhoun"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11491300,
+    "thread_children": 1,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 236
   },
   {
     "post_id": 61349681,
