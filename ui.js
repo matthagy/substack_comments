@@ -167,7 +167,7 @@ function loadComments() {
         }
 
         createText(comment['name'], 'name');
-        createText(`❤ ${comment['likes']}, ${comment['date']}, KF=${comment['grade_level']}`, 'meta');
+        createText(`❤ ${comment['likes']}, ${comment['date']}, FK=${comment['grade_level']}`, 'meta');
         metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
         createCommentLink(comment.id,
             `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
