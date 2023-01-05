@@ -3291,6 +3291,90 @@ window._comments = [
     "word_count": 52
   },
   {
+    "post_id": 94620281,
+    "title": "A conversation with GiveWell's Elie Hassenfeld",
+    "canonical_url": "https://www.slowboring.com/p/a-conversation-with-givewells-elie-f3f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11630924,
+    "top_level": false,
+    "date": "Jan 04 2023 10:30",
+    "likes": 10,
+    "timestamp": 1672846258,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Totally reasonable to reject GiveWell\u2019s human-universalistic philosophy. Even fine to feel disgust and revulsion at it. I think it useful for those of us that are sympathetic to GiveWell\u2019s moral foundation to understand our beliefs are quite repulsive to some other thoughtful people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I think we all have some innate hierarchy of preferences that bias towards people and communities closer to us. Almost everyone feels a strong obligation to care for our immediate family and humans require severe conflicts to sever that. Similarly, many would feel compelled to help a close friend in need as well as some heightened concern about local issues."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But many of us can adopt a universalist view towards philanthropy. I\u2019ll admit that it may be easier when our family and friends are generally doing well financially. Further, those of us who regularly moved throughout our lives may feel limited, if any, obligation to our locality. Regardless of how we adopted our moral intuitions, we truly believe in a general obligation to all humans and want to donate funds with a focus on effectiveness at addressing human suffering."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think anyone should feel guilt or shame for rejecting GiveWell\u2019s moral framework. Similarly, no one should feel bad about accepting it. But we should all recognize the diversity of ethical beliefs and understand that any attempt at guilt or shame will be ineffective on those committed to radically different creeds."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 11626655,
+    "parent_children": 81,
+    "thread_id": 11626655,
+    "thread_children": 81,
+    "ratio_recv": -7,
+    "ratio_give": 1,
+    "grade_level": 10.3,
+    "word_count": 235
+  },
+  {
+    "post_id": 94620281,
+    "title": "A conversation with GiveWell's Elie Hassenfeld",
+    "canonical_url": "https://www.slowboring.com/p/a-conversation-with-givewells-elie-f3f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11631627,
+    "top_level": false,
+    "date": "Jan 04 2023 10:57",
+    "likes": 4,
+    "timestamp": 1672847841,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I do feel a strong obligation to my fellow Americans. I do believe that I do owe our nation far more than any other group of people, including humanity at large. I should\u2019ve been more clear that I was exclusively focused on philanthropy ethics. And I\u2019m not an absolutist; I don\u2019t feel bad about giving to local or national causes at times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just believe that my general obligation to my fellow citizens should be encoded in law. I do feel that my large tax burden is just in helping other Americans and in advancing the general interests of our great nation. I\u2019m advocating to pay even more. In lieu of that, I don\u2019t feel compelled to donate more to local or national causes."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11631136,
+    "parent_children": 2,
+    "thread_id": 11626655,
+    "thread_children": 81,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 8.2,
+    "word_count": 125
+  },
+  {
     "post_id": 52577286,
     "title": "Donald Trump's re-election is a dire threat to free speech",
     "canonical_url": "https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire",
@@ -5520,7 +5604,7 @@ window._comments = [
     "thread_id": 11574682,
     "thread_children": 4,
     "ratio_recv": -9,
-    "ratio_give": 3,
+    "ratio_give": 2,
     "grade_level": 13.0,
     "word_count": 100
   },
@@ -11718,6 +11802,484 @@ window._comments = [
     "word_count": 14
   },
   {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605250,
+    "top_level": true,
+    "date": "Jan 03 2023 17:16",
+    "likes": 14,
+    "timestamp": 1672784189,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I updated the Slow Boring comment analysis to see what terms are correlated with likes, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report#key-terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The top 5 terms, i.e., those correlated with more likes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* progressive: 7.7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* left: 6.2"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* pronouns: 5.9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* progressives: 5.7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* activists: 5.6"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And the bottom 5"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* maybe: -4.7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* guess: -4.3"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* sure: -4.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* wouldn: -3.5"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* don think: -3.5"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are some nuances to interpreting these results due to how term frequencies are weighted within each comment as detailed in the link. We could roughly interpret these results as: Comments discussing progressive/left issues garner the most likes. In contrast, comments with a degree of uncertainty perform poorly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That link also provides results for some of the other substacks that I subscribe to and the results roughly correspond to my experience of the comments on each."
+        }
+      ]
+    ],
+    "total_children": 31,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": 7,
+    "ratio_give": null,
+    "grade_level": 5.4,
+    "word_count": 126
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605346,
+    "top_level": false,
+    "date": "Jan 03 2023 17:17",
+    "likes": 21,
+    "timestamp": 1672784266,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d also like to congratulate SB subscribers for having the most sophisticated comments among the substacks analyzed. The median US grade levels for comments are:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* slowboring: 9.9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* noahpinion: 9.6"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* freddiedeboer: 9.1"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* commonsense: 7.8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Grade level distribution plots and details in, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report#flesh-kincaid-grade-level-test"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Uses the Flesh-Kincaid test to quantify US grade levels as detailed in that link. To calibrate your perception of these grade levels, here are my comments augmented with the metric as \u201cFK=X\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Results also show that SB has the most sophisticated articles with the median grade levels for each substack:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* slowboring: 10.9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* noahpinion: 10.2"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* freddiedeboer: 9.9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* andrewsullivan: 9.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* commonsense: 8.7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Keep up the good work everyone!"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 11605250,
+    "parent_children": 31,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": -17,
+    "ratio_give": 7,
+    "grade_level": 7.9,
+    "word_count": 106
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605729,
+    "top_level": false,
+    "date": "Jan 03 2023 17:30",
+    "likes": 2,
+    "timestamp": 1672785015,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve used "
+        },
+        {
+          "type": "url",
+          "value": "https://goodcalculators.com/flesch-kincaid-calculator/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11605589,
+    "parent_children": 2,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": -3.1,
+    "word_count": 2
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605696,
+    "top_level": false,
+    "date": "Jan 03 2023 17:28",
+    "likes": 4,
+    "timestamp": 1672784934,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Let me know if you have ideas for what to investigate next."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Planning to do something on comment categorization (i.e., grouping) through algorithmic clustering. Would allow us to learn common topics and how each topic performs in terms of likes. And it could be interesting to contrast the topics discussed on the different substacks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a demonstration of clustering, here is an application applied to SB articles, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/slowboring_article_clusters/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So far I\u2019ve been underwhelmed with the results of applying these methods to comments. Likely due to comments being shorter and therefore being less content to work with. Results aren\u2019t too bad when limited to relatively long, top-level comments. Think I need to experiment with the methods a little more to get something interesting."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": 11605250,
+    "parent_children": 31,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": 6,
+    "ratio_give": -10,
+    "grade_level": 8.5,
+    "word_count": 121
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11610514,
+    "top_level": false,
+    "date": "Jan 03 2023 19:25",
+    "likes": 4,
+    "timestamp": 1672791935,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Did some earlier analysis of comments by subscriber in "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-8ac/comment/6399846"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, I only want to perform analyses that preserve subscriber anonymity. Just concerned that some subscribers might not like to be singled out in this unexpected fashion. Within that earlier thread, I did provide some analysis for individual subscribers that explicitly requested it. For example, David R. guessed that he was the user with most comments and I did confirm that was correct."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11607801,
+    "parent_children": 6,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 9.0,
+    "word_count": 73
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11610004,
+    "top_level": false,
+    "date": "Jan 03 2023 19:13",
+    "likes": 2,
+    "timestamp": 1672791230,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The text processing that I\u2019m using removes apostrophes as part of a simplistic approach of splitting text into terms."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11606274,
+    "parent_children": 1,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.7,
+    "word_count": 19
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605776,
+    "top_level": false,
+    "date": "Jan 03 2023 17:31",
+    "likes": 6,
+    "timestamp": 1672785112,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good idea. I haven\u2019t looked into that and will add this idea to my todo list for these investigations."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11605558,
+    "parent_children": 1,
+    "thread_id": 11605250,
+    "thread_children": 31,
+    "ratio_recv": null,
+    "ratio_give": 4,
+    "grade_level": 7.2,
+    "word_count": 19
+  },
+  {
+    "post_id": 93897135,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11605631,
+    "top_level": false,
+    "date": "Jan 03 2023 17:26",
+    "likes": 11,
+    "timestamp": 1672784793,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Even if Kev eventually prevails, it looks like he\u2019ll be in an incredibly weak position and only have more hell to deal with going forward. From CNN\u2019s Jan 2nd, \u201cMcCarthy commits to key concession in call with frustrated lawmakers but it\u2019s no guarantee he\u2019ll win speakership\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cnn.com/2023/01/01/politics/mccarthy-key-concession-speakership-race/index.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> House GOP leader Kevin McCarthy outlined some of the concessions that he has agreed to in his campaign for speaker on a Sunday evening conference call \u2013 including making it easier to topple the speaker, according to multiple GOP sources on the call. But McCarthy could not say whether he would have the votes for the speakership, even after giving in to some of the right\u2019s most hardline demands."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The California Republican had told his members in Sunday\u2019s call that after weeks of negotiations, he has agreed to a threshold as low as five people to trigger a vote on ousting the speaker at any given time, known as the \u201cmotion to vacate\u201d the speaker\u2019s chair, and pitched it as a \u201ccompromise.\u201d CNN first reported last week that he was supportive of that threshold."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some moderates \u2013 who fear the motion to vacate will be used as constant cudgel over McCarthy\u2019s head \u2013 pushed back and expressed their frustration during the call, sources said."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Couldn\u2019t happen to a nicer spineless weasel. Godspeed on the highway to hell Kev!"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 11604753,
+    "parent_children": 23,
+    "thread_id": 11604753,
+    "thread_children": 23,
+    "ratio_recv": 3,
+    "ratio_give": 0,
+    "grade_level": 11.7,
+    "word_count": 221
+  },
+  {
     "post_id": 53053394,
     "title": "Do investor-owned single-family homes cause drug overdoses? ",
     "canonical_url": "https://www.slowboring.com/p/do-investor-owned-single-family-homes",
@@ -14998,6 +15560,216 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 157
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11587693,
+    "top_level": true,
+    "date": "Jan 03 2023 07:06",
+    "likes": 21,
+    "timestamp": 1672747560,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The fallacious connection between economic hardship and inequality is misleading and counterproductive to addressing these hardships. I.e., the reason that so many have too little is because a few have too much. Particularly when inequality only focuses on the wealthiest."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think we are led astray due to 1) a focus on dollars and 2) not differentiating between income and wealth; one being a rate and the other being a quantity. I.e., dollars/year vs. cumulative dollars. We should instead focus on tangible resources such as land, labor, and commodities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If we took everything that billionaires consume\u2014including their consumption of shelter by living in mansions and yachts\u2014and reappropriated that to society's neediest, we\u2019d barely make a dent in their standard of living. There just aren\u2019t that many billionaires and their aggregate consumption is miniscule with respect to the tens of millions of low-income Americans."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If we expand inequality to include the top 10% or 20% of households, then we can start to see some significant tangible resource consumption that could be redistributed to address economic hardship. We can, and should, take a Western-European approach to restructuring our economy to increase public services at the expense of private consumption through higher progressive taxes. Particularly we need a labor restructuring; fewer bartenders and personal trainers, more childcare workers and primary care physicians."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But we can also address economic hardship through productivity growth. Afterall, our redistribution efforts will always be limited by the goods and services that we are actually capable of producing. If we improve productivity through technological advancement and targeted education, then we\u2019ll simply be capable of generating far more goods and services. And we\u2019ll get less political pushback due to a lower tax burden. Ideally everyone\u2019s consumption can grow."
+        }
+      ]
+    ],
+    "total_children": 39,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11587693,
+    "thread_children": 39,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 288
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11592362,
+    "top_level": false,
+    "date": "Jan 03 2023 10:35",
+    "likes": 13,
+    "timestamp": 1672760117,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Checkout Yglesias's Oct 2021 interview of Kathryn Paige Harden that covers her relevant research and book, \"The Genetic Lottery\".  This fragment of her answer to a question seems particularly relevant."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> When people think about genetics, they so often think about it purely in the vein that we've been talking about it so far, which is how are parents like their kids, right? How are kids like their parents? But half of the genetic variability is within families. Right. Genetics is also about difference and the way that differences play out. How are my kids different from me, how are my kids different from one another? And so, you know, often when people kind of back up to a very strong you know, \u201cthere is no way that genetics influences something like education or intelligence or personality.\u201d I really am like, have you ever spent time with children before? Like, have you been around them? Because I think if you are around them, particularly if you're around, you know, siblings or cousins, you have this front row seat to see how genetic difference plays out, very early in development. Like my children as infants felt very, very different to me in terms of their temperament. And then also like what they elicited from me in terms of my maternal behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Transcript, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Audio, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/kathryn-paige-harden-on-the-genetic"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11589431,
+    "parent_children": 10,
+    "thread_id": 11587693,
+    "thread_children": 39,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.7,
+    "word_count": 221
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11588032,
+    "top_level": true,
+    "date": "Jan 03 2023 07:30",
+    "likes": 8,
+    "timestamp": 1672749048,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  Instead, the Reagan administration\u2019s policies led to stagnant average wages through the 1980s, with household incomes rising only because of women\u2019s increased labor force participation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Did Reaganism cause this? Specifically, I don\u2019t think he ever succeeded in cutting government spending on welfare. Reagan just cut taxes and funded the massive deficit through debt financing. If anything, that should\u2019ve been a large economic stimulus, although it may have only stimulated suboptimal parts of the economy. E.g., finance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, looking at the growth in Real Disposable Personal Income, it looks like the slowdown started in the 70s, following a boom in the 60s, "
+        },
+        {
+          "type": "url",
+          "value": "https://fred.stlouisfed.org/series/A067RL1A156NBEA"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It could be argued that the failure was in not continuing the expansion of the welfare state though continuation of initiatives like the New Deal and Great Society. But there also were many broad changes in the economy due to technology and globalization. War-torn Europe and Japan had recovered and entered the world markets with innovative and superior products. Information technologies started automating aspects of production and administration, which increased productivity by capital-labor substitution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In many ways, I think the post-war era up through the 60s was the exception. We were in an unusual environment with America as the sole industrial power and that is not something that we can recreate. We also still had a primitive production system that required massive quantities of unskilled labor. The world has changed, largely for the better in my opinion, and we need to consider that in analyzing historical developments."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11588032,
+    "thread_children": 6,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 248
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11588372,
+    "top_level": true,
+    "date": "Jan 03 2023 07:50",
+    "likes": 1,
+    "timestamp": 1672750203,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This good news for low-income workers is easy to miss."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve struggled with how we should leverage this politically due to the short term decline for the median earner and above. Yes, we should be able to celebrate the substantial gains for society's poorest. But I worry about any framing that connects that to some pain for the median voter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That just seems like something ripe for Republican weaponization and could create more general headwinds for the future. If the median voters come to believe that economic advancement for society\u2019s neediest requires their own sacrifice then I imagine they\u2019ll generally reject efforts at alleviating poverty."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11588372,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 105
   },
   {
     "post_id": 90017925,
