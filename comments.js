@@ -1855,6 +1855,224 @@ window._comments = [
     "word_count": 164
   },
   {
+    "post_id": 94483917,
+    "title": "In defense of \"The West Wing\"",
+    "canonical_url": "https://www.slowboring.com/p/in-defense-of-the-west-wing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11752579,
+    "top_level": true,
+    "date": "Jan 09 2023 06:37",
+    "likes": 36,
+    "timestamp": 1673264237,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  it rapidly became an article of faith in the Berniesphere that Sanders himself was wrong about this and the West Wing fandom in fact represented everything that was corrupt and bad about the Democratic Party"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this faith results from the enticing simplicity of the corruption theory as well as its congruence with our intuition about human affairs. Our brains evolved in an environment consisting of small tribes where a few people could have a significant impact. We therefore naturally want to identify the key actors and their motives that conflict with our goals when society doesn\u2019t function as we desire."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence these conspiracy theories have an intrinsic advantage in the \u201cmarketplace of ideas.\u201d In contrast, the failings of well-intentioned bureaucrats requires understanding the management structure and incentives of complex, non-intuitive institutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, we struggle to comprehend the diverse interests and sincere beliefs of our country\u2019s legislative representatives and their ever-shifting alliances. It\u2019s hard enough for us to understand how individual people can have radically different models of reality than ourselves, yet alone project that onto large groups of people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So we fall back on simple narratives centered on a few corrupt villains."
+        }
+      ]
+    ],
+    "total_children": 37,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11752579,
+    "thread_children": 37,
+    "ratio_recv": -15,
+    "ratio_give": null,
+    "grade_level": 13.9,
+    "word_count": 194
+  },
+  {
+    "post_id": 94483917,
+    "title": "In defense of \"The West Wing\"",
+    "canonical_url": "https://www.slowboring.com/p/in-defense-of-the-west-wing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11757750,
+    "top_level": false,
+    "date": "Jan 09 2023 10:37",
+    "likes": 7,
+    "timestamp": 1673278650,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll admit that evolutionary theory is likely insufficient to fully explain our draw to the simple explanations of villains."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also agree that historical factors matter. That includes leaders being rewarded or penalized for their delivery of tangible results or failure to do so, respectively. Or at least the appearance of doing so from the perspective of voters. E.g., I partially explain Reagan's blowout victory in the 1984 election due to the end of inflation and the improving economy, even if he might not deserve much credit."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I mainly find such evolutionary psychology hypotheses useful in helping us to accept our frequent encounter with other people who are captivated by simple, conspiratorial explanations. I myself find it quite frustrating to frequently encounter these false narratives online (occasionally even in SB comments). I find that I can better manage my irritation and resist the urge to respond with a correction when I accept the enticement of such simple stories of villains."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The theory is also useful in getting me to challenge my own simple explanations based around a few bad actors."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11756008,
+    "parent_children": 11,
+    "thread_id": 11752579,
+    "thread_children": 37,
+    "ratio_recv": -4,
+    "ratio_give": 2,
+    "grade_level": 12.3,
+    "word_count": 180
+  },
+  {
+    "post_id": 94483917,
+    "title": "In defense of \"The West Wing\"",
+    "canonical_url": "https://www.slowboring.com/p/in-defense-of-the-west-wing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11752966,
+    "top_level": false,
+    "date": "Jan 09 2023 07:11",
+    "likes": 6,
+    "timestamp": 1673266269,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'd also like an article. Found this earlier SB snippet in "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-bad-vibes-of-american-political"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But the American vice presidency is an infamously weird job. The VP has no real area of responsibility, so allocating the VP post to someone doesn\u2019t give them any policy wins. At the same time, the VP\u2019s role is extremely important because presidents really do die in office sometimes. The United States\u2019 singular national unity experiment ended disastrously for precisely this reason. In 1864, Abraham Lincoln thought it would be smart to put pro-war Democrat Andrew Johnson on the ticket to maximize political support for the overwhelmingly important cause of defeating the Confederacy. Then, tragically, Lincoln was murdered."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Instead of Reconstruction being led by Lincoln \u2014 who generally tried to temper Radical Republican ideas with political pragmatism \u2014 it was led by Johnson, who had completely different and terrible policy ideas."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11752820,
+    "parent_children": 2,
+    "thread_id": 11752759,
+    "thread_children": 9,
+    "ratio_recv": -2,
+    "ratio_give": -5,
+    "grade_level": 12.5,
+    "word_count": 140
+  },
+  {
+    "post_id": 94483917,
+    "title": "In defense of \"The West Wing\"",
+    "canonical_url": "https://www.slowboring.com/p/in-defense-of-the-west-wing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11753014,
+    "top_level": false,
+    "date": "Jan 09 2023 07:15",
+    "likes": 4,
+    "timestamp": 1673266503,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Found a longer discussion of reconstruction and Johnson in a mailbag answer, including the counterfactual in which Hamlin was kept as VP, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/spooky-mailbag"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> First off, while Radical Reconstruction was ultimately abandoned and thus in some sense \u201cfailed,\u201d it\u2019s important in Slow Boring terms to say that it didn\u2019t backfire and somehow leave the cause of civil rights worse off than it was under Andrew Johnson\u2019s policies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Second, looking back on the politics of the 1870s and 1880s, it seems to me that Reconstruction was in fact the most important issue of the day. I\u2019ve often criticized Biden-era Democrats for not setting priorities in a clear or reasonable way. But it was totally reasonable for the Grant administration to prioritize Reconstruction over pursuing GOP goals on the tariff or whatever else they were up to. So in a narrow sense, I don\u2019t think the Radical Republicans did anything wrong."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In a broader sense, though, they didn\u2019t actually accomplish what they set out to accomplish, so there is an interesting question of how things could have turned out differently."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Academic historians don\u2019t like to formally consider counterfactuals, which I think is unfortunate. But one way of putting the \u201cold\u201d view of Reconstruction is that it was always doomed to fail for some racist reason \u2014 freedmen were incapable of self-government or peaceful coexistence of people from different racial groups was impossible \u2014 so the Radicals were foolish to try and only caused harm. I think the \u201cnew\u201d view tends to be equally fatalistic, just putting the blame on racism \u2014 white supremacist ideology was too deeply ingrained in American civic culture \u2014 and holds up the Radicals as noble (albeit doomed) heroes. But I do wonder about contingency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> One scenario to consider is what would\u2019ve happened if Abraham Lincoln hadn\u2019t dumped Hannibal Hamlin from the ticket in 1864 in favor of Jackson the War Democrat. In the original 1860 GOP ticket, Lincoln was the midwestern moderate and Hamlin was there to provide representation to the more hardline faction of the party. Lincoln swapped Hamlin for Johnson to help secure re-election, but in the end the 1864 election wasn\u2019t very close. The Lincoln-Hamlin ticket maybe wins a bit more narrowly but they still win. And now instead of Lincoln\u2019s assassination bringing to power a white supremacist Democrat, it puts a Radical in office at a time when the military is still publicly mobilized and the population is primed for vengeance. I think a Hamlin-led Reconstruction would have been much harsher from the outset, potentially featuring things like real land reform that could have led to a durable Reconstruction order."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The other is that as best as I can tell, GOP political fortunes were dealt a heavy blow both in the 1874 midterms (where Democrats gained the House majority) and in 1876 by the fallout from an economic crisis known as the Panic of 1873. The quality of economic data from this era is not great, but Andrew Jalil\u2019s paper on the history of American banking crises suggests it kicked off a pretty serious recession. Could this have been prevented? I don\u2019t know \u2014 historians seem a little uncertain as to why the panic happened at all. But Grant did veto a controversial piece of legislation in 1874 known as the Inflation Bill and the economy instead experienced deflation. Perhaps if they\u2019d given it a better name like the American Recovery and Reinvestment Act, Grant would have signed it, the economy would have prospered, and the Reconstruction coalition would have stayed in place longer."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11752966,
+    "parent_children": 1,
+    "thread_id": 11752759,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 12.4,
+    "word_count": 584
+  },
+  {
     "post_id": 57532707,
     "title": "Russia's war on the world's food supply",
     "canonical_url": "https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply",
@@ -3300,7 +3518,7 @@ window._comments = [
     "id": 11630924,
     "top_level": false,
     "date": "Jan 04 2023 10:30",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1672846258,
     "body": [
       [
@@ -3328,13 +3546,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 11626655,
-    "parent_children": 81,
+    "parent_children": 89,
     "thread_id": 11626655,
-    "thread_children": 81,
-    "ratio_recv": -7,
-    "ratio_give": 1,
+    "thread_children": 89,
+    "ratio_recv": -9,
+    "ratio_give": 3,
     "grade_level": 10.3,
     "word_count": 235
   },
@@ -3366,9 +3584,9 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 11631136,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 11626655,
-    "thread_children": 81,
+    "thread_children": 89,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 8.2,
@@ -4106,6 +4324,160 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 8.6,
     "word_count": 50
+  },
+  {
+    "post_id": 94305150,
+    "title": "American transit agencies should prioritize ridership over other goals",
+    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11653429,
+    "top_level": true,
+    "date": "Jan 05 2023 06:55",
+    "likes": 47,
+    "timestamp": 1672919758,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And importantly, telling agencies to try to hit a half-dozen different goals \u2026 doesn\u2019t ensure that all those things will be done simultaneously. What it ensures is that, with no principled way to evaluate projects or say no to things, costs explode."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The cynic in me wants to believe that agency leaders would like to avoid a simple and objective measure of performance. If they are solely evaluated by ridership/dollar-spent then they could fail to improve on that metric and be charged with bad decision making. In contrast, if they claim to be balancing numerous unquantifiable objectives, then it\u2019s much harder to criticize their performance. For example, if we point out the low ridership volume then they can point to their progress in expanding access and creating good paying jobs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I think there is a general tendency for all leaders and workers to resist objective evaluation. For example, I've seen this criticism applied to the anti-testing movement in education where it is alleged that poor teachers simply want to evade detection."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve also seen this aversion to performance evaluation within the tech industry, particularly within discussions on the tech forum Hacker News. While there are many poor approaches to measuring software developer performance (e.g., lines of code count), there still need to be some objective evaluation. Quality measures can include annual peer review using a rubric of dimensions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet there is commonly fierce objection to any evaluation of software engineers within such discussions. Numerous excuses are given for any proposal, while no alternatives are offered. It seems software engineering is conceived as some impalpable art that cannot be evaluated, even by fellow artists. And this extends to strategies and criteria for interviewing prospective engineers. All commonly used methods, such as whiterboarding code exercises, are castigated as inadequate to measure the intangible brilliance and abilities of engineers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just think we all have some natural aversion to being evaluated for fear of failure. Therefore our institutions, both public and private, need to be designed to counteract that tendency."
+        }
+      ]
+    ],
+    "total_children": 42,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11653429,
+    "thread_children": 42,
+    "ratio_recv": -32,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 337
+  },
+  {
+    "post_id": 94305150,
+    "title": "American transit agencies should prioritize ridership over other goals",
+    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11657817,
+    "top_level": false,
+    "date": "Jan 05 2023 10:30",
+    "likes": 5,
+    "timestamp": 1672932649,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a former manager, I\u2019ve spent a lot of time on rubrics for peer review of technical workers. Here\u2019s a recent article from Gergely Orosz about the topic that I generally agree with, \u201cPerformance Reviews for Software Developers\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Off the top of my head, here are some dimensions I\u2019ve commonly seen used"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Technical Skills - At each Eng level, what are the expected capabilities?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Impact - What degree of contribution is expected for each level?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Mentorship - For higher levels, the mentorship responsibilities"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Leadership - Again, higher levels, the degree that they should drive the team and interact with other teams"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Collaboration - How well do they help other people get stuff done?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Interview - For higher levels, how involved should they be in interviewing? How well are their decisions calibrated against other interviewers for the same candidates?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For each dimension, an engineer will be ranked on a scale of 0-5. The rubric will include criteria and examples for each score."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On an annual basis, each team member will review other team members as assigned by their manager. Only the manager sees the results of each review and they combine multiple reviews to create an aggregated performance evaluation. That can then be shared with the team member to learn how well they are performing against expectations and their progress towards promotion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While never perfect, the rubric is regularly revised in an iterative process using feedback from all team members. The result is a clear description of expectations and current performance for all members on the team."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11654726,
+    "parent_children": 9,
+    "thread_id": 11653429,
+    "thread_children": 42,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 10.8,
+    "word_count": 250
   },
   {
     "post_id": 70330779,
@@ -5653,6 +6025,148 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 13.2,
     "word_count": 135
+  },
+  {
+    "post_id": 94530532,
+    "title": "First mailbag of 2023",
+    "canonical_url": "https://www.slowboring.com/p/first-mailbag-of-2023",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11680819,
+    "top_level": true,
+    "date": "Jan 06 2023 06:47",
+    "likes": 18,
+    "timestamp": 1673005648,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> How do you criticize someone\u2019s work in a way that makes them want to improve it rather than give up or make them think you\u2019re an asshole? I have no idea. I can barely make small talk at a party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m surprised that delivering critical feedback is framed as an unsolvable problem or something that people just have a natural talent for because there has been mountains of writing on the topic. Further, critiquing someone's work is generally much easier than having to deliver feedback on something like behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve found two principles helpful for critiquing work"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Feedback should be immediate and specific"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Don\u2019t forget positive feedback"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Immediacy ensures that the work is still top of mind. Waiting a day or two can reduce the connection to the work and the actions taken in its creation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For writing, specificity entails comments on individual paragraphs, sentences, or even word choices. Ideally, alternatives can be suggested to demonstrate the suggestion. E.g., here\u2019s how this sentence could be tightened up. Feedback can also include suggestions about the order of information. But again be specific. Rather than saying it flows poorly, suggest how you\u2019d reorder the document. This level of review takes time and it\u2019s worth it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Positive feedback is in my opinion more important than critical feedback. Not because it makes the recipient feel good\u2014that is a nice side effect\u2014but because it lets them know their strengths. For example, if their writing is clear and concise, then they needn\u2019t focus much on tightening up their sentences, and should instead focus on other areas. And it also needs to be specific. Just saying \u201cgood article\u201d is useless. Positive feedback also builds the expectation of feedback and makes it easier to deliver and receive critical critique."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For more on this topic, I\u2019d recommend Auren Hoffman\u2019s, \u201cWhy Specific Positive Feedback is So Important\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://summation.net/2020/02/19/why-specific-positive-feedback-is-so-important/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Auren was the CEO of a tech company that I worked for and he ensured this principle permeated the culture. That had a notable impact on how we helped each other deliver solid work and grow in capabilities. It also made it easier to deliver critical critique since we had a general culture of expecting feedback."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11680819,
+    "thread_children": 6,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 9.5,
+    "word_count": 363
+  },
+  {
+    "post_id": 94530532,
+    "title": "First mailbag of 2023",
+    "canonical_url": "https://www.slowboring.com/p/first-mailbag-of-2023",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11681089,
+    "top_level": true,
+    "date": "Jan 06 2023 07:12",
+    "likes": 10,
+    "timestamp": 1673007138,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This [managing] kind of thing gave me constant stress in a bad way \u2014 sleeplessness, difficulty relaxing during non-work times, etc. \u2014 and I have a really hard time seeing how I\u2019d ever get much better at it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this is a common challenge of being a manager\u2014particularly when one starts the role\u2014due to the lack of constraints in terms of work expectations. The nature of the role ensures we are constantly learning of new problems and have to add these to our infinitely growing backlog. There is always more that a manager could do."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To address that, I was advised to triage and prioritize each issue in terms of two dimensions: urgency and importance. Particularly, the need to identify urgent, yet unimportant issues. Due to the time-sensitive nature, it is tempting to try to address these. That can result in insufficient time devoted to important, yet non-urgent issues. Instead, those unimportant problems need to be quickly rejected."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, a manager might be invited to meetings or asked to review documents about stuff that is only tangentially related to their team's work. Those need to be quickly rejected with a simple explanation about being out of scope. That opens time for important, yet non-urgent issues, like deep-thinking on feedback for reports."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, working with people is inherently imperfectible so many problems are never finally solved; they are at best minimized to be tolerable. At some level, I think it just takes time to accept that."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11681089,
+    "thread_children": 3,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 9.6,
+    "word_count": 245
   },
   {
     "post_id": 70000534,
@@ -17915,6 +18429,58 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 97
+  },
+  {
+    "post_id": 95329035,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-183",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11768526,
+    "top_level": true,
+    "date": "Jan 09 2023 17:11",
+    "likes": 7,
+    "timestamp": 1673302264,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What do you make of Democratic Governor Polis copying DeSantis and Abbott in shipping migrants to other states? I had a good impression of him and can\u2019t figure out why his government is taking this approach."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From \u201cColorado plans to send more migrants to New York\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.politico.com/news/2023/01/03/colorado-migrants-new-york-00076115"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> NEW YORK \u2014 Colorado Gov. Jared Polis plans to send migrants to major cities including New York, Mayor Eric Adams said Tuesday, warning that the nation\u2019s largest city is already struggling to deal an influx of people sent from Texas and other Republican-led states."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cWe were notified yesterday that the governor of Colorado is now stating that they are going to be sending migrants to places like New York and Chicago,\u201d Adams said during a radio appearance. \u201cThis is just unfair for local governments to have to take on this national obligation.\u201d"
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11768526,
+    "thread_children": 15,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 11.0,
+    "word_count": 137
   },
   {
     "post_id": 85962904,
