@@ -1864,7 +1864,7 @@ window._comments = [
     "id": 11752579,
     "top_level": true,
     "date": "Jan 09 2023 06:37",
-    "likes": 36,
+    "likes": 41,
     "timestamp": 1673264237,
     "body": [
       [
@@ -1898,12 +1898,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 37,
+    "total_children": 38,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11752579,
-    "thread_children": 37,
-    "ratio_recv": -15,
+    "thread_children": 38,
+    "ratio_recv": -17,
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 194
@@ -1950,9 +1950,9 @@ window._comments = [
     "parent_id": 11756008,
     "parent_children": 11,
     "thread_id": 11752579,
-    "thread_children": 37,
+    "thread_children": 38,
     "ratio_recv": -4,
-    "ratio_give": 2,
+    "ratio_give": 1,
     "grade_level": 12.3,
     "word_count": 180
   },
@@ -1998,7 +1998,7 @@ window._comments = [
     "thread_id": 11752759,
     "thread_children": 9,
     "ratio_recv": -2,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 140
   },
@@ -14274,6 +14274,116 @@ window._comments = [
     "word_count": 132
   },
   {
+    "post_id": 95908052,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-54c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11853834,
+    "top_level": true,
+    "date": "Jan 12 2023 17:25",
+    "likes": 4,
+    "timestamp": 1673562315,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exciting new Substack author, indicted fraudsters SBF, "
+        },
+        {
+          "type": "url",
+          "value": "https://sambf.substack.com/p/ftx-pre-mortem-overview"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If FTX had been given a few weeks to raise the necessary liquidity, I believe it would have been able to make customers substantially whole.  I didn\u2019t realize at the time that Sullivan & Cromwell\u2014via pressure to instate Mr. Ray and file Chapter 11, including for solvent companies like FTX US\u2013would potentially quash those efforts.  I still think that, if FTX International were to reboot today, there would be a real possibility of making customers substantially whole. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I had been planning to give my first substantive account of what happened in testimony to the US House Financial Services Committee on December 13th.  Unfortunately, the DOJ moved to arrest me the night before, preempting my testimony with an entirely different news cycle.  For what it\u2019s worth, a draft of the testimony I planned to give leaked out here."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I have a lot more to say\u2013about why Alameda failed to hedge, what happened with FTX US, what led to the Chapter 11 process, S&C, and more.  But at least this is a start."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Really takes tweeting through it to a whole new level."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11853834,
+    "thread_children": 8,
+    "ratio_recv": 4,
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 187
+  },
+  {
+    "post_id": 95908052,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-54c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11853990,
+    "top_level": false,
+    "date": "Jan 12 2023 17:31",
+    "likes": 6,
+    "timestamp": 1673562693,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And of course Matt Levine is a subscriber, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2023-01-12/jpmorgan-says-frank-was-fraud"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Sam Bankman-Fried has a Substack? I have subscribed. There is a widespread consensus, particularly among criminal defense lawyers, that Bankman-Fried should stop talking and tweeting and blogging, but I kind of don\u2019t see how this hurts. His only real hope of avoiding many years in prison is to convince people that he did not steal money from FTX\u2019s customers, but rather that he ran a leveraged financial institution that ineptly but innocently ran into trouble. This will be very hard to do! But I am not sure it is impossible. The task, really, is to lay out a reasonable-seeming story of how FTX\u2019s innocent choices led to its insolvency. Eventually he has to do that to a jury, but why not get some practice on Substack?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Levine gives a good summary of the SBF\u2019s most recent story and how it factors into the criminal charges."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Still I guess it is sort of a defense? The defense is: \u201cAlameda had assets, those assets had market values, I thought those values were real, I thought they were hedged, and the market moved against them. Sure you might think that Alameda\u2019s assets were worthless magic beans, and that\u2019s how it turned out, but at the time I was a naive believer, so I thought it was fine to lend money against them.\u201d This is not a great story, but it\u2019s a lot better than \u201cI just stole the money,\u201d and it seems to be what he is going with."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 11853834,
+    "parent_children": 8,
+    "thread_id": 11853834,
+    "thread_children": 8,
+    "ratio_recv": 1,
+    "ratio_give": 2,
+    "grade_level": 7.4,
+    "word_count": 254
+  },
+  {
     "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
@@ -16558,6 +16668,338 @@ window._comments = [
     "word_count": 91
   },
   {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11864532,
+    "top_level": true,
+    "date": "Jan 13 2023 06:30",
+    "likes": 30,
+    "timestamp": 1673609446,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  But even if you think my monetary policy takes are bad, I don\u2019t think you can explain the disagreement by saying \u201chey, this guy hasn\u2019t gone to grad school.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly agree. Particularly, I think the comments are a great place for subject-matter experts (or even hobbyists) to provide more details, critiques, and alternative thoughts. I think a lot of us value the broad, generalist coverage combined with insightful discussions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, the bond article quickly had comments pointing out issues with math and terminology. We didn\u2019t even need Matt Levine to weigh in, although I did appreciate him devoting a segment of his column to exploring the math and legalism of this idea in detail from an expert perspective in, \u201cMint the premium bonds!\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling"
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11864532,
+    "thread_children": 13,
+    "ratio_recv": -20,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 125
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11864606,
+    "top_level": false,
+    "date": "Jan 13 2023 06:36",
+    "likes": 8,
+    "timestamp": 1673609780,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d particularly appreciate such subscriber critiques of NGDP targeting because I also get the impression that this approach is strongly favored by macroeconomic academics that I respect. As a layperson, I can't describe the counterarguments well and wish that I could."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fed Chair Jerome Powell weighed in on this in Oct 2022 and I didn\u2019t find his rebuff that persuasive. Particularly the following statement, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We\u2019ve got a dual mandate\u2014maximum employment and price stability\u2014and it comes down to: Is nominal income [GDP] targeting the best way to promote that? We don\u2019t think it is; I don\u2019t think it is. And part of that is that it would be very difficult, I think, to explain to the public the relationship between a nominal income target (nominal GDP target) to those goals. It\u2019s just \u2026 a level of complexity that even some economists and policymakers struggle with, let alone the general public. So, it seems like it would be a reach to have that be our fundamental framework."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think the general public understands much at all about monetary policy and NGDP targeting could simply be abstracted away as one of the mechanisms used by the Fed to achieve its current goals of price stability and maximizing employment. Almost none of us understand the current mechanisms\u2014e.g., quantitative easing/tightening and facilities like reverse repo\u2014and that hasn\u2019t stopped the Fed from using these powerful tools."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cato.org/blog/case-nominal-gdp-targeting-reply-fed-chair-powell"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11864532,
+    "parent_children": 13,
+    "thread_id": 11864532,
+    "thread_children": 13,
+    "ratio_recv": 5,
+    "ratio_give": -22,
+    "grade_level": 11.5,
+    "word_count": 232
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11865024,
+    "top_level": false,
+    "date": "Jan 13 2023 07:07",
+    "likes": 5,
+    "timestamp": 1673611655,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an economist, what do you think are the strongest arguments against NGDP targeting? "
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 11864752,
+    "parent_children": 28,
+    "thread_id": 11864752,
+    "thread_children": 28,
+    "ratio_recv": -1,
+    "ratio_give": -6,
+    "grade_level": 7.6,
+    "word_count": 14
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11871190,
+    "top_level": false,
+    "date": "Jan 13 2023 10:51",
+    "likes": 0,
+    "timestamp": 1673625102,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you! I appreciate your expert insights in this clear and concise answer as I attempt to better understand this macroeconomic policy area."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If I have time after work, I\u2019ll try to write a longer response about how that fits into my understanding, but please don\u2019t feel any obligation to further engage since we\u2019re all quite busy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that some degree of output estimation is necessary for our current Fed policy because they don\u2019t want to overreact to short-term, rapid price swings. In other words, they want to \u201csee through transient disruptions.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t reference the Fed\u2019s former language in a derogatory manner because I do believe they were correct to not overreact to the chaos of the pandemic. There was tons of uncertainty and on average more harm would be done from hasty action. I\u2019ve seen the argument that NGDP targeting could\u2019ve led to a slightly faster reaction, but even that comes down to nuances of implementation and policy maker\u2019s judgment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Currently, I\u2019m not personally convinced any policy framework change is needed. And I can understand the Fed deferring even discussing future changes until the economy has normalized."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11869177,
+    "parent_children": 10,
+    "thread_id": 11864752,
+    "thread_children": 28,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 10.4,
+    "word_count": 191
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11864976,
+    "top_level": true,
+    "date": "Jan 13 2023 07:04",
+    "likes": 10,
+    "timestamp": 1673611474,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But a big theme of Slow Boring is that the fight to preserve democracy needs to include more willingness to pander to the actually existing views of the public and a bit less cultural avant-gardism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Excellent distillation of this common theme on Slow Boring. I personally struggle with this tradeoff between liberalism and democracy, and I imagine others do as well. The contrast with the Middle East makes the issue particularly poignant."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The American far-right's flirtation with anti-democratic ideas is at times more frightening than their illiberal ones. Notably Peter Thiel\u2019s belief that democracy and freedom are incompatible, and he supports freedom; freedom defined in a radical libertarian way."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At times I\u2019m tempted to accept some federalist or localist approaches to resolving our differences. Afterall, we are a highly pluralistic country with a diverse set of values and goals. Maybe that would allow us to stop fighting about some stuff and just agree to disagree."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If letting states and cities take highly differentiated approaches to issues like education allows us to resolve our political hostilities on these issues, then that might be a palatable solution. I could even begrudgingly accept \u201cschool choice\u201d proposals, including vouchers valid for private religious schools. Parents care a ton about their children's upbringing and I could see value in ending these culture war fights if parents can be satisfied by choosing from multiple options."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I don\u2019t like this, continuing to fight about these deeply-believed issues at the national level may present worse risks when one side feels that they are losing due to the democratic outcome."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And we liberals might once again be one the losing side one day."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11864976,
+    "thread_children": 5,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 275
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11865274,
+    "top_level": false,
+    "date": "Jan 13 2023 07:23",
+    "likes": 17,
+    "timestamp": 1673612607,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We sort of tried that in the Cold War in supporting authoritarian regimes that were at least aligned with our interests. Notably, propping up the Shah in Iran. That commonly ended poorly when the people found the government illegitimate. Eg, the 1979 Iranian Revolution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At the end of the day, government by the people and for the people seems to be the only stable solution. Likely because this allows regular mini revolutions where the people can change their leadership as their desires and beliefs evolve."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Liberalism doesn\u2019t seem to be something that you can force on people. If anything, attempting to do so is a contradiction since liberalism is centered around individual autonomy and pluralism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And in general, I think few regimes have succeeded in forcing any beliefs on people. At most they can jail or execute dissidents, leaving just people that appear to believe. That eventually fails when people act on their actual beliefs through a revolution."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11864735,
+    "parent_children": 25,
+    "thread_id": 11864735,
+    "thread_children": 25,
+    "ratio_recv": -16,
+    "ratio_give": 15,
+    "grade_level": 8.9,
+    "word_count": 158
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11871650,
+    "top_level": false,
+    "date": "Jan 13 2023 11:06",
+    "likes": 3,
+    "timestamp": 1673626005,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To some extent, they may progress together. America was neither particularly liberal nor democratic at the time of founding by modern standards. As our collective thinking and beliefs evolved, we improved on both dimensions."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 11869375,
+    "parent_children": 5,
+    "thread_id": 11864735,
+    "thread_children": 25,
+    "ratio_recv": 2,
+    "ratio_give": -2,
+    "grade_level": 8.9,
+    "word_count": 34
+  },
+  {
     "post_id": 57340427,
     "title": "Two cheers for American higher education ",
     "canonical_url": "https://www.slowboring.com/p/two-cheers-for-american-higher-education",
@@ -16832,6 +17274,74 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 364
+  },
+  {
+    "post_id": 95558932,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-f4f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11824370,
+    "top_level": true,
+    "date": "Jan 11 2023 17:03",
+    "likes": 15,
+    "timestamp": 1673474585,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Matt Levine not only corrected Yglesias\u2019s bond math on twitter today, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/matt_levine/status/1613148918530904066"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He also devoted a section of his column today to consider this debt ceiling approach in, \u201cMint the premium bonds!\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2023-01-11/financial-engineering-the-debt-ceiling"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The dumbest thing in economics, the US government\u2019s debt ceiling, is clattering into relevance again. Basically the US Department of the Treasury has to pay the US government\u2019s bills, and to do that it issues debt, and every time it issues new debt it adds a little to the total amount of debt outstanding, and eventually the debt outstanding reaches some arbitrary number called the \u201cdebt ceiling.\u201d And then Treasury can\u2019t issue any more debt, unless Congress raises the debt ceiling. Which it can easily do \u2014 it\u2019s just an arbitrary number! \u2014 but Republicans in Congress keep threatening not to, and if that happens then the government can\u2019t pay its bills and defaults on its obligations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But there is a real risk that Congress won\u2019t, so today Bloomberg Opinion contributor Matt Yglesias has a Substack column arguing that Treasury should solve the problem of the debt ceiling using premium bonds. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Levine goes into a lot of details of legal stuff and some bond math. The conclusion,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Anyway as a matter of financial engineering I find this fun to think about. As an actual thing for the US Treasury to do, I think it is obviously very bad; the US Treasury market, perhaps the most important financial market in the world, should not be run on accounting gimmicks. Actually doing this would be terrible! On the other hand the US Treasury market, perhaps the most important financial market in the world, should not default, either. Issuing premium bonds would be bad, but the alternatives are mostly worse, so it\u2019s worth being ready to do it."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11824370,
+    "thread_children": 5,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 294
   },
   {
     "post_id": 90417774,
@@ -18195,6 +18705,228 @@ window._comments = [
     "word_count": 265
   },
   {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11807316,
+    "top_level": true,
+    "date": "Jan 11 2023 06:44",
+    "likes": 20,
+    "timestamp": 1673437452,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We should challenge the constitutionality of the debt ceiling to prevent future shenanigans and prepare a platinum coin fail-safe to assuage the financial markets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Section4, \u201c Validity of public debt\u201d in the 14th amendment states, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Numerous constitutional law experts and politicians have made the argument that the debt ceiling violates this part of the constitution as explained in that Wikipedia section. There are certainly nuances beyond my legal comprehension, including how the debt ceiling was introduced to avoid congressional authorization of individual treasuries issuances, so I can\u2019t speculate on how this could play out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, there is the more general constitutional question of what should the Executive do when Congress passes contradictory legislation. E.g., mandating spending without authorizing sufficient funds, either through taxes or debt issuance authorization. It could be argued that the Executive has discretion in resolving this contradiction, including ignoring the debt ceiling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To safeguard against global financial meltdown in the event of a suicidal judiciary decision, we can prepare and pre-annonunce a platinum coin fallback. In the event of an injunction barring new treasuries issuance beyond the debt ceiling, then we\u2019ll simply purchase existing government debt from the Fed using a platinum coin and then retire those treasuries, thereby putting us back under the limit. Both the Treasury and the Fed will be standing by, ready to take these actions at a moment's notice."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution#Section_4:_Validity_of_public_debt"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 27,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11807316,
+    "thread_children": 27,
+    "ratio_recv": -16,
+    "ratio_give": null,
+    "grade_level": 13.9,
+    "word_count": 265
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11807625,
+    "top_level": true,
+    "date": "Jan 11 2023 07:08",
+    "likes": 9,
+    "timestamp": 1673438933,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think we should underestimate just how poorly a debt ceiling crisis could go. This is not a government shutdown. Instead, financial markets could go thermonuclear should the Treasury be forced to default on the safest financial asset in the world; the bedrock asset of our entire financial system. And we could trigger that meltdown even before an actual default as financial market participants position themselves for a potential default."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We already see signs of this repositioning as Tracy Alloway explained yesterday in, \u201cThe Bond Market Is Already Worrying About a Debt-Ceiling Debacle\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-10/the-bond-market-is-already-worrying-about-a-debt-ceiling-debacle"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And while much of the concern in the market is \u2014 just like the discussion in D.C. itself \u2014 so far mostly just talk, there are some early signs of traders prepping for the possibility of a standoff on government spending, and potentially even a default on some shorter-term US debt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019ll see larger perturbations in markets as we get closer to a potential default. Those dislocations will reverberate all throughout global financial markets since US treasuries are foundational to the entire financial system. That could lead to liquidity (i.e., insufficient cash) and solvency (i.e., bankruptcy) issues for numerous market participants. That is what happened in the 2008 global financial crisis and treasuries are far more important than mortgages."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, even just the possibility of a debt crisis and US treasuries default could cause an unimaginably larger financial crisis."
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11807625,
+    "thread_children": 15,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 231
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11818568,
+    "top_level": false,
+    "date": "Jan 11 2023 13:55",
+    "likes": 6,
+    "timestamp": 1673463315,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In 2008, the majority of Republicans in the House rejected Bush\u2019s bank bailout plan (TARP) and it had to be passed by the Democrats. [1] "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The revised HR1424 was received from the Senate by the House, and on October 3, it voted 263-171 to enact the bill into law. Democrats voted 172 to 63 in favor of the legislation, while Republicans voted 108 to 91 against it"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, Lehman failed on Sept 15th and the markets were already in meltdown mode by the time the majority of Republicans rejected TARP on Oct 3rd."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I do like to think that some Republicans would come to their senses before we had an even larger financial crisis due to the debt ceiling, but I certainly wouldn\u2019t count on it. Further, the damage could already be done by the time enough responsible Republicans get on board. In that case we could be looking at another lost decade due to a financial-crisis-induced recession."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#Second_House_vote,_October_3"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11816673,
+    "parent_children": 1,
+    "thread_id": 11807625,
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 11.3,
+    "word_count": 160
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11807360,
+    "top_level": false,
+    "date": "Jan 11 2023 06:47",
+    "likes": 7,
+    "timestamp": 1673437665,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Historically, debt-ceiling standoffs make the Republicans look bad. They\u2019ve always caved in eventually and whatever minor concessions they get aren\u2019t anything to campaign on."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 11807185,
+    "parent_children": 4,
+    "thread_id": 11807185,
+    "thread_children": 4,
+    "ratio_recv": -4,
+    "ratio_give": 7,
+    "grade_level": 11.5,
+    "word_count": 24
+  },
+  {
     "post_id": 83535266,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-af0",
@@ -18440,7 +19172,7 @@ window._comments = [
     "id": 11768526,
     "top_level": true,
     "date": "Jan 09 2023 17:11",
-    "likes": 7,
+    "likes": 10,
     "timestamp": 1673302264,
     "body": [
       [
@@ -18472,12 +19204,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 15,
+    "total_children": 17,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11768526,
-    "thread_children": 15,
-    "ratio_recv": 3,
+    "thread_children": 17,
+    "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 137
@@ -19299,6 +20031,306 @@ window._comments = [
     "word_count": 351
   },
   {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11835783,
+    "top_level": false,
+    "date": "Jan 12 2023 07:14",
+    "likes": 3,
+    "timestamp": 1673525667,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "One nit pick: The Martha Stewart case is more complicated than commonly suggested. She didn\u2019t go to jail for  insider trading but instead for attempting to cover it up. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Stewart was found guilty in March 2004 of felony charges of conspiracy to obstruct, of obstruction of an agency proceeding, and of making false statements to federal investigators "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The insider trading itself was settled under civil law with the SEC."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In August 2006, the SEC announced that it had agreed to settle the related civil case against Stewart. Under the settlement, Stewart agreed to disgorge $58,062 (including interest from the losses she avoided), as well as a civil penalty of three times the loss avoided, or $137,019. She also agreed to a five-year ban from serving as a director, CEO, CFO, or any other officer role responsible for preparing, auditing, or disclosing financial results of any public company."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Martha_Stewart#Stock_trading_case_and_conviction"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 11835587,
+    "parent_children": 19,
+    "thread_id": 11835587,
+    "thread_children": 19,
+    "ratio_recv": 6,
+    "ratio_give": -23,
+    "grade_level": 13.0,
+    "word_count": 149
+  },
+  {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11842071,
+    "top_level": false,
+    "date": "Jan 12 2023 11:12",
+    "likes": 5,
+    "timestamp": 1673539927,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Insider trading is a form of stealing. She sold stock before the price tanked due to private information about a drug trial failure. Whoever purchased it wouldn\u2019t have done so at that high of a price had the information been public."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, insider trading alone almost never leads to a criminal conviction. It is instead settled under civil law with the SEC. The penalty is generally a fine and restrictions on serving in executive/director roles of corporations for a set period of time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Stewart in contrast was indicted because she lied about her insider trading theft in an attempt to evade justice. This was particularly egregious because at the time she was CEO and chairwoman of Martha Stewart Living Omnimedia. Therefore she knew, or should\u2019ve known, that insider trading and obstructing an investigation was illegal. Every C-level exec at public corps is heavily educated on these issues as a requirement for the role."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This was a big deal and she deserved her sentence."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 11835953,
+    "parent_children": 5,
+    "thread_id": 11835587,
+    "thread_children": 19,
+    "ratio_recv": -5,
+    "ratio_give": -4,
+    "grade_level": 9.1,
+    "word_count": 163
+  },
+  {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11843405,
+    "top_level": false,
+    "date": "Jan 12 2023 11:50",
+    "likes": 2,
+    "timestamp": 1673542212,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That article is arguing to change the definition of insider trading and using Stewarts case to demonstrate how she wouldn\u2019t have been charged under their suggested definition."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> A better approach would focus on actual wrongdoing rather than the perceived unfairness of unevenly distributed information. Insider trading should be regulated by existing criminal laws that prohibit industrial espionage and the theft of trade secrets and sensitive commercial information."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Anything more should be left to the public companies and the stock exchanges on which their shares are traded. If companies want to permit or prohibit insider trading by their executives, let them say so publicly and let investors decide if they want to buy shares based on that policy"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Stewart does contest that she received insider information, yet she was ultimately convicted by a jury for criminal charges including obstructing justice. The article doesn\u2019t address those charges at all."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11842978,
+    "parent_children": 1,
+    "thread_id": 11835587,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 14.0,
+    "word_count": 147
+  },
+  {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11843203,
+    "top_level": false,
+    "date": "Jan 12 2023 11:44",
+    "likes": 0,
+    "timestamp": 1673541886,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, the SEC doesn\u2019t catch every instance. But it is very easy to identify suspect trades, such as a sale right before the stock price tanks. Exchanges report a lot of info to the SEC so that they can identify anything suspicious. From there, they do prioritize executives, directors, and professional traders for detailed investigation because those are the most egregious cases."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11842410,
+    "parent_children": 1,
+    "thread_id": 11835587,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.2,
+    "word_count": 62
+  },
+  {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11835414,
+    "top_level": true,
+    "date": "Jan 12 2023 06:44",
+    "likes": 11,
+    "timestamp": 1673523842,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think these failures of authoritative, respected media institutions resulted from their incentives in the digital age, notably their competition with digital-first upstarts (e.g., Vox) and social media. Scandals and outrage get far more clicks, including rage clicks, relative to rigorous policy coverage. Stories like Podesta\u2019s emails go viral and drive more eyeballs on ads as well as more paid subscribers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson, a tech industry analyst, has written quite a bit about how the internet disrupted legacy media and forced them to change in order to remain competitive. He suggests that the worst impact of Facebook and Twitter on our political discourse isn\u2019t the vitriol and misinformation shared on those platforms, but instead how existing newspapers and broadcast news had to adapt their coverage to remain competitive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson has also pointed out that these news institutions could no longer serve as gatekeepers for respectful coverage even if they wanted to. Readers would just go elsewhere for more enticing content. His Mar 2016 article covers this breakdown in, \u201cThe Voters Decide\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2016/the-voters-decide/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson references a NYT piece about how party leadership has lost control over candidate selection. In that 2016 election, both Trump and Sanders\u2014like Obama before them\u2014were able to leverage internet platforms to sidestep party elites, including journalists, and go straight to the voters with their novel messages."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This is a big problem for the parties as described in The Party Decides. Remember, in Noel and company\u2019s description party actors care more about their policy preferences than they do voter preferences, but in an aggregated world it is voters aka users who decide which issues get traction and which don\u2019t. And, by extension, the most successful politicians in an aggregated world are not those who serve the party but rather those who tell voters what they most want to hear."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11835414,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.3,
+    "word_count": 300
+  },
+  {
+    "post_id": 95838542,
+    "title": "The most important 2016 \"misinformation\" came from the regular news media",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-2016-misinformation",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11835549,
+    "top_level": true,
+    "date": "Jan 12 2023 06:53",
+    "likes": 5,
+    "timestamp": 1673524403,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The main thing that I remember from the Podesta hack is the scandalous, \u201cReleased Emails Suggest the D.N.C. Derided the Sanders Campaign\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2016/07/23/us/politics/dnc-emails-sanders-clinton.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Among the emails released on Friday were several embarrassing messages that suggest the committee\u2019s chairwoman, Representative Debbie Wasserman Schultz of Florida, and other officials favored Hillary Clinton over Mr. Sanders \u2014 a claim the senator made repeatedly during the primaries."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In one of the emails, dated May 21, Mark Paustenbach, a committee communications official, wrote to a colleague about the possibility of urging reporters to write that Mr. Sanders\u2019s campaign was \u201ca mess\u201d after a glitch on the committee\u2019s servers gave it access to Clinton voter data."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The emails appear to bolster Mr. Sanders\u2019s claims that the committee, and in particular Ms. Wasserman Schultz, did not treat him fairly. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think NYT or other established news organizations could have buried that even if they wanted to. I recall social media being ablaze with Sanders supporters\u2019 outrage that the emails confirmed that the Democratic \u201cestablishment\u201d was against them. That certainly impacted turnout in the general election among young voters."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11835549,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 9.7,
+    "word_count": 180
+  },
+  {
     "post_id": 86783389,
     "title": "New York City shouldn't be covered in sidewalk sheds",
     "canonical_url": "https://www.slowboring.com/p/new-york-city-shouldnt-be-covered",
@@ -19363,5 +20395,105 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 399
+  },
+  {
+    "post_id": 95908501,
+    "title": "Friday Thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-154",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11887546,
+    "top_level": false,
+    "date": "Jan 13 2023 20:11",
+    "likes": 1,
+    "timestamp": 1673658667,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although we\u2019re still par for the course in terms of debt ceiling showdowns. From our most recent one, Bloomberg reported on May 7th 2021, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cThere are scenarios in which, you know, sometime during the summer the extraordinary measures would run out,\u201d Yellen said Friday during a press briefing at the White House."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That was in preparation for the drop-dead day of July 31st when the temporary suspension of the ceiling expired. Yellen currently estimates that, \u201cit is unlikely that cash and extraordinary measures will be exhausted before early June [2023].\u201d [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My hope is that Yellen and Biden are just playing along for now. Should we actually approach the abyss with House Republicans ready to drag us into the pits of financial hell, then I\u2019d like to believe the Biden administration will either ignore the debt ceiling or mint the coin."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just hope that they don\u2019t wait too long because, \u201cThe Bond Market Is Already Worrying About a Debt-Ceiling Debacle.\u201d [3] The US treasuries market is the foundation of the entire global financial system and any perturbation will ripple throughout all other markets. These financial disruptions will grow larger as we approach the debt ceiling and the odds of default increase. It\u2019s totally possible that the markets could go haywire well before the US actually defaults if investors aren\u2019t sufficiently confident the government is good for its money."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, just look at how the UK government debt market went into meltdown following short-lived-prime-minister Truss\u2019s proposed economic plan. [4] There wasn\u2019t even any immediate risk of default; just concern about the long term economic damage of this foolish plan. The US debt market is certainly far larger and thereby more robust, but when it does move it affects every other asset in the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2021-05-07/yellen-says-debt-limit-measures-could-be-exhausted-this-summer"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-13/yellen-says-us-to-take-extraordinary-steps-to-avert-a-default"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-10/the-bond-market-is-already-worrying-about-a-debt-ceiling-debacle"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/live-blog/2022-09-23/kwarteng-presents-uk-fiscal-plans"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11884685,
+    "parent_children": 12,
+    "thread_id": 11884685,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 10.5,
+    "word_count": 301
   }
 ];
