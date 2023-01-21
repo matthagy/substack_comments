@@ -5931,6 +5931,58 @@ window._comments = [
     "word_count": 139
   },
   {
+    "post_id": 95909164,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-69f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11917541,
+    "top_level": false,
+    "date": "Jan 15 2023 06:41",
+    "likes": 1,
+    "timestamp": 1673782883,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, I rarely find anything useful in his replies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some of Matt\u2019s particularly interesting (or provocative) tweets occasionally get shared here in daily threads, and that can at times lead to fruitful discussion. Maybe we all could get in the habit of doing that more frequently."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Something Matt might consider copying: Scott Alexander recently had a \u201cToo Spicy For Twitter\u201d paid-only post, which consists of tweet-length aphorisms and hot takes. [1] That could certainly lead to some interesting discussions. I\u2019ll ask about that in the next mailbag."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://astralcodexten.substack.com/p/too-spicy-for-twitter"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11912474,
+    "parent_children": 2,
+    "thread_id": 11901983,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 7.8,
+    "word_count": 88
+  },
+  {
     "post_id": 93896906,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-239",
@@ -11859,6 +11911,42 @@ window._comments = [
     "word_count": 260
   },
   {
+    "post_id": 95081668,
+    "title": "Who is included by \"inclusive\" language? ",
+    "canonical_url": "https://www.slowboring.com/p/who-is-included-by-inclusive-language",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12000723,
+    "top_level": true,
+    "date": "Jan 18 2023 06:54",
+    "likes": 5,
+    "timestamp": 1674042860,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Upper classes seeking to differentiate themselves from lower ones is unavoidable in my opinion. I imagine a lot of this is just an emotional fear of being mistaken for being a member of an out group. Further, in our modern information age, everyone is always looking to improve their relative standing by copying the behavior, language, and fashion of the avant garde."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence there will always be a demand for novel class markers and an industry of tastemakers toiling to generate new ones as the current stock becomes increasingly common. The current DEI-language-themed ones are not particularly bad in my opinion."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12000723,
+    "thread_children": 2,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 101
+  },
+  {
     "post_id": 91424801,
     "title": "Secret Congress delivers more good news on clean water",
     "canonical_url": "https://www.slowboring.com/p/secret-congress-delivers-more-good",
@@ -14326,7 +14414,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 11853834,
     "thread_children": 8,
-    "ratio_recv": 4,
+    "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 187
@@ -16396,6 +16484,48 @@ window._comments = [
     "word_count": 105
   },
   {
+    "post_id": 95825718,
+    "title": "What does \"induced demand\" really amount to?",
+    "canonical_url": "https://www.slowboring.com/p/what-does-induced-demand-really-amount",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11968582,
+    "top_level": true,
+    "date": "Jan 17 2023 06:25",
+    "likes": 1,
+    "timestamp": 1673954744,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This is what I think they [induced demand critics] mean: The pollution associated with driving cars is bad. \u2026 Therefore we should advocate for transit and not for highways."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Are the induced demand critics of highway widening actually opposing this as a climate policy aim or simply stating that the widening doesn\u2019t reduce traffic?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The linked NYT article makes little reference to climate, only pointing out that some proponents of highway expansions also have ambitious climate goals. I mainly see the criticism as a refutation of the common argument in favor of highway widening: it will reduce traffic. The theory of induced demand suggests that it won\u2019t."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11968582,
+    "thread_children": 4,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 106
+  },
+  {
     "post_id": 90017925,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-c23",
@@ -16677,7 +16807,7 @@ window._comments = [
     "id": 11864532,
     "top_level": true,
     "date": "Jan 13 2023 06:30",
-    "likes": 30,
+    "likes": 32,
     "timestamp": 1673609446,
     "body": [
       [
@@ -16703,12 +16833,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 13,
+    "total_children": 15,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11864532,
-    "thread_children": 13,
-    "ratio_recv": -20,
+    "thread_children": 15,
+    "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 125
@@ -16763,97 +16893,13 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 11864532,
-    "parent_children": 13,
+    "parent_children": 15,
     "thread_id": 11864532,
-    "thread_children": 13,
-    "ratio_recv": 5,
-    "ratio_give": -22,
+    "thread_children": 15,
+    "ratio_recv": 7,
+    "ratio_give": -24,
     "grade_level": 11.5,
     "word_count": 232
-  },
-  {
-    "post_id": 96085279,
-    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
-    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": null,
-    "id": 11865024,
-    "top_level": false,
-    "date": "Jan 13 2023 07:07",
-    "likes": 5,
-    "timestamp": 1673611655,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "As an economist, what do you think are the strongest arguments against NGDP targeting? "
-        }
-      ]
-    ],
-    "total_children": 11,
-    "parent_id": 11864752,
-    "parent_children": 28,
-    "thread_id": 11864752,
-    "thread_children": 28,
-    "ratio_recv": -1,
-    "ratio_give": -6,
-    "grade_level": 7.6,
-    "word_count": 14
-  },
-  {
-    "post_id": 96085279,
-    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
-    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": null,
-    "id": 11871190,
-    "top_level": false,
-    "date": "Jan 13 2023 10:51",
-    "likes": 0,
-    "timestamp": 1673625102,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Thank you! I appreciate your expert insights in this clear and concise answer as I attempt to better understand this macroeconomic policy area."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "If I have time after work, I\u2019ll try to write a longer response about how that fits into my understanding, but please don\u2019t feel any obligation to further engage since we\u2019re all quite busy."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "My understanding is that some degree of output estimation is necessary for our current Fed policy because they don\u2019t want to overreact to short-term, rapid price swings. In other words, they want to \u201csee through transient disruptions.\u201d"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I don\u2019t reference the Fed\u2019s former language in a derogatory manner because I do believe they were correct to not overreact to the chaos of the pandemic. There was tons of uncertainty and on average more harm would be done from hasty action. I\u2019ve seen the argument that NGDP targeting could\u2019ve led to a slightly faster reaction, but even that comes down to nuances of implementation and policy maker\u2019s judgment."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Currently, I\u2019m not personally convinced any policy framework change is needed. And I can understand the Fed deferring even discussing future changes until the economy has normalized."
-        }
-      ]
-    ],
-    "total_children": 0,
-    "parent_id": 11869177,
-    "parent_children": 10,
-    "thread_id": 11864752,
-    "thread_children": 28,
-    "ratio_recv": null,
-    "ratio_give": -4,
-    "grade_level": 10.4,
-    "word_count": 191
   },
   {
     "post_id": 96085279,
@@ -16865,7 +16911,7 @@ window._comments = [
     "id": 11864976,
     "top_level": true,
     "date": "Jan 13 2023 07:04",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1673611474,
     "body": [
       [
@@ -16916,7 +16962,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 11864976,
     "thread_children": 5,
-    "ratio_recv": -4,
+    "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 275
@@ -16928,10 +16974,94 @@ window._comments = [
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": null,
+    "id": 11865024,
+    "top_level": false,
+    "date": "Jan 13 2023 07:07",
+    "likes": 5,
+    "timestamp": 1673611655,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an economist, what do you think are the strongest arguments against NGDP targeting? "
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": 11864752,
+    "parent_children": 32,
+    "thread_id": 11864752,
+    "thread_children": 32,
+    "ratio_recv": 2,
+    "ratio_give": -6,
+    "grade_level": 7.6,
+    "word_count": 14
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 11871190,
+    "top_level": false,
+    "date": "Jan 13 2023 10:51",
+    "likes": 1,
+    "timestamp": 1673625102,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you! I appreciate your expert insights in this clear and concise answer as I attempt to better understand this macroeconomic policy area."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If I have time after work, I\u2019ll try to write a longer response about how that fits into my understanding, but please don\u2019t feel any obligation to further engage since we\u2019re all quite busy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that some degree of output estimation is necessary for our current Fed policy because they don\u2019t want to overreact to short-term, rapid price swings. In other words, they want to \u201csee through transient disruptions.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t reference the Fed\u2019s former language in a derogatory manner because I do believe they were correct to not overreact to the chaos of the pandemic. There was tons of uncertainty and on average more harm would be done from hasty action. I\u2019ve seen the argument that NGDP targeting could\u2019ve led to a slightly faster reaction, but even that comes down to nuances of implementation and policy maker\u2019s judgment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Currently, I\u2019m not personally convinced any policy framework change is needed. And I can understand the Fed deferring even discussing future changes until the economy has normalized."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 11869177,
+    "parent_children": 12,
+    "thread_id": 11864752,
+    "thread_children": 32,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 10.4,
+    "word_count": 191
+  },
+  {
+    "post_id": 96085279,
+    "title": "Slightly contrarian, mildly annoying, somewhat influential mailbag",
+    "canonical_url": "https://www.slowboring.com/p/slightly-contrarian-mildly-annoying",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
     "id": 11865274,
     "top_level": false,
     "date": "Jan 13 2023 07:23",
-    "likes": 17,
+    "likes": 19,
     "timestamp": 1673612607,
     "body": [
       [
@@ -16964,8 +17094,8 @@ window._comments = [
     "parent_children": 25,
     "thread_id": 11864735,
     "thread_children": 25,
-    "ratio_recv": -16,
-    "ratio_give": 15,
+    "ratio_recv": -18,
+    "ratio_give": 17,
     "grade_level": 8.9,
     "word_count": 158
   },
@@ -17210,6 +17340,110 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 228
+  },
+  {
+    "post_id": 97471398,
+    "title": "Never answer mailbag questions angry!",
+    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12061410,
+    "top_level": true,
+    "date": "Jan 20 2023 06:47",
+    "likes": 45,
+    "timestamp": 1674215253,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Do you think that the racial depolarization of voting patterns will change the ideology of either party, and if so, in what way?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of changing political party coalitions, I\u2019m more interested in, and at times concerned about, the increasing share of college-educated voters in the Democratic party. I think this explains suboptimal political choices like student-debt forgiveness. And I see longer term risks of the party being increasingly captured by the interests of the upper-middle class."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m particularly concerned about how that\u2019ll impact our ability to increase taxes on the merely affluent. Eg, Democratic politicians promising not to raise taxes on anyone earning less than $400k as well as the demands to repeal the limit on the SALT deduction. These tax constraints will significantly limit our ability to expand the welfare state."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d love to trade some of the most tax-conscious Democratic voters to the Republicans in return for almost any slice of the working class. Let the Republicans continue to be stuck trying to pretend to care about the working class while making their major political victories tax cuts."
+        }
+      ]
+    ],
+    "total_children": 133,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12061410,
+    "thread_children": 133,
+    "ratio_recv": -18,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 182
+  },
+  {
+    "post_id": 97471398,
+    "title": "Never answer mailbag questions angry!",
+    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12070359,
+    "top_level": false,
+    "date": "Jan 20 2023 12:02",
+    "likes": 0,
+    "timestamp": 1674234144,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a great lecture on how we ended up with a pathologically high estate tax exemption, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=u6Ng0N26MGk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Why was the estate tax, which is paid by only the wealthiest two percent of Americans, repealed in 2001 with broad bipartisan support? Prof. Shapiro unravels this puzzle in this lecture by going over the origins of the anti-tax movement, the logic of referendum politics, and 1994 as a pivot point. He then hones in on the estate tax repeal as a case study, discusses tax cuts and the Republican coalition and how far the goalposts have shifted for today's U.S. tax politics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Prof. Shapiro actually wrote an entire book on the subject in 2006, \u201cDeath by a Thousand Cuts: The Fight over Taxing Inherited Wealth\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This fast-paced book by Yale professors Michael Graetz and Ian Shapiro unravels the following mystery: How is it that the estate tax, which has been on the books continuously since 1916 and is paid by only the wealthiest two percent of Americans, was repealed in 2001 with broad bipartisan support? The mystery is all the more striking because the repeal was not done in the dead of night, like a congressional pay raise. It came at the end of a multiyear populist campaign launched by a few individuals, and was heralded by its supporters as a signal achievement for Americans who are committed to the work ethic and the American Dream."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 12066663,
+    "parent_children": 11,
+    "thread_id": 12061410,
+    "thread_children": 133,
+    "ratio_recv": 2,
+    "ratio_give": -7,
+    "grade_level": 17.2,
+    "word_count": 233
   },
   {
     "post_id": 59752737,
@@ -20084,7 +20318,7 @@ window._comments = [
     "thread_id": 11835587,
     "thread_children": 19,
     "ratio_recv": 6,
-    "ratio_give": -23,
+    "ratio_give": -25,
     "grade_level": 13.0,
     "word_count": 149
   },
@@ -20406,7 +20640,7 @@ window._comments = [
     "id": 11887546,
     "top_level": false,
     "date": "Jan 13 2023 20:11",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1673658667,
     "body": [
       [
@@ -20488,11 +20722,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 11884685,
-    "parent_children": 12,
+    "parent_children": 33,
     "thread_id": 11884685,
-    "thread_children": 12,
+    "thread_children": 33,
     "ratio_recv": null,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 10.5,
     "word_count": 301
   }
