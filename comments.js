@@ -4850,6 +4850,46 @@ window._comments = [
     "word_count": 61
   },
   {
+    "post_id": 98178607,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-d05",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12157048,
+    "top_level": true,
+    "date": "Jan 23 2023 17:08",
+    "likes": 6,
+    "timestamp": 1674511736,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Do you have any interest in copying Scott Alexander's Substack innovation of a \u201cToo Spicy For Twitter\u201d paid-only post? [1] Content is just a list of tweet-length observations, aphorisms, and hot takes. Alexander's execution is quite poor, and I imagine that you could leverage your 10,000 hours of Twitter mastery to easily show him up."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://astralcodexten.substack.com/p/too-spicy-for-twitter"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12157048,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 56
+  },
+  {
     "post_id": 61556524,
     "title": "America needs supply-side reform",
     "canonical_url": "https://www.slowboring.com/p/america-needs-supply-side-reform",
@@ -8939,6 +8979,178 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 627
+  },
+  {
+    "post_id": 97693814,
+    "title": "Zoning reform lessons from the closing of 16th-century English monasteries",
+    "canonical_url": "https://www.slowboring.com/p/zoning-reform-lessons-from-the-closing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12138173,
+    "top_level": true,
+    "date": "Jan 23 2023 06:51",
+    "likes": 16,
+    "timestamp": 1674474711,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Protestantism, in this view, was critical to the emergence of capitalism not because of anything about the content of Protestant doctrine but because it literally placed resources at the disposal of capitalists."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As an aside, similar to the narrative that Protestantism drove cultural changes that laid the groundwork for capitalism, I\u2019ve also heard a credible theory that it was essential to the development of liberalism. Notably, Protestant beliefs, or even more generally Christian theology, invented and enshrined the concept of the individual due its central focus on personal salvation. Prior to that, it\u2019s my understanding that religious and cultural beliefs were largely centered around families, tribes, city states, ethnic groups, and empires."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It is my layperson understanding that this is what made Christianity such a disruptive religion. Not only did it build off Judaism's rejection of all other gods\u2014something that was quite threatening to Roman authorities in and of itself\u2014it further upset traditional relationships in social groups by creating a potent individual desire and rejection of the traditional order. I believe that there are even some bible verses where Jesus instructs his followers to leave their families and communities in order to devote themselves to his teachings."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Protestant Reformation rediscovered this individual-salvation focus and challenged the existing social order that the Catholic Church had built in the subsequent milenia. Further, its focus on scriptural purity compelled Protestants to promote literacy so that everyone could seek their salvation by directly reading the bible. That created an increasingly educated populace as more people could now also read other materials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, I find this to be an interesting and credible historical narrative, and it does increase my appreciation for religion as an atheist."
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12138173,
+    "thread_children": 18,
+    "ratio_recv": -11,
+    "ratio_give": null,
+    "grade_level": 15.6,
+    "word_count": 281
+  },
+  {
+    "post_id": 97693814,
+    "title": "Zoning reform lessons from the closing of 16th-century English monasteries",
+    "canonical_url": "https://www.slowboring.com/p/zoning-reform-lessons-from-the-closing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12138832,
+    "top_level": true,
+    "date": "Jan 23 2023 07:30",
+    "likes": 13,
+    "timestamp": 1674477048,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The juxtaposition of people\u2019s desire for homeownership in an unchanging neighbor against the massive economic cost of such is a powerful idea. Yet I don't think it will break through to many opponents of zoning reform since I believe they hold these desires at a fairly deep emotional level. There\u2019s a common caricature of NIMBYs greedily calculating the impact of development on their property values, yet I think that obscures a strong common strong desire for people to resist change. I don\u2019t think any reasoned argument is going to displace that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, I think zoning reform will only be accepted by its current opponents when it becomes the solution to resisting even worse changes. For example, should remote work and tech layoffs weaken the tax base of tech hubs like San Francisco, then these cities could find themselves in a fiscal crisis. New development\u2014with its associated fees, taxes, and land value enhancement\u2014could be seen as an acceptable resolution when the alternative is austerity in the form of tax hikes and service cuts."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12138832,
+    "thread_children": 6,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 172
+  },
+  {
+    "post_id": 97693814,
+    "title": "Zoning reform lessons from the closing of 16th-century English monasteries",
+    "canonical_url": "https://www.slowboring.com/p/zoning-reform-lessons-from-the-closing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12139325,
+    "top_level": false,
+    "date": "Jan 23 2023 07:55",
+    "likes": 1,
+    "timestamp": 1674478544,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although I\u2019d say that these residents aren\u2019t yet facing bad enough alternatives to development. Maybe even some cities would rather self-destruct through bankruptcy and desolation of services and amenities. I just like to think that residents in some cities will eventually feel compelled to accept development as their situation grows increasingly dire."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 12139010,
+    "parent_children": 3,
+    "thread_id": 12138832,
+    "thread_children": 6,
+    "ratio_recv": 0,
+    "ratio_give": -8,
+    "grade_level": 11.4,
+    "word_count": 53
+  },
+  {
+    "post_id": 97693814,
+    "title": "Zoning reform lessons from the closing of 16th-century English monasteries",
+    "canonical_url": "https://www.slowboring.com/p/zoning-reform-lessons-from-the-closing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12138419,
+    "top_level": false,
+    "date": "Jan 23 2023 07:07",
+    "likes": 0,
+    "timestamp": 1674475657,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that the decrease in labor bargaining power was primarily initiated by increases in agricultural productivity in the 17th century that created surplus labor. This British Agricultural Revolution is commonly cited as a contributing factor to spurring the industrial revolution because it freed up labor."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/British_Agricultural_Revolution"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The rise in productivity accelerated the decline of the agricultural share of the labour force, adding to the urban workforce on which industrialization depended: the Agricultural Revolution has therefore been cited as a cause of the Industrial Revolution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In other words, worker desperation preceded industrialization and was exploited by this economic restructuring. In the absence of these new jobs, starvation and civil war would\u2019ve been necessary to bring population levels down into balance."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 12138052,
+    "parent_children": 6,
+    "thread_id": 12138052,
+    "thread_children": 6,
+    "ratio_recv": 1,
+    "ratio_give": -3,
+    "grade_level": 17.4,
+    "word_count": 121
   },
   {
     "post_id": 62033902,
@@ -17351,7 +17563,7 @@ window._comments = [
     "id": 12061410,
     "top_level": true,
     "date": "Jan 20 2023 06:47",
-    "likes": 45,
+    "likes": 52,
     "timestamp": 1674215253,
     "body": [
       [
@@ -17379,12 +17591,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 133,
+    "total_children": 140,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 12061410,
-    "thread_children": 133,
-    "ratio_recv": -18,
+    "thread_children": 140,
+    "ratio_recv": -23,
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 182
@@ -17439,9 +17651,9 @@ window._comments = [
     "parent_id": 12066663,
     "parent_children": 11,
     "thread_id": 12061410,
-    "thread_children": 133,
+    "thread_children": 140,
     "ratio_recv": 2,
-    "ratio_give": -7,
+    "ratio_give": -8,
     "grade_level": 17.2,
     "word_count": 233
   },
