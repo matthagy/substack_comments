@@ -668,6 +668,48 @@ window._comments = [
     "word_count": 193
   },
   {
+    "post_id": 97902560,
+    "title": "Joe Biden's conditional optimism about America",
+    "canonical_url": "https://www.slowboring.com/p/joe-biden",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12174166,
+    "top_level": false,
+    "date": "Jan 24 2023 10:36",
+    "likes": 3,
+    "timestamp": 1674574611,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Excellent point about Biden and House Democrats possibly becoming McCarthy\u2019s best possible defense against the absolutely insane members of his own party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With that in mind, I\u2019m rather hoping that the debt ceiling standoff forces McCarthy and the majority of the House Republicans to make a deal with the Democrats when a minority of Republicans push for a politically toxic solution. Eg, pushing their ridiculous and broadly unpopular replacement of income taxes with a sales tax. Should those manics dig in their heels, then I\u2019d imagine the majority of Republicans would have no choice but to deal with the Democrats."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That could be the start of a lasting bipartisan coalition as McCarthy and the majority of House Republicans need the House Democratic votes to protect them against the crazies in their own party that would demand vengeance in removing McCarthy. While I wouldn\u2019t count on this outcome, the wishful thinking makes it easier for me to accept our current debt ceiling standoff."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12169289,
+    "parent_children": 1,
+    "thread_id": 12168494,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 12.6,
+    "word_count": 162
+  },
+  {
     "post_id": 55799999,
     "title": "Expensive energy is really bad",
     "canonical_url": "https://www.slowboring.com/p/expensive-energy-is-really-bad",
@@ -4859,7 +4901,7 @@ window._comments = [
     "id": 12157048,
     "top_level": true,
     "date": "Jan 23 2023 17:08",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1674511736,
     "body": [
       [
@@ -8990,7 +9032,7 @@ window._comments = [
     "id": 12138173,
     "top_level": true,
     "date": "Jan 23 2023 06:51",
-    "likes": 16,
+    "likes": 18,
     "timestamp": 1674474711,
     "body": [
       [
@@ -9024,12 +9066,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 18,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 12138173,
-    "thread_children": 18,
-    "ratio_recv": -11,
+    "thread_children": 21,
+    "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 15.6,
     "word_count": 281
@@ -9044,7 +9086,7 @@ window._comments = [
     "id": 12138832,
     "top_level": true,
     "date": "Jan 23 2023 07:30",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1674477048,
     "body": [
       [
@@ -9096,7 +9138,7 @@ window._comments = [
     "thread_id": 12138832,
     "thread_children": 6,
     "ratio_recv": 0,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 11.4,
     "word_count": 53
   },
@@ -9110,7 +9152,7 @@ window._comments = [
     "id": 12138419,
     "top_level": false,
     "date": "Jan 23 2023 07:07",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1674475657,
     "body": [
       [
@@ -9147,7 +9189,7 @@ window._comments = [
     "parent_children": 6,
     "thread_id": 12138052,
     "thread_children": 6,
-    "ratio_recv": 1,
+    "ratio_recv": -1,
     "ratio_give": -3,
     "grade_level": 17.4,
     "word_count": 121
@@ -19149,6 +19191,82 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 265
+  },
+  {
+    "post_id": 97886423,
+    "title": "Why I'm worried about D.C.'s criminal code re-write",
+    "canonical_url": "https://www.slowboring.com/p/why-im-worried-about-dcs-criminal",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12198060,
+    "top_level": true,
+    "date": "Jan 25 2023 06:50",
+    "likes": 69,
+    "timestamp": 1674647405,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Stern: First, being a felon in possession is not a crime of violence. It applies when an individual merely owns a gun, even if it\u2019s sitting unused in their closet. If they ever carry or use it, the penalties shoot up dramatically."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I find it interesting to contrast Stern defense of weakening the penalties for illegal firearm possession against his passionate defense of gun control in his June 2022 article, \u201cClarence Thomas\u2019 Maximalist Second Amendment Ruling Is a Nightmare for Gun Control\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://slate.com/news-and-politics/2022/06/supreme-court-new-york-concealed-carry-law-gun-control-bruen.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Supreme Court commenced a revolution in Second Amendment law on Thursday, striking down New York\u2019s strict limits on concealed carry in a maximalist opinion by Justice Clarence Thomas that renders most of the nation\u2019s gun control laws presumptively unconstitutional. The decision will unleash a tidal wave of lower court rulings invalidating laws designed to protect Americans from the carnage of gun violence. And it will stymie current efforts to reduce that violence through innovative new solutions to this epidemic. For gun control advocates, it is the worst-case scenario."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Note, I wasn\u2019t aware of Stern\u2019s earlier work fervently advocating for gun control to, in his words, \u201cprotect Americans from the carnage of gun violence\u201d. I just assumed that existed based on his politics and Google immediately validated my hypothesis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this highlights a recurring contradiction on the social justice activists approach to guns, violent crimes, and law enforcement: Guns are evil incarnate and they should be banned, but our similarly evil criminal justice system and the police cannot be trusted to enforce our current prohibitions on gun possession."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is deeply frustrating to me and I think it suggests a general lack of seriousness among these activists with regard to the problem of violent crime and guns. We already have laws on the book that could greatly decrease gun violence, yet the strongest gun control advocates are squeamish in enforcing those laws. Further, they continue to argue for more gun restrictions, which would require even more police action and incarceration, while simultaneously arguing for weakening of all law enforcement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Taken to the extreme, it seems these activists' ideal outcome is a complete ban on all guns, yet zero enforcement of that ban."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix a typo"
+        }
+      ]
+    ],
+    "total_children": 108,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12198060,
+    "thread_children": 108,
+    "ratio_recv": -38,
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 370
   },
   {
     "post_id": 95523951,
