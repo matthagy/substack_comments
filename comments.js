@@ -3473,6 +3473,64 @@ window._comments = [
     "word_count": 104
   },
   {
+    "post_id": 98492911,
+    "title": "Republicans can't even explain what they're trying to do with the debt ceiling",
+    "canonical_url": "https://www.slowboring.com/p/republicans-cant-even-explain-what",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12231341,
+    "top_level": true,
+    "date": "Jan 26 2023 06:39",
+    "likes": 27,
+    "timestamp": 1674733187,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Given how poorly McCarthy\u2019s speaker election went, I cannot see how he rallies House Republicans around any spending cutting plan. He\u2019s always going to be facing several attention-seeking maniacs who will vote against any potential bill while screeching to their supporters about how McCarthy is a sellout RINO who is compromising with Biden. In the unlikely event that these extremists actually propose cuts, they\u2019ll certainly be too politically unpopular to garner support from moderate Republicans."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I imagine we\u2019ll keep walking to the abyss of a financial crisis, and eventually moderate Republicans will feel compelled to work with the Democrats to avoid the financial armageddon of a US Treasury default. McCarthy will either get on board with this bipartisan coalition or he\u2019ll be replaced. Even the WSJ is considering this to be a likely scenario given the lack of any plan of what House Republicans actually want. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> All of which means Republicans will have to pick their spending targets carefully, explain their goals in reasonable terms so they don\u2019t look like they want a default, and then sell this to the public as a united team. The worst result would be for Republicans to talk tough for months, only to splinter in a rout at the end, and be forced to turn the House floor over to Democrats to raise the debt limit with nothing to show for it. Opportunists on the right would then cry \u201csellout,\u201d even if they had insisted on demands that were unachievable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This is what Democrats expect to happen, which is why they don\u2019t think they need to negotiate. If Republicans want to use the debt limit as leverage, they need a strategy for how this showdown ends, not merely how it begins."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/the-hard-reality-of-a-debt-ceiling-showdown-house-republicans-congress-gop-11673904239"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12231341,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 290
+  },
+  {
     "post_id": 59628308,
     "title": "Juneteenth Mailbag",
     "canonical_url": "https://www.slowboring.com/p/juneteenth-mailbag",
@@ -6619,6 +6677,150 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.7,
     "word_count": 120
+  },
+  {
+    "post_id": 99298471,
+    "title": "A boring and obvious way to get more rural votes",
+    "canonical_url": "https://www.slowboring.com/p/a-boring-and-obvious-way-to-get-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12376553,
+    "top_level": true,
+    "date": "Jan 31 2023 07:09",
+    "likes": 51,
+    "timestamp": 1675166976,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I see some parallels in the topic of this article vis-\u00e0-vis a recent Atlantic piece entitled, \u201cLost Boys: The Narcissism of the Angry Young Men\u201d, [1] which generated a lot of heated discussion on r/neoliberal with over 900 comments. [2] Both touch on the political polarization and radicalization of people who feel left behind, and there is likely a lot of overlap between the two populations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In that discussion, a common critique was that the Atlantic article wasn\u2019t offering any solutions and instead just wants to \u201craise awareness\u201d of the issue. The subtitle is even, \u201cWhat to do about the deadly misfits among us? First, recognize the problem.\u201d It continues to mainly just characterize how awful these people are and how we got to do something about them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Numerous users pointed out that the writer appears to have zero empathy for these troubled young men, including those that are just starting down the path of radicalization and may be ripe for intervention. I\u2019ll admit that the discussion forced me to recognize that I\u2019m also lacking in concern for these individuals. Further, this Slow Boring article has me reflecting on my similar lack of empathy for the rural population. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yglesias points out that, despite our apparent concern about inequality, few of us progressives have much concern about urban/rural inequality. If anything, I think he is being too kind; many of us commonly talk quite dismissively about the rural population with insulting language that we\u2019d be horrified to apply to any other group facing inequality."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m guessing that at some level we actually do need to develop some genuine empathy for troubled young men and rural communities if we want to help them out, reverse political radicalization/polarization, and ultimately win their votes. Pandering may help at the margin, but I don\u2019t think it will get us far."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Developing such empathy for these out groups is certainly easier said than done. I don\u2019t actually have any ideas, but hoping that I can at least start to recognize and mitigate my own negative biases against them as a starting point."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.theatlantic.com/ideas/archive/2023/01/lost-boys-violent-narcissism-angry-young-men/672886/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reddit.com/r/neoliberal/comments/10p1tot/lost_boys_the_narcissism_of_the_angry_young_men/"
+        }
+      ]
+    ],
+    "total_children": 42,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12376553,
+    "thread_children": 42,
+    "ratio_recv": -17,
+    "ratio_give": null,
+    "grade_level": 12.3,
+    "word_count": 348
+  },
+  {
+    "post_id": 99298471,
+    "title": "A boring and obvious way to get more rural votes",
+    "canonical_url": "https://www.slowboring.com/p/a-boring-and-obvious-way-to-get-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12376009,
+    "top_level": true,
+    "date": "Jan 31 2023 06:30",
+    "likes": 3,
+    "timestamp": 1675164651,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That Krugman article frustrated me, particularly because he seems to be making the reverse argument of this article: Rural areas already receive disproportionately more benefits from federal anti-poverty programs (because they\u2019re poorer) and therefore they should stop whining."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">  I\u2019m sure that my saying this will generate a tidal wave of hate mail, and lecturing rural Americans about policy reality isn\u2019t going to move their votes. Nonetheless, it\u2019s important to get our facts straight."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In terms of resources, major federal programs disproportionately benefit rural areas, in part because such areas have a disproportionate number of seniors receiving Social Security and Medicare. But even means-tested programs \u2014 programs that Republicans often disparage as \u201cwelfare\u201d \u2014 tilt rural. Notably, at this point rural Americans are more likely than urban Americans to be on Medicaid and receive food stamps."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At least he ends on a slightly positive note about how Biden\u2019s IRA provisions are creating more economic opportunities in disproportionately rural areas. He\u2019s cynical that Democrats will get any credit\u2014and rightfully so\u2014but Krguman at least recognizes that improving the economic prospects of these areas may help us because, \u201c just maybe, reducing the heartland\u2019s economic desperation will also help reverse its political radicalization.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2023/01/26/opinion/rural-voters-economy.html"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12376009,
+    "thread_children": 7,
+    "ratio_recv": 15,
+    "ratio_give": null,
+    "grade_level": 15.4,
+    "word_count": 200
   },
   {
     "post_id": 81247288,
@@ -16313,6 +16515,330 @@ window._comments = [
     "word_count": 168
   },
   {
+    "post_id": 99102422,
+    "title": "Recent layoffs at Big Tech don't spell economic doom",
+    "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12343344,
+    "top_level": true,
+    "date": "Jan 30 2023 06:25",
+    "likes": 35,
+    "timestamp": 1675077955,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Meanwhile, the tech companies doing widely covered layoffs are still employing more people than in the recent past."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is the key point for us to keep in mind when considering these recent tech layoffs. In my opinion, this is just a correction to the extreme hiring binge of these tech companies during the pandemic. There was a massive increase in the demand for tech services and they hired aggressively to capture that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was also a hope that the changes in consumer and business behavior during the pandemic would lead to a permanent structural change in the economy. For example, consumers would continue to use online shopping at a much higher rate than pre-pandemic. Similarly, remote work would stick and businesses would need substantially more digital collaboration tools like Slack and Zoom."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This hope was dashed as tech usage normalized a fair bit in 2022. At most it appears that the pandemic pulled forward some growth. Eg, streaming usage exploded initially but is now growing slower than pre-pandemic such that it appears to be reverting to the projected trajectory of 2019."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Tech companies are recognizing the reality of tech usage and adjusting their business plans and staffing accordingly. Yet the economic impact and employee count of these firms still exceed pre-pandemic levels."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "(If this comment looks familiar to anyone, it\u2019s because I\u2019m largely copying my earlier comment on this topic when Noah Smith covered these tech layoffs a week ago, "
+        },
+        {
+          "type": "url",
+          "value": "https://noahpinion.substack.com/p/the-big-tech-layoffs-are-a-turning/comment/12137020"
+        },
+        {
+          "type": "text",
+          "value": ")"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12343344,
+    "thread_children": 2,
+    "ratio_recv": -20,
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 241
+  },
+  {
+    "post_id": 99102422,
+    "title": "Recent layoffs at Big Tech don't spell economic doom",
+    "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12349895,
+    "top_level": false,
+    "date": "Jan 30 2023 10:50",
+    "likes": 2,
+    "timestamp": 1675093815,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Is this the thread you\u2019re thinking about? "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better/comment/10141589"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I get it, but this logic is very odd to me. I work for an old-school industrial company that\u2019s quite sclerotic but always trying to get with the times. But the idea that more headcount=growth=good is strange and backwards to me. If business is good, and we have more work to do, we have to hire more people- usually reluctantly. But the demand comes first- specific projects that don\u2019t have enough people to accomplish them. Though when we work on govt-funded projects, things can get upside down and we staff up to match a budget then scope the work from there. Is the problem that these tech companies are over-valuated, and have more money than they know what to productively do with?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Is a reply to a long comment from myself starting with, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better/comment/10138366"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> I\u2019m not exactly sure why this happened, but roughly a year ago there was a substantial vibe shift in Silicon Valley which holds that most large technology companies are massively overstaffed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Many, if not most, tech companies are extremely reluctant to fire engineers for performance reasons until they run into a cash flow issue and have to do layoffs. You\u2019ll find this general consensus across tech forums (e.g., Hackers News). I believe this is the case for a multitude of reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u2026"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 12346079,
+    "parent_children": 6,
+    "thread_id": 12346079,
+    "thread_children": 6,
+    "ratio_recv": 1,
+    "ratio_give": -16,
+    "grade_level": 8.1,
+    "word_count": 221
+  },
+  {
+    "post_id": 99102422,
+    "title": "Recent layoffs at Big Tech don't spell economic doom",
+    "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12343737,
+    "top_level": true,
+    "date": "Jan 30 2023 07:03",
+    "likes": 17,
+    "timestamp": 1675080197,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> A boom in startups and an expansion of technical talent outside the \u201ctech\u201d sector, meanwhile, would lay the foundations for a stronger economy over the long run."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree that this normalization of the tech labor market will be good for the economy as a whole, and I further believe it will benefit the tech industry in the long term. I say this as a software engineer who has benefited from the extremely tight labor market and will likely face slower compensation growth and fewer competing employment opportunities due to the correction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Entrepreneurs and startup engineers on forums like Hacker News have long complained about FAANG firms hoarding talent with their high salaries and ever increasing stock prices (a good portion of senior tech worker comp is in stock that vests over four years.) While it\u2019s easy to dismiss these \u201cwoe is me\u201d complaints from startup execs and venture capitalists, this fierce tech labor competition almost certainly suppressed the formation and growth of startups. We can see this in the continued dominance of incumbent tech firms and the lack of competition from rising startups."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, tech needs the creative destruction process of disruptive new startups to advance. It will be good in the long term (possibly even medium term) for tech workers to take a slight bit of pain in order for some of us to found or join new startups. While most of the new ventures will fail, the survivors will offer radically new products and create even more impactful (and lucrative) employment opportunities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The timing is great with the current excitement around recent AI advances. While there is a lot of wishcasting and overall BS with many of the prognostications of how AI will revolutionize the world, there certainly appears to be some real potential for radically new tech products. The hype will drive a lot of experimentation across a plethora of new startups. Most will fail and if any succeed they will change the world in ways that we can\u2019t really predict."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I also think that the tightening of financial conditions and the resulting correction in tech firm valuations will actually be beneficial to these startups. While many are bemoaning the pullback in tech investment and the increased challenges in raising venture capital, I think we need this correction; similar to how we need the tech labor market normalization. There was previously too much money chasing too few opportunities and this led to numerous bad investments. Eg, the countless crypto ponzis. The return of VC investment discipline will focus capital on discerning more promising opportunities and force entrepreneurs to be more efficient in how they deploy these funds."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, as a tech worker, I\u2019m quite excited for these corrections, even if I might face a slight bit of pain in the short term."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12343737,
+    "thread_children": 2,
+    "ratio_recv": -13,
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 467
+  },
+  {
+    "post_id": 99102422,
+    "title": "Recent layoffs at Big Tech don't spell economic doom",
+    "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12343884,
+    "top_level": false,
+    "date": "Jan 30 2023 07:14",
+    "likes": 16,
+    "timestamp": 1675080893,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that we should increase the inflation target. We just can\u2019t do that while failing to hit our current target. If the central bank is willing to increase to 3% now, would we not expect them to increase it again should they find it challenging to hit that new target?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Central bank credibility is a real thing and the Fed losing it in the 70s likely explains a lot of the macroeconomic chaos in that time period. They only regained that with the Volcker shocks and the associated deep recessions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Financial markets need to believe that a central bank can and will keep its promises. Otherwise, in the face of uncertainty, investors will be more aggressively hedging and speculating on volatile inflation and interest rates. That raises the cost of borrowing, including corp bonds and mortgages, which introduces its own flavor of economic pain. Similarly, sophisticated corporations will be more prone to continuously increasing prices if they fear price instability more than the risk of losing market share. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This uncertainty resulting from the loss of central bank credibility creates a lot of economic volatility and pain that ultimately impacts households; both as workers and as consumers. Hence the Fed has to prove that they can keep their previous promises before promising something different in the future."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 12343366,
+    "parent_children": 14,
+    "thread_id": 12343366,
+    "thread_children": 14,
+    "ratio_recv": -11,
+    "ratio_give": 1,
+    "grade_level": 11.0,
+    "word_count": 217
+  },
+  {
+    "post_id": 99102422,
+    "title": "Recent layoffs at Big Tech don't spell economic doom",
+    "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12349718,
+    "top_level": false,
+    "date": "Jan 30 2023 10:44",
+    "likes": 2,
+    "timestamp": 1675093488,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Many did speak up. The Fed listened and acted with their Aug 2020 revised monetary policy named Flexible Average Inflation Targeting. [1] Brookings assessment of FAIT describes it as, [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Fed\u2019s new framework\u2014known as Flexible Average Inflation Targeting (FAIT)\u2014grew out of a period in which inflation fell short of the 2 percent target and inflation expectations drifted down, despite very low interest rates and much lower unemployment than had previously been thought consistent with low, stable inflation. Keeping expectations from moving below 2 percent is especially important when the real equilibrium interest rate appears also to be quite low, making the zero low bound (ZLB) an increasingly salient policy constraint."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The FAIT framework is well designed to counter the disinflationary bias imparted by policy being constrained by the ZLB from time to time. FAIT promises to make up for inflation below 2 percent by aiming to run it \u201cmoderately above 2 percent for some time\u201d\u2014a flexible form of price-level targeting. That implies easier policies for longer than if the Fed were simply aiming to return inflation to 2 percent without the makeup. The point of the averaging is to make sure expectations are indeed anchored at 2 percent. In effect, deliberately aiming for inflation to exceed 2 percent for some time and likely allowing the overshoot of maximum employment necessary to achieve that results in an upward inflation bias that offsets the downward bias arising from the ZLB."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But there are other asymmetries in the new framework that lean toward taking upside risks on inflation and raise questions about how well adherence to the framework would anchor expectations in circumstances in which inflation wasn\u2019t so quiescent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Central banks have to be slow and methodical in revising their monetary policy frameworks. Yet they listen, learn\u2014including their own inhouse research and academic collaborations\u2014and eventually act."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications.htm"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.brookings.edu/opinions/assessing-the-federal-reserves-new-monetary-policy-framework/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 12348618,
+    "parent_children": 2,
+    "thread_id": 12343366,
+    "thread_children": 14,
+    "ratio_recv": -2,
+    "ratio_give": -1,
+    "grade_level": 14.4,
+    "word_count": 306
+  },
+  {
     "post_id": 83900508,
     "title": "Two years of strong and slow boring of hard boards",
     "canonical_url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
@@ -19202,7 +19728,7 @@ window._comments = [
     "id": 12198060,
     "top_level": true,
     "date": "Jan 25 2023 06:50",
-    "likes": 69,
+    "likes": 78,
     "timestamp": 1674647405,
     "body": [
       [
@@ -19258,12 +19784,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 108,
+    "total_children": 124,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 12198060,
-    "thread_children": 108,
-    "ratio_recv": -38,
+    "thread_children": 124,
+    "ratio_recv": -45,
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 370
