@@ -5717,6 +5717,142 @@ window._comments = [
     "word_count": 121
   },
   {
+    "post_id": 99224938,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-f1a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12458175,
+    "top_level": true,
+    "date": "Feb 02 2023 18:52",
+    "likes": 6,
+    "timestamp": 1675381970,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s an interesting attempt to quantify bias in ChatGPT\u2019s moderation, \u201cThe unequal treatment of demographic groups by ChatGPT/OpenAI content moderation system\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://davidrozado.substack.com/p/openaicms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Unsurprisingly, the main conclusion is that ChatGPT has the sensibilities of a MSNBC host. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Critically, the ratings displayed by OpenAI content moderation system when rating negative comments about demographic groups partially resembles left-leaning political orientation hierarchies of perceived vulnerability."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A bunch of us tech nerds are having a long and heated discussion about the results and their potential implications in, "
+        },
+        {
+          "type": "url",
+          "value": "https://news.ycombinator.com/item?id=34625001"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Finally, here\u2019s a reminder of why ChatGPT needs all of these safeguards to make it palatable to the general public; the raw, unrefined core AI methods (GPT3) can easily generate some highly offensive content, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/PunishedLink/status/1621244922257985536"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12458175,
+    "thread_children": 5,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 21.8,
+    "word_count": 115
+  },
+  {
+    "post_id": 99224938,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-f1a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12467863,
+    "top_level": false,
+    "date": "Feb 03 2023 06:35",
+    "likes": 1,
+    "timestamp": 1675424144,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT training involves feedback for moderators using a method called Reinforcement Learning with Human Feedback. Details in "
+        },
+        {
+          "type": "url",
+          "value": "https://openai.com/blog/chatgpt/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Basically, a lot of people spend a lot of time prompting ChatGPT, assessing the generated response, and at times rewriting the response. Eg, if ChatGPT says something offensive then that response is rewritten to be something acceptable. The model is then retrained on these refined responses. Over time the model learns to reflect the sensibilities (ie, biases) of the group of people providing the feedback."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 12466270,
+    "parent_children": 3,
+    "thread_id": 12458175,
+    "thread_children": 5,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 10.9,
+    "word_count": 82
+  },
+  {
+    "post_id": 99224938,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-f1a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12468435,
+    "top_level": false,
+    "date": "Feb 03 2023 07:17",
+    "likes": 2,
+    "timestamp": 1675426668,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "yep"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12468245,
+    "parent_children": 1,
+    "thread_id": 12458175,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": -3.5,
+    "word_count": 1
+  },
+  {
     "post_id": 46339666,
     "title": "\"Don't Look Up\" and the cinema of existential risk",
     "canonical_url": "https://www.slowboring.com/p/dont-look-up",
@@ -6688,7 +6824,7 @@ window._comments = [
     "id": 12376553,
     "top_level": true,
     "date": "Jan 31 2023 07:09",
-    "likes": 51,
+    "likes": 56,
     "timestamp": 1675166976,
     "body": [
       [
@@ -6748,12 +6884,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 42,
+    "total_children": 43,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 12376553,
-    "thread_children": 42,
-    "ratio_recv": -17,
+    "thread_children": 43,
+    "ratio_recv": -20,
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 348
@@ -7737,6 +7873,54 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 6.2,
     "word_count": 21
+  },
+  {
+    "post_id": 99270290,
+    "title": "The case for tax reform",
+    "canonical_url": "https://www.slowboring.com/p/the-case-for-tax-reform",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12406500,
+    "top_level": true,
+    "date": "Feb 01 2023 06:50",
+    "likes": 32,
+    "timestamp": 1675252259,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But how are you going to get the Biden administration to go along with entitlement reforms? Well, there would have to be taxes on the table. And that means looking at ideas like revenue-raising tax reform."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t get the politics of cutting entitlements (eg, Medicare and Social Security) in return for raising taxes on the affluent via reforming deductions in that both of those appear to be a negative for Democrats. Biden would have to break his promise to not hike taxes for those earning less than $400k/year and in return he\u2019s getting cuts to some of the most popular federal programs. I just don\u2019t see how he and other Democrats can generate any positive messaging around this."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, it doesn\u2019t seem like much of a win for Republicans, although I\u2019d admit that\u2014as discussed in the article\u2014Republicans don\u2019t appear to have anything resembling a coherent fiscal policy platform. I get the impression that Republicans universally oppose tax increases, with a possible exception for their regressive \u201cfair tax\u201d federal sales tax, and while there are still some Paul-Ryan-era entitlement-reform Republicans, that appears to be a minority position within the party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The politics around this deal just appear to be a loser for both Democrats and Republicans alike. Yes, these reforms would be beneficial from a macroeconomic perspective, but understanding that requires a level of technocratic sophistication that is totally absent from our electoral politics."
+        }
+      ]
+    ],
+    "total_children": 52,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12406500,
+    "thread_children": 52,
+    "ratio_recv": -23,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 234
   },
   {
     "post_id": 88859649,
@@ -12401,6 +12585,136 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 101
+  },
+  {
+    "post_id": 100006765,
+    "title": "Americans have been gaining weight for as long as records exist",
+    "canonical_url": "https://www.slowboring.com/p/americans-have-been-gaining-weight",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12437300,
+    "top_level": true,
+    "date": "Feb 02 2023 07:17",
+    "likes": 22,
+    "timestamp": 1675340229,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think this data is consistent with the layperson narrative: We\u2019re fatter because we can afford more food\u2014including less healthy food, rich in previous luxuries like sugar and fat\u2014and we work more sedentary jobs due to technology advancements. The seed oils, chemical obesogens, and other mystery causes are generally fringe theories. And I imagine that people who care enough about these false narratives to act on them are likely also engaging in other more productive behavior such as avoiding sugar and exercising more."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, a proper understanding of the cause hasn\u2019t led to widespread success in solving the problem. I think most people know that we should eat less and healthier, and also exercise more. (And we should!) Yet knowledge alone is insufficient. I get the impression that most people who put this understanding into practice have their own obsession with diet and exercise, in a manner with some similarities to the seed oil nuts who incidentally also practice some actual healthy behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Speaking from my own experience and that of my friends, maintaining a healthy weight requires a fair amount of conscious focus. It\u2019s certainly do-able, but it demands dedicating a significant amount of time and effort, which seems to be best facilitated by compulsion. I\u2019m thankful that I\u2019m once again addicted to cycling and home cooking, yet I wouldn\u2019t generalize that as advice for the broader population."
+        }
+      ]
+    ],
+    "total_children": 20,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12437300,
+    "thread_children": 20,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 229
+  },
+  {
+    "post_id": 100006765,
+    "title": "Americans have been gaining weight for as long as records exist",
+    "canonical_url": "https://www.slowboring.com/p/americans-have-been-gaining-weight",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12437451,
+    "top_level": false,
+    "date": "Feb 02 2023 07:25",
+    "likes": 10,
+    "timestamp": 1675340701,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To add some folk health advice: consider taking a fiber supplement to control appetite."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I started taking metamucil thrice-a-day over the holidays to deal with some indigestion from unhealthy meals. Since I bought an entire tub, figured I\u2019d continue working through it. Over the course of January, I\u2019ve lost 5 pounds with no conscious change in diet. Previously I was averaging 2 pounds a month. On reflection, notice that I am eating less without intention. Further, haven\u2019t noticed any loss in athletic performance; my cycling FTP continues to slowly rise and my weight lifting stats are just as pathetic as before."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 12437300,
+    "parent_children": 20,
+    "thread_id": 12437300,
+    "thread_children": 20,
+    "ratio_recv": -4,
+    "ratio_give": -12,
+    "grade_level": 7.7,
+    "word_count": 101
+  },
+  {
+    "post_id": 100006765,
+    "title": "Americans have been gaining weight for as long as records exist",
+    "canonical_url": "https://www.slowboring.com/p/americans-have-been-gaining-weight",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12436739,
+    "top_level": false,
+    "date": "Feb 02 2023 06:46",
+    "likes": 17,
+    "timestamp": 1675338363,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There is an inverse correlation between income and obesity for women, but not for men. From the CDC report, \u201cPrevalence of Obesity Among Adults, by Household Income and Education \u2014 United States, 2011\u20132014\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The prevalence of obesity decreased with increasing income in women (from 45.2% to 29.7%), but there was no difference in obesity prevalence between the lowest (31.5%) and highest (32.6%) income groups among men."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d guess that the gender difference can be explained by social factors: Women are more penalized for being overweight than men."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cdc.gov/mmwr/volumes/66/wr/mm6650a1.htm"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 12436459,
+    "parent_children": 12,
+    "thread_id": 12436459,
+    "thread_children": 12,
+    "ratio_recv": -11,
+    "ratio_give": 10,
+    "grade_level": 7.0,
+    "word_count": 88
   },
   {
     "post_id": 91424801,
@@ -18030,6 +18344,182 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.2,
     "word_count": 59
+  },
+  {
+    "post_id": 99938639,
+    "title": "Windy City mailbag",
+    "canonical_url": "https://www.slowboring.com/p/windy-city-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12467995,
+    "top_level": true,
+    "date": "Feb 03 2023 06:45",
+    "likes": 9,
+    "timestamp": 1675424706,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But what could be a huge deal (if someone makes it work) is something like a medical advice chatbot. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/pdf/2212.13138.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They basically had a large language model answer some common medical questions. They also had a group of doctors answer the same questions. Then yet another group of doctors evaluated the quality of answers from both AI and humans, without knowing the source of the answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Results summarized in, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/emollick/status/1610378527110533120"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Extraordinary new paper from Google on medicine & AI: When Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix formatting"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12467995,
+    "thread_children": 1,
+    "ratio_recv": -8,
+    "ratio_give": null,
+    "grade_level": 8.1,
+    "word_count": 122
+  },
+  {
+    "post_id": 99938639,
+    "title": "Windy City mailbag",
+    "canonical_url": "https://www.slowboring.com/p/windy-city-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12468122,
+    "top_level": true,
+    "date": "Feb 03 2023 06:55",
+    "likes": 8,
+    "timestamp": 1675425350,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> All this stuff with music, art, text, etc. generation is very interesting, but I don\u2019t think will amount to very much economically in the near term."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think we should underestimate the economic value of content generation. Facebook does $117.9B in revenue and Youtube gets $28.8B, both using largely user generated content. Imagine if the quality of all of this content could be massively improved through generative AI, while dropping the content generation cost to near zero. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, rather than animating through illustrators, a creator could just give their script to a generative AI and it would create the appropriate animation video. That could be iteratively refined until the creator is happy with the results. And of course a ChatGPT-like AI could help generate the script itself."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In the extreme case, generative AI might one day offer visuals on par with our most advanced CGI methods. Now any individual can generate video at that level just by writing a script and every video on Youtube would have production value on par with blockbuster films."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This could be a huge disruption to the entertainment industry with massive economic consequences."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12468122,
+    "thread_children": 7,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 9.0,
+    "word_count": 190
+  },
+  {
+    "post_id": 99938639,
+    "title": "Windy City mailbag",
+    "canonical_url": "https://www.slowboring.com/p/windy-city-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12468429,
+    "top_level": true,
+    "date": "Feb 03 2023 07:17",
+    "likes": 4,
+    "timestamp": 1675426635,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that healthcare is ripe for disruption by AI, mainly because this is a labor-heavy industry and we now have the potential for capital-labor substitution in service sectors. Similarly, I imagine the education-industrial complex could be entirely restructured for the same reason. We may finally conquer the Bamol effect (ie, cost disease) in these two massive service sectors that have been consuming an ever growing share of our GDP."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For education, we could imagine a ChatGPT-like AI that serves as an individualized tutor. It would engage the student in a conversation and adapt not only to their knowledge-level, but also to their unique interests. Eg, a history AI could learn that a student is quite excited by tales of warfare and guide them through human history in a war-centered narrative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Alternatively, if they show more engagement on biographies, then the student would get stories of the lives and times of historical figures. The AI could also generate fictional narratives about common people in each era, informed by historical records, to avoid the \u201cgreat man\u201d bias of this approach. Stories would be adapted around themes and characters that are found to maximize engagement for each student."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This extends to other disciplines. Math taught through problem sets that address specific challenges faced by protagonists in a movie. You gotta help them solve the problem in order for the plot to advance. Murder mysteries where you need to learn enough biology and chemistry to determine whether a poisoning is likely. The student could even serve as a member of the Manhattan project, doing physics R&D as they build the first atom bomb."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, this is all aimless speculation and more science fiction than actual science. Yet I think there is a valuable thought experiment in thinking through the most engaging and impactful education we could provide a student if we dedicated a team of human expert tutors."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12468429,
+    "thread_children": 6,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 11.0,
+    "word_count": 315
   },
   {
     "post_id": 51320469,
