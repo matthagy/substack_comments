@@ -3609,6 +3609,102 @@ window._comments = [
     "word_count": 52
   },
   {
+    "post_id": 100878224,
+    "title": "Sunday Thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-964",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12545467,
+    "top_level": false,
+    "date": "Feb 06 2023 04:29",
+    "likes": 1,
+    "timestamp": 1675675797,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Below are some results from roughly a year ago. The Github link at the bottom includes more results as well as the anonymized raw data if anyone wants to calculate any other stats. I\u2019ll update the data eventually, although I think the trend is unchanged since the comment volume is roughly stable for the last year, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report#comment-volume-over-time"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-8ac/comment/6399846"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Off topic: found that Slow Boring comments are dominated by a small number of heavy users in some analysis I did over the weekend. Some stats for comments from January through April 2022,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 80% of comments were posted by 12.4% of commentators"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 50% of comments were posted by 2.35% of commentators"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 1,508 comments were made by the most prolific user"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* the Gini coefficient of comments per a user is 0.819, which is more skewed than the highest country income inequality of 0.63 in South Africa"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* for context, 29,900 total comments were posted on 212 articles from 2,040 unique users in this time period of 120 days"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Guess this isn\u2019t that surprising since similar behavior is seen on other social networks. Still, I didn't expect to see anyone making over a thousand comments in four months."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additional stats and details of the analysis, "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/slowboring_comment_analysis"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 12538261,
+    "parent_children": 2,
+    "thread_id": 12538261,
+    "thread_children": 2,
+    "ratio_recv": -1,
+    "ratio_give": -4,
+    "grade_level": 9.9,
+    "word_count": 199
+  },
+  {
     "post_id": 94620281,
     "title": "A conversation with GiveWell's Elie Hassenfeld",
     "canonical_url": "https://www.slowboring.com/p/a-conversation-with-givewells-elie-f3f",
@@ -15242,6 +15338,270 @@ window._comments = [
     "word_count": 254
   },
   {
+    "post_id": 101496493,
+    "title": "The state of our mailbag is strong",
+    "canonical_url": "https://www.slowboring.com/p/the-state-of-our-mailbag-is-strong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12670971,
+    "top_level": true,
+    "date": "Feb 10 2023 06:51",
+    "likes": 25,
+    "timestamp": 1676029875,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ezra Klein had an interesting and insightful discussion with Dan Savage, with a big focus on polyamory and ethical nonmonogamy. From episode description, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2023/01/10/opinion/ezra-klein-podcast-dan-savage.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> For decades now, Savage has been arguing that our expectations for long-term partnerships are way too high; that healthy relationships are about acknowledging our vast spectrum of desires, not repressing them; and that monogamy is not the ideal setup for every partnership. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s certainly a provocative position that even fairly open-minded people can find offensive. Yet Savage makes some astute observations about monogamy and a solid argument for considering open relationships. Particularly, \u201cMonogamy is literally the only thing humans attempt where perfection is the only metric of success.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From the transcript, I find these excerpts best summarizes his thoughts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> DAN SAVAGE: The idea that monogamy is a choice a couple makes, and a choice a couple can revisit, that monogamy shouldn\u2019t be a default setting, it should be something that you opt into and can opt out of over the life of a relationship. \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Being in love, if you\u2019ve made a monogamous commitment, might mean you don\u2019t sleep with anybody else, out of respect for your partner, and the choice you made, and the choice you made together, but you\u2019re still going to want to sleep with somebody else, and expecting that other person to pretend they don\u2019t want to sometimes, that they aren\u2019t tempted, and getting angry whenever you stumble over evidence that your partner might be attracted to somebody else, which isn\u2019t me giving permission to people to be insensitive or cruel about sometimes finding other people attractive, if you\u2019re in an exclusive relationship, but it\u2019s such an engine of conflict. That\u2019s what I began to see when I first started getting a lot of letters from straight people, that these expectations \u2014 that love meant you didn\u2019t sleep with anybody else at all, true and lasting relationships were monogamous relationships, it created so much stress and tension, and it wound up ending a lot of really good relationships and imperfect ones. And monogamy is sort of my hobbyhorse. Monogamy is literally the only thing humans attempt where perfection is the only metric of success."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recommend listening to the episode and considering this and Savage\u2019s other unconventional positions on relationships."
+        }
+      ]
+    ],
+    "total_children": 123,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12670971,
+    "thread_children": 123,
+    "ratio_recv": 17,
+    "ratio_give": null,
+    "grade_level": 15.5,
+    "word_count": 375
+  },
+  {
+    "post_id": 101496493,
+    "title": "The state of our mailbag is strong",
+    "canonical_url": "https://www.slowboring.com/p/the-state-of-our-mailbag-is-strong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12676249,
+    "top_level": false,
+    "date": "Feb 10 2023 10:33",
+    "likes": 11,
+    "timestamp": 1676043194,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and if 18% of parachutes were failing to open we\u2019d certainly want to fix that problem. We could consider two options:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A) We need better procedures to make these skydivers more diligent in checking and preparing their gear. We might even hope to promote a culture of responsibility, possibly by posthumously shaming anyone who\u2019s chute failed to open."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "B) Some people shouldn\u2019t skydive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I see Savage as arguing for an analogous B approach for relationships: Exclusive monogamy doesn\u2019t work for some people. That doesn\u2019t mean they should never have committed relationships, just that those relationships can\u2019t be dependent on exclusivity. Similarly, people that lack the discipline for skydiving needn\u2019t forgo all hobbies; instead they might look into golf."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 12671860,
+    "parent_children": 11,
+    "thread_id": 12670971,
+    "thread_children": 123,
+    "ratio_recv": -9,
+    "ratio_give": -31,
+    "grade_level": 9.9,
+    "word_count": 119
+  },
+  {
+    "post_id": 101496493,
+    "title": "The state of our mailbag is strong",
+    "canonical_url": "https://www.slowboring.com/p/the-state-of-our-mailbag-is-strong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12671335,
+    "top_level": false,
+    "date": "Feb 10 2023 07:19",
+    "likes": 20,
+    "timestamp": 1676031561,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Savage already has the open relationship he wants. He and his husband have been married since 1991 so it seems they have a particularly stable relationship with that attribute. Hence, I don\u2019t think he needs to advocate for \u201cthe ability to sleep around.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Instead, I think he arrived at this position due to the thousands of letters sent to his sex advice column over the decades about the challenges of monogamy, temptation, and cheating. He further draws on empirical data that cheating is rampant. Eg, a 2020 YouGov poll finding 18% of US adults have cheated on their partner. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Savage isn\u2019t against exclusive monogamy, but instead recognizes it may be suboptimal for some relationships. If the alternative is cheating and divorce, then considering open relationships may be an improvement. Or at least couples should discuss this relatively early in their relationship, with exclusivity being an explicit decision, and the discussion continuing as their relationship evolves."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m not fully onboard with his argument, but I also don\u2019t think we should immediately dismiss it due to visceral revulsion or reducing it to \u201cmen just wanna sleep around.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://today.yougov.com/topics/society/articles-reports/2020/01/31/millennials-monogamy-poly-poll-survey-data"
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": 12671074,
+    "parent_children": 40,
+    "thread_id": 12670971,
+    "thread_children": 123,
+    "ratio_recv": 3,
+    "ratio_give": -13,
+    "grade_level": 10.6,
+    "word_count": 187
+  },
+  {
+    "post_id": 101496493,
+    "title": "The state of our mailbag is strong",
+    "canonical_url": "https://www.slowboring.com/p/the-state-of-our-mailbag-is-strong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12676327,
+    "top_level": false,
+    "date": "Feb 10 2023 10:35",
+    "likes": 5,
+    "timestamp": 1676043342,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Savage is not arguing that everyone should abandon monogamy. He\u2019s instead arguing that some people are struggling with it, and they may be better served with committed, yet open relationships."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 12672332,
+    "parent_children": 17,
+    "thread_id": 12670971,
+    "thread_children": 123,
+    "ratio_recv": 4,
+    "ratio_give": -18,
+    "grade_level": 9.1,
+    "word_count": 30
+  },
+  {
+    "post_id": 101496493,
+    "title": "The state of our mailbag is strong",
+    "canonical_url": "https://www.slowboring.com/p/the-state-of-our-mailbag-is-strong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12671146,
+    "top_level": false,
+    "date": "Feb 10 2023 07:05",
+    "likes": 16,
+    "timestamp": 1676030710,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Scanning through the transcript reminded me of an even more provocative position: Savage believes all relationships are transactional in some ways, although not necessarily financial. He argues that prostitution is just particularly transparent in its transactional nature, but shouldn\u2019t be seen as any less legitimate since this is a feature of all relationships."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From the transcript,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2023/01/10/podcasts/ezra-klein-show-transcript-dan-savage.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I think all relationships, if you really peel the layers back far enough, are, at some point, transactional. I pay for it with my husband. I don\u2019t pay for it with cash money. I pay for it with time, attention, affection, concern, making sure he goes to see the doctor when he needs to go see the doctor. There\u2019s a reason married people live longer. If I stopped paying in like that, if I stopped caring about him, if he stopped paying in like that, stopped paying me with those same ephemeral, intangible, but very important things, our relationship would collapse."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We see transactional relationships everywhere, and if you know people who are sex workers, a lot of what they\u2019re paid for is not sex, it\u2019s time, it\u2019s attention, it\u2019s focus, and if we have a culture that tells people that, if you ever had to pay for it with cash, you\u2019re a loser, or a monster, or both, it makes the one outlet that some people may have, the one way that some people may pay for it, that other people who are also paying for it might not pay for it, it closes that lane down. [...] [I]f we could also recognize that all relationships, all sexual relationships, all emotional relationships are, on some level, transactional, and, therefore, we shouldn\u2019t stigmatize the ones that are more evidently transactional."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, there probably is some truth there. Further, some relationships may be improved by moving away from an \u201cunconditional love\u201d mindset towards recognizing that it takes work, including acts that demonstrate one\u2019s care for their partner, to promote relationship health."
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": 12670971,
+    "parent_children": 123,
+    "thread_id": 12670971,
+    "thread_children": 123,
+    "ratio_recv": 4,
+    "ratio_give": -9,
+    "grade_level": 12.7,
+    "word_count": 325
+  },
+  {
     "post_id": 75632816,
     "title": "Milan's Mailbag",
     "canonical_url": "https://www.slowboring.com/p/milans-mailbag",
@@ -17620,6 +17980,42 @@ window._comments = [
     "word_count": 106
   },
   {
+    "post_id": 101213330,
+    "title": "Biden has been tougher on China than Trump",
+    "canonical_url": "https://www.slowboring.com/p/biden-has-been-tougher-on-china-than",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12610642,
+    "top_level": false,
+    "date": "Feb 08 2023 10:22",
+    "likes": 2,
+    "timestamp": 1675869729,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think this is the key question: Would the US (and allies) be willing to break a blockade of Taiwan by sinking Chinese ships? We need to consider both the Executive\u2019s willingness as well as Congress because this would almost certainly require a declaration of war. Particularly because we don\u2019t have a defense treaty with Taiwan that would automatically kick in."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I\u2019m fairly uncertain how this would go. I could certainly imagine a scenario in which a bipartisan-China-hawk consensus leads us to war. I could also see both parties being too squeamish about declaring war on a nuclear power for the benefit of a third country, particularly when we don\u2019t even have a defense treaty with the country we\u2019d be aiding."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12605910,
+    "parent_children": 53,
+    "thread_id": 12605603,
+    "thread_children": 80,
+    "ratio_recv": null,
+    "ratio_give": -13,
+    "grade_level": 11.2,
+    "word_count": 122
+  },
+  {
     "post_id": 90017925,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-c23",
@@ -17658,6 +18054,159 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.9,
     "word_count": 35
+  },
+  {
+    "post_id": 101399566,
+    "title": "Joe Biden didn't make eggs expensive",
+    "canonical_url": "https://www.slowboring.com/p/joe-biden-didnt-make-eggs-expensive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12638001,
+    "top_level": true,
+    "date": "Feb 09 2023 06:33",
+    "likes": 9,
+    "timestamp": 1675942396,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And like all of the supply-side spikes over the last two years, eggs prices are correcting. From, \u201cWholesale egg prices have \u2018collapsed.\u2019 Why consumers may soon see relief\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cnbc.com/2023/02/07/wholesale-egg-prices-have-collapsed-from-record-highs-in-december.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Wholesale egg prices have fallen by more than 50% since December, according to Urner Barry data."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> On average, it takes about four weeks for retail prices to reflect wholesale price trends, Rubio said. That means consumers may start to see some relief in February, he said."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12638001,
+    "thread_children": 4,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 6.7,
+    "word_count": 74
+  },
+  {
+    "post_id": 101399566,
+    "title": "Joe Biden didn't make eggs expensive",
+    "canonical_url": "https://www.slowboring.com/p/joe-biden-didnt-make-eggs-expensive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12643392,
+    "top_level": false,
+    "date": "Feb 09 2023 10:20",
+    "likes": 6,
+    "timestamp": 1675956052,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This is the benchmark cited in the article,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Prices fell to $2.61 per dozen eggs on Monday \u2014 a 52% decrease from the peak of around $5.43 on Dec. 19 and a 47% decrease from the beginning of 2023, according to Urner Barry, a market research firm that specializes in the wholesale food industry. Its Midwest Large White Egg price benchmark is a widely cited barometer in the egg industry."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The USDA corroborates that trend"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cWholesale prices have been declining steadily from their late 2022 highs which has helped support retailer efforts to bring pricing down to a more consumer-acceptable level,\u201d the USDA said Feb. 3."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And here\u2019s what the article says about the current state of bird flu"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There haven\u2019t been any new bird-flu outbreaks among commercial table-egg laying birds since Dec. 20, according to the U.S. Department of Agriculture."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> A prolonged period without setbacks in egg production has given suppliers a reprieve and the market time to recover, said Brian Moscogiuri, global trade strategist at Eggs Unlimited, one of the largest egg suppliers in the U.S."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 12640683,
+    "parent_children": 3,
+    "thread_id": 12638001,
+    "thread_children": 4,
+    "ratio_recv": -5,
+    "ratio_give": 4,
+    "grade_level": 9.0,
+    "word_count": 177
+  },
+  {
+    "post_id": 101399566,
+    "title": "Joe Biden didn't make eggs expensive",
+    "canonical_url": "https://www.slowboring.com/p/joe-biden-didnt-make-eggs-expensive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12638024,
+    "top_level": true,
+    "date": "Feb 09 2023 06:35",
+    "likes": 4,
+    "timestamp": 1675942529,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a great Jan 23rd Odd Lots episode on the economics of chicken farming, including the current price spike due to bird flu, \u201cWhat The Heck Is Happening With the Price of Eggs?\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-23/odd-lots-podcast-why-are-eggs-so-expensive-right-now"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The price of eggs rose 60% in 2022, as measured by the Consumer Price Index. Meanwhile, wholesale egg prices are up 300% in the last year, creating a chart that looks almost parabolic. So what's going on? And is there any relief in sight? On this episode, we speak with Glenn Hickman, president of Hickman's Family Farms, an Arizona egg farm with roughly 10 million chickens. Glenn explains why egg prices have been shooting higher, the role of the Covid-19 pandemic, and how farms are responding to the outbreak of avian flu."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12638024,
+    "thread_children": 3,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 6.7,
+    "word_count": 125
   },
   {
     "post_id": 61636691,
