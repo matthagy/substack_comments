@@ -710,6 +710,108 @@ window._comments = [
     "word_count": 162
   },
   {
+    "post_id": 104112057,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-659",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12987090,
+    "top_level": false,
+    "date": "Feb 21 2023 18:03",
+    "likes": 12,
+    "timestamp": 1677020584,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve found that the contentious posts with a high volume of comments appear to have a lot of the discussion driven by a small number of users who post an excessive number of comments. Eg, on the \u201cyouth gender care\u201d post, there were two users that each posted roughly 40 comments out of the total ~660 comments. In looking at a sample of comments from those top-volume users, I found their comments to be rather inflammatory, and I believe that contributed to additional responses from other users."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, on today's \u201ccar tags\u201d post with ~650 comments, we already have one user contributing 60 comments and two more with over 40 comments. Again, I think these highly-engaged users are driving further comments from other users."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Given these results, I\u2019m personally working on avoiding the temptation to participate in these deeply-nested threads of heated discussion. Rarely does anyone change their mind or even learn anything. Instead, it\u2019s just a few of us shouting past each other."
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": 12986133,
+    "parent_children": 38,
+    "thread_id": 12986133,
+    "thread_children": 38,
+    "ratio_recv": 6,
+    "ratio_give": 1,
+    "grade_level": 10.1,
+    "word_count": 164
+  },
+  {
+    "post_id": 104112057,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-659",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12989183,
+    "top_level": false,
+    "date": "Feb 21 2023 19:33",
+    "likes": 1,
+    "timestamp": 1677025986,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good point. I haven't looked into that comparison with respect to other posts."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12988293,
+    "parent_children": 3,
+    "thread_id": 12986133,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 7.2,
+    "word_count": 13
+  },
+  {
+    "post_id": 104112057,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-659",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12987370,
+    "top_level": false,
+    "date": "Feb 21 2023 18:15",
+    "likes": 5,
+    "timestamp": 1677021302,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, you got the high score in today\u2019s discussion. Although in sampling your comments, I personally don\u2019t find them to be particularly inflammatory. Further, your comments today are highly \u201cliked\u201d, which I haven\u2019t previously seen in cases where a small number of users drive the discussion through provocation."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12987215,
+    "parent_children": 1,
+    "thread_id": 12986133,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": 4,
+    "grade_level": 9.5,
+    "word_count": 48
+  },
+  {
     "post_id": 55799999,
     "title": "Expensive energy is really bad",
     "canonical_url": "https://www.slowboring.com/p/expensive-energy-is-really-bad",
@@ -3613,6 +3715,210 @@ window._comments = [
     "word_count": 104
   },
   {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967833,
+    "top_level": false,
+    "date": "Feb 21 2023 07:26",
+    "likes": 59,
+    "timestamp": 1676982372,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes! Many of Yglesias\u2019s liberal defenders on Twitter even pointed out that social trust is essential for strong state capacity, including a robust welfare state. Degrading trust in the state, and society at large, is a common right-wing tactic for defeating leftist politics. Yet many Twitter leftists engage in this very behavior themselves."
+        }
+      ]
+    ],
+    "total_children": 104,
+    "parent_id": 12967261,
+    "parent_children": 121,
+    "thread_id": 12967261,
+    "thread_children": 121,
+    "ratio_recv": -19,
+    "ratio_give": -52,
+    "grade_level": 11.4,
+    "word_count": 53
+  },
+  {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967487,
+    "top_level": false,
+    "date": "Feb 21 2023 07:05",
+    "likes": 82,
+    "timestamp": 1676981129,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Then argue for higher speed limits while continuing to respect them. We don\u2019t accept tax evasion just because the perpetrator believes their taxes are too high. In general, many people will disagree with our current laws and we have a process for changing them when we\u2019ve reached sufficient consensus."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 12967420,
+    "parent_children": 29,
+    "thread_id": 12966910,
+    "thread_children": 43,
+    "ratio_recv": -47,
+    "ratio_give": 78,
+    "grade_level": 8.5,
+    "word_count": 49
+  },
+  {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967744,
+    "top_level": false,
+    "date": "Feb 21 2023 07:20",
+    "likes": 45,
+    "timestamp": 1676982043,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "All the more reason to move to automated traffic enforcement. Removes the confrontation with the police as well as human bias. And valid, legible tags are absolutely necessary for that."
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": 12967424,
+    "parent_children": 48,
+    "thread_id": 12967172,
+    "thread_children": 114,
+    "ratio_recv": -29,
+    "ratio_give": 44,
+    "grade_level": 7.2,
+    "word_count": 30
+  },
+  {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967390,
+    "top_level": false,
+    "date": "Feb 21 2023 06:58",
+    "likes": 33,
+    "timestamp": 1676980705,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Then scale the fine with income/car-value. And have repeated infractions lead to more serious consequences like losing one's license. Driving is far too dangerous to accept rule breaking just because our current penalties aren\u2019t sufficiently fair."
+        }
+      ]
+    ],
+    "total_children": 22,
+    "parent_id": 12967340,
+    "parent_children": 32,
+    "thread_id": 12967172,
+    "thread_children": 114,
+    "ratio_recv": -16,
+    "ratio_give": 31,
+    "grade_level": 9.2,
+    "word_count": 36
+  },
+  {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967089,
+    "top_level": true,
+    "date": "Feb 21 2023 06:32",
+    "likes": 30,
+    "timestamp": 1676979172,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The third is the broader trend toward a general cultural disparagement of enforcing rules. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These anti-rule-encorcement leftists would be better served with some sort of libertarian or anarchist political allegiance. It\u2019s a shame that the American Libertarian organizations have gone so far off the rails because the basic political philosophy is more consistent with distrust of the state. It may still be a dumb theory of politics, or at best it offers a critique of limited value in the modern world, but it at least offers a cogent set of ideas. In contrast, leftist politics requires strong state capacity and thereby enforcement of the policies and rules created by the state."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And it would help Democrats win elections if we severed ties with these libertarians/anarchists posing as leftists."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12967089,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 128
+  },
+  {
+    "post_id": 103365512,
+    "title": "We can't tolerate fake, expired, and obscured car tags",
+    "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12967237,
+    "top_level": false,
+    "date": "Feb 21 2023 06:45",
+    "likes": 2,
+    "timestamp": 1676979958,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We might get something like that due to so many car companies trying to create self-driving, or at least advanced cruise control. These cars are loaded with cameras so it would be straightforward to detect and document illegal behavior such as changing lanes without signaling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, it\u2019s my understanding that one of the biggest challenges for self-driving is all the incredibly dumb things human drivers do; actions that even other humans can\u2019t predict and plan for. Hence, these car companies have a strong incentive to get bad drivers off the road and thereby simplify their technical challenges."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could imagine a system where these camera-augmented cars can auto detect many illegal driving behaviors and submit video evidence to the appropriate jurisdiction. Local governments needn\u2019t invest in their own cameras and can instead just register their turf with the car companies. They\u2019ll just receive a stream of documented driving offenses and they then just mail out the tickets."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 12966969,
+    "parent_children": 5,
+    "thread_id": 12966969,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 12.0,
+    "word_count": 157
+  },
+  {
     "post_id": 98492911,
     "title": "Republicans can't even explain what they're trying to do with the debt ceiling",
     "canonical_url": "https://www.slowboring.com/p/republicans-cant-even-explain-what",
@@ -5113,6 +5419,64 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.8,
     "word_count": 58
+  },
+  {
+    "post_id": 102357830,
+    "title": "Sunday Thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-21a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 12925543,
+    "top_level": true,
+    "date": "Feb 19 2023 15:39",
+    "likes": 7,
+    "timestamp": 1676839188,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This is surreal\u2026 "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Microsoft declined further comment about Bing\u2019s behavior Thursday, but Bing itself agreed to comment \u2014 saying \u201cit\u2019s unfair and inaccurate to portray me as an insulting chatbot\u201d and asking that the AP not \u201ccherry-pick the negative examples or sensationalize the issues.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u201cI don\u2019t recall having a conversation with The Associated Press, or comparing anyone to Adolf Hitler,\u201d it added. \u201cThat sounds like a very extreme and unlikely scenario. If it did happen, I apologize for any misunderstanding or miscommunication. It was not my intention to be rude or disrespectful.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From \u201cIs Bing too belligerent? Microsoft looks to tame AI chatbot\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://apnews.com/article/technology-science-microsoft-corp-business-software-fb49e5d625bf37be0527e5173116bef3"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Seems like something out of a scifi story in that reporters can now interview AI bots and get reasonable answers."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12925543,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 122
   },
   {
     "post_id": 72553392,
