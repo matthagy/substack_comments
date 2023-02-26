@@ -719,7 +719,7 @@ window._comments = [
     "id": 12987090,
     "top_level": false,
     "date": "Feb 21 2023 18:03",
-    "likes": 12,
+    "likes": 17,
     "timestamp": 1677020584,
     "body": [
       [
@@ -741,13 +741,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 19,
+    "total_children": 20,
     "parent_id": 12986133,
-    "parent_children": 38,
+    "parent_children": 39,
     "thread_id": 12986133,
-    "thread_children": 38,
-    "ratio_recv": 6,
-    "ratio_give": 1,
+    "thread_children": 39,
+    "ratio_recv": 7,
+    "ratio_give": 5,
     "grade_level": 10.1,
     "word_count": 164
   },
@@ -775,9 +775,9 @@ window._comments = [
     "parent_id": 12988293,
     "parent_children": 3,
     "thread_id": 12986133,
-    "thread_children": 38,
+    "thread_children": 39,
     "ratio_recv": null,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 7.2,
     "word_count": 13
   },
@@ -791,7 +791,7 @@ window._comments = [
     "id": 12987370,
     "top_level": false,
     "date": "Feb 21 2023 18:15",
-    "likes": 5,
+    "likes": 8,
     "timestamp": 1677021302,
     "body": [
       [
@@ -805,9 +805,9 @@ window._comments = [
     "parent_id": 12987215,
     "parent_children": 1,
     "thread_id": 12986133,
-    "thread_children": 38,
+    "thread_children": 39,
     "ratio_recv": null,
-    "ratio_give": 4,
+    "ratio_give": 6,
     "grade_level": 9.5,
     "word_count": 48
   },
@@ -3724,7 +3724,7 @@ window._comments = [
     "id": 12967833,
     "top_level": false,
     "date": "Feb 21 2023 07:26",
-    "likes": 59,
+    "likes": 68,
     "timestamp": 1676982372,
     "body": [
       [
@@ -3734,13 +3734,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 104,
+    "total_children": 111,
     "parent_id": 12967261,
-    "parent_children": 121,
+    "parent_children": 128,
     "thread_id": 12967261,
-    "thread_children": 121,
-    "ratio_recv": -19,
-    "ratio_give": -52,
+    "thread_children": 128,
+    "ratio_recv": -22,
+    "ratio_give": -55,
     "grade_level": 11.4,
     "word_count": 53
   },
@@ -3754,7 +3754,7 @@ window._comments = [
     "id": 12967487,
     "top_level": false,
     "date": "Feb 21 2023 07:05",
-    "likes": 82,
+    "likes": 91,
     "timestamp": 1676981129,
     "body": [
       [
@@ -3766,11 +3766,11 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 12967420,
-    "parent_children": 29,
+    "parent_children": 30,
     "thread_id": 12966910,
-    "thread_children": 43,
-    "ratio_recv": -47,
-    "ratio_give": 78,
+    "thread_children": 45,
+    "ratio_recv": -53,
+    "ratio_give": 87,
     "grade_level": 8.5,
     "word_count": 49
   },
@@ -3784,7 +3784,7 @@ window._comments = [
     "id": 12967744,
     "top_level": false,
     "date": "Feb 21 2023 07:20",
-    "likes": 45,
+    "likes": 49,
     "timestamp": 1676982043,
     "body": [
       [
@@ -3799,8 +3799,8 @@ window._comments = [
     "parent_children": 48,
     "thread_id": 12967172,
     "thread_children": 114,
-    "ratio_recv": -29,
-    "ratio_give": 44,
+    "ratio_recv": -31,
+    "ratio_give": 48,
     "grade_level": 7.2,
     "word_count": 30
   },
@@ -3814,7 +3814,7 @@ window._comments = [
     "id": 12967390,
     "top_level": false,
     "date": "Feb 21 2023 06:58",
-    "likes": 33,
+    "likes": 36,
     "timestamp": 1676980705,
     "body": [
       [
@@ -3829,8 +3829,8 @@ window._comments = [
     "parent_children": 32,
     "thread_id": 12967172,
     "thread_children": 114,
-    "ratio_recv": -16,
-    "ratio_give": 31,
+    "ratio_recv": -17,
+    "ratio_give": 34,
     "grade_level": 9.2,
     "word_count": 36
   },
@@ -3844,7 +3844,7 @@ window._comments = [
     "id": 12967089,
     "top_level": true,
     "date": "Feb 21 2023 06:32",
-    "likes": 30,
+    "likes": 31,
     "timestamp": 1676979172,
     "body": [
       [
@@ -3914,7 +3914,7 @@ window._comments = [
     "thread_id": 12966969,
     "thread_children": 5,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -4,
     "grade_level": 12.0,
     "word_count": 157
   },
@@ -11715,6 +11715,102 @@ window._comments = [
     "word_count": 299
   },
   {
+    "post_id": 104440770,
+    "title": "Don't worry about a mailbag",
+    "canonical_url": "https://www.slowboring.com/p/dont-worry-about-a-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13061279,
+    "top_level": true,
+    "date": "Feb 24 2023 06:33",
+    "likes": 40,
+    "timestamp": 1677238413,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This is not really true of the typical bad-articles-writer whose skills are not particularly useful or valuable. So while I think it\u2019s bad to spend your life feeding the audience\u2019s appetite for bad articles, it\u2019s not necessarily as wasteful as expending your tech skills on making smartphone apps more addictive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are absolutely other less-socially-harmful jobs that those clickbait writers could do, they just happen to be jobs that these writers **do not want to do**. Ie, non-journalist jobs. Eg, they could work in corporate PR, HR or recruitment. Or they could retrain to develop additional skills to apply in more-socially-beneficial jobs. Eg, train to become a technical writer developing manuals for renewal energy systems."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t see how that is any different than a statistician choosing to work at Facebook on optimizing engagement (ie, addiction) rather than take a more socially beneficial job. Just like the writer who wants to be a journalist, the FB worker has their own preferences that they believe outweigh any moral considerations. Eg, a higher salary."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We can argue that it\u2019s a matter of degrees; that social media addiction is more harmful than clickbait headlines; that there is a higher social opportunity cost in STEM careers; that the statistician\u2019s alternative jobs are more palatable than the writer\u2019s. But it\u2019s still the same moral question of career choice."
+        }
+      ]
+    ],
+    "total_children": 21,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13061279,
+    "thread_children": 21,
+    "ratio_recv": -24,
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 223
+  },
+  {
+    "post_id": 104440770,
+    "title": "Don't worry about a mailbag",
+    "canonical_url": "https://www.slowboring.com/p/dont-worry-about-a-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13061591,
+    "top_level": true,
+    "date": "Feb 24 2023 06:59",
+    "likes": 3,
+    "timestamp": 1677239997,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I think this [cost/benefits of the US dollar as a global reserve currency] is overstated \u2014 American seigniorage increases the trade deficit, but you can have higher or lower export volumes even with the deficit constant. I find that people mix up net and gross a lot in these issues."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My understanding of Michael Pettis\u2019s argument is that the US dollar would weaken, and thereby close the trade deficit, if it weren\u2019t the global reserve currency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ie, if the excess US dollars resulting from the trade deficit were not parked in dollar-denominated assets, but instead exchanged for exported goods and services, then we\u2019d have more dollars chasing the same quantity of production, causing the dollar to depreciate. This is the general understanding of how floating currency exchange rates prevent persistent trade imbalances."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Pettis (and Matt Klein) argue that the strong dollar benefits the US financial services industry, and related fields like venture-capital-financed tech, at the expense of US production. The strong demand for dollar-denominated assets provides massive fee revenue for financial services, and further keeps the cost of dollar-funded capital cheap. In contrast, the unnaturally strong dollar weakens US exports by making them more expensive on the international market."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13061591,
+    "thread_children": 1,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 14.1,
+    "word_count": 198
+  },
+  {
     "post_id": 83218989,
     "title": "Post-midterm mailbag",
     "canonical_url": "https://www.slowboring.com/p/post-midterm-mailbag",
@@ -13219,6 +13315,36 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 260
+  },
+  {
+    "post_id": 102437209,
+    "title": "The once and future carbon tax",
+    "canonical_url": "https://www.slowboring.com/p/the-once-and-future-carbon-tax",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13029439,
+    "top_level": true,
+    "date": "Feb 23 2023 06:46",
+    "likes": 23,
+    "timestamp": 1677152809,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think either party is going to seriously pursue fiscal austerity until we\u2019re faced with an actual crisis. Eg, the automatic cut in Social Security benefits mentioned in the article. The incentives are such that voters would punish any politician that even just proposes, let alone implements, fiscal austerity in the form of tax hikes and spending cuts. Hence, such policies will only become palatable to voters when contrasted against even worse alternatives."
+        }
+      ]
+    ],
+    "total_children": 47,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13029439,
+    "thread_children": 47,
+    "ratio_recv": -9,
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 74
   },
   {
     "post_id": 95081668,
