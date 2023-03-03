@@ -11724,7 +11724,7 @@ window._comments = [
     "id": 13061279,
     "top_level": true,
     "date": "Feb 24 2023 06:33",
-    "likes": 40,
+    "likes": 43,
     "timestamp": 1677238413,
     "body": [
       [
@@ -11752,12 +11752,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 21,
+    "total_children": 22,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 13061279,
-    "thread_children": 21,
-    "ratio_recv": -24,
+    "thread_children": 22,
+    "ratio_recv": -25,
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 223
@@ -11805,7 +11805,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 13061591,
     "thread_children": 1,
-    "ratio_recv": -2,
+    "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 14.1,
     "word_count": 198
@@ -12359,6 +12359,48 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 236
+  },
+  {
+    "post_id": 102749378,
+    "title": "Misinformation isn't just on the right ",
+    "canonical_url": "https://www.slowboring.com/p/misinformation-isnt-just-on-the-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13140414,
+    "top_level": true,
+    "date": "Feb 27 2023 06:59",
+    "likes": 86,
+    "timestamp": 1677499150,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But this whole genre of genuine inquiry into public opinion dynamics has gotten derailed, I think, by the sort of goofy idea that Donald Trump was swept into power by a tidal wave of \u201cmisinformation\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this could be one of the most damaging impacts of the Trump era because it is misleading many of us to believe that our political opponents are simply misinformed rather than having fundamentally different beliefs and values. Eg, why would these morons vote against their own interests?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That lazy and self-serving copout guards us from having to contend with the politics of the possible within a pluralistic democracy where many of our fellow voters disagree with us at a foundational level. We can instead pretend that the issue is just Tucker lying to his mass audience, and further believe we should simply focus on correcting that. In contrast, if we recognized that Tucker is a demand-side problem, ie, people want their worldview affirmed, then we\u2019d have to grapple with the political constraints of needing to win some of these voters through political compromise."
+        }
+      ]
+    ],
+    "total_children": 73,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13140414,
+    "thread_children": 73,
+    "ratio_recv": -33,
+    "ratio_give": null,
+    "grade_level": 17.3,
+    "word_count": 180
   },
   {
     "post_id": 61349681,
@@ -16721,6 +16763,84 @@ window._comments = [
     "word_count": 244
   },
   {
+    "post_id": 105202767,
+    "title": "Why are young liberals so depressed?",
+    "canonical_url": "https://www.slowboring.com/p/why-are-young-liberals-so-depressed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13204105,
+    "top_level": true,
+    "date": "Mar 01 2023 06:51",
+    "likes": 11,
+    "timestamp": 1677671475,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> One possible culprit for this widespread sadness is that social media apps are especially damaging to girls\u2019 psychological health, a thesis long championed by Jonathan Haidt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While this article largely focuses on the impact of politics on depression, I think social media plays an important role in facilitating that impact. Ie, if it weren\u2019t for social media then political framing wouldn\u2019t have such a potential strong effect on mental well-being."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Haidt has a new substack where he\u2019s collecting and discussing the data about the drivers of deteriorating mental health in teens for his upcoming book, tentatively titled \u201cKids In Space: Why Teen Mental Health is Collapsing.\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://jonathanhaidt.substack.com/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, his Feb 22nd post, \u201cSocial Media is a Major Cause of the Mental Illness Epidemic in Teen Girls. Here\u2019s the Evidence.\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://jonathanhaidt.substack.com/p/social-media-mental-illness-epidemic"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> There is one giant, obvious, international, and gendered cause: Social media. Instagram was founded in 2010. The iPhone 4 was released then too\u2014the first smartphone with a front-facing camera. In 2012 Facebook bought Instagram, and that\u2019s the year that its user base exploded. By 2015, it was becoming normal for 12-year-old girls to spend hours each day taking selfies, editing selfies, and posting them for friends, enemies, and strangers to comment on, while also spending hours each day scrolling through photos of other girls and fabulously wealthy female celebrities with (seemingly) vastly superior bodies and lives. The hours girls spent each day on Instagram were taken from sleep, exercise, and time with friends and family. What did we think would happen to them?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Collaborative Review doc that Jean Twenge, Zach Rausch and I have put together collects more than a hundred correlational, longitudinal, and experimental studies, on both sides of the question. Taken as a whole, it shows strong and clear evidence of causation, not just correlation. There are surely other contributing causes, but the Collaborative Review doc points strongly to this conclusion: Social Media is a Major Cause of the Mental Illness Epidemic in Teen Girls."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Collaborative Review doc is this nearly 300 page Google Doc, "
+        },
+        {
+          "type": "url",
+          "value": "https://docs.google.com/document/d/1w-HOfseF2wF9YIpXwUUtP65-olnkPyWcgF5BiAtBEy0/edit"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13204105,
+    "thread_children": 5,
+    "ratio_recv": -11,
+    "ratio_give": null,
+    "grade_level": 11.0,
+    "word_count": 337
+  },
+  {
     "post_id": 88097777,
     "title": "A lot of the best political messages are really boring",
     "canonical_url": "https://www.slowboring.com/p/a-lot-of-the-best-political-messages",
@@ -17551,6 +17671,36 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 5.6,
     "word_count": 124
+  },
+  {
+    "post_id": 105098236,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-608",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13236194,
+    "top_level": false,
+    "date": "Mar 02 2023 07:53",
+    "likes": 5,
+    "timestamp": 1677761630,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, or at least it looks disabled to me."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13235941,
+    "parent_children": 22,
+    "thread_id": 13235941,
+    "thread_children": 22,
+    "ratio_recv": null,
+    "ratio_give": -12,
+    "grade_level": 0.9,
+    "word_count": 9
   },
   {
     "post_id": 69956089,
@@ -20762,6 +20912,48 @@ window._comments = [
     "word_count": 141
   },
   {
+    "post_id": 105631761,
+    "title": "Exclusionary suburbs are a bad model for public safety ",
+    "canonical_url": "https://www.slowboring.com/p/exclusionary-suburbs-are-a-bad-model",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13250613,
+    "top_level": true,
+    "date": "Mar 02 2023 14:50",
+    "likes": 4,
+    "timestamp": 1677786653,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> They\u2019ve used zoning to create a situation where only rich people can live in the neighborhood, and they\u2019ve ensured that whatever level of funding they are willing to invest in social services, the actual services won\u2019t be delivered in their neighborhood. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s not surprising that affluent homeowners are small-c conservative in wanting to preserve their neighborhood character and protect the wealth in their property. What is surprising, or at least odd, is that they frame their conservative politics in lefty and social justice language. And even more surprising is that supposed leftist individuals and organizations join forces with these wealthy, conservative homeowners."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, I think YIMBYs need to break this unholy alliance of leftists and left-coded NIMBYs. We need to force them to reckon with the inherent contradiction of the class interests at stake. If anything, we need more actual Marxists analysis to highlight the intrinsic conservatism of landowners in protecting their wealth and in enforcing their implicit entitlements to static neighborhood character."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13250613,
+    "thread_children": 2,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 163
+  },
+  {
     "post_id": 45304661,
     "title": "Curtailing labor supply is a terrible way to boost wages",
     "canonical_url": "https://www.slowboring.com/p/curtailing-labor-supply-is-a-terrible",
@@ -20862,6 +21054,46 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 342
+  },
+  {
+    "post_id": 105318311,
+    "title": "Lab leak is not a debunked conspiracy theory and never has been",
+    "canonical_url": "https://www.slowboring.com/p/lab-leak-is-not-a-debunked-conspiracy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13172053,
+    "top_level": false,
+    "date": "Feb 28 2023 06:49",
+    "likes": 18,
+    "timestamp": 1677584948,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, and there\u2019s a parallel in the 1979 Sverdlovsk anthrax leak in the USSR. [1] At least 66 people died, and the origin was successfully covered up until the USSR fell with the truth coming to light in 1992."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Sverdlovsk_anthrax_leak"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13171910,
+    "parent_children": 45,
+    "thread_id": 13171910,
+    "thread_children": 45,
+    "ratio_recv": null,
+    "ratio_give": -19,
+    "grade_level": 7.6,
+    "word_count": 40
   },
   {
     "post_id": 58893445,
