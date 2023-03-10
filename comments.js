@@ -4998,6 +4998,274 @@ window._comments = [
     "word_count": 197
   },
   {
+    "post_id": 106611175,
+    "title": "Pro sports leagues should be more open to change",
+    "canonical_url": "https://www.slowboring.com/p/pro-sports-leagues-should-be-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13349958,
+    "top_level": true,
+    "date": "Mar 06 2023 06:42",
+    "likes": 12,
+    "timestamp": 1678102936,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The regional sports networks model is collapsing before our eyes, as cord cutting has led to lower revenues for cable networks that spent millions for the exclusive rights to broadcast games for local teams."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even if you\u2019re not much of a sports fan, I highly recommend reading the linked article by Ben Thompson, \u201cWhat the NBA Can Learn From Formula 1\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2023/what-the-nba-can-learn-from-formula-1/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s a highly informative and entertaining piece about the history of the sports media business and the current challenges faced by every US sports franchise outside of the NFL, particularly the NBA. These leagues are ultimately victims of the broader disruptions in the media ecosystem as cord cutters are ditching cable for streaming services. The sports leagues, and their intermediaries like the regional sports networks had a great deal with the cable bundle and it\u2019s not clear how they\u2019ll survive without it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Of particular concern is slow decline in viewership of these sports, and that will only accelerate due the failure to cultivate fandom among younger cohorts. Cable used to serve as something of a gateway drug that made it easy for anyone to become a casual fan, and for many of those to become diehard fans. With the younger generations ditching cable for streaming, that opportunity is lost."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson contrasts that against the massive success of Formula 1 to grow a new fandom, including through the Netflix series \u201cDrive to Survive\u201d. The show is apparently part documentary and part reality TV (I\u2019ve never seen it), and also highly accessible to non-fans since it\u2019s on Netflix. Many attribute this series to the growing fandom of Formula 1. Thompson says that other sports franchises need to similarly adapt to the changing media ecosystem in order to nurture a new generation of fans."
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13349958,
+    "thread_children": 18,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 292
+  },
+  {
+    "post_id": 106611175,
+    "title": "Pro sports leagues should be more open to change",
+    "canonical_url": "https://www.slowboring.com/p/pro-sports-leagues-should-be-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13350068,
+    "top_level": false,
+    "date": "Mar 06 2023 06:50",
+    "likes": 5,
+    "timestamp": 1678103413,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d also recommend Shishir Mehrotra\u2019s great article, \u201c Four Myths of Bundling\u201d, which Thompson quotes within the aforementioned piece to explain the benefits of bundling to both consumers and producers. I think a lot of instinctually prefer the a-la-carte model so that we only need to pay for what we want. Yet bundling allows us each to slightly subsidize products that we\u2019re less excited about, some of which we still consume, and thereby get access to more media than we could afford a-la-carte."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m quoting the key text below, but you should just find it in the article because Substack comments don\u2019t support list formatting and the article also includes helpful visuals,"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://coda.io/@shishir/four-myths-of-bundling"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Imagine there are four products each delivered as a monthly subscription. We have a choice to deliver them each a-la-carte, or to produce a bundle across all of them. Now let\u2019s divide the population for each good into 3 parts. Imagine that for each good, each prospective customer is one of these 3:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1, SuperFan: This is someone who fits two criteria:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> ** They would pay the a-la-carte price for the channel. This means that they are fairly far along the price elasticity curve for the good (perhaps to the inelastic point)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> ** They have the activation energy to seek out the good and purchase it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 2. CasualFan: Someone who would value the good if they had access to it, but lack one of the two SuperFan criteria \u30fc either they aren\u2019t willing to pay the a-la-carte price for the good, or don\u2019t have the activation energy to seek it out, or both."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 3. NonFan: Someone who will ascribe zero (or perhaps negative) value to having access to the good."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If we offered these goods a-la-carte, then:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * The providers would only provide service (and collect revenue) from their SuperFans (the blue highlights), and"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * Consumers would only have access to goods for which they are a SuperFan"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The a-la-carte model clearly doesn\u2019t maximize value, as consumers are getting access to fewer goods than they might be interested in, and providers are only addressing part of their potential market."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> On the other hand, the bundled offer expands the universe and not only matches SuperFans with the products they are SuperFans of, but also allows for those consumers to get access to products of which they may be CasualFans. From a providers perspective, it gives access to consumers much beyond their natural SuperFan base. This is the heart of how bundles create value \u30fc it\u2019s not about addressing the SuperFan, it\u2019s about allowing the CasualFan to participate."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 13349958,
+    "parent_children": 18,
+    "thread_id": 13349958,
+    "thread_children": 18,
+    "ratio_recv": -3,
+    "ratio_give": -7,
+    "grade_level": 13.9,
+    "word_count": 423
+  },
+  {
+    "post_id": 106611175,
+    "title": "Pro sports leagues should be more open to change",
+    "canonical_url": "https://www.slowboring.com/p/pro-sports-leagues-should-be-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13354650,
+    "top_level": false,
+    "date": "Mar 06 2023 09:53",
+    "likes": 2,
+    "timestamp": 1678114406,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> You'd have to argue that there's some kind of economy of scale here for the bundle at large that results in net consumer surplus for them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, Thompson and Mehrotra\u2019s argument is that many of these media endeavors aren\u2019t economically viable without cross-subsidization. Within the bundle everyone pays a small amount for some stuff they wouldn\u2019t otherwise buy, and also benefits from having their preferred content partially paid for by others."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For a specific media property, this solely benefits the CasualFans. They might be willing to pay $5/month to occasionally watch it, but there aren\u2019t enough people\u2014SuperFans and CasualFans combined\u2014to fund the product. Higher prices would be needed, but that dissuades CasualFans from paying. There just doesn\u2019t exist a price point at which enough people would pay for the product to make it viable. It can only work by forcing NonFans to pay up."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet everyone is a CasualFan of something in the bundle. Some sports fans might never watch a Disney\u2019s child show but they have to pay for it, and thereby make it viable for the households with the opposing preferences. And vice versa."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some products can work a-la-carte. Eg, Slow Boring. There likely exist subscribers that wouldn\u2019t pay a penny more regardless of what was bundled in alongside, and they benefit from the current financial model. Other current non-subscribers might be willing to purchase a specific bundle with SB, and they would thereby benefit from the liberal technocratic indoctrination if such a package deal existed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It ultimately comes down to the details of the bundle to determine how the economics work out for consumers and producers. Cable worked for decades, but that model is now faltering. Participants, particularly sports, need to find something new. "
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 13352656,
+    "parent_children": 4,
+    "thread_id": 13349958,
+    "thread_children": 18,
+    "ratio_recv": -2,
+    "ratio_give": 1,
+    "grade_level": 9.5,
+    "word_count": 287
+  },
+  {
+    "post_id": 106611175,
+    "title": "Pro sports leagues should be more open to change",
+    "canonical_url": "https://www.slowboring.com/p/pro-sports-leagues-should-be-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13350043,
+    "top_level": false,
+    "date": "Mar 06 2023 06:48",
+    "likes": 7,
+    "timestamp": 1678103306,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an occasional watcher of both soccer and hockey, hockey is far superior from a casual viewership perspective. Maybe there are some rule changes that soccer could borrow from hockey to decrease this disparity, but until they add the ice and violence it\u2019ll never win me over."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 13349747,
+    "parent_children": 15,
+    "thread_id": 13349747,
+    "thread_children": 15,
+    "ratio_recv": -1,
+    "ratio_give": 4,
+    "grade_level": 12.5,
+    "word_count": 47
+  },
+  {
     "post_id": 70469724,
     "title": "The student debt crisis as a macroeconomic phenomenon ",
     "canonical_url": "https://www.slowboring.com/p/the-student-debt-crisis-as-a-macroeconomic",
@@ -17519,6 +17787,52 @@ window._comments = [
     "word_count": 13
   },
   {
+    "post_id": 105878852,
+    "title": "The strange death of education reform, part one",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13380620,
+    "top_level": true,
+    "date": "Mar 07 2023 06:31",
+    "likes": 15,
+    "timestamp": 1678188692,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that the reform movement lost steam because we failed to discover highly impactful reforms. Looking forward to future articles in this series to validate that intuition."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fredrik deBoer has written extensively on the topic of educational interventions, and how none of them are found  to have long term effects on student performance and life outcomes. He\u2019s summarized his argument in the Jul 2022 article, \u201cEducation Doesn't Work 2.0\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://freddiedeboer.substack.com/p/education-doesnt-work-20"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The brute reality is that most kids slot themselves into academic ability bands early in life and stay there throughout schooling. We have a certain natural level of performance, gravitate towards it early on, and are likely to remain in that band relative to peers until our education ends. There is some room for wiggle, and in large populations there are always outliers. But in thousands of years of education humanity has discovered no replicable and reliable means of taking kids from one educational percentile and raising them up into another. Mobility of individual students in quantitative academic metrics relative to their peers over time is far lower than popularly believed. The children identified as the smart kids early in elementary school will, with surprising regularity, maintain that position throughout schooling. Do some kids transcend (or fall from) their early positions? Sure. But the system as a whole is quite static. Most everybody stays in about the same place relative to peers over academic careers. The consequences of this are immense, as it is this relative position, not learning itself, which is rewarded economically and socially in our society."
+        }
+      ]
+    ],
+    "total_children": 63,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13380620,
+    "thread_children": 63,
+    "ratio_recv": 24,
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 260
+  },
+  {
     "post_id": 91985864,
     "title": "Beginning to feel a lot like Mailbag",
     "canonical_url": "https://www.slowboring.com/p/beginning-to-feel-a-lot-like-mailbag",
@@ -20341,6 +20655,202 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 364
+  },
+  {
+    "post_id": 105714387,
+    "title": "Back in the USA mailbag",
+    "canonical_url": "https://www.slowboring.com/p/back-in-the-usa-mailbag-09b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13266758,
+    "top_level": true,
+    "date": "Mar 03 2023 06:58",
+    "likes": 22,
+    "timestamp": 1677844723,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Substack as a whole seems to be thriving and passed two million total paid subscriptions this week."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My concern with Substack the business is that they raised capital at an insane valuation at the height of the 2021 tech VC mania, and they now appear to be struggling to grow into that valuation. In March 2021 they raised at a valuation of $650 million, [1] and they subsequently canceled an attempt to raise more money in May 2022 with a proposed valuation between $750m and $1b. [2] The following month they had to lay off 14% of their team. [3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Substack now faces the intense challenge of growing into a valuation set during a tech mania after the investing environment has fundamentally shifted. With higher interest rates and skepticism around unprofitable tech firms, investors are demanding lower valuations for a given revenue/growth rate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet is is generally considered suicide for start up to do a down round; to raise money at lower valuation than their previous round. Their previous round investors would have to mark a loss on their Substack investment and many of their employees would find their stock options to be worthless. There are financial tricks to avoid a down round, eg. liquidation preferences for new investors, but they are problematic in their own right."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To put some numbers on a potential valuation, Substack is now estimated to have an annualized run rate revenue of $24m given their announcement of 2 million paid subscriptions. [4] At their previous funding round with a valuation of $650m, that is a revenue multiple of 27. Historically, SaaS startups have a revenue multiple of around 10, and even with insane growth and margins it\u2019s hard to go above 20. [5] Hence, they still have a ways to go in order to just grow into their current valuation, let alone raise at a higher valuation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2021/03/30/substack-andreessen-horowitz-newsletter"
+        },
+        {
+          "type": "text",
+          "value": "\u2019"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/05/26/business/media/substack-venture-capital.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/JayCoDon/status/1630592326509707269"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[5] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.capboard.io/en/captable/startup-valuations"
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13266758,
+    "thread_children": 23,
+    "ratio_recv": -16,
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 317
+  },
+  {
+    "post_id": 105714387,
+    "title": "Back in the USA mailbag",
+    "canonical_url": "https://www.slowboring.com/p/back-in-the-usa-mailbag-09b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13271998,
+    "top_level": false,
+    "date": "Mar 03 2023 10:10",
+    "likes": 12,
+    "timestamp": 1677856200,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, Substack could survive as a small, profitable business. The fact that they attempted to raise a new round roughly a year after their previous round suggests they aren\u2019t close to cash flow positive. Their 14% layoff likely just slows their burn rate to extend their current funding, and give them a chance to grow into their valuation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But Substack\u2019s current shareholder\u2019s don\u2019t want a small, profitable business. They\u2019re venture-funded and VCs are looking for extreme outcomes; either a 10x return or a 0x return. These venture firms aren\u2019t structured like traditional private equity to just own cash generating businesses. Further, the $650m valuation for just $24m of annual revenue is already effectively a 0x return as far as any investor is concerned. VCs would rather Substack continue to take some large risks rather than optimize the current business for profit."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If Substack should fail to raise additional funding and finally runs out of money, then VCs will pursue a sale. That could include a sale of the entire firm or individual assets. Someone might be willing to pay far less than $650m for the current business, particularly if the buyer is already in the industry or a related one. The purchaser can further optimize the profitability by eliminating redundant functions and incorporating Substack into their firm."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 13270576,
+    "parent_children": 5,
+    "thread_id": 13266758,
+    "thread_children": 23,
+    "ratio_recv": -7,
+    "ratio_give": 9,
+    "grade_level": 10.3,
+    "word_count": 217
+  },
+  {
+    "post_id": 105714387,
+    "title": "Back in the USA mailbag",
+    "canonical_url": "https://www.slowboring.com/p/back-in-the-usa-mailbag-09b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13272253,
+    "top_level": false,
+    "date": "Mar 03 2023 10:16",
+    "likes": 6,
+    "timestamp": 1677856613,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Twitter has historically been a horribly managed business. See Ben Thompson\u2019s 2015 article, \u201cTwitter Needs New Leadership\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2015/twitter-needs-new-leadership/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Twitter\u2019s fundamental problem is that their active user growth is simply too small given their current size. Twitter yesterday reported the service had 302 million Monthly Active Users (MAUs), an increase of only 18% year-over-year and 5% quarter-over-quarter (and the company said the current quarter would be worse!). This is a fraction of Facebook, half of Facebook Messenger, fewer than Instagram and not that much bigger than SnapChat; presuming the latter service passes Twitter later this year, Twitter will be only the 5th most popular U.S.-based social networking service looking to monetize through advertising. This distinction \u2014 which excludes WhatsApp, at least for now \u2014 is a critical one, because the issue with advertisers is most don\u2019t have the time or ability to work with multiple services; it\u2019s likely most digital advertising spending (which I believe is set to expand greatly) will be consolidated onto the biggest networks (along with Google\u2019s properties), with Facebook taking the lion\u2019s share. Were that to happen, it\u2019s easy to see Twitter as the odd network out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The trouble for Twitter is that awareness of the service has long outstripped its usability. And yet, despite the fact that Twitter has struggled with new user growth for years, almost nothing was done to improve the product or on-boarding experience until just the last few months, when the company finally rolled out a new logged-out page meant to entice people with Twitter\u2019s content, as well as an instant timeline that helped people get started. Unfortunately, both efforts seem to be too little too late: Twitter admitted on the earnings call that neither improvement had increased retention."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13268613,
+    "parent_children": 3,
+    "thread_id": 13266758,
+    "thread_children": 23,
+    "ratio_recv": null,
+    "ratio_give": 5,
+    "grade_level": 14.4,
+    "word_count": 284
   },
   {
     "post_id": 95558932,
