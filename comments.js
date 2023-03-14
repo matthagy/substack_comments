@@ -4473,6 +4473,88 @@ window._comments = [
     "word_count": 194
   },
   {
+    "post_id": 106887125,
+    "title": "Four-day weekend Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/four-day-weekend-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13477498,
+    "top_level": true,
+    "date": "Mar 10 2023 06:33",
+    "likes": 7,
+    "timestamp": 1678448038,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I\u2019m pretty bullish on codetermination and sectoral bargaining, and I wrote about it for Vox a few years ago."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Michael Pettis and Matthew Klein have long argued that the German system keeps wages artificially low in order to maintain export competitiveness. My rough understanding is that there is an unholy alliance between government, corporations, and unions\u2014all backed by the popular will of the German people\u2014to pursue this policy, motivated by the economic pain that they experienced during the German reunification in the 90s. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a 2018 article from Pettis that elaborates on the general problem of mercantilist policies for export competitiveness, including Germany\u2019s situation, \u201cHigh Wages Versus High Savings in a Globalized World\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://carnegieendowment.org/chinafinancialmarkets/75972"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Germany\u2019s experience of reducing wages during this century illustrates the problem by showing how the process worked in reverse. For over a decade, Germany suffered from high unemployment as its producers were priced out of the market by foreign competitors. In 2003\u20132004, Berlin implemented a number of labor reforms\u2014referred to as the Hartz reforms\u2014whose net impact was to weaken the bargaining power of workers and substantially slow wage growth to well below GDP growth. When this happened, Germany\u2019s trade deficit became one of the largest surpluses in history as its unemployment level fell sharply. In a globalized world, the way to gain competitiveness is to reduce the real value of wages, either by reducing nominal wages (as Germany did), or by undervaluing the currency (as many Asian countries do)."
+        }
+      ]
+    ],
+    "total_children": 20,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13477498,
+    "thread_children": 20,
+    "ratio_recv": 13,
+    "ratio_give": null,
+    "grade_level": 16.3,
+    "word_count": 242
+  },
+  {
+    "post_id": 106887125,
+    "title": "Four-day weekend Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/four-day-weekend-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13477828,
+    "top_level": false,
+    "date": "Mar 10 2023 06:54",
+    "likes": 14,
+    "timestamp": 1678449296,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "A taser or other non-lethal weapon should be used if the goal is to avoid death. Guns are for killing, even if some target regions have lower average mortality rates. If anything, intentionally trying for non-fatal shot suggests poor judgment in the officer in that a lethal action was taken in a situation where the officer determined the balance of risks didn\u2019t warrant the death of assailant. "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13477308,
+    "parent_children": 21,
+    "thread_id": 13477308,
+    "thread_children": 21,
+    "ratio_recv": -12,
+    "ratio_give": 8,
+    "grade_level": 10.8,
+    "word_count": 67
+  },
+  {
     "post_id": 70864744,
     "title": "The mythical martyrdom of Mitt Romney",
     "canonical_url": "https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney",
@@ -10843,6 +10925,142 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 192
+  },
+  {
+    "post_id": 107805446,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a9e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13547606,
+    "top_level": false,
+    "date": "Mar 12 2023 15:25",
+    "likes": 5,
+    "timestamp": 1678649119,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While I\u2019m not blindly opposed to bailing out depositors, I don\u2019t think it will be necessary. I also worry about the moral hazard."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "First, I suspect the FDIC and associated government agencies will work quickly and diligently to stabilize the situation. It\u2019s possible a full acquisition of SVB will be announced soon, with a major bank taking over all assets and obligations. Worst case, the FDIC will make the insured sums available Monday morning and likely provide additional initial recovers this week. The depositors will continue to receive funds and could be made 90% whole within weeks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On the moral hazard front, the 250k FDIC limit is well known. Mature business manages this with treasury operations where funds are dispersed across checking accounts at multiple banks, money market funds, and government bonds. For small and medium businesses there are turnkey solutions provided by financial services companies, including major banks, for easily managing treasury operations. Eg, automatic daily sweeping of funds beyond 250k out of checking accounts and into money markets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many startups ignore the risks associated with forgoing treasury management because that is just one of the numerous risks that can kill a startup before it matures into an actual ongoing concern. Eg, a major tech firm announcing a competing product or a change in the regulatory environment. The biggest risk is that the startup simply fails to ever develop a product with sufficient customer demand to create a viable business. Until that risk is sufficiently addressed, it just isn\u2019t worth the time to manage the dozens of other risks that can kill a startup."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, many startups banked at SVB because it offered additional financial services beneficial to startups. That includes startup lending that required them to keep their funds at SVB. The startups implicitly took on the risk of forgoing treasury operations as the price of accessing these services. That may have been an acceptable business decision, but the government shouldn\u2019t bail them out for this knowable risk."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It will certainly suck for the impacted startups. Yet a startup isn\u2019t much more than a series of crises with occasional moments of joyous accomplishments. Their current SVB woes is a relatively simple problem to address since at most they simply need some short term financing until sufficient funds are recovered by the FDIC. This is something that their existing investors should immediately provide since those funds can be repaid with low risk. Some investors may use this as an opportunity to wind down the startup, but those were likely already on the verge of collapse anyways."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Going forward, more startups may choose to pay the expense in time and money to implement basic treasury operations, possibly at the demand of their investors. Or at least keep their funds at a JP Morgan."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 13530933,
+    "parent_children": 29,
+    "thread_id": 13530933,
+    "thread_children": 29,
+    "ratio_recv": -4,
+    "ratio_give": -8,
+    "grade_level": 10.5,
+    "word_count": 463
+  },
+  {
+    "post_id": 107805446,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a9e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13526540,
+    "top_level": false,
+    "date": "Mar 11 2023 17:44",
+    "likes": 9,
+    "timestamp": 1678574644,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "TL;DR: Can\u2019t return capital to shareholders because bank assets always have to exceed liabilities by a regulated margin called capital buffer. Couldn\u2019t grow their loan book quick enough to match their massive increase in deposits as venture capital exploded in 2021."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If you got time, Matt Levine has the best, and most entertaining explanation in, \u201cStartup Bank Had a Startup Bank Run\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2023-03-10/startup-bank-had-a-startup-bank-run"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If you were the Bank of Startups, the main service that you provided to startups is that equity investors would give them a truck full of cash and they\u2019d deposit it at your bank. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> People kept flinging money at SVB\u2019s customers, and they kept depositing it at SVB. Perfectly reasonable banking service. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But the customers didn\u2019t need loans, in part because equity investors kept giving them trucks full of cash and in part because young tech startups tend not to have the fixed assets or recurring cash flows that make for good corporate borrowers. \u2026 [T]here is a basic imbalance. Customer money keeps coming in, as deposits, but it doesn\u2019t go out, as loans."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> So you have all this customer cash, and you need to do something with it. Keeping it in, like, Fed reserves, or Treasury bills, in 2021, was not a great choice; that stuff paid basically no interest, and you want to make money. So you\u2019d buy longer-dated, but also very safe, securities, things like Treasury bonds and agency mortgage-backed securities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As Armstrong puts it, SVB had \u201ca double sensitivity to higher interest rates. On the asset side of the balance sheet, higher rates decrease the value of those long-term debt securities. On the liability side, higher rates mean less money shoved at tech, and as such, a lower supply of cheap deposit funding.\u201d"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13524746,
+    "parent_children": 1,
+    "thread_id": 13524746,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": 8,
+    "grade_level": 10.1,
+    "word_count": 288
   },
   {
     "post_id": 88071358,
@@ -18259,6 +18477,216 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.1,
     "word_count": 268
+  },
+  {
+    "post_id": 107192700,
+    "title": "Does Joe Biden mean what he says on industrial policy?",
+    "canonical_url": "https://www.slowboring.com/p/does-joe-biden-mean-what-he-says",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13565270,
+    "top_level": true,
+    "date": "Mar 13 2023 06:47",
+    "likes": 30,
+    "timestamp": 1678704434,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The more I keep hearing about additional strings being attached to CHIPS Act funding, the more convinced I become that this will ultimately be seen as a failed policy. The critics will be proven right in their argument that the US government is an inefficient and ineffective capital allocator."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The US already has massive structural disadvantages in chip manufacturing. I\u2019ve repeatedly seen this Dec 2022 WSJ article about TSMC\u2019s struggles to create an Arizona plant [1] cited as proof that we\u2019ve largely lost the capacity to build and operate these facilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> High costs, lack of trained personnel and unexpected construction snags are among the issues cited by Taiwan Semiconductor Manufacturing Co. as it rushes to get the north Phoenix factory ready to start production in December 2023."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> TSMC executives have said it isn\u2019t easy to recreate in America the manufacturing ecosystem they have built over decades in Taiwan, drawing on local engineering talent and a network of suppliers including many in East Asia. Mr. Chang said the cost of making chips in Arizona may be at least 50% higher than in Taiwan."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> [TSMC in letter to the Commerce Department listed six problems that have emerged], including federal regulatory requirements, \u201cunexpected work developments\u201d during construction and additional site preparation, all of which it said raised costs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So further increasing the cost and regulatory burden on deploying CHIPS funds only further exacerbates our structural deficits in chips manufacturing. If anything we should\u2019ve gone the opposite direction in removing regulatory hurdles. Eg, exempted them from NEPA review and immigration quotas. Rather than chaining them to overly-expensive domestically sourced materials, equipment, and labor, the firms should be incentivized to make economically rational decisions regardless of the source (excluding China dependencies)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I worry that in 10 years we\u2019ll all look back on the CHIPS Act as accomplishing little at a high expense, and thereby proof that the US government shouldn\u2019t take an active role in industrial interventions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/tsmcs-arizona-chip-plant-awaiting-biden-visit-faces-birthing-pains-11670236129"
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13565270,
+    "thread_children": 17,
+    "ratio_recv": -21,
+    "ratio_give": null,
+    "grade_level": 13.5,
+    "word_count": 324
+  },
+  {
+    "post_id": 107192700,
+    "title": "Does Joe Biden mean what he says on industrial policy?",
+    "canonical_url": "https://www.slowboring.com/p/does-joe-biden-mean-what-he-says",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13565877,
+    "top_level": false,
+    "date": "Mar 13 2023 07:33",
+    "likes": 10,
+    "timestamp": 1678707217,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Intel has been losing ground to TSMC for nearly a decade. Intel is even using TSMC to manufacture some chips as it struggles to reorganize itself. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Intel is now in a do-or-die attempt to separate its design and manufacturing, hoping that its manufacturing arm will eventually become competitive with TSMC for outside customers. [2] Should that fail, it will go the way of AMD and rely entirely on TSMC for future production. Just like AMD\u2019s Global Foundry spinout, Intel\u2019s manufacturing division will be sold so that it can focus on lower-margin, older generation architectures to extract some value while it slowly wound down."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The tech analyst Ben Thompson has been following Intel\u2019s struggle and warning about its inevitable slow decline since 2013. [3] His Jan 2022 article, \u201cThe Intel Split\u201d, covers a bit of the history about how Intel became complacent, notably its miss of mobile. Mobile chip architecture has matured and is now moving into the datacenter (Intel\u2019s cherished turf) due to superior energy efficiency and lower costs. Thompson goes on to describe the necessary gamble that Intel is taking in separating design and manufacturing, as well as the risks involved. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And now Intel\u2019s recent earnings show that its revenue and margins are dropping faster than they forecast. [4] Hence its runway to complete this reorganization is shortening. In contrast, the fabless AMD\u2019s recent earnings and forecasts are improving. [5] So it won\u2019t be long before investors demand that Intel exit manufacturing if it can\u2019t soon demonstrate some success in their reorganization strategy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.eetimes.com/intel-will-rely-on-tsmc-for-its-rebound/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/intel-ceo-pushes-to-further-separate-chip-design-production-arms-11665523857"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2013/the-intel-opportunity/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-26/intel-tumbles-after-forecast-suggests-its-comeback-is-far-off"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[5] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-31/amd-gives-robust-forecast-helped-by-gains-in-server-market"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 13565364,
+    "parent_children": 12,
+    "thread_id": 13565270,
+    "thread_children": 17,
+    "ratio_recv": -4,
+    "ratio_give": 1,
+    "grade_level": 10.5,
+    "word_count": 260
+  },
+  {
+    "post_id": 107192700,
+    "title": "Does Joe Biden mean what he says on industrial policy?",
+    "canonical_url": "https://www.slowboring.com/p/does-joe-biden-mean-what-he-says",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13566348,
+    "top_level": false,
+    "date": "Mar 13 2023 08:02",
+    "likes": 9,
+    "timestamp": 1678708940,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I never claimed anything close to \u201cthere simply being NO competency at fab-building in America.\u201d Instead, I simply explained the US\u2019s structural disadvantages in this industry relative to Taiwan as highlighted by TSMC\u2019s struggles and costs in building manufacturing facilities in Arizona. It is foolish for us to further burden our public investment in our domestic industry for superfluous secondary political wins."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And higher costs, lower profits matters. It will limit both the results of public funds and the extent to which private funds crowd in. If all we get out of the CHIPS Act is a few exorbitantly expensive to build and unprofitable fabs, then it will be seen as a waste. "
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 13565997,
+    "parent_children": 5,
+    "thread_id": 13565270,
+    "thread_children": 17,
+    "ratio_recv": -6,
+    "ratio_give": 3,
+    "grade_level": 10.6,
+    "word_count": 113
   },
   {
     "post_id": 84695778,
