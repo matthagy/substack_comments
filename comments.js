@@ -3547,6 +3547,52 @@ window._comments = [
     "word_count": 182
   },
   {
+    "post_id": 108656037,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-ada",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13794563,
+    "top_level": true,
+    "date": "Mar 20 2023 17:11",
+    "likes": 6,
+    "timestamp": 1679346666,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Would you offer subscribers a Slow-Boring-themed, ChatGPT-like bot? I imagine many of us would pay an additional premium to access that in order to summon your insights at will, particularly if it can quote and cite your writing. Ie, what the Bing bot does. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You\u2019d be a good candidate for such a bot because you have so much existing writing that it could draw from. There are plenty of startups developing such products as a wrapper on OpenAI. Surely they\u2019d offer you a sweetheart deal (\u00e0 la the Substack advance) due to your fame and large subscriber base."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13794563,
+    "thread_children": 2,
+    "ratio_recv": 4,
+    "ratio_give": null,
+    "grade_level": 7.4,
+    "word_count": 100
+  },
+  {
     "post_id": 90873268,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-a2b",
@@ -3675,6 +3721,422 @@ window._comments = [
     "word_count": 29
   },
   {
+    "post_id": 108162136,
+    "title": "America needs more giant banks",
+    "canonical_url": "https://www.slowboring.com/p/america-needs-more-giant-banks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13629427,
+    "top_level": true,
+    "date": "Mar 15 2023 06:34",
+    "likes": 25,
+    "timestamp": 1678876440,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And the answer turns out to be pretty straightforward: in 2018, the GOP-controlled House of Representatives wrote and passed a bill substantially curtailing the regulation of banks that are roughly the size of Silicon Valley Bank "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Fed is preparing a report about its supervision of SVB for release by May 1st. [1] Until we have those details, I don\u2019t think we should speculate too much about regulatory failures, including the impact of the 2018 Trump deregulation. It just feels too convenient to pin these failures on Trump, and I worry that could misguide us towards future reforms. Specifically, repealing those deregulations may be insufficient."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, many of SVB\u2019s problems could be gleaned entirely from public fillings. Eg, here\u2019s a Jan 18th 2023 Twitter thread from an SVB short seller that has subsequently gotten a lot of attention for being prescient. [2] Some excerpts "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> $SIVB's big problems are with its HTM portfolio"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The bank basically increased its security portfolio by 700% at a generational TOP in the bond market, buying $88 b of mostly 10+ year mortgages with an average yield of just 1.63% at Sept 30th.  Oops!  4/1"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The risk for $SIVB is that deposit outflows accelerate at such a pace that it is forced to either raise equity capital and/or sell down its HTM securities portfolio, thus realizing substantial losses. You can bet that $SIVB is praying for a Fed pivot!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And there are plenty more examples of investors and analysts worrying about regional banks throughout 2022 as rates rose rapidly. Not necessarily predicting total failures, just being deeply stressed and needing to raise capital on draconian terms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So bank examiners could certainly have known of SVB\u2019s challenges. The question we\u2019ll learn from the Fed report is just how much did they know, and what actions did they take. Were there cases where regulators were limited by deregulation? What tools would they need for both earlier diagnosis and forcing action on a bank?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230313a.htm"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/RagingVentures/status/1615826088038473733"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13629427,
+    "thread_children": 7,
+    "ratio_recv": -18,
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 327
+  },
+  {
+    "post_id": 108162136,
+    "title": "America needs more giant banks",
+    "canonical_url": "https://www.slowboring.com/p/america-needs-more-giant-banks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13635641,
+    "top_level": false,
+    "date": "Mar 15 2023 10:49",
+    "likes": 5,
+    "timestamp": 1678891770,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Also, many people cite Byrne Hobart\u2019s newsletter The Diff as starting the panic because it's widely read among VCs. On Feb 23rd, he shared his own analysis of SVB\u2019s public fillings, an excerpt shared on Twitter. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Also in today's newsletter: Silicon Valley Bank was, based on the market value of their assets, technically insolvent last quarter and is now levered 185:1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a Mar 11th thread that presents the theory that this triggered the run. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Kinda insane that this entire debacle was potentially caused by @ByrneHobart's newsletter. Here's how the butterfly effect happened. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1) Byrne posts this article/Tweet calling out SVB's risk. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 2) Pretty much every VC I know reads this newsletter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 3) They all start to pay very, very close attention to SVB earnings"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 4) Absolutely massive earnings miss by SVB"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 5) Peter Thiel, USV, and Coatue are first to send out messages/mass emails to portfolio co's to pull out funds"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 6) Tech Twitter catches word of this"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 7) Bank Run"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 8) Collapse"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 9) If FDIC/Buyer doesn't come in, in the next 7 days, potential 20%+ collapse of entire startup industry. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> All started by one overly prolific dude in Austin. Amazing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/ByrneHobart/status/1628779894183272452"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/itsurboyevan/status/1634603869752766471"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13629427,
+    "parent_children": 7,
+    "thread_id": 13629427,
+    "thread_children": 7,
+    "ratio_recv": 0,
+    "ratio_give": -20,
+    "grade_level": 10.6,
+    "word_count": 196
+  },
+  {
+    "post_id": 108655723,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-5be",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13731560,
+    "top_level": true,
+    "date": "Mar 18 2023 12:24",
+    "likes": 10,
+    "timestamp": 1679156673,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I asked ChatGPT to summarize the top 20 comments of moderate length from our discussion in yesterday\u2019s mailbag. Pleasantly surprised by its results:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The comments cover a variety of topics ranging from politics, history, social issues, personal preferences, and current events. One theme that arises is the importance of being strategic in addressing political opponents. One comment argues that opposing Republican politicians on social issues and cruelty only validates their electoral strategy, and instead suggests focusing on their vulnerabilities on issues such as Social Security, Medicaid and Medicare, and banking regulation. Another comment echoes this sentiment, arguing that it is ineffective to use performative denunciation as a strategy, as it often plays into the hands of trolls and results in people looking ridiculous. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The debate on Daylight Saving Time (DST) also surfaces, with some arguing that people's preferences are often influenced by their work and social schedules. Furthermore, the impact of DST varies depending on geographic location and local conditions, such as when the sunrise occurs relative to when people need to wake up. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The discussion on the 1619 Project focuses on the diverging views of history, with some arguing that it is optimistic in its attempts to forge a moral identity centered on progress and liberation, while others criticize it for being historically inaccurate and selectively informed. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The comments also touch on the issue of how to deal with future bank failures and runs, particularly in the age of instant communication and social media. While some suggest indemnifying the buyer as a solution, others highlight the need to consider the timing of failures and the potential for misinformation or correct information to spread quickly. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, the comments reflect the complexity of different issues and the need for nuanced discussions and strategies to address them."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13731560,
+    "thread_children": 4,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 16.1,
+    "word_count": 295
+  },
+  {
+    "post_id": 108655723,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-5be",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13731686,
+    "top_level": false,
+    "date": "Mar 18 2023 12:29",
+    "likes": 3,
+    "timestamp": 1679156941,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Specifically, I considered comments of length between 50 and 400 words.* Then I selected each subscriber's single best comment, by likes count, so that particularly chatty people didn\u2019t dominate the discussion. Took the top 20 comments from these since the ChatGPT API is limited on input length. Presented these comments as a list prepended with the following instructions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Write several paragraphs that summarizes the main points discussed across the following comments:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Used the gpt-3.5-turbo model since I don\u2019t yet have access to the GPT4 beta. I\u2019m wondering if the newer, more intelligent model would produce more impressive results. The current model already does quite well (better than I could do), so it might already have hit some asymptotic performance ceiling in summarization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Think I\u2019ll occasionally try this again on different future comment sections to see where it fails versus where it succeeds."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Technically, filtered comments by encoding length in tokens with a range of 80 to 500. The total input length is about 3.6k tokens. The gpt-3.5-turbo model is limited to 4k tokens. The new GPT4 model can do up to 32.7k tokens so we could basically feed it an entire comment section."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 13731560,
+    "parent_children": 4,
+    "thread_id": 13731560,
+    "thread_children": 4,
+    "ratio_recv": 1,
+    "ratio_give": -7,
+    "grade_level": 8.7,
+    "word_count": 193
+  },
+  {
+    "post_id": 108655723,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-5be",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13748341,
+    "top_level": false,
+    "date": "Mar 19 2023 05:35",
+    "likes": 4,
+    "timestamp": 1679218559,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I used the REST endpoints that serve content for the web frontend. Not a proper public API, but good enough for listing posts and fetching comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Post describing the API: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/developing-a-custom-substack-front"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Python client: "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/substack_client"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Also previously used this data to analysis SB and other substacks: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Discussion: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/tuesday-thread-192/comment/11605250"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13746363,
+    "parent_children": 1,
+    "thread_id": 13731560,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 7.8,
+    "word_count": 44
+  },
+  {
     "post_id": 55302326,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e15",
@@ -3713,6 +4175,294 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 104
+  },
+  {
+    "post_id": 109476948,
+    "title": "How banks create money out of nothing ",
+    "canonical_url": "https://www.slowboring.com/p/how-banks-create-money-out-of-nothing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13869632,
+    "top_level": true,
+    "date": "Mar 23 2023 06:50",
+    "likes": 11,
+    "timestamp": 1679568616,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> In certain corners of the internet, you can get a good fight going by suggesting that banks, in the course of their normal banking activities, create money out thin air."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this is contentious because the cranks ignore all of the constraints on bank money creation, and then use that misunderstanding to justify conspiracy theories or to shill crypto/gold. There is a ton of regulation on bank balance sheets, and that limits their ability to originate loans. The naive explanation that banks simply loan out deposits is in many ways a decent approximation of lending capacity in that deposits are the primary funding source for bank balance sheets."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13869632,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 13.9,
+    "word_count": 109
+  },
+  {
+    "post_id": 109476948,
+    "title": "How banks create money out of nothing ",
+    "canonical_url": "https://www.slowboring.com/p/how-banks-create-money-out-of-nothing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13869993,
+    "top_level": false,
+    "date": "Mar 23 2023 07:12",
+    "likes": 3,
+    "timestamp": 1679569939,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think it\u2019s possible for a bank not to engage in fraction lending because deposits themselves are a liability; essentially a short term loan that can be called by the depositor from the bank at any time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To illustrate this, imagine a new bank that starts by taking $100 in deposits and it holds them as $100 of reserves at the central bank. Its liabilities (deposits) and its assets (reserves) perfectly balance. It can originate a new $10 loan, which entails creatings $10 of deposits in the borrower's account, and the loan itself is a new asset that has a repayment value of $10, as well as series of interest payments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Let's assume that the bank values the loan as an $11 asset on its books. The bank now has $111 of assets ($100 of reserves and $11 loan), as well as $110 of liabilities ($100 original deposits and $10 of new deposits). Its assets exceed liabilities by $1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next, say that the borrower withdraws the $10 loan to make a purchase. The bank funds that out of reserves at the central bank; either exchanging it for currency or transferring the reserves to another bank that holds the account of the seller. The bank now has $100 deposit liabilities and $101 of assets ($90 of reserves and the $11 loan)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is a ton of regulation around the bank's balance sheet; its assets vs liabilities. For one, this example is an oversimplification because the bank\u2019s assets always need to exceed its liabilities by a margin called equity buffer. Eg, it may need to start with $10 of the bank's own money, raised by investors, before it could even accept $100 of deposits. That would give it $100 of deposit liabilities against $110 of assets such that it has a 10% equity buffer."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13869403,
+    "parent_children": 2,
+    "thread_id": 13869403,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.5,
+    "word_count": 303
+  },
+  {
+    "post_id": 109476948,
+    "title": "How banks create money out of nothing ",
+    "canonical_url": "https://www.slowboring.com/p/how-banks-create-money-out-of-nothing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13869387,
+    "top_level": true,
+    "date": "Mar 23 2023 06:33",
+    "likes": 1,
+    "timestamp": 1679567608,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The standard explanation for why this makes sense is that the demand impacts of a banking panic are \u201cnon-linear\u201d \u2014 you might have one bank fail this week, then two next week, then 30 the week after that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is also a political reason why the Fed, Treasury, and Congress are deeply concerned about community and regional bank failures: those banks have an incredible amount of political pull. Possibly even more than the big banks. Every congressional district has local banks, and the leaders of those banks are deeply enmeshed in the business and political community. Eg, serve on the chamber of commerce, make loans to local businesses, and work with community political organizers. Hence anything that could harm these smaller banks (eg, the current deposit flight or regulation) gets the attention of Congress and thereby the rest of the government."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13869387,
+    "thread_children": 7,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 140
+  },
+  {
+    "post_id": 109048678,
+    "title": "Tax increases are the best cure for inflation",
+    "canonical_url": "https://www.slowboring.com/p/tax-increases-are-the-best-cure-for",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13810713,
+    "top_level": false,
+    "date": "Mar 21 2023 09:10",
+    "likes": 9,
+    "timestamp": 1679404212,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I had two daughters who were considering computer science as a Major... with the layoffs in Tech and now the advent of AI ChatGPT, I am starting to think engineering might be a better bet."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a software engineer, I think AI-augmented coding is just a continuation of a multi-decade trend in which we use increasingly powerful tools to abstract away technical challenges and common tasks. Notably, modern programming languages look more like English than those used in the 80s. And w/ SaaS and cloud infrastructure we can programmatically outsource tons of work. This not only makes the field more approachable, but also gives us massive leverage in applying software; a single engineer can now do the work that would\u2019ve previously taken a dozen. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The economics of software engineering could certainly reach an inflection point and reverse, but so far compensation has only increased as we\u2019ve gotten more powerful tools."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 13807357,
+    "parent_children": 25,
+    "thread_id": 13807357,
+    "thread_children": 25,
+    "ratio_recv": 0,
+    "ratio_give": -8,
+    "grade_level": 11.6,
+    "word_count": 150
+  },
+  {
+    "post_id": 109048678,
+    "title": "Tax increases are the best cure for inflation",
+    "canonical_url": "https://www.slowboring.com/p/tax-increases-are-the-best-cure-for",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13810774,
+    "top_level": false,
+    "date": "Mar 21 2023 09:12",
+    "likes": 9,
+    "timestamp": 1679404351,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a longer comment of mine elaborating on this thesis from a previous discussion at Noahpinion, "
+        },
+        {
+          "type": "url",
+          "value": "https://noahpinion.substack.com/p/will-ai-take-away-the-coding-jobs/comment/12747176"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a software engineer, I feel that programming has already been largely commodified for at least a decade in that the mass majority of programmers are not solving technical problems, but instead are solving the social problem of, \u201cexactly what should the software service or product do?\u201d Once that has been figured out, the actual design and implementation is rarely much of a challenge."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is the result of modern programming tools\u2014notably compilers and runtimes, which are themselves computer programs\u2014becoming sufficiently powerful to abstract away all of the technical challenges. For example, until well into the 80s most software engineers spent a substantial amount of time solving the problem of, \u201chow will my program manage memory?\u201d. Ie, how to use RAM. This is a hard engineering problem that not only drastically affects program performance, but also an error prone area where a single mistake could crash the program, or worse create security vulnerabilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Decades of computer science research and engineering has resulted in modern programming tools that totally abstract away memory management. Now the mass majority of programmers needn\u2019t ever concern themselves with this hard technical problem. Numerous other advances in programming tools have similarly freed developers from previous technical challenges. Further, we now also have a plethora of reusable components in the form of code libraries and standardized software services (eg, software-as-a-service and cloud infrastructure) that we can leverage to abstract away almost any conceivable technical problem."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "AI programming tools continue that trend, yet someone still has to figure out the specific intended behavior of the software service or product to an excruciating level of detail. I think this could be illustrated with an analogy to lawyers writing legal contracts. Lawyers can already draw from a large library of reference (or template) contracts from previous similar situations. In many cases these can be largely reused with minor modification. This is comparable to how programming can use existing libraries and services."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "AI can certainly automate the drafting of contracts or computer code when the situation is sufficiently novel that reuse isn\u2019t appropriate. Yet a practitioner still has to verify all of the details and make revisions to ensure intended behavior when executed in a court or computer. In programming, most of the time is spent figuring out what these details with a high degree of specificity through discussions with stakeholders, including end users or their representatives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So while AI will likely substantially increase programming productivity, it is just a continuation of a trend. Even in the absence of AI programming tools, I think the field has been substantially commodified to the point that many, if not most, people could be a programmer. And the main challenge of determining intended software behavior at a high-level of detail still remains."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13810713,
+    "parent_children": 2,
+    "thread_id": 13807357,
+    "thread_children": 25,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 13.3,
+    "word_count": 474
+  },
+  {
+    "post_id": 109048678,
+    "title": "Tax increases are the best cure for inflation",
+    "canonical_url": "https://www.slowboring.com/p/tax-increases-are-the-best-cure-for",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13807712,
+    "top_level": false,
+    "date": "Mar 21 2023 06:31",
+    "likes": 5,
+    "timestamp": 1679394683,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "US inflation spiked well before energy prices rose. We started to see a rise in US core inflation in spring/summer 2021, [1] and energy prices didn\u2019t rise until Russia\u2019s invasion of Ukraine in Feb 2022."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Jason Furman has a great Twitter thread from Jun 2022 comparing inflation in the US vs Europe, demonstrating that European inflation was driven more by energy, whereas US inflation resulted from excess demand. "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/jasonfurman/status/1534174026259734528"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-08-10/us-inflation-decelerates-more-than-forecast-on-gas-price-drop"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 13807548,
+    "parent_children": 10,
+    "thread_id": 13807548,
+    "thread_children": 10,
+    "ratio_recv": -4,
+    "ratio_give": 4,
+    "grade_level": 12.3,
+    "word_count": 69
   },
   {
     "post_id": 103365512,
@@ -6639,6 +7389,184 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.5,
     "word_count": 66
+  },
+  {
+    "post_id": 108586336,
+    "title": "No taxpayer funds were used in the writing of this mailbag",
+    "canonical_url": "https://www.slowboring.com/p/no-taxpayer-funds-were-used-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13694750,
+    "top_level": true,
+    "date": "Mar 17 2023 07:05",
+    "likes": 4,
+    "timestamp": 1679051154,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> In your view, was the Treasury/FRB/FDIC wrong to step in and exercise Systemic Risk Exception for SVB?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "WSJ seems to have the best reporting about why SBV was saved via this mechanism in the Mar 16 article, \u201cWhy Top Washington Officials Chose to Rescue SVB, Signature Depositors\u201d. [1] It appears that the main concern was a general panic and run on many local and regional banks across the country if there was any uncertainty about SBV depositors being made whole. Eg, any insured deposits across the country would flee these other smaller banks. That would kick off many more bank failures and a large scale financial crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ideally, FDIC would\u2019ve found an acquirer bank over the weekend to assume SBV\u2019s liabilities, and that was attempted, but ultimately failed. On Monday, FDIC could have paid out as much as 50% of the uninsured deposits, but additional recovery could take months. Even if SBV depositors were eventually made 100% whole, the long period of uncertainty would sow fear and panic among other uninsured depositors at other local and regional banks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The systemic-risk exception was the only mechanism the government had to quickly resolve this uncertainty, and thereby manage the broader bank run risks. Some excerpts from the WSJ piece."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Ms. Brainard and others made the case that depositors at other midsize banks like SVB could pull out their deposits on Monday, precipitating a bank run across the country that could endanger billions in deposits. They also feared that the loss of deposits at SVB could leave startups that banked with SVB and even other regionals without the cash to meet payroll this week. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Officials at the Fed monitored real-time data showing a growing pile of withdrawal requests.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Regulators had considered telling uninsured depositors that they could access at least 50% of their deposits as early as Monday, but after Signature\u2019s failure and other stresses became clear, they decided that would be insufficient. By Saturday morning, Ms. Yellen had concluded that a blanket guarantee of SVB bank deposits would be needed. Ms. Brainard shared Ms. Yellen\u2019s assessment of the developments over the weekend.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> By Sunday afternoon, the four top overseers concluded that they had no choice but to invoke the systemic-risk exception and promise all depositors they would be able to access their money at SVB and Signature."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/why-top-washington-officials-agreed-to-a-bank-rescue-ef489db8"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13694750,
+    "thread_children": 1,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 10.0,
+    "word_count": 386
+  },
+  {
+    "post_id": 108586336,
+    "title": "No taxpayer funds were used in the writing of this mailbag",
+    "canonical_url": "https://www.slowboring.com/p/no-taxpayer-funds-were-used-in-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13695281,
+    "top_level": false,
+    "date": "Mar 17 2023 07:37",
+    "likes": 6,
+    "timestamp": 1679053068,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There doesn\u2019t seem to be consensus among experts on the impact of the 2018 Republican banking deregulation on the SVB collapse. Odd Lots interviewed Columbia Law School professor Lev Menand about banking regulation history and SBV yesterday. [1] His main point was that banking regulators already have a lot of discretion by statute to reign in bad banking behavior. Menand argues that they\u2019ve forgone using that discretion, and instead rely on weaker and rigid procedural based enforcement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, Menand believes the bank deregulation contributed to the SVB collapse."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The result was that they didn't have stress testing, which is the primary means by which supervisors now exercise substantive judgment about risks. You had a much more light touch, process-focused oversight that allowed rule-compliant balance sheet configurations like SVB's to go relatively unchallenged. If they had been in the enhanced prudential standards bucket, they would have been challenged through additional rules and supervisory programs. It's unlikely, though you can never know, that they could have taken so much duration risk and not raised capital earlier or been permitted to go for so long in a position where their liquidation value is possibly negative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, a WSJ opinion piece argues that, \u201cStress Testing Wouldn\u2019t Have Saved Silicon Valley Bank.\u201d [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But even if midsize banks had been subjected to the same scrutiny as large banks, it isn\u2019t clear that stress testing them would have led to changes that would have prevented failure. Why? Because the tests asked the wrong questions. They failed to encompass the scenarios that ultimately led to SVB\u2019s demise\u2014large and rapid increases in interest rates."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In its February 2022 Stress Test Scenarios, the Fed\u2019s \u201cseverely adverse scenario\u201d asked banks to assess their riskiness over a three-year horizon in a hypothetical world in which the three-month Treasury rate stays near zero while the 10-year Treasury yield declines to 0.75% during the first quarter of 2022 and doesn\u2019t change in the subsequent two quarters. Even in December 2021, however, the Federal Open Market Committee\u2019s Summary of Economic Projections was showing the Fed likely targeting interest rates double those of 2022 in 2023, far higher than what it used for bank stress tests."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I think we still need to learn more about the details of SVB\u2019s regulation leading up to their failure. We\u2019ll get that by May 1st when the Fed releases their report on SVB regulation. [3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-03-16/transcript-the-regulatory-blunders-behind-the-svb-disaster"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wsj.com/articles/stress-testing-wouldnt-have-saved-silicon-valley-bank-fomc-federal-reserve-treasury-bank-run-signature-bank-1573ab77"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20230313a.htm"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 13694551,
+    "parent_children": 32,
+    "thread_id": 13694551,
+    "thread_children": 32,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 11.5,
+    "word_count": 401
   },
   {
     "post_id": 90872624,
@@ -11061,6 +11989,108 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 288
+  },
+  {
+    "post_id": 107606583,
+    "title": "Don't overthink poverty in the United States",
+    "canonical_url": "https://www.slowboring.com/p/dont-overthink-poverty-in-the-united",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13597172,
+    "top_level": true,
+    "date": "Mar 14 2023 06:43",
+    "likes": 49,
+    "timestamp": 1678790622,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  I think most people found his book a little dull and will find Desmond\u2019s more interesting, which is unfortunate because I don\u2019t think it\u2019s helpful for Desmond to over-complicate the situation. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think many of us are far more interested in reading and discussing social issues like poverty than we are in actually addressing these problems. Doubly so if it would come at a personal cost to us affluent wanna-be noble aristocrats. We simply enjoy the thrill of applying our thinking and sophistry in something of a status game where we cosplay as philosophers. A hundred years ago we\u2019d likely be arguing about the interpretation of scripture in our application of the Social Gospel, without much need to actually apply anything."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And yes, this comment is an example of that. I hope to have some debating partners in the replies who can chastise me for being overly uncharitable to us progressives."
+        }
+      ]
+    ],
+    "total_children": 21,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13597172,
+    "thread_children": 21,
+    "ratio_recv": -32,
+    "ratio_give": null,
+    "grade_level": 10.5,
+    "word_count": 151
+  },
+  {
+    "post_id": 107606583,
+    "title": "Don't overthink poverty in the United States",
+    "canonical_url": "https://www.slowboring.com/p/dont-overthink-poverty-in-the-united",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13597694,
+    "top_level": true,
+    "date": "Mar 14 2023 07:20",
+    "likes": 26,
+    "timestamp": 1678792831,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But the numbers involved are big and scary, GOP elites think it\u2019s a bad idea, and Democratic Party advocacy groups who like this idea generally have higher priorities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think a lot of this comes down to us misdiagnosing a persuasion problem as a political problem."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We just don\u2019t yet have substantial consensus that we Americans should pay higher taxes to reduce child poverty. Yes, almost everyone agrees that child poverty is bad and should be addressed. Even many Republican voters and politicians agree. But when personal sacrifice in the form of higher taxes is added to the proposal, we recoil in discomfort. We simply can\u2019t address child poverty through politics until we\u2019ve persuaded a sufficient number of fellow Americans to support this policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And yet we progressives deny the nature of the problem before us. We want to believe that our ideas are already broadly popular, or that we can eliminate personal sacrifice with some nebulous concept of \u201ctax the rich.\u201d Some of this may be our own unacknowledged selfishness. Some of it may be a lack of seriousness at actually addressing the problem."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But the biggest cause in my opinion is our lack of convictions in the power of our beliefs. We can\u2019t even consider the possibility our ideas may be unpopular because that could suggest that we are wrong. We also don\u2019t want to do the hard and dirty missionary work of converting others to our faith. That would require empathy for nonbelievers and a concerted effort to meet them where they are at as we spread the good word."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet I\u2019m actually optimistic that the situation will improve because our ideas are strong, just, and persuasive. We\u2019ll probably need a bit more pain before we\u2019re forced to recon with the cold hard reality. Ultimately the power of our beliefs will compel us to do so."
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13597694,
+    "thread_children": 15,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 8.8,
+    "word_count": 309
   },
   {
     "post_id": 88071358,
@@ -18488,7 +19518,7 @@ window._comments = [
     "id": 13565270,
     "top_level": true,
     "date": "Mar 13 2023 06:47",
-    "likes": 30,
+    "likes": 32,
     "timestamp": 1678704434,
     "body": [
       [
@@ -18549,7 +19579,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 13565270,
     "thread_children": 17,
-    "ratio_recv": -21,
+    "ratio_recv": -23,
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 324
@@ -18564,7 +19594,7 @@ window._comments = [
     "id": 13565877,
     "top_level": false,
     "date": "Mar 13 2023 07:33",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1678707217,
     "body": [
       [
@@ -18647,8 +19677,8 @@ window._comments = [
     "parent_children": 12,
     "thread_id": 13565270,
     "thread_children": 17,
-    "ratio_recv": -4,
-    "ratio_give": 1,
+    "ratio_recv": -6,
+    "ratio_give": 3,
     "grade_level": 10.5,
     "word_count": 260
   },
@@ -18683,7 +19713,7 @@ window._comments = [
     "parent_children": 5,
     "thread_id": 13565270,
     "thread_children": 17,
-    "ratio_recv": -6,
+    "ratio_recv": -5,
     "ratio_give": 3,
     "grade_level": 10.6,
     "word_count": 113
