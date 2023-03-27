@@ -4186,7 +4186,7 @@ window._comments = [
     "id": 13869632,
     "top_level": true,
     "date": "Mar 23 2023 06:50",
-    "likes": 11,
+    "likes": 15,
     "timestamp": 1679568616,
     "body": [
       [
@@ -4222,7 +4222,7 @@ window._comments = [
     "id": 13869993,
     "top_level": false,
     "date": "Mar 23 2023 07:12",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1679569939,
     "body": [
       [
@@ -4258,11 +4258,11 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 13869403,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 13869403,
-    "thread_children": 2,
+    "thread_children": 4,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 10.5,
     "word_count": 303
   },
@@ -9375,6 +9375,676 @@ window._comments = [
     "word_count": 291
   },
   {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13939490,
+    "top_level": true,
+    "date": "Mar 25 2023 12:39",
+    "likes": 4,
+    "timestamp": 1679762360,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I asked ChatGPT to categorize our comments on Slow Boring and these are the five most frequent topics that it identified:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 13.0%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.5%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.1%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 7.7%: taxation, economics, policy, government"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 7.6%: Politics, Social Issues, Racism, Identity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Where the percentage is the fraction of comments in that topic. There is some more nuance to using ChatGPT and related OpenAI tools to categorizing comments as I detailed in, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/using-openai-apis-substack-comments"
+        },
+        {
+          "type": "text",
+          "value": " That post has additional results, including the full 15 categories identified."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, I\u2019m quite impressed by the quality of these ChatGPT results and how easy it was to apply these methods. OpenAI has invented a particularly powerful new technology and it\u2019s gonna have a massive impact on our world. Eg, Microsoft 365 Copilot, a modern-day Clippy, retrofitted with OpenAI-derived intelligence. The recent demo is unbelievable, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=S7xTBa93TX8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The category labels could use some work. Eg, two categories are similarly labeled as \u201cOpinions/comments about societal/cultural issues\u201d and \u201cCritique of a societal issue\u201d. I\u2019ll experiment some more with how I ask ChatGPT to label categories to see if we can avoid this ambiguity."
+        }
+      ]
+    ],
+    "total_children": 29,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 188
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13939651,
+    "top_level": false,
+    "date": "Mar 25 2023 12:45",
+    "likes": 3,
+    "timestamp": 1679762735,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I also looked at the topics identified in my own comments and how the frequency of my categories differs from our collective average. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 19.4%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 17.0%: taxation, economics, policy, government"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 15.1%: Critique of a societal issue"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 13.1%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.1%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We see that I\u2019m more interested in tech and economics than our average commentator."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If you\u2019d like to see your own distribution, let me know in the replies and I\u2019ll reply back with your top 5 topics later this afternoon."
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": 13939490,
+    "parent_children": 29,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": -1,
+    "grade_level": 9.5,
+    "word_count": 90
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13961047,
+    "top_level": false,
+    "date": "Mar 26 2023 12:01",
+    "likes": 1,
+    "timestamp": 1679846508,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 20.0%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 13.4%: Political Systems, Electoral Processes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 9.2%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.0%: Politics, Social Issues, Racism, Identity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 7.5%: Critique of a societal issue"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13956001,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": -1,
+    "grade_level": 11.4,
+    "word_count": 28
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13947017,
+    "top_level": false,
+    "date": "Mar 25 2023 18:18",
+    "likes": 0,
+    "timestamp": 1679782707,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 30.1%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 20.9%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.6%: Politics, Social Issues, Racism, Identity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 11.3%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 5.9%: Critique of a societal issue"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 13946254,
+    "parent_children": 1,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 12.6,
+    "word_count": 28
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13961132,
+    "top_level": false,
+    "date": "Mar 26 2023 12:04",
+    "likes": 1,
+    "timestamp": 1679846659,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 24.6%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.8%: Foreign policy, Military, International relations"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.6%: taxation, economics, policy, government"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.8%: Political Systems, Electoral Processes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 7.4%: COVID measures and vaccines"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13955831,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 13.6,
+    "word_count": 26
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13949388,
+    "top_level": false,
+    "date": "Mar 25 2023 20:50",
+    "likes": 0,
+    "timestamp": 1679791822,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 23.0%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 19.0%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.3%: Housing and Homelessness, Zoning and Regulations"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.3%: urban planning and development"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 9.3%: politics, parties, messaging, media"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13949284,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": 1,
+    "ratio_give": -1,
+    "grade_level": 13.7,
+    "word_count": 28
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13948416,
+    "top_level": false,
+    "date": "Mar 25 2023 19:43",
+    "likes": 0,
+    "timestamp": 1679787813,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 16.1%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 16.1%: taxation, economics, policy, government"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 15.7%: Political Systems, Electoral Processes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.5%: Climate change, Energy, Policy, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.5%: Critique of a societal issue"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13947707,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 12.5,
+    "word_count": 27
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13948439,
+    "top_level": false,
+    "date": "Mar 25 2023 19:45",
+    "likes": 1,
+    "timestamp": 1679787911,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 15.8%: Politics, Social Issues, Racism, Identity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 14.5%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 13.9%: Education, Society and Culture"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.0%: politics, parties, messaging, media"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.9%: Controversial Social Issues"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13947686,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 13.5,
+    "word_count": 25
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13945738,
+    "top_level": false,
+    "date": "Mar 25 2023 17:09",
+    "likes": 1,
+    "timestamp": 1679778556,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 11.4%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.9%: Politics, Social Issues, Racism, Identity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.7%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.7%: Controversial Social Issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 9.8%: Foreign policy, Military, International relations"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13943596,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 14.8,
+    "word_count": 27
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13940935,
+    "top_level": false,
+    "date": "Mar 25 2023 13:35",
+    "likes": 1,
+    "timestamp": 1679765726,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* 17.9%: Politics, Media, Social Issues, Technology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 12.9%: Opinions/comments about societal/cultural issues"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 11.1%: urban planning and development"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 10.5%: Political Systems, Electoral Processes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8.0%: Housing and Homelessness, Zoning and Regulations"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13939673,
+    "parent_children": 2,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 13.7,
+    "word_count": 28
+  },
+  {
+    "post_id": 110518383,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-2bd",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13945878,
+    "top_level": false,
+    "date": "Mar 25 2023 17:15",
+    "likes": 1,
+    "timestamp": 1679778957,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The categorization (ie, clustering) doesn\u2019t actually use ChatGPT, but instead uses another OpenAI technology called text embeddings. ChatGPT is just used to suggest names for each category from a sample of comments within that group."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From OpenAI\u2019s description, "
+        },
+        {
+          "type": "url",
+          "value": "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> OpenAI\u2019s text embeddings measure the relatedness of text strings. Embeddings are commonly used for:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * Search (where results are ranked by relevance to a query string)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * Clustering (where text strings are grouped by similarity)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * Recommendations (where items with related text strings are recommended)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> An embedding is a vector (list) of floating point numbers. The distance between two vectors measures their relatedness. Small distances suggest high relatedness and large distances suggest low relatedness."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13942430,
+    "parent_children": 3,
+    "thread_id": 13939490,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 12.7,
+    "word_count": 109
+  },
+  {
     "post_id": 69004628,
     "title": "Better Call Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/better-call-mailbag",
@@ -11595,6 +12265,60 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 175
+  },
+  {
+    "post_id": 109697799,
+    "title": "Fellowship of the mailbag",
+    "canonical_url": "https://www.slowboring.com/p/fellowship-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13901215,
+    "top_level": true,
+    "date": "Mar 24 2023 06:51",
+    "likes": 1,
+    "timestamp": 1679655085,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "If we remove the cap of FDIC insurance, then I think we\u2019d also want more rigorous banking regulation to minimize the risk of large payouts for bank failures. Eg, prevent the SVB situation of large investment losses. We\u2019d essentially want banks to primarily park their funds at the Fed as reserves and also invest in short-duration government bonds. That would curtail lending, the other side of banking, which is not necessarily a bad thing as I elaborate on below."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "First, I think we should reconsider the fundamental question: what role do we want banks to play in our financial system? Historically, we wanted them to intermediate saving and lending, particularly managing the duration mismatch between deposits and loans. Deposits can be withdrawn at any time, whereas loans take years to pay back. We also wanted banks to manage credit risk; to accurately predict default risk and charge appropriate rates to compensate for that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet there are now numerous alternatives to bank lending. Eg, anyone can buy a mortgage-backed securities ETF to contribute funding for home loans. Securitization has been applied to almost every asset class, with numerous variants within each class, each having different risk/reward profiles. And these can be packaged into fixed-income funds that diversify across asset classes. For more esoteric assets, such as small business loans, specialized private capital funds can evaluate and invest accordingly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In all of these cases, the savers are more directly exposed to the investment risks, which on average should give them more upside. For extreme safety, one can put funds into a federal money market mutual fund with virtually zero risk of loss. For more yield, one can take on some credit or duration risk. Beyond that, one can choose equity (ie, stocks) over debt investments for more long term upside."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So what do we need banks for? Could they just serve us in providing easy access to small amounts of highly liquid funds? Might we want to discourage larger deposits since we no longer need them for intermediating saving and lending?"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13901215,
+    "thread_children": 2,
+    "ratio_recv": 10,
+    "ratio_give": null,
+    "grade_level": 9.9,
+    "word_count": 339
   },
   {
     "post_id": 58251621,
