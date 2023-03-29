@@ -8983,6 +8983,254 @@ window._comments = [
     "word_count": 220
   },
   {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14047471,
+    "top_level": false,
+    "date": "Mar 29 2023 10:11",
+    "likes": 4,
+    "timestamp": 1680099084,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "All of us, including myself, need to accept some parts of climate change science on faith, including this component. I say that as a Chemistry PhD holder, [1] who, in my training circa 2010, received this advice from colleagues (more like drinking buddies) in small-molecule quantum chemistry simulations as well as from climate simulation scientists. Ie, people who researched this area."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While they didn\u2019t explicitly say this, in explaining the relevant topics, that I might have the background to understand, I inferred that this would be a futile effort for me seeing as they also struggled to master each others\u2019 work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://smartech.gatech.edu/handle/1853/50328"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14045840,
+    "parent_children": 16,
+    "thread_id": 14042185,
+    "thread_children": 74,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 12.1,
+    "word_count": 102
+  },
+  {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14042307,
+    "top_level": true,
+    "date": "Mar 29 2023 06:45",
+    "likes": 45,
+    "timestamp": 1680086752,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Nature\u2019s doubling down on their counterproductive endorsement seems to be part of a broader trend: Many people interpret our politics through the lens of morality and feel compelled to exhibit their virtue."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Our American politics has divulged into a moral crusade for a substantial portion of the coalitions on both sides, with each seeking to vanquish their enemies on the other side. There is no room for bargaining and compromise because the opposition is evil incarnate. Consequently, we must all double down in our commitment to our righteous cause and demand nothing less than unconditional surrender from our foes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll admit that\u2019s a gross oversimplification; there are plenty of moderates as well as politically disengaged people. However, the extremists have a disproportionately loud voice in shaping our national political narrative. Moreover, exposure to extremists on the other side fuels negative polarization, leading moderates to perceive the other side as increasingly radical. This shift in perception can drive previously rational individuals towards the extremists within their own ranks as they feel the need to defend against the enemy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I have no idea how to neutralize these dynamics and de-trash our politics."
+        }
+      ]
+    ],
+    "total_children": 44,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14042307,
+    "thread_children": 44,
+    "ratio_recv": -20,
+    "ratio_give": null,
+    "grade_level": 12.7,
+    "word_count": 190
+  },
+  {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14048124,
+    "top_level": false,
+    "date": "Mar 29 2023 10:30",
+    "likes": 3,
+    "timestamp": 1680100229,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s an entertaining story of doing just that, "
+        },
+        {
+          "type": "url",
+          "value": "https://physicstoday.scitation.org/do/10.1063/pt.6.1.20180822a/full/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The war over supercooled water: How a hidden coding error fueled a seven-year dispute between two of condensed matter\u2019s top theorists."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Over the next seven years, the perplexing discrepancy would ignite a bitter conflict, with junior scientists caught in the crossfire. At stake were not only the reputations of the two groups but also a peculiar theory that sought to explain some of water\u2019s deepest and most enduring mysteries. Earlier this year, the dispute was finally settled. And as it turns out, the entire ordeal was the result of botched code."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 14045047,
+    "parent_children": 3,
+    "thread_id": 14042963,
+    "thread_children": 13,
+    "ratio_recv": -1,
+    "ratio_give": -4,
+    "grade_level": 11.0,
+    "word_count": 99
+  },
+  {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14049711,
+    "top_level": false,
+    "date": "Mar 29 2023 11:15",
+    "likes": 2,
+    "timestamp": 1680102959,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree with that factuality. But there is also the fact of how voters perceive reality, regardless of the fidelity of that perception. And I believe there is rough symmetry there, and our political strategy and tactics have to work within that constraint. We will largely fail if we chiefly aim to change our opponents perception of reality."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14049217,
+    "parent_children": 3,
+    "thread_id": 14043567,
+    "thread_children": 33,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 8.9,
+    "word_count": 58
+  },
+  {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14042609,
+    "top_level": true,
+    "date": "Mar 29 2023 07:09",
+    "likes": 6,
+    "timestamp": 1680088157,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I will admit that not as many moderates were persuaded by my pro-Bernie argument as I hoped. But I really was trying \u2014 trying to imagine a persuadable audience, trying to imagine what they were worried about, trying to imagine how I could set some of those fears to rest."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I apologize for returning to my hobby horse here, but ChatGPT is great for imaging and describing a person who has different political views than your own."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> What concerns could a moderate Democrat have with a potential Bernie Sanders presidency?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> A moderate Democrat might have several concerns with a potential Bernie Sanders presidency, mainly due to differences in policy preferences, political strategy, and the potential impact on the Democratic Party. These concerns might include:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1. Economic policy: Sanders, a self-proclaimed democratic socialist, supports policies such as Medicare-for-All, free college tuition, and a federal jobs guarantee. Moderate Democrats might worry that these policies would be too expensive, lead to increased taxes, and have negative consequences on the economy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m truncating the response for brevity; the full response lists seven. You can ask it to elaborate on specific topics as well as proposing narratives to assuage those concerns. More sophisticated prompts can also have the bot simulate a person. Eg, you can converse with a moderate Democrat about their concerns of a Bernie presidency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s far from perfect, but it can get major themes correct and expose each of us to foreign values and how people holding those values can perceive our own. And of course this extends beyond politics. Eg, \u201cWhy do so many people want to live in a neighborhood zoned exclusively for single-family homes?\u201d"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14042609,
+    "thread_children": 5,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 10.4,
+    "word_count": 274
+  },
+  {
     "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
@@ -17803,7 +18051,7 @@ window._comments = [
     "id": 14011454,
     "top_level": false,
     "date": "Mar 28 2023 07:47",
-    "likes": 14,
+    "likes": 17,
     "timestamp": 1680004052,
     "body": [
       [
@@ -17825,13 +18073,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 29,
+    "total_children": 31,
     "parent_id": 14010580,
-    "parent_children": 46,
+    "parent_children": 48,
     "thread_id": 14010580,
-    "thread_children": 46,
-    "ratio_recv": 2,
-    "ratio_give": -26,
+    "thread_children": 48,
+    "ratio_recv": 1,
+    "ratio_give": -27,
     "grade_level": 10.0,
     "word_count": 142
   },
@@ -17845,7 +18093,7 @@ window._comments = [
     "id": 14010574,
     "top_level": true,
     "date": "Mar 28 2023 06:51",
-    "likes": 17,
+    "likes": 18,
     "timestamp": 1680000694,
     "body": [
       [
@@ -17878,7 +18126,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 14010574,
     "thread_children": 24,
-    "ratio_recv": -1,
+    "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 230
@@ -17989,10 +18237,10 @@ window._comments = [
     ],
     "total_children": 25,
     "parent_id": 14010370,
-    "parent_children": 28,
+    "parent_children": 31,
     "thread_id": 14010370,
-    "thread_children": 28,
-    "ratio_recv": 7,
+    "thread_children": 31,
+    "ratio_recv": 8,
     "ratio_give": -8,
     "grade_level": 7.8,
     "word_count": 46
@@ -18415,7 +18663,7 @@ window._comments = [
     "id": 13979916,
     "top_level": true,
     "date": "Mar 27 2023 06:33",
-    "likes": 49,
+    "likes": 52,
     "timestamp": 1679913184,
     "body": [
       [
@@ -18442,7 +18690,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 13979916,
     "thread_children": 49,
-    "ratio_recv": -25,
+    "ratio_recv": -26,
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 149
@@ -18457,7 +18705,7 @@ window._comments = [
     "id": 13980190,
     "top_level": false,
     "date": "Mar 27 2023 06:54",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1679914493,
     "body": [
       [
@@ -18473,7 +18721,7 @@ window._comments = [
     "thread_id": 13979916,
     "thread_children": 49,
     "ratio_recv": 3,
-    "ratio_give": -11,
+    "ratio_give": -12,
     "grade_level": 15.2,
     "word_count": 49
   },
@@ -18563,7 +18811,7 @@ window._comments = [
     "thread_id": 13979916,
     "thread_children": 49,
     "ratio_recv": 10,
-    "ratio_give": -47,
+    "ratio_give": -50,
     "grade_level": 12.9,
     "word_count": 322
   },
@@ -18613,7 +18861,7 @@ window._comments = [
     "id": 13980112,
     "top_level": false,
     "date": "Mar 27 2023 06:49",
-    "likes": 19,
+    "likes": 20,
     "timestamp": 1679914157,
     "body": [
       [
@@ -18628,7 +18876,7 @@ window._comments = [
     "parent_children": 12,
     "thread_id": 13979975,
     "thread_children": 12,
-    "ratio_recv": -14,
+    "ratio_recv": -15,
     "ratio_give": -9,
     "grade_level": 8.3,
     "word_count": 44
