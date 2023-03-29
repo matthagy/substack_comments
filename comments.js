@@ -17794,6 +17794,258 @@ window._comments = [
     "word_count": 359
   },
   {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14011454,
+    "top_level": false,
+    "date": "Mar 28 2023 07:47",
+    "likes": 14,
+    "timestamp": 1680004052,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "One of my strongest held opinions as a non-parent is near complete parent sovereignty over their children. Afterall, who am I to say how other people\u2019s children should be raised? Because regardless of how stupid I may find their choices to be, parents undoubtedly care far more about their children than anyone else, including myself and society at large."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Parents can make mistakes, including extreme mistakes that permanently damage their children. These mistakes can fall on either end of a spectrum, such as those who give their children too much freedom as well as those who give too little. Yet ultimately, parents almost universally care far more about their children than society as a whole, and further they know their children better than anyone else."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I think that there is an radically high bar for society to intervene in parent decisions."
+        }
+      ]
+    ],
+    "total_children": 29,
+    "parent_id": 14010580,
+    "parent_children": 46,
+    "thread_id": 14010580,
+    "thread_children": 46,
+    "ratio_recv": 2,
+    "ratio_give": -26,
+    "grade_level": 10.0,
+    "word_count": 142
+  },
+  {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14010574,
+    "top_level": true,
+    "date": "Mar 28 2023 06:51",
+    "likes": 17,
+    "timestamp": 1680000694,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I generally regard myself as pro-union, but I find it concerning that teacher unions actively resist the expansion of charter schools that benefit students. This stance makes me empathize with the Republican criticism of teacher unions. Coupled with the numerous issues surrounding police unions, my apprehension towards public sector unions as a whole grows."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Public sector unions appear to be fundamentally different from their private sector counterparts. This difference may stem from the fact that private sector unions must navigate the competitive landscape while striving to preserve the well-being of the companies employing their members. Conversely, public sector unions enjoy a secure, captive customer base in taxpayers, owing to the monopolistic nature of public services. Consequently, they might be inclined to work with the political system to secure excessive profits in a parasitic, rent-seeking fashion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Unions seem to function best when they perceive themselves as part of a symbiotic relationship with employers, competing against other firms. A prime example is the German model, which emphasizes international competitiveness. When private sector unions lobby for policies that undermine competition, such as protectionist measures, they become similarly parasitic. Conversely, public sector unions at the city and state level could recognize the long-term risk of taxpayers moving to rival jurisdictions and focus on excelling in that contest by providing high-quality services efficiently and sustainably."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Disclaimer: partially rewritten by ChatGPT, ideas are still my own."
+        }
+      ]
+    ],
+    "total_children": 24,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14010574,
+    "thread_children": 24,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 230
+  },
+  {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14010844,
+    "top_level": false,
+    "date": "Mar 28 2023 07:09",
+    "likes": 1,
+    "timestamp": 1680001752,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks for the feedback. I will say that I like the ChatGPT augmented version substantially more than my original. It just reads tighter and I particularly like some of the word choices. Original is as follows:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I generally consider myself fairly pro-union, but the fact that teacher unions are actively opposing the expansion of charter schools that benefit students leads me to sympathize with the Republican critique of teacher unions. Combining that with the numerous issues of police unions makes me rather suspicious of public sector unions in general."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It just seems that public sector unions are fundamentally different from private sector ones. Possibly because the private sector still has to contend with competition and the unions don\u2019t want to cripple the firms that employ their members. In contrast public sector unions have a captive customer base in the taxpayer due to the necessary monopolistic nature of public services. Hence, they\u2019re incentivized to collude with the political system to extract excess profits in parasitic, rent seeking fashion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think unions are best when they see themselves in a symbiotic relationship with the employer in a competition against alternative firms. Eg, the German model, which prioritizes international competitiveness. When private sector unions lobby to undermine that competition\u2014 eg protectionist policies\u2014then they are similarly parasitic. Conversely, at the city and state level, public sector unions could recognize the long term risk of taxpayer flight to competing jurisdictions."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 14010613,
+    "parent_children": 10,
+    "thread_id": 14010574,
+    "thread_children": 24,
+    "ratio_recv": 18,
+    "ratio_give": -15,
+    "grade_level": 11.5,
+    "word_count": 235
+  },
+  {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14010961,
+    "top_level": false,
+    "date": "Mar 28 2023 07:16",
+    "likes": 9,
+    "timestamp": 1680002209,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Direct income redistribution is a more effective solution than wage floors to ensure that every citizen has a basic standard of living. If we believe that every person deserves at least a certain income and specific benefits, then we should establish a welfare state that funds these necessities by taxing the affluent. It is inefficient and inequitable to only protect specific workers in particular sectors through a \"shadow subsidy.\" All citizens should get that minimum, not just politically powerful factions that can win patronage."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14010688,
+    "parent_children": 2,
+    "thread_id": 14010574,
+    "thread_children": 24,
+    "ratio_recv": -8,
+    "ratio_give": 7,
+    "grade_level": 13.8,
+    "word_count": 84
+  },
+  {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14010612,
+    "top_level": false,
+    "date": "Mar 28 2023 06:54",
+    "likes": 5,
+    "timestamp": 1680000857,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The randomization of the admission lottery should remove that bias. Ie, both winners and losers of the lottery had parents who submitted applications. Therefore comparing the outcomes of these two groups of students should isolate differences between charter schools and public ones."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 25,
+    "parent_id": 14010370,
+    "parent_children": 28,
+    "thread_id": 14010370,
+    "thread_children": 28,
+    "ratio_recv": 7,
+    "ratio_give": -8,
+    "grade_level": 7.8,
+    "word_count": 46
+  },
+  {
+    "post_id": 110198262,
+    "title": "The strange death of education reform, part three",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-7d9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14010784,
+    "top_level": true,
+    "date": "Mar 28 2023 07:05",
+    "likes": 4,
+    "timestamp": 1680001518,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could universal school choice be the solution to the ongoing culture war in education? If every parent has the option to choose any school\u2014including public districts or private religious indoctrination (or even private progressive indoctrination)\u2014with public funding support, what would remain as a point of contention? Although people might still argue over the education **other people\u2019s** children receive, such decisions ultimately lie with their parents. This debate could eventually transform into a generic culture war about the perceived ignorance of opposing voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The education-centered culture war is particularly detrimental because it undermines public support for education as a whole. Universal school choice, however, would allow voters to hold diverse views on education. Each voter would have access to a publicly-supported education system they value, and the disagreements would primarily revolve around the choices others make for their children."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would this not be a step forward compared to the current state of affairs and the potential for further deterioration?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Disclaimer: partially rewritten by ChatGPT, ideas are still my own."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14010784,
+    "thread_children": 17,
+    "ratio_recv": 5,
+    "ratio_give": null,
+    "grade_level": 12.9,
+    "word_count": 168
+  },
+  {
     "post_id": 68190824,
     "title": "What's long-term about \"longtermism\"? ",
     "canonical_url": "https://www.slowboring.com/p/whats-long-term-about-longtermism",
@@ -18152,6 +18404,234 @@ window._comments = [
     "ratio_give": 18,
     "grade_level": 11.5,
     "word_count": 268
+  },
+  {
+    "post_id": 109985984,
+    "title": "Nostalgia economics is totally wrong ",
+    "canonical_url": "https://www.slowboring.com/p/nostalgia-economics-is-totally-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13979916,
+    "top_level": true,
+    "date": "Mar 27 2023 06:33",
+    "likes": 49,
+    "timestamp": 1679913184,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This is downstream of material prosperity \u2014 mothers are less economically dependent than they used to be \u2014 but I think it\u2019s probably not ideal for kids\u2019 social and emotional development."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this an instance of a general trend that both conservatives and leftists want to deny: As we get richer, we want to purchase more independence and distance. Everyone wants to believe in some concept of community, people tied together in meaningful interdependence. Yet our revealed preference is that we mainly want to get away from each other."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Our desire for connectivity is likely largely based on the benefits, particularly being able to rely on others. No one is particularly excited about the costs; the obligations to support and accept others. Add in adverse selection, those who can contribute the most have least to gain, while those with greatest needs offer the least, and our illusion of community collapses."
+        }
+      ]
+    ],
+    "total_children": 49,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13979916,
+    "thread_children": 49,
+    "ratio_recv": -25,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 149
+  },
+  {
+    "post_id": 109985984,
+    "title": "Nostalgia economics is totally wrong ",
+    "canonical_url": "https://www.slowboring.com/p/nostalgia-economics-is-totally-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13980190,
+    "top_level": false,
+    "date": "Mar 27 2023 06:54",
+    "likes": 13,
+    "timestamp": 1679914493,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I partially concur with your viewpoint; the built environment indeed influences the extent to which we perceive our connections with others. However, I believe that the desire for single-family neighborhoods, especially among families with young children, has played a significant role in shaping the development of our built environment."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": 13979982,
+    "parent_children": 23,
+    "thread_id": 13979916,
+    "thread_children": 49,
+    "ratio_recv": 3,
+    "ratio_give": -11,
+    "grade_level": 15.2,
+    "word_count": 49
+  },
+  {
+    "post_id": 109985984,
+    "title": "Nostalgia economics is totally wrong ",
+    "canonical_url": "https://www.slowboring.com/p/nostalgia-economics-is-totally-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13980049,
+    "top_level": false,
+    "date": "Mar 27 2023 06:44",
+    "likes": 2,
+    "timestamp": 1679913851,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an aside, ChatGPT(V4) thinks my comment could be improved with the following rewrite. Anyone agree? Would you fellow subscribers prefer that I have my comments rewritten before posting? If so, do I need to disclose that?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I believe this phenomenon reflects a broader trend that both conservatives and leftists are hesitant to acknowledge: as our wealth increases, we tend to seek greater independence and distance from others. While the idea of community, with its meaningful interdependence, is a concept that many people hold dear, our actions often indicate a preference for distancing ourselves from one another."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Our longing for connection is likely motivated by the advantages it provides, such as the ability to rely on others in times of need. However, the associated costs\u2014namely, the responsibilities to support and accept our fellow community members\u2014may not be as appealing. Furthermore, the principle of adverse selection comes into play: those who have the most to offer often stand to gain the least, while those in the greatest need contribute the least. This dynamic ultimately undermines our idealized vision of community"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For fairness, it justifies its edits as:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The revised text is improved in several ways:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1. Clarity: The revised version uses clearer language and more concise phrasing, making the main points easier to understand for the reader."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 2. Coherence: The ideas in the revised text are presented in a logical and coherent manner, which helps the reader to follow the argument more easily."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 3. Sentence structure: The revised version uses varied sentence structures, providing a more engaging reading experience."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 4. Vocabulary: The revised text employs a more precise and sophisticated vocabulary, which helps to convey the author's points more effectively."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 5. Tone: The revised version maintains a neutral and objective tone, making the argument more persuasive and credible."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Overall, the improvements in clarity, coherence, sentence structure, vocabulary, and tone contribute to a more polished and persuasive text that effectively communicates the author's ideas."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 13979916,
+    "parent_children": 49,
+    "thread_id": 13979916,
+    "thread_children": 49,
+    "ratio_recv": 10,
+    "ratio_give": -47,
+    "grade_level": 12.9,
+    "word_count": 322
+  },
+  {
+    "post_id": 109985984,
+    "title": "Nostalgia economics is totally wrong ",
+    "canonical_url": "https://www.slowboring.com/p/nostalgia-economics-is-totally-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13998571,
+    "top_level": false,
+    "date": "Mar 27 2023 16:58",
+    "likes": 0,
+    "timestamp": 1679950712,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "So I think your comparison is backwards. Eg, I said \u201cwant to deny\u201d, which the bot reworded to \u201care hesitant to acknowledge.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, I appreciate the feedback. Suggests that I may need ChatGPT to humanize my overly cold and calculating writing. "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 13996263,
+    "parent_children": 2,
+    "thread_id": 13979916,
+    "thread_children": 49,
+    "ratio_recv": 1,
+    "ratio_give": 0,
+    "grade_level": 8.5,
+    "word_count": 41
+  },
+  {
+    "post_id": 109985984,
+    "title": "Nostalgia economics is totally wrong ",
+    "canonical_url": "https://www.slowboring.com/p/nostalgia-economics-is-totally-wrong",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 13980112,
+    "top_level": false,
+    "date": "Mar 27 2023 06:49",
+    "likes": 19,
+    "timestamp": 1679914157,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, and I believe those images are from ads. A common Twitter reply is: In the year 2100 people are going to look at ads from 2020 and long for a better time when everyone drove a Mercedes and lived in a luxury penthouse."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 13979975,
+    "parent_children": 12,
+    "thread_id": 13979975,
+    "thread_children": 12,
+    "ratio_recv": -14,
+    "ratio_give": -9,
+    "grade_level": 8.3,
+    "word_count": 44
   },
   {
     "post_id": 44832459,
