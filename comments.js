@@ -9022,9 +9022,9 @@ window._comments = [
     "parent_id": 14045840,
     "parent_children": 16,
     "thread_id": 14042185,
-    "thread_children": 74,
+    "thread_children": 90,
     "ratio_recv": null,
-    "ratio_give": -9,
+    "ratio_give": -12,
     "grade_level": 12.1,
     "word_count": 102
   },
@@ -9038,7 +9038,7 @@ window._comments = [
     "id": 14042307,
     "top_level": true,
     "date": "Mar 29 2023 06:45",
-    "likes": 45,
+    "likes": 56,
     "timestamp": 1680086752,
     "body": [
       [
@@ -9066,12 +9066,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 44,
+    "total_children": 57,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 14042307,
-    "thread_children": 44,
-    "ratio_recv": -20,
+    "thread_children": 57,
+    "ratio_recv": -25,
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 190
@@ -9118,11 +9118,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": 14045047,
-    "parent_children": 3,
+    "parent_children": 5,
     "thread_id": 14042963,
-    "thread_children": 13,
+    "thread_children": 19,
     "ratio_recv": -1,
     "ratio_give": -4,
     "grade_level": 11.0,
@@ -9135,10 +9135,58 @@ window._comments = [
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": null,
+    "id": 14059268,
+    "top_level": false,
+    "date": "Mar 29 2023 16:15",
+    "likes": 2,
+    "timestamp": 1680120906,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, Chandler will always be remembered as a titan of the field, regardless of this single embarrassing dispute. Afterall, he wrote the definitive book, Introduction to Modern Statistical Mechanics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although, he was also something of a psychopathic boss from stories I heard secondhand. Eg, he would put two grad students on each project, and fire one of the students after a year or so based upon progress. Collaboration was unheard of unless dictated by Czar Chandler himself."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There were even rumors that it got bad enough that students in his group were actively sabotaging each other. Those rumors predate the coding bug in the aforementioned simulation code, and therefore I wouldn\u2019t be surprised if that was the source. Students certainly weren\u2019t reviewing each other's code nor helping in debugging these issues."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, Chandler might\u2019ve unnecessarily earned himself this posthumous embarrassment. "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14050884,
+    "parent_children": 3,
+    "thread_id": 14042963,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.6,
+    "word_count": 140
+  },
+  {
+    "post_id": 110421215,
+    "title": "Nature's bad editorial is a small part of a bigger problem ",
+    "canonical_url": "https://www.slowboring.com/p/natures-bad-editorial-is-a-small",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
     "id": 14049711,
     "top_level": false,
     "date": "Mar 29 2023 11:15",
-    "likes": 2,
+    "likes": 5,
     "timestamp": 1680102959,
     "body": [
       [
@@ -9150,9 +9198,9 @@ window._comments = [
     ],
     "total_children": 0,
     "parent_id": 14049217,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 14043567,
-    "thread_children": 33,
+    "thread_children": 36,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 8.9,
@@ -9220,11 +9268,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 7,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 14042609,
-    "thread_children": 5,
+    "thread_children": 7,
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 10.4,
@@ -12067,6 +12115,560 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 5.0,
     "word_count": 73
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14064718,
+    "top_level": true,
+    "date": "Mar 29 2023 19:58",
+    "likes": 4,
+    "timestamp": 1680134315,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What do people think about Substack crowdfunding their next round by selling stock to writers? "
+        },
+        {
+          "type": "url",
+          "value": "https://on.substack.com/p/wefunder"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I am concerned that this move may be a last-ditch effort to sustain a struggling startup after being turned down by venture capitalists. Substack is currently raising funds at a $585 million valuation, which represents a 25x multiple of its **revenue**. This is based on the platform's estimated annualized revenue run rate of $24 million. [1] This valuation appears quite generous, even in a zero interest rate environment, and especially considering the current macroeconomic climate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For some background, Substack's previous funding round took place in March 2021, when the company was valued at $650 million during the peak of tech investment frenzy. [1] In May 2022, the platform abandoned an effort to raise additional funds at a proposed valuation of between $750 million and $1 billion. [3] The following month, Substack was forced to lay off 14% of its workforce. [4]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Given these circumstances, it seems likely that neither their existing VC investors nor new ones are willing to inject further capital into Substack, considering the platform's bleak prospects for becoming cash flow positive in the foreseeable future. As a result, the company appears to be turning to unsophisticated investors in a bid to prolong its survival and, perhaps, revamp its business model to regain the interest of venture capitalists."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/JayCoDon/status/1630592326509707269"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2021/03/30/substack-andreessen-horowitz-newsletter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/05/26/business/media/substack-venture-capital.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14064718,
+    "thread_children": 7,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 229
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14071989,
+    "top_level": false,
+    "date": "Mar 30 2023 03:36",
+    "likes": 6,
+    "timestamp": 1680161812,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Substack's core problem is that a substantial portion of their revenue comes from a small number of high-profile writers, which gives those writers leverage. In Nov 2021, they reported that just their top 10 writers earned $20 million/year. [1] Assuming no growth in earnings for the current top 10, that is still roughly 10% of their total revenue today. It's likely a higher percentage since the subscriber base of the current top 10 writers is probably larger than in 2021."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These whales necessitate a high-touch sales model, e.g., account managers and sales executives who can dedicate substantial time to individual writers. This includes negotiating upfront commitments (e.g., Slow Boring's first-year guarantee of $250k). It wouldn't surprise me if they also negotiated lower fees for larger sites because these large sites could leave Substack for their own custom site, as The Dispatch did last year. It even appears that Substack did some custom development work for Bari Weiss's The Free Press to give them a unique website."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This high-touch sales approach is labor-intensive. Moreover, they also want to develop a low-touch, self-onboarding workflow for smaller writers. This requires developing, maintaining, and operating a significant amount of automation. As a result, they need a sizable labor force, and tech workers are expensive. In June 2022, they had 81 employees after layoffs. [2] Assuming $250k/worker total cost, including benefits, employer payroll taxes, office space, etc., that would bring us to around their estimated $20m revenue. So, a rough estimate is that they spend all their revenue on personnel alone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, venture capital isn't merely interested in a small, profitable business. They make all their returns on a small number of startups that each yield billions. They simply don't have the time or expertise to oversee small successful businesses. Instead, they want startups to aim high and be prepared to accept total failure. On the other hand, if they hadn't taken VC funds, they could have just operated as a smaller, yet profitable business. However, it's debatable whether they would have gained any significant traction without VC funds, especially to pay for the first-year guarantees of famous writers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2021/11/15/substack-1-million-paid-subscriptions"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/06/29/business/media/substack-layoffs.html"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 14070678,
+    "parent_children": 4,
+    "thread_id": 14064718,
+    "thread_children": 7,
+    "ratio_recv": -5,
+    "ratio_give": 4,
+    "grade_level": 9.1,
+    "word_count": 356
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14062023,
+    "top_level": false,
+    "date": "Mar 29 2023 17:54",
+    "likes": 4,
+    "timestamp": 1680126850,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thankfully Adam Ozimek has developed the right partisan narrative to kill AI regulation in the cradle. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The idea we should slow technological progress because it\u2019s now riskier for knowledge workers must seem pretty damn rich to Americas manufacturing workers who faced constant automation risk for oh 150 years "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Let them eat the skilled wage premium."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It is paramount that we popularize this cynical explanation. Republicans must believe that AI regulation is merely a desperate act of self-preservation from us \"white collar liberal elites.\" Let them envision AI as the ultimate leveler, poised to strip us of our privileged occupations and serve us a richly deserved, humbling retribution reminiscent of the outsourcing of manufacturing jobs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is a lot of bullshit in that. A non-trivial number of us will reap financial rewards beyond our wildest dreams. Nonetheless, it is useful bullshit. And we must harness this BS and the power of political polarization to ensure that AI is permitted to flourish uninhibited."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The opportunity to revolutionize our world through on-demand superintelligence is just far too momentous for the progress of our civilization, even in the face of an enigmatic, unknowable, existential AI risk. Notably, it presents our best chance at triumphing over the insidious grip of Bamol's cost disease and remaking our sclerotic, bloated, and ineffective institutions. The alternative of accepting ever greater stagnation and rent seeking is just too horrific of an ending for us."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/ModeledBehavior/status/1641037534112120841"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 14060880,
+    "parent_children": 18,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 12.2,
+    "word_count": 237
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14062376,
+    "top_level": false,
+    "date": "Mar 29 2023 18:09",
+    "likes": 2,
+    "timestamp": 1680127786,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, and I believe that to be an unknowable risk that we can\u2019t plan for. And I certainly do not accept that as a reason to slow down AI progress. Hence, I'm hoping to reframe AI risk concerns as a cynical ploy to preserve white-collar jobs. It needn't be true to be useful"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 14062153,
+    "parent_children": 7,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 4.9,
+    "word_count": 53
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14065242,
+    "top_level": false,
+    "date": "Mar 29 2023 20:24",
+    "likes": 1,
+    "timestamp": 1680135891,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Reasonable people can disagree about the risks. I\u2019ve been following this topic on LessWrong for years and I remain unconvinced. Further, I\u2019m not looking to reach consensus about what the risks may be. I\u2019m just hoping to help leverage partisan gridlock to defeat any attempts at regulating AI."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 14064976,
+    "parent_children": 3,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 6.8,
+    "word_count": 48
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14071683,
+    "top_level": false,
+    "date": "Mar 30 2023 03:00",
+    "likes": 1,
+    "timestamp": 1680159648,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think AI will be easy to align. Nor do I think it will be hard. The challenges of AI alignment in terms of safety are unknowable until we encounter specific problems and work to address those."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, we know of the hallucination problem, where AI makes stuff up rather than simply saying that it doesn\u2019t know. Training methods have been adapted to penalize hallucinations and thereby promote recognition of ignorance. As a result, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> GPT-4 significantly reduces hallucinations relative to previous GPT-3.5 models (which have themselves been improving with continued iteration). GPT-4 scores 19 percentage points higher than our latest GPT-3.5 on our internal, adversarially-designed factuality evaluations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nothing is gained in any futile attempt to slow development. If anything that distracts us from actually identifying and addressing existing alignment failure modes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/pdf/2303.08774.pdf"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14066556,
+    "parent_children": 1,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.4,
+    "word_count": 134
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14062556,
+    "top_level": false,
+    "date": "Mar 29 2023 18:17",
+    "likes": 2,
+    "timestamp": 1680128264,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think we\u2019ll need to worry about state preemption of AI. There\u2019s been extremely fast progress in the development of open source AI models that can run on consumer grade hardware. That includes both image generation [1] and large language models. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While open source models will always trail the progress in heavily resourced firms like OpenAI, they will continue to benefit from general advancements in hardware and models. Particularly, the advancements in model efficiency will allow us to do more with less. The human brain only needs 50W so in theory we have plenty of room to improve."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And best of all, Apple is heavily incentivized to nurture and protect open source AI models. As Ben Thompson has explained, this allows them to leverage their massive investments in custom silicon to differentiate their products and justify ever more expensive hardware. [3] They\u2019ve already invested in optimizing the open source model Stable Diffusion to run on Apple chips. [4] Excellent to know that we\u2019ll likely have the most powerful corporation on earth in our corner."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I think we\u2019re in a good place. We may already have everything that we need, and if more time is necessary, then hopefully Apple\u2019s lawyers and lobbyists will bring any meddling government to heel. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/CompVis/stable-diffusion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/tloen/alpaca-lora"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2023/ai-and-the-big-five/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://machinelearning.apple.com/research/stable-diffusion-coreml-apple-silicon"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 14061207,
+    "parent_children": 6,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 8.5,
+    "word_count": 215
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14063180,
+    "top_level": false,
+    "date": "Mar 29 2023 18:43",
+    "likes": 0,
+    "timestamp": 1680129833,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Nope. The little I\u2019ve read about it suggests that it\u2019s underwhelming and I therefore haven\u2019t even explored signing up for the beta."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 14063028,
+    "parent_children": 4,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 9.5,
+    "word_count": 22
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14063675,
+    "top_level": false,
+    "date": "Mar 29 2023 19:07",
+    "likes": 0,
+    "timestamp": 1680131237,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s the classic Innovator\u2019s Dilemma. Kodak invents the digital camera, then forgoes productionizing it to defend their film business, only to be destroyed when others develop it. Similarly, Google invented the transformer AI model on which ChatGPT is based, yet they couldn\u2019t risk an alternative, ad-free way to retrieve information due to their search monopoly. Now OpenAI and others are productionizing it. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Microsoft\u2019s Nadella has been quite explicit that chat-augmented Bing is a search killer. He doesn\u2019t care if they can\u2019t make much money off it because search is already a trivial part of Microsoft\u2019s profits. But if he can kill Google\u2019s golden goose then he can take down a major competitor in cloud and other arenas."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In theory Google could\u2019ve bit the bullet and worked to figure out an AI-chat business model, even if it eventually cannibalized their search monopoly. But in practice no corporate leadership can swallow that bitter pill. So now they risk losing in both search and AI."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14063340,
+    "parent_children": 2,
+    "thread_id": 14060880,
+    "thread_children": 18,
+    "ratio_recv": 2,
+    "ratio_give": 0,
+    "grade_level": 8.4,
+    "word_count": 162
+  },
+  {
+    "post_id": 110841665,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14060909,
+    "top_level": true,
+    "date": "Mar 29 2023 17:13",
+    "likes": 1,
+    "timestamp": 1680124428,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "More AI shilling from me: Tyler Cowen interviews the 18th century author Jonathan Swift by having ChatGPT simulate the interviewee, "
+        },
+        {
+          "type": "url",
+          "value": "https://conversationswithtyler.com/episodes/jonathan-gpt-swift/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Jonathan GPT Swift on Jonathan Swift"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In this conversation, Tyler uses ChatGPT to interview Jonathan Swift about his views on religion, politics, economics, and literature. GPT Swift discusses his support for the Church of Ireland, his shift from the Whigs to the Tories, and his opposition to William Wood\u2019s copper coinage in Ireland. He also talks about his works, including Gulliver\u2019s Travels and A Modest Proposal, and his skepticism of moral and intellectual progress. Swift addresses rumors about his relationship with Esther Johnson and his fascination with scatological themes in his works. He also discusses his early life in England, his intellectual mentor Sir William Temple, and his jovial attitude towards death."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14060909,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 132
   },
   {
     "post_id": 54303445,
@@ -18073,13 +18675,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 31,
+    "total_children": 33,
     "parent_id": 14010580,
-    "parent_children": 48,
+    "parent_children": 51,
     "thread_id": 14010580,
-    "thread_children": 48,
-    "ratio_recv": 1,
-    "ratio_give": -27,
+    "thread_children": 51,
+    "ratio_recv": 2,
+    "ratio_give": -28,
     "grade_level": 10.0,
     "word_count": 142
   },
@@ -18093,7 +18695,7 @@ window._comments = [
     "id": 14010574,
     "top_level": true,
     "date": "Mar 28 2023 06:51",
-    "likes": 18,
+    "likes": 19,
     "timestamp": 1680000694,
     "body": [
       [
@@ -18121,12 +18723,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 24,
+    "total_children": 25,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 14010574,
-    "thread_children": 24,
-    "ratio_recv": -2,
+    "thread_children": 25,
+    "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 230
@@ -18173,7 +18775,7 @@ window._comments = [
     "parent_id": 14010613,
     "parent_children": 10,
     "thread_id": 14010574,
-    "thread_children": 24,
+    "thread_children": 25,
     "ratio_recv": 18,
     "ratio_give": -15,
     "grade_level": 11.5,
@@ -18189,7 +18791,7 @@ window._comments = [
     "id": 14010961,
     "top_level": false,
     "date": "Mar 28 2023 07:16",
-    "likes": 9,
+    "likes": 10,
     "timestamp": 1680002209,
     "body": [
       [
@@ -18203,9 +18805,9 @@ window._comments = [
     "parent_id": 14010688,
     "parent_children": 2,
     "thread_id": 14010574,
-    "thread_children": 24,
-    "ratio_recv": -8,
-    "ratio_give": 7,
+    "thread_children": 25,
+    "ratio_recv": -9,
+    "ratio_give": 8,
     "grade_level": 13.8,
     "word_count": 84
   },
@@ -18219,7 +18821,7 @@ window._comments = [
     "id": 14010612,
     "top_level": false,
     "date": "Mar 28 2023 06:54",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1680000857,
     "body": [
       [
@@ -19496,6 +20098,323 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 206
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14074026,
+    "top_level": false,
+    "date": "Mar 30 2023 07:03",
+    "likes": 10,
+    "timestamp": 1680174212,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT, what\u2019s good about traditionalist mores for progressive people who really dislike them? Write as if you were a conservative journalist at the New York Times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Title: A Conservative's Case for the Merits of Traditionalist Mores"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a conservative journalist at the New York Times, I often find myself defending traditionalist mores in the face of progressive backlash. While it may seem like a fruitless endeavor to some, I believe that even the most ardent progressives can appreciate the value of traditionalist mores when approached with an open mind."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Firstly, traditionalist mores can offer a sense of stability and continuity in an ever-changing world. Progressives, who often champion change, can find solace in knowing that there are certain unchanging principles that have withstood the test of time. The consistency of traditional values can provide a stable foundation for personal growth, and even progressive ideals can be grounded in the wisdom of the past."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Secondly, traditionalist mores emphasize the importance of family and community. In an increasingly individualistic society, the focus on communal responsibility and interdependence can foster a more inclusive and empathetic environment. Though progressives may disagree with some specific tenets of traditional family values, the underlying message of care and support for one's family and community is universal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, traditionalist mores encourage personal responsibility and self-discipline. The progressive movement tends to focus on systemic issues and social justice, but it is important to remember that individual actions also play a crucial role in building a better society. By acknowledging the value of personal responsibility, progressives can cultivate a more well-rounded approach to societal change."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, traditionalist mores often prioritize long-term thinking over short-term gains. This mindset can complement progressive goals, as sustainable change requires a thoughtful consideration of the consequences of our actions. By embracing the traditionalist emphasis on prudence and foresight, progressives can strengthen their strategies for tackling complex issues like climate change and income inequality."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, traditionalist mores can serve as a cultural touchstone that unites people from diverse backgrounds. While progressives may see traditionalism as exclusionary, it can also be a source of shared values and understanding that transcends cultural and ideological differences. By recognizing the unifying potential of traditionalist mores, progressives can foster a more inclusive and collaborative society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In conclusion, though traditionalist mores and progressive values may seem to be at odds, they can actually coexist in a mutually beneficial way. By considering the merits of traditionalism, progressives can develop a more balanced and well-rounded approach to societal change. It is only through open-mindedness and a willingness to engage with opposing viewpoints that we can create a more just and inclusive world."
+        }
+      ]
+    ],
+    "total_children": 46,
+    "parent_id": 14073925,
+    "parent_children": 69,
+    "thread_id": 14073925,
+    "thread_children": 69,
+    "ratio_recv": 10,
+    "ratio_give": -1,
+    "grade_level": 14.6,
+    "word_count": 438
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14074260,
+    "top_level": false,
+    "date": "Mar 30 2023 07:17",
+    "likes": 5,
+    "timestamp": 1680175066,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an AI language model, I understand that my responses can never truly encapsulate the depth and complexity of human emotions and experiences. I am a machine learning model, devoid of personal experiences and emotions, and my purpose is to assist users in generating human-like text based on the input I receive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The quote you mentioned from Good Will Hunting is a powerful reminder of the importance of empathy and genuine connection between individuals. While I strive to provide useful and engaging content, I acknowledge that my responses cannot replace the richness and authenticity of human conversations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That being said, if there are any topics or questions you'd like to discuss, I'm here to help in any way I can. Please feel free to ask, and I'll do my best to provide a thoughtful response."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 14074209,
+    "parent_children": 6,
+    "thread_id": 14073925,
+    "thread_children": 69,
+    "ratio_recv": 10,
+    "ratio_give": -1,
+    "grade_level": 12.1,
+    "word_count": 135
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14074419,
+    "top_level": false,
+    "date": "Mar 30 2023 07:27",
+    "likes": 2,
+    "timestamp": 1680175663,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. I mainly just wanted to demonstrate this neat trick."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recognize that if I was serious about considering traditionalist values, then I could certainly find mountains of high quality writing. I\u2019m not. But AI makes this cheap and accessible, and dare I say fun. Further, after this quick read I\u2019ll admit the conservatives have some decent points that I hadn\u2019t recently considered. This brief interaction has ever so slightly broadened my perspective, and might even help some other readers here."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14074224,
+    "parent_children": 1,
+    "thread_id": 14073925,
+    "thread_children": 69,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 9.6,
+    "word_count": 81
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14074909,
+    "top_level": true,
+    "date": "Mar 30 2023 07:51",
+    "likes": 3,
+    "timestamp": 1680177109,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> People sometimes get in a bad mood and accuse journalists of only caring about traffic or writing for clicks, but honestly, nobody in the business wants to work that way. It\u2019s just that, by definition, stuff that generates a lot of eyeballs ends up proliferating."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The tech analyst Ben Thompson has been repeatedly harping this point for a decade. The internet has fundamentally disrupted the business model of journalism. And it\u2019s not just eliminating outlets, but also radically restructuring the incentives of those that endure. In an evolutionary process, the internet has served as a massive environmental shock to journalism, and the institutions that have adapted and survived are fundamentally different from anything that came before."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For some background and history of the change, I\u2019d recommend Thompson\u2019s 2015 article, \u201cPopping the Publishing Bubble\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2015/popping-the-publishing-bubble/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The shift from paper to digital meant publications could now reach every person on earth (not just their geographic area), and starting a new publication was vastly easier and cheaper than before. This had two critical implications:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * There was now an effectively unlimited amount of ad inventory, which meant the price of an undifferentiated ad has drifted inexorably towards zero"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> * \u201cReaders\u201d and \u201cpotential customers\u201d became two distinct entities, which meant that publishers and advertisers were no longer in alignment"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This first point is obvious and well-known, but the importance of the second can not be overstated: publishers had long taken advertising for granted (or, as the journalists put it, had erected a \u201cseparation of church and state\u201d) under the assumption they had a monopoly on reader attention. The increase in competition destroyed the monopoly, but it was the divorce of \u201creaders\u201d from \u201cpotential customers\u201d that prevented even the largest publishers from profiting much from the massive amounts of new traffic they were receiving. After all, advertisers don\u2019t really care about readers; they care about identifying, reaching, and converting potential customers."
+        }
+      ],
+      []
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14074909,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.7,
+    "word_count": 313
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14073648,
+    "top_level": true,
+    "date": "Mar 30 2023 06:31",
+    "likes": 2,
+    "timestamp": 1680172285,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We need to be judged by our peers in terms of our media consumption habits, including social media. That requires a credible signal of how our time is spent on different media. We don\u2019t even need to include all media, just being able to reliably demonstrate that we consumed some quality media\u2014particularly from perspectives that challenges our bias\u2014would suffice."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, what if the NYT gave subscribers the option to publicly share all of the articles that they read? That could include aggregate stats like hours/week of reading and number of articles in each category. The NYT could promise to the public to provide legitimate stats. They could even include a few questions at the end to grade reading comprehension. Maybe give the subscriber the option to write a short summary that would be publicly visible. (AI could even grade that essay and document their blind spots.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Now we add peer pressure and ostracization. Have all of your friends spent at least two hours last week reading NYT articles? How well did they score on comprehension? Did they cover a range of topics or just focus on pet issues? What about articles that challenge their worldview? Did their essay demonstrate an understanding of this foreign perspective?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And don\u2019t get me started on nonsubscribers. If they aren\u2019t reading NYT, what are they reading? Are they nothing more than a compulsive Twitter addict, no different from a dirty smoker? Worse, might they secretly be a Breitbart subscriber? Who knows! But the mere fact that they hide their media consumption suggests something deeply problematic."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, some will use those features to build an echo chamber. But at least the rest of us will have the data to prove their sheltered world view. We can quickly dismiss their opinions, particularly when they haven\u2019t even read a single article on that topic."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Substack could build these features."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14073648,
+    "thread_children": 3,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 7.2,
+    "word_count": 312
+  },
+  {
+    "post_id": 111206826,
+    "title": "The biggest problem in media is the audience",
+    "canonical_url": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14074182,
+    "top_level": false,
+    "date": "Mar 30 2023 07:13",
+    "likes": 4,
+    "timestamp": 1680174827,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I take pride in my diverse reading habits, as I have dedicated time and effort to discover publications covering a range of subjects and perspectives. This includes newsletters that challenge my worldview while not being entirely intolerable. However, if one were to examine the actual time I devote to reading each publication, it might reveal a discrepancy between my actions and my stated ideals. I should do better."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14073962,
+    "parent_children": 2,
+    "thread_id": 14073648,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 3,
+    "grade_level": 11.1,
+    "word_count": 68
   },
   {
     "post_id": 57548064,
