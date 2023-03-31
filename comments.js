@@ -9038,7 +9038,7 @@ window._comments = [
     "id": 14042307,
     "top_level": true,
     "date": "Mar 29 2023 06:45",
-    "likes": 56,
+    "likes": 58,
     "timestamp": 1680086752,
     "body": [
       [
@@ -9071,7 +9071,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 14042307,
     "thread_children": 57,
-    "ratio_recv": -25,
+    "ratio_recv": -26,
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 190
@@ -9086,7 +9086,7 @@ window._comments = [
     "id": 14048124,
     "top_level": false,
     "date": "Mar 29 2023 10:30",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1680100229,
     "body": [
       [
@@ -9123,8 +9123,8 @@ window._comments = [
     "parent_children": 5,
     "thread_id": 14042963,
     "thread_children": 19,
-    "ratio_recv": -1,
-    "ratio_give": -4,
+    "ratio_recv": -2,
+    "ratio_give": -3,
     "grade_level": 11.0,
     "word_count": 99
   },
@@ -9186,7 +9186,7 @@ window._comments = [
     "id": 14049711,
     "top_level": false,
     "date": "Mar 29 2023 11:15",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1680102959,
     "body": [
       [
@@ -9202,7 +9202,7 @@ window._comments = [
     "thread_id": 14043567,
     "thread_children": 36,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -1,
     "grade_level": 8.9,
     "word_count": 58
   },
@@ -15717,6 +15717,60 @@ window._comments = [
     "word_count": 121
   },
   {
+    "post_id": 111336596,
+    "title": "Pre-election mailbag",
+    "canonical_url": "https://www.slowboring.com/p/pre-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14107598,
+    "top_level": true,
+    "date": "Mar 31 2023 07:05",
+    "likes": 5,
+    "timestamp": 1680260702,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The problem is most people reject reductionist accounts of the human mind for no good reason, but then apply them to digital minds, which creates a spurious contrast between the two."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The importance of this point cannot be overstated. Reductionism obscures more than it enlightens for both neural networks and the human brain. While both can be reduced to elemental operations\u2014be it digital 1s and 0s or neurons and synapses\u2014we have no clue how that gives rise to the fascinating emergent behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe that is why so many techies, myself included, have become enchanted with the recent advances in AI. While previous generations of statistical learning had similarly opaque structures, the resulting behavior was exceedingly simple and domain specific. However, with the advent of cutting-edge AI, we now have machines that are able to replicate human-like abilities, particularly in their language processing capabilities. The potential implications of this development are staggering, and it is no wonder that so many of us are fascinated by the possibilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, this technology is not only readily accessible but also provides immediate and significant value. Whereas crypto, and even the early internet, had early advocates making grand promises, those two technologies required the development of network effects to unlock their full value. Crypto failed to achieve that and is now dying, and the internet took nearly two decades to become generally valuable to the broader population."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, anyone can easily try out ChatGPT or Github Copilot and get instant value. The immense productivity gains for tech workers are staggering and that leaves us in something of a shell shocked haze after our first encounter. It just takes us a bit to come to terms with the implications for how we\u2019ll need to adapt to wield the massive leverage provided by AI."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14107598,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 299
+  },
+  {
     "post_id": 72273018,
     "title": "Janet Yellen explains Bidenomics ",
     "canonical_url": "https://www.slowboring.com/p/janet-yellen-explains-bidenomics",
@@ -20169,11 +20223,11 @@ window._comments = [
     ],
     "total_children": 46,
     "parent_id": 14073925,
-    "parent_children": 69,
+    "parent_children": 72,
     "thread_id": 14073925,
-    "thread_children": 69,
+    "thread_children": 72,
     "ratio_recv": 10,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 14.6,
     "word_count": 438
   },
@@ -20213,7 +20267,7 @@ window._comments = [
     "parent_id": 14074209,
     "parent_children": 6,
     "thread_id": 14073925,
-    "thread_children": 69,
+    "thread_children": 72,
     "ratio_recv": 10,
     "ratio_give": -1,
     "grade_level": 12.1,
@@ -20249,7 +20303,7 @@ window._comments = [
     "parent_id": 14074224,
     "parent_children": 1,
     "thread_id": 14073925,
-    "thread_children": 69,
+    "thread_children": 72,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 9.6,
@@ -20396,7 +20450,7 @@ window._comments = [
     "id": 14074182,
     "top_level": false,
     "date": "Mar 30 2023 07:13",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1680174827,
     "body": [
       [
@@ -20412,7 +20466,7 @@ window._comments = [
     "thread_id": 14073648,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 3,
+    "ratio_give": 4,
     "grade_level": 11.1,
     "word_count": 68
   },
