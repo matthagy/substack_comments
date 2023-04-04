@@ -2511,6 +2511,132 @@ window._comments = [
     "word_count": 186
   },
   {
+    "post_id": 110842111,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-95e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14146882,
+    "top_level": true,
+    "date": "Apr 01 2023 12:11",
+    "likes": 1,
+    "timestamp": 1680365497,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Our ongoing discussion in SB comments about political polarization has been on my mind lately. I wrote up some ideas about how I believe we can each work to close the divide, even if just here in the comments, and would appreciate constructive criticism or other feedback. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Your beliefs are valid. I just don\u2019t share them"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Advice for missionaries on how you might convert me"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/your-beliefs-are-valid-i-just-dont"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14146882,
+    "thread_children": 4,
+    "ratio_recv": 1,
+    "ratio_give": null,
+    "grade_level": 8.5,
+    "word_count": 65
+  },
+  {
+    "post_id": 110842111,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-95e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14156121,
+    "top_level": false,
+    "date": "Apr 01 2023 18:45",
+    "likes": 0,
+    "timestamp": 1680389133,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good point. Thanks! I'll keep that in mind as I continue refining these ideas."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14154777,
+    "parent_children": 1,
+    "thread_id": 14146882,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 5.2,
+    "word_count": 14
+  },
+  {
+    "post_id": 110842111,
+    "title": "Saturday Thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-95e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14147007,
+    "top_level": false,
+    "date": "Apr 01 2023 12:15",
+    "likes": 1,
+    "timestamp": 1680365753,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Note, I did use my hobby horse of AI as the illustrative example, primarily because that seems like a less bitterly divided arena than politics. I tried to take a neutral perspective on AI itself within the article, although ChatGPT still thinks it could be less provocative. It particularly doesn\u2019t like the brief Kaczynski reference. Screw that! I\u2019ll appreciate this community's feedback far more than a computer that attempts to simulate the most milquetoast Reuters reporter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s the key paragraphs if you don't wanna read roughly 1,000 words."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Therefore, as an agnostic about the long term impact of AI, I\u2019d like to offer you some advice about how you might be able to convert me. I\u2019ll begin by demonstrating my first suggestion: I find your beliefs about AI valid and I respect your right to hold them, share them, and act upon them. And I think you\u2019ll find it much easier to draw me into your convictions if you can offer similar charity to a nonbeliever like myself. Worse, I believe you\u2019ll find that attacking me only leads me to sympathize with your opponents."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Next, you should search for some genuine common ground with your interlocutor. For example, you and I may both believe these AI systems are unexpectedly powerful in that we\u2019ve never before seen a computer exhibit such human-like language capabilities. Conversely, should you find a skeptic, you can begin by discussing the failing of these methods. Everyone agrees that current AI systems can hallucinate false information and that limits their usefulness. By starting with our mutual understandings, we can build trust and rapport. I\u2019ll be more willing to seriously consider your ideas in our areas of disagreement once you\u2019ve demonstrated your thoughtfulness and good judgment in our shared understanding."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14146882,
+    "parent_children": 4,
+    "thread_id": 14146882,
+    "thread_children": 4,
+    "ratio_recv": 6,
+    "ratio_give": 0,
+    "grade_level": 10.9,
+    "word_count": 292
+  },
+  {
     "post_id": 60539716,
     "title": "SARS-CoV-Mailbag",
     "canonical_url": "https://www.slowboring.com/p/sars-cov-mailbag",
@@ -15723,10 +15849,66 @@ window._comments = [
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": null,
+    "id": 14125201,
+    "top_level": false,
+    "date": "Mar 31 2023 15:22",
+    "likes": 5,
+    "timestamp": 1680290520,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT and its relative GitHub Copilot are highly proficient in writing code. Copilot is particularly powerful as it can comprehend an existing codebase and use that to provide suggestions while developers are writing code. Eg, I start defining a function and it suggests 10 lines of code that are nearly perfect from the partial function name alone. It is eerily prescient in how it can get ahead of your own thinking and basically complete your own seemingly sophisticated thoughts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For writing, I think we\u2019ll have to wait for Microsoft Office Copilot 365, which is currently just in beta. Similar to its GitHub cousin, it can learn concepts from your existing documents, as well as those shared by your coworkers. I've also heard it can pick up on a user's writing style and tone. Here is a short demo that you might initially find unbelievable, but I assure you that functionality is consistent with Copilot for code, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=S7xTBa93TX8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m particularly excited about how autocomplete can interact with chat. Eg, Github Copilot is developing a chat bot that can answer questions about code like, \u201cAm I missing any edge cases in my unit tests for this module?\u201d Or in writing, \u201cSuggest a way that I could rewrite these paragraphs to use clearer and more concise language.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For more about Copilot, I\u2019d suggest Verge\u2019s, \u201cMicrosoft\u2019s new Copilot will change Office documents forever\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.theverge.com/2023/3/17/23644501/microsoft-copilot-ai-office-documents-microsoft-365-report"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14108220,
+    "parent_children": 27,
+    "thread_id": 14108220,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 10.2,
+    "word_count": 228
+  },
+  {
+    "post_id": 111336596,
+    "title": "Pre-election mailbag",
+    "canonical_url": "https://www.slowboring.com/p/pre-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
     "id": 14107598,
     "top_level": true,
     "date": "Mar 31 2023 07:05",
-    "likes": 5,
+    "likes": 8,
     "timestamp": 1680260702,
     "body": [
       [
@@ -15760,12 +15942,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 0,
+    "total_children": 1,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 14107598,
-    "thread_children": 0,
-    "ratio_recv": null,
+    "thread_children": 1,
+    "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 299
@@ -20223,11 +20405,11 @@ window._comments = [
     ],
     "total_children": 46,
     "parent_id": 14073925,
-    "parent_children": 72,
+    "parent_children": 74,
     "thread_id": 14073925,
-    "thread_children": 72,
+    "thread_children": 74,
     "ratio_recv": 10,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 14.6,
     "word_count": 438
   },
@@ -20267,7 +20449,7 @@ window._comments = [
     "parent_id": 14074209,
     "parent_children": 6,
     "thread_id": 14073925,
-    "thread_children": 72,
+    "thread_children": 74,
     "ratio_recv": 10,
     "ratio_give": -1,
     "grade_level": 12.1,
@@ -20303,7 +20485,7 @@ window._comments = [
     "parent_id": 14074224,
     "parent_children": 1,
     "thread_id": 14073925,
-    "thread_children": 72,
+    "thread_children": 74,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 9.6,
