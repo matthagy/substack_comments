@@ -3673,6 +3673,373 @@ window._comments = [
     "word_count": 182
   },
   {
+    "post_id": 112690160,
+    "title": "YIMBYism can liberate us from anti-capitalism",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-can-liberate-us-from-anti",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14290804,
+    "top_level": true,
+    "date": "Apr 06 2023 06:55",
+    "likes": 61,
+    "timestamp": 1680778557,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> to call attention to the fact that we could make major improvements without ending capitalism is inconvenient for people who want to recruit for anti-capitalism"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These accelerationist Marxists are deeply unserious people and I don\u2019t see a need for anyone to take them seriously. From what I\u2019ve seen online, I get the impression that most of them are just cynical, bitter losers who just want to express their frustration with our current system. Should we end up in a Marxist America, these same people will be working long shifts in the coal mines while complaining about the superiority of capitalism over Marxism. At least then we could send them to the gulag."
+        }
+      ]
+    ],
+    "total_children": 57,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14290804,
+    "thread_children": 57,
+    "ratio_recv": -17,
+    "ratio_give": null,
+    "grade_level": 14.2,
+    "word_count": 112
+  },
+  {
+    "post_id": 112690160,
+    "title": "YIMBYism can liberate us from anti-capitalism",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-can-liberate-us-from-anti",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14304515,
+    "top_level": false,
+    "date": "Apr 06 2023 13:34",
+    "likes": 2,
+    "timestamp": 1680802443,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Although it did not write it from scratch, ChatGPT did assist with punctuation correction. Additionally, it offered style suggestions that I declined, such as pointing out the perceived hostile tone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> While the text is grammatically correct, there are a few ways you can improve the flow and make it tighter:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1. Consider breaking up the text into smaller paragraphs to make it easier to read."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 2. Try to use more concise and direct language. For example, instead of saying \"these accelerationist Marxists are deeply unserious people,\" you could say \"these Marxists are not to be taken seriously.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 3. Avoid repeating the same idea multiple times. For example, you could remove the second sentence and instead expand on the first sentence to make your point more effectively."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 4. Try to use more specific language and avoid generalizations. For example, instead of saying \"most of them are just cynical, bitter losers,\" you could provide specific examples of their behavior or beliefs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 5. Finally, consider the tone of your message and whether it is appropriate for your audience. While playful banter among friends can be fun, it's important to avoid offending anyone with your words."
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14291129,
+    "parent_children": 4,
+    "thread_id": 14290804,
+    "thread_children": 57,
+    "ratio_recv": null,
+    "ratio_give": -42,
+    "grade_level": 9.5,
+    "word_count": 192
+  },
+  {
+    "post_id": 112690160,
+    "title": "YIMBYism can liberate us from anti-capitalism",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-can-liberate-us-from-anti",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14290685,
+    "top_level": true,
+    "date": "Apr 06 2023 06:47",
+    "likes": 4,
+    "timestamp": 1680778037,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't think it's surprising that small-c conservatives would support single-family zoning. Preserving neighborhood character and property values align with conservative values. While there are free-market, libertarian elements that support zoning liberalization to allow property owners more freedom in what they can do with their land, they make up only a small fraction of contemporary Republican voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Relatedly, in a recent episode of the Odd Lots podcast, NYC real estate investor Ben Carlos Thypin discussed the great political power of homeowners and how their preferences have shaped our current zoning regimes. The episode, titled \"The Golden Age of Being an NYC Landlord Is Over,\" delved into the impact of homeowners' preferences on creating zoning regulations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Homeowners become this very powerful political block. Their relative permanence increases their propensity to vote, and they team up with conservative interests to weaken the state. The idea that everyone becomes a homeowner becomes gospel and homes become used as investments. But this was always sort of a Ponzi scheme because you're protecting the investments by putting up barriers to entry."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-04-03/transcript-the-golden-age-of-being-an-nyc-landlord-is-over?srnd=oddlots"
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14290685,
+    "thread_children": 0,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.1,
+    "word_count": 176
+  },
+  {
+    "post_id": 112690160,
+    "title": "YIMBYism can liberate us from anti-capitalism",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-can-liberate-us-from-anti",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14290800,
+    "top_level": false,
+    "date": "Apr 06 2023 06:55",
+    "likes": 13,
+    "timestamp": 1680778523,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> leave it empty if they have to, and then rent it out over the course of 10 years to break even"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "How does this work if there are multiple, competing property managers? Wouldn\u2019t the firms that show restraint simply lose renters to those that aim to rent out their entire buildings? Further, almost all property management is funded through debt and there is rarely much margin to just wait out the market. They need cashflow today to make debt payments, and equity owners risk getting wiped out should they miss a single payment and enter bankruptcy."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 14290618,
+    "parent_children": 6,
+    "thread_id": 14290618,
+    "thread_children": 6,
+    "ratio_recv": -6,
+    "ratio_give": 12,
+    "grade_level": 10.3,
+    "word_count": 96
+  },
+  {
+    "post_id": 112651168,
+    "title": "April is the cruelest mailbag",
+    "canonical_url": "https://www.slowboring.com/p/april-is-the-cruelest-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14324273,
+    "top_level": false,
+    "date": "Apr 07 2023 07:08",
+    "likes": 17,
+    "timestamp": 1680865709,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think Yglesias's argument is that there is nothing wrong with elite firms and other institutions leveraging the preselection process of elite schools in hiring. But that is inherently at odds with attempts to promote equality and inclusion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, while elite institutions have a disproportionately large impact on our world, they still only account for a small amount of employment. Therefore if that aim is to improve the employment prospects of the broad masses, then we shouldn\u2019t focus much on either elite universities, nor the institutions that employ their graduates. Instead we focus on state schools that educate a much larger number of students."
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": 14323831,
+    "parent_children": 103,
+    "thread_id": 14323831,
+    "thread_children": 103,
+    "ratio_recv": -7,
+    "ratio_give": -10,
+    "grade_level": 11.4,
+    "word_count": 104
+  },
+  {
+    "post_id": 112651168,
+    "title": "April is the cruelest mailbag",
+    "canonical_url": "https://www.slowboring.com/p/april-is-the-cruelest-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14324045,
+    "top_level": false,
+    "date": "Apr 07 2023 06:53",
+    "likes": 14,
+    "timestamp": 1680864809,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "All the elite tech firms that I\u2019m familiar with begin their interview pipeline with an automated coding test and they will extend this to basically anyone who applies with a plausibly relevant resume. This is particularly the case for internships and junior roles where we need to filter the large number of candidates before spending the time of an engineer on a phone interview."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I don\u2019t think elite education is much of an advantage in the interview, at least at the earlier stage of the interviewing process. It\u2019s possible that an elite school may push a candidate with marginal phone screening results on to the next stage, but that is about it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, the tech industry invests a lot into the interview process because we cannot trust degrees, regardless of school, to be a strong signal of capability. There are weak candidates from Stanford CS and amazing ones from colleges we\u2019ve never heard of. There are even plenty of solid engineers who are self taught, either without a degree or an unrelated one. On average, more elite education almost certainly correlates with higher performance, but no one wants to risk hiring a weak performer nor missing out on a strong one."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 14323725,
+    "parent_children": 12,
+    "thread_id": 14323574,
+    "thread_children": 17,
+    "ratio_recv": -10,
+    "ratio_give": 7,
+    "grade_level": 12.0,
+    "word_count": 203
+  },
+  {
+    "post_id": 112651168,
+    "title": "April is the cruelest mailbag",
+    "canonical_url": "https://www.slowboring.com/p/april-is-the-cruelest-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14324559,
+    "top_level": false,
+    "date": "Apr 07 2023 07:25",
+    "likes": 3,
+    "timestamp": 1680866711,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve worked with ex-Google engineers (Xooglers) with all sorts of educational backgrounds. Everyone who talked about the interview process highlighted the online, automated coding test. I believe Google even requires this for experienced candidates because they value the quantitative results from this unbiased assessment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Are you aware of candidates that were rejected at the resume level alone despite having plausibly relevant education or work experience? "
+        }
+      ]
+    ],
+    "total_children": 0,
+    "parent_id": 14324433,
+    "parent_children": 1,
+    "thread_id": 14323574,
+    "thread_children": 17,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 12.0,
+    "word_count": 65
+  },
+  {
+    "post_id": 112651168,
+    "title": "April is the cruelest mailbag",
+    "canonical_url": "https://www.slowboring.com/p/april-is-the-cruelest-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14324421,
+    "top_level": false,
+    "date": "Apr 07 2023 07:18",
+    "likes": 1,
+    "timestamp": 1680866285,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I found the following on a quick Bing Chat with \u201cDoes the Google internship application process include an online coding test?\u201d"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://careers.google.com/how-we-hire/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> While the process may differ slightly for different roles or teams, the same basics apply whether you\u2019re applying for a tech job or a marketing job, an internship or a leadership position. Not all of these may apply for your role, but here are some of the ways we assess candidates in our hiring process:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Assessments: You may be asked to do a brief online assessment, like a coding quiz, after you\u2019ve submitted your resume."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.geeksforgeeks.org/google-online-challenge-for-summer-internship-2021/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Google Online Challenge for Summer Internship 2021"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Google online challenge 2020 for summer internships 2021 was held on Sept 26. It was a 60-minute online test having 2 questions to code."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 14324315,
+    "parent_children": 3,
+    "thread_id": 14323574,
+    "thread_children": 17,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 10.9,
+    "word_count": 128
+  },
+  {
     "post_id": 108656037,
     "title": "Matt's Mailbox",
     "canonical_url": "https://www.slowboring.com/p/matts-mailbox-ada",
