@@ -3868,7 +3868,7 @@ window._comments = [
     "id": 14324273,
     "top_level": false,
     "date": "Apr 07 2023 07:08",
-    "likes": 17,
+    "likes": 19,
     "timestamp": 1680865709,
     "body": [
       [
@@ -3886,11 +3886,11 @@ window._comments = [
     ],
     "total_children": 23,
     "parent_id": 14323831,
-    "parent_children": 103,
+    "parent_children": 115,
     "thread_id": 14323831,
-    "thread_children": 103,
-    "ratio_recv": -7,
-    "ratio_give": -10,
+    "thread_children": 115,
+    "ratio_recv": -8,
+    "ratio_give": -11,
     "grade_level": 11.4,
     "word_count": 104
   },
@@ -3904,7 +3904,7 @@ window._comments = [
     "id": 14324045,
     "top_level": false,
     "date": "Apr 07 2023 06:53",
-    "likes": 14,
+    "likes": 16,
     "timestamp": 1680864809,
     "body": [
       [
@@ -3926,13 +3926,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 9,
+    "total_children": 12,
     "parent_id": 14323725,
-    "parent_children": 12,
+    "parent_children": 15,
     "thread_id": 14323574,
-    "thread_children": 17,
-    "ratio_recv": -10,
-    "ratio_give": 7,
+    "thread_children": 20,
+    "ratio_recv": -11,
+    "ratio_give": 9,
     "grade_level": 12.0,
     "word_count": 203
   },
@@ -3946,7 +3946,7 @@ window._comments = [
     "id": 14324559,
     "top_level": false,
     "date": "Apr 07 2023 07:25",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1680866711,
     "body": [
       [
@@ -3966,9 +3966,9 @@ window._comments = [
     "parent_id": 14324433,
     "parent_children": 1,
     "thread_id": 14323574,
-    "thread_children": 17,
+    "thread_children": 20,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": 0,
     "grade_level": 12.0,
     "word_count": 65
   },
@@ -4029,11 +4029,11 @@ window._comments = [
       ],
       []
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 14324315,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 14323574,
-    "thread_children": 17,
+    "thread_children": 20,
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 10.9,
@@ -8750,6 +8750,100 @@ window._comments = [
     "word_count": 100
   },
   {
+    "post_id": 113488945,
+    "title": "\"Objective\" journalism was a business model",
+    "canonical_url": "https://www.slowboring.com/p/objective-journalism-was-a-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14444590,
+    "top_level": true,
+    "date": "Apr 11 2023 06:44",
+    "likes": 11,
+    "timestamp": 1681209852,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I continue to believe that peer pressure can play an important role in improving all of our media consumption. Twitter and TikTok should be viewed as shameful, low-class, dirty habits on par with smoking. In contrast, we should take pride in sharing our virtuous daily reading of NYT, Bloomberg, Slow Boring, etc."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I am uncertain about the most effective approach to fostering this socially advantageous shift in our norms and culture. My earlier suggestions for publicly sharing our media habits through technology met with resistance from the Slow Boring community. [1] As a result, I am receptive to exploring alternative proposals. Nevertheless, I firmly believe that we must determine how to harness the power of peer pressure to enhance our collective media consumption habits."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-biggest-problem-in-media-is-the/comment/14073648"
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14444590,
+    "thread_children": 9,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 125
+  },
+  {
+    "post_id": 113488945,
+    "title": "\"Objective\" journalism was a business model",
+    "canonical_url": "https://www.slowboring.com/p/objective-journalism-was-a-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14480060,
+    "top_level": false,
+    "date": "Apr 11 2023 14:54",
+    "likes": 0,
+    "timestamp": 1681239289,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Outside of punctuation fixes, the only ChatGPT suggestion used in that text is rewriting the opening sentence of the second paragraph. It was originally,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I'm not sure how to promote this socially beneficial change in our norms and culture."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The sentence sounded off so I asked for a list of alternative rewrites, and I selected the following."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I am uncertain about the most effective approach to fostering this socially advantageous shift in our norms and culture."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14461827,
+    "parent_children": 2,
+    "thread_id": 14444590,
+    "thread_children": 9,
+    "ratio_recv": 3,
+    "ratio_give": -3,
+    "grade_level": 10.7,
+    "word_count": 76
+  },
+  {
     "post_id": 62667855,
     "title": "Tackling America's weirdly short life expectancy should be a priority ",
     "canonical_url": "https://www.slowboring.com/p/tackling-americas-weirdly-short-life",
@@ -12154,6 +12248,84 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 243
+  },
+  {
+    "post_id": 113281478,
+    "title": "Almost half of American counties have shrinking population",
+    "canonical_url": "https://www.slowboring.com/p/almost-half-of-american-counties",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14532533,
+    "top_level": true,
+    "date": "Apr 12 2023 07:00",
+    "likes": 37,
+    "timestamp": 1681297203,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> One of the obvious problems here is pensions. With pensions, taxpayers pay today for services that cops and firefighters and teachers performed years ago. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Defined benefit pensions need to be eliminated. They just have too many bad incentives for firms, governments, and their employees. Employers are tempted to reduce short-term costs, including taxes for governments, by assuming these long-term liabilities. Worse, they can downplay the costs of that liability with overly optimistic projections of future growth and investment returns. That leads them to underinvest in their pension funds today. When the bill finally comes due, the firm or government can be crushed by the need to divert current revenue to these past liabilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, defined contributions force firms and governments to pay the bill today. Workers have incentives to project realistic or conservative investment returns, ensuring adequate funding. They're also liberated from their past employer's fiscal future. Although the economy could collapse, causing retirement accounts to provide lower returns, no firm or government can guarantee defined benefits in such scenarios. The best we can hope for is a sufficiently robust welfare state to minimize material deprivation."
+        }
+      ]
+    ],
+    "total_children": 27,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14532533,
+    "thread_children": 27,
+    "ratio_recv": -21,
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 187
+  },
+  {
+    "post_id": 113281478,
+    "title": "Almost half of American counties have shrinking population",
+    "canonical_url": "https://www.slowboring.com/p/almost-half-of-american-counties",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14531697,
+    "top_level": true,
+    "date": "Apr 12 2023 06:40",
+    "likes": 6,
+    "timestamp": 1681296011,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Concerned that the educational profile of the current crop of immigrants is too weak? More visas for skilled workers. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I want to believe that there is a skilled immigration compromise that reverses the Republican \u201cGreat Replacement\u201d conspiracy theory. Specifically, targeting immigration into parts of the skilled workforce that are disproportionately liberal. Eg, tech. Not only would Republicans (wrongly) expect this to suppress our wages, but it\u2019s a simple fact that almost any potential immigrant will be more small-C conservative than us. Even the \u201csocialist\u201d Europeans that would actually immigrate would be disproportionately individualist, personally ambitious, and otherwise to the right of the median tech worker. Let alone Indian and Chinese immigrants, many of whom are singularly focused on building a better future for their families."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14531697,
+    "thread_children": 16,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 12.6,
+    "word_count": 125
   },
   {
     "post_id": 57982533,
@@ -27092,6 +27264,60 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 11.5,
     "word_count": 24
+  },
+  {
+    "post_id": 113872955,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-191",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": null,
+    "id": 14497862,
+    "top_level": false,
+    "date": "Apr 11 2023 17:48",
+    "likes": 1,
+    "timestamp": 1681249680,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "GET "
+        },
+        {
+          "type": "url",
+          "value": "https://substack.com/api/v1/reader/feed?tab=for-you"
+        },
+        {
+          "type": "text",
+          "value": " (and tab=subscribed)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Returns a JSON list of entries. Appears guarded by same authentication cookies as other substack.com resources."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Code for fetching the cookies from Chrome on Linux, "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/substack_client/blob/master/substack_client/client.py#L76"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14493996,
+    "parent_children": 9,
+    "thread_id": 14493996,
+    "thread_children": 9,
+    "ratio_recv": 0,
+    "ratio_give": -2,
+    "grade_level": 6.9,
+    "word_count": 28
   },
   {
     "post_id": 83535266,
