@@ -12014,6 +12014,378 @@ window._comments = [
     "word_count": 351
   },
   {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14677359,
+    "top_level": false,
+    "date": "Apr 14 2023 07:16",
+    "likes": 21,
+    "timestamp": 1681470968,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Substack only opened investment to their writer customers. So everyone who invested is doubling down. Worse, they only resorted to this crowdsourcing round because venture capitalists rejected their recent fundraising attempts. That is because Substack raised their last round at an obscene valuation during the height pandemic tech investing boom. Any rational investor would demand a lower valuation due to the radically different macroeconomic environment. Founders want to avoid such a down round and Substack is instead fleecing unsophisticated investors to maintain their previous valuation."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 14676261,
+    "parent_children": 11,
+    "thread_id": 14676261,
+    "thread_children": 11,
+    "ratio_recv": -15,
+    "ratio_give": 2,
+    "grade_level": 11.2,
+    "word_count": 85
+  },
+  {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14676059,
+    "top_level": false,
+    "date": "Apr 14 2023 06:37",
+    "likes": 12,
+    "timestamp": 1681468647,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I get that the Substack team is in a nightmarish predicament with their extremely lofty valuation, set at the high of the pandemic tech investing boom. There is no way they could justify that valuation in the current investing environment, even with impressive subsequent growth. To raise money from VCs today would require a downround; ie, a lower valuation. That has a lot of negative effects: their current investors have to mark a loss and report that to their limited partners; their employee stock options become underwater and thereby worthless; founders would have to give up a larger portion of the company for this round."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, that doesn\u2019t justify fleecing unsophisticated investors. Doubly so when these investors are also their customers. Even putting morality aside, this presents an extreme risk of alienating these and other customers as everyone comes to realize how Substack took advantage of them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They should\u2019ve bit the bullet and done a downround. That could include new equity awards for employees at the lower valuation. Yes, the founders would have to give up a lot more ownership of the firm for this deal. Yes, they\u2019d have to take a lot of shit from the psychopathic VCs on their board that will want to crucify the founders for the writedown that VCs will need to report to their limited partners. But that would at least preserve the reputation of the firm and the founders, and thereby give them a fighting chance for Substack to survive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Instead they have taken a devil gamble that almost guarantees estranging their customer base and thereby losing everything. I expect competitors, like Ghost, to capitalize on Substack\u2019s mistake by publicizing the con job and thereby stealing away customers."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": 14675779,
+    "parent_children": 30,
+    "thread_id": 14675779,
+    "thread_children": 30,
+    "ratio_recv": 7,
+    "ratio_give": 3,
+    "grade_level": 10.1,
+    "word_count": 285
+  },
+  {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14677113,
+    "top_level": true,
+    "date": "Apr 14 2023 07:09",
+    "likes": 10,
+    "timestamp": 1681470581,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I don\u2019t think there is much of a freak out about AI. \u2026 but in the sense that formal government policy toward training and deploying new AI systems involves an incredibly light regulatory touch\u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regulating AI is a fool\u2019s errand. Namely because there\u2019s already been extremely fast progress in the development of open source AI models that can run on consumer grade hardware, including both image generation [1] and large language models. [2] Ie, anyone can spend a few thousand dollars on a graphics card and start using these tools independently. These methods will only improve in capabilities, while hardware gets cheaper and more powerful, and thereby becoming incredibly available to run locally for anyone with a computer or phone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, we can limit their application in regulated industries by reputable firms. Ie, we can prevent chatbots from answering medical questions, despite the fact they are already as accurate as doctors. [3] But we\u2019re not gonna stop deepfakes nor spam bots since unscrupulous actors will just ignore these regulations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worse, these regulations will impede our best chance at finally triumphing over the insidious grip of Baumol's cost disease. Eg, AI medical chatbots will greatly cut down on costs, expanding access while improving quality and consistency. There are numerous opportunities for us to finally perform capital-labor substitution in services using AI and thereby drastically reduce costs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, adaptation is our only option for managing AI advancements. We cannot stop bad actors, but instead we\u2019ll need to adjust our own behavior to mitigate their harm. Eg, put zero trust in images, audio, and video that isn\u2019t directly reported by reputable sources. Further, people will seek out unregulated AI tools should regulation prevent better options. Eg, people will locally run open source medical advice chatbots as that becomes increasingly trivial, in order to easily access valuable advice that they couldn\u2019t otherwise obtain. We should prefer that large reputable firms navigate the challenges of these new AI tools rather than fully deferring to the global open source community at large."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/CompVis/stable-diffusion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/tloen/alpaca-lora"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/pdf/2212.13138.pdf"
+        },
+        {
+          "type": "text",
+          "value": " Summarized in  "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/emollick/status/1610378527110533120"
+        },
+        {
+          "type": "text",
+          "value": ", \u201cWhen Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors.\u201d"
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14677113,
+    "thread_children": 13,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 382
+  },
+  {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14675779,
+    "top_level": true,
+    "date": "Apr 14 2023 06:27",
+    "likes": 9,
+    "timestamp": 1681468041,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d like to highlight Ben Thompson\u2019s description of Substack\u2019s predicament and why their crowdfunding round appears to be swindling unsophisticated investors, who are also their customers, when VCs denied Substack additional funding. From "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2023/substack-notes-twitter-blocks-substack-substack-versus-writers/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Still, all of this seems like a reasonable gamble by Substack: the company is stuck at a $650 million valuation that seems wildly out of whack for a company that had $12 million in revenue in 2021, and building a Twitter replacement seems like the sort of long-shot bet that is its only chance to earn that valuation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We know that valuation because Substack asked its writers to fund a round at the same $650 million post-money valuation it achieved in 2021, despite the fact the company failed to raise money last year; the company never released its 2022 financials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Frankly, I think this request was shameful: Substack has rightly earned the affection of a lot of writers by providing them with a new way to earn money, and of course those writers want Substack to succeed. Keeping such a lofty valuation, though, is effectively asking for a donation from an audience that almost by definition doesn\u2019t know any better. That doesn\u2019t seem very writer friendly! Nor, for that matter, does this fight with Twitter. Again, I think this is a product bet that makes a lot of sense: Substack needs to take big swings if it\u2019s ever going to reach its valuation. Writers, though, who need Twitter\u2019s distribution, didn\u2019t sign up for this fight; they are simply stuck in the middle."
+        }
+      ]
+    ],
+    "total_children": 30,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14675779,
+    "thread_children": 30,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 255
+  },
+  {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14688934,
+    "top_level": false,
+    "date": "Apr 14 2023 10:43",
+    "likes": 3,
+    "timestamp": 1681483406,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "They only released financials through 2021. From their offering, "
+        },
+        {
+          "type": "url",
+          "value": "https://wefunder.com/substack/details"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We have financial statements ending December 31, 2021."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From the \u201c Substack Inc 2021 2020 GAAP Audited Financials.pdf\u201d linked on that page [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We have audited the consolidated financial statements of Substack Inc. and subsidiary which comprise the consolidated balance sheets as of December 31, 2021 and December 31, 2020, and the related statements of income, changes in stockholders' equity, and cash flows for the years then ended, and the related notes to the financial statements. In our opinion, the accompanying consolidated financial statements present fairly, in all material respects, the financial position of Substack Inc. as of December 31, 2021 and December 31, 2020, and the results of its operations and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They\u2019re a private company so they get a fair amount of leeway in disclosure. Axios\u2019s \u201cSubstack's crowdfunding complication\u201d has some more details. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> That means Substack was required to disclose financials for 2020 and 2021 only, which it did yesterday ($12m of 2021 gross revenue, $22m net loss and $55m of cash on hand). It could have added all or part of 2022 financials to the mix, but chose not to."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \"We're a private company, so we're releasing what we're required to release,\" explains Substack co-founder and CEO Chris Best."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They certainly could have, and SHOULD HAVE, released 2022. The articles discusses alternatives for the firm."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Or stick with the crowdfunding, but provide 2022 data that would have let writers make an informed decision. Particularly at such a nosebleed valuation. Remember, Substack's venture capitalists, management, full-time employees and early angel investors all get updates on Substack's financial condition. The only shareholders left out are those coming in via the Reg CF door."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://dfon51l7zffjj.cloudfront.net/uploads/form_c/123553/remote_files/583552-WnVyPdq1KGOuacwp22AwovMz/Substack_Inc_2021_2020_GAAP_Audited_Financials.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2023/04/07/substack-gets-writers-to-invest-but-doesnt-share-new-financial-info"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 14683610,
+    "parent_children": 7,
+    "thread_id": 14675779,
+    "thread_children": 30,
+    "ratio_recv": -3,
+    "ratio_give": 3,
+    "grade_level": 9.9,
+    "word_count": 305
+  },
+  {
+    "post_id": 114230135,
+    "title": "It's springtime for mailbags",
+    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14693437,
+    "top_level": false,
+    "date": "Apr 14 2023 11:48",
+    "likes": 2,
+    "timestamp": 1681487310,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "They completed their SEC filing on Apr 6th (tweet w/ intention to file is from Mar 28th), "
+        },
+        {
+          "type": "url",
+          "value": "https://www.sec.gov/Archives/edgar/data/1783191/000167025423000297/0001670254-23-000297-index.htm"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Their audited financials appear to be the same doc listed on Wefunder, with the same end date of December 31, 2021, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.sec.gov/Archives/edgar/data/1783191/000167025423000297/document_6.pdf"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14692379,
+    "parent_children": 2,
+    "thread_id": 14675779,
+    "thread_children": 30,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 15.8,
+    "word_count": 38
+  },
+  {
     "post_id": 93897135,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
@@ -13936,378 +14308,6 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 290
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14677359,
-    "top_level": false,
-    "date": "Apr 14 2023 07:16",
-    "likes": 19,
-    "timestamp": 1681470968,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Substack only opened investment to their writer customers. So everyone who invested is doubling down. Worse, they only resorted to this crowdsourcing round because venture capitalists rejected their recent fundraising attempts. That is because Substack raised their last round at an obscene valuation during the height pandemic tech investing boom. Any rational investor would demand a lower valuation due to the radically different macroeconomic environment. Founders want to avoid such a down round and Substack is instead fleecing unsophisticated investors to maintain their previous valuation."
-        }
-      ]
-    ],
-    "total_children": 5,
-    "parent_id": 14676261,
-    "parent_children": 9,
-    "thread_id": 14676261,
-    "thread_children": 9,
-    "ratio_recv": -14,
-    "ratio_give": 2,
-    "grade_level": 11.2,
-    "word_count": 85
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14676059,
-    "top_level": false,
-    "date": "Apr 14 2023 06:37",
-    "likes": 9,
-    "timestamp": 1681468647,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I get that the Substack team is in a nightmarish predicament with their extremely lofty valuation, set at the high of the pandemic tech investing boom. There is no way they could justify that valuation in the current investing environment, even with impressive subsequent growth. To raise money from VCs today would require a downround; ie, a lower valuation. That has a lot of negative effects: their current investors have to mark a loss and report that to their limited partners; their employee stock options become underwater and thereby worthless; founders would have to give up a larger portion of the company for this round."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Nonetheless, that doesn\u2019t justify fleecing unsophisticated investors. Doubly so when these investors are also their customers. Even putting morality aside, this presents an extreme risk of alienating these and other customers as everyone comes to realize how Substack took advantage of them."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "They should\u2019ve bit the bullet and done a downround. That could include new equity awards for employees at the lower valuation. Yes, the founders would have to give up a lot more ownership of the firm for this deal. Yes, they\u2019d have to take a lot of shit from the psychopathic VCs on their board that will want to crucify the founders for the writedown that VCs will need to report to their limited partners. But that would at least preserve the reputation of the firm and the founders, and thereby give them a fighting chance for Substack to survive."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Instead they have taken a devil gamble that almost guarantees estranging their customer base and thereby losing everything. I expect competitors, like Ghost, to capitalize on Substack\u2019s mistake by publicizing the con job and thereby stealing away customers."
-        }
-      ]
-    ],
-    "total_children": 16,
-    "parent_id": 14675779,
-    "parent_children": 30,
-    "thread_id": 14675779,
-    "thread_children": 30,
-    "ratio_recv": 6,
-    "ratio_give": 2,
-    "grade_level": 10.1,
-    "word_count": 285
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14677113,
-    "top_level": true,
-    "date": "Apr 14 2023 07:09",
-    "likes": 8,
-    "timestamp": 1681470581,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> I don\u2019t think there is much of a freak out about AI. \u2026 but in the sense that formal government policy toward training and deploying new AI systems involves an incredibly light regulatory touch\u2026"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Regulating AI is a fool\u2019s errand. Namely because there\u2019s already been extremely fast progress in the development of open source AI models that can run on consumer grade hardware, including both image generation [1] and large language models. [2] Ie, anyone can spend a few thousand dollars on a graphics card and start using these tools independently. These methods will only improve in capabilities, while hardware gets cheaper and more powerful, and thereby becoming incredibly available to run locally for anyone with a computer or phone."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Yes, we can limit their application in regulated industries by reputable firms. Ie, we can prevent chatbots from answering medical questions, despite the fact they are already as accurate as doctors. [3] But we\u2019re not gonna stop deepfakes nor spam bots since unscrupulous actors will just ignore these regulations."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Worse, these regulations will impede our best chance at finally triumphing over the insidious grip of Baumol's cost disease. Eg, AI medical chatbots will greatly cut down on costs, expanding access while improving quality and consistency. There are numerous opportunities for us to finally perform capital-labor substitution in services using AI and thereby drastically reduce costs."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Ultimately, adaptation is our only option for managing AI advancements. We cannot stop bad actors, but instead we\u2019ll need to adjust our own behavior to mitigate their harm. Eg, put zero trust in images, audio, and video that isn\u2019t directly reported by reputable sources. Further, people will seek out unregulated AI tools should regulation prevent better options. Eg, people will locally run open source medical advice chatbots as that becomes increasingly trivial, in order to easily access valuable advice that they couldn\u2019t otherwise obtain. We should prefer that large reputable firms navigate the challenges of these new AI tools rather than fully deferring to the global open source community at large."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://github.com/CompVis/stable-diffusion"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[2] "
-        },
-        {
-          "type": "url",
-          "value": "https://github.com/tloen/alpaca-lora"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[3] Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
-        },
-        {
-          "type": "url",
-          "value": "https://arxiv.org/pdf/2212.13138.pdf"
-        },
-        {
-          "type": "text",
-          "value": " Summarized in  "
-        },
-        {
-          "type": "url",
-          "value": "https://twitter.com/emollick/status/1610378527110533120"
-        },
-        {
-          "type": "text",
-          "value": ", \u201cWhen Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors.\u201d"
-        }
-      ]
-    ],
-    "total_children": 13,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 14677113,
-    "thread_children": 13,
-    "ratio_recv": 2,
-    "ratio_give": null,
-    "grade_level": 11.9,
-    "word_count": 382
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14675779,
-    "top_level": true,
-    "date": "Apr 14 2023 06:27",
-    "likes": 7,
-    "timestamp": 1681468041,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I\u2019d like to highlight Ben Thompson\u2019s description of Substack\u2019s predicament and why their crowdfunding round appears to be swindling unsophisticated investors, who are also their customers, when VCs denied Substack additional funding. From "
-        },
-        {
-          "type": "url",
-          "value": "https://stratechery.com/2023/substack-notes-twitter-blocks-substack-substack-versus-writers/"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Still, all of this seems like a reasonable gamble by Substack: the company is stuck at a $650 million valuation that seems wildly out of whack for a company that had $12 million in revenue in 2021, and building a Twitter replacement seems like the sort of long-shot bet that is its only chance to earn that valuation."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> We know that valuation because Substack asked its writers to fund a round at the same $650 million post-money valuation it achieved in 2021, despite the fact the company failed to raise money last year; the company never released its 2022 financials."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Frankly, I think this request was shameful: Substack has rightly earned the affection of a lot of writers by providing them with a new way to earn money, and of course those writers want Substack to succeed. Keeping such a lofty valuation, though, is effectively asking for a donation from an audience that almost by definition doesn\u2019t know any better. That doesn\u2019t seem very writer friendly! Nor, for that matter, does this fight with Twitter. Again, I think this is a product bet that makes a lot of sense: Substack needs to take big swings if it\u2019s ever going to reach its valuation. Writers, though, who need Twitter\u2019s distribution, didn\u2019t sign up for this fight; they are simply stuck in the middle."
-        }
-      ]
-    ],
-    "total_children": 30,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 14675779,
-    "thread_children": 30,
-    "ratio_recv": 2,
-    "ratio_give": null,
-    "grade_level": 13.1,
-    "word_count": 255
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14693437,
-    "top_level": false,
-    "date": "Apr 14 2023 11:48",
-    "likes": 2,
-    "timestamp": 1681487310,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "They completed their SEC filing on Apr 6th (tweet w/ intention to file is from Mar 28th), "
-        },
-        {
-          "type": "url",
-          "value": "https://www.sec.gov/Archives/edgar/data/1783191/000167025423000297/0001670254-23-000297-index.htm"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Their audited financials appear to be the same doc listed on Wefunder, with the same end date of December 31, 2021, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.sec.gov/Archives/edgar/data/1783191/000167025423000297/document_6.pdf"
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 14692379,
-    "parent_children": 2,
-    "thread_id": 14675779,
-    "thread_children": 30,
-    "ratio_recv": null,
-    "ratio_give": 2,
-    "grade_level": 15.8,
-    "word_count": 38
-  },
-  {
-    "post_id": 114230135,
-    "title": "It's springtime for mailbags",
-    "canonical_url": "https://www.slowboring.com/p/its-springtime-for-mailbags",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14688934,
-    "top_level": false,
-    "date": "Apr 14 2023 10:43",
-    "likes": 2,
-    "timestamp": 1681483406,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "They only released financials through 2021. From their offering, "
-        },
-        {
-          "type": "url",
-          "value": "https://wefunder.com/substack/details"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> We have financial statements ending December 31, 2021."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "From the \u201c Substack Inc 2021 2020 GAAP Audited Financials.pdf\u201d linked on that page [1]"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> We have audited the consolidated financial statements of Substack Inc. and subsidiary which comprise the consolidated balance sheets as of December 31, 2021 and December 31, 2020, and the related statements of income, changes in stockholders' equity, and cash flows for the years then ended, and the related notes to the financial statements. In our opinion, the accompanying consolidated financial statements present fairly, in all material respects, the financial position of Substack Inc. as of December 31, 2021 and December 31, 2020, and the results of its operations and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America. "
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "They\u2019re a private company so they get a fair amount of leeway in disclosure. Axios\u2019s \u201cSubstack's crowdfunding complication\u201d has some more details. [2]"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> That means Substack was required to disclose financials for 2020 and 2021 only, which it did yesterday ($12m of 2021 gross revenue, $22m net loss and $55m of cash on hand). It could have added all or part of 2022 financials to the mix, but chose not to."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> \"We're a private company, so we're releasing what we're required to release,\" explains Substack co-founder and CEO Chris Best."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "They certainly could have, and SHOULD HAVE, released 2022. The articles discusses alternatives for the firm."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Or stick with the crowdfunding, but provide 2022 data that would have let writers make an informed decision. Particularly at such a nosebleed valuation. Remember, Substack's venture capitalists, management, full-time employees and early angel investors all get updates on Substack's financial condition. The only shareholders left out are those coming in via the Reg CF door."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://dfon51l7zffjj.cloudfront.net/uploads/form_c/123553/remote_files/583552-WnVyPdq1KGOuacwp22AwovMz/Substack_Inc_2021_2020_GAAP_Audited_Financials.pdf"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[2] "
-        },
-        {
-          "type": "url",
-          "value": "https://www.axios.com/2023/04/07/substack-gets-writers-to-invest-but-doesnt-share-new-financial-info"
-        }
-      ]
-    ],
-    "total_children": 3,
-    "parent_id": 14683610,
-    "parent_children": 7,
-    "thread_id": 14675779,
-    "thread_children": 30,
-    "ratio_recv": -2,
-    "ratio_give": 2,
-    "grade_level": 9.9,
-    "word_count": 305
   },
   {
     "post_id": 112651168,
@@ -19876,6 +19876,48 @@ window._comments = [
     "word_count": 169
   },
   {
+    "post_id": 114773991,
+    "title": "Bad incentives and the politics of fear",
+    "canonical_url": "https://www.slowboring.com/p/bad-incentives-and-the-politics-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14873497,
+    "top_level": true,
+    "date": "Apr 18 2023 06:42",
+    "likes": 11,
+    "timestamp": 1681814533,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It never made sense for any federal-level politician to campaign on crime because that is primarily a local issue. Yet, we the voters are irrational and can be swayed by the vibes that a president or senator exudes on this local matter. Particularly when there was a highly salient broader debate on the general issue of crime and policing in 2020."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this is why many federal-level Republicans, notably Trump, attempted to campaign on this issue despite their lack of any policy proposals. They were just engaging with the national dialectic on crime and policing. Further, this was compounded by several notable local-level Democratic politicians practicing messaging and policies that could be interpreted as hostile to the police at a time when crime was spiking. And several prominent federal-level Democratic politicians, as well as Democrat-aligned national pundits, expressed support for those local efforts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "None of this should\u2019ve risen to federal-level politics. But we the people, both as voters and media consumers, heavily engaged with the topic at that level. And I can\u2019t blame any politicians (even Trump!) for responding to these incentives."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14873497,
+    "thread_children": 9,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 183
+  },
+  {
     "post_id": 113488945,
     "title": "\"Objective\" journalism was a business model",
     "canonical_url": "https://www.slowboring.com/p/objective-journalism-was-a-business",
@@ -22987,6 +23029,84 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 330
+  },
+  {
+    "post_id": 113743922,
+    "title": "What's actually happening in El Salvador?",
+    "canonical_url": "https://www.slowboring.com/p/nayib-bukele-el-salvador",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14824709,
+    "top_level": false,
+    "date": "Apr 17 2023 07:56",
+    "likes": 8,
+    "timestamp": 1681732582,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No ChatGPT rewrites in this one. Only used it as a thesaurus for word recommendations today. Previously regularly used Google for the same purpose, and ChatGPT is simply easier."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 14824531,
+    "parent_children": 5,
+    "thread_id": 14823311,
+    "thread_children": 7,
+    "ratio_recv": -4,
+    "ratio_give": 5,
+    "grade_level": 8.3,
+    "word_count": 29
+  },
+  {
+    "post_id": 113743922,
+    "title": "What's actually happening in El Salvador?",
+    "canonical_url": "https://www.slowboring.com/p/nayib-bukele-el-salvador",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14823311,
+    "top_level": true,
+    "date": "Apr 17 2023 07:08",
+    "likes": 8,
+    "timestamp": 1681729729,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "A key point seems to be that El Salvador has successfully isolated gang leaders from their organizations at a time when the gangs lacked robust intermediate leadership. Both Mel\u00e9ndez-S\u00e1nchez and the El Faro article highlight how this has left the gangs in disarray. Typically, we wouldn\u2019t expect this to be possible; the incentives are just too strong for prison administration to resist. Bribes are not only highly lucrative, but violence can also be threatened against anyone (and their family) who refuses. Ie, \u201cplata o plomo\u201d: \u201csilver or lead.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While neither article can explain how El Salvador has pulled off the impossible, this strategy of isolating leadership certainly seems like something that could be repeated elsewhere, particularly in countries with more robust institutions. Eg, gang leaders could be assigned a mandatory one or two years of solitary confinement and be housed in particularly well-resourced prisons with numerous checks on corruption."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Of course we\u2019d expect gangs to adapt with more robust intermediary layers of management. The Salvadoran case of highly concentrated leadership already seems unusual, and going forward we\u2019d expect them to establish more resilient middle management."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, a crackdown on gang leadership with rigorous prison isolation looks to be a promising policy."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14823311,
+    "thread_children": 7,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 12.3,
+    "word_count": 201
   },
   {
     "post_id": 111336596,
