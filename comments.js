@@ -17092,6 +17092,126 @@ window._comments = [
     "word_count": 88
   },
   {
+    "post_id": 111842905,
+    "title": "The strange death of education reform Part IV",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-fed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14925639,
+    "top_level": false,
+    "date": "Apr 19 2023 07:05",
+    "likes": 15,
+    "timestamp": 1681902302,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We the subscribers should just get in the habit of using the daily discussion thread at 5PM ET to restart the discussion. In theory the comments should be better because we\u2019ve had a chance to digest the earlier discussion. Even if fewer people initially practice this behavior, should we pioneers actually produce a higher-quality dialectic, then Matt could highlight this in future Friday mailbags to encourage more participation."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 14924980,
+    "parent_children": 49,
+    "thread_id": 14924980,
+    "thread_children": 49,
+    "ratio_recv": -4,
+    "ratio_give": -90,
+    "grade_level": 13.3,
+    "word_count": 68
+  },
+  {
+    "post_id": 111842905,
+    "title": "The strange death of education reform Part IV",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-fed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14925526,
+    "top_level": true,
+    "date": "Apr 19 2023 07:00",
+    "likes": 7,
+    "timestamp": 1681902020,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Would more aggressive educational sorting actually make things worse for the most disadvantaged students? Like if we removed the students with the relatively most engaged parents from an already poorly performing school district, would that somehow make things even worse for the remaining students? If so, what is the proposed mechanism? Eg, it will be even harder to recruit teachers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And even if it does diminish the academic outcomes for the most disadvantaged, I still think we need to balance that against the counterfactual outcomes for the students that would\u2019ve exited this poorly performing school district. Their highly-engaged parents recognize that their children could do better academically if they were concentrated in a separate school with other students having similarly-engaged parents. Hence why they fight so hard for tracking, magnetic school, charter schools, and other sorting mechanisms. Is it just for us to trade that away in the name of egalitarianism?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Beyond the fairness question for students, we must also consider the political implications of failing to manage these parents' desire for more educational sorting. Not only will they be a potent political force, should they lose the political fight, they\u2019re better positioned to exit the public school system; either by private school enrollment or moving. So we\u2019ll get some amount of sorting regardless. Worse, we risk losing their political support for public education in general or forfeiting their tax dollars."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would it not be better to meet these parents' needs through more aggressive educational sorting within the public school system through mechanisms like tracking and magnet schools?"
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14925526,
+    "thread_children": 14,
+    "ratio_recv": 6,
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 258
+  },
+  {
+    "post_id": 111842905,
+    "title": "The strange death of education reform Part IV",
+    "canonical_url": "https://www.slowboring.com/p/the-strange-death-of-education-reform-fed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14924915,
+    "top_level": true,
+    "date": "Apr 19 2023 06:33",
+    "likes": 6,
+    "timestamp": 1681900395,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  in states that have existing private school vouchers programs, the results, similarly, are bad"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So when parents choose private schools they appear to consistently do so for non-academic reasons. Eg, religious indoctrination. While that is obviously bad for these parents' children, could it not also be a net positive for the remaining students because it minimizes the meddling of these parents in the public school system? For example, the parents that attend school board meetings to complain and yell about \u201cwoke\u201d instruction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I\u2019m reluctantly willing to support some school choice because it could lead to de-escalation of the culture war fights around education. Almost all parents care about the education of their children and some care in a deeply irrational and strongly passionate fashion. Giving these parents an exit option so that they become someone else's problem could be an improvement for the public school system."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14924915,
+    "thread_children": 10,
+    "ratio_recv": 5,
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 147
+  },
+  {
     "post_id": 109476948,
     "title": "How banks create money out of nothing ",
     "canonical_url": "https://www.slowboring.com/p/how-banks-create-money-out-of-nothing",
@@ -17616,6 +17736,48 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278
+  },
+  {
+    "post_id": 114773991,
+    "title": "Bad incentives and the politics of fear",
+    "canonical_url": "https://www.slowboring.com/p/bad-incentives-and-the-politics-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14873497,
+    "top_level": true,
+    "date": "Apr 18 2023 06:42",
+    "likes": 14,
+    "timestamp": 1681814533,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It never made sense for any federal-level politician to campaign on crime because that is primarily a local issue. Yet, we the voters are irrational and can be swayed by the vibes that a president or senator exudes on this local matter. Particularly when there was a highly salient broader debate on the general issue of crime and policing in 2020."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this is why many federal-level Republicans, notably Trump, attempted to campaign on this issue despite their lack of any policy proposals. They were just engaging with the national dialectic on crime and policing. Further, this was compounded by several notable local-level Democratic politicians practicing messaging and policies that could be interpreted as hostile to the police at a time when crime was spiking. And several prominent federal-level Democratic politicians, as well as Democrat-aligned national pundits, expressed support for those local efforts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "None of this should\u2019ve risen to federal-level politics. But we the people, both as voters and media consumers, heavily engaged with the topic at that level. And I can\u2019t blame any politicians (even Trump!) for responding to these incentives."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 14873497,
+    "thread_children": 11,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 183
   },
   {
     "post_id": 106887125,
@@ -19874,48 +20036,6 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.6,
     "word_count": 169
-  },
-  {
-    "post_id": 114773991,
-    "title": "Bad incentives and the politics of fear",
-    "canonical_url": "https://www.slowboring.com/p/bad-incentives-and-the-politics-of",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14873497,
-    "top_level": true,
-    "date": "Apr 18 2023 06:42",
-    "likes": 11,
-    "timestamp": 1681814533,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "It never made sense for any federal-level politician to campaign on crime because that is primarily a local issue. Yet, we the voters are irrational and can be swayed by the vibes that a president or senator exudes on this local matter. Particularly when there was a highly salient broader debate on the general issue of crime and policing in 2020."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I think this is why many federal-level Republicans, notably Trump, attempted to campaign on this issue despite their lack of any policy proposals. They were just engaging with the national dialectic on crime and policing. Further, this was compounded by several notable local-level Democratic politicians practicing messaging and policies that could be interpreted as hostile to the police at a time when crime was spiking. And several prominent federal-level Democratic politicians, as well as Democrat-aligned national pundits, expressed support for those local efforts."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "None of this should\u2019ve risen to federal-level politics. But we the people, both as voters and media consumers, heavily engaged with the topic at that level. And I can\u2019t blame any politicians (even Trump!) for responding to these incentives."
-        }
-      ]
-    ],
-    "total_children": 9,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 14873497,
-    "thread_children": 9,
-    "ratio_recv": -5,
-    "ratio_give": null,
-    "grade_level": 10.9,
-    "word_count": 183
   },
   {
     "post_id": 113488945,
@@ -23029,6 +23149,54 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 330
+  },
+  {
+    "post_id": 114988517,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-4b2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14961266,
+    "top_level": false,
+    "date": "Apr 19 2023 20:17",
+    "likes": 8,
+    "timestamp": 1681949831,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think any of the progressive education activists are actually asking for something like, \u201cre-socialize your kids to be better students\u201d. I agree that they would find that offensive in a fashion akin to colonialism. Instead, I think they\u2019re imagining something like stronger students helping weaker students through peer tutoring."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But there won\u2019t even be the possibility for peer tutoring, or even teacher instruction, if classroom order isn\u2019t maintained. Hence, the need for something like \u201cbenevolent colonialism\u201d or even just simply removing the few disruptive students until their behavior improves. Eg, assign in-school suspensions where offenders have to hand-copy encyclopedias all day. Something so excruciatingly boring will get many, if not all, to shape up."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And beyond this, I'm unconvinced that progressive activists, who profess concern for education, genuinely prioritize enhancing the academic performance of the most disadvantaged students. Rather, they seem to be primarily focused on identifying disparities and then blaming the school and society at large. Notably, because these activists seem to be assuaged by policies that simply hide the disparities. Eg, less measurement through testing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I don\u2019t think these activists will be swayed to support these behavioral interventions, which they find abhorrent, by appealing to the benefits for academic performance."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14956437,
+    "parent_children": 35,
+    "thread_id": 14956437,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 11.1,
+    "word_count": 205
   },
   {
     "post_id": 113743922,
