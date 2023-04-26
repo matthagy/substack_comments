@@ -564,6 +564,78 @@ window._comments = [
     "word_count": 51
   },
   {
+    "post_id": 115956601,
+    "title": "There's no big mystery about why colleges are ditching the SAT",
+    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15195301,
+    "top_level": true,
+    "date": "Apr 25 2023 06:37",
+    "likes": 91,
+    "timestamp": 1682419055,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I can\u2019t help feeling that a lot of the anti-SAT movement is driven by successful and affluent parents concerned about their limited capacity to employ their resources to guarantee their academically average children's success in this fiercely competitive exam. There are simply hard limits on enhancing SAT scores; even top-notch tutors can only help students achieve so much. Conversely, money and connections have a greater impact on bolstering their children's admission profiles through extracurricular activities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The 2019 Varsity Blues admissions scandal exemplifies this issue. The wealthy parents involved would have much rather employed private tutors to improve their children's test scores than resort to bribing individuals in the admissions process. Their turn to such criminal behavior highlights the limited options they had to utilize their wealth and connections to enhance the academic performance of their underperforming children."
+        }
+      ]
+    ],
+    "total_children": 338,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15195301,
+    "thread_children": 338,
+    "ratio_recv": -75,
+    "ratio_give": null,
+    "grade_level": 14.5,
+    "word_count": 137
+  },
+  {
+    "post_id": 115956601,
+    "title": "There's no big mystery about why colleges are ditching the SAT",
+    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15195542,
+    "top_level": true,
+    "date": "Apr 25 2023 06:50",
+    "likes": 12,
+    "timestamp": 1682419805,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But progressives shouldn\u2019t cape for this stuff."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many of these \u201cprogressives\u201d are graduates from these elite universities and, therefore, beneficiaries of the inherent exclusivity and privilege of such institutions. They are incentivized to preserve the general structure of this system. They agree that Harvard's problem is primarily one of public relations, and hence they are aiding in manufacturing consent from the broader public to preserve these institutions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15195542,
+    "thread_children": 2,
+    "ratio_recv": -8,
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 67
+  },
+  {
     "post_id": 103365512,
     "title": "We can't tolerate fake, expired, and obscured car tags",
     "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
@@ -4042,6 +4114,152 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 9.6,
     "word_count": 130
+  },
+  {
+    "post_id": 115625576,
+    "title": "A free mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/a-free-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15023596,
+    "top_level": true,
+    "date": "Apr 21 2023 06:21",
+    "likes": 39,
+    "timestamp": 1682072505,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But what\u2019s good about them is that a new business is likely to be relatively small, and we want an economy where a new small business that\u2019s superior to other existing small businesses can put them out of business and grow large."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think we should remember that the currently disparaged juggernauts of Walmart and Amazon both began as small businesses, and their massive success was the result of their superior business practices. Walmart due to their obsession with low prices and by being an early adopter of information technology. Amazon by inventing the online retail business model. Both firms defeated larger rivals by winning over consumers with these improvements."
+        }
+      ]
+    ],
+    "total_children": 26,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15023596,
+    "thread_children": 26,
+    "ratio_recv": -30,
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 110
+  },
+  {
+    "post_id": 115625576,
+    "title": "A free mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/a-free-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15024682,
+    "top_level": true,
+    "date": "Apr 21 2023 07:12",
+    "likes": 16,
+    "timestamp": 1682075544,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In the context of \u201cBetter macroeconomic stabilization policy\u201d for US vs. Europe, I think a lot of this comes down to the fundamental contradiction of the eurozone; it is a monetary union without a fiscal union. Ie, the European Central Bank has to set a single uniform monetary policy for a collection of countries with fragmented fiscal policies. Eg, what is best for Germany may be suboptimal for Italy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ideally, the eurozone would move towards a more unified fiscal policy. The Next Generation EU\u2014an economic recovery package in the wake of the pandemic\u2014is a promising move in that direction. But domestic politics will be a strong headwind in that direction. Eg, why Merkel felt compelled to push austerity on Greece and other periphery EZ nations in the wake of the Global Financial Crisis. But as Yglesias explains, that was worse for all countries."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "What the EZ ultimately needs is a proper fiscal union with large fiscal transfers from prosperous northern countries to the struggling southern ones. This would be comparable to the large fiscal transfer between California and Alabama in the US. With this single fiscal policy, the ECB could then create the appropriate monetary policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But domestic politics in these wealthy northern countries, particularly Germany, would never allow for that; even though these benefactors would also soon become even more prosperous with such a proposal. The nationalist currents within Europe are just far too strong."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15024682,
+    "thread_children": 7,
+    "ratio_recv": -11,
+    "ratio_give": null,
+    "grade_level": 9.9,
+    "word_count": 236
+  },
+  {
+    "post_id": 115625576,
+    "title": "A free mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/a-free-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15024987,
+    "top_level": false,
+    "date": "Apr 21 2023 07:22",
+    "likes": 9,
+    "timestamp": 1682076148,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To learn more, I\u2019d recommend the Acquired podcast, which has some informative and entertaining long-form episodes on the history of both Walmart and Amazon."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://www.acquired.fm/episodes/walmart"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://www.acquired.fm/episodes/amazon-com"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Amazon episodes call back to some commonalities and differences within the Walmart story. It also covers the war between these two firms, including Amazon poaching several logistics leaders from Walmart."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly recommend these episodes to learn the fascinating and entertaining history of these companies. Acquired also have some great episodes on the history of the video game industry as well as the turbulent story of Nvidia\u2019s rise to dominate the GPU industry. "
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": 15023596,
+    "parent_children": 26,
+    "thread_id": 15023596,
+    "thread_children": 26,
+    "ratio_recv": 6,
+    "ratio_give": -30,
+    "grade_level": 12.1,
+    "word_count": 98
   },
   {
     "post_id": 59737189,
@@ -17117,7 +17335,7 @@ window._comments = [
     "thread_id": 14924980,
     "thread_children": 49,
     "ratio_recv": -4,
-    "ratio_give": -90,
+    "ratio_give": -94,
     "grade_level": 13.3,
     "word_count": 68
   },
@@ -17131,7 +17349,7 @@ window._comments = [
     "id": 14925526,
     "top_level": true,
     "date": "Apr 19 2023 07:00",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1681902020,
     "body": [
       [
@@ -17164,7 +17382,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 14925526,
     "thread_children": 14,
-    "ratio_recv": 6,
+    "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 258
@@ -19056,6 +19274,54 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 236
+  },
+  {
+    "post_id": 114988517,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-4b2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 14961266,
+    "top_level": false,
+    "date": "Apr 19 2023 20:17",
+    "likes": 12,
+    "timestamp": 1681949831,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think any of the progressive education activists are actually asking for something like, \u201cre-socialize your kids to be better students\u201d. I agree that they would find that offensive in a fashion akin to colonialism. Instead, I think they\u2019re imagining something like stronger students helping weaker students through peer tutoring."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But there won\u2019t even be the possibility for peer tutoring, or even teacher instruction, if classroom order isn\u2019t maintained. Hence, the need for something like \u201cbenevolent colonialism\u201d or even just simply removing the few disruptive students until their behavior improves. Eg, assign in-school suspensions where offenders have to hand-copy encyclopedias all day. Something so excruciatingly boring will get many, if not all, to shape up."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And beyond this, I'm unconvinced that progressive activists, who profess concern for education, genuinely prioritize enhancing the academic performance of the most disadvantaged students. Rather, they seem to be primarily focused on identifying disparities and then blaming the school and society at large. Notably, because these activists seem to be assuaged by policies that simply hide the disparities. Eg, less measurement through testing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I don\u2019t think these activists will be swayed to support these behavioral interventions, which they find abhorrent, by appealing to the benefits for academic performance."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 14956437,
+    "parent_children": 37,
+    "thread_id": 14956437,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": -12,
+    "grade_level": 11.1,
+    "word_count": 205
   },
   {
     "post_id": 106611175,
@@ -23151,54 +23417,6 @@ window._comments = [
     "word_count": 330
   },
   {
-    "post_id": 114988517,
-    "title": "Wednesday Thread",
-    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-4b2",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 14961266,
-    "top_level": false,
-    "date": "Apr 19 2023 20:17",
-    "likes": 8,
-    "timestamp": 1681949831,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I don\u2019t think any of the progressive education activists are actually asking for something like, \u201cre-socialize your kids to be better students\u201d. I agree that they would find that offensive in a fashion akin to colonialism. Instead, I think they\u2019re imagining something like stronger students helping weaker students through peer tutoring."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "But there won\u2019t even be the possibility for peer tutoring, or even teacher instruction, if classroom order isn\u2019t maintained. Hence, the need for something like \u201cbenevolent colonialism\u201d or even just simply removing the few disruptive students until their behavior improves. Eg, assign in-school suspensions where offenders have to hand-copy encyclopedias all day. Something so excruciatingly boring will get many, if not all, to shape up."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "And beyond this, I'm unconvinced that progressive activists, who profess concern for education, genuinely prioritize enhancing the academic performance of the most disadvantaged students. Rather, they seem to be primarily focused on identifying disparities and then blaming the school and society at large. Notably, because these activists seem to be assuaged by policies that simply hide the disparities. Eg, less measurement through testing."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "So I don\u2019t think these activists will be swayed to support these behavioral interventions, which they find abhorrent, by appealing to the benefits for academic performance."
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 14956437,
-    "parent_children": 35,
-    "thread_id": 14956437,
-    "thread_children": 35,
-    "ratio_recv": null,
-    "ratio_give": -11,
-    "grade_level": 11.1,
-    "word_count": 205
-  },
-  {
     "post_id": 113743922,
     "title": "What's actually happening in El Salvador?",
     "canonical_url": "https://www.slowboring.com/p/nayib-bukele-el-salvador",
@@ -27138,6 +27356,150 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.6,
     "word_count": 171
+  },
+  {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15225456,
+    "top_level": true,
+    "date": "Apr 25 2023 17:21",
+    "likes": 5,
+    "timestamp": 1682457717,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Put together an interactive map of topics discussed in SB comments: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_comment_category_hierarchy/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Extends my previous categorization experiment [1] by introducing hierarchies. That is, categories have subcategories, which have sub-subcategories, etc. I find that this gives more reasonable results than basic grouping."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The methodology is similar: OpenAI embeddings provide a quantitative metric of semantic similarity for text. Ie, to what extent do two comments discuss similar topics. I just changed the algorithm that groups comments together to search for a hierarchy of categories. As before, use the ChatGPT API to suggest titles from a sample of excerpts from comments in each group. Category titles are once again inconsistent and disappointing. Added a summarization of the samples for each category, and I think these are more reasonable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More details in "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/hierarchical-categorization-of-substack"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Let me know if you have questions or ideas for future experiments. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/using-openai-apis-substack-comments"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 140
+  },
+  {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15229637,
+    "top_level": false,
+    "date": "Apr 25 2023 19:05",
+    "likes": 2,
+    "timestamp": 1682463905,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I did some biased sampling to ignore short and low-value comments. I should\u2019ve explained that somewhere. Believe I ignored all comments with zero likes or fewer than roughly 30 words. I also weighted sampling by likes, such that more highly liked comments were more likely to be included."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15229237,
+    "parent_children": 4,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 5.7,
+    "word_count": 49
+  },
+  {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15228065,
+    "top_level": false,
+    "date": "Apr 25 2023 18:22",
+    "likes": 1,
+    "timestamp": 1682461355,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I should\u2019ve labeled that somewhere."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Green - Intermediate categories. Ie, those that have subcategories"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Orange - Terminal categories"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 15227903,
+    "parent_children": 2,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.1,
+    "word_count": 16
   },
   {
     "post_id": 105098236,
