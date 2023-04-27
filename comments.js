@@ -172,6 +172,78 @@ window._comments = [
     "word_count": 132
   },
   {
+    "post_id": 115956601,
+    "title": "There's no big mystery about why colleges are ditching the SAT",
+    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15195301,
+    "top_level": true,
+    "date": "Apr 25 2023 06:37",
+    "likes": 99,
+    "timestamp": 1682419055,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I can\u2019t help feeling that a lot of the anti-SAT movement is driven by successful and affluent parents concerned about their limited capacity to employ their resources to guarantee their academically average children's success in this fiercely competitive exam. There are simply hard limits on enhancing SAT scores; even top-notch tutors can only help students achieve so much. Conversely, money and connections have a greater impact on bolstering their children's admission profiles through extracurricular activities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The 2019 Varsity Blues admissions scandal exemplifies this issue. The wealthy parents involved would have much rather employed private tutors to improve their children's test scores than resort to bribing individuals in the admissions process. Their turn to such criminal behavior highlights the limited options they had to utilize their wealth and connections to enhance the academic performance of their underperforming children."
+        }
+      ]
+    ],
+    "total_children": 359,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15195301,
+    "thread_children": 359,
+    "ratio_recv": -81,
+    "ratio_give": null,
+    "grade_level": 14.5,
+    "word_count": 137
+  },
+  {
+    "post_id": 115956601,
+    "title": "There's no big mystery about why colleges are ditching the SAT",
+    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15195542,
+    "top_level": true,
+    "date": "Apr 25 2023 06:50",
+    "likes": 14,
+    "timestamp": 1682419805,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But progressives shouldn\u2019t cape for this stuff."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many of these \u201cprogressives\u201d are graduates from these elite universities and, therefore, beneficiaries of the inherent exclusivity and privilege of such institutions. They are incentivized to preserve the general structure of this system. They agree that Harvard's problem is primarily one of public relations, and hence they are aiding in manufacturing consent from the broader public to preserve these institutions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15195542,
+    "thread_children": 2,
+    "ratio_recv": -10,
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 67
+  },
+  {
     "post_id": 81292136,
     "title": "Elon Musk needs to make Twitter better ",
     "canonical_url": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better",
@@ -562,78 +634,6 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 5.9,
     "word_count": 51
-  },
-  {
-    "post_id": 115956601,
-    "title": "There's no big mystery about why colleges are ditching the SAT",
-    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15195301,
-    "top_level": true,
-    "date": "Apr 25 2023 06:37",
-    "likes": 91,
-    "timestamp": 1682419055,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I can\u2019t help feeling that a lot of the anti-SAT movement is driven by successful and affluent parents concerned about their limited capacity to employ their resources to guarantee their academically average children's success in this fiercely competitive exam. There are simply hard limits on enhancing SAT scores; even top-notch tutors can only help students achieve so much. Conversely, money and connections have a greater impact on bolstering their children's admission profiles through extracurricular activities."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "The 2019 Varsity Blues admissions scandal exemplifies this issue. The wealthy parents involved would have much rather employed private tutors to improve their children's test scores than resort to bribing individuals in the admissions process. Their turn to such criminal behavior highlights the limited options they had to utilize their wealth and connections to enhance the academic performance of their underperforming children."
-        }
-      ]
-    ],
-    "total_children": 338,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15195301,
-    "thread_children": 338,
-    "ratio_recv": -75,
-    "ratio_give": null,
-    "grade_level": 14.5,
-    "word_count": 137
-  },
-  {
-    "post_id": 115956601,
-    "title": "There's no big mystery about why colleges are ditching the SAT",
-    "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15195542,
-    "top_level": true,
-    "date": "Apr 25 2023 06:50",
-    "likes": 12,
-    "timestamp": 1682419805,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> But progressives shouldn\u2019t cape for this stuff."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Many of these \u201cprogressives\u201d are graduates from these elite universities and, therefore, beneficiaries of the inherent exclusivity and privilege of such institutions. They are incentivized to preserve the general structure of this system. They agree that Harvard's problem is primarily one of public relations, and hence they are aiding in manufacturing consent from the broader public to preserve these institutions."
-        }
-      ]
-    ],
-    "total_children": 2,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15195542,
-    "thread_children": 2,
-    "ratio_recv": -8,
-    "ratio_give": null,
-    "grade_level": 12.2,
-    "word_count": 67
   },
   {
     "post_id": 103365512,
@@ -5750,6 +5750,246 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.3,
     "word_count": 188
+  },
+  {
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15291653,
+    "top_level": true,
+    "date": "Apr 27 2023 06:44",
+    "likes": 33,
+    "timestamp": 1682592270,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Their solution is to \u201cuse machine-learning algorithms to search US newspaper articles between 2000 and 2019\u201d to try to get a comprehensive picture of changes in land use policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a former ML practitioner, this immediately caught my attention. Partially out of curiosity, but mainly out of an instinctive revulsion that methods were misapplied just because someone wanted to use trendy tech. Same feeling I\u2019d have if they were using a blockchain or NFTs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Their paper references a 2020 blog post to explain their ML methods rather than a peer reviewed publication. Worse, the post looks eerily similar to the hundred or so ML projects that data-science-bootcamp students shared with me back when I was hiring manager for such a role. Notably, it looks like a cookie cutter application of some Python ML libraries. Ie, a toy project designed to demonstrate familiarity with the methods rather than actually solve a real problem. I rejected every single one of those candidates."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I\u2019m fully dismissing their results. Their one saving grace is that the blog post suggests they might not even be using the ML results. I\u2019ll expand on all this in a subsequent comment."
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15291653,
+    "thread_children": 13,
+    "ratio_recv": -14,
+    "ratio_give": null,
+    "grade_level": 8.4,
+    "word_count": 194
+  },
+  {
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15292385,
+    "top_level": false,
+    "date": "Apr 27 2023 07:12",
+    "likes": 19,
+    "timestamp": 1682593976,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "First, here\u2019s the paper in Google Scholar, which includes a link to the article PDF, "
+        },
+        {
+          "type": "url",
+          "value": "https://scholar.google.com/scholar?cluster=6745393954305227906&hl=en&as_sdt=0,11"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here is the note/reference in that paper,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 1.For additional detail on the machine-learning methods used to create this dataset, see: Zheng V (2020) How Urban Piloted Data Science Techniques to Collect Land-Use Reform Data. Data@Urban Blog, available at: "
+        },
+        {
+          "type": "url",
+          "value": "https://urban-institute.medium.com/how-urban-piloted-data-science-techniques-to-collect-land-use-reform-data-475409903b88"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here are some key points from that blog post (ignore anything that sounds too technical):"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* They fetched 76k news articles by searching for some key words"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* They had 4 people manually label 568 of these articles with tags"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Tags aren\u2019t list, but include topics like, \u201csingle-family housing, mixed residential and nonresidential development, accessory dwelling units and granny flats\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* They extract features (eg, word counts) from the text using Stanford CoreNLP and a TF-IDF transformation is applied"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* They take top 15% of terms by frequency (don\u2019t give a count of features)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Train a random forest classifier "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* They get a \u201c75\u201391 percent accuracy\u201d for tag prediction"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My biggest complaint is the lack of details. That may be appropriate for a blogpost, but I would expect scholarly work to meticulously detail their methods. The post would be an acceptable summary of such a detailed peer-reviewed article, but they still need that article."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next, 568 labeled data points is an extremely small dataset for text classification. Particularly when predicting multiple labels. Maybe there\u2019s some cutting edge AI method that could work with that, but not a random forest of term frequency features."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Their saving grace may be that they aren\u2019t actually using the model results. Quoting from the blog post,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Ultimately, we determined the machine learning algorithm performed well, but it was not accurate enough to inform policy analysis directly. Because we wanted to predict several outcomes from the articles, even our relatively high 75\u201391 percent accuracy rate meant the odds that all fields in a given row were accurate were still quite low. For instance, if we predict six fields in a given row, each with a 75 percent accuracy rate, (and assume prediction errors are independent), the odds that every field is correct in that row is 0.75\u2076, or just 18 percent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But we determined that the model did work well enough to narrow down the set of articles that we could have experts manually tag to a much smaller number: thousands as opposed to tens of thousands. Our experts manually tagged these remaining articles for a smaller number of metro areas with the best coverage, correcting the machine learning model as necessary or leaving the predictions intact and moving on quickly where it had gotten the predictions right."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My charitable interpretation is that they checked the work of the ML model. Ie, for every prediction a human verified if it was correct, and if not they changed it. We might say that the model provides helpful suggestions, but ultimately human judgment is used to label all of the articles used in this study."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, this is just a blog post and very light on details. I would very much appreciate it if the main, peer-reviewed study just said that they used human-labeling of news articles, with helpful suggestions from a toy ML model."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix a link I broke when copying from article PDF"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 15291653,
+    "parent_children": 13,
+    "thread_id": 15291653,
+    "thread_children": 13,
+    "ratio_recv": -12,
+    "ratio_give": -14,
+    "grade_level": 12.1,
+    "word_count": 537
+  },
+  {
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15294267,
+    "top_level": false,
+    "date": "Apr 27 2023 08:12",
+    "likes": 9,
+    "timestamp": 1682597572,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The general objective of predicting labels for text is a common, reasonable application for ML. For this specific problem, I\u2019d want more details about the performance of the model for each tag, and would almost certainly expect a much larger human-labeled training set to achieve acceptable performance. Ultimately, I\u2019d like to see the detailed methods published in a reputable, peer-reviewed journal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of methods, one of the key tasks is extracting a collection of quantitative features from text. Term frequency is the most basic method and can be acceptable for some tasks, but generally quite limited in performance. There are now large-language-model-derived methods that can do a much better job quantifying semantic meaning into a list of numerical features. Eg, text-embedding-ada-002 from OpenAI, "
+        },
+        {
+          "type": "url",
+          "value": "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve used that OpenAI method for my assorted SB comment analysis projects that I\u2019ve shared in the daily threads, and it does way better than my earlier naive attempts using term frequencies. I didn\u2019t even share most of those earlier projects since they gave such embarrassingly bad results."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 15293631,
+    "parent_children": 2,
+    "thread_id": 15291653,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 6,
+    "grade_level": 11.7,
+    "word_count": 172
   },
   {
     "post_id": 102656721,
@@ -15869,6 +16109,152 @@ window._comments = [
     "word_count": 18
   },
   {
+    "post_id": 116692659,
+    "title": "Every policy objective, all the time, all at once",
+    "canonical_url": "https://www.slowboring.com/p/every-policy-objective-all-the-time",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15244154,
+    "top_level": true,
+    "date": "Apr 26 2023 06:50",
+    "likes": 17,
+    "timestamp": 1682506231,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Our failure to prioritize stems from our broad coalition with many disjoint interests. Historically, leaders from our different factions would negotiate out a cogent and realistic agenda in private (ie, smoke-filled rooms). Each would understand the need to at times defer some of their goals as part of the broader plan and long-term success. Further, these leaders could sell this approach to their constituents by highlighting previous victories achieved through our coalition and ongoing commitment to the faction\u2019s enduring objectives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet that is impossible today, primarily due to social media and the fragmented media and policy space. For example, if a formal labor leader attempted to pitch this approach to their members, they\u2019d be crucified across social media, particularly by amateur journalists and NGOs. This is a concrete example from Nov 2022 in, \u201cRailroad unions struggle to get rebellious workers to \u2018yes\u2019 on contracts.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m becoming increasingly concerned about our looming resolution to this unstable arrangement. Particularly as each group comes to see their supposed victories as nothing more than cheap messaging. Eg, when the child care stipulations added to CHIPS Act funding are no longer seen as a success from the policy groups pushing it when they discover that it accomplishes so little. Generalize this trend across all groups and each will become increasingly frustrated with our coalition. That could lead to even more inflammatory rhetoric and even less willingness to negotiate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My fear is that groups and their constituents will become increasingly disillusioned and disengaged with the political process. We already have some of that from former Bernie supporters that now just attack Biden and the Democratic party, while espousing cynicism with the American political system. We do not need more of that!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.politico.com/news/2022/11/15/railroad-unions-struggle-00066603"
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15244154,
+    "thread_children": 19,
+    "ratio_recv": -13,
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 287
+  },
+  {
+    "post_id": 116692659,
+    "title": "Every policy objective, all the time, all at once",
+    "canonical_url": "https://www.slowboring.com/p/every-policy-objective-all-the-time",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15255471,
+    "top_level": false,
+    "date": "Apr 26 2023 11:22",
+    "likes": 12,
+    "timestamp": 1682522552,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a former data scientist, I would strongly discourage majoring in such a program. It\u2019s a highly nebulous title that means different things at different firms. For the mass majority of roles, it\u2019s just better marketing for a data analyst position. For a small number of roles, it entails CS PhDs doing actually sophisticated work. Unfortunately, many people in the former role delude themselves into thinking they\u2019re in the later role."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worse, there was a huge explosion in data science positions throughout the 2010\u2019s as firms wanted to do something with data and machine learning. Commonly, business value was poorly defined and useful results were rare. I\u2019d expect a large correction in this field as tech firms tighten their belts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, many common data science functions are being commoditized as I wrote about in 2019, "
+        },
+        {
+          "type": "url",
+          "value": "https://liveramp.it/developers/blog/opinion-our-exciting-journey-as-data-scientists-onwards-to-higher-levels-of-abstraction/"
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 15249349,
+    "parent_children": 22,
+    "thread_id": 15243909,
+    "thread_children": 57,
+    "ratio_recv": -5,
+    "ratio_give": 9,
+    "grade_level": 9.1,
+    "word_count": 135
+  },
+  {
+    "post_id": 116692659,
+    "title": "Every policy objective, all the time, all at once",
+    "canonical_url": "https://www.slowboring.com/p/every-policy-objective-all-the-time",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15256442,
+    "top_level": false,
+    "date": "Apr 26 2023 11:39",
+    "likes": 6,
+    "timestamp": 1682523566,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For someone with an interest in computers, I\u2019d recommend computer engineering or computer science. Hard to say what the trajectory of the tech field looks like, but there appears to be an ever growing application of computers and software, even outside of tech firms. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If she goes that way, the important thing for a tech career is internships. Can commonly provide a direct pathway to a full-time role after graduation, and is a big strength on resumes for a junior role. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Can also do a CS minor while focusing on another science or engineering degree. That minor pairs quite well with other science and engineering roles since there is a lot of interdisciplinary work between software, science, and engineering. Eg, using computers to automate processes, simulate systems, or collect and process data."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15255695,
+    "parent_children": 3,
+    "thread_id": 15243909,
+    "thread_children": 57,
+    "ratio_recv": -5,
+    "ratio_give": 6,
+    "grade_level": 10.7,
+    "word_count": 132
+  },
+  {
     "post_id": 104112057,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-659",
@@ -25090,6 +25476,150 @@ window._comments = [
     "word_count": 70
   },
   {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15225456,
+    "top_level": true,
+    "date": "Apr 25 2023 17:21",
+    "likes": 6,
+    "timestamp": 1682457717,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Put together an interactive map of topics discussed in SB comments: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_comment_category_hierarchy/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Extends my previous categorization experiment [1] by introducing hierarchies. That is, categories have subcategories, which have sub-subcategories, etc. I find that this gives more reasonable results than basic grouping."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The methodology is similar: OpenAI embeddings provide a quantitative metric of semantic similarity for text. Ie, to what extent do two comments discuss similar topics. I just changed the algorithm that groups comments together to search for a hierarchy of categories. As before, use the ChatGPT API to suggest titles from a sample of excerpts from comments in each group. Category titles are once again inconsistent and disappointing. Added a summarization of the samples for each category, and I think these are more reasonable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More details in "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/hierarchical-categorization-of-substack"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Let me know if you have questions or ideas for future experiments. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/p/using-openai-apis-substack-comments"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 140
+  },
+  {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15229637,
+    "top_level": false,
+    "date": "Apr 25 2023 19:05",
+    "likes": 2,
+    "timestamp": 1682463905,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I did some biased sampling to ignore short and low-value comments. I should\u2019ve explained that somewhere. Believe I ignored all comments with zero likes or fewer than roughly 30 words. I also weighted sampling by likes, such that more highly liked comments were more likely to be included."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15229237,
+    "parent_children": 4,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": 2,
+    "grade_level": 5.7,
+    "word_count": 49
+  },
+  {
+    "post_id": 117159791,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15228065,
+    "top_level": false,
+    "date": "Apr 25 2023 18:22",
+    "likes": 2,
+    "timestamp": 1682461355,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I should\u2019ve labeled that somewhere."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Green - Intermediate categories. Ie, those that have subcategories"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Orange - Terminal categories"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 15227903,
+    "parent_children": 2,
+    "thread_id": 15225456,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.1,
+    "word_count": 16
+  },
+  {
     "post_id": 110841665,
     "title": "Wednesday Thread",
     "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3d8",
@@ -27356,150 +27886,6 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.6,
     "word_count": 171
-  },
-  {
-    "post_id": 117159791,
-    "title": "Tuesday Thread",
-    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15225456,
-    "top_level": true,
-    "date": "Apr 25 2023 17:21",
-    "likes": 5,
-    "timestamp": 1682457717,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Put together an interactive map of topics discussed in SB comments: "
-        },
-        {
-          "type": "url",
-          "value": "https://matthagy.github.io/sb_comment_category_hierarchy/"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Extends my previous categorization experiment [1] by introducing hierarchies. That is, categories have subcategories, which have sub-subcategories, etc. I find that this gives more reasonable results than basic grouping."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "The methodology is similar: OpenAI embeddings provide a quantitative metric of semantic similarity for text. Ie, to what extent do two comments discuss similar topics. I just changed the algorithm that groups comments together to search for a hierarchy of categories. As before, use the ChatGPT API to suggest titles from a sample of excerpts from comments in each group. Category titles are once again inconsistent and disappointing. Added a summarization of the samples for each category, and I think these are more reasonable."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "More details in "
-        },
-        {
-          "type": "url",
-          "value": "https://matthagy.substack.com/p/hierarchical-categorization-of-substack"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Let me know if you have questions or ideas for future experiments. "
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://matthagy.substack.com/p/using-openai-apis-substack-comments"
-        }
-      ]
-    ],
-    "total_children": 10,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15225456,
-    "thread_children": 10,
-    "ratio_recv": 0,
-    "ratio_give": null,
-    "grade_level": 11.1,
-    "word_count": 140
-  },
-  {
-    "post_id": 117159791,
-    "title": "Tuesday Thread",
-    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15229637,
-    "top_level": false,
-    "date": "Apr 25 2023 19:05",
-    "likes": 2,
-    "timestamp": 1682463905,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yeah, I did some biased sampling to ignore short and low-value comments. I should\u2019ve explained that somewhere. Believe I ignored all comments with zero likes or fewer than roughly 30 words. I also weighted sampling by likes, such that more highly liked comments were more likely to be included."
-        }
-      ]
-    ],
-    "total_children": 2,
-    "parent_id": 15229237,
-    "parent_children": 4,
-    "thread_id": 15225456,
-    "thread_children": 10,
-    "ratio_recv": -2,
-    "ratio_give": 2,
-    "grade_level": 5.7,
-    "word_count": 49
-  },
-  {
-    "post_id": 117159791,
-    "title": "Tuesday Thread",
-    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-3d7",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15228065,
-    "top_level": false,
-    "date": "Apr 25 2023 18:22",
-    "likes": 1,
-    "timestamp": 1682461355,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I should\u2019ve labeled that somewhere."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Green - Intermediate categories. Ie, those that have subcategories"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Orange - Terminal categories"
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 15227903,
-    "parent_children": 2,
-    "thread_id": 15225456,
-    "thread_children": 10,
-    "ratio_recv": null,
-    "ratio_give": 0,
-    "grade_level": 10.1,
-    "word_count": 16
   },
   {
     "post_id": 105098236,
