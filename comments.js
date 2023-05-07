@@ -2132,6 +2132,110 @@ window._comments = [
     "word_count": 153
   },
   {
+    "post_id": 97471398,
+    "title": "Never answer mailbag questions angry!",
+    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 12061410,
+    "top_level": true,
+    "date": "Jan 20 2023 06:47",
+    "likes": 53,
+    "timestamp": 1674215253,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Do you think that the racial depolarization of voting patterns will change the ideology of either party, and if so, in what way?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of changing political party coalitions, I\u2019m more interested in, and at times concerned about, the increasing share of college-educated voters in the Democratic party. I think this explains suboptimal political choices like student-debt forgiveness. And I see longer term risks of the party being increasingly captured by the interests of the upper-middle class."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m particularly concerned about how that\u2019ll impact our ability to increase taxes on the merely affluent. Eg, Democratic politicians promising not to raise taxes on anyone earning less than $400k as well as the demands to repeal the limit on the SALT deduction. These tax constraints will significantly limit our ability to expand the welfare state."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d love to trade some of the most tax-conscious Democratic voters to the Republicans in return for almost any slice of the working class. Let the Republicans continue to be stuck trying to pretend to care about the working class while making their major political victories tax cuts."
+        }
+      ]
+    ],
+    "total_children": 142,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12061410,
+    "thread_children": 142,
+    "ratio_recv": -24,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 182
+  },
+  {
+    "post_id": 97471398,
+    "title": "Never answer mailbag questions angry!",
+    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 12070359,
+    "top_level": false,
+    "date": "Jan 20 2023 12:02",
+    "likes": 0,
+    "timestamp": 1674234144,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a great lecture on how we ended up with a pathologically high estate tax exemption, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=u6Ng0N26MGk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Why was the estate tax, which is paid by only the wealthiest two percent of Americans, repealed in 2001 with broad bipartisan support? Prof. Shapiro unravels this puzzle in this lecture by going over the origins of the anti-tax movement, the logic of referendum politics, and 1994 as a pivot point. He then hones in on the estate tax repeal as a case study, discusses tax cuts and the Republican coalition and how far the goalposts have shifted for today's U.S. tax politics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Prof. Shapiro actually wrote an entire book on the subject in 2006, \u201cDeath by a Thousand Cuts: The Fight over Taxing Inherited Wealth\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This fast-paced book by Yale professors Michael Graetz and Ian Shapiro unravels the following mystery: How is it that the estate tax, which has been on the books continuously since 1916 and is paid by only the wealthiest two percent of Americans, was repealed in 2001 with broad bipartisan support? The mystery is all the more striking because the repeal was not done in the dead of night, like a congressional pay raise. It came at the end of a multiyear populist campaign launched by a few individuals, and was heralded by its supporters as a signal achievement for Americans who are committed to the work ethic and the American Dream."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 12066663,
+    "parent_children": 12,
+    "thread_id": 12061410,
+    "thread_children": 142,
+    "ratio_recv": 2,
+    "ratio_give": -8,
+    "grade_level": 17.2,
+    "word_count": 233
+  },
+  {
     "post_id": 87551177,
     "title": "The climate left's plans for the next two years are bad",
     "canonical_url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
@@ -2568,110 +2672,6 @@ window._comments = [
     "word_count": 41
   },
   {
-    "post_id": 97471398,
-    "title": "Never answer mailbag questions angry!",
-    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 12061410,
-    "top_level": true,
-    "date": "Jan 20 2023 06:47",
-    "likes": 52,
-    "timestamp": 1674215253,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> Do you think that the racial depolarization of voting patterns will change the ideology of either party, and if so, in what way?"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "In terms of changing political party coalitions, I\u2019m more interested in, and at times concerned about, the increasing share of college-educated voters in the Democratic party. I think this explains suboptimal political choices like student-debt forgiveness. And I see longer term risks of the party being increasingly captured by the interests of the upper-middle class."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I\u2019m particularly concerned about how that\u2019ll impact our ability to increase taxes on the merely affluent. Eg, Democratic politicians promising not to raise taxes on anyone earning less than $400k as well as the demands to repeal the limit on the SALT deduction. These tax constraints will significantly limit our ability to expand the welfare state."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I\u2019d love to trade some of the most tax-conscious Democratic voters to the Republicans in return for almost any slice of the working class. Let the Republicans continue to be stuck trying to pretend to care about the working class while making their major political victories tax cuts."
-        }
-      ]
-    ],
-    "total_children": 141,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 12061410,
-    "thread_children": 141,
-    "ratio_recv": -23,
-    "ratio_give": null,
-    "grade_level": 11.2,
-    "word_count": 182
-  },
-  {
-    "post_id": 97471398,
-    "title": "Never answer mailbag questions angry!",
-    "canonical_url": "https://www.slowboring.com/p/never-answer-mailbag-questions-angry",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 12070359,
-    "top_level": false,
-    "date": "Jan 20 2023 12:02",
-    "likes": 0,
-    "timestamp": 1674234144,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Here\u2019s a great lecture on how we ended up with a pathologically high estate tax exemption, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.youtube.com/watch?v=u6Ng0N26MGk"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Why was the estate tax, which is paid by only the wealthiest two percent of Americans, repealed in 2001 with broad bipartisan support? Prof. Shapiro unravels this puzzle in this lecture by going over the origins of the anti-tax movement, the logic of referendum politics, and 1994 as a pivot point. He then hones in on the estate tax repeal as a case study, discusses tax cuts and the Republican coalition and how far the goalposts have shifted for today's U.S. tax politics."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Prof. Shapiro actually wrote an entire book on the subject in 2006, \u201cDeath by a Thousand Cuts: The Fight over Taxing Inherited Wealth\u201d,  "
-        },
-        {
-          "type": "url",
-          "value": "https://press.princeton.edu/books/paperback/9780691127897/death-by-a-thousand-cuts"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> This fast-paced book by Yale professors Michael Graetz and Ian Shapiro unravels the following mystery: How is it that the estate tax, which has been on the books continuously since 1916 and is paid by only the wealthiest two percent of Americans, was repealed in 2001 with broad bipartisan support? The mystery is all the more striking because the repeal was not done in the dead of night, like a congressional pay raise. It came at the end of a multiyear populist campaign launched by a few individuals, and was heralded by its supporters as a signal achievement for Americans who are committed to the work ethic and the American Dream."
-        }
-      ]
-    ],
-    "total_children": 3,
-    "parent_id": 12066663,
-    "parent_children": 12,
-    "thread_id": 12061410,
-    "thread_children": 141,
-    "ratio_recv": 2,
-    "ratio_give": -8,
-    "grade_level": 17.2,
-    "word_count": 233
-  },
-  {
     "post_id": 61349681,
     "title": "Some practical advice for making a difference in the new abortion fight",
     "canonical_url": "https://www.slowboring.com/p/some-practical-advice-for-making",
@@ -2958,6 +2958,160 @@ window._comments = [
     "word_count": 364
   },
   {
+    "post_id": 94305150,
+    "title": "American transit agencies should prioritize ridership over other goals",
+    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11653429,
+    "top_level": true,
+    "date": "Jan 05 2023 06:55",
+    "likes": 50,
+    "timestamp": 1672919758,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And importantly, telling agencies to try to hit a half-dozen different goals \u2026 doesn\u2019t ensure that all those things will be done simultaneously. What it ensures is that, with no principled way to evaluate projects or say no to things, costs explode."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The cynic in me wants to believe that agency leaders would like to avoid a simple and objective measure of performance. If they are solely evaluated by ridership/dollar-spent then they could fail to improve on that metric and be charged with bad decision making. In contrast, if they claim to be balancing numerous unquantifiable objectives, then it\u2019s much harder to criticize their performance. For example, if we point out the low ridership volume then they can point to their progress in expanding access and creating good paying jobs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I think there is a general tendency for all leaders and workers to resist objective evaluation. For example, I've seen this criticism applied to the anti-testing movement in education where it is alleged that poor teachers simply want to evade detection."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve also seen this aversion to performance evaluation within the tech industry, particularly within discussions on the tech forum Hacker News. While there are many poor approaches to measuring software developer performance (e.g., lines of code count), there still need to be some objective evaluation. Quality measures can include annual peer review using a rubric of dimensions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet there is commonly fierce objection to any evaluation of software engineers within such discussions. Numerous excuses are given for any proposal, while no alternatives are offered. It seems software engineering is conceived as some impalpable art that cannot be evaluated, even by fellow artists. And this extends to strategies and criteria for interviewing prospective engineers. All commonly used methods, such as whiterboarding code exercises, are castigated as inadequate to measure the intangible brilliance and abilities of engineers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just think we all have some natural aversion to being evaluated for fear of failure. Therefore our institutions, both public and private, need to be designed to counteract that tendency."
+        }
+      ]
+    ],
+    "total_children": 44,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11653429,
+    "thread_children": 44,
+    "ratio_recv": -34,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 337
+  },
+  {
+    "post_id": 94305150,
+    "title": "American transit agencies should prioritize ridership over other goals",
+    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11657817,
+    "top_level": false,
+    "date": "Jan 05 2023 10:30",
+    "likes": 6,
+    "timestamp": 1672932649,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a former manager, I\u2019ve spent a lot of time on rubrics for peer review of technical workers. Here\u2019s a recent article from Gergely Orosz about the topic that I generally agree with, \u201cPerformance Reviews for Software Developers\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Off the top of my head, here are some dimensions I\u2019ve commonly seen used"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Technical Skills - At each Eng level, what are the expected capabilities?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Impact - What degree of contribution is expected for each level?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Mentorship - For higher levels, the mentorship responsibilities"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Leadership - Again, higher levels, the degree that they should drive the team and interact with other teams"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Collaboration - How well do they help other people get stuff done?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Interview - For higher levels, how involved should they be in interviewing? How well are their decisions calibrated against other interviewers for the same candidates?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For each dimension, an engineer will be ranked on a scale of 0-5. The rubric will include criteria and examples for each score."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On an annual basis, each team member will review other team members as assigned by their manager. Only the manager sees the results of each review and they combine multiple reviews to create an aggregated performance evaluation. That can then be shared with the team member to learn how well they are performing against expectations and their progress towards promotion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While never perfect, the rubric is regularly revised in an iterative process using feedback from all team members. The result is a clear description of expectations and current performance for all members on the team."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11654726,
+    "parent_children": 10,
+    "thread_id": 11653429,
+    "thread_children": 44,
+    "ratio_recv": null,
+    "ratio_give": -7,
+    "grade_level": 10.8,
+    "word_count": 250
+  },
+  {
     "post_id": 107606583,
     "title": "Don't overthink poverty in the United States",
     "canonical_url": "https://www.slowboring.com/p/dont-overthink-poverty-in-the-united",
@@ -3060,158 +3214,244 @@ window._comments = [
     "word_count": 309
   },
   {
-    "post_id": 94305150,
-    "title": "American transit agencies should prioritize ridership over other goals",
-    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
-    "id": 11653429,
+    "id": 15291653,
     "top_level": true,
-    "date": "Jan 05 2023 06:55",
-    "likes": 47,
-    "timestamp": 1672919758,
+    "date": "Apr 27 2023 06:44",
+    "likes": 46,
+    "timestamp": 1682592270,
     "body": [
       [
         {
           "type": "text",
-          "value": "> And importantly, telling agencies to try to hit a half-dozen different goals \u2026 doesn\u2019t ensure that all those things will be done simultaneously. What it ensures is that, with no principled way to evaluate projects or say no to things, costs explode."
+          "value": "> Their solution is to \u201cuse machine-learning algorithms to search US newspaper articles between 2000 and 2019\u201d to try to get a comprehensive picture of changes in land use policy."
         }
       ],
       [
         {
           "type": "text",
-          "value": "The cynic in me wants to believe that agency leaders would like to avoid a simple and objective measure of performance. If they are solely evaluated by ridership/dollar-spent then they could fail to improve on that metric and be charged with bad decision making. In contrast, if they claim to be balancing numerous unquantifiable objectives, then it\u2019s much harder to criticize their performance. For example, if we point out the low ridership volume then they can point to their progress in expanding access and creating good paying jobs."
+          "value": "As a former ML practitioner, this immediately caught my attention. Partially out of curiosity, but mainly out of an instinctive revulsion that methods were misapplied just because someone wanted to use trendy tech. Same feeling I\u2019d have if they were using a blockchain or NFTs."
         }
       ],
       [
         {
           "type": "text",
-          "value": "And I think there is a general tendency for all leaders and workers to resist objective evaluation. For example, I've seen this criticism applied to the anti-testing movement in education where it is alleged that poor teachers simply want to evade detection."
+          "value": "Their paper references a 2020 blog post to explain their ML methods rather than a peer reviewed publication. Worse, the post looks eerily similar to the hundred or so ML projects that data-science-bootcamp students shared with me back when I was hiring manager for such a role. Notably, it looks like a cookie cutter application of some Python ML libraries. Ie, a toy project designed to demonstrate familiarity with the methods rather than actually solve a real problem. I rejected every single one of those candidates."
         }
       ],
       [
         {
           "type": "text",
-          "value": "I\u2019ve also seen this aversion to performance evaluation within the tech industry, particularly within discussions on the tech forum Hacker News. While there are many poor approaches to measuring software developer performance (e.g., lines of code count), there still need to be some objective evaluation. Quality measures can include annual peer review using a rubric of dimensions."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Yet there is commonly fierce objection to any evaluation of software engineers within such discussions. Numerous excuses are given for any proposal, while no alternatives are offered. It seems software engineering is conceived as some impalpable art that cannot be evaluated, even by fellow artists. And this extends to strategies and criteria for interviewing prospective engineers. All commonly used methods, such as whiterboarding code exercises, are castigated as inadequate to measure the intangible brilliance and abilities of engineers."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I just think we all have some natural aversion to being evaluated for fear of failure. Therefore our institutions, both public and private, need to be designed to counteract that tendency."
+          "value": "Hence, I\u2019m fully dismissing their results. Their one saving grace is that the blog post suggests they might not even be using the ML results. I\u2019ll expand on all this in a subsequent comment."
         }
       ]
     ],
-    "total_children": 43,
+    "total_children": 18,
     "parent_id": null,
     "parent_children": null,
-    "thread_id": 11653429,
-    "thread_children": 43,
-    "ratio_recv": -32,
+    "thread_id": 15291653,
+    "thread_children": 18,
+    "ratio_recv": -23,
     "ratio_give": null,
-    "grade_level": 11.4,
-    "word_count": 337
+    "grade_level": 8.4,
+    "word_count": 194
   },
   {
-    "post_id": 94305150,
-    "title": "American transit agencies should prioritize ridership over other goals",
-    "canonical_url": "https://www.slowboring.com/p/american-transit-agencies-should",
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
-    "id": 11657817,
+    "id": 15292385,
     "top_level": false,
-    "date": "Jan 05 2023 10:30",
-    "likes": 5,
-    "timestamp": 1672932649,
+    "date": "Apr 27 2023 07:12",
+    "likes": 23,
+    "timestamp": 1682593976,
     "body": [
       [
         {
           "type": "text",
-          "value": "As a former manager, I\u2019ve spent a lot of time on rubrics for peer review of technical workers. Here\u2019s a recent article from Gergely Orosz about the topic that I generally agree with, \u201cPerformance Reviews for Software Developers\u201d, "
+          "value": "First, here\u2019s the paper in Google Scholar, which includes a link to the article PDF, "
         },
         {
           "type": "url",
-          "value": "https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/"
+          "value": "https://scholar.google.com/scholar?cluster=6745393954305227906&hl=en&as_sdt=0,11"
         }
       ],
       [
         {
           "type": "text",
-          "value": "Off the top of my head, here are some dimensions I\u2019ve commonly seen used"
+          "value": "Here is the note/reference in that paper,"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Technical Skills - At each Eng level, what are the expected capabilities?"
+          "value": "> 1.For additional detail on the machine-learning methods used to create this dataset, see: Zheng V (2020) How Urban Piloted Data Science Techniques to Collect Land-Use Reform Data. Data@Urban Blog, available at: "
+        },
+        {
+          "type": "url",
+          "value": "https://urban-institute.medium.com/how-urban-piloted-data-science-techniques-to-collect-land-use-reform-data-475409903b88"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Impact - What degree of contribution is expected for each level?"
+          "value": "Here are some key points from that blog post (ignore anything that sounds too technical):"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Mentorship - For higher levels, the mentorship responsibilities"
+          "value": "* They fetched 76k news articles by searching for some key words"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Leadership - Again, higher levels, the degree that they should drive the team and interact with other teams"
+          "value": "* They had 4 people manually label 568 of these articles with tags"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Collaboration - How well do they help other people get stuff done?"
+          "value": "* Tags aren\u2019t list, but include topics like, \u201csingle-family housing, mixed residential and nonresidential development, accessory dwelling units and granny flats\u201d"
         }
       ],
       [
         {
           "type": "text",
-          "value": "* Interview - For higher levels, how involved should they be in interviewing? How well are their decisions calibrated against other interviewers for the same candidates?"
+          "value": "* They extract features (eg, word counts) from the text using Stanford CoreNLP and a TF-IDF transformation is applied"
         }
       ],
       [
         {
           "type": "text",
-          "value": "For each dimension, an engineer will be ranked on a scale of 0-5. The rubric will include criteria and examples for each score."
+          "value": "* They take top 15% of terms by frequency (don\u2019t give a count of features)"
         }
       ],
       [
         {
           "type": "text",
-          "value": "On an annual basis, each team member will review other team members as assigned by their manager. Only the manager sees the results of each review and they combine multiple reviews to create an aggregated performance evaluation. That can then be shared with the team member to learn how well they are performing against expectations and their progress towards promotion."
+          "value": "* Train a random forest classifier "
         }
       ],
       [
         {
           "type": "text",
-          "value": "While never perfect, the rubric is regularly revised in an iterative process using feedback from all team members. The result is a clear description of expectations and current performance for all members on the team."
+          "value": "* They get a \u201c75\u201391 percent accuracy\u201d for tag prediction"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My biggest complaint is the lack of details. That may be appropriate for a blogpost, but I would expect scholarly work to meticulously detail their methods. The post would be an acceptable summary of such a detailed peer-reviewed article, but they still need that article."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next, 568 labeled data points is an extremely small dataset for text classification. Particularly when predicting multiple labels. Maybe there\u2019s some cutting edge AI method that could work with that, but not a random forest of term frequency features."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Their saving grace may be that they aren\u2019t actually using the model results. Quoting from the blog post,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Ultimately, we determined the machine learning algorithm performed well, but it was not accurate enough to inform policy analysis directly. Because we wanted to predict several outcomes from the articles, even our relatively high 75\u201391 percent accuracy rate meant the odds that all fields in a given row were accurate were still quite low. For instance, if we predict six fields in a given row, each with a 75 percent accuracy rate, (and assume prediction errors are independent), the odds that every field is correct in that row is 0.75\u2076, or just 18 percent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But we determined that the model did work well enough to narrow down the set of articles that we could have experts manually tag to a much smaller number: thousands as opposed to tens of thousands. Our experts manually tagged these remaining articles for a smaller number of metro areas with the best coverage, correcting the machine learning model as necessary or leaving the predictions intact and moving on quickly where it had gotten the predictions right."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My charitable interpretation is that they checked the work of the ML model. Ie, for every prediction a human verified if it was correct, and if not they changed it. We might say that the model provides helpful suggestions, but ultimately human judgment is used to label all of the articles used in this study."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, this is just a blog post and very light on details. I would very much appreciate it if the main, peer-reviewed study just said that they used human-labeling of news articles, with helpful suggestions from a toy ML model."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix a link I broke when copying from article PDF"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 15291653,
+    "parent_children": 18,
+    "thread_id": 15291653,
+    "thread_children": 18,
+    "ratio_recv": -15,
+    "ratio_give": -23,
+    "grade_level": 12.1,
+    "word_count": 537
+  },
+  {
+    "post_id": 117011137,
+    "title": "Yet another study confirms YIMBYs are right about everything",
+    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15294267,
+    "top_level": false,
+    "date": "Apr 27 2023 08:12",
+    "likes": 16,
+    "timestamp": 1682597572,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The general objective of predicting labels for text is a common, reasonable application for ML. For this specific problem, I\u2019d want more details about the performance of the model for each tag, and would almost certainly expect a much larger human-labeled training set to achieve acceptable performance. Ultimately, I\u2019d like to see the detailed methods published in a reputable, peer-reviewed journal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of methods, one of the key tasks is extracting a collection of quantitative features from text. Term frequency is the most basic method and can be acceptable for some tasks, but generally quite limited in performance. There are now large-language-model-derived methods that can do a much better job quantifying semantic meaning into a list of numerical features. Eg, text-embedding-ada-002 from OpenAI, "
+        },
+        {
+          "type": "url",
+          "value": "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve used that OpenAI method for my assorted SB comment analysis projects that I\u2019ve shared in the daily threads, and it does way better than my earlier naive attempts using term frequencies. I didn\u2019t even share most of those earlier projects since they gave such embarrassingly bad results."
         }
       ]
     ],
     "total_children": 1,
-    "parent_id": 11654726,
-    "parent_children": 10,
-    "thread_id": 11653429,
-    "thread_children": 43,
+    "parent_id": 15293631,
+    "parent_children": 2,
+    "thread_id": 15291653,
+    "thread_children": 18,
     "ratio_recv": null,
-    "ratio_give": -6,
-    "grade_level": 10.8,
-    "word_count": 250
+    "ratio_give": 10,
+    "grade_level": 11.7,
+    "word_count": 172
   },
   {
     "post_id": 88859649,
@@ -3952,7 +4192,7 @@ window._comments = [
     "parent_children": 3,
     "thread_id": 11752759,
     "thread_children": 10,
-    "ratio_recv": -2,
+    "ratio_recv": -1,
     "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 140
@@ -3967,7 +4207,7 @@ window._comments = [
     "id": 11753014,
     "top_level": false,
     "date": "Jan 09 2023 07:15",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1673266503,
     "body": [
       [
@@ -4023,7 +4263,7 @@ window._comments = [
     "thread_id": 11752759,
     "thread_children": 10,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -1,
     "grade_level": 12.4,
     "word_count": 584
   },
@@ -5752,246 +5992,6 @@ window._comments = [
     "word_count": 188
   },
   {
-    "post_id": 117011137,
-    "title": "Yet another study confirms YIMBYs are right about everything",
-    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15291653,
-    "top_level": true,
-    "date": "Apr 27 2023 06:44",
-    "likes": 33,
-    "timestamp": 1682592270,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> Their solution is to \u201cuse machine-learning algorithms to search US newspaper articles between 2000 and 2019\u201d to try to get a comprehensive picture of changes in land use policy."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "As a former ML practitioner, this immediately caught my attention. Partially out of curiosity, but mainly out of an instinctive revulsion that methods were misapplied just because someone wanted to use trendy tech. Same feeling I\u2019d have if they were using a blockchain or NFTs."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Their paper references a 2020 blog post to explain their ML methods rather than a peer reviewed publication. Worse, the post looks eerily similar to the hundred or so ML projects that data-science-bootcamp students shared with me back when I was hiring manager for such a role. Notably, it looks like a cookie cutter application of some Python ML libraries. Ie, a toy project designed to demonstrate familiarity with the methods rather than actually solve a real problem. I rejected every single one of those candidates."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Hence, I\u2019m fully dismissing their results. Their one saving grace is that the blog post suggests they might not even be using the ML results. I\u2019ll expand on all this in a subsequent comment."
-        }
-      ]
-    ],
-    "total_children": 13,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15291653,
-    "thread_children": 13,
-    "ratio_recv": -14,
-    "ratio_give": null,
-    "grade_level": 8.4,
-    "word_count": 194
-  },
-  {
-    "post_id": 117011137,
-    "title": "Yet another study confirms YIMBYs are right about everything",
-    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15292385,
-    "top_level": false,
-    "date": "Apr 27 2023 07:12",
-    "likes": 19,
-    "timestamp": 1682593976,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "First, here\u2019s the paper in Google Scholar, which includes a link to the article PDF, "
-        },
-        {
-          "type": "url",
-          "value": "https://scholar.google.com/scholar?cluster=6745393954305227906&hl=en&as_sdt=0,11"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Here is the note/reference in that paper,"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> 1.For additional detail on the machine-learning methods used to create this dataset, see: Zheng V (2020) How Urban Piloted Data Science Techniques to Collect Land-Use Reform Data. Data@Urban Blog, available at: "
-        },
-        {
-          "type": "url",
-          "value": "https://urban-institute.medium.com/how-urban-piloted-data-science-techniques-to-collect-land-use-reform-data-475409903b88"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Here are some key points from that blog post (ignore anything that sounds too technical):"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* They fetched 76k news articles by searching for some key words"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* They had 4 people manually label 568 of these articles with tags"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* Tags aren\u2019t list, but include topics like, \u201csingle-family housing, mixed residential and nonresidential development, accessory dwelling units and granny flats\u201d"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* They extract features (eg, word counts) from the text using Stanford CoreNLP and a TF-IDF transformation is applied"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* They take top 15% of terms by frequency (don\u2019t give a count of features)"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* Train a random forest classifier "
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "* They get a \u201c75\u201391 percent accuracy\u201d for tag prediction"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "My biggest complaint is the lack of details. That may be appropriate for a blogpost, but I would expect scholarly work to meticulously detail their methods. The post would be an acceptable summary of such a detailed peer-reviewed article, but they still need that article."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Next, 568 labeled data points is an extremely small dataset for text classification. Particularly when predicting multiple labels. Maybe there\u2019s some cutting edge AI method that could work with that, but not a random forest of term frequency features."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Their saving grace may be that they aren\u2019t actually using the model results. Quoting from the blog post,"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Ultimately, we determined the machine learning algorithm performed well, but it was not accurate enough to inform policy analysis directly. Because we wanted to predict several outcomes from the articles, even our relatively high 75\u201391 percent accuracy rate meant the odds that all fields in a given row were accurate were still quite low. For instance, if we predict six fields in a given row, each with a 75 percent accuracy rate, (and assume prediction errors are independent), the odds that every field is correct in that row is 0.75\u2076, or just 18 percent."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> But we determined that the model did work well enough to narrow down the set of articles that we could have experts manually tag to a much smaller number: thousands as opposed to tens of thousands. Our experts manually tagged these remaining articles for a smaller number of metro areas with the best coverage, correcting the machine learning model as necessary or leaving the predictions intact and moving on quickly where it had gotten the predictions right."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "My charitable interpretation is that they checked the work of the ML model. Ie, for every prediction a human verified if it was correct, and if not they changed it. We might say that the model provides helpful suggestions, but ultimately human judgment is used to label all of the articles used in this study."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Again, this is just a blog post and very light on details. I would very much appreciate it if the main, peer-reviewed study just said that they used human-labeling of news articles, with helpful suggestions from a toy ML model."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "*Edited to fix a link I broke when copying from article PDF"
-        }
-      ]
-    ],
-    "total_children": 4,
-    "parent_id": 15291653,
-    "parent_children": 13,
-    "thread_id": 15291653,
-    "thread_children": 13,
-    "ratio_recv": -12,
-    "ratio_give": -14,
-    "grade_level": 12.1,
-    "word_count": 537
-  },
-  {
-    "post_id": 117011137,
-    "title": "Yet another study confirms YIMBYs are right about everything",
-    "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15294267,
-    "top_level": false,
-    "date": "Apr 27 2023 08:12",
-    "likes": 9,
-    "timestamp": 1682597572,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "The general objective of predicting labels for text is a common, reasonable application for ML. For this specific problem, I\u2019d want more details about the performance of the model for each tag, and would almost certainly expect a much larger human-labeled training set to achieve acceptable performance. Ultimately, I\u2019d like to see the detailed methods published in a reputable, peer-reviewed journal."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "In terms of methods, one of the key tasks is extracting a collection of quantitative features from text. Term frequency is the most basic method and can be acceptable for some tasks, but generally quite limited in performance. There are now large-language-model-derived methods that can do a much better job quantifying semantic meaning into a list of numerical features. Eg, text-embedding-ada-002 from OpenAI, "
-        },
-        {
-          "type": "url",
-          "value": "https://platform.openai.com/docs/guides/embeddings/what-are-embeddings"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I\u2019ve used that OpenAI method for my assorted SB comment analysis projects that I\u2019ve shared in the daily threads, and it does way better than my earlier naive attempts using term frequencies. I didn\u2019t even share most of those earlier projects since they gave such embarrassingly bad results."
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 15293631,
-    "parent_children": 2,
-    "thread_id": 15291653,
-    "thread_children": 13,
-    "ratio_recv": null,
-    "ratio_give": 6,
-    "grade_level": 11.7,
-    "word_count": 172
-  },
-  {
     "post_id": 102656721,
     "title": "Why you can't trust the media",
     "canonical_url": "https://www.slowboring.com/p/why-you-cant-trust-the-media",
@@ -6493,7 +6493,7 @@ window._comments = [
     "id": 11864976,
     "top_level": true,
     "date": "Jan 13 2023 07:04",
-    "likes": 12,
+    "likes": 13,
     "timestamp": 1673611474,
     "body": [
       [
@@ -6544,7 +6544,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 11864976,
     "thread_children": 6,
-    "ratio_recv": -6,
+    "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 275
@@ -12042,6 +12042,216 @@ window._comments = [
     "word_count": 101
   },
   {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11587693,
+    "top_level": true,
+    "date": "Jan 03 2023 07:06",
+    "likes": 22,
+    "timestamp": 1672747560,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The fallacious connection between economic hardship and inequality is misleading and counterproductive to addressing these hardships. I.e., the reason that so many have too little is because a few have too much. Particularly when inequality only focuses on the wealthiest."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think we are led astray due to 1) a focus on dollars and 2) not differentiating between income and wealth; one being a rate and the other being a quantity. I.e., dollars/year vs. cumulative dollars. We should instead focus on tangible resources such as land, labor, and commodities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If we took everything that billionaires consume\u2014including their consumption of shelter by living in mansions and yachts\u2014and reappropriated that to society's neediest, we\u2019d barely make a dent in their standard of living. There just aren\u2019t that many billionaires and their aggregate consumption is miniscule with respect to the tens of millions of low-income Americans."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If we expand inequality to include the top 10% or 20% of households, then we can start to see some significant tangible resource consumption that could be redistributed to address economic hardship. We can, and should, take a Western-European approach to restructuring our economy to increase public services at the expense of private consumption through higher progressive taxes. Particularly we need a labor restructuring; fewer bartenders and personal trainers, more childcare workers and primary care physicians."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But we can also address economic hardship through productivity growth. Afterall, our redistribution efforts will always be limited by the goods and services that we are actually capable of producing. If we improve productivity through technological advancement and targeted education, then we\u2019ll simply be capable of generating far more goods and services. And we\u2019ll get less political pushback due to a lower tax burden. Ideally everyone\u2019s consumption can grow."
+        }
+      ]
+    ],
+    "total_children": 46,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11587693,
+    "thread_children": 46,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 288
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11592362,
+    "top_level": false,
+    "date": "Jan 03 2023 10:35",
+    "likes": 13,
+    "timestamp": 1672760117,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Checkout Yglesias's Oct 2021 interview of Kathryn Paige Harden that covers her relevant research and book, \"The Genetic Lottery\".  This fragment of her answer to a question seems particularly relevant."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> When people think about genetics, they so often think about it purely in the vein that we've been talking about it so far, which is how are parents like their kids, right? How are kids like their parents? But half of the genetic variability is within families. Right. Genetics is also about difference and the way that differences play out. How are my kids different from me, how are my kids different from one another? And so, you know, often when people kind of back up to a very strong you know, \u201cthere is no way that genetics influences something like education or intelligence or personality.\u201d I really am like, have you ever spent time with children before? Like, have you been around them? Because I think if you are around them, particularly if you're around, you know, siblings or cousins, you have this front row seat to see how genetic difference plays out, very early in development. Like my children as infants felt very, very different to me in terms of their temperament. And then also like what they elicited from me in terms of my maternal behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Transcript, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Audio, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/kathryn-paige-harden-on-the-genetic"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11589431,
+    "parent_children": 13,
+    "thread_id": 11587693,
+    "thread_children": 46,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 8.7,
+    "word_count": 221
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11588032,
+    "top_level": true,
+    "date": "Jan 03 2023 07:30",
+    "likes": 8,
+    "timestamp": 1672749048,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  Instead, the Reagan administration\u2019s policies led to stagnant average wages through the 1980s, with household incomes rising only because of women\u2019s increased labor force participation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Did Reaganism cause this? Specifically, I don\u2019t think he ever succeeded in cutting government spending on welfare. Reagan just cut taxes and funded the massive deficit through debt financing. If anything, that should\u2019ve been a large economic stimulus, although it may have only stimulated suboptimal parts of the economy. E.g., finance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, looking at the growth in Real Disposable Personal Income, it looks like the slowdown started in the 70s, following a boom in the 60s, "
+        },
+        {
+          "type": "url",
+          "value": "https://fred.stlouisfed.org/series/A067RL1A156NBEA"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It could be argued that the failure was in not continuing the expansion of the welfare state though continuation of initiatives like the New Deal and Great Society. But there also were many broad changes in the economy due to technology and globalization. War-torn Europe and Japan had recovered and entered the world markets with innovative and superior products. Information technologies started automating aspects of production and administration, which increased productivity by capital-labor substitution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In many ways, I think the post-war era up through the 60s was the exception. We were in an unusual environment with America as the sole industrial power and that is not something that we can recreate. We also still had a primitive production system that required massive quantities of unskilled labor. The world has changed, largely for the better in my opinion, and we need to consider that in analyzing historical developments."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11588032,
+    "thread_children": 7,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 248
+  },
+  {
+    "post_id": 92903238,
+    "title": "Income inequality has been falling for a while now",
+    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11588372,
+    "top_level": true,
+    "date": "Jan 03 2023 07:50",
+    "likes": 1,
+    "timestamp": 1672750203,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This good news for low-income workers is easy to miss."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve struggled with how we should leverage this politically due to the short term decline for the median earner and above. Yes, we should be able to celebrate the substantial gains for society's poorest. But I worry about any framing that connects that to some pain for the median voter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That just seems like something ripe for Republican weaponization and could create more general headwinds for the future. If the median voters come to believe that economic advancement for society\u2019s neediest requires their own sacrifice then I imagine they\u2019ll generally reject efforts at alleviating poverty."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11588372,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 105
+  },
+  {
     "post_id": 85218122,
     "title": "A Nancy Pelosi appreciation post ",
     "canonical_url": "https://www.slowboring.com/p/a-nancy-pelosi-appreciation-post",
@@ -12844,6 +13054,228 @@ window._comments = [
     "word_count": 38
   },
   {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11807316,
+    "top_level": true,
+    "date": "Jan 11 2023 06:44",
+    "likes": 21,
+    "timestamp": 1673437452,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We should challenge the constitutionality of the debt ceiling to prevent future shenanigans and prepare a platinum coin fail-safe to assuage the financial markets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Section4, \u201c Validity of public debt\u201d in the 14th amendment states, [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Numerous constitutional law experts and politicians have made the argument that the debt ceiling violates this part of the constitution as explained in that Wikipedia section. There are certainly nuances beyond my legal comprehension, including how the debt ceiling was introduced to avoid congressional authorization of individual treasuries issuances, so I can\u2019t speculate on how this could play out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, there is the more general constitutional question of what should the Executive do when Congress passes contradictory legislation. E.g., mandating spending without authorizing sufficient funds, either through taxes or debt issuance authorization. It could be argued that the Executive has discretion in resolving this contradiction, including ignoring the debt ceiling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To safeguard against global financial meltdown in the event of a suicidal judiciary decision, we can prepare and pre-annonunce a platinum coin fallback. In the event of an injunction barring new treasuries issuance beyond the debt ceiling, then we\u2019ll simply purchase existing government debt from the Fed using a platinum coin and then retire those treasuries, thereby putting us back under the limit. Both the Treasury and the Fed will be standing by, ready to take these actions at a moment's notice."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution#Section_4:_Validity_of_public_debt"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edited to fix typo"
+        }
+      ]
+    ],
+    "total_children": 28,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11807316,
+    "thread_children": 28,
+    "ratio_recv": -16,
+    "ratio_give": null,
+    "grade_level": 13.9,
+    "word_count": 265
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11807625,
+    "top_level": true,
+    "date": "Jan 11 2023 07:08",
+    "likes": 10,
+    "timestamp": 1673438933,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think we should underestimate just how poorly a debt ceiling crisis could go. This is not a government shutdown. Instead, financial markets could go thermonuclear should the Treasury be forced to default on the safest financial asset in the world; the bedrock asset of our entire financial system. And we could trigger that meltdown even before an actual default as financial market participants position themselves for a potential default."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We already see signs of this repositioning as Tracy Alloway explained yesterday in, \u201cThe Bond Market Is Already Worrying About a Debt-Ceiling Debacle\u201d,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-01-10/the-bond-market-is-already-worrying-about-a-debt-ceiling-debacle"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And while much of the concern in the market is \u2014 just like the discussion in D.C. itself \u2014 so far mostly just talk, there are some early signs of traders prepping for the possibility of a standoff on government spending, and potentially even a default on some shorter-term US debt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019ll see larger perturbations in markets as we get closer to a potential default. Those dislocations will reverberate all throughout global financial markets since US treasuries are foundational to the entire financial system. That could lead to liquidity (i.e., insufficient cash) and solvency (i.e., bankruptcy) issues for numerous market participants. That is what happened in the 2008 global financial crisis and treasuries are far more important than mortgages."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, even just the possibility of a debt crisis and US treasuries default could cause an unimaginably larger financial crisis."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11807625,
+    "thread_children": 16,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 11.4,
+    "word_count": 231
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11807360,
+    "top_level": false,
+    "date": "Jan 11 2023 06:47",
+    "likes": 7,
+    "timestamp": 1673437665,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Historically, debt-ceiling standoffs make the Republicans look bad. They\u2019ve always caved in eventually and whatever minor concessions they get aren\u2019t anything to campaign on."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 11807185,
+    "parent_children": 5,
+    "thread_id": 11807185,
+    "thread_children": 5,
+    "ratio_recv": -4,
+    "ratio_give": 7,
+    "grade_level": 11.5,
+    "word_count": 24
+  },
+  {
+    "post_id": 95523951,
+    "title": "A new plan to get around the debt ceiling hostage",
+    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11818568,
+    "top_level": false,
+    "date": "Jan 11 2023 13:55",
+    "likes": 6,
+    "timestamp": 1673463315,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In 2008, the majority of Republicans in the House rejected Bush\u2019s bank bailout plan (TARP) and it had to be passed by the Democrats. [1] "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The revised HR1424 was received from the Senate by the House, and on October 3, it voted 263-171 to enact the bill into law. Democrats voted 172 to 63 in favor of the legislation, while Republicans voted 108 to 91 against it"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, Lehman failed on Sept 15th and the markets were already in meltdown mode by the time the majority of Republicans rejected TARP on Oct 3rd."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I do like to think that some Republicans would come to their senses before we had an even larger financial crisis due to the debt ceiling, but I certainly wouldn\u2019t count on it. Further, the damage could already be done by the time enough responsible Republicans get on board. In that case we could be looking at another lost decade due to a financial-crisis-induced recession."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#Second_House_vote,_October_3"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 11816673,
+    "parent_children": 2,
+    "thread_id": 11807625,
+    "thread_children": 16,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 11.3,
+    "word_count": 160
+  },
+  {
     "post_id": 93897135,
     "title": "Tuesday Thread",
     "canonical_url": "https://www.slowboring.com/p/tuesday-thread-192",
@@ -13320,216 +13752,6 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": -3.1,
     "word_count": 2
-  },
-  {
-    "post_id": 92903238,
-    "title": "Income inequality has been falling for a while now",
-    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11587693,
-    "top_level": true,
-    "date": "Jan 03 2023 07:06",
-    "likes": 21,
-    "timestamp": 1672747560,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "The fallacious connection between economic hardship and inequality is misleading and counterproductive to addressing these hardships. I.e., the reason that so many have too little is because a few have too much. Particularly when inequality only focuses on the wealthiest."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I think we are led astray due to 1) a focus on dollars and 2) not differentiating between income and wealth; one being a rate and the other being a quantity. I.e., dollars/year vs. cumulative dollars. We should instead focus on tangible resources such as land, labor, and commodities."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "If we took everything that billionaires consume\u2014including their consumption of shelter by living in mansions and yachts\u2014and reappropriated that to society's neediest, we\u2019d barely make a dent in their standard of living. There just aren\u2019t that many billionaires and their aggregate consumption is miniscule with respect to the tens of millions of low-income Americans."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "If we expand inequality to include the top 10% or 20% of households, then we can start to see some significant tangible resource consumption that could be redistributed to address economic hardship. We can, and should, take a Western-European approach to restructuring our economy to increase public services at the expense of private consumption through higher progressive taxes. Particularly we need a labor restructuring; fewer bartenders and personal trainers, more childcare workers and primary care physicians."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "But we can also address economic hardship through productivity growth. Afterall, our redistribution efforts will always be limited by the goods and services that we are actually capable of producing. If we improve productivity through technological advancement and targeted education, then we\u2019ll simply be capable of generating far more goods and services. And we\u2019ll get less political pushback due to a lower tax burden. Ideally everyone\u2019s consumption can grow."
-        }
-      ]
-    ],
-    "total_children": 40,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 11587693,
-    "thread_children": 40,
-    "ratio_recv": 2,
-    "ratio_give": null,
-    "grade_level": 13.1,
-    "word_count": 288
-  },
-  {
-    "post_id": 92903238,
-    "title": "Income inequality has been falling for a while now",
-    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11592362,
-    "top_level": false,
-    "date": "Jan 03 2023 10:35",
-    "likes": 13,
-    "timestamp": 1672760117,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Checkout Yglesias's Oct 2021 interview of Kathryn Paige Harden that covers her relevant research and book, \"The Genetic Lottery\".  This fragment of her answer to a question seems particularly relevant."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> When people think about genetics, they so often think about it purely in the vein that we've been talking about it so far, which is how are parents like their kids, right? How are kids like their parents? But half of the genetic variability is within families. Right. Genetics is also about difference and the way that differences play out. How are my kids different from me, how are my kids different from one another? And so, you know, often when people kind of back up to a very strong you know, \u201cthere is no way that genetics influences something like education or intelligence or personality.\u201d I really am like, have you ever spent time with children before? Like, have you been around them? Because I think if you are around them, particularly if you're around, you know, siblings or cousins, you have this front row seat to see how genetic difference plays out, very early in development. Like my children as infants felt very, very different to me in terms of their temperament. And then also like what they elicited from me in terms of my maternal behavior."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Transcript, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Audio, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.slowboring.com/p/kathryn-paige-harden-on-the-genetic"
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 11589431,
-    "parent_children": 11,
-    "thread_id": 11587693,
-    "thread_children": 40,
-    "ratio_recv": null,
-    "ratio_give": 0,
-    "grade_level": 8.7,
-    "word_count": 221
-  },
-  {
-    "post_id": 92903238,
-    "title": "Income inequality has been falling for a while now",
-    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11588032,
-    "top_level": true,
-    "date": "Jan 03 2023 07:30",
-    "likes": 8,
-    "timestamp": 1672749048,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": ">  Instead, the Reagan administration\u2019s policies led to stagnant average wages through the 1980s, with household incomes rising only because of women\u2019s increased labor force participation."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Did Reaganism cause this? Specifically, I don\u2019t think he ever succeeded in cutting government spending on welfare. Reagan just cut taxes and funded the massive deficit through debt financing. If anything, that should\u2019ve been a large economic stimulus, although it may have only stimulated suboptimal parts of the economy. E.g., finance."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Additionally, looking at the growth in Real Disposable Personal Income, it looks like the slowdown started in the 70s, following a boom in the 60s, "
-        },
-        {
-          "type": "url",
-          "value": "https://fred.stlouisfed.org/series/A067RL1A156NBEA"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "It could be argued that the failure was in not continuing the expansion of the welfare state though continuation of initiatives like the New Deal and Great Society. But there also were many broad changes in the economy due to technology and globalization. War-torn Europe and Japan had recovered and entered the world markets with innovative and superior products. Information technologies started automating aspects of production and administration, which increased productivity by capital-labor substitution."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "In many ways, I think the post-war era up through the 60s was the exception. We were in an unusual environment with America as the sole industrial power and that is not something that we can recreate. We also still had a primitive production system that required massive quantities of unskilled labor. The world has changed, largely for the better in my opinion, and we need to consider that in analyzing historical developments."
-        }
-      ]
-    ],
-    "total_children": 7,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 11588032,
-    "thread_children": 7,
-    "ratio_recv": -3,
-    "ratio_give": null,
-    "grade_level": 11.9,
-    "word_count": 248
-  },
-  {
-    "post_id": 92903238,
-    "title": "Income inequality has been falling for a while now",
-    "canonical_url": "https://www.slowboring.com/p/inequality-falling",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11588372,
-    "top_level": true,
-    "date": "Jan 03 2023 07:50",
-    "likes": 1,
-    "timestamp": 1672750203,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> This good news for low-income workers is easy to miss."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I\u2019ve struggled with how we should leverage this politically due to the short term decline for the median earner and above. Yes, we should be able to celebrate the substantial gains for society's poorest. But I worry about any framing that connects that to some pain for the median voter."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "That just seems like something ripe for Republican weaponization and could create more general headwinds for the future. If the median voters come to believe that economic advancement for society\u2019s neediest requires their own sacrifice then I imagine they\u2019ll generally reject efforts at alleviating poverty."
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 11588372,
-    "thread_children": 1,
-    "ratio_recv": null,
-    "ratio_give": null,
-    "grade_level": 10.1,
-    "word_count": 105
   },
   {
     "post_id": 91985864,
@@ -14422,52 +14644,40 @@ window._comments = [
     "word_count": 196
   },
   {
-    "post_id": 95523951,
-    "title": "A new plan to get around the debt ceiling hostage",
-    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
+    "post_id": 118908600,
+    "title": "Mailbag of Angels",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-of-angels",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
-    "id": 11807316,
+    "id": 15628550,
     "top_level": true,
-    "date": "Jan 11 2023 06:44",
+    "date": "May 05 2023 06:31",
     "likes": 20,
-    "timestamp": 1673437452,
+    "timestamp": 1683282700,
     "body": [
       [
         {
           "type": "text",
-          "value": "We should challenge the constitutionality of the debt ceiling to prevent future shenanigans and prepare a platinum coin fail-safe to assuage the financial markets."
+          "value": "> Do you think anonymous internet identities are a net positive or negative?"
         }
       ],
       [
         {
           "type": "text",
-          "value": "Section4, \u201c Validity of public debt\u201d in the 14th amendment states, [1]"
+          "value": "I don't think people recognize the extreme level of OpSec sophistication necessary to protect their anonymity online. This includes constant diligence to never post anything that could partially reveal their real identity. Even just a few unrelated comments on one\u2019s profession, local political concerns, and hobbies could allow an acquaintance to connect the dots. And there are creepy online communities dedicated to doxing their enemies through such \u201cintelligence operations\u201d."
         }
       ],
       [
         {
           "type": "text",
-          "value": "> The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned."
+          "value": "Worse, you have to consider the risks of a data breach on the platform. Eg, all of us paid subscribers have provided Substack with our email address and billing info, including our real name. Ideally, Stripe is firewalling identity information from Substack and writers, but a cursory search suggests that billing addresses can be collected. [1] Even then, large and reputable tech companies have had breaches."
         }
       ],
       [
         {
           "type": "text",
-          "value": "Numerous constitutional law experts and politicians have made the argument that the debt ceiling violates this part of the constitution as explained in that Wikipedia section. There are certainly nuances beyond my legal comprehension, including how the debt ceiling was introduced to avoid congressional authorization of individual treasuries issuances, so I can\u2019t speculate on how this could play out."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Further, there is the more general constitutional question of what should the Executive do when Congress passes contradictory legislation. E.g., mandating spending without authorizing sufficient funds, either through taxes or debt issuance authorization. It could be argued that the Executive has discretion in resolving this contradiction, including ignoring the debt ceiling."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "To safeguard against global financial meltdown in the event of a suicidal judiciary decision, we can prepare and pre-annonunce a platinum coin fallback. In the event of an injunction barring new treasuries issuance beyond the debt ceiling, then we\u2019ll simply purchase existing government debt from the Fed using a platinum coin and then retire those treasuries, thereby putting us back under the limit. Both the Treasury and the Fed will be standing by, ready to take these actions at a moment's notice."
+          "value": "Hence, as a software engineer, I\u2019ve decided that I cannot guarantee my own online anonymity and therefore use my real name for all online discussions. Without even the illusion of anonymity, I\u2019m far less likely to sloppily say anything I wouldn\u2019t ever want tied back to my name."
         }
       ],
       [
@@ -14477,171 +14687,19 @@ window._comments = [
         },
         {
           "type": "url",
-          "value": "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution#Section_4:_Validity_of_public_debt"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "*edited to fix typo"
+          "value": "https://www.bigbinary.com/books/handling-stripe-subscriptions/enabling-disabling-address-collection-in-stripe-checkout"
         }
       ]
     ],
-    "total_children": 28,
+    "total_children": 42,
     "parent_id": null,
     "parent_children": null,
-    "thread_id": 11807316,
-    "thread_children": 28,
-    "ratio_recv": -16,
+    "thread_id": 15628550,
+    "thread_children": 42,
+    "ratio_recv": 13,
     "ratio_give": null,
-    "grade_level": 13.9,
-    "word_count": 265
-  },
-  {
-    "post_id": 95523951,
-    "title": "A new plan to get around the debt ceiling hostage",
-    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11807625,
-    "top_level": true,
-    "date": "Jan 11 2023 07:08",
-    "likes": 9,
-    "timestamp": 1673438933,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I don\u2019t think we should underestimate just how poorly a debt ceiling crisis could go. This is not a government shutdown. Instead, financial markets could go thermonuclear should the Treasury be forced to default on the safest financial asset in the world; the bedrock asset of our entire financial system. And we could trigger that meltdown even before an actual default as financial market participants position themselves for a potential default."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "We already see signs of this repositioning as Tracy Alloway explained yesterday in, \u201cThe Bond Market Is Already Worrying About a Debt-Ceiling Debacle\u201d,  "
-        },
-        {
-          "type": "url",
-          "value": "https://www.bloomberg.com/news/articles/2023-01-10/the-bond-market-is-already-worrying-about-a-debt-ceiling-debacle"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> And while much of the concern in the market is \u2014 just like the discussion in D.C. itself \u2014 so far mostly just talk, there are some early signs of traders prepping for the possibility of a standoff on government spending, and potentially even a default on some shorter-term US debt."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "We\u2019ll see larger perturbations in markets as we get closer to a potential default. Those dislocations will reverberate all throughout global financial markets since US treasuries are foundational to the entire financial system. That could lead to liquidity (i.e., insufficient cash) and solvency (i.e., bankruptcy) issues for numerous market participants. That is what happened in the 2008 global financial crisis and treasuries are far more important than mortgages."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Hence, even just the possibility of a debt crisis and US treasuries default could cause an unimaginably larger financial crisis."
-        }
-      ]
-    ],
-    "total_children": 16,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 11807625,
-    "thread_children": 16,
-    "ratio_recv": -5,
-    "ratio_give": null,
-    "grade_level": 11.4,
-    "word_count": 231
-  },
-  {
-    "post_id": 95523951,
-    "title": "A new plan to get around the debt ceiling hostage",
-    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11807360,
-    "top_level": false,
-    "date": "Jan 11 2023 06:47",
-    "likes": 7,
-    "timestamp": 1673437665,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Historically, debt-ceiling standoffs make the Republicans look bad. They\u2019ve always caved in eventually and whatever minor concessions they get aren\u2019t anything to campaign on."
-        }
-      ]
-    ],
-    "total_children": 4,
-    "parent_id": 11807185,
-    "parent_children": 5,
-    "thread_id": 11807185,
-    "thread_children": 5,
-    "ratio_recv": -4,
-    "ratio_give": 7,
-    "grade_level": 11.5,
-    "word_count": 24
-  },
-  {
-    "post_id": 95523951,
-    "title": "A new plan to get around the debt ceiling hostage",
-    "canonical_url": "https://www.slowboring.com/p/a-new-plan-to-get-around-the-debt",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11818568,
-    "top_level": false,
-    "date": "Jan 11 2023 13:55",
-    "likes": 6,
-    "timestamp": 1673463315,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "In 2008, the majority of Republicans in the House rejected Bush\u2019s bank bailout plan (TARP) and it had to be passed by the Democrats. [1] "
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> The revised HR1424 was received from the Senate by the House, and on October 3, it voted 263-171 to enact the bill into law. Democrats voted 172 to 63 in favor of the legislation, while Republicans voted 108 to 91 against it"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "For context, Lehman failed on Sept 15th and the markets were already in meltdown mode by the time the majority of Republicans rejected TARP on Oct 3rd."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I do like to think that some Republicans would come to their senses before we had an even larger financial crisis due to the debt ceiling, but I certainly wouldn\u2019t count on it. Further, the damage could already be done by the time enough responsible Republicans get on board. In that case we could be looking at another lost decade due to a financial-crisis-induced recession."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#Second_House_vote,_October_3"
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 11816673,
-    "parent_children": 2,
-    "thread_id": 11807625,
-    "thread_children": 16,
-    "ratio_recv": null,
-    "ratio_give": 2,
-    "grade_level": 11.3,
-    "word_count": 160
+    "grade_level": 10.2,
+    "word_count": 196
   },
   {
     "post_id": 81670675,
@@ -20015,11 +20073,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 11626655,
-    "parent_children": 90,
+    "parent_children": 91,
     "thread_id": 11626655,
-    "thread_children": 90,
+    "thread_children": 91,
     "ratio_recv": -9,
     "ratio_give": 3,
     "grade_level": 10.3,
@@ -20053,9 +20111,9 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 11631136,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 11626655,
-    "thread_children": 90,
+    "thread_children": 91,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 8.2,
@@ -21820,12 +21878,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 18,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 11768526,
-    "thread_children": 18,
-    "ratio_recv": 4,
+    "thread_children": 21,
+    "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 137
@@ -26534,6 +26592,42 @@ window._comments = [
     "word_count": 82
   },
   {
+    "post_id": 95081668,
+    "title": "Who is included by \"inclusive\" language? ",
+    "canonical_url": "https://www.slowboring.com/p/who-is-included-by-inclusive-language",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 12000723,
+    "top_level": true,
+    "date": "Jan 18 2023 06:54",
+    "likes": 6,
+    "timestamp": 1674042860,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Upper classes seeking to differentiate themselves from lower ones is unavoidable in my opinion. I imagine a lot of this is just an emotional fear of being mistaken for being a member of an out group. Further, in our modern information age, everyone is always looking to improve their relative standing by copying the behavior, language, and fashion of the avant garde."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence there will always be a demand for novel class markers and an industry of tastemakers toiling to generate new ones as the current stock becomes increasingly common. The current DEI-language-themed ones are not particularly bad in my opinion."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12000723,
+    "thread_children": 3,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 101
+  },
+  {
     "post_id": 95908052,
     "title": "Thursday Thread",
     "canonical_url": "https://www.slowboring.com/p/thursday-thread-54c",
@@ -26642,6 +26736,58 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 187
+  },
+  {
+    "post_id": 93547723,
+    "title": "Happy New Year! Republicans have changed a lot since 2008",
+    "canonical_url": "https://www.slowboring.com/p/happy-new-year-republicans-have-changed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 11560068,
+    "top_level": true,
+    "date": "Jan 02 2023 07:39",
+    "likes": 6,
+    "timestamp": 1672663161,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The linked video where Paul Ryan discusses his views is centered around Matthew Continetti\u2019s book \u201cThe Right: The Hundred-Year War for American Conservativism.\u201d That author and book topic sounded familiar and I found the May 2022 Ezra Klein Show interview with Continetti, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2022/05/06/podcasts/transcript-ezra-klein-interviews-matt-continetti.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall this being an insightful discussion of the evolution of the Republican party, particularly the contradictions and conflicts between the elite Reagan-era consensus and the populist Buchanan/Trump wing. From the NYT description"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Continetti was straddling two conservative tendencies that were about to rip apart, the establishment conservatism of George W. Bush and Bill Kristol, and the populist conservatism of Spiro Agnew, and soon, Donald Trump. And rip apart they did. Today, the right that Continetti joined, it barely exists. \u201cThe Weekly Standard\u201d is gone. Kristol became a leading Never Trumper. Trump took over the Republican Party in part by weaponizing anger and disappointment at its establishment, and particularly at the Bush family. The policy ideas so dutifully churned out by the American Enterprise Institute for so many years have little purchase on the rising generation of populist right leaders. In many cases, they\u2019re running against those ideas. Continetti writes that \u2014 quote \u2014 \u201cto define oneself as a conservative in the 2020s was to reject the ideas and practices of the establishment that 1150 17th Street had come to represent. I\u2019ve spent the last decade thinking about this change.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The product of Continetti\u2019s decade of thinking and research isn\u2019t a manifesto or an essay. It\u2019s a history book, \u201cIn the Right: The 100 Year War for American Conservatism.\u201d Continetti does something valuable. He takes seriously the populist history of conservatism, running from Joseph McCarthy to William F. Buckley Jr., to the John Birch Society, to Richard Nixon and Spiro Agnew, to the Tea Party, and Sarah Palin, and Donald Trump, and beyond. He doesn\u2019t treat the forces that produced Trumpism as somehow alien to the Republican Party. What\u2019s aberrational is not a populist right, but the belief, so widespread before Donald Trump, that conservatism was what Paul Ryan and Mitch McConnell and \u201cThe Weekly Standard\u201d and the American Enterprise Institute wanted it to be, that that is where the energy and the values of the people who put Republicans in power really sat."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 11560068,
+    "thread_children": 11,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 374
   },
   {
     "post_id": 91424801,
@@ -27916,94 +28062,6 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 0.9,
     "word_count": 9
-  },
-  {
-    "post_id": 95081668,
-    "title": "Who is included by \"inclusive\" language? ",
-    "canonical_url": "https://www.slowboring.com/p/who-is-included-by-inclusive-language",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 12000723,
-    "top_level": true,
-    "date": "Jan 18 2023 06:54",
-    "likes": 5,
-    "timestamp": 1674042860,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Upper classes seeking to differentiate themselves from lower ones is unavoidable in my opinion. I imagine a lot of this is just an emotional fear of being mistaken for being a member of an out group. Further, in our modern information age, everyone is always looking to improve their relative standing by copying the behavior, language, and fashion of the avant garde."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Hence there will always be a demand for novel class markers and an industry of tastemakers toiling to generate new ones as the current stock becomes increasingly common. The current DEI-language-themed ones are not particularly bad in my opinion."
-        }
-      ]
-    ],
-    "total_children": 3,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 12000723,
-    "thread_children": 3,
-    "ratio_recv": 3,
-    "ratio_give": null,
-    "grade_level": 11.2,
-    "word_count": 101
-  },
-  {
-    "post_id": 93547723,
-    "title": "Happy New Year! Republicans have changed a lot since 2008",
-    "canonical_url": "https://www.slowboring.com/p/happy-new-year-republicans-have-changed",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 11560068,
-    "top_level": true,
-    "date": "Jan 02 2023 07:39",
-    "likes": 5,
-    "timestamp": 1672663161,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "The linked video where Paul Ryan discusses his views is centered around Matthew Continetti\u2019s book \u201cThe Right: The Hundred-Year War for American Conservativism.\u201d That author and book topic sounded familiar and I found the May 2022 Ezra Klein Show interview with Continetti, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.nytimes.com/2022/05/06/podcasts/transcript-ezra-klein-interviews-matt-continetti.html"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I recall this being an insightful discussion of the evolution of the Republican party, particularly the contradictions and conflicts between the elite Reagan-era consensus and the populist Buchanan/Trump wing. From the NYT description"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Continetti was straddling two conservative tendencies that were about to rip apart, the establishment conservatism of George W. Bush and Bill Kristol, and the populist conservatism of Spiro Agnew, and soon, Donald Trump. And rip apart they did. Today, the right that Continetti joined, it barely exists. \u201cThe Weekly Standard\u201d is gone. Kristol became a leading Never Trumper. Trump took over the Republican Party in part by weaponizing anger and disappointment at its establishment, and particularly at the Bush family. The policy ideas so dutifully churned out by the American Enterprise Institute for so many years have little purchase on the rising generation of populist right leaders. In many cases, they\u2019re running against those ideas. Continetti writes that \u2014 quote \u2014 \u201cto define oneself as a conservative in the 2020s was to reject the ideas and practices of the establishment that 1150 17th Street had come to represent. I\u2019ve spent the last decade thinking about this change.\u201d"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> The product of Continetti\u2019s decade of thinking and research isn\u2019t a manifesto or an essay. It\u2019s a history book, \u201cIn the Right: The 100 Year War for American Conservatism.\u201d Continetti does something valuable. He takes seriously the populist history of conservatism, running from Joseph McCarthy to William F. Buckley Jr., to the John Birch Society, to Richard Nixon and Spiro Agnew, to the Tea Party, and Sarah Palin, and Donald Trump, and beyond. He doesn\u2019t treat the forces that produced Trumpism as somehow alien to the Republican Party. What\u2019s aberrational is not a populist right, but the belief, so widespread before Donald Trump, that conservatism was what Paul Ryan and Mitch McConnell and \u201cThe Weekly Standard\u201d and the American Enterprise Institute wanted it to be, that that is where the energy and the values of the people who put Republicans in power really sat."
-        }
-      ]
-    ],
-    "total_children": 11,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 11560068,
-    "thread_children": 11,
-    "ratio_recv": -1,
-    "ratio_give": null,
-    "grade_level": 9.4,
-    "word_count": 374
   },
   {
     "post_id": 87457071,
@@ -29495,6 +29553,86 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 342
+  },
+  {
+    "post_id": 117197283,
+    "title": "Playoffs mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/playoffs-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15339943,
+    "top_level": true,
+    "date": "Apr 28 2023 06:46",
+    "likes": 3,
+    "timestamp": 1682678761,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Democrats would presumably have done better in the 2010 midterms with a stronger economy. \u2026 it also would have spurred more counter-mobilization and backlash."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, this backlash is not sufficiently considered in the subsequent alternative history narrative. Notably, the Tea Party is totally absent despite it being a significant political force in our actual history, and I recall its chief concern was big government."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think it\u2019s important to remember that we saw the precursor to this movement even before the Great Recession was felt in the strong Republican opposition to the Bush administration\u2019s TARP bill in 2008, with House Republicans voting 133\u201365 against in the first vote. [1] This predates the large spike in unemployment, [2] so it seems almost certain we\u2019d get a Tea-Party-like opposition to government largess regardless."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In our actual history that movement only grew strong with the ACA passage in 2010. Adding a large government stimulus in 2009 would\u2019ve only thrown more fuel on the fire. Further, we wouldn\u2019t have our actual counterfactual of poor economic recovery. Pundits and politicians could claim economic recovery would\u2019ve happened regardless and therefore branded the larger ARRA as further government overreach and waste."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I think it\u2019s likely that this alternative history includes a stronger Tea Party, and that could possibly put Romney/Ryan into the Whitehouse in 2012 with solid Republican margins in Congress. Worse, they might have the political capital to not only rollback the ACA, but also begin the privatization of Social Security. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And the most troubling harm in this alternative history would be repudiation of Obama\u2019s ambitious political strategy to expand our social safety net. This would be seen as a confirmation that Bill Clinton\u2019s Third Way approach was the only viable strategy for Democrats."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#First_House_vote,_September_29"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://fred.stlouisfed.org/series/UNRATE"
+        }
+      ]
+    ],
+    "total_children": 20,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15339943,
+    "thread_children": 20,
+    "ratio_recv": 5,
+    "ratio_give": null,
+    "grade_level": 12.6,
+    "word_count": 292
   },
   {
     "post_id": 97902560,
