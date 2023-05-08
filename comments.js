@@ -11656,6 +11656,64 @@ window._comments = [
     "word_count": 268
   },
   {
+    "post_id": 118908600,
+    "title": "Mailbag of Angels",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-of-angels",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15628550,
+    "top_level": true,
+    "date": "May 05 2023 06:31",
+    "likes": 22,
+    "timestamp": 1683282700,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Do you think anonymous internet identities are a net positive or negative?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don't think people recognize the extreme level of OpSec sophistication necessary to protect their anonymity online. This includes constant diligence to never post anything that could partially reveal their real identity. Even just a few unrelated comments on one\u2019s profession, local political concerns, and hobbies could allow an acquaintance to connect the dots. And there are creepy online communities dedicated to doxing their enemies through such \u201cintelligence operations\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worse, you have to consider the risks of a data breach on the platform. Eg, all of us paid subscribers have provided Substack with our email address and billing info, including our real name. Ideally, Stripe is firewalling identity information from Substack and writers, but a cursory search suggests that billing addresses can be collected. [1] Even then, large and reputable tech companies have had breaches."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, as a software engineer, I\u2019ve decided that I cannot guarantee my own online anonymity and therefore use my real name for all online discussions. Without even the illusion of anonymity, I\u2019m far less likely to sloppily say anything I wouldn\u2019t ever want tied back to my name."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bigbinary.com/books/handling-stripe-subscriptions/enabling-disabling-address-collection-in-stripe-checkout"
+        }
+      ]
+    ],
+    "total_children": 42,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15628550,
+    "thread_children": 42,
+    "ratio_recv": 13,
+    "ratio_give": null,
+    "grade_level": 10.2,
+    "word_count": 196
+  },
+  {
     "post_id": 105714387,
     "title": "Back in the USA mailbag",
     "canonical_url": "https://www.slowboring.com/p/back-in-the-usa-mailbag-09b",
@@ -14641,64 +14699,6 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 196
-  },
-  {
-    "post_id": 118908600,
-    "title": "Mailbag of Angels",
-    "canonical_url": "https://www.slowboring.com/p/mailbag-of-angels",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15628550,
-    "top_level": true,
-    "date": "May 05 2023 06:31",
-    "likes": 20,
-    "timestamp": 1683282700,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> Do you think anonymous internet identities are a net positive or negative?"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I don't think people recognize the extreme level of OpSec sophistication necessary to protect their anonymity online. This includes constant diligence to never post anything that could partially reveal their real identity. Even just a few unrelated comments on one\u2019s profession, local political concerns, and hobbies could allow an acquaintance to connect the dots. And there are creepy online communities dedicated to doxing their enemies through such \u201cintelligence operations\u201d."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Worse, you have to consider the risks of a data breach on the platform. Eg, all of us paid subscribers have provided Substack with our email address and billing info, including our real name. Ideally, Stripe is firewalling identity information from Substack and writers, but a cursory search suggests that billing addresses can be collected. [1] Even then, large and reputable tech companies have had breaches."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Hence, as a software engineer, I\u2019ve decided that I cannot guarantee my own online anonymity and therefore use my real name for all online discussions. Without even the illusion of anonymity, I\u2019m far less likely to sloppily say anything I wouldn\u2019t ever want tied back to my name."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://www.bigbinary.com/books/handling-stripe-subscriptions/enabling-disabling-address-collection-in-stripe-checkout"
-        }
-      ]
-    ],
-    "total_children": 42,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15628550,
-    "thread_children": 42,
-    "ratio_recv": 13,
-    "ratio_give": null,
-    "grade_level": 10.2,
     "word_count": 196
   },
   {
@@ -18398,6 +18398,48 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278
+  },
+  {
+    "post_id": 118595983,
+    "title": "Is Los Angeles underrated?",
+    "canonical_url": "https://www.slowboring.com/p/is-los-angeles-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15736704,
+    "top_level": true,
+    "date": "May 08 2023 06:52",
+    "likes": 14,
+    "timestamp": 1683543147,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> You\u2019re probably more normal than you think\u2026 And while you could, in principle, deviate from the niche in any direction, it\u2019s likely that in practice you deviate in the direction of the general population."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is a related concept in statistics called the \u201cCurse of Dimensionality.\u201d To illustrate this, imagine you describe a sample of people by just age and income, and visualize that in a 2D plot. Most of the data points will be in the center of the figure since few people are an outlier in either age or income. Yet, if we add more dimensions, such as hours of TV per week or miles walked per month, fewer and fewer people will be in the center of this multiple-dimensional space because more and more people will be an outlier on at least one of the dimensions. Most people will still be in the center of the majority of dimensions, for each individual dimension, because most people are within the norm."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think a lot of cultural fragmentation can be explained by the ever-increasing number of dimensions that contribute to each of our identities. While we will all be an outlier on one or more dimensions with respect to the general population, or even just our friends, we should remember that we are still all quite normal across the majority of dimensions. Eg, almost all of us prefer temperate weather than extremes of hot or cold."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15736704,
+    "thread_children": 3,
+    "ratio_recv": -10,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 238
   },
   {
     "post_id": 114773991,
