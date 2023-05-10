@@ -11656,6 +11656,251 @@ window._comments = [
     "word_count": 268
   },
   {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779005,
+    "top_level": true,
+    "date": "May 09 2023 06:50",
+    "likes": 22,
+    "timestamp": 1683629403,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "David Sirota, Robert Reich, and other left-branded influencers will always find a way to blame corporations and capitalism for whatever salient problem is in the discourse. Should we have implemented price controls and voters were outraged over the resulting shortages, then these charlatans could easily manufacture a deluge of conspiracy theories to indict corporate America."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, they are primarily responding to the incentives of their audience capture. There is simply a strong demand among a segment of media consumers for anti-capitalism content. Sirota and Reich are no different from Tucker Carlson in this aspect, as they are all preaching to the converted."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similar to Carlson, left-branded economic misinformation can rarely be corrected through debunking and fact-checking. Those endeavors may be useful for saving some people from falling down into the rabbit hole of lies. But in general, most people consuming this content already believe and are simply looking for a reaffirmation of their world view."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, the best we can hope for is that the good-old-fashioned leftist circular firing squad continues to keep fragmenting and dividing their audience. For example, there must be a strong opportunity for a young and ambitious influencer to develop their Marx-ish brand by attacking Sirota from the left, and thereby gain some likes and patreon supporters."
+        }
+      ]
+    ],
+    "total_children": 24,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15779005,
+    "thread_children": 24,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 213
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779767,
+    "top_level": false,
+    "date": "May 09 2023 07:26",
+    "likes": 12,
+    "timestamp": 1683631576,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Should we have a Marxist revolution in America, then within years the same people will be complaining about the injustices of collective economics as they labor in the People\u2019s warehouses. They\u2019ll fantasize about how rich and successful they\u2019d be as entrepreneurs in a proper capitalistic economy. Jeff Bezos, our Logistics Commissar, will still be running an Amazon-esque enterprise and enjoying regular vacations on one of the People\u2019s megayachts. "
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15779618,
+    "parent_children": 5,
+    "thread_id": 15779005,
+    "thread_children": 24,
+    "ratio_recv": -8,
+    "ratio_give": 1,
+    "grade_level": 13.4,
+    "word_count": 69
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15780234,
+    "top_level": false,
+    "date": "May 09 2023 07:46",
+    "likes": 10,
+    "timestamp": 1683632799,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I am regularly reminded of my commitment to consume content that challenges my worldview because I\u2019m a paid subscriber to both Andrew Sullivan and Bari Weiss\u2019s The Free Press."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I have at times subscribed to Freddie deBoer, but his recent self-beclowning in lazily criticizing large-language-model AI capabilities compelled me to cancel that one for a few months. [1] For context, he highlighted failures of ChatGPT, but he used the GPT3.5 model and his subscribers quickly demonstrated how GPT4 properly handles each of those cases. I just can\u2019t financially support such indolent work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://freddiedeboer.substack.com/p/theory-of-the-world-theory-of-mind/comments"
+        }
+      ],
+      []
+    ],
+    "total_children": 5,
+    "parent_id": 15779843,
+    "parent_children": 6,
+    "thread_id": 15779005,
+    "thread_children": 24,
+    "ratio_recv": -4,
+    "ratio_give": 5,
+    "grade_level": 10.6,
+    "word_count": 94
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779439,
+    "top_level": false,
+    "date": "May 09 2023 07:12",
+    "likes": 10,
+    "timestamp": 1683630726,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Companies are always attempting to charge the highest price that they can. In a supply-constrained environment with excess demand, they can increase prices without losing market share because no one else can substantially increase their own output sufficiently fast. Our problem is that demand grew far too quickly, due to overly stimulative fiscal and macroeconomic policies, for supply to keep up. Things are normalizing and in time that will include profit margins."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 15779309,
+    "parent_children": 11,
+    "thread_id": 15778762,
+    "thread_children": 28,
+    "ratio_recv": -6,
+    "ratio_give": 9,
+    "grade_level": 10.3,
+    "word_count": 72
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779358,
+    "top_level": false,
+    "date": "May 09 2023 07:08",
+    "likes": 9,
+    "timestamp": 1683630505,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The left-ish misinformation peddlers and their deluded audiences are counterproductive to achieving those goals, goals which I share. Eg, \u201cstick it to the 1%\u201d is a distraction from the actual political-economic reforms needed to construct a Western European style welfare state. That requires broad increases in taxes to move substantial resources from private consumption into the provisioning of public goods."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 15779125,
+    "parent_children": 14,
+    "thread_id": 15779005,
+    "thread_children": 24,
+    "ratio_recv": -8,
+    "ratio_give": 7,
+    "grade_level": 13.5,
+    "word_count": 60
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779252,
+    "top_level": false,
+    "date": "May 09 2023 07:03",
+    "likes": 8,
+    "timestamp": 1683630195,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but better policy design would have mitigated the inflation risk and curbed the resulting political blowback, while still erring on doing too much. For example, the excessively large state and local aid could have been avoided by only filling gaps in tax revenue from pre-pandemic projections. Since the economy bounced back so quickly, little to no funds would be dispersed, thereby preventing the tax cuts and refunds that only intensified excess demand. Conversely, if the economy had experienced a slow recovery, a larger portion of funds would have been distributed to cover the deficit."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 15778581,
+    "parent_children": 20,
+    "thread_id": 15778581,
+    "thread_children": 20,
+    "ratio_recv": -1,
+    "ratio_give": -18,
+    "grade_level": 12.6,
+    "word_count": 95
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15783295,
+    "top_level": false,
+    "date": "May 09 2023 09:21",
+    "likes": 6,
+    "timestamp": 1683638509,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, I believe that there is a fair amount overlap between SB and ACX readers. I counted 733 subscribers that have commented on both sites. For context, SB has 5,427 unique commentators and ACX has 12,855. Of course this ignores subscribers that don't comment, which we can't estimate using available data."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 15781908,
+    "parent_children": 9,
+    "thread_id": 15778549,
+    "thread_children": 101,
+    "ratio_recv": 7,
+    "ratio_give": -8,
+    "grade_level": 5.9,
+    "word_count": 51
+  },
+  {
     "post_id": 118908600,
     "title": "Mailbag of Angels",
     "canonical_url": "https://www.slowboring.com/p/mailbag-of-angels",
@@ -16167,6 +16412,48 @@ window._comments = [
     "word_count": 18
   },
   {
+    "post_id": 118595983,
+    "title": "Is Los Angeles underrated?",
+    "canonical_url": "https://www.slowboring.com/p/is-los-angeles-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15736704,
+    "top_level": true,
+    "date": "May 08 2023 06:52",
+    "likes": 17,
+    "timestamp": 1683543147,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> You\u2019re probably more normal than you think\u2026 And while you could, in principle, deviate from the niche in any direction, it\u2019s likely that in practice you deviate in the direction of the general population."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is a related concept in statistics called the \u201cCurse of Dimensionality.\u201d To illustrate this, imagine you describe a sample of people by just age and income, and visualize that in a 2D plot. Most of the data points will be in the center of the figure since few people are an outlier in either age or income. Yet, if we add more dimensions, such as hours of TV per week or miles walked per month, fewer and fewer people will be in the center of this multiple-dimensional space because more and more people will be an outlier on at least one of the dimensions. Most people will still be in the center of the majority of dimensions, for each individual dimension, because most people are within the norm."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think a lot of cultural fragmentation can be explained by the ever-increasing number of dimensions that contribute to each of our identities. While we will all be an outlier on one or more dimensions with respect to the general population, or even just our friends, we should remember that we are still all quite normal across the majority of dimensions. Eg, almost all of us prefer temperate weather than extremes of hot or cold."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15736704,
+    "thread_children": 3,
+    "ratio_recv": -13,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 238
+  },
+  {
     "post_id": 116692659,
     "title": "Every policy objective, all the time, all at once",
     "canonical_url": "https://www.slowboring.com/p/every-policy-objective-all-the-time",
@@ -18398,48 +18685,6 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278
-  },
-  {
-    "post_id": 118595983,
-    "title": "Is Los Angeles underrated?",
-    "canonical_url": "https://www.slowboring.com/p/is-los-angeles-underrated",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15736704,
-    "top_level": true,
-    "date": "May 08 2023 06:52",
-    "likes": 14,
-    "timestamp": 1683543147,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> You\u2019re probably more normal than you think\u2026 And while you could, in principle, deviate from the niche in any direction, it\u2019s likely that in practice you deviate in the direction of the general population."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "There is a related concept in statistics called the \u201cCurse of Dimensionality.\u201d To illustrate this, imagine you describe a sample of people by just age and income, and visualize that in a 2D plot. Most of the data points will be in the center of the figure since few people are an outlier in either age or income. Yet, if we add more dimensions, such as hours of TV per week or miles walked per month, fewer and fewer people will be in the center of this multiple-dimensional space because more and more people will be an outlier on at least one of the dimensions. Most people will still be in the center of the majority of dimensions, for each individual dimension, because most people are within the norm."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I think a lot of cultural fragmentation can be explained by the ever-increasing number of dimensions that contribute to each of our identities. While we will all be an outlier on one or more dimensions with respect to the general population, or even just our friends, we should remember that we are still all quite normal across the majority of dimensions. Eg, almost all of us prefer temperate weather than extremes of hot or cold."
-        }
-      ]
-    ],
-    "total_children": 3,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15736704,
-    "thread_children": 3,
-    "ratio_recv": -10,
-    "ratio_give": null,
-    "grade_level": 12.4,
-    "word_count": 238
   },
   {
     "post_id": 114773991,
@@ -20788,6 +21033,187 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.6,
     "word_count": 169
+  },
+  {
+    "post_id": 120093740,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-713",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15763844,
+    "top_level": false,
+    "date": "May 08 2023 18:17",
+    "likes": 11,
+    "timestamp": 1683584278,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For education in particular, Khan academy claims to be having a lot of success in their early pilot for GPT-4 AI tutors, "
+        },
+        {
+          "type": "url",
+          "value": "https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I find the following live demo quite impressive, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=rnIgnS8Susg"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, this is consistent with my experience in using vanilla GPT-4 in ChatGPT to teach myself assorted programming and tech concepts outside of my professional experience. I\u2019ve been amazed at how quickly one can learn and apply novel concepts when you have an interactive tutor that personally guides you through the process."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": 15763228,
+    "parent_children": 19,
+    "thread_id": 15761974,
+    "thread_children": 25,
+    "ratio_recv": -2,
+    "ratio_give": 5,
+    "grade_level": 20.5,
+    "word_count": 82
+  },
+  {
+    "post_id": 120093740,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-713",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15764493,
+    "top_level": false,
+    "date": "May 08 2023 18:39",
+    "likes": 9,
+    "timestamp": 1683585582,
+    "body": [
+      [],
+      [
+        {
+          "type": "text",
+          "value": "I discover inaccuracies by applying the learnings in realtime to toy problems and exercises. Same way in which I\u2019d use a book, online tutorial, or StackOverflow answer. All of these, including ChatGPT, have mistakes. By applying the advice in exercises, I can get real time feedback about what works, and ask the AI to correct any mistakes I discover."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, I have zero professional frontend programming experience. As an exercise, I used ChatGPT and GitHub Copilot (AI-autocomplete in the editor) to implement an interactive webpage to visualize some Slow Boring comment statistics using TypeScript and D3.js. I was amazed at how quickly I picked up these foreign concepts, particularly because I had previously struggled with simpler D3 visualizations many years ago."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More details on my experience with these AI coding tools in that toy project, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.substack.com/i/116814766/ai-augmented-coding-tools"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 15764064,
+    "parent_children": 5,
+    "thread_id": 15761974,
+    "thread_children": 25,
+    "ratio_recv": -7,
+    "ratio_give": 4,
+    "grade_level": 11.1,
+    "word_count": 136
+  },
+  {
+    "post_id": 120093740,
+    "title": "Matt's Mailbox",
+    "canonical_url": "https://www.slowboring.com/p/matts-mailbox-713",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15764249,
+    "top_level": false,
+    "date": "May 08 2023 18:31",
+    "likes": 5,
+    "timestamp": 1683585073,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "A lot of that seems rathe generic. I think it is more useful to instead ask something like:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> What distinguishes Matthew Yglesias as a writer? Particularly with respect to other Democrat-aligned writers of his generation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And ChatGPT-4 responds with something fairly reasonable:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Matthew Yglesias is an American journalist, blogger, and political commentator who has been influential in shaping the discourse around progressive policy and politics. While he is generally aligned with the Democratic Party, there are several aspects that distinguish him from other Democrat-aligned writers of his generation:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. Breadth of interests: Yglesias covers a wide range of topics, including economics, housing policy, urban planning, healthcare, education, and foreign policy. This wide-ranging expertise allows him to offer a more comprehensive perspective on policy issues compared to some of his contemporaries who may focus on narrower areas."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. Wonkish approach: Yglesias is known for his detailed, data-driven analysis of policy issues, which sets him apart from some other writers who might focus more on the political or cultural aspects of a story. His wonkish approach often provides readers with a more nuanced understanding of policy debates."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3. Pragmatism: While Yglesias is aligned with the Democratic Party, he often takes a pragmatic approach to policy discussions, highlighting areas where compromise might be possible or advocating for more incremental changes. This can differentiate him from some writers who may advocate for more ideologically-driven positions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "4. Willingness to challenge orthodoxy: Yglesias is not afraid to critique or challenge the prevailing wisdom within the Democratic Party, which sets him apart from some writers who may be more inclined to toe the party line. This willingness to question conventional wisdom can result in fresh insights and original perspectives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "5. Engaging writing style: Yglesias is known for his clear and accessible writing style, which can make complex policy issues more understandable for a wider audience. This approachability helps to differentiate him from some other political writers, whose work may be more academic or difficult for the general reader to engage with."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "6. Online presence: Yglesias has a strong presence across various digital platforms, including Twitter and his own newsletter, Slow Boring. This enables him to engage with readers and share his thoughts in real-time, setting him apart from some of his contemporaries who may have a more traditional or limited online presence."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 15762410,
+    "parent_children": 7,
+    "thread_id": 15762410,
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": 3,
+    "grade_level": 13.3,
+    "word_count": 385
   },
   {
     "post_id": 113488945,
