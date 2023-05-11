@@ -10054,6 +10054,415 @@ window._comments = [
     "word_count": 224
   },
   {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823256,
+    "top_level": true,
+    "date": "May 10 2023 06:31",
+    "likes": 25,
+    "timestamp": 1683714685,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> open people\u2019s hearts to the argument for a more cautious approach to the runaway development of AI"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I struggle to square this call to regulate AI development with the rest of the article that lists numerous ways in which short-sighted regulation has hobbled our advancements in the physical world. If such regulation were even possible, would it not just recreate the same situation we currently face with nuclear power? Ie, an incredibly powerful technology, irrationally restrained by superstitious fears."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But even more fundamentally, regulating AI is a fool's errand. Chiefly because there\u2019s already been extremely fast progress in the development of open source AI models that can run on consumer grade hardware, including both image generation [1] and large language models. [2] Ie, anyone can spend a few thousand dollars on a graphics card and start using these tools today, independently. These methods will only improve in capabilities and computational efficiency, while the associated hardware gets cheaper and more powerful. AI will thereby become increasingly available to run locally for anyone with a computer or phone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019re never gonna stop deepfakes nor spam bots since unscrupulous actors will just ignore any regulations. At best regulation can prevent reputable firms from commercializing these technologies. Yet I think we should prefer large, well-resourced firms, with reputations to maintain and legal liabilities to minimize, lead the rollout of these novel technologies. The alternative is people seeking out unregulated, open-source AI tools that they can run locally should regulation exclude corporate commercialization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, adaptation is our only option for managing AI advancements. We cannot stop bad actors, but instead we\u2019ll need to adjust our own behavior to mitigate their harm. Eg, put zero trust in images, audio, and video that isn\u2019t directly reported by reputable sources. Similarly, each institution and individual needs to be thoughtful in their experimentation and rollout of AI technologies, including managing the downsides for their unique risk profile."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/CompVis/stable-diffusion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/tloen/alpaca-lora"
+        }
+      ]
+    ],
+    "total_children": 35,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823256,
+    "thread_children": 35,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 13.5,
+    "word_count": 320
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823527,
+    "top_level": true,
+    "date": "May 10 2023 06:44",
+    "likes": 21,
+    "timestamp": 1683715497,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI can, and likely will, have a massive economic impact because it offers us a pathway to finally conquer Baumol's cost disease. So many of our largest expenses, notably healthcare and education, are services with costs dominated by labor. Unlike goods manufacturing, services have previously proven resistant to capital-labor substitution. Yet with AI, we can finally perform that replacement and drop costs by orders of magnitude, while expanding availability, quality, and consistency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There could be numerous downstream economic benefits. For example, housing costs in large metro areas could fall because we no longer need to concentrate so many people in specific cities for the benefits of agglomeration. Additionally, the massive drop in costs of providing these services could make utopian pipe dream ideas like UBI an actual possibility."
+        }
+      ]
+    ],
+    "total_children": 29,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823527,
+    "thread_children": 29,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 128
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15824808,
+    "top_level": false,
+    "date": "May 10 2023 07:40",
+    "likes": 10,
+    "timestamp": 1683718856,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI tutoring is fundamentally different from MOOCs because it is interactive. It adapts itself to the specific challenges faced by each individual student rather than provide a one-size-fits-all solution. Everyone can go at their own pace, including further exploring areas of strength while developing weakness in other domains without being overwhelmed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Just see the unprecedented early success that Khan academy is having in their pilot of GPT-4 AI tutors, "
+        },
+        {
+          "type": "url",
+          "value": "https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think you\u2019ll find their live demo quite impressive, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=rnIgnS8Susg"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, I myself became a believer by using ChatGPT to teach myself several programming and tech concepts outside of my professional experience. I\u2019ve been amazed at how quickly one can learn and apply novel concepts when you have an interactiveAI  tutor that personally guides you through the process."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I had previously tried to approach these topics using online tutorials, and at times even books, but I found that dreadfully slow and tedious. With ChatGPT, could I ask specific questions and get consistently high quality and helpful answers. The error rate was quite low and I could always ask the AI to correct specific problems I encountered with its initial solution."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 15824483,
+    "parent_children": 12,
+    "thread_id": 15823527,
+    "thread_children": 29,
+    "ratio_recv": -3,
+    "ratio_give": 0,
+    "grade_level": 13.6,
+    "word_count": 188
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15825005,
+    "top_level": false,
+    "date": "May 10 2023 07:48",
+    "likes": 7,
+    "timestamp": 1683719304,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Napster and associated pirating resources weren\u2019t killed by law enforcement and regulation, but instead by streaming service competition. Spotify, Netflix, and their follow on competitors simply offered a better product at an acceptably low cost. Even Apple\u2019s early innovation of individual song purchases in the iTune Store stole a ton of thunder from piracy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think you are drastically underestimating the challenges in eliminating open-source AIs because they are literally just information. And unlike piracy, we can\u2019t use copyright as a justification for law enforcement action. Any attempt to regulate their distribution would immediately face a 1st amendment challenge and be tied up in the courts for years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In the unlikely event regulations are found to be constitutional, we\u2019ll still face the same issue as piracy; without a legal alternative, illicit material will proliferate through peer-to-peer distribution. We\u2019d basically need CCP-level internet filtering to stamp that out."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 15824751,
+    "parent_children": 4,
+    "thread_id": 15823256,
+    "thread_children": 35,
+    "ratio_recv": -6,
+    "ratio_give": 5,
+    "grade_level": 12.8,
+    "word_count": 147
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823723,
+    "top_level": true,
+    "date": "May 10 2023 06:55",
+    "likes": 7,
+    "timestamp": 1683716116,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The numerous political challenges listed in the article (eg, regulating nuclear power and zoning) don\u2019t even seem to be particularly salient issues in our general political discourse. That\u2019s likely because these aren\u2019t pressing issues for large segments of the American voters. We\u2019re just an extremely rich country, and therefore many of our politics are post material."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, because so many of us are relatively rich and comfortable, we are tempted by status quo bias. Sure, maybe things could be better, possibly primarily for some other people that we ostentatiously care about, but we certainly don\u2019t want to risk losing all the great stuff we currently have."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So maybe it would be sensible to accept our political gridlock with respect to the physical world? Maybe we should even embrace our post-material politics and see just how weird and fascinating things can get."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823723,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 141
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15824592,
+    "top_level": false,
+    "date": "May 10 2023 07:33",
+    "likes": 6,
+    "timestamp": 1683718385,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, people will still be needed to perform physical actions in many areas for the foreseeable future. Yet, AI will allow us to de-skill these roles and thereby reduce the costs. Eg, we\u2019ll need fewer doctors and can instead leverage more nurses and technicians when AI is making the vast majority of medical decisions, with doctors primarily playing the role of reviewing major ones. We can\u2019t do anything to improve daycare efficiency for the time being, but that is already an unskilled role. Similarly, it\u2019s possible education could use more low or unskilled labor if AI can provide domain-specific expertise for teaching."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, the cost efficiency of many other services can be improved when we expand the pool of labor for these industries by eliminating numerous roles in other industries through AI capital-labor substitutions. Eg, there is currently a shortage of care workers for the elderly and we could greatly expand that labor pool if we eliminated the mass majority of administrators across numerous institutions like higher education."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 15824250,
+    "parent_children": 6,
+    "thread_id": 15823527,
+    "thread_children": 29,
+    "ratio_recv": -5,
+    "ratio_give": 2,
+    "grade_level": 13.8,
+    "word_count": 168
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15825068,
+    "top_level": false,
+    "date": "May 10 2023 07:50",
+    "likes": 4,
+    "timestamp": 1683719428,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI can already match doctor performance in answering medical questions. Specifically, Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/pdf/2212.13138.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They basically had a large language model answer some common medical questions. They also had a group of doctors answer the same questions. Then yet another group of doctors evaluated the quality of answers from both AI and humans, without knowing the source of the answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Results summarized in, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/emollick/status/1610378527110533120"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Extraordinary new paper from Google on medicine & AI: When Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 15824799,
+    "parent_children": 3,
+    "thread_id": 15823527,
+    "thread_children": 29,
+    "ratio_recv": -3,
+    "ratio_give": 3,
+    "grade_level": 9.4,
+    "word_count": 110
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15835509,
+    "top_level": false,
+    "date": "May 10 2023 12:04",
+    "likes": 2,
+    "timestamp": 1683734666,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Bing Chat is a good starting point because it's free and it can search the internet to leverage current info from credible sources. It may still require using the Microsoft Edge browser. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bing.com/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT free-edition can provide longer answers, and continue chats for longer. "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Paid edition ($20/mo) unlocks the more powerful GPT4 model. I wouldn\u2019t start paying for anything until you\u2019ve experimented with free options."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a more in-depth overview of the different AI chat options and how to best use each. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff"
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 15833950,
+    "parent_children": 7,
+    "thread_id": 15823527,
+    "thread_children": 29,
+    "ratio_recv": -2,
+    "ratio_give": 1,
+    "grade_level": 7.4,
+    "word_count": 81
+  },
+  {
     "post_id": 108162136,
     "title": "America needs more giant banks",
     "canonical_url": "https://www.slowboring.com/p/america-needs-more-giant-banks",
@@ -11296,6 +11705,251 @@ window._comments = [
     "word_count": 68
   },
   {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779005,
+    "top_level": true,
+    "date": "May 09 2023 06:50",
+    "likes": 23,
+    "timestamp": 1683629403,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "David Sirota, Robert Reich, and other left-branded influencers will always find a way to blame corporations and capitalism for whatever salient problem is in the discourse. Should we have implemented price controls and voters were outraged over the resulting shortages, then these charlatans could easily manufacture a deluge of conspiracy theories to indict corporate America."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, they are primarily responding to the incentives of their audience capture. There is simply a strong demand among a segment of media consumers for anti-capitalism content. Sirota and Reich are no different from Tucker Carlson in this aspect, as they are all preaching to the converted."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similar to Carlson, left-branded economic misinformation can rarely be corrected through debunking and fact-checking. Those endeavors may be useful for saving some people from falling down into the rabbit hole of lies. But in general, most people consuming this content already believe and are simply looking for a reaffirmation of their world view."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, the best we can hope for is that the good-old-fashioned leftist circular firing squad continues to keep fragmenting and dividing their audience. For example, there must be a strong opportunity for a young and ambitious influencer to develop their Marx-ish brand by attacking Sirota from the left, and thereby gain some likes and patreon supporters."
+        }
+      ]
+    ],
+    "total_children": 25,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15779005,
+    "thread_children": 25,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 213
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779767,
+    "top_level": false,
+    "date": "May 09 2023 07:26",
+    "likes": 13,
+    "timestamp": 1683631576,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Should we have a Marxist revolution in America, then within years the same people will be complaining about the injustices of collective economics as they labor in the People\u2019s warehouses. They\u2019ll fantasize about how rich and successful they\u2019d be as entrepreneurs in a proper capitalistic economy. Jeff Bezos, our Logistics Commissar, will still be running an Amazon-esque enterprise and enjoying regular vacations on one of the People\u2019s megayachts. "
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15779618,
+    "parent_children": 5,
+    "thread_id": 15779005,
+    "thread_children": 25,
+    "ratio_recv": -9,
+    "ratio_give": 1,
+    "grade_level": 13.4,
+    "word_count": 69
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15780234,
+    "top_level": false,
+    "date": "May 09 2023 07:46",
+    "likes": 11,
+    "timestamp": 1683632799,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I am regularly reminded of my commitment to consume content that challenges my worldview because I\u2019m a paid subscriber to both Andrew Sullivan and Bari Weiss\u2019s The Free Press."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I have at times subscribed to Freddie deBoer, but his recent self-beclowning in lazily criticizing large-language-model AI capabilities compelled me to cancel that one for a few months. [1] For context, he highlighted failures of ChatGPT, but he used the GPT3.5 model and his subscribers quickly demonstrated how GPT4 properly handles each of those cases. I just can\u2019t financially support such indolent work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://freddiedeboer.substack.com/p/theory-of-the-world-theory-of-mind/comments"
+        }
+      ],
+      []
+    ],
+    "total_children": 5,
+    "parent_id": 15779843,
+    "parent_children": 7,
+    "thread_id": 15779005,
+    "thread_children": 25,
+    "ratio_recv": -4,
+    "ratio_give": 5,
+    "grade_level": 10.6,
+    "word_count": 94
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779439,
+    "top_level": false,
+    "date": "May 09 2023 07:12",
+    "likes": 10,
+    "timestamp": 1683630726,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Companies are always attempting to charge the highest price that they can. In a supply-constrained environment with excess demand, they can increase prices without losing market share because no one else can substantially increase their own output sufficiently fast. Our problem is that demand grew far too quickly, due to overly stimulative fiscal and macroeconomic policies, for supply to keep up. Things are normalizing and in time that will include profit margins."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 15779309,
+    "parent_children": 11,
+    "thread_id": 15778762,
+    "thread_children": 28,
+    "ratio_recv": -6,
+    "ratio_give": 9,
+    "grade_level": 10.3,
+    "word_count": 72
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779358,
+    "top_level": false,
+    "date": "May 09 2023 07:08",
+    "likes": 10,
+    "timestamp": 1683630505,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The left-ish misinformation peddlers and their deluded audiences are counterproductive to achieving those goals, goals which I share. Eg, \u201cstick it to the 1%\u201d is a distraction from the actual political-economic reforms needed to construct a Western European style welfare state. That requires broad increases in taxes to move substantial resources from private consumption into the provisioning of public goods."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 15779125,
+    "parent_children": 14,
+    "thread_id": 15779005,
+    "thread_children": 25,
+    "ratio_recv": -9,
+    "ratio_give": 8,
+    "grade_level": 13.5,
+    "word_count": 60
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15779252,
+    "top_level": false,
+    "date": "May 09 2023 07:03",
+    "likes": 9,
+    "timestamp": 1683630195,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but better policy design would have mitigated the inflation risk and curbed the resulting political blowback, while still erring on doing too much. For example, the excessively large state and local aid could have been avoided by only filling gaps in tax revenue from pre-pandemic projections. Since the economy bounced back so quickly, little to no funds would be dispersed, thereby preventing the tax cuts and refunds that only intensified excess demand. Conversely, if the economy had experienced a slow recovery, a larger portion of funds would have been distributed to cover the deficit."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 15778581,
+    "parent_children": 20,
+    "thread_id": 15778581,
+    "thread_children": 20,
+    "ratio_recv": 0,
+    "ratio_give": -18,
+    "grade_level": 12.6,
+    "word_count": 95
+  },
+  {
+    "post_id": 119561942,
+    "title": "Greedflation is still fake",
+    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15783295,
+    "top_level": false,
+    "date": "May 09 2023 09:21",
+    "likes": 6,
+    "timestamp": 1683638509,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, I believe that there is a fair amount overlap between SB and ACX readers. I counted 733 subscribers that have commented on both sites. For context, SB has 5,427 unique commentators and ACX has 12,855. Of course this ignores subscribers that don't comment, which we can't estimate using available data."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 15781908,
+    "parent_children": 9,
+    "thread_id": 15778549,
+    "thread_children": 102,
+    "ratio_recv": 8,
+    "ratio_give": -8,
+    "grade_level": 5.9,
+    "word_count": 51
+  },
+  {
     "post_id": 102437209,
     "title": "The once and future carbon tax",
     "canonical_url": "https://www.slowboring.com/p/the-once-and-future-carbon-tax",
@@ -11654,251 +12308,6 @@ window._comments = [
     "ratio_give": 18,
     "grade_level": 11.5,
     "word_count": 268
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15779005,
-    "top_level": true,
-    "date": "May 09 2023 06:50",
-    "likes": 22,
-    "timestamp": 1683629403,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "David Sirota, Robert Reich, and other left-branded influencers will always find a way to blame corporations and capitalism for whatever salient problem is in the discourse. Should we have implemented price controls and voters were outraged over the resulting shortages, then these charlatans could easily manufacture a deluge of conspiracy theories to indict corporate America."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Further, they are primarily responding to the incentives of their audience capture. There is simply a strong demand among a segment of media consumers for anti-capitalism content. Sirota and Reich are no different from Tucker Carlson in this aspect, as they are all preaching to the converted."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Similar to Carlson, left-branded economic misinformation can rarely be corrected through debunking and fact-checking. Those endeavors may be useful for saving some people from falling down into the rabbit hole of lies. But in general, most people consuming this content already believe and are simply looking for a reaffirmation of their world view."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "In my opinion, the best we can hope for is that the good-old-fashioned leftist circular firing squad continues to keep fragmenting and dividing their audience. For example, there must be a strong opportunity for a young and ambitious influencer to develop their Marx-ish brand by attacking Sirota from the left, and thereby gain some likes and patreon supporters."
-        }
-      ]
-    ],
-    "total_children": 24,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15779005,
-    "thread_children": 24,
-    "ratio_recv": -6,
-    "ratio_give": null,
-    "grade_level": 12.8,
-    "word_count": 213
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15779767,
-    "top_level": false,
-    "date": "May 09 2023 07:26",
-    "likes": 12,
-    "timestamp": 1683631576,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yep. Should we have a Marxist revolution in America, then within years the same people will be complaining about the injustices of collective economics as they labor in the People\u2019s warehouses. They\u2019ll fantasize about how rich and successful they\u2019d be as entrepreneurs in a proper capitalistic economy. Jeff Bezos, our Logistics Commissar, will still be running an Amazon-esque enterprise and enjoying regular vacations on one of the People\u2019s megayachts. "
-        }
-      ]
-    ],
-    "total_children": 2,
-    "parent_id": 15779618,
-    "parent_children": 5,
-    "thread_id": 15779005,
-    "thread_children": 24,
-    "ratio_recv": -8,
-    "ratio_give": 1,
-    "grade_level": 13.4,
-    "word_count": 69
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15780234,
-    "top_level": false,
-    "date": "May 09 2023 07:46",
-    "likes": 10,
-    "timestamp": 1683632799,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yes, I am regularly reminded of my commitment to consume content that challenges my worldview because I\u2019m a paid subscriber to both Andrew Sullivan and Bari Weiss\u2019s The Free Press."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I have at times subscribed to Freddie deBoer, but his recent self-beclowning in lazily criticizing large-language-model AI capabilities compelled me to cancel that one for a few months. [1] For context, he highlighted failures of ChatGPT, but he used the GPT3.5 model and his subscribers quickly demonstrated how GPT4 properly handles each of those cases. I just can\u2019t financially support such indolent work."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://freddiedeboer.substack.com/p/theory-of-the-world-theory-of-mind/comments"
-        }
-      ],
-      []
-    ],
-    "total_children": 5,
-    "parent_id": 15779843,
-    "parent_children": 6,
-    "thread_id": 15779005,
-    "thread_children": 24,
-    "ratio_recv": -4,
-    "ratio_give": 5,
-    "grade_level": 10.6,
-    "word_count": 94
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15779439,
-    "top_level": false,
-    "date": "May 09 2023 07:12",
-    "likes": 10,
-    "timestamp": 1683630726,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Companies are always attempting to charge the highest price that they can. In a supply-constrained environment with excess demand, they can increase prices without losing market share because no one else can substantially increase their own output sufficiently fast. Our problem is that demand grew far too quickly, due to overly stimulative fiscal and macroeconomic policies, for supply to keep up. Things are normalizing and in time that will include profit margins."
-        }
-      ]
-    ],
-    "total_children": 10,
-    "parent_id": 15779309,
-    "parent_children": 11,
-    "thread_id": 15778762,
-    "thread_children": 28,
-    "ratio_recv": -6,
-    "ratio_give": 9,
-    "grade_level": 10.3,
-    "word_count": 72
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15779358,
-    "top_level": false,
-    "date": "May 09 2023 07:08",
-    "likes": 9,
-    "timestamp": 1683630505,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "The left-ish misinformation peddlers and their deluded audiences are counterproductive to achieving those goals, goals which I share. Eg, \u201cstick it to the 1%\u201d is a distraction from the actual political-economic reforms needed to construct a Western European style welfare state. That requires broad increases in taxes to move substantial resources from private consumption into the provisioning of public goods."
-        }
-      ]
-    ],
-    "total_children": 7,
-    "parent_id": 15779125,
-    "parent_children": 14,
-    "thread_id": 15779005,
-    "thread_children": 24,
-    "ratio_recv": -8,
-    "ratio_give": 7,
-    "grade_level": 13.5,
-    "word_count": 60
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15779252,
-    "top_level": false,
-    "date": "May 09 2023 07:03",
-    "likes": 8,
-    "timestamp": 1683630195,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yes, but better policy design would have mitigated the inflation risk and curbed the resulting political blowback, while still erring on doing too much. For example, the excessively large state and local aid could have been avoided by only filling gaps in tax revenue from pre-pandemic projections. Since the economy bounced back so quickly, little to no funds would be dispersed, thereby preventing the tax cuts and refunds that only intensified excess demand. Conversely, if the economy had experienced a slow recovery, a larger portion of funds would have been distributed to cover the deficit."
-        }
-      ]
-    ],
-    "total_children": 5,
-    "parent_id": 15778581,
-    "parent_children": 20,
-    "thread_id": 15778581,
-    "thread_children": 20,
-    "ratio_recv": -1,
-    "ratio_give": -18,
-    "grade_level": 12.6,
-    "word_count": 95
-  },
-  {
-    "post_id": 119561942,
-    "title": "Greedflation is still fake",
-    "canonical_url": "https://www.slowboring.com/p/greedflation-is-still-fake",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15783295,
-    "top_level": false,
-    "date": "May 09 2023 09:21",
-    "likes": 6,
-    "timestamp": 1683638509,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yep, I believe that there is a fair amount overlap between SB and ACX readers. I counted 733 subscribers that have commented on both sites. For context, SB has 5,427 unique commentators and ACX has 12,855. Of course this ignores subscribers that don't comment, which we can't estimate using available data."
-        }
-      ]
-    ],
-    "total_children": 8,
-    "parent_id": 15781908,
-    "parent_children": 9,
-    "thread_id": 15778549,
-    "thread_children": 101,
-    "ratio_recv": 7,
-    "ratio_give": -8,
-    "grade_level": 5.9,
-    "word_count": 51
   },
   {
     "post_id": 118908600,
@@ -16448,7 +16857,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 15736704,
     "thread_children": 3,
-    "ratio_recv": -13,
+    "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 238
