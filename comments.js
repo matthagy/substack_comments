@@ -4834,6 +4834,112 @@ window._comments = [
     "word_count": 341
   },
   {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16169126,
+    "top_level": false,
+    "date": "May 16 2023 06:40",
+    "likes": 37,
+    "timestamp": 1684233652,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No. Just look at how poorly that worked out for Democrats in 1968 when LBJ opted out of running for another term. Similar to then, Democrats have a broad and, at times, fragmented coalition. We'd once again have a vicious primary cycle leading to a fractured and disappointed voter base. Further, I don't believe any other Democrat could adopt Biden's moderate positioning and message and then win the primary."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 16168832,
+    "parent_children": 73,
+    "thread_id": 16168832,
+    "thread_children": 73,
+    "ratio_recv": -33,
+    "ratio_give": 30,
+    "grade_level": 8.9,
+    "word_count": 69
+  },
+  {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16168991,
+    "top_level": true,
+    "date": "May 16 2023 06:33",
+    "likes": 21,
+    "timestamp": 1684233239,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The point is, CNN really wants you to be in a headspace where you believe some form of engaging with CNN \u2014 watching CNN, getting mad at CNN, posting about CNN \u2014 is an important thing to do in the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree with this framing in terms of marketing for paid subscription, particularly, \u201cThe New York Times and especially the Washington Post marketed newspaper subscriptions as a form of resistance.\u201d But I think CNN and Fox News aren\u2019t aiming for such high-minded branding. Instead, I think they are just striving to create addictive content, similar to social media algorithmic feeds."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These cable networks are in fierce competition with social media, alternative media outlets, and even streaming platforms for peoples\u2019 limited attention in a world of infinite content. And with ads being essential to the funding, it is all about scale. Trump is just amazing content, driving compulsive viewing from haters and lovers alike."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16168991,
+    "thread_children": 8,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 152
+  },
+  {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16176872,
+    "top_level": false,
+    "date": "May 16 2023 10:22",
+    "likes": 1,
+    "timestamp": 1684246974,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think MSNBC is aided by the fact that \u201creality has a well known liberal bias\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=UwLjK9LFpeo"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 16175317,
+    "parent_children": 6,
+    "thread_id": 16169787,
+    "thread_children": 69,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 7.2,
+    "word_count": 16
+  },
+  {
     "post_id": 113281478,
     "title": "Almost half of American counties have shrinking population",
     "canonical_url": "https://www.slowboring.com/p/almost-half-of-american-counties",
@@ -8602,6 +8708,415 @@ window._comments = [
     "word_count": 30
   },
   {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823256,
+    "top_level": true,
+    "date": "May 10 2023 06:31",
+    "likes": 28,
+    "timestamp": 1683714685,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> open people\u2019s hearts to the argument for a more cautious approach to the runaway development of AI"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I struggle to square this call to regulate AI development with the rest of the article that lists numerous ways in which short-sighted regulation has hobbled our advancements in the physical world. If such regulation were even possible, would it not just recreate the same situation we currently face with nuclear power? Ie, an incredibly powerful technology, irrationally restrained by superstitious fears."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But even more fundamentally, regulating AI is a fool's errand. Chiefly because there\u2019s already been extremely fast progress in the development of open source AI models that can run on consumer grade hardware, including both image generation [1] and large language models. [2] Ie, anyone can spend a few thousand dollars on a graphics card and start using these tools today, independently. These methods will only improve in capabilities and computational efficiency, while the associated hardware gets cheaper and more powerful. AI will thereby become increasingly available to run locally for anyone with a computer or phone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019re never gonna stop deepfakes nor spam bots since unscrupulous actors will just ignore any regulations. At best regulation can prevent reputable firms from commercializing these technologies. Yet I think we should prefer large, well-resourced firms, with reputations to maintain and legal liabilities to minimize, lead the rollout of these novel technologies. The alternative is people seeking out unregulated, open-source AI tools that they can run locally should regulation exclude corporate commercialization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately, adaptation is our only option for managing AI advancements. We cannot stop bad actors, but instead we\u2019ll need to adjust our own behavior to mitigate their harm. Eg, put zero trust in images, audio, and video that isn\u2019t directly reported by reputable sources. Similarly, each institution and individual needs to be thoughtful in their experimentation and rollout of AI technologies, including managing the downsides for their unique risk profile."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/CompVis/stable-diffusion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/tloen/alpaca-lora"
+        }
+      ]
+    ],
+    "total_children": 36,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823256,
+    "thread_children": 36,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 13.5,
+    "word_count": 320
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823527,
+    "top_level": true,
+    "date": "May 10 2023 06:44",
+    "likes": 22,
+    "timestamp": 1683715497,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI can, and likely will, have a massive economic impact because it offers us a pathway to finally conquer Baumol's cost disease. So many of our largest expenses, notably healthcare and education, are services with costs dominated by labor. Unlike goods manufacturing, services have previously proven resistant to capital-labor substitution. Yet with AI, we can finally perform that replacement and drop costs by orders of magnitude, while expanding availability, quality, and consistency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There could be numerous downstream economic benefits. For example, housing costs in large metro areas could fall because we no longer need to concentrate so many people in specific cities for the benefits of agglomeration. Additionally, the massive drop in costs of providing these services could make utopian pipe dream ideas like UBI an actual possibility."
+        }
+      ]
+    ],
+    "total_children": 31,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823527,
+    "thread_children": 31,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 128
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15824808,
+    "top_level": false,
+    "date": "May 10 2023 07:40",
+    "likes": 11,
+    "timestamp": 1683718856,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI tutoring is fundamentally different from MOOCs because it is interactive. It adapts itself to the specific challenges faced by each individual student rather than provide a one-size-fits-all solution. Everyone can go at their own pace, including further exploring areas of strength while developing weakness in other domains without being overwhelmed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Just see the unprecedented early success that Khan academy is having in their pilot of GPT-4 AI tutors, "
+        },
+        {
+          "type": "url",
+          "value": "https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think you\u2019ll find their live demo quite impressive, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=rnIgnS8Susg"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, I myself became a believer by using ChatGPT to teach myself several programming and tech concepts outside of my professional experience. I\u2019ve been amazed at how quickly one can learn and apply novel concepts when you have an interactiveAI  tutor that personally guides you through the process."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I had previously tried to approach these topics using online tutorials, and at times even books, but I found that dreadfully slow and tedious. With ChatGPT, could I ask specific questions and get consistently high quality and helpful answers. The error rate was quite low and I could always ask the AI to correct specific problems I encountered with its initial solution."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 15824483,
+    "parent_children": 12,
+    "thread_id": 15823527,
+    "thread_children": 31,
+    "ratio_recv": -3,
+    "ratio_give": 0,
+    "grade_level": 13.6,
+    "word_count": 188
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15823723,
+    "top_level": true,
+    "date": "May 10 2023 06:55",
+    "likes": 9,
+    "timestamp": 1683716116,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The numerous political challenges listed in the article (eg, regulating nuclear power and zoning) don\u2019t even seem to be particularly salient issues in our general political discourse. That\u2019s likely because these aren\u2019t pressing issues for large segments of the American voters. We\u2019re just an extremely rich country, and therefore many of our politics are post material."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, because so many of us are relatively rich and comfortable, we are tempted by status quo bias. Sure, maybe things could be better, possibly primarily for some other people that we ostentatiously care about, but we certainly don\u2019t want to risk losing all the great stuff we currently have."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So maybe it would be sensible to accept our political gridlock with respect to the physical world? Maybe we should even embrace our post-material politics and see just how weird and fascinating things can get."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15823723,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 141
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15825005,
+    "top_level": false,
+    "date": "May 10 2023 07:48",
+    "likes": 7,
+    "timestamp": 1683719304,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Napster and associated pirating resources weren\u2019t killed by law enforcement and regulation, but instead by streaming service competition. Spotify, Netflix, and their follow on competitors simply offered a better product at an acceptably low cost. Even Apple\u2019s early innovation of individual song purchases in the iTune Store stole a ton of thunder from piracy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think you are drastically underestimating the challenges in eliminating open-source AIs because they are literally just information. And unlike piracy, we can\u2019t use copyright as a justification for law enforcement action. Any attempt to regulate their distribution would immediately face a 1st amendment challenge and be tied up in the courts for years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In the unlikely event regulations are found to be constitutional, we\u2019ll still face the same issue as piracy; without a legal alternative, illicit material will proliferate through peer-to-peer distribution. We\u2019d basically need CCP-level internet filtering to stamp that out."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 15824751,
+    "parent_children": 4,
+    "thread_id": 15823256,
+    "thread_children": 36,
+    "ratio_recv": -6,
+    "ratio_give": 5,
+    "grade_level": 12.8,
+    "word_count": 147
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15824592,
+    "top_level": false,
+    "date": "May 10 2023 07:33",
+    "likes": 6,
+    "timestamp": 1683718385,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, people will still be needed to perform physical actions in many areas for the foreseeable future. Yet, AI will allow us to de-skill these roles and thereby reduce the costs. Eg, we\u2019ll need fewer doctors and can instead leverage more nurses and technicians when AI is making the vast majority of medical decisions, with doctors primarily playing the role of reviewing major ones. We can\u2019t do anything to improve daycare efficiency for the time being, but that is already an unskilled role. Similarly, it\u2019s possible education could use more low or unskilled labor if AI can provide domain-specific expertise for teaching."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, the cost efficiency of many other services can be improved when we expand the pool of labor for these industries by eliminating numerous roles in other industries through AI capital-labor substitutions. Eg, there is currently a shortage of care workers for the elderly and we could greatly expand that labor pool if we eliminated the mass majority of administrators across numerous institutions like higher education."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 15824250,
+    "parent_children": 6,
+    "thread_id": 15823527,
+    "thread_children": 31,
+    "ratio_recv": -5,
+    "ratio_give": 1,
+    "grade_level": 13.8,
+    "word_count": 168
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15825068,
+    "top_level": false,
+    "date": "May 10 2023 07:50",
+    "likes": 4,
+    "timestamp": 1683719428,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "AI can already match doctor performance in answering medical questions. Specifically, Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/pdf/2212.13138.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They basically had a large language model answer some common medical questions. They also had a group of doctors answer the same questions. Then yet another group of doctors evaluated the quality of answers from both AI and humans, without knowing the source of the answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Results summarized in, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/emollick/status/1610378527110533120"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Extraordinary new paper from Google on medicine & AI: When Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 15824799,
+    "parent_children": 3,
+    "thread_id": 15823527,
+    "thread_children": 31,
+    "ratio_recv": -3,
+    "ratio_give": 3,
+    "grade_level": 9.4,
+    "word_count": 110
+  },
+  {
+    "post_id": 119499796,
+    "title": "I'm skeptical that powerful AI will solve major human problems",
+    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15835509,
+    "top_level": false,
+    "date": "May 10 2023 12:04",
+    "likes": 3,
+    "timestamp": 1683734666,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Bing Chat is a good starting point because it's free and it can search the internet to leverage current info from credible sources. It may still require using the Microsoft Edge browser. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bing.com/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT free-edition can provide longer answers, and continue chats for longer. "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Paid edition ($20/mo) unlocks the more powerful GPT4 model. I wouldn\u2019t start paying for anything until you\u2019ve experimented with free options."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a more in-depth overview of the different AI chat options and how to best use each. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff"
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 15833950,
+    "parent_children": 7,
+    "thread_id": 15823527,
+    "thread_children": 31,
+    "ratio_recv": -3,
+    "ratio_give": 2,
+    "grade_level": 7.4,
+    "word_count": 81
+  },
+  {
     "post_id": 88818373,
     "title": "We should pair marijuana legalization with tougher rules on booze",
     "canonical_url": "https://www.slowboring.com/p/we-should-pair-marijuana-legalization",
@@ -10054,415 +10569,6 @@ window._comments = [
     "word_count": 224
   },
   {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15823256,
-    "top_level": true,
-    "date": "May 10 2023 06:31",
-    "likes": 25,
-    "timestamp": 1683714685,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> open people\u2019s hearts to the argument for a more cautious approach to the runaway development of AI"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I struggle to square this call to regulate AI development with the rest of the article that lists numerous ways in which short-sighted regulation has hobbled our advancements in the physical world. If such regulation were even possible, would it not just recreate the same situation we currently face with nuclear power? Ie, an incredibly powerful technology, irrationally restrained by superstitious fears."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "But even more fundamentally, regulating AI is a fool's errand. Chiefly because there\u2019s already been extremely fast progress in the development of open source AI models that can run on consumer grade hardware, including both image generation [1] and large language models. [2] Ie, anyone can spend a few thousand dollars on a graphics card and start using these tools today, independently. These methods will only improve in capabilities and computational efficiency, while the associated hardware gets cheaper and more powerful. AI will thereby become increasingly available to run locally for anyone with a computer or phone."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "We\u2019re never gonna stop deepfakes nor spam bots since unscrupulous actors will just ignore any regulations. At best regulation can prevent reputable firms from commercializing these technologies. Yet I think we should prefer large, well-resourced firms, with reputations to maintain and legal liabilities to minimize, lead the rollout of these novel technologies. The alternative is people seeking out unregulated, open-source AI tools that they can run locally should regulation exclude corporate commercialization."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Ultimately, adaptation is our only option for managing AI advancements. We cannot stop bad actors, but instead we\u2019ll need to adjust our own behavior to mitigate their harm. Eg, put zero trust in images, audio, and video that isn\u2019t directly reported by reputable sources. Similarly, each institution and individual needs to be thoughtful in their experimentation and rollout of AI technologies, including managing the downsides for their unique risk profile."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[1] "
-        },
-        {
-          "type": "url",
-          "value": "https://github.com/CompVis/stable-diffusion"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "[2] "
-        },
-        {
-          "type": "url",
-          "value": "https://github.com/tloen/alpaca-lora"
-        }
-      ]
-    ],
-    "total_children": 35,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15823256,
-    "thread_children": 35,
-    "ratio_recv": 0,
-    "ratio_give": null,
-    "grade_level": 13.5,
-    "word_count": 320
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15823527,
-    "top_level": true,
-    "date": "May 10 2023 06:44",
-    "likes": 21,
-    "timestamp": 1683715497,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "AI can, and likely will, have a massive economic impact because it offers us a pathway to finally conquer Baumol's cost disease. So many of our largest expenses, notably healthcare and education, are services with costs dominated by labor. Unlike goods manufacturing, services have previously proven resistant to capital-labor substitution. Yet with AI, we can finally perform that replacement and drop costs by orders of magnitude, while expanding availability, quality, and consistency."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "There could be numerous downstream economic benefits. For example, housing costs in large metro areas could fall because we no longer need to concentrate so many people in specific cities for the benefits of agglomeration. Additionally, the massive drop in costs of providing these services could make utopian pipe dream ideas like UBI an actual possibility."
-        }
-      ]
-    ],
-    "total_children": 29,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15823527,
-    "thread_children": 29,
-    "ratio_recv": -1,
-    "ratio_give": null,
-    "grade_level": 12.8,
-    "word_count": 128
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15824808,
-    "top_level": false,
-    "date": "May 10 2023 07:40",
-    "likes": 10,
-    "timestamp": 1683718856,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "AI tutoring is fundamentally different from MOOCs because it is interactive. It adapts itself to the specific challenges faced by each individual student rather than provide a one-size-fits-all solution. Everyone can go at their own pace, including further exploring areas of strength while developing weakness in other domains without being overwhelmed."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Just see the unprecedented early success that Khan academy is having in their pilot of GPT-4 AI tutors, "
-        },
-        {
-          "type": "url",
-          "value": "https://blog.khanacademy.org/harnessing-ai-so-that-all-students-benefit-a-nonprofit-approach-for-equal-access/"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I think you\u2019ll find their live demo quite impressive, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.youtube.com/watch?v=rnIgnS8Susg"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Lastly, I myself became a believer by using ChatGPT to teach myself several programming and tech concepts outside of my professional experience. I\u2019ve been amazed at how quickly one can learn and apply novel concepts when you have an interactiveAI  tutor that personally guides you through the process."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I had previously tried to approach these topics using online tutorials, and at times even books, but I found that dreadfully slow and tedious. With ChatGPT, could I ask specific questions and get consistently high quality and helpful answers. The error rate was quite low and I could always ask the AI to correct specific problems I encountered with its initial solution."
-        }
-      ]
-    ],
-    "total_children": 11,
-    "parent_id": 15824483,
-    "parent_children": 12,
-    "thread_id": 15823527,
-    "thread_children": 29,
-    "ratio_recv": -3,
-    "ratio_give": 0,
-    "grade_level": 13.6,
-    "word_count": 188
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15825005,
-    "top_level": false,
-    "date": "May 10 2023 07:48",
-    "likes": 7,
-    "timestamp": 1683719304,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Napster and associated pirating resources weren\u2019t killed by law enforcement and regulation, but instead by streaming service competition. Spotify, Netflix, and their follow on competitors simply offered a better product at an acceptably low cost. Even Apple\u2019s early innovation of individual song purchases in the iTune Store stole a ton of thunder from piracy."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I think you are drastically underestimating the challenges in eliminating open-source AIs because they are literally just information. And unlike piracy, we can\u2019t use copyright as a justification for law enforcement action. Any attempt to regulate their distribution would immediately face a 1st amendment challenge and be tied up in the courts for years."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "In the unlikely event regulations are found to be constitutional, we\u2019ll still face the same issue as piracy; without a legal alternative, illicit material will proliferate through peer-to-peer distribution. We\u2019d basically need CCP-level internet filtering to stamp that out."
-        }
-      ]
-    ],
-    "total_children": 3,
-    "parent_id": 15824751,
-    "parent_children": 4,
-    "thread_id": 15823256,
-    "thread_children": 35,
-    "ratio_recv": -6,
-    "ratio_give": 5,
-    "grade_level": 12.8,
-    "word_count": 147
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15823723,
-    "top_level": true,
-    "date": "May 10 2023 06:55",
-    "likes": 7,
-    "timestamp": 1683716116,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "The numerous political challenges listed in the article (eg, regulating nuclear power and zoning) don\u2019t even seem to be particularly salient issues in our general political discourse. That\u2019s likely because these aren\u2019t pressing issues for large segments of the American voters. We\u2019re just an extremely rich country, and therefore many of our politics are post material."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Further, because so many of us are relatively rich and comfortable, we are tempted by status quo bias. Sure, maybe things could be better, possibly primarily for some other people that we ostentatiously care about, but we certainly don\u2019t want to risk losing all the great stuff we currently have."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "So maybe it would be sensible to accept our political gridlock with respect to the physical world? Maybe we should even embrace our post-material politics and see just how weird and fascinating things can get."
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 15823723,
-    "thread_children": 1,
-    "ratio_recv": null,
-    "ratio_give": null,
-    "grade_level": 11.1,
-    "word_count": 141
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15824592,
-    "top_level": false,
-    "date": "May 10 2023 07:33",
-    "likes": 6,
-    "timestamp": 1683718385,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Yes, people will still be needed to perform physical actions in many areas for the foreseeable future. Yet, AI will allow us to de-skill these roles and thereby reduce the costs. Eg, we\u2019ll need fewer doctors and can instead leverage more nurses and technicians when AI is making the vast majority of medical decisions, with doctors primarily playing the role of reviewing major ones. We can\u2019t do anything to improve daycare efficiency for the time being, but that is already an unskilled role. Similarly, it\u2019s possible education could use more low or unskilled labor if AI can provide domain-specific expertise for teaching."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Further, the cost efficiency of many other services can be improved when we expand the pool of labor for these industries by eliminating numerous roles in other industries through AI capital-labor substitutions. Eg, there is currently a shortage of care workers for the elderly and we could greatly expand that labor pool if we eliminated the mass majority of administrators across numerous institutions like higher education."
-        }
-      ]
-    ],
-    "total_children": 4,
-    "parent_id": 15824250,
-    "parent_children": 6,
-    "thread_id": 15823527,
-    "thread_children": 29,
-    "ratio_recv": -5,
-    "ratio_give": 2,
-    "grade_level": 13.8,
-    "word_count": 168
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15825068,
-    "top_level": false,
-    "date": "May 10 2023 07:50",
-    "likes": 4,
-    "timestamp": 1683719428,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "AI can already match doctor performance in answering medical questions. Specifically, Google shared results for a proof-of-concept in Dec 2022, \u201cLarge Language Models Encode Clinical Knowledge\u201d, "
-        },
-        {
-          "type": "url",
-          "value": "https://arxiv.org/pdf/2212.13138.pdf"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "They basically had a large language model answer some common medical questions. They also had a group of doctors answer the same questions. Then yet another group of doctors evaluated the quality of answers from both AI and humans, without knowing the source of the answer."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Results summarized in, "
-        },
-        {
-          "type": "url",
-          "value": "https://twitter.com/emollick/status/1610378527110533120"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "> Extraordinary new paper from Google on medicine & AI: When Google tuned a AI chatbot to answer common medical questions, doctors judged 92.6% of its answers right \u2026 compared to 92.9% of answers given by other doctors."
-        }
-      ],
-      []
-    ],
-    "total_children": 2,
-    "parent_id": 15824799,
-    "parent_children": 3,
-    "thread_id": 15823527,
-    "thread_children": 29,
-    "ratio_recv": -3,
-    "ratio_give": 3,
-    "grade_level": 9.4,
-    "word_count": 110
-  },
-  {
-    "post_id": 119499796,
-    "title": "I'm skeptical that powerful AI will solve major human problems",
-    "canonical_url": "https://www.slowboring.com/p/im-skeptical-that-powerful-ai-will",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 15835509,
-    "top_level": false,
-    "date": "May 10 2023 12:04",
-    "likes": 2,
-    "timestamp": 1683734666,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "Bing Chat is a good starting point because it's free and it can search the internet to leverage current info from credible sources. It may still require using the Microsoft Edge browser. "
-        },
-        {
-          "type": "url",
-          "value": "https://www.bing.com/"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "ChatGPT free-edition can provide longer answers, and continue chats for longer. "
-        },
-        {
-          "type": "url",
-          "value": "https://chat.openai.com/"
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Paid edition ($20/mo) unlocks the more powerful GPT4 model. I wouldn\u2019t start paying for anything until you\u2019ve experimented with free options."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "Here\u2019s a more in-depth overview of the different AI chat options and how to best use each. "
-        },
-        {
-          "type": "url",
-          "value": "https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff"
-        }
-      ]
-    ],
-    "total_children": 6,
-    "parent_id": 15833950,
-    "parent_children": 7,
-    "thread_id": 15823527,
-    "thread_children": 29,
-    "ratio_recv": -2,
-    "ratio_give": 1,
-    "grade_level": 7.4,
-    "word_count": 81
-  },
-  {
     "post_id": 108162136,
     "title": "America needs more giant banks",
     "canonical_url": "https://www.slowboring.com/p/america-needs-more-giant-banks",
@@ -11899,7 +12005,7 @@ window._comments = [
     "id": 15779252,
     "top_level": false,
     "date": "May 09 2023 07:03",
-    "likes": 9,
+    "likes": 10,
     "timestamp": 1683630195,
     "body": [
       [
@@ -11911,11 +12017,11 @@ window._comments = [
     ],
     "total_children": 5,
     "parent_id": 15778581,
-    "parent_children": 20,
+    "parent_children": 21,
     "thread_id": 15778581,
-    "thread_children": 20,
-    "ratio_recv": 0,
-    "ratio_give": -18,
+    "thread_children": 21,
+    "ratio_recv": -1,
+    "ratio_give": -17,
     "grade_level": 12.6,
     "word_count": 95
   },
@@ -16821,6 +16927,84 @@ window._comments = [
     "word_count": 18
   },
   {
+    "post_id": 120255006,
+    "title": "It's time for Joe Biden to buy some oil ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-for-joe-biden-to-buy-some",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15867924,
+    "top_level": false,
+    "date": "May 11 2023 07:27",
+    "likes": 17,
+    "timestamp": 1683804463,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, particularly the political spin. The excuse of institutional inertia and risk aversion just feels too convenient and forgiving. I suspect that there may instead be some continued hostility toward the domestic oil industry within parts of the administration to bail them out with a price floor."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15866903,
+    "parent_children": 14,
+    "thread_id": 15866903,
+    "thread_children": 14,
+    "ratio_recv": 9,
+    "ratio_give": -25,
+    "grade_level": 11.8,
+    "word_count": 47
+  },
+  {
+    "post_id": 120255006,
+    "title": "It's time for Joe Biden to buy some oil ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-for-joe-biden-to-buy-some",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15867412,
+    "top_level": true,
+    "date": "May 11 2023 07:05",
+    "likes": 13,
+    "timestamp": 1683803156,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> What will Joe Biden\u2019s response be if the governments of Russia, Saudi Arabia, and the United Arab Emirates spend the summer of 2024 curtailing oil production in order to spike gasoline prices and help restore Trump to power? "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Solid opening with this nightmare fuel. Yet, after hearing it laid out so clearly, this seems like a self-evident concern that someone in the administration should have identified and appropriately escalated. Just the geopolitical and national defense concerns should be sufficiently alarming, let alone the domestic politics and reelection ones."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Can institutional inertia alone fully explain this? I'm not questioning Yglesias' sources or his capacity to elucidate the issue's structure based on them. This just seems like something the administration could easily identify and correct on their own due to the high stakes of an OPEC+ oil price surge at such an inopportune time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Could there instead be something of a disagreement within the Biden administration about balancing the rivalrous concerns of geopolitics, climate, economics, and electoral politics? Perhaps this article is primarily written to lend support to the more pragmatic, technocratic faction within that fight. I mean, it\u2019s not even particularly subtle with the, \u201cI hope that someone in the White House reads this newsletter\u201d."
+        }
+      ]
+    ],
+    "total_children": 30,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15867412,
+    "thread_children": 30,
+    "ratio_recv": -5,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 204
+  },
+  {
     "post_id": 118595983,
     "title": "Is Los Angeles underrated?",
     "canonical_url": "https://www.slowboring.com/p/is-los-angeles-underrated",
@@ -20414,6 +20598,128 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 236
+  },
+  {
+    "post_id": 120345900,
+    "title": "Post-exam mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-exam-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15910199,
+    "top_level": true,
+    "date": "May 12 2023 07:00",
+    "likes": 12,
+    "timestamp": 1683889253,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The theory of bureaucratization is that this will make sure that contracts are awarded on the basis of merit rather than cronyism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this is an example of a topic Ezra Klein discussed with Nicholas Bagley in his podcast episode, \u201cHow Liberals \u2014 Yes, Liberals \u2014 Are Hobbling Government\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2023/02/07/opinion/ezra-klein-podcast-nicholas-bagley.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "One of the key themes that Bagley highlighted is that highly bureaucratization processes and procedures seem more legitimate than allowing executive discretion. Further, with these rules, a poor outcome can be explained as a failure of process, suggesting the need for more rules, rather than a bad judgment call from an executive or an administrator. It also shields these individuals from political blowback since they can always blame the procedures rather than have to own up to a mistake."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And a lot of that anxiety in the United States has been filtered into the creation of really strict procedural rules to discipline agencies \u2014 and stricter rules than are in place in many other developed countries. And part of the reason is that we think those rules are necessary to give agencies legitimacy, to make them accountable. And when we\u2019re anxious about the exercise of state power \u2014 and there\u2019s a lot of anxiety about state power running through the American political culture \u2014 the thought is that these procedures can cleanse the bureaucracy of some of the things that make us nervous about it."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15910199,
+    "thread_children": 3,
+    "ratio_recv": -9,
+    "ratio_give": null,
+    "grade_level": 14.9,
+    "word_count": 230
+  },
+  {
+    "post_id": 120345900,
+    "title": "Post-exam mailbag",
+    "canonical_url": "https://www.slowboring.com/p/post-exam-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15910480,
+    "top_level": false,
+    "date": "May 12 2023 07:14",
+    "likes": 3,
+    "timestamp": 1683890048,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Another timely example of procedures-over-discretion inadequacies is Federal Reserve banking regulation proving insufficient to prevent bank failures. Columbia Law School professor Lev Menand argues, in a recent Odd Lots episode, [1] that the Fed has become overly reliant on rigid rules and procedure and has forfeited their discretionary authority to intervene."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We can distinguish between regulation, which are bright line rules put down in advance, and supervision, which is discretionary safety and soundness oversight by examiners and federal officials. Both the bright line rules and supervision failed here. There was an overreliance on the bright line rules and a failure to do the discretionary oversight effectively."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We used to just do discretionary safety and soundness oversight. The real question here is how come the supervisors didn't pick up on the fact that SVB had gamed the rules to take on a lot of interest-rate risk without holding an adequate amount of capital against it. It's a pretty obvious maneuver and not a novel one. You would think any seasoned supervisor looking at the balance sheet could pick up on this quickly. So, what happened? I think the answer requires maybe 20 or 30 years worth of history to understand because contemporary supervision is broken in some sense, and this is a manifestation of that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He explains that this situation resulted from banks suing the Fed in the 80s about unfair and inconsistent supervisory interventions, and congress responded with a statute that incentivized rules to eliminate legal challenges."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some banks sued, one bank was able to prevail in the Fifth Circuit, and Congress intervened and passed a new law authorizing ex-ante, bright-line capital rules for the first time and saying that capital judgments of supervisors can't be second-guessed by courts. And so in an accidental way, you have the birth of capital regulation. The supervisors are overwhelmed, and there are lawsuits, and you have Congress saying, actually, just write a rule that the banks all have to comply with so that you don't have to get into litigation over whether this bank or that bank is undercapitalized."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-03-16/transcript-the-regulatory-blunders-behind-the-svb-disaster"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 15910199,
+    "parent_children": 3,
+    "thread_id": 15910199,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 12.3,
+    "word_count": 347
   },
   {
     "post_id": 114988517,
@@ -29226,6 +29532,76 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 227
+  },
+  {
+    "post_id": 120094057,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3f7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15855893,
+    "top_level": true,
+    "date": "May 10 2023 21:09",
+    "likes": 4,
+    "timestamp": 1683767391,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "PBS has an excellent new documentary, Clarence and Ginni Thomas: Politics, Power and the Supreme Court, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=wJuRx1wARUk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It tells the fascinating story of Thomas\u2019s ideology journey, starting in extreme poverty and segregation; his short time in seminary school; his increasing disillusionment with liberal policies at Yale Law, notably affirmative action; and his embracement of hardline conservative politics."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15855893,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 27.5,
+    "word_count": 56
+  },
+  {
+    "post_id": 120094057,
+    "title": "Wednesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-3f7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15855988,
+    "top_level": false,
+    "date": "May 10 2023 21:13",
+    "likes": 3,
+    "timestamp": 1683767635,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "They've fallen into the trap of audience capture, notably in the increasingly crowded niche of liberals who criticize the Democrats and aligned institutions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 15850048,
+    "parent_children": 7,
+    "thread_id": 15850048,
+    "thread_children": 7,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 13.4,
+    "word_count": 23
   },
   {
     "post_id": 110518383,
