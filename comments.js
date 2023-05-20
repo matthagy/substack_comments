@@ -3214,6 +3214,176 @@ window._comments = [
     "word_count": 309
   },
   {
+    "post_id": 121568094,
+    "title": "Doing the math on deficit reduction",
+    "canonical_url": "https://www.slowboring.com/p/doing-the-math-on-deficit-reduction",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16209790,
+    "top_level": true,
+    "date": "May 17 2023 06:30",
+    "likes": 47,
+    "timestamp": 1684319422,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Repeal Biden student debt plans ($600 billion)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We might get this one without expending any political capital if SCOTUS strikes the plans down. That outcome is preferable to Biden compromising on this highly salient issue for a small, yet vociferous, element of our political coalition. Plus, it\u2019s another opportunity to rail against the right-wing SCOTUS."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bloomberg is reporting that, \u201cThe Supreme Court is likely to announce a decision on President Joe Biden\u2019s forgiveness plan in the coming weeks\u201d, as \u201cThe court typically recesses at the end of June, so any decision is most likely to come before then.\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-05-11/when-do-student-loan-payments-restart-supreme-court-ruling-on-biden-plan-nears"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Therefore, I believe we should at least wait to see if SCOTUS does us a favor here."
+        }
+      ]
+    ],
+    "total_children": 63,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16209790,
+    "thread_children": 63,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 11.1,
+    "word_count": 115
+  },
+  {
+    "post_id": 121568094,
+    "title": "Doing the math on deficit reduction",
+    "canonical_url": "https://www.slowboring.com/p/doing-the-math-on-deficit-reduction",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16217071,
+    "top_level": false,
+    "date": "May 17 2023 10:12",
+    "likes": 9,
+    "timestamp": 1684332769,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But the details define the framing. If we had explicitly excluded graduate degrees and people with relatively high incomes, then we\u2019d have framed forgiveness as being for the most disadvantaged. The fact that we failed to make this important distinction in the policy is why it is so easily framed as a handout to a relatively small, yet vocal, upwardly mobile set of Democratic constituents.  Because it is."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, we should\u2019ve welcomed their resultant temper tantrums from being left out in the cold had we denied this handout. Even Fox News couldn\u2019t resist publicizing these \u201cliberal tears\u201d to the detriment of Republican electoral politics."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 16216510,
+    "parent_children": 13,
+    "thread_id": 16209790,
+    "thread_children": 63,
+    "ratio_recv": -7,
+    "ratio_give": 7,
+    "grade_level": 10.1,
+    "word_count": 105
+  },
+  {
+    "post_id": 121568094,
+    "title": "Doing the math on deficit reduction",
+    "canonical_url": "https://www.slowboring.com/p/doing-the-math-on-deficit-reduction",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16210182,
+    "top_level": false,
+    "date": "May 17 2023 06:49",
+    "likes": 7,
+    "timestamp": 1684320590,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We\u2019re never gonna be able to repeat the post-WWII \u201cinflate the debt away\u201d because the Fed has fundamentally changed following that period. Notably, the 1951 Treasury-Fed Accord with the Truman administration established US central bank independence. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.federalreservehistory.org/essays/treasury-fed-accord"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Prior to that, the Fed was willing to peg bond yields down for treasuries (ie, yield curve control) to aid in war financing. Truman and his Treasury Secretary wanted to continue that in order to manage the debt load, and they tried to bully the Fed into compliance. The administration released a false press release claiming that such an agreement had been met, and they were deeply embarrassed when Fed Governor Eccles leaked the actual meeting notes to the press."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Fed is now institutionally committed to price stability, and for good reasons. If they even hinted at eschewing this responsibility then we\u2019d risk a sovereign debt crisis as global investors started dumping US treasuries and other dollar-denominated assets."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 16209672,
+    "parent_children": 34,
+    "thread_id": 16209672,
+    "thread_children": 34,
+    "ratio_recv": -6,
+    "ratio_give": 2,
+    "grade_level": 11.9,
+    "word_count": 155
+  },
+  {
+    "post_id": 121568094,
+    "title": "Doing the math on deficit reduction",
+    "canonical_url": "https://www.slowboring.com/p/doing-the-math-on-deficit-reduction",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16210408,
+    "top_level": false,
+    "date": "May 17 2023 07:00",
+    "likes": 6,
+    "timestamp": 1684321215,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The Fed made policy mistakes under the leadership of Martin and then Burns. This certainly wasn\u2019t intentional. And it was nothing like the yield curve control that the Fed used in years immediately after WWII."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, the public rejected this poor monetary policy, and hence why Carter nominated Volcker to correct the issue through painfully restrictive interest rates. The voters would\u2019ve crucified any administration that deliberately sought to inflate away the debt."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 16210271,
+    "parent_children": 7,
+    "thread_id": 16209672,
+    "thread_children": 34,
+    "ratio_recv": -3,
+    "ratio_give": 6,
+    "grade_level": 10.1,
+    "word_count": 72
+  },
+  {
     "post_id": 117011137,
     "title": "Yet another study confirms YIMBYs are right about everything",
     "canonical_url": "https://www.slowboring.com/p/yet-another-study-confirms-yimbys",
@@ -4268,6 +4438,112 @@ window._comments = [
     "word_count": 584
   },
   {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16169126,
+    "top_level": false,
+    "date": "May 16 2023 06:40",
+    "likes": 40,
+    "timestamp": 1684233652,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No. Just look at how poorly that worked out for Democrats in 1968 when LBJ opted out of running for another term. Similar to then, Democrats have a broad and, at times, fragmented coalition. We'd once again have a vicious primary cycle leading to a fractured and disappointed voter base. Further, I don't believe any other Democrat could adopt Biden's moderate positioning and message and then win the primary."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 16168832,
+    "parent_children": 77,
+    "thread_id": 16168832,
+    "thread_children": 77,
+    "ratio_recv": -35,
+    "ratio_give": 32,
+    "grade_level": 8.9,
+    "word_count": 69
+  },
+  {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16168991,
+    "top_level": true,
+    "date": "May 16 2023 06:33",
+    "likes": 24,
+    "timestamp": 1684233239,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The point is, CNN really wants you to be in a headspace where you believe some form of engaging with CNN \u2014 watching CNN, getting mad at CNN, posting about CNN \u2014 is an important thing to do in the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree with this framing in terms of marketing for paid subscription, particularly, \u201cThe New York Times and especially the Washington Post marketed newspaper subscriptions as a form of resistance.\u201d But I think CNN and Fox News aren\u2019t aiming for such high-minded branding. Instead, I think they are just striving to create addictive content, similar to social media algorithmic feeds."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These cable networks are in fierce competition with social media, alternative media outlets, and even streaming platforms for peoples\u2019 limited attention in a world of infinite content. And with ads being essential to the funding, it is all about scale. Trump is just amazing content, driving compulsive viewing from haters and lovers alike."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16168991,
+    "thread_children": 8,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 152
+  },
+  {
+    "post_id": 120964109,
+    "title": "The Trump Show is back ",
+    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16176872,
+    "top_level": false,
+    "date": "May 16 2023 10:22",
+    "likes": 2,
+    "timestamp": 1684246974,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think MSNBC is aided by the fact that \u201creality has a well known liberal bias\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=UwLjK9LFpeo"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 16175317,
+    "parent_children": 6,
+    "thread_id": 16169787,
+    "thread_children": 70,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 7.2,
+    "word_count": 16
+  },
+  {
     "post_id": 54303445,
     "title": "Multiverse of Mailbag ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-lamb",
@@ -4832,112 +5108,6 @@ window._comments = [
     "ratio_give": -40,
     "grade_level": 12.6,
     "word_count": 341
-  },
-  {
-    "post_id": 120964109,
-    "title": "The Trump Show is back ",
-    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 16169126,
-    "top_level": false,
-    "date": "May 16 2023 06:40",
-    "likes": 37,
-    "timestamp": 1684233652,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "No. Just look at how poorly that worked out for Democrats in 1968 when LBJ opted out of running for another term. Similar to then, Democrats have a broad and, at times, fragmented coalition. We'd once again have a vicious primary cycle leading to a fractured and disappointed voter base. Further, I don't believe any other Democrat could adopt Biden's moderate positioning and message and then win the primary."
-        }
-      ]
-    ],
-    "total_children": 8,
-    "parent_id": 16168832,
-    "parent_children": 73,
-    "thread_id": 16168832,
-    "thread_children": 73,
-    "ratio_recv": -33,
-    "ratio_give": 30,
-    "grade_level": 8.9,
-    "word_count": 69
-  },
-  {
-    "post_id": 120964109,
-    "title": "The Trump Show is back ",
-    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 16168991,
-    "top_level": true,
-    "date": "May 16 2023 06:33",
-    "likes": 21,
-    "timestamp": 1684233239,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "> The point is, CNN really wants you to be in a headspace where you believe some form of engaging with CNN \u2014 watching CNN, getting mad at CNN, posting about CNN \u2014 is an important thing to do in the world."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "I agree with this framing in terms of marketing for paid subscription, particularly, \u201cThe New York Times and especially the Washington Post marketed newspaper subscriptions as a form of resistance.\u201d But I think CNN and Fox News aren\u2019t aiming for such high-minded branding. Instead, I think they are just striving to create addictive content, similar to social media algorithmic feeds."
-        }
-      ],
-      [
-        {
-          "type": "text",
-          "value": "These cable networks are in fierce competition with social media, alternative media outlets, and even streaming platforms for peoples\u2019 limited attention in a world of infinite content. And with ads being essential to the funding, it is all about scale. Trump is just amazing content, driving compulsive viewing from haters and lovers alike."
-        }
-      ]
-    ],
-    "total_children": 8,
-    "parent_id": null,
-    "parent_children": null,
-    "thread_id": 16168991,
-    "thread_children": 8,
-    "ratio_recv": -3,
-    "ratio_give": null,
-    "grade_level": 10.6,
-    "word_count": 152
-  },
-  {
-    "post_id": 120964109,
-    "title": "The Trump Show is back ",
-    "canonical_url": "https://www.slowboring.com/p/the-trump-show-is-back",
-    "name": "Matt Hagy",
-    "user_id": 3094604,
-    "reaction": false,
-    "id": 16176872,
-    "top_level": false,
-    "date": "May 16 2023 10:22",
-    "likes": 1,
-    "timestamp": 1684246974,
-    "body": [
-      [
-        {
-          "type": "text",
-          "value": "I think MSNBC is aided by the fact that \u201creality has a well known liberal bias\u201d, "
-        },
-        {
-          "type": "url",
-          "value": "https://www.youtube.com/watch?v=UwLjK9LFpeo"
-        }
-      ]
-    ],
-    "total_children": 1,
-    "parent_id": 16175317,
-    "parent_children": 6,
-    "thread_id": 16169787,
-    "thread_children": 69,
-    "ratio_recv": null,
-    "ratio_give": -3,
-    "grade_level": 7.2,
-    "word_count": 16
   },
   {
     "post_id": 113281478,
@@ -16203,6 +16373,164 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 206
+  },
+  {
+    "post_id": 121811900,
+    "title": "Elon Musk is wrong about George Soros and Magneto",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-magneto-soros",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16251059,
+    "top_level": true,
+    "date": "May 18 2023 06:20",
+    "likes": 18,
+    "timestamp": 1684405202,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For others\u2019 that are also unfamiliar with the X-Men lore, here\u2019s how ChatGPT-4 answers, \u201cDescribe the conflict between Xavier and Magneto\u201d:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Professor Charles Xavier (often known as Professor X) and Erik Lehnsherr (also known as Magneto) are two central characters in the Marvel Comics universe, most notably in the X-Men series. Despite both being mutants and sharing common goals of mutant prosperity, they have divergent philosophies and methods, which results in a significant, ongoing conflict throughout the series."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Professor Xavier believes in peaceful coexistence between mutants and humans. He thinks that mutants should use their powers responsibly to help humanity and foster understanding and acceptance. Xavier's goal is to create a world where humans and mutants live together harmoniously, and he seeks to achieve this by educating mutants at his school (the Xavier's School for Gifted Youngsters) to control their powers and to use them in a way that benefits all of society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On the other hand, Magneto views mutants as a superior species and humans as a threat to mutant survival. He believes that mutants must assert their power and dominance to survive and protect themselves. Magneto's experiences, particularly his early life during the Holocaust, have led him to this more militant and separatist approach."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This ideological clash is the root of their conflict. Despite their common goal of wanting what's best for mutants, their different perspectives and strategies cause them to often be at odds with each other. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Xavier forms the X-Men, a group of mutants who follow his philosophy and work towards peaceful coexistence. Magneto, meanwhile, often leads the Brotherhood of Mutants, a group that seeks to advance the status of mutants, even at the cost of human welfare."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Their conflict symbolizes larger societal issues, such as the tension between assimilation and separatism, between peace and violence in the struggle for civil rights, and between different visions of what an ideal society looks like. Despite their differences, however, there are instances where they come together to face common threats against mutantkind."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16251059,
+    "thread_children": 14,
+    "ratio_recv": -12,
+    "ratio_give": null,
+    "grade_level": 12.6,
+    "word_count": 334
+  },
+  {
+    "post_id": 121811900,
+    "title": "Elon Musk is wrong about George Soros and Magneto",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-magneto-soros",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16251561,
+    "top_level": true,
+    "date": "May 18 2023 06:47",
+    "likes": 13,
+    "timestamp": 1684406866,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think it\u2019s useful to compare and contrast Soros against Thiel as they are both billionaires using their fortune to advance their politics, and thereby branded as wicked, shadowy villains by the right and left, respectively. Interestingly, both of their politics include some suspicion of the state, just in different venues. Soros is concerned about abuses in policing and incarceration, while Thiel is opposed to democracy in general, particularly when it limits his wealth and power. Hence, both are financing efforts to curtail state power (among other political projects)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It seems reasonable to me for people to be angry with these mega-political-financiers due to political disagreements. Yet, I believe critics of both commonly overestimate the impact of these two individuals, incorrectly identifying them as a root cause for a broader political movement. Trumpism could exist without Thiel, as could Defund without Soros. I believe it counterproductive to put so much blame on individuals, regardless of their wealth and power, because it distracts from understanding and countering their more general political opponents."
+        }
+      ]
+    ],
+    "total_children": 42,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16251561,
+    "thread_children": 42,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 12.8,
+    "word_count": 171
+  },
+  {
+    "post_id": 121811900,
+    "title": "Elon Musk is wrong about George Soros and Magneto",
+    "canonical_url": "https://www.slowboring.com/p/elon-musk-magneto-soros",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16251848,
+    "top_level": false,
+    "date": "May 18 2023 07:02",
+    "likes": 8,
+    "timestamp": 1684407776,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This is nothing new. Musk has long been erratic and irresponsible. Notably, committing security fraud via tweets in 2018. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.sec.gov/news/press-release/2018-219"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Securities and Exchange Commission today charged Elon Musk, CEO and Chairman of Silicon Valley-based Tesla Inc., with securities fraud for a series of false and misleading tweets about a potential transaction to take Tesla private."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> On August 7, 2018, Musk tweeted to his 22 million Twitter followers that he could take Tesla private at $420 per share (a substantial premium to its trading price at the time), that funding for the transaction had been secured, and that the only remaining uncertainty was a shareholder vote.  The SEC\u2019s complaint alleges that, in truth, Musk had not discussed specific deal terms with any potential financing partners, and he allegedly knew that the potential transaction was uncertain and subject to numerous contingencies. According to the SEC\u2019s complaint, Musk\u2019s tweets caused Tesla\u2019s stock price to jump by over six percent on August 7, and led to significant market disruption.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although, in fairness, a jury did clear him of civil liability in shareholder lawsuit. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reuters.com/legal/securities-fraud-trial-over-elon-musks-2018-tweets-draws-close-2023-02-03/"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 16251253,
+    "parent_children": 46,
+    "thread_id": 16251253,
+    "thread_children": 46,
+    "ratio_recv": -3,
+    "ratio_give": -55,
+    "grade_level": 11.1,
+    "word_count": 179
   },
   {
     "post_id": 105318311,
