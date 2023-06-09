@@ -5188,6 +5188,52 @@ window._comments = [
     "word_count": 125
   },
   {
+    "post_id": 125027414,
+    "title": "Are young men conservative now?",
+    "canonical_url": "https://www.slowboring.com/p/are-young-men-really-trending-to",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16969597,
+    "top_level": true,
+    "date": "Jun 06 2023 06:58",
+    "likes": 36,
+    "timestamp": 1686049096,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I find the growing partisan gender divide concerning, particularly as that intersects with how some boys and men are starting to fall behind on certain measures like education and employment. The NYT podcast Matter of Opinion considers this in their recent episode \u201cWhat Does Healthy Masculinity Look Like?\u201d [1] In their discussion, they point out that even interpreting men\u2019s problems is politically polarized in a way to impede discussion and policy changes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "One narrative is that men are inherently different from women and that they are structurally disadvantaged in our modern economy and society as we\u2019ve transitioned away from manufacturing to provisioning services. Conversely, society may be socializing men in a counterproductive fashion that encourages beliefs and behaviors that holds them back from succeeding in modern education and employment. Since conservatives and liberals disagree about the dominant narrative we cannot proceed to exploring solutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2023/05/25/opinion/men-in-the-21st-century.html"
+        }
+      ]
+    ],
+    "total_children": 102,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16969597,
+    "thread_children": 102,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 15.1,
+    "word_count": 145
+  },
+  {
     "post_id": 99102422,
     "title": "Recent layoffs at Big Tech don't spell economic doom",
     "canonical_url": "https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell",
@@ -5828,6 +5874,106 @@ window._comments = [
     "ratio_give": 15,
     "grade_level": 10.1,
     "word_count": 41
+  },
+  {
+    "post_id": 126148200,
+    "title": "Official data is flawed, epistemic nihilism is worse",
+    "canonical_url": "https://www.slowboring.com/p/official-data-is-flawed-epistemic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 17057790,
+    "top_level": true,
+    "date": "Jun 08 2023 07:05",
+    "likes": 34,
+    "timestamp": 1686222308,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The people who write the jobs day articles know the data is revised. [...] But at the end of the day, the emphasis on newness performs better, so that\u2019s what you get"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Like all journalism, I think this varies across publications. Bloomberg is excellent at putting new economic data releases into perspective. They are writing for financial and business professionals who value an accurate read on the economy and that is the product they produce."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In contrast, other outlets are incentivized for excitement and outrage. Even if their economic reporters should know better, these individuals are hired for their ability to generate the target content. It\u2019s even possible that they do not know better because they weren\u2019t recruited due to demonstrated expertise in understanding economic data."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 17057790,
+    "thread_children": 5,
+    "ratio_recv": -20,
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 125
+  },
+  {
+    "post_id": 126148200,
+    "title": "Official data is flawed, epistemic nihilism is worse",
+    "canonical_url": "https://www.slowboring.com/p/official-data-is-flawed-epistemic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 17057464,
+    "top_level": true,
+    "date": "Jun 08 2023 06:51",
+    "likes": 22,
+    "timestamp": 1686221502,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I have a fair amount of respect for David Sacks because over the years he\u2019s developed some of the best mental models and playbooks for startups, particularly in the software-as-a-service space. Eg, \u201cThe SaaS Metrics That Matter\u201d, [1] I have no doubt that he\u2019s highly intelligent and applies deep thinking to important problems, and he then clearly and concisely communicates important insights."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I\u2019m a little embarrassed by some of Sacks\u2019 impulsive tweets and podcast rants. In some ways I\u2019m tempted to apologize for his behavior with analogy to Yglesias trollish tweets that aren\u2019t representative of thoughtful writing. Yet in Sacks\u2019 case I believe he is biased by deep, irrational suspicion of major American and global institutions, particularly any that appear liberal aligned. And it worries me that someone as intelligent, thoughtful, and extremely successful as Sacks can be taken in by the right-wing anti-institutional conspiratorial beliefs. Elon Musk appears to be another example."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe Yglesias has suggested that these rightwing billionaires are just looking out for their own interests, and possibly cynically promoting false narratives that will help Republicans win elections and lower taxes on the rich. But I don\u2019t think this is an act because they could be far more strategic and methodical than their impulsive tweets if they simply sought to discredit Democratic politicians and policies. They may have been biased towards right-wing politics out of self interest, but I believe they have truly drunk the Kool-Aid and have developed sincere beliefs that are deeply suspicious of institutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Why are these right-wing conspiracy theories so captivating, even to intelligent and successful individuals? Shouldn\u2019t their financial self interest push back against this so that they can develop an accurate mental model of the world, particularly for economic conditions data?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://sacks.substack.com/p/the-saas-metrics-that-matter"
+        }
+      ]
+    ],
+    "total_children": 102,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 17057464,
+    "thread_children": 102,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 14.0,
+    "word_count": 293
   },
   {
     "post_id": 84489473,
@@ -8121,6 +8267,72 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 8.1,
     "word_count": 55
+  },
+  {
+    "post_id": 123400296,
+    "title": "Memorial Day Mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/memorial-day-mailbag-070",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16564286,
+    "top_level": true,
+    "date": "May 26 2023 07:00",
+    "likes": 30,
+    "timestamp": 1685098849,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> That fed a backlash, which created the current dynamic where some people say there shouldn\u2019t be homework because it\u2019s bad for equity \u2014 in essence insisting that we level down \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This leveling-down approach to education equity seems quite politically toxic. No parent wants to hear that their child will be denied the educational opportunities to achieve their potential out of some nebulous concept of fairness. Particularly because their children's future competition in college admissions and the labor market doesn\u2019t occur at the local school district level, but instead at the national or even international level."
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 16564286,
+    "thread_children": 19,
+    "ratio_recv": -11,
+    "ratio_give": null,
+    "grade_level": 17.9,
+    "word_count": 94
+  },
+  {
+    "post_id": 123400296,
+    "title": "Memorial Day Mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/memorial-day-mailbag-070",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 16564421,
+    "top_level": false,
+    "date": "May 26 2023 07:07",
+    "likes": 4,
+    "timestamp": 1685099227,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe, but you might not administer a fatal shot and will end up surviving in an even worse situation. Plus, your loved ones need to contend with your particularly grim form of euthanasia. Better to travel to a country with legal euthanasia and allow medical professionals to oversee the procedure."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 16564142,
+    "parent_children": 30,
+    "thread_id": 16564142,
+    "thread_children": 30,
+    "ratio_recv": -1,
+    "ratio_give": -3,
+    "grade_level": 9.8,
+    "word_count": 50
   },
   {
     "post_id": 101496493,
@@ -16528,7 +16740,7 @@ window._comments = [
     "thread_id": 16251253,
     "thread_children": 46,
     "ratio_recv": -3,
-    "ratio_give": -55,
+    "ratio_give": -56,
     "grade_level": 11.1,
     "word_count": 179
   },
