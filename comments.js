@@ -35620,5 +35620,107 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 3.1,
     "word_count": 26
+  },
+  {
+    "post_id": 140228948,
+    "title": "Matt's New Year Mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/matts-new-year-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 46397891,
+    "top_level": false,
+    "date": "Jan 01 2024 12:31",
+    "likes": 3,
+    "timestamp": 1704130272,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I imagine that if Substack shut down, then he could just migrate to Ghost or one of the other competitors. On Substack, each author has their own Stripe integration for billing and they can also download their subscribers emails. Furthermore, SB has it's own site domain. From looking at the Ghost migration guide, it appears like the changeover would be transparent to us subscribers, "
+        },
+        {
+          "type": "url",
+          "value": "https://ghost.org/docs/migration/substack/"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 46384320,
+    "parent_children": 9,
+    "thread_id": 46384320,
+    "thread_children": 9,
+    "ratio_recv": -1,
+    "ratio_give": -5,
+    "grade_level": 7.2,
+    "word_count": 64
+  },
+  {
+    "post_id": 140397199,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-42c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 46823694,
+    "top_level": false,
+    "date": "Jan 07 2024 18:15",
+    "likes": 0,
+    "timestamp": 1704669307,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "SB staff should be able to figure this out via Stripe without Substack involvement because authors have their own direct Stripe integration that they can directly manage. Eg, they can identify the card(s) used to subscribe by abuse accounts and block them from future subscription attempts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A quick Google search shows returned, "
+        },
+        {
+          "type": "url",
+          "value": "https://support.stripe.com/questions/how-can-i-detect-duplicate-cards-or-bank-accounts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> How can I detect duplicate cards or bank accounts?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This also allows you to detect someone trying to sign up multiple times with the same card (for example, to get the same discount) and block this behavior. This can also help remove old cards added in the past if a new one with a more recent expiration date is added with the same fingerprint."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next, they can block the card(s) from re-subscribing, "
+        },
+        {
+          "type": "url",
+          "value": "https://support.stripe.com/questions/block-a-specific-credit-card-from-being-accepted"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> You can block a specific card number from transactions directly in your Dashboard or using the Stripe API."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 46819936,
+    "parent_children": 4,
+    "thread_id": 46809938,
+    "thread_children": 29,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.2,
+    "word_count": 142
   }
 ];
