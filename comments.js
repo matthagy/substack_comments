@@ -35665,7 +35665,7 @@ window._comments = [
     "id": 46823694,
     "top_level": false,
     "date": "Jan 07 2024 18:15",
-    "likes": 0,
+    "likes": 6,
     "timestamp": 1704669307,
     "body": [
       [
@@ -35715,12 +35715,129 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 46819936,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 46809938,
-    "thread_children": 29,
+    "thread_children": 30,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": 4,
     "grade_level": 10.2,
     "word_count": 142
+  },
+  {
+    "post_id": 140478660,
+    "title": "Are index funds killing competition? ",
+    "canonical_url": "https://www.slowboring.com/p/are-index-funds-killing-competition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 46999204,
+    "top_level": true,
+    "date": "Jan 10 2024 07:33",
+    "likes": 4,
+    "timestamp": 1704890016,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Now the price of jet fuel starts to fall. We\u2019d normally expect airfares to fall, too."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Only if they have spare capacity to utilize by competing for a greater share of consumer demand. Conversely, if demand remains strong then they will further raise prices to ration their limited flying capacity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Much of our recent inflation problems follow this pattern: excess demand meets inelastic supply. In some cases, there were even supply disruptions, further exacerbating our problems. Suppliers either need to raise prices or accept shortages. And the only thing worse than having to pay an arm and a leg for airfare is not being able to purchase your desired flight at any price."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 46999204,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 7.6,
+    "word_count": 113
+  },
+  {
+    "post_id": 140478660,
+    "title": "Are index funds killing competition? ",
+    "canonical_url": "https://www.slowboring.com/p/are-index-funds-killing-competition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 46999984,
+    "top_level": true,
+    "date": "Jan 10 2024 07:51",
+    "likes": 31,
+    "timestamp": 1704891081,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Matt Levine at Bloomberg has written numerous entertaining and instructive columns on this issue. And no paywall on his column! Notably, Apr 2015, \u201cShould Mutual Funds Be Illegal?\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2015-04-16/should-mutual-funds-be-illegal-"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> So ... why? Posner and Weyl are riffing on this paper by Jos\u00e9 Azar, Martin C. Schmalz and Isabel Tecu, finding, according to its title, \"Anti-Competitive Effects of Common Ownership.\" Azar, Schmalz and Tecu look at the airline industry, where a good percentage of the shares of many big airlines are owned by overlapping groups of big mutual funds (not necessarily index funds). They argue that this common ownership reduces competition, finding \"that ticket prices are approximately 3-5% higher on the average US airline route than would be the case under separate ownership.\" A possible explanation for this finding is that mutual funds that own lots of shares in all of the airlines don't really push any one airline to cut prices to compete hard against the other airlines: Cutting margins to gain market share might work for one airline, but for the airlines as a group it drives down profits. And airlines' shareholders own airlines as a group, not individually."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Going from that conclusion to banning diversified mutual funds is a bit of a stretch. I tweeted about Posner and Weyl's article and the reactions were, I think it is fair to say, uniformly incredulous. Josh Barro pointed out that \"airlines seem like a bad example of anticompetitive pricing, since they go bankrupt all the time.\" More generally, people seemed horrified by the argument that the government should try to limit indexing and diversification."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Second, though, it's worth abstracting away from the specific arguments here to a more general point, which is that a lot of the way we traditionally think about corporate governance does not fully account for the fact that most investors are diversified. This comes up a lot in mergers and acquisitions. Company A wants to buy Company B. If they combine, they will have cost savings worth $X, and the question is how much of $X goes to Company B shareholders in the form of merger premium and how much of it goes to Company A shareholders. If you are a diversified investor holding a proportional amount of both companies' shares, you don't care at all. You just want the deal done. But because corporate law, at least in the M&A context, gives directors a duty to maximize value for their shareholders, Company B will negotiate hard to get as much of the premium as possible. Money will be spent on bankers and lawyers. Company A might be pushed to raise a lot of debt to pay more, making the benefits of the deal riskier (for Company A). And Company B might ultimately just say no to a deal because it doesn't like how the benefits are split, denying those benefits to diversified shareholders. By maximizing value for its shareholders, considered as its shareholders, Company B might actually be hurting those same shareholders, considering their entire portfolios."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Also, Aug 2016, \u201c\u200b\u200bAre Index Funds Communist?\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2016-08-24/are-index-funds-communist"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I have been half-joking for a year and a half that maybe index funds should be illegal, but here is an almost entirely serious claim from Sanford C. Bernstein & Co. that they are worse than communism:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> In a note titled \"The Silent Road to Serfdom: Why Passive Investing is Worse Than Marxism,\" a team led by Head of Global Quantitative and European Equity Strategy Inigo Fraser-Jenkins, says that politicians and regulators need to be cognizant of the social case for active management in the investment industry."
+        }
+      ],
+      []
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 46999984,
+    "thread_children": 3,
+    "ratio_recv": -29,
+    "ratio_give": null,
+    "grade_level": 11.8,
+    "word_count": 592
   }
 ];
