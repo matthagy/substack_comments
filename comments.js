@@ -35775,7 +35775,7 @@ window._comments = [
     "id": 46999984,
     "top_level": true,
     "date": "Jan 10 2024 07:51",
-    "likes": 31,
+    "likes": 35,
     "timestamp": 1704891081,
     "body": [
       [
@@ -35835,9 +35835,127 @@ window._comments = [
     "parent_children": null,
     "thread_id": 46999984,
     "thread_children": 3,
-    "ratio_recv": -29,
+    "ratio_recv": -32,
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 592
+  },
+  {
+    "post_id": 140590943,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-bd3",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47117279,
+    "top_level": false,
+    "date": "Jan 11 2024 18:25",
+    "likes": 14,
+    "timestamp": 1705015501,
+    "body": [
+      [
+        {
+          "type": "url",
+          "value": "https://forms.gle/XQ1mhziM2ovS8Wbj9"
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 47115021,
+    "parent_children": 15,
+    "thread_id": 47112306,
+    "thread_children": 32,
+    "ratio_recv": -1,
+    "ratio_give": 6,
+    "grade_level": -15.7,
+    "word_count": 0
+  },
+  {
+    "post_id": 140590943,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-bd3",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47118323,
+    "top_level": false,
+    "date": "Jan 11 2024 18:44",
+    "likes": 13,
+    "timestamp": 1705016694,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "results in "
+        },
+        {
+          "type": "url",
+          "value": "https://docs.google.com/spreadsheets/d/1LzXBOzIGH1nkqPKBy_fY21Cs7Y2Nvd6Qo_tLYXMlO5I/edit?usp=sharing"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "sheet will auto update as we collect more responses"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 47117279,
+    "parent_children": 14,
+    "thread_id": 47112306,
+    "thread_children": 32,
+    "ratio_recv": -12,
+    "ratio_give": -1,
+    "grade_level": 6.4,
+    "word_count": 11
+  },
+  {
+    "post_id": 140688665,
+    "title": "Why the parties can't decide ",
+    "canonical_url": "https://www.slowboring.com/p/why-the-parties-cant-decide",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47337209,
+    "top_level": true,
+    "date": "Jan 15 2024 07:19",
+    "likes": 11,
+    "timestamp": 1705321172,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here's a summary of the top ~20 or so comments from the previous discussion using ChatGPT:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The debate revolves around the challenges and complexities inherent in democratic political systems, particularly focusing on the nomination processes of political parties and the consequences of increased democratization in politics. Key commentary highlights the notion that while parties could reform their nomination procedures, such as reintroducing powerful superdelegates or changing voting methods, these changes would not impact immediate political challenges but could potentially be steps toward longer-term solutions. The Democratic Party, specifically, faces scrutiny for allowing candidates like Bernie Sanders, who don't formally align with the party, access to its nomination process, raising questions about the value and exclusivity of the party brand."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further discussion centers on the difficulties politicians face in modern governance, hindered by social media distractions and proneness to rhetoric without substantive policymaking. Examples from the UK, Israel, and the US indicate a broader failure of officials to navigate the complexities of government leadership. Additionally, observations note that political contenders who stand out on policy issues, such as Barack Obama, are currently lacking, and that the trend toward democratization within party nomination processes has correlated with an increase in less popular nominees. Comparisons are drawn with the UK and other European countries, where the importation of primary systems has led to divisive party leadership selections and a decline in traditional mainstream parties."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A portion of the commentary delves into the concept of the phrase \u201cthe exception that proves the rule,\u201d discussing its proper usage and the principles underlying its use in legal interpretation. This reflects a broader concern with precise language and the need to avoid misunderstandings in political discourse. Concerns about President Biden's age, thoughts on dropping Vice-President Harris for a more popular running mate, the perceived decline of center-left political power, and the complexity of holding political figures accountable in a system flooded with elections and candidates also weave through the debate. The trade-offs between democratization within party structures and the effectiveness of top-down candidate selection by party elites form a central thread, suggesting that greater internal coordination and control may lead to more competent and palatable political leadership."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 47337209,
+    "thread_children": 9,
+    "ratio_recv": -9,
+    "ratio_give": null,
+    "grade_level": 19.6,
+    "word_count": 360
   }
 ];
