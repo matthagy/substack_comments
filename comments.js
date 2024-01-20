@@ -35957,5 +35957,231 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 19.6,
     "word_count": 360
+  },
+  {
+    "post_id": 140643346,
+    "title": "The pandemic's lesson on teacher licensure",
+    "canonical_url": "https://www.slowboring.com/p/the-pandemics-lesson-on-teacher-licensure",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47489980,
+    "top_level": false,
+    "date": "Jan 17 2024 07:43",
+    "likes": 13,
+    "timestamp": 1705495433,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! DeBoer (and Kathryn Paige Harden [1]) have convinced me that most educational interventions have minimal impact on students' innate talents. At most they can have a negative impact; eg, the catastrophically bad effects of remote learning."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Think he\u2019s most recently summarized his thesis in \u201cEducation Doesn't Work 2.0\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://freddiedeboer.substack.com/p/education-doesnt-work-20"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The brute reality is that most kids slot themselves into academic ability bands early in life and stay there throughout schooling. We have a certain natural level of performance, gravitate towards it early on, and are likely to remain in that band relative to peers until our education ends. There is some room for wiggle, and in large populations there are always outliers. But in thousands of years of education humanity has discovered no replicable and reliable means of taking kids from one educational percentile and raising them up into another. Mobility of individual students in quantitative academic metrics relative to their peers over time is far lower than popularly believed. The children identified as the smart kids early in elementary school will, with surprising regularity, maintain that position throughout schooling. Do some kids transcend (or fall from) their early positions? Sure. But the system as a whole is quite static. Most everybody stays in about the same place relative to peers over academic careers. The consequences of this are immense, as it is this relative position, not learning itself, which is rewarded economically and socially in our society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
+        }
+      ]
+    ],
+    "total_children": 32,
+    "parent_id": 47489136,
+    "parent_children": 42,
+    "thread_id": 47487067,
+    "thread_children": 44,
+    "ratio_recv": 18,
+    "ratio_give": -11,
+    "grade_level": 11.6,
+    "word_count": 239
+  },
+  {
+    "post_id": 140643346,
+    "title": "The pandemic's lesson on teacher licensure",
+    "canonical_url": "https://www.slowboring.com/p/the-pandemics-lesson-on-teacher-licensure",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47494484,
+    "top_level": false,
+    "date": "Jan 17 2024 09:00",
+    "likes": 8,
+    "timestamp": 1705500021,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This is the foundational principle of private education, and kids in expensive private schools do get better results on tests than those not in such schools."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think DeBoer would argue that these results aren't due to school instruction quality but are instead selection effects; private education filters for higher socioeconomic status, which is correlated with intelligence, contentiousness, and other innate talents that boost educational and professional performance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At most, private school benefits may occur through peer effects. Ie, they can more easily expel disruptive students and in general ensure students are surrounded by peers from families who value education and professional success."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 47492527,
+    "parent_children": 15,
+    "thread_id": 47487067,
+    "thread_children": 44,
+    "ratio_recv": 3,
+    "ratio_give": -23,
+    "grade_level": 15.7,
+    "word_count": 103
+  },
+  {
+    "post_id": 140767251,
+    "title": "Snow day mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/snow-day-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47641358,
+    "top_level": false,
+    "date": "Jan 19 2024 07:55",
+    "likes": 19,
+    "timestamp": 1705668910,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that it would be great if more politicians and government workers focused on pragmatic problem solving and the hard work of delivering quality public services. And I believe that some improvements can be made at the margins."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But I think we have to recognize that people with the inclination and aptitude for diagnosing and solving such problems are going to self-select out of politics and government service. There are simply more lucrative opportunities elsewhere. Furthermore, it\u2019s not just the lack of financial rewards, but also the mountain of bureaucracy that impedes getting things done in government."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 47639075,
+    "parent_children": 53,
+    "thread_id": 47639075,
+    "thread_children": 53,
+    "ratio_recv": -11,
+    "ratio_give": -56,
+    "grade_level": 12.1,
+    "word_count": 98
+  },
+  {
+    "post_id": 140767251,
+    "title": "Snow day mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/snow-day-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47643062,
+    "top_level": false,
+    "date": "Jan 19 2024 08:27",
+    "likes": 26,
+    "timestamp": 1705670847,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Parents like the commenter are following the rules. They are completing the paperwork to formally take their children out of school and are working with teachers to ensure missed coursework is handled outside of school."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, it's easy to draw a distinction between these parents and those with actual truant children. "
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 47639649,
+    "parent_children": 4,
+    "thread_id": 47637863,
+    "thread_children": 108,
+    "ratio_recv": -22,
+    "ratio_give": 15,
+    "grade_level": 8.7,
+    "word_count": 51
+  },
+  {
+    "post_id": 140850960,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-6e7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47735821,
+    "top_level": true,
+    "date": "Jan 20 2024 13:11",
+    "likes": 11,
+    "timestamp": 1705774312,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Created an AI avatar of my substack persona, HagyGPT "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/g/g-yAd5rmDSr-hagygpt"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Example, \u201cWhat are Matt's views on Democratic messaging and related political strategy?\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/share/6b38ccc8-e0f0-48a1-929a-da297d54e832"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Uses OpenAI\u2019s GPT Store to create a customer version of ChatGPT. Note that it requires a paid ChatGPT account to use. It has access to all of my substack comments and is given a custom instruction prompt to mirror my views and styles. It\u2019s generally accurate in mirroring my views, although it doesn\u2019t seem to capture my writing style."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, the GPT Store seems like an interesting way for people and organizations to institutionalize their knowledge and make it available to a broad audience in an interactive form."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 47735821,
+    "thread_children": 2,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 10.4,
+    "word_count": 110
   }
 ];
