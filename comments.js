@@ -36066,7 +36066,7 @@ window._comments = [
     "id": 47641358,
     "top_level": false,
     "date": "Jan 19 2024 07:55",
-    "likes": 19,
+    "likes": 22,
     "timestamp": 1705668910,
     "body": [
       [
@@ -36087,8 +36087,8 @@ window._comments = [
     "parent_children": 53,
     "thread_id": 47639075,
     "thread_children": 53,
-    "ratio_recv": -11,
-    "ratio_give": -56,
+    "ratio_recv": -13,
+    "ratio_give": -61,
     "grade_level": 12.1,
     "word_count": 98
   },
@@ -36123,8 +36123,8 @@ window._comments = [
     "parent_children": 4,
     "thread_id": 47637863,
     "thread_children": 108,
-    "ratio_recv": -22,
-    "ratio_give": 15,
+    "ratio_recv": -21,
+    "ratio_give": 14,
     "grade_level": 8.7,
     "word_count": 51
   },
@@ -36138,7 +36138,7 @@ window._comments = [
     "id": 47735821,
     "top_level": true,
     "date": "Jan 20 2024 13:11",
-    "likes": 11,
+    "likes": 12,
     "timestamp": 1705774312,
     "body": [
       [
@@ -36174,14 +36174,376 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 47735821,
-    "thread_children": 2,
-    "ratio_recv": -7,
+    "thread_children": 4,
+    "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 110
+  },
+  {
+    "post_id": 140850960,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-6e7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 47810380,
+    "top_level": false,
+    "date": "Jan 21 2024 17:19",
+    "likes": 0,
+    "timestamp": 1705875587,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT can natively do a decent job summarizing what candidates have said and done, including using Bing search to incorporate recent information. Eg, What is Donald Trump's policies and proposal on immigration for the 2024 election? "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/share/90a4c2ba-fd20-4f57-95c3-da707052990d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And there are already custom GPT that attempt to mimic the style of politicians with mixed success. Eg, Talk with Donald - 2024, "
+        },
+        {
+          "type": "url",
+          "value": "https://chat.openai.com/share/d120faa7-901c-4e7f-b305-e272b63c2001"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 47781551,
+    "parent_children": 2,
+    "thread_id": 47735821,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.9,
+    "word_count": 58
+  },
+  {
+    "post_id": 140960236,
+    "title": "Rich businessmen remember they're Republicans",
+    "canonical_url": "https://www.slowboring.com/p/rich-businessmen-remember-theyre",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48224570,
+    "top_level": false,
+    "date": "Jan 27 2024 05:35",
+    "likes": 1,
+    "timestamp": 1706351749,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here's the thread, including a link to the results spreadsheet, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/thursday-thread-bd3/comment/47117279"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I may look into creating a 2nd poll using feedback from the first sometime."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 48103847,
+    "parent_children": 7,
+    "thread_id": 48066876,
+    "thread_children": 63,
+    "ratio_recv": -1,
+    "ratio_give": -2,
+    "grade_level": 10.3,
+    "word_count": 24
+  },
+  {
+    "post_id": 141059253,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-ab7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48319916,
+    "top_level": true,
+    "date": "Jan 28 2024 14:04",
+    "likes": 9,
+    "timestamp": 1706468683,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Found some insights into the world view of Trump supporters in more experimentation with ChatGPT applied to Substack comments. This time summarizing the top 20 comments in The Free Press article, \u201cTrump. Again. The Question Is Why?\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.thefp.com/p/donald-trump-again-the-question-is-why"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The discussion across these comments reveals a profound discontent with the current state of American politics, media, and education systems. Commenters express a deep skepticism toward the political class and the media, criticizing the oversimplification of complex issues into sound bites and dismissing thoughtful debate in favor of sensationalism and division. There is a belief that President Trump, despite his flaws and contentious nature, represents resistance to what some see as an Orwellian fusion of educational institutions, media, and government aimed at stifling critical thinking and dissent. While acknowledging Trump\u2019s lack of significant achievements during his term and his polarizing character, supporters argue that the key issue is the concerted effort by the political establishment to undermine his administration, which they see as a challenge to their power and an attempt to stifle the will of the people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, these commenters often juxtapose Trump's actions and policies, such as tax reform, deregulation, and foreign policy successes, against the backdrop of what they perceive as a failing Biden administration. The perceived assault on traditional values and rights, along with fears of a rigged political system and growing disillusionment with the \"political machine,\" intensify the support for Trump. Despite his controversial manner and divisive impacts, for many, Trump is seen as a beacon of honesty and a disruptor of a broken system, whose straightforwardness resonates with those fatigued by political correctness and elite narratives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Trump's candidacy is viewed as a symbol of defiance by many ordinary Americans and independents, who feel marginalized and are yearning for representation and leadership that addresses their concerns. Despite misgivings about Trump's temperament and the potential risks of his leadership, his defiance against the establishment, commitment to core American values, and willingness to combat perceived threats from various international and domestic issues drive his support base. Commenters express an urgency to protect American democracy and national interests. The fear of continuation under the current administration fuels a willingness to support Trump despite the controversies, seeing no viable alternative that would bring about desired changes."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 48319916,
+    "thread_children": 6,
+    "ratio_recv": 8,
+    "ratio_give": null,
+    "grade_level": 16.1,
+    "word_count": 374
+  },
+  {
+    "post_id": 141059253,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-ab7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48319988,
+    "top_level": false,
+    "date": "Jan 28 2024 14:05",
+    "likes": 17,
+    "timestamp": 1706468746,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m particularly surprised by the confession of some obvious Trump flaws, including \u201clack of significant achievements during his term and his polarizing character\u201d. That\u2019s more awareness than I\u2019d expect. Further, this reinforces the hypothesis that Trump supporters are primarily driven by negative polarization with respect to the \u201cestablishment\u201d and the \u201celite\u201d. And their discontent transcends simple policy disagreements, entering the realm of paranoia and conspiratorial thinking. Notably, \u201cfears of a rigged political system\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also found this to be a more useful application of AI than summarizing SB comments because I\u2019m already obsessively reading through our discussions here and thereby absorbing an intuitive understanding of our hivemind. In contrast, I can rarely bring myself to study TFP comments to figure out their collective views and vibes. It\u2019s just commonly too poorly written and argued for even a good hate read. I appreciate ChatGPT offering a more palpable dispassionate summary of their major themes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Anyone else see some potential value here? Any ideas for further experimentation in studying other substack communities?"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 48319916,
+    "parent_children": 6,
+    "thread_id": 48319916,
+    "thread_children": 6,
+    "ratio_recv": -10,
+    "ratio_give": 8,
+    "grade_level": 11.7,
+    "word_count": 170
+  },
+  {
+    "post_id": 141120963,
+    "title": "The two crises in the news business",
+    "canonical_url": "https://www.slowboring.com/p/the-two-crises-in-the-news-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48435817,
+    "top_level": false,
+    "date": "Jan 30 2024 07:36",
+    "likes": 20,
+    "timestamp": 1706618168,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Not necessarily. Ben Thompson has written extensively on the conditions where bundling can increase benefits for both consumers and producers, and he has an entire section of newsletter archive dedicated to it, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/concept/business-models/bundling-and-unbundling/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For a concise example in the context of the cable bundle, I'd recommend Chris Dixon's \"How bundling benefits sellers and buyers\", "
+        },
+        {
+          "type": "url",
+          "value": "https://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Building on that example, Thompson elaborates on how the internet has broken that model in legacy media while recreating it in streaming services like Spotify in his article, \"The Great Unbundling\", "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-great-unbundling/"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 48434458,
+    "parent_children": 19,
+    "thread_id": 48434233,
+    "thread_children": 47,
+    "ratio_recv": -20,
+    "ratio_give": 17,
+    "grade_level": 37.2,
+    "word_count": 84
+  },
+  {
+    "post_id": 141120963,
+    "title": "The two crises in the news business",
+    "canonical_url": "https://www.slowboring.com/p/the-two-crises-in-the-news-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48436171,
+    "top_level": false,
+    "date": "Jan 30 2024 07:43",
+    "likes": 10,
+    "timestamp": 1706618613,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, they made 2.6B in net income in their last reported fiscal year, and although losing money in the two previous years, they've generally been profitable throughout the last decade, "
+        },
+        {
+          "type": "url",
+          "value": "https://stockanalysis.com/stocks/sbgi/financials/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 48435243,
+    "parent_children": 4,
+    "thread_id": 48434276,
+    "thread_children": 20,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 8.0,
+    "word_count": 30
+  },
+  {
+    "post_id": 141120963,
+    "title": "The two crises in the news business",
+    "canonical_url": "https://www.slowboring.com/p/the-two-crises-in-the-news-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48441091,
+    "top_level": false,
+    "date": "Jan 30 2024 09:05",
+    "likes": 32,
+    "timestamp": 1706623543,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No one has ever been able to make the economics work with individual digital purchases. Most people simply find even $1 to be too large of a barrier when there's so much free content online. And the revenue stream is highly volatile relative to subscriptions and ads. Much better to entice potential subscribers with occasional free articles and other online engagement in order to get the reliable recurring revenue of subscriptions."
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": 48435198,
+    "parent_children": 35,
+    "thread_id": 48435198,
+    "thread_children": 35,
+    "ratio_recv": -12,
+    "ratio_give": -31,
+    "grade_level": 10.2,
+    "word_count": 71
+  },
+  {
+    "post_id": 141120963,
+    "title": "The two crises in the news business",
+    "canonical_url": "https://www.slowboring.com/p/the-two-crises-in-the-news-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48444478,
+    "top_level": false,
+    "date": "Jan 30 2024 09:47",
+    "likes": 20,
+    "timestamp": 1706626044,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For example, if Slow Boring started offering individual purchases, then I imagine fewer free subscribers would convert to paid over time because when they finally got over their barrier to paying, they can contend themselves with a single article rather than committing to a subscription. Matt and co. would have to regularly convince free subscribers and guest to making purchases, whereas now they just need to get us to click subscribe once. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, once we commit to a purchase, we're more likely to read future paid articles that we've already bought. We may even feel compelled to consume to justify our past purchase decision. As we grow accustom to the habit of reading SB, our subscription becomes increasingly sticky."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 48441091,
+    "parent_children": 15,
+    "thread_id": 48435198,
+    "thread_children": 35,
+    "ratio_recv": -19,
+    "ratio_give": -12,
+    "grade_level": 11.0,
+    "word_count": 119
+  },
+  {
+    "post_id": 141120963,
+    "title": "The two crises in the news business",
+    "canonical_url": "https://www.slowboring.com/p/the-two-crises-in-the-news-business",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48484047,
+    "top_level": false,
+    "date": "Jan 30 2024 18:23",
+    "likes": 0,
+    "timestamp": 1706657018,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. The historical bundle was the local newspaper that included national news, sports, classified, etc. in addition to the local news. Following the \"Great Unbundling\" of the last two decades, consumers have better and cheaper options for each part of the newspaper bundle, which leaves local news lacking in a business model."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 48475531,
+    "parent_children": 2,
+    "thread_id": 48434233,
+    "thread_children": 47,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.0,
+    "word_count": 52
   }
 ];
