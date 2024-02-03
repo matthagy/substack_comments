@@ -36372,7 +36372,7 @@ window._comments = [
     "id": 48435817,
     "top_level": false,
     "date": "Jan 30 2024 07:36",
-    "likes": 20,
+    "likes": 21,
     "timestamp": 1706618168,
     "body": [
       [
@@ -36406,13 +36406,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 48434458,
-    "parent_children": 19,
+    "parent_children": 20,
     "thread_id": 48434233,
-    "thread_children": 47,
-    "ratio_recv": -20,
-    "ratio_give": 17,
+    "thread_children": 49,
+    "ratio_recv": -21,
+    "ratio_give": 18,
     "grade_level": 37.2,
     "word_count": 84
   },
@@ -36426,7 +36426,7 @@ window._comments = [
     "id": 48436171,
     "top_level": false,
     "date": "Jan 30 2024 07:43",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1706618613,
     "body": [
       [
@@ -36444,9 +36444,9 @@ window._comments = [
     "parent_id": 48435243,
     "parent_children": 4,
     "thread_id": 48434276,
-    "thread_children": 20,
+    "thread_children": 22,
     "ratio_recv": null,
-    "ratio_give": 2,
+    "ratio_give": 3,
     "grade_level": 8.0,
     "word_count": 30
   },
@@ -36460,7 +36460,7 @@ window._comments = [
     "id": 48441091,
     "top_level": false,
     "date": "Jan 30 2024 09:05",
-    "likes": 32,
+    "likes": 38,
     "timestamp": 1706623543,
     "body": [
       [
@@ -36470,13 +36470,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 15,
+    "total_children": 19,
     "parent_id": 48435198,
-    "parent_children": 35,
+    "parent_children": 40,
     "thread_id": 48435198,
-    "thread_children": 35,
-    "ratio_recv": -12,
-    "ratio_give": -31,
+    "thread_children": 40,
+    "ratio_recv": -9,
+    "ratio_give": -39,
     "grade_level": 10.2,
     "word_count": 71
   },
@@ -36490,7 +36490,7 @@ window._comments = [
     "id": 48444478,
     "top_level": false,
     "date": "Jan 30 2024 09:47",
-    "likes": 20,
+    "likes": 29,
     "timestamp": 1706626044,
     "body": [
       [
@@ -36506,13 +36506,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 48441091,
-    "parent_children": 15,
+    "parent_children": 19,
     "thread_id": 48435198,
-    "thread_children": 35,
-    "ratio_recv": -19,
-    "ratio_give": -12,
+    "thread_children": 40,
+    "ratio_recv": -27,
+    "ratio_give": -9,
     "grade_level": 11.0,
     "word_count": 119
   },
@@ -36538,12 +36538,102 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 48475531,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 48434233,
-    "thread_children": 47,
+    "thread_children": 49,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.0,
     "word_count": 52
+  },
+  {
+    "post_id": 141231262,
+    "title": "Karma mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/karma-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48673917,
+    "top_level": false,
+    "date": "Feb 02 2024 08:57",
+    "likes": 7,
+    "timestamp": 1706882224,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a layperson, originalism and textism both seem tempting as a stable manner of consistently applying laws. In practice there is certainly a lot of \u201cflexibility\u201d in how these approaches are applied. Yet I find forgoing a focus on objective interpretations, and accepting that justices will apply their best judgment in a fashion that can evolve over time, to be an invalidation of the rule of law. Relying chiefly on the character, value, and beliefs of individual people feels like a regression into more primitive governance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I wish that there was more public discourse among liberals on some strategy for an objective and time-consistent application of laws. Including how to draft better laws with less room for future reinterpretations. Instead, our ingenuity seems to lend towards sophistry to manufacture our desired outcome regardless of the relevant laws and precedences. Eg, novel interpretations of the 2nd amendment to allow a total firearm ban"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I fear we risk liberal values and policy outcomes when we walk away from the rule of law and degrade back to subjective decision making. Even if we get a few wins in the short term, it seems like a way to empower reactionary elements that thrive in a rule of personality system."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 48669556,
+    "parent_children": 39,
+    "thread_id": 48667589,
+    "thread_children": 148,
+    "ratio_recv": -5,
+    "ratio_give": 0,
+    "grade_level": 12.2,
+    "word_count": 205
+  },
+  {
+    "post_id": 141231262,
+    "title": "Karma mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/karma-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48675439,
+    "top_level": false,
+    "date": "Feb 02 2024 09:17",
+    "likes": 2,
+    "timestamp": 1706883424,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "One suggestion for better laws: list examples of situations where the law does or doesn\u2019t apply, and the expected outcome when it does."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is inspired by my work as a programmer where test cases are an essential tool for verifying that the computer will interpret our code as intended. Furthermore, considering actual examples clarifies our intentions and is helpful in working through nuances of the code. Particularly edge cases (ie, unusual situations) and boundary cases (ie, instances we don\u2019t expect the code to handle) can guide us in writing the simplest and most legible code that still serves our full intentions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These example test cases, including expected outcomes, are also useful documentation for future engineers working on the system. And in modifying the code we can consider the impact on pre-existing test cases. At times that can identify bugs in our revisions. Other times we change the expected outcome because our intentions have evolved."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Imagine if the drafters of the 2nd amendment had listed some examples of cases where private ownership of armaments are allowed, as well as cases where they aren\u2019t. Eg, if they explained that private citizens can own weapons caches rivaling the government then we\u2019d certainly know that the law was unbounded. More likely they would be forced to draw the line somewhere. Even if the historical examples are insufficient for our present case, they would certainly provide a useful guide in consistent application of the law. Eg, if private citizens were prohibited from owning cannons then we may feel confident in banning semi-automatic rifles with large magazines."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 48673917,
+    "parent_children": 3,
+    "thread_id": 48667589,
+    "thread_children": 148,
+    "ratio_recv": 0,
+    "ratio_give": -5,
+    "grade_level": 11.2,
+    "word_count": 262
   }
 ];
