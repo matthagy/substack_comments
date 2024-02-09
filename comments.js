@@ -36702,7 +36702,7 @@ window._comments = [
     "id": 49061494,
     "top_level": true,
     "date": "Feb 07 2024 17:11",
-    "likes": 19,
+    "likes": 20,
     "timestamp": 1707343903,
     "body": [
       [
@@ -36775,7 +36775,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 49061494,
     "thread_children": 4,
-    "ratio_recv": -11,
+    "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 168
