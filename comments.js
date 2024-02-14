@@ -36779,5 +36779,221 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 168
+  },
+  {
+    "post_id": 141575858,
+    "title": "We need to see more Joe Biden",
+    "canonical_url": "https://www.slowboring.com/p/we-need-to-see-more-joe-biden",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49443676,
+    "top_level": false,
+    "date": "Feb 13 2024 07:23",
+    "likes": 25,
+    "timestamp": 1707827015,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, the US had a very different inflation trajectory than the rest of the world, particularly Europe. Notably, US core inflation rose in spring/summer 2021, well before inflation was seen elsewhere. [1] Inflation didn\u2019t become a concern in Europe until the massive European energy price spike following Russia\u2019s invasion of Ukraine in Feb 2022."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Jason Furman has a great Twitter thread from Jun 2022 comparing inflation in the US vs Europe, demonstrating that European inflation was driven more by energy, whereas US inflation resulted from excess demand as attributed to fiscal/monetary stimulus. "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/jasonfurman/status/1534174026259734528"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-08-10/us-inflation-decelerates-more-than-forecast-on-gas-price-drop"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 49443033,
+    "parent_children": 3,
+    "thread_id": 49441217,
+    "thread_children": 44,
+    "ratio_recv": -15,
+    "ratio_give": 7,
+    "grade_level": 14.7,
+    "word_count": 93
+  },
+  {
+    "post_id": 141644425,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-a9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49490003,
+    "top_level": true,
+    "date": "Feb 13 2024 17:10",
+    "likes": 11,
+    "timestamp": 1707862251,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Completed the ChatGPT-generated categorization and summarization of comments from The Free Press, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/tfp_comment_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The 5 most frequent comment categories are titled:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Red-Pilled Awakening and Progressive Critique"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Political Alignments and Antisemitism in Contemporary America"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Polarization in American Politics"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Societal Issues and Governance Challenges"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Vaccine Skepticism and Public Health Distrust"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Uses the same methods as previously applied to Slow Boring comments, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-ddf/comment/49061494"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In many ways these categories meet my expectations for TFP discussions. Yet I was surprised by the constant recurrence of disillusionment, paranoia, and distrust of every institution across these different topics. These people seem to truly believe there are some Democratic/Progressive elites that control everything and can explain all of their problems. I wish!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Any suggestions for Substack communities to explore next?"
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 49490003,
+    "thread_children": 15,
+    "ratio_recv": 3,
+    "ratio_give": null,
+    "grade_level": 18.5,
+    "word_count": 120
+  },
+  {
+    "post_id": 141644425,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-a9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49491621,
+    "top_level": false,
+    "date": "Feb 13 2024 17:32",
+    "likes": 4,
+    "timestamp": 1707863564,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good idea! The one challenges is that \"likes\" are disabled so it's not straightforward to identify the top-performing comments. I can try just running on a random sample."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 49490745,
+    "parent_children": 12,
+    "thread_id": 49490003,
+    "thread_children": 15,
+    "ratio_recv": -3,
+    "ratio_give": -10,
+    "grade_level": 7.6,
+    "word_count": 28
+  },
+  {
+    "post_id": 141644425,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-a9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49492442,
+    "top_level": false,
+    "date": "Feb 13 2024 17:44",
+    "likes": 3,
+    "timestamp": 1707864277,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Survey is still open, "
+        },
+        {
+          "type": "url",
+          "value": "https://forms.gle/XQ1mhziM2ovS8Wbj9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Results, "
+        },
+        {
+          "type": "url",
+          "value": "https://docs.google.com/spreadsheets/d/1LzXBOzIGH1nkqPKBy_fY21Cs7Y2Nvd6Qo_tLYXMlO5I/edit?usp=sharing"
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 49491902,
+    "parent_children": 8,
+    "thread_id": 49489577,
+    "thread_children": 35,
+    "ratio_recv": -2,
+    "ratio_give": 1,
+    "grade_level": 2.9,
+    "word_count": 5
   }
 ];
