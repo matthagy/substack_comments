@@ -21942,7 +21942,7 @@ window._comments = [
   {
     "post_id": 98334107,
     "title": "Open Thread 260",
-    "canonical_url": "https://astralcodexten.substack.com/p/open-thread-260",
+    "canonical_url": "https://www.astralcodexten.com/p/open-thread-260",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -21984,7 +21984,7 @@ window._comments = [
   {
     "post_id": 98334107,
     "title": "Open Thread 260",
-    "canonical_url": "https://astralcodexten.substack.com/p/open-thread-260",
+    "canonical_url": "https://www.astralcodexten.com/p/open-thread-260",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -36790,7 +36790,7 @@ window._comments = [
     "id": 49443676,
     "top_level": false,
     "date": "Feb 13 2024 07:23",
-    "likes": 25,
+    "likes": 28,
     "timestamp": 1707827015,
     "body": [
       [
@@ -36824,9 +36824,9 @@ window._comments = [
     "parent_id": 49443033,
     "parent_children": 3,
     "thread_id": 49441217,
-    "thread_children": 44,
-    "ratio_recv": -15,
-    "ratio_give": 7,
+    "thread_children": 45,
+    "ratio_recv": -18,
+    "ratio_give": 9,
     "grade_level": 14.7,
     "word_count": 93
   },
@@ -36840,7 +36840,7 @@ window._comments = [
     "id": 49490003,
     "top_level": true,
     "date": "Feb 13 2024 17:10",
-    "likes": 11,
+    "likes": 14,
     "timestamp": 1707862251,
     "body": [
       [
@@ -36912,11 +36912,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 15,
+    "total_children": 18,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 49490003,
-    "thread_children": 15,
+    "thread_children": 18,
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 18.5,
@@ -36944,11 +36944,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 49490745,
-    "parent_children": 12,
+    "parent_children": 14,
     "thread_id": 49490003,
-    "thread_children": 15,
+    "thread_children": 18,
     "ratio_recv": -3,
-    "ratio_give": -10,
+    "ratio_give": -13,
     "grade_level": 7.6,
     "word_count": 28
   },
@@ -36962,7 +36962,7 @@ window._comments = [
     "id": 49492442,
     "top_level": false,
     "date": "Feb 13 2024 17:44",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1707864277,
     "body": [
       [
@@ -36990,10 +36990,112 @@ window._comments = [
     "parent_id": 49491902,
     "parent_children": 8,
     "thread_id": 49489577,
-    "thread_children": 35,
-    "ratio_recv": -2,
-    "ratio_give": 1,
+    "thread_children": 37,
+    "ratio_recv": -3,
+    "ratio_give": 2,
     "grade_level": 2.9,
     "word_count": 5
+  },
+  {
+    "post_id": 141428009,
+    "title": "Lots of people lose jobs even in a \"good economy\" ",
+    "canonical_url": "https://www.slowboring.com/p/lots-of-people-lose-jobs-even-in",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49523667,
+    "top_level": true,
+    "date": "Feb 14 2024 07:47",
+    "likes": 22,
+    "timestamp": 1707914828,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> let markets and competition work while using taxes to finance public services and a safety net."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I personally prefer this technocratic, neoliberal-ish approach of expanding the welfare state to smooth out the economic pain of job losses from technological progress, I think many people find this underwhelming due to an emotional attachment to their job; particularly if it involves novel skills. A darkroom technician with a decade of experience is still psychologically devastated to have to restart their career in a junior role at an advanced age even if we can minimize the economic pain. There\u2019s just something of a loss in dignity or status associated with such vocational transitions. Hence, people are emotionally drawn towards job protecting policies over material assistance in repurposing labor resources."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Politically, people don\u2019t want to accept that job losses are necessary, if not unavoidable, in a dynamic economy. Hence, raising the salience of these concerns leads voters towards job protecting measures. I therefore think it\u2019s better that we avoid these discussions in our politics so that we can preserve economic dynamism and growth."
+        }
+      ]
+    ],
+    "total_children": 40,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 49523667,
+    "thread_children": 40,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 13.2,
+    "word_count": 180
+  },
+  {
+    "post_id": 141462137,
+    "title": "The case for the immigration deal",
+    "canonical_url": "https://www.slowboring.com/p/the-case-for-the-immigration-deal",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49600207,
+    "top_level": false,
+    "date": "Feb 15 2024 07:37",
+    "likes": 36,
+    "timestamp": 1708000661,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Asylum wasn't envisioned as a general solution to help people escape awful situations, but was instead created to avoid the specific horrors of high-state-capacity governments employing industrial methods towards systematic persecution and extermination of targeted minorities."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 49599093,
+    "parent_children": 10,
+    "thread_id": 49598378,
+    "thread_children": 11,
+    "ratio_recv": -31,
+    "ratio_give": 34,
+    "grade_level": 25.6,
+    "word_count": 36
+  },
+  {
+    "post_id": 141462137,
+    "title": "The case for the immigration deal",
+    "canonical_url": "https://www.slowboring.com/p/the-case-for-the-immigration-deal",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49600485,
+    "top_level": false,
+    "date": "Feb 15 2024 07:42",
+    "likes": 13,
+    "timestamp": 1708000977,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Undemocratic liberalism is an oxymoron. Yes, there is a need to balance democracy and liberalism, including anti-majoritarian institutions like SCOTUS to mediate against sudden swings in popular mood. But ultimately democracy has to prevail. Non-democratic states are inherently unstable; in the end the people will have their way."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 49598331,
+    "parent_children": 17,
+    "thread_id": 49597818,
+    "thread_children": 100,
+    "ratio_recv": -10,
+    "ratio_give": 10,
+    "grade_level": 11.5,
+    "word_count": 48
   }
 ];
