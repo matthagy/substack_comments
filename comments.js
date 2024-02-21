@@ -37048,7 +37048,7 @@ window._comments = [
     "id": 49600207,
     "top_level": false,
     "date": "Feb 15 2024 07:37",
-    "likes": 36,
+    "likes": 38,
     "timestamp": 1708000661,
     "body": [
       [
@@ -37063,8 +37063,8 @@ window._comments = [
     "parent_children": 10,
     "thread_id": 49598378,
     "thread_children": 11,
-    "ratio_recv": -31,
-    "ratio_give": 34,
+    "ratio_recv": -32,
+    "ratio_give": 36,
     "grade_level": 25.6,
     "word_count": 36
   },
@@ -37097,5 +37097,47 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 11.5,
     "word_count": 48
+  },
+  {
+    "post_id": 141548503,
+    "title": "Socialists or anarchists?",
+    "canonical_url": "https://www.slowboring.com/p/socialists-or-anarchists",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 49948502,
+    "top_level": true,
+    "date": "Feb 20 2024 07:50",
+    "likes": 21,
+    "timestamp": 1708433431,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that this anarchist/socialist dichotomy in modern left-leaning thought is insightful, particularly anarchistic-influenced beliefs being peddled under socialist branding. Yet I think these differences aren\u2019t that important due to the general shallowness of popular political thought on the left. These are just negative vibes riding on the language of historical political thought, largely divorced from the underlying \u201ctheory\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And of course MAGAism/Trumpism goes even further in embracing anti-establishment emotions with just a varnish of right-ish/converativ-ish wording. It doesn\u2019t matter if Trump contradicts himself in the same run on sentence because he\u2019s simply channeling anger at the \u201csystem\u201d and \u201celites\u201d into something resembling political language."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I attribute this intellectual emptiness to the empirical failures of Marxism, anarchism, nationalism, etc in the 20th century. People who actually care about political theory all eventually drift into some synthesis of liberalism, democracy, and mixed economies. As Fukuyama predicted in 1989, an enticing alternative has failed to materialize."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 49948502,
+    "thread_children": 11,
+    "ratio_recv": -14,
+    "ratio_give": null,
+    "grade_level": 14.4,
+    "word_count": 154
   }
 ];
