@@ -37108,7 +37108,7 @@ window._comments = [
     "id": 49948502,
     "top_level": true,
     "date": "Feb 20 2024 07:50",
-    "likes": 21,
+    "likes": 24,
     "timestamp": 1708433431,
     "body": [
       [
@@ -37135,9 +37135,68 @@ window._comments = [
     "parent_children": null,
     "thread_id": 49948502,
     "thread_children": 11,
-    "ratio_recv": -14,
+    "ratio_recv": -16,
     "ratio_give": null,
     "grade_level": 14.4,
     "word_count": 154
+  },
+  {
+    "post_id": 141890579,
+    "title": "End of the mailbag as we know it ",
+    "canonical_url": "https://www.slowboring.com/p/end-of-the-mailbag-as-we-know-it",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50176760,
+    "top_level": false,
+    "date": "Feb 23 2024 07:43",
+    "likes": 9,
+    "timestamp": 1708692195,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For people that genuinely care in their personal consumption there are brands that credibly commit to specific standards in all of their meats."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, Whole Foods, Meat Department Quality Standards, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wholefoodsmarket.com/quality-standards/meat-standards"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Traceable to farm or ranch. No antibiotics, ever, and no added growth hormones. Because better meat is our commitment to you."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Whether it\u2019s grass-fed beef or air-chilled chicken, you deserve to feel good about the meat you\u2019re buying. For meat and poultry throughout our Meat department, our standards and strong relationships with farmers and ranchers mean we know where the animals were raised. We also care about how animals are raised \u2014 and we\u2019ve developed our rigorous standards with their welfare in mind."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And many niche retailers and restaurants going even further in the specific standards in all of their offerings."
+        }
+      ],
+      []
+    ],
+    "total_children": 16,
+    "parent_id": 50175827,
+    "parent_children": 19,
+    "thread_id": 50173791,
+    "thread_children": 36,
+    "ratio_recv": -5,
+    "ratio_give": -1,
+    "grade_level": 8.5,
+    "word_count": 130
   }
 ];
