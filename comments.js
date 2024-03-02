@@ -37198,5 +37198,137 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 8.5,
     "word_count": 130
+  },
+  {
+    "post_id": 142186179,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-aca",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50663720,
+    "top_level": false,
+    "date": "Feb 29 2024 19:34",
+    "likes": 11,
+    "timestamp": 1709253264,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Currently it has the 4th most comment of any SB article w/ 861 comments. Top 5:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 1034, 2022-01-17, Ask me stuff, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/ask-me-stuff"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 898, 2023-11-15, Antisemitism in America, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/antisemitism-in-america"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 884, 2023-07-10, What I got wrong about Covid , "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/what-i-got-wrong-about-covid"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 861, 2024-02-29, How we got here, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/how-we-got-here-ce8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 844, 2023-08-21, The two kinds of progressives, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-two-kinds-of-progressives"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Format: comment count, date, title, url. Looks like it could reach the number 2 position before people abandon the discussion."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 50656099,
+    "parent_children": 82,
+    "thread_id": 50654796,
+    "thread_children": 103,
+    "ratio_recv": -6,
+    "ratio_give": 4,
+    "grade_level": 8.4,
+    "word_count": 67
+  },
+  {
+    "post_id": 142120863,
+    "title": "How IRA results are stacking up to predictions ",
+    "canonical_url": "https://www.slowboring.com/p/how-ira-results-are-stacking-up-to",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50688879,
+    "top_level": false,
+    "date": "Mar 01 2024 07:42",
+    "likes": 11,
+    "timestamp": 1709296965,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m hopeful that AI will save us from social media following the prediction from Ben Thompson in, \u201cRegretful Accelerationism\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2023/regretful-accelerationism/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "His prediction that the open internet at large (ie, non-paid content), particularly social media, will be flooded with AI content, eliminating the ability for human content creators, particularly influencers, to monetize through ads. With people having to pay for non-AI content, we\u2019ll be balkanized into disparate communities (eg, substacks) and social media will die."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In this I do, with reluctance, adopt an accelerationist view of progress; call it r/acc: regretful accelerationism. I suspect we humans do better with constraints; the Internet stripped away the constraint of physical distribution, and now AI is removing the constraint of needing to actually produce content. That this is spoiling the Internet is perhaps the best hope for finding our way back to what is real. Let the virtual world be one of customized content for every individual, with the assumption it is all made-up; some may lose themselves to the algorithm and AI friends, but perhaps more will realize that the only way to survive online is to pay it increasingly little heed."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 50686689,
+    "parent_children": 8,
+    "thread_id": 50685776,
+    "thread_children": 14,
+    "ratio_recv": -7,
+    "ratio_give": 6,
+    "grade_level": 15.5,
+    "word_count": 188
   }
 ];
