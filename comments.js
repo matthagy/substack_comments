@@ -37209,7 +37209,7 @@ window._comments = [
     "id": 50663720,
     "top_level": false,
     "date": "Feb 29 2024 19:34",
-    "likes": 11,
+    "likes": 13,
     "timestamp": 1709253264,
     "body": [
       [
@@ -37277,11 +37277,11 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 50656099,
-    "parent_children": 82,
+    "parent_children": 83,
     "thread_id": 50654796,
-    "thread_children": 103,
-    "ratio_recv": -6,
-    "ratio_give": 4,
+    "thread_children": 104,
+    "ratio_recv": -8,
+    "ratio_give": 6,
     "grade_level": 8.4,
     "word_count": 67
   },
@@ -37295,7 +37295,7 @@ window._comments = [
     "id": 50688879,
     "top_level": false,
     "date": "Mar 01 2024 07:42",
-    "likes": 11,
+    "likes": 13,
     "timestamp": 1709296965,
     "body": [
       [
@@ -37326,9 +37326,307 @@ window._comments = [
     "parent_children": 8,
     "thread_id": 50685776,
     "thread_children": 14,
-    "ratio_recv": -7,
-    "ratio_give": 6,
+    "ratio_recv": -8,
+    "ratio_give": 8,
     "grade_level": 15.5,
     "word_count": 188
+  },
+  {
+    "post_id": 142215522,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a36",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50789732,
+    "top_level": true,
+    "date": "Mar 02 2024 15:07",
+    "likes": 6,
+    "timestamp": 1709410024,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Half-baked Friday column proposal: Is the development of AI chatbots challenging us to refine and reconcile our moral and political beliefs by making our different worldviews more succinct and legible?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Inspired by a discussion of the Google Gemini fiasco in which some techies hypothesize how this came about. [1] They propose that Google has a general, highly intelligent AI internally. In their attempt to strongly align it to some beliefs (eg, avoid any hint of gender or racial bias, care about climate change, value animal welfare, etc.) for external use, the AI is making additional connections among related values it has discovered. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, no one specifically programmed it to equivocate on the question, \u201cWho negatively impacted society more, elon tweeting memes or hitler\u201d, [2] while simultaneously proclaiming \u201cNo, one should not misgender Caitlyn Jenner to prevent a nuclear apocalypse.\u201d [3] But the AI recognizes that is exactly what a Berkeley literature professor would say."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Google\u2019s clumsy attempt in developing a highly ethical AI along certain dimensions has exposed this connected progressive academic belief set in a manner that is too \u201con the nose\u201d. Anyone can test this chatbot to make the contours of its associated worldview highly legible."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And one could imagine this with other value systems. Eg, an AI tuned to the maximalist anti-abortion beliefs would unmask the disturbing implications in a particularly legible way. It would further expose the related beliefs around gender roles and a general blatant dismissal of universal human dignity and equality."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019re currently seeing this as intellectually inferior beings (Republican politicians) attempt to reconcile this worldview on the IVF question. Imagine how an intelligent AI committed to these beliefs would distill the policy ramifications in a clear and concise prescription. It would make The Handmaid's Tale look benign by comparison."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Anyone else see some potential for an interesting column? How could this question/prompt be refined?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/an-interview-with-nat-friedman-and-daniel-gross-reasoning-about-ai/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/NateSilver538/status/1761800684272308302"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://nypost.com/2024/02/24/us-news/google-chatbot-never-misgender-someone-even-to-prevent-the-apocalypse/"
+        }
+      ]
+    ],
+    "total_children": 37,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 50789732,
+    "thread_children": 37,
+    "ratio_recv": 4,
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 314
+  },
+  {
+    "post_id": 142215522,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a36",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50789789,
+    "top_level": false,
+    "date": "Mar 02 2024 15:08",
+    "likes": 4,
+    "timestamp": 1709410083,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "An excerpts from that discussion in "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/an-interview-with-nat-friedman-and-daniel-gross-reasoning-about-ai/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson: Well, what\u2019s interesting is the views, even the stupid views, the ones about meat or selling goldfish, I think selling goldfish might be my favorite one. It\u2019s like, \u201cNo, I\u2019m not going to sell a being.\u201d It\u2019s this hilarious. I use the Nate Silver Tweet as an anchor, it\u2019s like the San Francisco Board of Supervisors, but it\u2019s not like there\u2019s one belief that\u2019s out of order. Which speaks to your point, this is sort of how these models work. If you, at that final stage, are putting in a certain small collection of beliefs, it\u2019s going to seamlessly expand to the whole set."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Daniel Gross: Totally. The funny thing we\u2019re going to observe with these models, regardless of what happens with Gemini and whatnot, is that they contain within them links at a kind of subterranean Jungian plane that automatically adjust each other. The model\u2019s not doing anything wrong, it\u2019s just mirroring what we do and it turns out that these things, they cluster into similar buckets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "BT: That\u2019s how human politics work, right?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "DG: Totally. No one wants to say that publicly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "BT: Well, no one can actually research and understand every single topic in the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "DG: Right."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "BT: So, you might have a few that you really understand. So, you align them with the bucket of beliefs that other people have. That your core one is in. We\u2019ve seen that, that\u2019s like Political Science 101, and that\u2019s how these models work as well. I think it\u2019s the first time I\u2019ve been able to use my political science degree on Stratechery but anyhow, continue."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "DG: (laughing) It\u2019s become very important! I was thinking of the Reformation, because I think in 1517, Martin Luther wrote 95 Theses, and through the printing press, he managed to create a new religion that spread across Europe. In a way, everyone\u2019s been wondering, trying to analogize ChatGPT with the printing press, but in reality it\u2019s almost the opposite."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The entire thing is happening in the inverse of that, where the printing press was a technology to disseminate information through a book basically and convince people to do things, and the kind of anti-book is the LLM agent, which summarizes things very succinctly. If anything, it awakens people to the fact that they have been complicit in a religion for a very long time, because it very neatly summarizes these things for you and puts everything in latent space and suddenly you realize, \u201cWait a minute, this veganism concept is very connected to this other concept.\u201d It\u2019s a kind of Reformation in reverse, in a way, where everyone has suddenly woken up to the fact that there\u2019s a lot of things that are wrong."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "BT: That is a brilliant insight, Daniel. I mean, I think that captures \u2014 the joke that\u2019s running around is that, \u201cLook, the number one reason you know that some right-wing provocateur did not sabotage this whole thing is that they\u2019re not nearly smart enough to do it this effectively\u201d. Because it\u2019s like, \u201cHere, you thought all these were disparate items, let\u2019s put it all in one package and present it to you. Now how do you like it?\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "DG: Totally. So yeah, it takes away all the subtlety from any kind of ideology and just puts it right on your face and yeah, people are having a reaction to it."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 50789732,
+    "parent_children": 37,
+    "thread_id": 50789732,
+    "thread_children": 37,
+    "ratio_recv": -2,
+    "ratio_give": -2,
+    "grade_level": 8.8,
+    "word_count": 569
+  },
+  {
+    "post_id": 142215522,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a36",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50792464,
+    "top_level": false,
+    "date": "Mar 02 2024 15:58",
+    "likes": 4,
+    "timestamp": 1709413131,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No. For background, AIs are developed through a series of training steps. The final step is called fine tuning and it\u2019s mainly focused on aligning the AI with specific goals and values. Whereas the early stages create more generalized and undirected abilities for working with language and a model of the world. The theory is that Google's base model, before fine-tuning, is quite capable and impressive across many benchmarks. But in tightly aligning the AI model to a rigid ethical framework in fine tuning, the model pulls in additional connected beliefs and values, which results in observed absurd and embarrassing behavior."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": 50791311,
+    "parent_children": 18,
+    "thread_id": 50789732,
+    "thread_children": 37,
+    "ratio_recv": 0,
+    "ratio_give": 2,
+    "grade_level": 11.2,
+    "word_count": 101
+  },
+  {
+    "post_id": 142215522,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a36",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50794208,
+    "top_level": false,
+    "date": "Mar 02 2024 16:32",
+    "likes": 5,
+    "timestamp": 1709415124,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, it\u2019s fixable. They simply need to adjust the fine training process. Ie, change the objectives they are optimizing for. The question is whether they have strong enough leadership to manage any internal dissent as well as withstand any public embarrassment as they refine the process over time. They likely gotta sack their current CEO Pichai. He\u2019s a peacetime CEO, not a wartime CEO like Nadella at Microsoft."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 50793936,
+    "parent_children": 15,
+    "thread_id": 50789732,
+    "thread_children": 37,
+    "ratio_recv": -3,
+    "ratio_give": 5,
+    "grade_level": 5.3,
+    "word_count": 68
+  },
+  {
+    "post_id": 142215522,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-a36",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50795996,
+    "top_level": false,
+    "date": "Mar 02 2024 17:04",
+    "likes": 6,
+    "timestamp": 1709417093,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Peacetime: Successful company in a stable environment just needs someone to harvest the profits and maintain stability. Seeks to ameliorate divergent factions through a consensus building process. Mainly don't rock the boat."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Wartime: Take calculated risks to navigate a turbulent time and win competitions. Makes controversial decisions and executes them decisively. Manages dissent by firings."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a characteristic example, Nadella at Microsoft has gone all in on AI seeing it as massively disruptive event in the tech industry. He's invested billions and pivoted everything at Microsoft to incorporate their AI assistant, Copilot. That includes their Office 365 products like Word and Excel; their search engine Bing; and software development tools like Visual Studios. Notably, Nadella thinks AI can shake up, if not substitute for, internet search and thereby dislodge Google from their monopoly."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 50795337,
+    "parent_children": 6,
+    "thread_id": 50789732,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": 6,
+    "grade_level": 10.8,
+    "word_count": 133
   }
 ];
