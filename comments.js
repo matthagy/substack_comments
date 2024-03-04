@@ -37628,5 +37628,95 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 10.8,
     "word_count": 133
+  },
+  {
+    "post_id": 142219454,
+    "title": "How Slow Boring plans to cover the 2024 election",
+    "canonical_url": "https://www.slowboring.com/p/how-slow-boring-plans-to-cover-the-63a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50886839,
+    "top_level": false,
+    "date": "Mar 04 2024 07:39",
+    "likes": 2,
+    "timestamp": 1709555947,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But there's a ton of subjectivity here and in the absence of a SOCTUS decisions on the specific order, people have to apply their own discretion. That can include refusing an unlawful order and resigning. But we don't want people \"doing their own research\" when it comes to subverting the state from within. It's no surprise that almost everyone can find a legitimate reason for their intuitive sense of what to do in the first place through motivated reason."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 50886284,
+    "parent_children": 4,
+    "thread_id": 50884619,
+    "thread_children": 10,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 9.8,
+    "word_count": 79
+  },
+  {
+    "post_id": 142219454,
+    "title": "How Slow Boring plans to cover the 2024 election",
+    "canonical_url": "https://www.slowboring.com/p/how-slow-boring-plans-to-cover-the-63a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50887276,
+    "top_level": false,
+    "date": "Mar 04 2024 07:47",
+    "likes": 1,
+    "timestamp": 1709556463,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It's the result of a vicious cycle. Doesn't matter how it started because the more voters care about his age, the more it becomes a newsworthy topic, further increasing the salience of the issue among voters. Certainly doesn't help that many voters and journalist feel they have an axe to grind with Biden and are just searching for plausible narrative."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 50884110,
+    "parent_children": 2,
+    "thread_id": 50884110,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 9.9,
+    "word_count": 60
+  },
+  {
+    "post_id": 142219454,
+    "title": "How Slow Boring plans to cover the 2024 election",
+    "canonical_url": "https://www.slowboring.com/p/how-slow-boring-plans-to-cover-the-63a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50887499,
+    "top_level": false,
+    "date": "Mar 04 2024 07:52",
+    "likes": 1,
+    "timestamp": 1709556729,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In our pluralistic, highly polarized country, there is no commonly accepted definition of a \"reasonable person\". I bet many Republicans (and even some leftists) could easily conjure a list of Biden's \"constitutional crimes\" or \"crimes against humanity\". (Isn't there some Biden impeachment process going on?) I certainly don't want anyone in the administration, military, or state at large who feels that way working to undermine his presidency from within."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 50887258,
+    "parent_children": 2,
+    "thread_id": 50884619,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 11.2,
+    "word_count": 69
   }
 ];
