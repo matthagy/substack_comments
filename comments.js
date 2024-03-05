@@ -37639,7 +37639,7 @@ window._comments = [
     "id": 50886839,
     "top_level": false,
     "date": "Mar 04 2024 07:39",
-    "likes": 2,
+    "likes": 14,
     "timestamp": 1709555947,
     "body": [
       [
@@ -37649,12 +37649,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 10,
     "parent_id": 50886284,
-    "parent_children": 4,
+    "parent_children": 13,
     "thread_id": 50884619,
-    "thread_children": 10,
-    "ratio_recv": -2,
+    "thread_children": 39,
+    "ratio_recv": -12,
     "ratio_give": 2,
     "grade_level": 9.8,
     "word_count": 79
@@ -37669,7 +37669,7 @@ window._comments = [
     "id": 50887276,
     "top_level": false,
     "date": "Mar 04 2024 07:47",
-    "likes": 1,
+    "likes": 14,
     "timestamp": 1709556463,
     "body": [
       [
@@ -37679,13 +37679,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 11,
     "parent_id": 50884110,
-    "parent_children": 2,
+    "parent_children": 15,
     "thread_id": 50884110,
-    "thread_children": 2,
-    "ratio_recv": null,
-    "ratio_give": 1,
+    "thread_children": 15,
+    "ratio_recv": -6,
+    "ratio_give": 8,
     "grade_level": 9.9,
     "word_count": 60
   },
@@ -37699,7 +37699,7 @@ window._comments = [
     "id": 50887499,
     "top_level": false,
     "date": "Mar 04 2024 07:52",
-    "likes": 1,
+    "likes": 4,
     "timestamp": 1709556729,
     "body": [
       [
@@ -37709,14 +37709,86 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 7,
     "parent_id": 50887258,
-    "parent_children": 2,
+    "parent_children": 8,
     "thread_id": 50884619,
-    "thread_children": 10,
-    "ratio_recv": null,
-    "ratio_give": 1,
+    "thread_children": 39,
+    "ratio_recv": -1,
+    "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 69
+  },
+  {
+    "post_id": 142219454,
+    "title": "How Slow Boring plans to cover the 2024 election",
+    "canonical_url": "https://www.slowboring.com/p/how-slow-boring-plans-to-cover-the-63a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50889968,
+    "top_level": false,
+    "date": "Mar 04 2024 08:34",
+    "likes": 5,
+    "timestamp": 1709559299,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Our process for convicting people centers laws administered by the courts. Juries are instructed to apply those law, not their personal sense of right and wrong. And judges go to great lengths to explain the relevant laws and precedents in detail. They also work to exclude individuals unable to do so from serving on juries. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, sometimes that fails. But at least that is a failure of the actual process. That is quite different from individuals taking the law into their own hands, under their own legal \"research\" and judgement, and subverting the state from within."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 50887886,
+    "parent_children": 6,
+    "thread_id": 50884619,
+    "thread_children": 39,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 7.5,
+    "word_count": 96
+  },
+  {
+    "post_id": 142219454,
+    "title": "How Slow Boring plans to cover the 2024 election",
+    "canonical_url": "https://www.slowboring.com/p/how-slow-boring-plans-to-cover-the-63a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50891248,
+    "top_level": false,
+    "date": "Mar 04 2024 08:52",
+    "likes": 6,
+    "timestamp": 1709560375,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that the solution to Trump is to ensure he loses the election."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But I also think that the question of whether or not someone should join a hypothetical future Trump administration (or any other president's) with the intention to subvert the state from within isn't a trivial issue. Our problems would only worsen if we normalize this mode of political action."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 50890635,
+    "parent_children": 4,
+    "thread_id": 50884619,
+    "thread_children": 39,
+    "ratio_recv": -5,
+    "ratio_give": 3,
+    "grade_level": 11.5,
+    "word_count": 63
   }
 ];
