@@ -37639,7 +37639,7 @@ window._comments = [
     "id": 50886839,
     "top_level": false,
     "date": "Mar 04 2024 07:39",
-    "likes": 14,
+    "likes": 15,
     "timestamp": 1709555947,
     "body": [
       [
@@ -37654,7 +37654,7 @@ window._comments = [
     "parent_children": 13,
     "thread_id": 50884619,
     "thread_children": 39,
-    "ratio_recv": -12,
+    "ratio_recv": -13,
     "ratio_give": 2,
     "grade_level": 9.8,
     "word_count": 79
@@ -37679,11 +37679,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 11,
+    "total_children": 16,
     "parent_id": 50884110,
-    "parent_children": 15,
+    "parent_children": 20,
     "thread_id": 50884110,
-    "thread_children": 15,
+    "thread_children": 20,
     "ratio_recv": -6,
     "ratio_give": 8,
     "grade_level": 9.9,
@@ -37714,7 +37714,7 @@ window._comments = [
     "parent_children": 8,
     "thread_id": 50884619,
     "thread_children": 39,
-    "ratio_recv": -1,
+    "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 69
@@ -37751,7 +37751,7 @@ window._comments = [
     "thread_id": 50884619,
     "thread_children": 39,
     "ratio_recv": -2,
-    "ratio_give": 2,
+    "ratio_give": 1,
     "grade_level": 7.5,
     "word_count": 96
   },
@@ -37790,5 +37790,119 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.5,
     "word_count": 63
+  },
+  {
+    "post_id": 142309107,
+    "title": "How Abortion Became \u2018the Defund the Police of the GOP\u2019",
+    "canonical_url": "https://www.thefp.com/p/republican-voters-against-gop-abortion-rules",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50962904,
+    "top_level": false,
+    "date": "Mar 05 2024 07:34",
+    "likes": 2,
+    "timestamp": 1709642047,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you! I\u2019ve always worried Republicans would compromise on this issue out of political expediency. But you\u2019ve shown how to appropriately message this issue so as to ensure it\u2019s salience and thereby the continued suicide of the Republican party; or at least a bloody civil war. We Democrats may have our own liabilities; but at least we\u2019re learning how to best exploit our winning issue from your eloquent writing."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": 50960002,
+    "parent_children": 263,
+    "thread_id": 50960002,
+    "thread_children": 263,
+    "ratio_recv": 4,
+    "ratio_give": -117,
+    "grade_level": 12.3,
+    "word_count": 69
+  },
+  {
+    "post_id": 142206051,
+    "title": "The problem with Poolesville ",
+    "canonical_url": "https://www.slowboring.com/p/the-problem-with-poolesville",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50963243,
+    "top_level": false,
+    "date": "Mar 05 2024 07:41",
+    "likes": 5,
+    "timestamp": 1709642489,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But many schools are teaching that and students could care less.* My high school had an entire gov/econ course required for everyone. And despite an amazing teacher, many, myself included, retained very little of the info "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At least literate people can learn about this on their own in the future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edit: \"couldn't care less\". Was lazy and didn't run through ChatGPT."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 50962854,
+    "parent_children": 12,
+    "thread_id": 50960420,
+    "thread_children": 34,
+    "ratio_recv": 4,
+    "ratio_give": 4,
+    "grade_level": 5.7,
+    "word_count": 61
+  },
+  {
+    "post_id": 142309107,
+    "title": "How Abortion Became \u2018the Defund the Police of the GOP\u2019",
+    "canonical_url": "https://www.thefp.com/p/republican-voters-against-gop-abortion-rules",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 50964456,
+    "top_level": false,
+    "date": "Mar 05 2024 08:04",
+    "likes": 1,
+    "timestamp": 1709643852,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes. I just don't care."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Specifically, I don't care how people decide to approach abortion in their own personal lives. If a woman wants to carry a deadly pregnancy all to the way to the bitter end, she has my blessing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just want to ensure everyone has the right to decide for themselves how to navigate this deeply complex issue. And towards that end, I'm only looking for effective messaging to help Democrats win elections."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 50963916,
+    "parent_children": 15,
+    "thread_id": 50960002,
+    "thread_children": 263,
+    "ratio_recv": 12,
+    "ratio_give": -5,
+    "grade_level": 6.9,
+    "word_count": 76
   }
 ];
