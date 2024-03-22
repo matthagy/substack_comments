@@ -37904,5 +37904,51 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 6.9,
     "word_count": 76
+  },
+  {
+    "post_id": 142766341,
+    "title": "Tuesday thread + Wednesday happy hour",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-wednesday-happy-hour",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 52024655,
+    "top_level": false,
+    "date": "Mar 19 2024 19:11",
+    "likes": 2,
+    "timestamp": 1710889888,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a Slatepitch-level solution I\u2019ve been meaning to suggest for the Friday column: Could we adjust Medicare benefits to exclude certain life-extending diagnostics and procedures so as to decrease average life expectancy at 65 from 18.4 years [1] to say 7 years? Obviously that\u2019s a political dead end. But it would be a provocative way to analyze how medical advances have extended the average lifespan far past that imagined when these programs were created, thereby creating our looming fiscal challenge."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Alternatively: Could we just subsidize cigarettes for people over 50?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cdc.gov/nchs/products/databriefs/db456.htm"
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 52017836,
+    "parent_children": 28,
+    "thread_id": 52017836,
+    "thread_children": 28,
+    "ratio_recv": 4,
+    "ratio_give": -8,
+    "grade_level": 11.6,
+    "word_count": 91
   }
 ];
