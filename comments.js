@@ -37915,7 +37915,7 @@ window._comments = [
     "id": 52024655,
     "top_level": false,
     "date": "Mar 19 2024 19:11",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1710889888,
     "body": [
       [
@@ -37947,8 +37947,54 @@ window._comments = [
     "thread_id": 52017836,
     "thread_children": 28,
     "ratio_recv": 4,
-    "ratio_give": -8,
+    "ratio_give": -7,
     "grade_level": 11.6,
     "word_count": 91
+  },
+  {
+    "post_id": 143116075,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-fba",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 52877700,
+    "top_level": true,
+    "date": "Mar 31 2024 13:10",
+    "likes": 37,
+    "timestamp": 1711905017,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As it\u2019s Easter: Is there potential for liberals to claim Jesus as a critical moral teacher of liberal values seeing as conservatives seem to no longer care for his actual teachings? "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In re-watching PBS 'excellent documentary \u201cFrom Jesus to Christ: The First Christians\u201d today, [1] I\u2019m reminded of how his preaching was exceptionally progressive, forward-thinking, and subversive for his times. Notably, his concern for the poor and oppressed. Furthermore, secular liberalism has its roots in Christian thinking and values, separated from divinity during the enlightenment. So it would seem appropriate for us to claim Jesus as an essential moral teacher for our movement. And, of course, it would trigger the cons like nothing else."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=JN8FM1NCOSk"
+        }
+      ]
+    ],
+    "total_children": 69,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 52877700,
+    "thread_children": 69,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 12.0,
+    "word_count": 115
   }
 ];
