@@ -37961,7 +37961,7 @@ window._comments = [
     "id": 52877700,
     "top_level": true,
     "date": "Mar 31 2024 13:10",
-    "likes": 37,
+    "likes": 42,
     "timestamp": 1711905017,
     "body": [
       [
@@ -37987,12 +37987,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 69,
+    "total_children": 102,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 52877700,
-    "thread_children": 69,
-    "ratio_recv": -7,
+    "thread_children": 102,
+    "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 115
