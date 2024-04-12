@@ -37987,14 +37987,270 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 102,
+    "total_children": 112,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 52877700,
-    "thread_children": 102,
+    "thread_children": 112,
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 115
+  },
+  {
+    "post_id": 143357383,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-5be",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53440569,
+    "top_level": true,
+    "date": "Apr 08 2024 05:02",
+    "likes": 0,
+    "timestamp": 1712566921,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could there be a cultural resurgence of anti-materialism, or even ascetic values as a countercultural movement in our booming economy?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm reminded of the late '90s with movies like Office Space, Fight Club, and even The Matrix, that expounded the values of rejecting societal consumption norms and questioning the relentless pursuit of material wealth. These movies, and related media, made sense as a reaction to the strong economy of the times and lost their valence during the Great Recession. In our similarly strong contemporary economy, I could see something of a resurgence. It would seem to be particularly appealing to downwardly mobile upper-middle-class young adults looking to reframe their economic situation."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 53440569,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 111
+  },
+  {
+    "post_id": 143337367,
+    "title": "Smartphones in schools are bad",
+    "canonical_url": "https://www.slowboring.com/p/smartphones-in-schools-are-bad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53520532,
+    "top_level": false,
+    "date": "Apr 09 2024 08:28",
+    "likes": 20,
+    "timestamp": 1712665724,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The needs of the many (all the other students) outweigh the needs of the few (disruptive students)."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 53519857,
+    "parent_children": 9,
+    "thread_id": 53514624,
+    "thread_children": 101,
+    "ratio_recv": null,
+    "ratio_give": 19,
+    "grade_level": 7.6,
+    "word_count": 17
+  },
+  {
+    "post_id": 143386348,
+    "title": "Negativity is making everyone miserable",
+    "canonical_url": "https://www.slowboring.com/p/were-living-in-the-best-of-times",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53672328,
+    "top_level": false,
+    "date": "Apr 11 2024 07:36",
+    "likes": 14,
+    "timestamp": 1712835380,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> We had a series of really major policy failures, the Iraq War and aftermath of the financial crisis, that have damaged the credibility of the political mainstream in ways we have yet to recover from. There's been no accountability for any of it, no official 'man we messed up, here's how we're going to do better' or anything like that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I disagree, at least about consequences for the Great Financial Crisis, and thereby find this an example of insufficient salience of good progress. The Dodd\u2013Frank financial reforms of 2010 were a massive restructuring of financial regulation. It has made much of finance, particularly banking, far less profitable by reigning in risk taking. Bankers, notably Jamie Dimon of JP Morgan, have been complaining relentlessly about their new constraints. And this all worked in allowing the global financial system to survive both the pandemic and the highest interest rates since the GFC."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here\u2019s a 2017 Bloomberg article with some details, written nearly a decade after the GFC, celebrating that banks had finally recovered their nominal profits while having substantially lower return on investment: \u201cU.S. Mega Banks Are This Close to Breaking Their Profit Record\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2017-07-21/bank-profits-near-pre-crisis-peak-in-u-s-despite-all-the-rules"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Dodd-Frank Act ushered in sweeping changes that included reining in banks\u2019 ability to bet their own money on market prices, setting up a new system to seize and wind down failing firms, and streamlining derivatives dealings. Meanwhile, regulators around the world overhauled capital rules, requiring banks to build bigger buffers to absorb losses in an economic downturn. They also unveiled liquidity rules, seeking to ensure lenders have enough cash or easy-to-sell assets to stay afloat if outside funding flees in a panic."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The industry has argued the rules went too far and were piled on without enough consideration for how they\u2019d interact with each other."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> JPMorgan Chief Executive Officer Jamie Dimon said July 14 that banks would have made $2 trillion more in loans in the past five years if the rules had not been so tight. Small businesses are struggling to access capital markets, Dimon told analysts on a conference call to discuss earnings."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Even if the big banks make as much money as they did before the crisis, they\u2019re not as profitable as they once were by several measures. Among firms that survived the crises, return on assets is about 35 percent lower than before the crisis. That measures how much they earn on each dollar of their portfolios."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Return on equity, which looks at net income per dollar of shareholder equity, is less than half of what it was. The latter is much worse than pre-crisis levels because the banks were allowed to have very little capital then, which multiplied the number of failures when the housing market crashed. Higher capital required by post-crisis rules lowers the return on that capital, even if assets earn the same margin."
+        }
+      ]
+    ],
+    "total_children": 24,
+    "parent_id": 53670155,
+    "parent_children": 25,
+    "thread_id": 53670155,
+    "thread_children": 25,
+    "ratio_recv": -12,
+    "ratio_give": -1,
+    "grade_level": 11.4,
+    "word_count": 474
+  },
+  {
+    "post_id": 143386348,
+    "title": "Negativity is making everyone miserable",
+    "canonical_url": "https://www.slowboring.com/p/were-living-in-the-best-of-times",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53676014,
+    "top_level": true,
+    "date": "Apr 11 2024 08:39",
+    "likes": 22,
+    "timestamp": 1712839180,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "[Hot Take] We\u2014moderately well adjusted and reasonable people\u2014should be more aggressively dismissive of all the people sprouting constant negativity. We should call them out as the losers that they are. Tell them to shut up and deal with their actual problems (generally personality, relationship, and vocational failures)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019ve tolerated their relentless negativity for too long, and worse, have at times attempted to sane-wash it into narratives aligned with our politics. Eg, Trump supporters are just anxious about their economic insecurity. No, they're not! They\u2019re just losers who are failing to recognize and deal with their actual personal problems. They want to redirect their negative emotions from their personal failings to something other than their own deficiencies. Same with all the leftists calling for a revolution. What they need is a shower and job."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We need to use shame and mockery to bully these people out of public spaces."
+        }
+      ]
+    ],
+    "total_children": 19,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 53676014,
+    "thread_children": 19,
+    "ratio_recv": -11,
+    "ratio_give": null,
+    "grade_level": 8.6,
+    "word_count": 148
+  },
+  {
+    "post_id": 143386348,
+    "title": "Negativity is making everyone miserable",
+    "canonical_url": "https://www.slowboring.com/p/were-living-in-the-best-of-times",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53676369,
+    "top_level": false,
+    "date": "Apr 11 2024 08:44",
+    "likes": 14,
+    "timestamp": 1712839497,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "SVB went bankrupt. Their stock and bond investors lost all of their money. In addition to losing their jobs and zeroing out their deferred stock comp, SVB executives are unemployable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, saving uninsured depositors may have gone to far.  And banking regulators should've been more aggressive in reigning in SVB before it got to this. But even the depositor bailout is being funded by a special assessment of FDIC insurance on other banks. Ie, no tax payer money is being used."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The system largely worked. There was no TARP 2.0."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 53675587,
+    "parent_children": 22,
+    "thread_id": 53670155,
+    "thread_children": 25,
+    "ratio_recv": -13,
+    "ratio_give": 14,
+    "grade_level": 6.0,
+    "word_count": 90
+  },
+  {
+    "post_id": 143386348,
+    "title": "Negativity is making everyone miserable",
+    "canonical_url": "https://www.slowboring.com/p/were-living-in-the-best-of-times",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53679050,
+    "top_level": false,
+    "date": "Apr 11 2024 09:25",
+    "likes": 20,
+    "timestamp": 1712841905,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree, politicians should not do this. But the rest of us can."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 53678847,
+    "parent_children": 6,
+    "thread_id": 53676014,
+    "thread_children": 19,
+    "ratio_recv": -17,
+    "ratio_give": 9,
+    "grade_level": -0.2,
+    "word_count": 13
   }
 ];
