@@ -38129,11 +38129,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 24,
+    "total_children": 26,
     "parent_id": 53670155,
-    "parent_children": 25,
+    "parent_children": 27,
     "thread_id": 53670155,
-    "thread_children": 25,
+    "thread_children": 27,
     "ratio_recv": -12,
     "ratio_give": -1,
     "grade_level": 11.4,
@@ -38149,7 +38149,7 @@ window._comments = [
     "id": 53676014,
     "top_level": true,
     "date": "Apr 11 2024 08:39",
-    "likes": 22,
+    "likes": 23,
     "timestamp": 1712839180,
     "body": [
       [
@@ -38213,11 +38213,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 12,
+    "total_children": 14,
     "parent_id": 53675587,
-    "parent_children": 22,
+    "parent_children": 24,
     "thread_id": 53670155,
-    "thread_children": 25,
+    "thread_children": 27,
     "ratio_recv": -13,
     "ratio_give": 14,
     "grade_level": 6.0,
@@ -38233,7 +38233,7 @@ window._comments = [
     "id": 53679050,
     "top_level": false,
     "date": "Apr 11 2024 09:25",
-    "likes": 20,
+    "likes": 21,
     "timestamp": 1712841905,
     "body": [
       [
@@ -38252,5 +38252,41 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": -0.2,
     "word_count": 13
+  },
+  {
+    "post_id": 143435706,
+    "title": "Friday Grab Bag: American education is ... fine",
+    "canonical_url": "https://www.slowboring.com/p/friday-grab-bag-american-education",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 53757292,
+    "top_level": false,
+    "date": "Apr 12 2024 09:00",
+    "likes": 8,
+    "timestamp": 1712926859,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Our society isn\u2019t yet to the point where we could seriously consider accepting that there exists some \"kids who can't.\" It is just too incompatible with our other values of meritocracy and individual agency. If we are each largely constrained by early life events\u2014or worse the random combination of genes that we\u2019ve received from our parents\u2014then our actions, and those of our families and societies at large, are meaningless."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I\u2019ve come to believe that this fictional narrative is socially useful; at least for now. I do worry how our society would fragment if this sort of predestination belief became commonplace. Some think that this would result in a more fair and equitable society with greater economic redistribution. Yet it could go the other direction! We could instead find justification for increasing inequality. Furthermore, we could focus on identifying \u201clow-social-utility\u201d individuals and minimizing the cost that they impose on us collectively."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 53754104,
+    "parent_children": 53,
+    "thread_id": 53749376,
+    "thread_children": 60,
+    "ratio_recv": 2,
+    "ratio_give": -23,
+    "grade_level": 11.0,
+    "word_count": 151
   }
 ];
