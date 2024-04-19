@@ -17,7 +17,16 @@ function loadComments() {
     [sortSelect, typeSelect, showSelect, pageSelect].forEach(select => {
         select.addEventListener("change", update);
     });
-    searchInput.addEventListener("input", update);
+    searchInput.addEventListener("input", debounceUpdate);
+
+    let pendingUpdate = null;
+
+    function debounceUpdate() {
+        if (pendingUpdate) {
+            window.clearTimeout(pendingUpdate);
+        }
+        pendingUpdate = window.setTimeout(update, 200)
+    }
 
     let lastSelectCommentType = null;
     let lastSortBy = null;
@@ -27,6 +36,24 @@ function loadComments() {
 
     update();
 
+    function extractQuotedRegex(input) {
+        const regex = /<([^>]+)>|(["'])(?:(?!\2).)+\2/g;
+        const terms = [];
+        let match;
+
+        while ((match = regex.exec(input)) !== null) {
+            let matched = match[0];
+            if (matched.startsWith('<') && matched.endsWith('>')) {
+                terms.push(match[1]);
+            } else {
+                terms.push(matched.slice(1, -1));
+            }
+            input = input.replace(matched, ' ');
+        }
+
+        return [terms, input];
+    }
+
     function update() {
         if (updating) {
             console.log('recursive update');
@@ -34,6 +61,7 @@ function loadComments() {
         }
         console.log('updating');
         updating = true;
+        const startTime = new Date().getTime();
         const selectCommentType = typeSelect.value;
         const sortBy = sortSelect.value;
         const showComments = showSelect.value;
@@ -48,12 +76,14 @@ function loadComments() {
         lastShowComments = showComments;
         lastSearchTerms = searchTerms;
 
-        console.log(`selectCommentType=${selectCommentType}`);
-        console.log(`sortBy=${sortBy}`);
-        console.log(`showComments=${showComments}`);
-        console.log(`pageNumber=${pageNumber}`);
-        console.log(`searchTerms=${searchTerms}`);
-        console.log(`pagesChange=${pagesChange}`);
+        if (false) {
+            console.log(`selectCommentType=${selectCommentType}`);
+            console.log(`sortBy=${sortBy}`);
+            console.log(`showComments=${showComments}`);
+            console.log(`pageNumber=${pageNumber}`);
+            console.log(`searchTerms=${searchTerms}`);
+            console.log(`pagesChange=${pagesChange}`);
+        }
 
         let comments = window._comments.filter(comment => {
             switch (selectCommentType) {
@@ -65,16 +95,30 @@ function loadComments() {
                     return !comment['top_level'];
             }
         });
-        const terms = searchTerms.length ? searchTerms.split(/\s+/) : [];
-        if (terms.length > 0) {
-            console.log(`terms=${terms}`);
-            const termsRegex = terms.map(term => RegExp(".*" + term, "i"));
+
+
+        const [extractedTerms, remainingInput] = extractQuotedRegex(searchTerms);
+        const terms = remainingInput.length ? remainingInput.trim().split(/\s+/).filter(Boolean) : [];
+        const combinedTerms = extractedTerms.concat(terms);
+
+        if (combinedTerms.length > 0) {
+            console.log(`combinedTerms=${combinedTerms}`);
+            const termsRegex = combinedTerms.map(term => {
+                try {
+                    return RegExp(term, "i");
+                } catch (e) {
+                    console.error(`Invalid regex: ${term}`, e);
+                    return null;
+                }
+            }).filter(regex => regex !== null);
+
             comments = comments.filter((comment) =>
                 termsRegex.every((term) =>
                     comment['body'].some(paragraph =>
                         paragraph.some(span => term.test(span['value']))
                     )));
         }
+
         comments.sort((a, b) => {
             switch (sortBy) {
                 case 'likes':
@@ -122,12 +166,24 @@ function loadComments() {
 
         clearChildren(commentsDiv);
 
-        const termsMatcher = terms.length > 0 ? RegExp(terms.join("|"), "ig") : null;
+        function createTermMatcher() {
+            try {
+                return RegExp(combinedTerms.map(term => `(?:${term})`).join("|"), "ig");
+            } catch (e) {
+                console.error('Invalid regex', e);
+                return null;
+            }
+        }
+
+        const termsMatcher = combinedTerms.length > 0
+            ? createTermMatcher()
+            : null;
         comments.forEach(comment => {
             renderComment(comment, termsMatcher);
         });
         updating = false;
-        console.log("------------Update Done----------------");
+        const endTime = new Date().getTime();
+        console.log(`update took ${endTime - startTime}ms`);
     }
 
     function clearChildren(node) {
@@ -215,8 +271,10 @@ function loadComments() {
         let cur = 0;
         let maxIterations = 1000;
         while ((match = termsMatcher.exec(value)) !== null) {
-            if (!maxIterations--) throw new Error('Max iterations hit, aborting.');
-            console.log(`match ${match}`)
+            if (!maxIterations--) {
+                console.error('Max iterations hit, aborting.')
+                break;
+            }
             const start = match.index;
             const matchValue = match[0];
             if (start > cur) {
