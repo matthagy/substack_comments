@@ -12,12 +12,18 @@ function loadComments() {
     const showSelect = document.getElementById('show');
     const pageSelect = document.getElementById('page');
     const totalPages = document.getElementById('totalPages');
+    const startDateInput = document.getElementById('startDate');
+    const endDateInput = document.getElementById('endDate');
     const searchInput = document.getElementById('search');
     const commentCount = document.getElementById('commentCount');
-    [sortSelect, typeSelect, showSelect, pageSelect].forEach(select => {
+    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput].forEach(select => {
         select.addEventListener("change", update);
     });
     searchInput.addEventListener("input", debounceUpdate);
+
+    const dates = window._comments.map(comment => comment.timestamp);
+    startDateInput.valueAsDate = new Date(Math.min(...dates) * 1000);
+    endDateInput.valueAsDate = new Date(Math.max(...dates) * 1000);
 
     let pendingUpdate = null;
 
@@ -32,6 +38,8 @@ function loadComments() {
     let lastSortBy = null;
     let lastShowComments = null;
     let lastSearchTerms = null;
+    let lastStartDate = null;
+    let lastEndDate = null;
     let updating = false;
 
     update();
@@ -69,12 +77,16 @@ function loadComments() {
         const pagesChange = lastSelectCommentType !== selectCommentType
             || lastSortBy !== sortBy
             || lastShowComments !== showComments
-            || lastSearchTerms !== searchTerms;
+            || lastSearchTerms !== searchTerms
+            || lastStartDate !== startDateInput.value
+            || lastEndDate !== endDateInput.value;
         const pageNumber = pagesChange ? 1 : parseInt(pageSelect.value);
         lastSelectCommentType = selectCommentType;
         lastSortBy = sortBy;
         lastShowComments = showComments;
         lastSearchTerms = searchTerms;
+        lastStartDate = startDateInput.value;
+        lastEndDate = endDateInput.value;
 
         if (false) {
             console.log(`selectCommentType=${selectCommentType}`);
@@ -96,6 +108,16 @@ function loadComments() {
             }
         });
 
+        const startTimestamp = startDateInput.value
+            ? new Date(startDateInput.value).getTime() / 1000
+            : null;
+        const endTimestamp = endDateInput.value
+            ? new Date(endDateInput.value).getTime() / 1000
+            : null;
+
+        comments = comments.filter(comment =>
+            (startTimestamp === null || comment.timestamp >= startTimestamp) &&
+            (endTimestamp === null || comment.timestamp <= endTimestamp));
 
         const [extractedTerms, remainingInput] = extractQuotedRegex(searchTerms);
         const terms = remainingInput.length ? remainingInput.trim().split(/\s+/).filter(Boolean) : [];
@@ -143,13 +165,15 @@ function loadComments() {
 
         let pages = 1;
         if (showComments !== 'all') {
-            const commentCount = parseInt(showComments);
-            console.log(`commentCount=${commentCount}`);
-            pages = Math.ceil(comments.length / commentCount);
-            console.log(`slice ${(pageNumber - 1) * commentCount} ${pageNumber * commentCount}`);
-            comments = comments.slice((pageNumber - 1) * commentCount, pageNumber * commentCount);
+            const commentsToShow = parseInt(showComments);
+            console.log(`commentsToShow=${commentsToShow}`);
+            pages = Math.ceil(comments.length / commentsToShow);
+            console.log(`pages=${pages} pageNumber=${pageNumber}`);
+            const start = (pageNumber - 1) * commentsToShow;
+            const end = pageNumber * commentsToShow;
+            console.log(`slice ${start} ${end}`);
+            comments = comments.slice(start, end);
             console.log(`comments.length=${comments.length}`);
-
         }
         console.log(`pages=${pages}`);
         clearChildren(totalPages);
