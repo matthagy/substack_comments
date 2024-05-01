@@ -38288,5 +38288,105 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 11.0,
     "word_count": 151
+  },
+  {
+    "post_id": 143528953,
+    "title": "Larry Summers isn\u2019t worried about secular stagnation anymore",
+    "canonical_url": "https://www.slowboring.com/p/larry-summers-isnt-worried-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 54240236,
+    "top_level": false,
+    "date": "Apr 18 2024 11:38",
+    "likes": 3,
+    "timestamp": 1713454732,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, they'll just drop risky borrowers. And that is the goal of capping credit card interest rate; not lowering costs for risky borrowers but instead eliminating them from the credit markets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The system will be far safer comparable to how requiring large down payments and higher credit scores for mortgages neutralized the subprime risk after 2008."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 54239207,
+    "parent_children": 4,
+    "thread_id": 54226988,
+    "thread_children": 11,
+    "ratio_recv": 1,
+    "ratio_give": 3,
+    "grade_level": 9.4,
+    "word_count": 56
+  },
+  {
+    "post_id": 143803872,
+    "title": "College students should study more",
+    "canonical_url": "https://www.slowboring.com/p/college-students-should-study-more",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 54605776,
+    "top_level": false,
+    "date": "Apr 23 2024 07:49",
+    "likes": 1,
+    "timestamp": 1713872983,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Would you personally publish an article defending common criticism of meritocracy (eg, disparate outcomes) and the resulting elitism? If so, would you  expect your argument to be broadly accepted by your peers?"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 54605491,
+    "parent_children": 41,
+    "thread_id": 54602828,
+    "thread_children": 85,
+    "ratio_recv": -1,
+    "ratio_give": -12,
+    "grade_level": 11.9,
+    "word_count": 32
+  },
+  {
+    "post_id": 144036233,
+    "title": "What the left gets right",
+    "canonical_url": "https://www.slowboring.com/p/what-the-left-gets-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 55165225,
+    "top_level": false,
+    "date": "Apr 30 2024 08:18",
+    "likes": 7,
+    "timestamp": 1714479534,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "\"Reality has a well-known liberal bias\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=UwLjK9LFpeo"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 55163892,
+    "parent_children": 19,
+    "thread_id": 55159287,
+    "thread_children": 117,
+    "ratio_recv": null,
+    "ratio_give": -18,
+    "grade_level": 10.4,
+    "word_count": 6
   }
 ];
