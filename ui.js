@@ -22,8 +22,9 @@ function loadComments() {
     searchInput.addEventListener("input", debounceUpdate);
 
     const dates = window._comments.map(comment => comment.timestamp);
+    const secondsInDay = 24 * 60 * 60;
     startDateInput.valueAsDate = new Date(Math.min(...dates) * 1000);
-    endDateInput.valueAsDate = new Date(Math.max(...dates) * 1000);
+    endDateInput.valueAsDate = new Date((Math.max(...dates) + secondsInDay) * 1000);
 
     let pendingUpdate = null;
 
