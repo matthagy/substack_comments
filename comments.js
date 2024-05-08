@@ -38399,7 +38399,7 @@ window._comments = [
     "id": 55312183,
     "top_level": true,
     "date": "May 01 2024 20:06",
-    "likes": 16,
+    "likes": 17,
     "timestamp": 1714608365,
     "body": [
       [
@@ -38426,9 +38426,65 @@ window._comments = [
     "parent_children": null,
     "thread_id": 55312183,
     "thread_children": 2,
-    "ratio_recv": -12,
+    "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 23
+  },
+  {
+    "post_id": 144309106,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-4b3",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 55610713,
+    "top_level": true,
+    "date": "May 05 2024 13:25",
+    "likes": 34,
+    "timestamp": 1714929955,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Have your thoughts on euthanasia evolved since your Aug 2022 mailbag answer [1] based upon continuing reports of abuse in Canada? Notably, have you developed strong opinions one way or the other, or do you continue to think we should muddle through the ambiguities with, \u201cI\u2019m inclined to say the best approach is for euthanasia to be illegal while also allowing for a fair amount of hypocrisy, lax enforcement, and unasked questions.\u201d?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Noah Smith recently came out strongly opposed in \u201cThe perverse incentives of euthanasia.\u201d [2] That addresses Medical Assistance In Dying (MAID) for relatively young individuals with solely mental health conditions, possibly to save the government the cost of continued support and medical care. Conversely, one could argue that if governments aren\u2019t willing to provision the resources to sufficiently cure or at least manage these conditions (or if such treatment doesn't yet exist), then dying with dignity may be preferable to suffering endlessly. Or at least should individuals have the choice when facing that dilemma? Might this even be a legitimate way for society to manage medical costs under some limited conditions?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/better-call-mailbag"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.noahpinion.blog/p/the-perverse-incentives-of-euthanasia"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 55610713,
+    "thread_children": 2,
+    "ratio_recv": -32,
+    "ratio_give": null,
+    "grade_level": 13.6,
+    "word_count": 185
   }
 ];
