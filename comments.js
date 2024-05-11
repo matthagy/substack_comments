@@ -38486,5 +38486,195 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 185
+  },
+  {
+    "post_id": 144366310,
+    "title": "What I've learned on Substack",
+    "canonical_url": "https://www.slowboring.com/p/reflections-on-almost-four-years",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 55942021,
+    "top_level": false,
+    "date": "May 09 2024 07:57",
+    "likes": 19,
+    "timestamp": 1715255873,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No one has ever been able to make the economics work with individual digital purchases. Most people simply find even $1 to be too large of a barrier when there's so much free content online."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, publishers don\u2019t want sporadic purchases, but instead the more consistent revenue from subscriptions (and ads). That entails creating a product that is a regular, consistent, novel point of view. Select free articles, as well as publicity on other venues like twitter can convince potential subscribers to consider the product. Customers need to be compelled to commit to a paid subscription."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The tech analyst Ben Thompson has written extensively on the subscription business model for news and opinion publications. He has first hand experience as he\u2019s been running an amazing paid newsletter since 2013. (Substack founders cited him as their inspiration). Notably, see his 2017 article, \u201cThe Local News Business Model\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> It is very important to clearly define what a subscriptions means. First, it\u2019s not a donation: it is asking a customer to pay money for a product. What, then, is the product? It is not, in fact, any one article (a point that is missed by the misguided focus on micro-transactions). Rather, a subscriber is paying for the regular delivery of well-defined value."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Each of those words is meaningful:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Paying: A subscription is an ongoing commitment to the production of content, not a one-off payment for one piece of content that catches the eye."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Regular Delivery: A subscriber does not need to depend on the random discovery of content; said content can be delivered to the subscriber directly, whether that be email, a bookmark, or an app."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Well-defined Value: A subscriber needs to know what they are paying for, and it needs to be worth it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He has a lot of free articles that cover news and more generally the media industry, particularly how the internet disrupted it. If you find this topic interesting, I bet that you\u2019ll find reading a few convinces you to commit to a paid subscription for $120/yr."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-local-news-business-model/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Comment adapted from my past comments on this topic:"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/another-brutal-year-for-the-media/comment/45242472"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-two-crises-in-the-news-business/comment/48444478"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-two-crises-in-the-news-business/comment/48441091"
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 55937506,
+    "parent_children": 22,
+    "thread_id": 55937506,
+    "thread_children": 22,
+    "ratio_recv": -19,
+    "ratio_give": 4,
+    "grade_level": 8.9,
+    "word_count": 349
+  },
+  {
+    "post_id": 144366310,
+    "title": "What I've learned on Substack",
+    "canonical_url": "https://www.slowboring.com/p/reflections-on-almost-four-years",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 55959777,
+    "top_level": false,
+    "date": "May 09 2024 11:12",
+    "likes": 5,
+    "timestamp": 1715267554,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Because if sites like Slow Boring started offering individual purchases, then I imagine fewer free subscribers would convert to paid over time because when readers finally got over their barrier to paying, they can contend themselves with a single article rather than committing to a subscription. Matt and co. would have to regularly convince free subscribers and guest to making purchases, whereas now they just need to get us to click subscribe once."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, once we commit to a purchase, we're more likely to read future paid articles that we've already bought. We may even feel compelled to consume to justify our past purchase decision. As we grow accustom to the habit of reading SB, our subscription becomes increasingly sticky."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 55952832,
+    "parent_children": 8,
+    "thread_id": 55937506,
+    "thread_children": 22,
+    "ratio_recv": -5,
+    "ratio_give": 5,
+    "grade_level": 11.1,
+    "word_count": 120
+  },
+  {
+    "post_id": 144414803,
+    "title": "Am I an out of touch elitist?",
+    "canonical_url": "https://www.slowboring.com/p/am-i-an-out-of-touch-elitist",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56030169,
+    "top_level": false,
+    "date": "May 10 2024 08:04",
+    "likes": 45,
+    "timestamp": 1715342670,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I hope to comment more on this topic after work\u2014possibly on the weekend\u2014because the psychology of poverty, and beliefs about, is something I have strong opinions on, informed by my experience working minimum wage jobs in highschool. In retrospect, this was the most-impactful and educational experience of my youth; even more so than the numerous privileges I had in an upper-middle-class family."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, I learned first hand that many working class people are strongly prideful of their individual effort in bettering their situation, particularly those that have overcome hardships including substance addiction and abusive relationships. And they can be quite dismissive of others\u2014notably family and previously-close friends\u2014that fail to do so. That includes right-wing talking points about welfare enabling and sustaining bad behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I still believe these people are wrong; liberal solutions are the only practical ones. I saw that firsthand when one of these individuals fell back in alcohol abuse and got in serious (and fucking disturbing) legal trouble. But I do believe we have to be thoughtful in how we communicate our policy proposals, including having some empathy for the \u201cpull yourself up by your bootstrap\u201d narrative that may be surprisingly common, even among the working class."
+        }
+      ]
+    ],
+    "total_children": 49,
+    "parent_id": 56026819,
+    "parent_children": 71,
+    "thread_id": 56026087,
+    "thread_children": 229,
+    "ratio_recv": -31,
+    "ratio_give": 19,
+    "grade_level": 14.2,
+    "word_count": 199
   }
 ];
