@@ -38591,9 +38591,9 @@ window._comments = [
     ],
     "total_children": 9,
     "parent_id": 55937506,
-    "parent_children": 22,
+    "parent_children": 23,
     "thread_id": 55937506,
-    "thread_children": 22,
+    "thread_children": 23,
     "ratio_recv": -19,
     "ratio_give": 4,
     "grade_level": 8.9,
@@ -38629,7 +38629,7 @@ window._comments = [
     "parent_id": 55952832,
     "parent_children": 8,
     "thread_id": 55937506,
-    "thread_children": 22,
+    "thread_children": 23,
     "ratio_recv": -5,
     "ratio_give": 5,
     "grade_level": 11.1,
@@ -38645,7 +38645,7 @@ window._comments = [
     "id": 56030169,
     "top_level": false,
     "date": "May 10 2024 08:04",
-    "likes": 45,
+    "likes": 52,
     "timestamp": 1715342670,
     "body": [
       [
@@ -38667,14 +38667,258 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 49,
+    "total_children": 53,
     "parent_id": 56026819,
-    "parent_children": 71,
+    "parent_children": 75,
     "thread_id": 56026087,
-    "thread_children": 229,
-    "ratio_recv": -31,
-    "ratio_give": 19,
+    "thread_children": 260,
+    "ratio_recv": -37,
+    "ratio_give": 22,
     "grade_level": 14.2,
     "word_count": 199
+  },
+  {
+    "post_id": 144558465,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-166",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56207172,
+    "top_level": false,
+    "date": "May 12 2024 14:45",
+    "likes": 8,
+    "timestamp": 1715539534,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Doesn't matter where the incompetence lies. CA state government could change the laws under which local governments operate and PG&E is overseen by the California Public Utilities Commission."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 56206313,
+    "parent_children": 8,
+    "thread_id": 56201337,
+    "thread_children": 44,
+    "ratio_recv": -5,
+    "ratio_give": 6,
+    "grade_level": 11.1,
+    "word_count": 28
+  },
+  {
+    "post_id": 144558465,
+    "title": "Sunday thread",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-166",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56207824,
+    "top_level": false,
+    "date": "May 12 2024 14:56",
+    "likes": 8,
+    "timestamp": 1715540172,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While many may find this overly optimistic, I'm hopeful that the new generative AI tech will be useful in automating the creation of these reports. Just searched, and found there is an active competition on \"LLM for Environmental Review: Use LLMs to solve a question answering task related to National Environmental Policy Act (NEPA) documents.\" "
+        },
+        {
+          "type": "url",
+          "value": "https://www.kaggle.com/competitions/llm-for-environmental-review/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could soon have the ability to generate orders of magnitude more NEPA documentation in an hour than the government could review in a century. That may finally force major revisions and reformations to NEPA."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And in general, I think it's interesting to think through how the process of various governments and other institutions could be overwhelmed by generative AI. So much stuff relies on paperwork being expensive and the purview of experts. Eg, Brookings has written about risks for \"Public comments and generative AI\" in their Apr 2023, \"Robotic rulemaking\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.brookings.edu/articles/robotic-rulemaking/"
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 56204929,
+    "parent_children": 17,
+    "thread_id": 56201337,
+    "thread_children": 44,
+    "ratio_recv": 1,
+    "ratio_give": -14,
+    "grade_level": 11.4,
+    "word_count": 146
+  },
+  {
+    "post_id": 144448371,
+    "title": "Did the Vietnam War protests backfire?",
+    "canonical_url": "https://www.slowboring.com/p/did-the-vietnam-war-protests-backfire",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56250756,
+    "top_level": false,
+    "date": "May 13 2024 07:40",
+    "likes": 21,
+    "timestamp": 1715600417,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, and it\u2019s simply because these losers need a convenient narrative to explain away their inadequacies. It\u2019s as true on the left as it is on the right. And I continue to believe that shame and mockery is the best way to neutralize these pathetic people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "An excellent example of this is frat boys challenging antifa larpers to a pushup contest, "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/choeshow/status/1787958758695649292"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That confrontation just so clearly reveals these dorks for the losers that they are. Probably won\u2019t change their minds. But this will at least drive them out of public and back to their increasingly isolated and marginalized online cesspools. Society might even benefit from having such a containment zone for our washouts."
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": 56248464,
+    "parent_children": 28,
+    "thread_id": 56248464,
+    "thread_children": 28,
+    "ratio_recv": -14,
+    "ratio_give": -48,
+    "grade_level": 7.2,
+    "word_count": 113
+  },
+  {
+    "post_id": 144448371,
+    "title": "Did the Vietnam War protests backfire?",
+    "canonical_url": "https://www.slowboring.com/p/did-the-vietnam-war-protests-backfire",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56264185,
+    "top_level": false,
+    "date": "May 13 2024 10:33",
+    "likes": 2,
+    "timestamp": 1715610800,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That may result in even more violence and suffering as each group attempts to obtain dominance over the region. My lay understanding leads me to believe that this may even be sanctioned by Biblical tradition because I believe there are numerous accounts of battles between different Israelite tribes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, the Battle of Gibeah, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Tribe_of_Benjamin#Battle_of_Gibeah"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Book of Judges recounts that the rape of the concubine of a member of the tribe of Levi, by a gang from the tribe of Benjamin resulted in a battle at Gibeah, in which the other tribes of Israel sought vengeance, and after which members of Benjamin were killed, including women and children. Almost the entire tribe of Benjamin was wiped out by the other Israelite tribes. Six hundred of the men from the tribe of Benjamin survived by hiding in a cave for four months. The text refers several times to the Benjaminite warriors as \"men of valour\" despite their defeat."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 56251049,
+    "parent_children": 4,
+    "thread_id": 56247945,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 11.1,
+    "word_count": 156
+  },
+  {
+    "post_id": 144448371,
+    "title": "Did the Vietnam War protests backfire?",
+    "canonical_url": "https://www.slowboring.com/p/did-the-vietnam-war-protests-backfire",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56296017,
+    "top_level": false,
+    "date": "May 13 2024 16:40",
+    "likes": 4,
+    "timestamp": 1715632854,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Look at their larping costumes; their posing as some sort of anarchist militants. The mocking around their physical abilities exposes them as just a bunch of dorks."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 56285598,
+    "parent_children": 6,
+    "thread_id": 56248464,
+    "thread_children": 28,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 7.4,
+    "word_count": 27
+  },
+  {
+    "post_id": 144477648,
+    "title": "What the right gets right",
+    "canonical_url": "https://www.slowboring.com/p/what-the-right-gets-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 56334742,
+    "top_level": true,
+    "date": "May 14 2024 07:21",
+    "likes": 5,
+    "timestamp": 1715685664,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think some of the deficiencies of the left highlighted in this article (eg, rejecting both \u201cnatural facts\u201d and benefits of private enterprise) results from an excessively literate culture. Many of us just overly prioritize the narrative surrounding history, current events, and even the sciences, and therefore we refuse to consider any features of reality that could weaken our proposed story. There\u2019s a belief, possibly even a subconscious intuition, that if we can just get the right narrative and popularize it, then our preferred political outcomes will arise."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But the mass public has far more agency over the narratives that they accept, reject, and even self create. Moreover, in our digital media age there is no way for any institution to control the story. People can pick and choose the narratives that simply feel right, possibly because it flatters themselves."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, some people will accept the carefully constructive leftist narratives manufactured with painstaking precision in academia and certain media outlets. But others will take the simple story they watched on Fox News or TikTok. (And the latter was chosen algorithmically to best match the media consumers' biases. Just wait til AI is generating individually customized narratives of realities for each of us!)"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 56334742,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.3,
+    "word_count": 202
   }
 ];
