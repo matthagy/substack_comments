@@ -38920,5 +38920,61 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 202
+  },
+  {
+    "post_id": 144802276,
+    "title": "Trump scams the people who trust him ",
+    "canonical_url": "https://www.slowboring.com/p/trump-scams-the-people-who-trust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57004157,
+    "top_level": false,
+    "date": "May 22 2024 08:39",
+    "likes": 21,
+    "timestamp": 1716381584,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Uh, from our modern #MeToo perspective, Clinton's behavior looks extremely bad. He exploited a huge power differential to take advantage of a young woman. Furthermore, Bill already had a track record of such behavior, or at least allegation there of, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Bill_Clinton_sexual_assault_and_misconduct_allegations"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even in the 90's this looked fairly bad. Particularly when Bill lied and attempted to cover it up. If the republicans hadn't overplayed their hand with the impeachment, then this likely would've tainted Bill, Hillary, and any Democrats who stood by him far more."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And Trump exploited Bill's past behavior in the 2016 election when defending against his own sexism and exploitation. [1] It was just a bad look for Hillary and the Democratic establishment to have stood by such a scumbag and that likely did diffuse Trump's own scandal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Bill_Clinton_sexual_assault_and_misconduct_allegations#2016_United_States_presidential_election"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 57002499,
+    "parent_children": 11,
+    "thread_id": 56996327,
+    "thread_children": 60,
+    "ratio_recv": -8,
+    "ratio_give": 4,
+    "grade_level": 9.4,
+    "word_count": 131
   }
 ];
