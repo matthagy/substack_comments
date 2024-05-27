@@ -38931,7 +38931,7 @@ window._comments = [
     "id": 57004157,
     "top_level": false,
     "date": "May 22 2024 08:39",
-    "likes": 21,
+    "likes": 24,
     "timestamp": 1716381584,
     "body": [
       [
@@ -38967,14 +38967,50 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 8,
+    "total_children": 10,
     "parent_id": 57002499,
-    "parent_children": 11,
+    "parent_children": 13,
     "thread_id": 56996327,
-    "thread_children": 60,
-    "ratio_recv": -8,
-    "ratio_give": 4,
+    "thread_children": 62,
+    "ratio_recv": -10,
+    "ratio_give": 6,
     "grade_level": 9.4,
     "word_count": 131
+  },
+  {
+    "post_id": 144807712,
+    "title": "The failures of Zionism and anti-Zionism ",
+    "canonical_url": "https://www.slowboring.com/p/the-failures-of-zionism-and-anti",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57094337,
+    "top_level": false,
+    "date": "May 23 2024 08:42",
+    "likes": 10,
+    "timestamp": 1716468149,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Israelis would never accept that. Nor would citizens of any other country were they to be joined with foreigners whom could constitute a majority of voters in the future. The only viable one state solution for the foreseeable future is a horrific ethnic cleansing of the Palestinians so hopefully they can figure out a path to a viable two state solution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As far as creativity goes, I think we in the west should focus on creating alternative, more entertaining distractions from this quagmire. As Yglesias has well articulated before, the problem is a substantial number of people on both sides suck; they're focused on ideological, even theological, projects of conquest. Can't reason with that so we might as well keep our distance and at most attempt to minimize spillover."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 57090029,
+    "parent_children": 3,
+    "thread_id": 57090029,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 9,
+    "grade_level": 11.7,
+    "word_count": 129
   }
 ];
