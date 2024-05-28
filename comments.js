@@ -39012,5 +39012,53 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 11.7,
     "word_count": 129
+  },
+  {
+    "post_id": 144906847,
+    "title": "What to read on Memorial Day",
+    "canonical_url": "https://www.slowboring.com/p/what-to-read-on-memorial-day",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57412824,
+    "top_level": false,
+    "date": "May 27 2024 08:19",
+    "likes": 5,
+    "timestamp": 1716812397,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The problem is that Democrats (and Republicans) continued to argue against deficits from the late 90s through the 2010\u2019s, despite the tangible concern of their impact on inflation and high interest rates never materializing as it did in the 70\u2019s and the 80\u2019s. Previously, there was a credible argument for why voters should be concerned about large deficits due to the substantive arguments about the pocket books issues of ever-rising grocery prices and high borrowing rates for mortgages and car loans. Hence, why Bush senior could be compelled to raise taxes and Clinton's balanced budget."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But politicians on both sides of the aisle continued to argue against deficit spending on partisan political topics, and their warnings of inflation and high interest rates never materialized despite the large Bush junior and Obama deficits.  Hence many political actors and ultimately voters came to disregard their arguments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The reasons we never encountered inflation and high-interest rates necessary to quell it in the face of large federal deficit spending are contentious. This could be due to deflationary forces on goods from China\u2019s low-cost and growing share of manufacturing. Or possibly some productivity gains from technology including the IT revolution in the corporate world. But, regardless, everyone came to disregard the previous fears associated with deficit spending."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019ll take some time for political actors and voters to adapt to our new macroeconomic reality and for us to actually get a government committed to reducing the deficit."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 57409675,
+    "parent_children": 4,
+    "thread_id": 57409675,
+    "thread_children": 4,
+    "ratio_recv": -4,
+    "ratio_give": 1,
+    "grade_level": 13.9,
+    "word_count": 241
   }
 ];
