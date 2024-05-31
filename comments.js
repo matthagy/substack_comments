@@ -39060,5 +39060,283 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 13.9,
     "word_count": 241
+  },
+  {
+    "post_id": 144877183,
+    "title": "The surprisingly hard question of who pays taxes ",
+    "canonical_url": "https://www.slowboring.com/p/the-surprisingly-hard-question-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57504445,
+    "top_level": false,
+    "date": "May 28 2024 10:42",
+    "likes": 8,
+    "timestamp": 1716907343,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Same. ChatGPT summary:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The narrative of \"civic decay\" is based on a misunderstanding of political and education history."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Americans today have a better understanding of tax policy compared to past centuries, due to advancements in education and economics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The idea that past generations were more civic-minded is a nostalgic misconception; historical records show a consistent struggle over tax policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The dichotomy of wanting government services without paying taxes is not new and has always been present."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Civic decay is a flawed narrative; historical declines were often caused by external factors like environmental crises, not by a lack of civic-mindedness."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Increased civic understanding and activism today, especially among youth, shows a deeper engagement with democratic values, not apathy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "(AI summaries is how I consume any long comment or deeply nested thread nowadays to see if there is anything worth exploring.)"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 57502225,
+    "parent_children": 5,
+    "thread_id": 57485487,
+    "thread_children": 65,
+    "ratio_recv": -6,
+    "ratio_give": -2,
+    "grade_level": 13.4,
+    "word_count": 139
+  },
+  {
+    "post_id": 144877183,
+    "title": "The surprisingly hard question of who pays taxes ",
+    "canonical_url": "https://www.slowboring.com/p/the-surprisingly-hard-question-of",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57507459,
+    "top_level": false,
+    "date": "May 28 2024 11:14",
+    "likes": 6,
+    "timestamp": 1716909294,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Can use the substack API to fetch all the comments and format them w/ nesting level indicated by `>`. Eg,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> parent"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">>  child"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">>> grand child"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Can also just print out a comment thread as a PDF and upload that directly. Eg, just tested that on the 26 comments in thread containing this comment [1] and got:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The document \"The Surprisingly Hard Question of Who Pays Taxes\" contains a series of comments discussing the complexities and public perceptions surrounding tax policy in the U.S. The discourse highlights a paradox where citizens desire increased government services but resist tax hikes, reflecting a broader civic challenge. Commenters debate the historical and current understanding of tax policy, noting that misconceptions about civic decay and unrealistic expectations about public finance persist. The conversation touches on the need for greater voter realism, the historical context of tax debates, and societal obligations, with humorous asides and references to popular culture illustrating the diverse viewpoints and the underlying frustration with the status quo."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-surprisingly-hard-question-of/comment/57485487"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 57506444,
+    "parent_children": 3,
+    "thread_id": 57485487,
+    "thread_children": 65,
+    "ratio_recv": -4,
+    "ratio_give": 4,
+    "grade_level": 15.1,
+    "word_count": 164
+  },
+  {
+    "post_id": 144944086,
+    "title": "How I went from left to center-left ",
+    "canonical_url": "https://www.slowboring.com/p/how-i-went-from-left-to-center-left",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57601298,
+    "top_level": false,
+    "date": "May 29 2024 11:43",
+    "likes": 9,
+    "timestamp": 1716997397,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, the US had a very different inflation trajectory than the rest of the world, particularly Europe. Notably, US core inflation rose in spring/summer 2021, well before inflation was seen elsewhere. [1] Inflation didn\u2019t become a concern in Europe until the massive European energy price spike following Russia\u2019s invasion of Ukraine in Feb 2022."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Jason Furman has a great Twitter thread from Jun 2022 comparing inflation in the US vs Europe, demonstrating that European inflation was driven more by energy, whereas US inflation resulted from excess demand as attributed to fiscal/monetary stimulus. "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/jasonfurman/status/1534174026259734528"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-08-10/us-inflation-decelerates-more-than-forecast-on-gas-price-drop"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 57596157,
+    "parent_children": 8,
+    "thread_id": 57575387,
+    "thread_children": 106,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 14.7,
+    "word_count": 93
+  },
+  {
+    "post_id": 144918283,
+    "title": "Why Biden lost ",
+    "canonical_url": "https://www.slowboring.com/p/why-biden-lost",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57666961,
+    "top_level": false,
+    "date": "May 30 2024 06:39",
+    "likes": 31,
+    "timestamp": 1717065553,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, the US had a very different inflation trajectory than the rest of the world, particularly Europe. Notably, US core inflation rose in spring/summer 2021, well before inflation was seen elsewhere. [1] Inflation didn\u2019t become a concern in Europe until the massive European energy price spike following Russia\u2019s invasion of Ukraine in Feb 2022."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Jason Furman has a great Twitter thread from Jun 2022 comparing inflation in the US vs Europe, demonstrating that European inflation was driven more by energy, whereas US inflation resulted from excess demand as attributed to fiscal/monetary stimulus. "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/jasonfurman/status/1534174026259734528"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2022-08-10/us-inflation-decelerates-more-than-forecast-on-gas-price-drop"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "(This is like the 6th time I've had to post this rebuttal of inflation misinformation in SB comments. Even here we're refusing to learn from our fiscal policy mistakes)"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 57666094,
+    "parent_children": 16,
+    "thread_id": 57666094,
+    "thread_children": 16,
+    "ratio_recv": -4,
+    "ratio_give": 23,
+    "grade_level": 12.4,
+    "word_count": 122
+  },
+  {
+    "post_id": 144918283,
+    "title": "Why Biden lost ",
+    "canonical_url": "https://www.slowboring.com/p/why-biden-lost",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57670803,
+    "top_level": false,
+    "date": "May 30 2024 07:51",
+    "likes": 31,
+    "timestamp": 1717069868,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. The Afghanistan withdraw ended Biden's honeymoon period, but if it wasn't that then it would've been something else. Notably the Delta and Omicron Covid variants and his hawkish response."
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": 57668885,
+    "parent_children": 20,
+    "thread_id": 57666761,
+    "thread_children": 76,
+    "ratio_recv": -14,
+    "ratio_give": -13,
+    "grade_level": 6.8,
+    "word_count": 30
   }
 ];
