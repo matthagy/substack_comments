@@ -39247,7 +39247,7 @@ window._comments = [
     "parent_id": 57596157,
     "parent_children": 8,
     "thread_id": 57575387,
-    "thread_children": 106,
+    "thread_children": 108,
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 14.7,
@@ -39263,7 +39263,7 @@ window._comments = [
     "id": 57666961,
     "top_level": false,
     "date": "May 30 2024 06:39",
-    "likes": 31,
+    "likes": 32,
     "timestamp": 1717065553,
     "body": [
       [
@@ -39305,7 +39305,7 @@ window._comments = [
     "thread_id": 57666094,
     "thread_children": 16,
     "ratio_recv": -4,
-    "ratio_give": 23,
+    "ratio_give": 24,
     "grade_level": 12.4,
     "word_count": 122
   },
@@ -39319,7 +39319,7 @@ window._comments = [
     "id": 57670803,
     "top_level": false,
     "date": "May 30 2024 07:51",
-    "likes": 31,
+    "likes": 33,
     "timestamp": 1717069868,
     "body": [
       [
@@ -39334,9 +39334,51 @@ window._comments = [
     "parent_children": 20,
     "thread_id": 57666761,
     "thread_children": 76,
-    "ratio_recv": -14,
+    "ratio_recv": -15,
     "ratio_give": -13,
     "grade_level": 6.8,
     "word_count": 30
+  },
+  {
+    "post_id": 145091849,
+    "title": "Taking irrational voters seriously",
+    "canonical_url": "https://www.slowboring.com/p/taking-irrational-voters-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 57782045,
+    "top_level": false,
+    "date": "May 31 2024 08:57",
+    "likes": 24,
+    "timestamp": 1717160258,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> taking action against the practice of grocery chains demanding what could be seen as kickbacks in exchange for favorable shelf placement, a practice that advantages large, well-capitalized suppliers over smaller and start-up ones"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You have that backwards: large established firms less-frequently pay for slotting (ie, premium shelf space) because they\u2019ve already established brand recognition among consumers. That is the domain of growing brands, notably startups. It\u2019s just one of the many marketing expenses that they incur to build brand recognition. And when a brand has reached sufficient scale to be entering national retailers, they absolutely have the investor capital to pay for it; at that point they\u2019re likely spending far more on other marketing expenses like ads. Any prohibition against slotting fees would lock in incumbents with established brand recognition similar to a ban on advertising."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Disclaimer: I work in CPG accounting SaaS for small and medium brands. Among features, we automate the fetching and interpretation of the messy paperwork documenting all of these retailer/distributor fees like slotting. I\u2019m strongly incentivized to promote anything that helps such growth brands, particularly if it involves more financial documentation."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 57771738,
+    "parent_children": 21,
+    "thread_id": 57770844,
+    "thread_children": 34,
+    "ratio_recv": -18,
+    "ratio_give": 2,
+    "grade_level": 13.6,
+    "word_count": 186
   }
 ];
