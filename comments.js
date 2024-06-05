@@ -39263,7 +39263,7 @@ window._comments = [
     "id": 57666961,
     "top_level": false,
     "date": "May 30 2024 06:39",
-    "likes": 32,
+    "likes": 33,
     "timestamp": 1717065553,
     "body": [
       [
@@ -39305,7 +39305,7 @@ window._comments = [
     "thread_id": 57666094,
     "thread_children": 16,
     "ratio_recv": -4,
-    "ratio_give": 24,
+    "ratio_give": 25,
     "grade_level": 12.4,
     "word_count": 122
   },
@@ -39319,7 +39319,7 @@ window._comments = [
     "id": 57670803,
     "top_level": false,
     "date": "May 30 2024 07:51",
-    "likes": 33,
+    "likes": 37,
     "timestamp": 1717069868,
     "body": [
       [
@@ -39334,8 +39334,8 @@ window._comments = [
     "parent_children": 20,
     "thread_id": 57666761,
     "thread_children": 76,
-    "ratio_recv": -15,
-    "ratio_give": -13,
+    "ratio_recv": -19,
+    "ratio_give": -11,
     "grade_level": 6.8,
     "word_count": 30
   },
@@ -39349,7 +39349,7 @@ window._comments = [
     "id": 57782045,
     "top_level": false,
     "date": "May 31 2024 08:57",
-    "likes": 24,
+    "likes": 28,
     "timestamp": 1717160258,
     "body": [
       [
@@ -39373,12 +39373,96 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 57771738,
-    "parent_children": 21,
+    "parent_children": 24,
     "thread_id": 57770844,
-    "thread_children": 34,
-    "ratio_recv": -18,
+    "thread_children": 40,
+    "ratio_recv": -21,
     "ratio_give": 2,
     "grade_level": 13.6,
     "word_count": 186
+  },
+  {
+    "post_id": 145109069,
+    "title": "Moderate donors should do something that isn't stupid",
+    "canonical_url": "https://www.slowboring.com/p/moderate-donors-should-do-something",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58043732,
+    "top_level": false,
+    "date": "Jun 03 2024 08:31",
+    "likes": 13,
+    "timestamp": 1717417876,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As demonstrated in the Citizens United case, we can't restrict spending on political messaging due to the 1st amendment as well as the subjectivity in differentiating between political messaging and commercial/creative expression. People and organization can spend their own money on promoting whatever message they want, including political messaging."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I think that was the right call! "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Recall that Citizens United began by trying to block the release of Michael Moore's Fahrenheit 9/11 in the lead up the 2004 election under the terms of the 2002 Bipartisan Campaign Reform Act. The Federal Election Commission allowed that film (rightfully so IMO), so CU attempted to create a mirror image film smearing Hillary Clinton, for release around the 2008 election. The FEC blocked that one, and when CU sued, the courts recognized the subjectivity in differentiating political speech from create/commercial speech. Moreover, the 1st amendment doesn't even have a carve out for political speech restrictions so its a moot point."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 58039234,
+    "parent_children": 39,
+    "thread_id": 58037753,
+    "thread_children": 63,
+    "ratio_recv": -7,
+    "ratio_give": 5,
+    "grade_level": 13.3,
+    "word_count": 158
+  },
+  {
+    "post_id": 145125332,
+    "title": "What if Italy joined the Central Powers in World War I? ",
+    "canonical_url": "https://www.slowboring.com/p/what-if-italy-joined-the-central",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58138009,
+    "top_level": false,
+    "date": "Jun 04 2024 07:46",
+    "likes": 28,
+    "timestamp": 1717501604,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Austria probably had an over-estimate in the odds they were favored in the war"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My lay understanding is that every actor in WWI over-estimated their odds as they entered the conflict. Furthermore, few if any in the military and political leadership recognized the extent to which technology had fundamentally changed warfare, which likely contributed to their overly optimistic misjudgments. At most they may have seen their own advantages due to better weapons without recognizing their vulnerabilities to opponent's new arms. Everyone was just working with a flawed model of reality and it required extreme pain and suffering to eventually correct this."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There may be some parallels to our present moment with technological advancements like social media and generative AI. But unfortunately that just suggests we too will need extreme pain and suffering before we recognize how our world has changed and we adapt accordingly."
+        }
+      ]
+    ],
+    "total_children": 20,
+    "parent_id": 58136666,
+    "parent_children": 25,
+    "thread_id": 58136666,
+    "thread_children": 25,
+    "ratio_recv": -4,
+    "ratio_give": 5,
+    "grade_level": 13.8,
+    "word_count": 144
   }
 ];
