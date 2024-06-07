@@ -39391,7 +39391,7 @@ window._comments = [
     "id": 58043732,
     "top_level": false,
     "date": "Jun 03 2024 08:31",
-    "likes": 13,
+    "likes": 15,
     "timestamp": 1717417876,
     "body": [
       [
@@ -39415,11 +39415,11 @@ window._comments = [
     ],
     "total_children": 12,
     "parent_id": 58039234,
-    "parent_children": 39,
+    "parent_children": 41,
     "thread_id": 58037753,
-    "thread_children": 63,
-    "ratio_recv": -7,
-    "ratio_give": 5,
+    "thread_children": 65,
+    "ratio_recv": -9,
+    "ratio_give": 7,
     "grade_level": 13.3,
     "word_count": 158
   },
@@ -39433,7 +39433,7 @@ window._comments = [
     "id": 58138009,
     "top_level": false,
     "date": "Jun 04 2024 07:46",
-    "likes": 28,
+    "likes": 31,
     "timestamp": 1717501604,
     "body": [
       [
@@ -39455,14 +39455,320 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 20,
+    "total_children": 21,
     "parent_id": 58136666,
-    "parent_children": 25,
+    "parent_children": 26,
     "thread_id": 58136666,
-    "thread_children": 25,
+    "thread_children": 26,
     "ratio_recv": -4,
-    "ratio_give": 5,
+    "ratio_give": 4,
     "grade_level": 13.8,
     "word_count": 144
+  },
+  {
+    "post_id": 145165809,
+    "title": "Most young people aren\u2019t liberals",
+    "canonical_url": "https://www.slowboring.com/p/most-young-people-arent-liberals",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58235389,
+    "top_level": false,
+    "date": "Jun 05 2024 07:43",
+    "likes": 7,
+    "timestamp": 1717587817,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Median means middle."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, if you place 100 of these respondents in a line, ordered from most liberal to most conservative, the person in the middle will be a moderate. Specifically, there will be 36 liberals at the start of the line, then 31 moderate individuals, and finally 33 conservatives at the end. The people from positions 37 to 67 will be moderates, including the middle people in the positions 50 and 51."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 58232045,
+    "parent_children": 17,
+    "thread_id": 58232045,
+    "thread_children": 17,
+    "ratio_recv": -5,
+    "ratio_give": 7,
+    "grade_level": 10.4,
+    "word_count": 73
+  },
+  {
+    "post_id": 145165809,
+    "title": "Most young people aren\u2019t liberals",
+    "canonical_url": "https://www.slowboring.com/p/most-young-people-arent-liberals",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58238946,
+    "top_level": false,
+    "date": "Jun 05 2024 08:28",
+    "likes": 4,
+    "timestamp": 1717590487,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But that's going to be true almost by definition."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "No, not necessarily. If 60% of young voters identified as liberal, then the median would be liberal. The importance of the median concept is that roughly half of the population is on either side of the middle."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even in your 49/2/49 example, there is a balance of liberals and conservatives, which is captured by that median concept. Although, yes, knowing that distribution is more useful than just knowing the media."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> where he said that most Americans are moderate or conservative"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, I agree that some phrasing around those stats could be improved. Nonetheless, the section title is, \"The median young voter is a moderate\", and I think that is the main point we need to take away."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 58237092,
+    "parent_children": 6,
+    "thread_id": 58232045,
+    "thread_children": 17,
+    "ratio_recv": -4,
+    "ratio_give": 2,
+    "grade_level": 8.3,
+    "word_count": 126
+  },
+  {
+    "post_id": 145165809,
+    "title": "Most young people aren\u2019t liberals",
+    "canonical_url": "https://www.slowboring.com/p/most-young-people-arent-liberals",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58243796,
+    "top_level": false,
+    "date": "Jun 05 2024 09:21",
+    "likes": 5,
+    "timestamp": 1717593667,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Mode_(statistics)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In statistics, the mode is the value that appears most often in a set of data values."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In this example, liberal is the value that occurs the most w/ 36 appearances relative to 31 moderates and 33 conservatives. Hence, liberal is the mode."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 58243158,
+    "parent_children": 4,
+    "thread_id": 58232045,
+    "thread_children": 17,
+    "ratio_recv": -1,
+    "ratio_give": 4,
+    "grade_level": 7.8,
+    "word_count": 44
+  },
+  {
+    "post_id": 145233397,
+    "title": "The current era of age polarization is unusual ",
+    "canonical_url": "https://www.slowboring.com/p/the-current-era-of-age-polarization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58330738,
+    "top_level": false,
+    "date": "Jun 06 2024 07:41",
+    "likes": 9,
+    "timestamp": 1717674075,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Where's the money going to come from?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Deficit financing a perpetual and growing entitlement would explode inflation expectations and get us into truly rapid prices growth and double digit mortgage rates. And we've recently learned how much voters hate even a moderate burst of inflation and elevated interest rates. Hopefully politicians have learned their lesson on that one."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And no one is in favor of the types of tax increases that would sure up SS. Even Democrats oppose any increase in taxes for all but the richest. Even just uncapping SS taxes (which is insufficient to fill the financing gap on its own) would be wildly unpopular."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My guess is we have a highly partisan fight, possibly even some internecine warfare within parties, while each group pushes their preferred strategy that puts the burden on someone else. We'll get some minor patch ups, but largely get the default cuts, while factions continue to push for there preferred strategy. No chance any proper fix will get the necessary 60 votes in the senate."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 58328875,
+    "parent_children": 11,
+    "thread_id": 58326369,
+    "thread_children": 37,
+    "ratio_recv": 2,
+    "ratio_give": -4,
+    "grade_level": 8.8,
+    "word_count": 172
+  },
+  {
+    "post_id": 145233397,
+    "title": "The current era of age polarization is unusual ",
+    "canonical_url": "https://www.slowboring.com/p/the-current-era-of-age-polarization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58332228,
+    "top_level": false,
+    "date": "Jun 06 2024 08:01",
+    "likes": 3,
+    "timestamp": 1717675276,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and the SS deficit of revenue relative to benefits has been small, but growing.  See, \"CBO\u2019s 2023 Long-Term Projections for Social Security\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cbo.gov/publication/59340"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As shown in the figure, the deficit is projected to only grow with current policy (absent the automatic cuts). If we encode that into law with permanent deficit financing, then we have baked in massive fiscal stimulant. We'll get ever increasing inflation and long-term interest rates will explode."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thankfully we still have numerous technocrats among Democrats that understand why we can't just deficit finance current policy. Even Republicans are likely influenced by enough rich people that recognize these risks. And with the recent voter revolt against just minor inflation, we can hope politicians won't collectively be dumb enough to attempt this."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 58331037,
+    "parent_children": 3,
+    "thread_id": 58326369,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 10.2,
+    "word_count": 124
+  },
+  {
+    "post_id": 145233397,
+    "title": "The current era of age polarization is unusual ",
+    "canonical_url": "https://www.slowboring.com/p/the-current-era-of-age-polarization",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58335613,
+    "top_level": false,
+    "date": "Jun 06 2024 08:43",
+    "likes": 16,
+    "timestamp": 1717677804,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, and it's ironic that Trump challenged Buchanan for 2000 Reform Party presidential nomination, including railing against Buchanan paleoconservatism. Entertainingly cover in, \"When Trump ran against Trump-ism\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.nbcnews.com/think/opinion/when-trump-ran-against-trump-ism-story-2000-election-ncna915651"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 58329083,
+    "parent_children": 14,
+    "thread_id": 58329083,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 12.1,
+    "word_count": 27
+  },
+  {
+    "post_id": 145336462,
+    "title": "How China plays western companies against each other ",
+    "canonical_url": "https://www.slowboring.com/p/how-china-plays-western-companies",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58441876,
+    "top_level": false,
+    "date": "Jun 07 2024 10:36",
+    "likes": 5,
+    "timestamp": 1717770969,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Democracy's are volatile, but that is the source of resilience because there is the opportunity for solutions to new problems of the ever-changing world to arise. Autocracies can be strong in the moment, but they're largely unable to adapt; particularly because such reversals can discredit the regime's past decisions and ultimately call their legitimacy in questions. Whereas in democracy we can delegitimize past leadership and replace it with new, different leadership as we find appropriate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And the issue w/ JCPOA was that it was just an executive order; not a treaty ratified by congress. A treaty wasn't possible because we didn't have sufficient consensus. Even without Cotton's open defection from the deal, the Iranians could never take it too seriously because of the diverging opinions within the parties. This is a case where a democracy couldn't act decisively, like an autocracy could, which can be a disadvantage in the short term."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet overall the flexibility of a democracy gives us resiliency and once we have sufficient consensus we can take decisive actions. Eg, Biden continuing Trump's tariffs and protectionist policy (which while stupid IMO, does represent a true consensus across the American voters and parties)."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 58436971,
+    "parent_children": 13,
+    "thread_id": 58436971,
+    "thread_children": 13,
+    "ratio_recv": -4,
+    "ratio_give": -2,
+    "grade_level": 12.9,
+    "word_count": 195
   }
 ];
