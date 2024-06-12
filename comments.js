@@ -39739,7 +39739,7 @@ window._comments = [
     "id": 58441876,
     "top_level": false,
     "date": "Jun 07 2024 10:36",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1717770969,
     "body": [
       [
@@ -39761,14 +39761,90 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 6,
+    "total_children": 7,
     "parent_id": 58436971,
-    "parent_children": 13,
+    "parent_children": 17,
     "thread_id": 58436971,
-    "thread_children": 13,
-    "ratio_recv": -4,
-    "ratio_give": -2,
+    "thread_children": 17,
+    "ratio_recv": -3,
+    "ratio_give": -5,
     "grade_level": 12.9,
     "word_count": 195
+  },
+  {
+    "post_id": 145463437,
+    "title": "Grab Bag + Sunday Thread",
+    "canonical_url": "https://www.slowboring.com/p/grab-bag-sunday-thread-cfe",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58633912,
+    "top_level": false,
+    "date": "Jun 09 2024 18:20",
+    "likes": 11,
+    "timestamp": 1717971614,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Excellent timing. He just published a piece today in Bloomberg: Lina Khan\u2019s\u00a0Hipster Antitrust Policy Is Actually\u00a0Conservative  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2024-06-09/lina-khan-s-hipster-antitrust-policy-is-actually-conservative"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 58629359,
+    "parent_children": 4,
+    "thread_id": 58629359,
+    "thread_children": 4,
+    "ratio_recv": -8,
+    "ratio_give": 0,
+    "grade_level": 12.7,
+    "word_count": 18
+  },
+  {
+    "post_id": 145444571,
+    "title": "Mad Max's implausible post-oil eco-dystopia",
+    "canonical_url": "https://www.slowboring.com/p/mad-maxs-implausible-post-oil-eco",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 58758272,
+    "top_level": false,
+    "date": "Jun 11 2024 07:44",
+    "likes": 25,
+    "timestamp": 1718106279,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Apocalyptic stories of how the world is going to end, or at least how the current order will collapse, are some of the oldest and most recurring narratives throughout human history. Almost every ancient civilization has some \u201cNoah\u2019s Flood\u201d like story; many also centered around a great flood. There\u2019s just something about such eschatological tales and predictions that taps into something deep in the human psyche; some combination of fear of change combined with hope for a day of judgment where the wicked will be punished and the righteous rewarded."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And many times these tales tap into real crises and provide order and meaning to what would otherwise be pointless pain and suffering of a cold and uncaring universe. The Jewish world of ancient Israel truly was ending for all intents and meanings in the time of Jesus, John the Baptist, and the Essenes with the Roman conquest and subjugation. The people couldn\u2019t cope without such narrative structure and predictions of a final reckoning to correct these injustices."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, we should have some empathy for people drawn to contemporary eschatologies. Many may actually be feeling great fear and a sense of injustice; particularly those for whom the ever changing world is perceived as a drop in material standards of living and status. Even just the failure of the world to correspond to their false expectations may be deeply troubling. Yet, these stories and predictions can be counterproductive when they prevent people from recognizing and adapting to our present reality. So we should have some limits to how far we indulge the doomers."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 58754633,
+    "parent_children": 52,
+    "thread_id": 58754633,
+    "thread_children": 52,
+    "ratio_recv": -14,
+    "ratio_give": -20,
+    "grade_level": 11.4,
+    "word_count": 262
   }
 ];
