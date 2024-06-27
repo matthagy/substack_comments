@@ -39815,7 +39815,7 @@ window._comments = [
     "id": 58758272,
     "top_level": false,
     "date": "Jun 11 2024 07:44",
-    "likes": 25,
+    "likes": 26,
     "timestamp": 1718106279,
     "body": [
       [
@@ -39837,14 +39837,128 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 19,
     "parent_id": 58754633,
-    "parent_children": 52,
+    "parent_children": 66,
     "thread_id": 58754633,
-    "thread_children": 52,
-    "ratio_recv": -14,
-    "ratio_give": -20,
+    "thread_children": 66,
+    "ratio_recv": -13,
+    "ratio_give": -27,
     "grade_level": 11.4,
     "word_count": 262
+  },
+  {
+    "post_id": 145917356,
+    "title": "Sunday Thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-e49",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 59882220,
+    "top_level": false,
+    "date": "Jun 24 2024 02:58",
+    "likes": 1,
+    "timestamp": 1719212315,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The existing credit cards will be cancelled if those policies go into effect. Or more likely, existing policies will be grandfathered in under policy change to prevent that."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 59849623,
+    "parent_children": 2,
+    "thread_id": 59841237,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 8.8,
+    "word_count": 28
+  },
+  {
+    "post_id": 145917356,
+    "title": "Sunday Thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-e49",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 59883234,
+    "top_level": false,
+    "date": "Jun 24 2024 03:32",
+    "likes": 2,
+    "timestamp": 1719214340,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree with the author of that piece, particularly about the general hype and fraud of the data science field even prior to AI; and I say that as someone who followed a similar career trajectory of also leaving data science for software engineering. And yes there certainly is a lot of comparable hype and likely fraud in numerous AI projects. There just are incentives for every company to attempt something when an exciting new technology enters the field despite the firm lacking the capabilities to succeed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, we can\u2019t deny that LLMs are an impressive technology in their human-like abilities to process and generate text, audio, and video. They\u2019re also an immature technology with the added weirdness of being something of a black box, even to practitioners. Our current understanding of LLMs is more art than science. It will take some time to refine the technology as well as figuring out how to incorporate it into products. While we already have some early products with significant adoptions\u2014notably ChatGPT and Microsoft Copilots\u2014they likely are nowhere near the optimal form factor for enhancing productivity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So we definitely shouldn\u2019t buy into the hype and BS of any individual company\u2014particularly random firms with generic AI announcements\u2014but we also shouldn\u2019t outright dismiss the potential of this new alien technology. And we should keep in mind Bill Gates famous 1995 quote about technology impact:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 59839664,
+    "parent_children": 16,
+    "thread_id": 59839664,
+    "thread_children": 16,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 13.7,
+    "word_count": 261
+  },
+  {
+    "post_id": 145942190,
+    "title": "Elite misinformation is an underrated problem ",
+    "canonical_url": "https://www.slowboring.com/p/elite-misinformation-is-an-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 60089271,
+    "top_level": false,
+    "date": "Jun 26 2024 08:36",
+    "likes": 32,
+    "timestamp": 1719405383,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The difference is that Fox News misinformation is espoused by TV personalities, other grifters, and some deeply mentally disturbed individuals. Where as elite misinformation comes from credentialed experts at prestigious institutions. Eg, NYT and Harvard. The Fox New equivalent on the left would be TikTok."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The concern is that elite misinformation misinforms political actors like politicians and activists into taking counterproductive actions; or simply wasting attention and political capital on overblown issues. Furthermore, these elites have earned the trust of political actors and the broad public over centuries by being a source a valuable information and professional judgement. Yet their occasional misinformation risks that reputation and could reduce them to just more noise along the lines of Fox News and TikTok."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 60084920,
+    "parent_children": 46,
+    "thread_id": 60084920,
+    "thread_children": 46,
+    "ratio_recv": -29,
+    "ratio_give": 15,
+    "grade_level": 12.4,
+    "word_count": 121
   }
 ];
