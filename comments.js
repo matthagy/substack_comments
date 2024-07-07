@@ -39935,7 +39935,7 @@ window._comments = [
     "id": 60089271,
     "top_level": false,
     "date": "Jun 26 2024 08:36",
-    "likes": 32,
+    "likes": 40,
     "timestamp": 1719405383,
     "body": [
       [
@@ -39951,14 +39951,180 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 19,
     "parent_id": 60084920,
-    "parent_children": 46,
+    "parent_children": 56,
     "thread_id": 60084920,
-    "thread_children": 46,
-    "ratio_recv": -29,
-    "ratio_give": 15,
+    "thread_children": 56,
+    "ratio_recv": -36,
+    "ratio_give": 19,
     "grade_level": 12.4,
     "word_count": 121
+  },
+  {
+    "post_id": 146370225,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-28c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 61224987,
+    "top_level": true,
+    "date": "Jul 07 2024 13:12",
+    "likes": 21,
+    "timestamp": 1720372357,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What ethical considerations should guide the U.S. in addressing the growing fiscal burden of supporting an aging population, particularly regarding the sustainability of Social Security and Medicare? Beyond intergenerational fairness, what about within the elderly population where individuals enter retirement with great disparities in not only wealth but also in baseline physical health? And could there ever be situations where it\u2019s moral for the government to withhold medical resources to manage these costs?"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 61224987,
+    "thread_children": 3,
+    "ratio_recv": -20,
+    "ratio_give": null,
+    "grade_level": 15.1,
+    "word_count": 73
+  },
+  {
+    "post_id": 146370225,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-28c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 61225516,
+    "top_level": false,
+    "date": "Jul 07 2024 13:18",
+    "likes": 15,
+    "timestamp": 1720372725,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Think he already answered that immediately following the debate in \"Honor demands Joe Biden step aside\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/honor-demands-joe-biden-step-aside"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 61224611,
+    "parent_children": 22,
+    "thread_id": 61224611,
+    "thread_children": 22,
+    "ratio_recv": -15,
+    "ratio_give": 13,
+    "grade_level": 10.7,
+    "word_count": 16
+  },
+  {
+    "post_id": 146370225,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-28c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 61229089,
+    "top_level": false,
+    "date": "Jul 07 2024 14:00",
+    "likes": 15,
+    "timestamp": 1720375228,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think this is clear to many, but who is incentivized to take action?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Biden\u2019s inner circle - Why should they care? Whether he loses or steps down, they\u2019re still out of a job (or residence). Might as well take slim odds of a Biden victory. Plus who wants a reputation for backstabbing their boss?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Congressional leadership - What if Schumer and Jeffries apply pressure, force him out, and we lose anyways? They certainly don\u2019t want the blame for Trump 2.0. I doubt voters will understand the nuances of decisions under uncertainty and they\u2019re gonna want a scalp."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Backbencher\u2019s - Only makes sense if they\u2019re in a purple district for which they benefit from counter positioning w.r.t. the administration. Some in safe seats can, and have, spoken up for the good of the party. But their numbers aren\u2019t large enough."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Obama and Clintons  - Biden already thinks they have bad judgment for doubting him in 2016 and 2020; or have other interests beyond what's best for the Democrats. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "No one else has leverage or influence."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, while Harris or someone else likely has better odds than Biden, there\u2019s way more unknowable uncertainty with that route, including even worse outcomes than just Trump again. What if we repeat 1968 and break up the coalition such that Democrats again spend decades in the wilderness searching for a new presidential platform and coalition that can durably win? No one wants that to be their legacy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Whereas if we can blame Biden\u2019s age and his stubbornness then we have a much simpler and more congenial postmortem. Not like he\u2019s gonna be around long to provide a counter narrative."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 61225342,
+    "parent_children": 18,
+    "thread_id": 61225342,
+    "thread_children": 18,
+    "ratio_recv": -12,
+    "ratio_give": -10,
+    "grade_level": 6.8,
+    "word_count": 270
+  },
+  {
+    "post_id": 146370225,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-28c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 61229516,
+    "top_level": false,
+    "date": "Jul 07 2024 14:06",
+    "likes": 19,
+    "timestamp": 1720375576,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Long and drawn out firings to follow a procedure and build a paper trail aren\u2019t strictly necessary. HR and legal just want to minimize their own risk of being blamed for a lawsuit (and justify their own jobs). Doubly so with a severance package and a separation agreement to mitigate those risks. "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 61228753,
+    "parent_children": 15,
+    "thread_id": 61225795,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": 17,
+    "grade_level": 8.9,
+    "word_count": 52
   }
 ];
