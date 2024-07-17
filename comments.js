@@ -39971,7 +39971,7 @@ window._comments = [
     "id": 61224987,
     "top_level": true,
     "date": "Jul 07 2024 13:12",
-    "likes": 21,
+    "likes": 27,
     "timestamp": 1720372357,
     "body": [
       [
@@ -39986,7 +39986,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 61224987,
     "thread_children": 3,
-    "ratio_recv": -20,
+    "ratio_recv": -25,
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 73
@@ -40001,7 +40001,7 @@ window._comments = [
     "id": 61225516,
     "top_level": false,
     "date": "Jul 07 2024 13:18",
-    "likes": 15,
+    "likes": 19,
     "timestamp": 1720372725,
     "body": [
       [
@@ -40015,13 +40015,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 13,
     "parent_id": 61224611,
-    "parent_children": 22,
+    "parent_children": 27,
     "thread_id": 61224611,
-    "thread_children": 22,
-    "ratio_recv": -15,
-    "ratio_give": 13,
+    "thread_children": 27,
+    "ratio_recv": -19,
+    "ratio_give": 17,
     "grade_level": 10.7,
     "word_count": 16
   },
@@ -40035,7 +40035,7 @@ window._comments = [
     "id": 61229089,
     "top_level": false,
     "date": "Jul 07 2024 14:00",
-    "likes": 15,
+    "likes": 25,
     "timestamp": 1720375228,
     "body": [
       [
@@ -40087,13 +40087,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 61225342,
-    "parent_children": 18,
+    "parent_children": 27,
     "thread_id": 61225342,
-    "thread_children": 18,
-    "ratio_recv": -12,
-    "ratio_give": -10,
+    "thread_children": 27,
+    "ratio_recv": -20,
+    "ratio_give": -23,
     "grade_level": 6.8,
     "word_count": 270
   },
@@ -40107,7 +40107,7 @@ window._comments = [
     "id": 61229516,
     "top_level": false,
     "date": "Jul 07 2024 14:06",
-    "likes": 19,
+    "likes": 26,
     "timestamp": 1720375576,
     "body": [
       [
@@ -40117,13 +40117,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 61228753,
-    "parent_children": 15,
+    "parent_children": 18,
     "thread_id": 61225795,
-    "thread_children": 38,
-    "ratio_recv": null,
-    "ratio_give": 17,
+    "thread_children": 48,
+    "ratio_recv": -25,
+    "ratio_give": 22,
     "grade_level": 8.9,
     "word_count": 52
   }
