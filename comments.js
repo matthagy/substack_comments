@@ -44,7 +44,7 @@ window._comments = [
   {
     "post_id": 43514326,
     "title": "Thoughts on the Virginia election",
-    "canonical_url": "https://noahpinion.substack.com/p/thoughts-on-the-virginia-election",
+    "canonical_url": "https://www.noahpinion.blog/p/thoughts-on-the-virginia-election",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -286,7 +286,7 @@ window._comments = [
   {
     "post_id": 45150536,
     "title": "Techno-optimism for 2022",
-    "canonical_url": "https://noahpinion.substack.com/p/techno-optimism-for-2022",
+    "canonical_url": "https://www.noahpinion.blog/p/techno-optimism-for-2022",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -414,7 +414,7 @@ window._comments = [
   {
     "post_id": 45381030,
     "title": "Four reasons Biden's spending bill won't make inflation worse",
-    "canonical_url": "https://noahpinion.substack.com/p/four-reasons-bidens-spending-bill",
+    "canonical_url": "https://www.noahpinion.blog/p/four-reasons-bidens-spending-bill",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -798,7 +798,7 @@ window._comments = [
   {
     "post_id": 46266128,
     "title": "Yes, most Americans own capital",
-    "canonical_url": "https://noahpinion.substack.com/p/yes-most-americans-own-capital",
+    "canonical_url": "https://www.noahpinion.blog/p/yes-most-americans-own-capital",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -893,14 +893,14 @@ window._comments = [
   {
     "post_id": 46454781,
     "title": "Why price controls are a bad tool for fighting inflation",
-    "canonical_url": "https://noahpinion.substack.com/p/why-price-controls-are-a-bad-tool",
+    "canonical_url": "https://www.noahpinion.blog/p/why-price-controls-are-a-bad-tool",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
     "id": 4250600,
     "top_level": true,
     "date": "Jan 01 2022 19:03",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1641081818,
     "body": [
       [
@@ -948,7 +948,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 4250600,
     "thread_children": 5,
-    "ratio_recv": -3,
+    "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 227
@@ -1092,7 +1092,7 @@ window._comments = [
   {
     "post_id": 46971895,
     "title": "Yes, worker skills matter",
-    "canonical_url": "https://noahpinion.substack.com/p/yes-worker-skills-matter",
+    "canonical_url": "https://www.noahpinion.blog/p/yes-worker-skills-matter",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -1252,8 +1252,8 @@ window._comments = [
   },
   {
     "post_id": 47889897,
-    "title": "Inflation-fighting as a multi-decade project",
-    "canonical_url": "https://noahpinion.substack.com/p/inflation-fighting-as-a-multi-decade",
+    "title": "Fighting inflation by increasing supply is a multi-decade project",
+    "canonical_url": "https://www.noahpinion.blog/p/inflation-fighting-as-a-multi-decade",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -2327,7 +2327,7 @@ window._comments = [
   {
     "post_id": 53002259,
     "title": "Think Bigger About Remote Work",
-    "canonical_url": "https://noahpinion.substack.com/p/think-bigger-about-remote-work",
+    "canonical_url": "https://www.noahpinion.blog/p/think-bigger-about-remote-work",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -4622,7 +4622,7 @@ window._comments = [
   {
     "post_id": 60197939,
     "title": "So, how can we lower gas prices?",
-    "canonical_url": "https://noahpinion.substack.com/p/so-how-can-we-lower-gas-prices",
+    "canonical_url": "https://www.noahpinion.blog/p/so-how-can-we-lower-gas-prices",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -4684,7 +4684,7 @@ window._comments = [
   {
     "post_id": 60197939,
     "title": "So, how can we lower gas prices?",
-    "canonical_url": "https://noahpinion.substack.com/p/so-how-can-we-lower-gas-prices",
+    "canonical_url": "https://www.noahpinion.blog/p/so-how-can-we-lower-gas-prices",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -6313,7 +6313,7 @@ window._comments = [
   {
     "post_id": 63921833,
     "title": "The 8% interest rate scenario is still in play",
-    "canonical_url": "https://noahpinion.substack.com/p/the-8-interest-rate-scenario-is-still",
+    "canonical_url": "https://www.noahpinion.blog/p/the-8-interest-rate-scenario-is-still",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -8900,7 +8900,7 @@ window._comments = [
   {
     "post_id": 77442230,
     "title": "Why I don't think the Fed will back off",
-    "canonical_url": "https://noahpinion.substack.com/p/why-i-dont-think-the-fed-will-back",
+    "canonical_url": "https://www.noahpinion.blog/p/why-i-dont-think-the-fed-will-back",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -9278,14 +9278,14 @@ window._comments = [
   {
     "post_id": 81670675,
     "title": "Twitter's problems: a roundup",
-    "canonical_url": "https://noahpinion.substack.com/p/twitters-problems-a-roundup",
+    "canonical_url": "https://www.noahpinion.blog/p/twitters-problems-a-roundup",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
     "id": 10113835,
     "top_level": true,
     "date": "Oct 31 2022 05:02",
-    "likes": 20,
+    "likes": 21,
     "timestamp": 1667206933,
     "body": [
       [
@@ -9346,7 +9346,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 10113835,
     "thread_children": 9,
-    "ratio_recv": -18,
+    "ratio_recv": -19,
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 388
@@ -9354,7 +9354,7 @@ window._comments = [
   {
     "post_id": 81670675,
     "title": "Twitter's problems: a roundup",
-    "canonical_url": "https://noahpinion.substack.com/p/twitters-problems-a-roundup",
+    "canonical_url": "https://www.noahpinion.blog/p/twitters-problems-a-roundup",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -13553,14 +13553,14 @@ window._comments = [
   {
     "post_id": 87852296,
     "title": "Generative AI: autocomplete for everything",
-    "canonical_url": "https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything",
+    "canonical_url": "https://www.noahpinion.blog/p/generative-ai-autocomplete-for-everything",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
     "id": 10854315,
     "top_level": false,
     "date": "Dec 01 2022 19:02",
-    "likes": 7,
+    "likes": 9,
     "timestamp": 1669939338,
     "body": [
       [
@@ -13578,18 +13578,18 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 10849089,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 10834888,
-    "thread_children": 4,
-    "ratio_recv": -7,
-    "ratio_give": -1,
+    "thread_children": 5,
+    "ratio_recv": -9,
+    "ratio_give": 0,
     "grade_level": 9.9,
     "word_count": 136
   },
   {
     "post_id": 87852296,
     "title": "Generative AI: autocomplete for everything",
-    "canonical_url": "https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything",
+    "canonical_url": "https://www.noahpinion.blog/p/generative-ai-autocomplete-for-everything",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -13612,14 +13612,14 @@ window._comments = [
     "thread_id": 10835243,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": -18,
+    "ratio_give": -22,
     "grade_level": 9.2,
     "word_count": 55
   },
   {
     "post_id": 87852296,
     "title": "Generative AI: autocomplete for everything",
-    "canonical_url": "https://noahpinion.substack.com/p/generative-ai-autocomplete-for-everything",
+    "canonical_url": "https://www.noahpinion.blog/p/generative-ai-autocomplete-for-everything",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -14708,7 +14708,7 @@ window._comments = [
   {
     "post_id": 86070726,
     "title": "How the old system of the world shaped American society",
-    "canonical_url": "https://noahpinion.substack.com/p/how-the-old-system-of-the-world-shaped",
+    "canonical_url": "https://www.noahpinion.blog/p/how-the-old-system-of-the-world-shaped",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -22046,7 +22046,7 @@ window._comments = [
   {
     "post_id": 97776248,
     "title": "The Big Tech layoffs are a turning point",
-    "canonical_url": "https://noahpinion.substack.com/p/the-big-tech-layoffs-are-a-turning",
+    "canonical_url": "https://www.noahpinion.blog/p/the-big-tech-layoffs-are-a-turning",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -23989,7 +23989,7 @@ window._comments = [
   {
     "post_id": 102566653,
     "title": "Will AI take away the coding jobs? ",
-    "canonical_url": "https://noahpinion.substack.com/p/will-ai-take-away-the-coding-jobs",
+    "canonical_url": "https://www.noahpinion.blog/p/will-ai-take-away-the-coding-jobs",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
@@ -25549,14 +25549,14 @@ window._comments = [
   {
     "post_id": 106662161,
     "title": "Why do education, health care, and child care cost so much in America?",
-    "canonical_url": "https://noahpinion.substack.com/p/why-do-education-health-care-and",
+    "canonical_url": "https://www.noahpinion.blog/p/why-do-education-health-care-and",
     "name": "Matt Hagy",
     "user_id": 3094604,
     "reaction": false,
     "id": 13350761,
     "top_level": false,
     "date": "Mar 06 2023 07:32",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1678105950,
     "body": [
       [
@@ -25623,8 +25623,8 @@ window._comments = [
     "parent_children": 15,
     "thread_id": 13349333,
     "thread_children": 18,
-    "ratio_recv": 1,
-    "ratio_give": 1,
+    "ratio_recv": 0,
+    "ratio_give": 2,
     "grade_level": 9.6,
     "word_count": 210
   },
@@ -31199,6 +31199,52 @@ window._comments = [
     "word_count": 98
   },
   {
+    "post_id": 116649940,
+    "title": "Will there be a Millennial Big Chill?",
+    "canonical_url": "https://www.noahpinion.blog/p/will-there-be-a-millennial-big-chill",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15107249,
+    "top_level": true,
+    "date": "Apr 23 2023 06:11",
+    "likes": 9,
+    "timestamp": 1682244708,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think Millennials could become increasingly right-wing on economics, particularly their own tax bill, as their incomes grow with age while maintaining liberal views on social and cultural issues. Recent polling by Pew shows that the majority of Americans under 65 believe they pay more than their fair share in taxes. [1] For 18-29, 53% express that view as do 60% of those between 30 and 49."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Americans in general have had a fairly strong aversion to paying more in taxes since Reagan. And we\u2019re now at the point where even Democratic politicians have to promise no tax increases on anyone earning less than $400k. Seems this trend will continue with Millennials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.pewresearch.org/short-reads/2023/04/07/top-tax-frustrations-for-americans-the-feeling-that-some-corporations-wealthy-people-dont-pay-fair-share/"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15107249,
+    "thread_children": 7,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 9.4,
+    "word_count": 113
+  },
+  {
     "post_id": 115956601,
     "title": "There's no big mystery about why colleges are ditching the SAT",
     "canonical_url": "https://www.slowboring.com/p/sat-optional-affirmative-action",
@@ -35282,6 +35328,73 @@ window._comments = [
     "word_count": 56
   },
   {
+    "post_id": 139360227,
+    "title": "Vibes vs. data",
+    "canonical_url": "https://www.noahpinion.blog/p/vibes-vs-data",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 44697274,
+    "top_level": true,
+    "date": "Dec 03 2023 05:25",
+    "likes": 0,
+    "timestamp": 1701599130,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Couldn\u2019t this all be explained by universal discomfort with the higher price levels as we adjust to the recent elevated inflation? Eg, the US-Europe divergence between sentiment and expectations could be understood as the expectations model underweighting the impact of price levels on economic sentiment. All countries had inflation, their residents all demonstrate poor economic sentiment, and the stronger economic growth and employment levels in the US are simply insufficient to mitigate these feelings. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And that makes sense because inflation affects everyone whereas even in a severe recession unemployment rarely goes above 10%. Ie, we should expect more people to report negative sentiment after inflation than during an economic downturn. Additionally, we haven\u2019t had significant inflation in over 40 years so contemporary people are particularly sensitive to rapid increases in the prices levels relative to earlier populations that could be used to calibrate an expectations model."
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 44697274,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 15.1,
+    "word_count": 146
+  },
+  {
+    "post_id": 139360227,
+    "title": "Vibes vs. data",
+    "canonical_url": "https://www.noahpinion.blog/p/vibes-vs-data",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 44697338,
+    "top_level": false,
+    "date": "Dec 03 2023 05:28",
+    "likes": 5,
+    "timestamp": 1701599321,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe the universal negative sentiment is due to all countries experiencing inflation and people are still adjusting to the higher price levels. While the US has stronger economic growth and employment levels, that could simply be insufficient to mitigate these negative feelings."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 44694074,
+    "parent_children": 25,
+    "thread_id": 44694074,
+    "thread_children": 25,
+    "ratio_recv": -1,
+    "ratio_give": -44,
+    "grade_level": 13.8,
+    "word_count": 42
+  },
+  {
     "post_id": 139463765,
     "title": "What mailbag used to be",
     "canonical_url": "https://www.slowboring.com/p/what-mailbag-used-to-be",
@@ -38383,9 +38496,9 @@ window._comments = [
     "parent_id": 55163892,
     "parent_children": 21,
     "thread_id": 55159287,
-    "thread_children": 127,
+    "thread_children": 128,
     "ratio_recv": null,
-    "ratio_give": -20,
+    "ratio_give": -23,
     "grade_level": 10.4,
     "word_count": 6
   },
@@ -38497,7 +38610,7 @@ window._comments = [
     "id": 55942021,
     "top_level": false,
     "date": "May 09 2024 07:57",
-    "likes": 19,
+    "likes": 20,
     "timestamp": 1715255873,
     "body": [
       [
@@ -38589,13 +38702,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 9,
+    "total_children": 13,
     "parent_id": 55937506,
-    "parent_children": 23,
+    "parent_children": 28,
     "thread_id": 55937506,
-    "thread_children": 23,
-    "ratio_recv": -19,
-    "ratio_give": 4,
+    "thread_children": 28,
+    "ratio_recv": -20,
+    "ratio_give": 5,
     "grade_level": 8.9,
     "word_count": 349
   },
@@ -38609,7 +38722,7 @@ window._comments = [
     "id": 55959777,
     "top_level": false,
     "date": "May 09 2024 11:12",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1715267554,
     "body": [
       [
@@ -38627,11 +38740,11 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 55952832,
-    "parent_children": 8,
+    "parent_children": 12,
     "thread_id": 55937506,
-    "thread_children": 23,
-    "ratio_recv": -5,
-    "ratio_give": 5,
+    "thread_children": 28,
+    "ratio_recv": -6,
+    "ratio_give": 6,
     "grade_level": 11.1,
     "word_count": 120
   },
@@ -38645,7 +38758,7 @@ window._comments = [
     "id": 56030169,
     "top_level": false,
     "date": "May 10 2024 08:04",
-    "likes": 52,
+    "likes": 53,
     "timestamp": 1715342670,
     "body": [
       [
@@ -38672,7 +38785,7 @@ window._comments = [
     "parent_children": 75,
     "thread_id": 56026087,
     "thread_children": 260,
-    "ratio_recv": -37,
+    "ratio_recv": -38,
     "ratio_give": 22,
     "grade_level": 14.2,
     "word_count": 199
@@ -38767,7 +38880,7 @@ window._comments = [
     "id": 56250756,
     "top_level": false,
     "date": "May 13 2024 07:40",
-    "likes": 21,
+    "likes": 22,
     "timestamp": 1715600417,
     "body": [
       [
@@ -38793,13 +38906,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 13,
+    "total_children": 14,
     "parent_id": 56248464,
-    "parent_children": 28,
+    "parent_children": 29,
     "thread_id": 56248464,
-    "thread_children": 28,
-    "ratio_recv": -14,
-    "ratio_give": -48,
+    "thread_children": 29,
+    "ratio_recv": -15,
+    "ratio_give": -49,
     "grade_level": 7.2,
     "word_count": 113
   },
@@ -38869,11 +38982,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 56285598,
-    "parent_children": 6,
+    "parent_children": 7,
     "thread_id": 56248464,
-    "thread_children": 28,
+    "thread_children": 29,
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 7.4,
@@ -38889,7 +39002,7 @@ window._comments = [
     "id": 56334742,
     "top_level": true,
     "date": "May 14 2024 07:21",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1715685664,
     "body": [
       [
@@ -38987,7 +39100,7 @@ window._comments = [
     "id": 57094337,
     "top_level": false,
     "date": "May 23 2024 08:42",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1716468149,
     "body": [
       [
@@ -39009,7 +39122,7 @@ window._comments = [
     "thread_id": 57090029,
     "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 9,
+    "ratio_give": 10,
     "grade_level": 11.7,
     "word_count": 129
   },
@@ -39023,7 +39136,7 @@ window._comments = [
     "id": 57412824,
     "top_level": false,
     "date": "May 27 2024 08:19",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1716812397,
     "body": [
       [
@@ -39056,8 +39169,8 @@ window._comments = [
     "parent_children": 4,
     "thread_id": 57409675,
     "thread_children": 4,
-    "ratio_recv": -4,
-    "ratio_give": 1,
+    "ratio_recv": -5,
+    "ratio_give": 2,
     "grade_level": 13.9,
     "word_count": 241
   },
@@ -39071,7 +39184,7 @@ window._comments = [
     "id": 57504445,
     "top_level": false,
     "date": "May 28 2024 10:42",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1716907343,
     "body": [
       [
@@ -39128,7 +39241,7 @@ window._comments = [
     "parent_children": 5,
     "thread_id": 57485487,
     "thread_children": 65,
-    "ratio_recv": -6,
+    "ratio_recv": -7,
     "ratio_give": -2,
     "grade_level": 13.4,
     "word_count": 139
@@ -39143,7 +39256,7 @@ window._comments = [
     "id": 57507459,
     "top_level": false,
     "date": "May 28 2024 11:14",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1716909294,
     "body": [
       [
@@ -39198,8 +39311,8 @@ window._comments = [
     "parent_children": 3,
     "thread_id": 57485487,
     "thread_children": 65,
-    "ratio_recv": -4,
-    "ratio_give": 4,
+    "ratio_recv": -5,
+    "ratio_give": 5,
     "grade_level": 15.1,
     "word_count": 164
   },
@@ -39213,7 +39326,7 @@ window._comments = [
     "id": 57601298,
     "top_level": false,
     "date": "May 29 2024 11:43",
-    "likes": 9,
+    "likes": 11,
     "timestamp": 1716997397,
     "body": [
       [
@@ -39247,9 +39360,9 @@ window._comments = [
     "parent_id": 57596157,
     "parent_children": 8,
     "thread_id": 57575387,
-    "thread_children": 108,
+    "thread_children": 109,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -3,
     "grade_level": 14.7,
     "word_count": 93
   },
@@ -39263,7 +39376,7 @@ window._comments = [
     "id": 57666961,
     "top_level": false,
     "date": "May 30 2024 06:39",
-    "likes": 33,
+    "likes": 34,
     "timestamp": 1717065553,
     "body": [
       [
@@ -39304,8 +39417,8 @@ window._comments = [
     "parent_children": 16,
     "thread_id": 57666094,
     "thread_children": 16,
-    "ratio_recv": -4,
-    "ratio_give": 25,
+    "ratio_recv": -5,
+    "ratio_give": 26,
     "grade_level": 12.4,
     "word_count": 122
   },
@@ -39335,7 +39448,7 @@ window._comments = [
     "thread_id": 57666761,
     "thread_children": 76,
     "ratio_recv": -19,
-    "ratio_give": -11,
+    "ratio_give": -12,
     "grade_level": 6.8,
     "word_count": 30
   },
@@ -39349,7 +39462,7 @@ window._comments = [
     "id": 57782045,
     "top_level": false,
     "date": "May 31 2024 08:57",
-    "likes": 28,
+    "likes": 29,
     "timestamp": 1717160258,
     "body": [
       [
@@ -39376,7 +39489,7 @@ window._comments = [
     "parent_children": 24,
     "thread_id": 57770844,
     "thread_children": 40,
-    "ratio_recv": -21,
+    "ratio_recv": -22,
     "ratio_give": 2,
     "grade_level": 13.6,
     "word_count": 186
@@ -39391,7 +39504,7 @@ window._comments = [
     "id": 58043732,
     "top_level": false,
     "date": "Jun 03 2024 08:31",
-    "likes": 15,
+    "likes": 16,
     "timestamp": 1717417876,
     "body": [
       [
@@ -39418,8 +39531,8 @@ window._comments = [
     "parent_children": 41,
     "thread_id": 58037753,
     "thread_children": 65,
-    "ratio_recv": -9,
-    "ratio_give": 7,
+    "ratio_recv": -10,
+    "ratio_give": 8,
     "grade_level": 13.3,
     "word_count": 158
   },
@@ -39433,7 +39546,7 @@ window._comments = [
     "id": 58138009,
     "top_level": false,
     "date": "Jun 04 2024 07:46",
-    "likes": 31,
+    "likes": 32,
     "timestamp": 1717501604,
     "body": [
       [
@@ -39843,7 +39956,7 @@ window._comments = [
     "thread_id": 58754633,
     "thread_children": 66,
     "ratio_recv": -13,
-    "ratio_give": -27,
+    "ratio_give": -29,
     "grade_level": 11.4,
     "word_count": 262
   },
@@ -39935,7 +40048,7 @@ window._comments = [
     "id": 60089271,
     "top_level": false,
     "date": "Jun 26 2024 08:36",
-    "likes": 40,
+    "likes": 42,
     "timestamp": 1719405383,
     "body": [
       [
@@ -39956,8 +40069,8 @@ window._comments = [
     "parent_children": 56,
     "thread_id": 60084920,
     "thread_children": 56,
-    "ratio_recv": -36,
-    "ratio_give": 19,
+    "ratio_recv": -38,
+    "ratio_give": 21,
     "grade_level": 12.4,
     "word_count": 121
   },
