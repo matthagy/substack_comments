@@ -40299,5 +40299,127 @@ window._comments = [
     "ratio_give": 22,
     "grade_level": 8.9,
     "word_count": 52
+  },
+  {
+    "post_id": 146851579,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-f42",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 62788764,
+    "top_level": false,
+    "date": "Jul 21 2024 13:33",
+    "likes": 9,
+    "timestamp": 1721583182,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Reverse psychology, banking on Biden's low opinion of their judgment."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 62786190,
+    "parent_children": 6,
+    "thread_id": 62786190,
+    "thread_children": 6,
+    "ratio_recv": -8,
+    "ratio_give": -1,
+    "grade_level": 8.4,
+    "word_count": 10
+  },
+  {
+    "post_id": 146851579,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-f42",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 62794309,
+    "top_level": false,
+    "date": "Jul 21 2024 14:21",
+    "likes": 13,
+    "timestamp": 1721586090,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While the platform may continue to function and maintain social and political relevance, its ad revenue has fallen substantially, and it has acquired a large debt load, risking bankruptcy if not addressed. Much of this is attributed to Musk's erratic content moderation, which has spooked advertisers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "See Bloomberg Dec 2023 article, \"Musk\u2019s X 2023 Ad Sales Projected to Slump to About $2.5 Billion\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-12-12/musk-s-x-2023-ad-sales-projected-to-slump-to-about-2-5-billion"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Elon Musk\u2019s X, the social network formerly known as Twitter, is on track to bring in roughly $2.5 billion in advertising revenue in 2023 \u2014 a significant slump from prior years, according to people familiar with the matter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> X was not profitable when Musk took over, but the company reported more than $5 billion in revenue the year before Musk acquired the company."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 62792533,
+    "parent_children": 15,
+    "thread_id": 62790557,
+    "thread_children": 43,
+    "ratio_recv": -7,
+    "ratio_give": 9,
+    "grade_level": 11.4,
+    "word_count": 125
+  },
+  {
+    "post_id": 146851579,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-f42",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 62812360,
+    "top_level": true,
+    "date": "Jul 21 2024 16:26",
+    "likes": 3,
+    "timestamp": 1721593606,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Best gen AI video I've seen in the last few weeks, \"Runway of Power\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reddit.com/r/ChatGPT/comments/1e8qbia/runway_of_power/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Consists of numerous political and business leaders in various humorous outfits. Definitely demonstrates the risk of this tech in creating false, yet believable videos, as well as it's potential for entertainment."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 62812360,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.1,
+    "word_count": 45
   }
 ];
