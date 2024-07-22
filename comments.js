@@ -40310,7 +40310,7 @@ window._comments = [
     "id": 62788764,
     "top_level": false,
     "date": "Jul 21 2024 13:33",
-    "likes": 9,
+    "likes": 10,
     "timestamp": 1721583182,
     "body": [
       [
@@ -40325,7 +40325,7 @@ window._comments = [
     "parent_children": 6,
     "thread_id": 62786190,
     "thread_children": 6,
-    "ratio_recv": -8,
+    "ratio_recv": -9,
     "ratio_give": -1,
     "grade_level": 8.4,
     "word_count": 10
@@ -40340,7 +40340,7 @@ window._comments = [
     "id": 62794309,
     "top_level": false,
     "date": "Jul 21 2024 14:21",
-    "likes": 13,
+    "likes": 16,
     "timestamp": 1721586090,
     "body": [
       [
@@ -40372,13 +40372,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 11,
+    "total_children": 16,
     "parent_id": 62792533,
-    "parent_children": 15,
+    "parent_children": 20,
     "thread_id": 62790557,
-    "thread_children": 43,
+    "thread_children": 50,
     "ratio_recv": -7,
-    "ratio_give": 9,
+    "ratio_give": 11,
     "grade_level": 11.4,
     "word_count": 125
   },
@@ -40392,7 +40392,7 @@ window._comments = [
     "id": 62812360,
     "top_level": true,
     "date": "Jul 21 2024 16:26",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1721593606,
     "body": [
       [
@@ -40421,5 +40421,41 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 45
+  },
+  {
+    "post_id": 146851579,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-f42",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 62836535,
+    "top_level": false,
+    "date": "Jul 21 2024 19:52",
+    "likes": 2,
+    "timestamp": 1721605936,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My Google Pixel phone does a great job filtering text spams from valid ones. It also has a call screener feature will a simple AI will ask the caller the purpose of the call and share a transcript of their discussion. Almost illegitimate callers immediately hang up when that is invoked where as legitimate ones give a one sentence explanation of the purpose of their call. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Junk mail is an important source of revenue for USPS, but I really wish we could find a way to limit the volume to each household and then force marketers to bid for access. Ie, similar to add auctions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 62788770,
+    "parent_children": 12,
+    "thread_id": 62788770,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -18,
+    "grade_level": 9.1,
+    "word_count": 105
   }
 ];
