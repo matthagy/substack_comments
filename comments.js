@@ -40310,7 +40310,7 @@ window._comments = [
     "id": 62788764,
     "top_level": false,
     "date": "Jul 21 2024 13:33",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1721583182,
     "body": [
       [
@@ -40325,8 +40325,8 @@ window._comments = [
     "parent_children": 6,
     "thread_id": 62786190,
     "thread_children": 6,
-    "ratio_recv": -9,
-    "ratio_give": -1,
+    "ratio_recv": -10,
+    "ratio_give": 1,
     "grade_level": 8.4,
     "word_count": 10
   },
@@ -40340,7 +40340,7 @@ window._comments = [
     "id": 62794309,
     "top_level": false,
     "date": "Jul 21 2024 14:21",
-    "likes": 16,
+    "likes": 18,
     "timestamp": 1721586090,
     "body": [
       [
@@ -40372,13 +40372,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 16,
+    "total_children": 17,
     "parent_id": 62792533,
-    "parent_children": 20,
+    "parent_children": 21,
     "thread_id": 62790557,
-    "thread_children": 50,
-    "ratio_recv": -7,
-    "ratio_give": 11,
+    "thread_children": 51,
+    "ratio_recv": -6,
+    "ratio_give": 12,
     "grade_level": 11.4,
     "word_count": 125
   },
@@ -40432,7 +40432,7 @@ window._comments = [
     "id": 62836535,
     "top_level": false,
     "date": "Jul 21 2024 19:52",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1721605936,
     "body": [
       [
@@ -40450,12 +40450,70 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 62788770,
-    "parent_children": 12,
+    "parent_children": 14,
     "thread_id": 62788770,
-    "thread_children": 12,
+    "thread_children": 14,
     "ratio_recv": null,
-    "ratio_give": -18,
+    "ratio_give": -24,
     "grade_level": 9.1,
     "word_count": 105
+  },
+  {
+    "post_id": 147060890,
+    "title": "Twisters' nonsensical villain ",
+    "canonical_url": "https://www.slowboring.com/p/twisters-nonsensical-villain",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 63778483,
+    "top_level": false,
+    "date": "Jul 30 2024 07:30",
+    "likes": 19,
+    "timestamp": 1722339055,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I strongly recommend reading it. To encourage checking it out, note that Scott's piece is titled, \"Matt Yglesias Considered As The Nietzschean Superman\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/matt-yglesias-considered-as-the-nietzschean"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It's delightful and interesting exploration of Nietzschean philosophy, as applies to beliefs and practices on both the contemporary left and right, as well as some historical moral systems (eg, Puritans). It also considers how contemporary characters can be interpreted through this lens, not just Yglesias, but also Andrew Tate and Richard Hanania. Ultimately, it settles on liberalism as a practical balancing of individual liberty and egalitarian concerns, with Yglesias as the leading contemporary proponent of these values."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Key lines"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Yglesias\u2019s mantra - \u201cgood things are good\u201d - is too perfect and profound to come from anyone other than an esoteric master of Nietzschean philosophy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I think of Yglesias - who combines an insistence that good things are good and a proclivity for embiggenment with commitments to democracy, the welfare state, and the poorest among us - as one of its most self-conscious proponents."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 63774747,
+    "parent_children": 17,
+    "thread_id": 63774747,
+    "thread_children": 17,
+    "ratio_recv": -12,
+    "ratio_give": -7,
+    "grade_level": 15.0,
+    "word_count": 162
   }
 ];
