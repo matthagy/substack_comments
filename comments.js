@@ -40468,7 +40468,7 @@ window._comments = [
     "id": 63778483,
     "top_level": false,
     "date": "Jul 30 2024 07:30",
-    "likes": 19,
+    "likes": 23,
     "timestamp": 1722339055,
     "body": [
       [
@@ -40506,14 +40506,84 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 14,
+    "total_children": 15,
     "parent_id": 63774747,
-    "parent_children": 17,
+    "parent_children": 18,
     "thread_id": 63774747,
-    "thread_children": 17,
-    "ratio_recv": -12,
+    "thread_children": 18,
+    "ratio_recv": -16,
     "ratio_give": -7,
     "grade_level": 15.0,
     "word_count": 162
+  },
+  {
+    "post_id": 147214873,
+    "title": "The politics of weirdness",
+    "canonical_url": "https://www.slowboring.com/p/the-politics-of-weirdness",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 64423160,
+    "top_level": true,
+    "date": "Aug 05 2024 06:23",
+    "likes": 22,
+    "timestamp": 1722853420,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And on cue Vivek Ramaswamy publishes a defense of weirdness (in The Free Press nonetheless), "
+        },
+        {
+          "type": "url",
+          "value": "https://www.thefp.com/p/america-the-weird?utm_campaign=posts-open-in-app&triedRedirect=true"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He too understands the risk for his political project if normalcy becomes a core standard among moderate voters."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 64423160,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.2,
+    "word_count": 33
+  },
+  {
+    "post_id": 146771843,
+    "title": "Reds in the family ",
+    "canonical_url": "https://www.slowboring.com/p/reds-in-the-family",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 64541549,
+    "top_level": false,
+    "date": "Aug 06 2024 07:46",
+    "likes": 35,
+    "timestamp": 1722944796,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think the enduring adulation of those authors, as well as Marx, is because their work provides vocabulary, structure, and narrative to what were previously the readers' intuitions and biases. For example, the extent to which one had positive vibes about capitalism or socialism a priori strongly influences their appreciation of the author and their books. And that is true regardless of the correctness or strength of the argument and evidence presented, even the quality of the writing. Just finding a plausible intellectual foundation and rationalization for their existing hazy beliefs is a deeply moving experience. Hence, the enduring adulation."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 64539879,
+    "parent_children": 9,
+    "thread_id": 64536882,
+    "thread_children": 55,
+    "ratio_recv": -26,
+    "ratio_give": 31,
+    "grade_level": 13.5,
+    "word_count": 100
   }
 ];
