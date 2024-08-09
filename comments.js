@@ -40566,7 +40566,7 @@ window._comments = [
     "id": 64541549,
     "top_level": false,
     "date": "Aug 06 2024 07:46",
-    "likes": 35,
+    "likes": 39,
     "timestamp": 1722944796,
     "body": [
       [
@@ -40580,10 +40580,134 @@ window._comments = [
     "parent_id": 64539879,
     "parent_children": 9,
     "thread_id": 64536882,
-    "thread_children": 55,
-    "ratio_recv": -26,
-    "ratio_give": 31,
+    "thread_children": 56,
+    "ratio_recv": -29,
+    "ratio_give": 35,
     "grade_level": 13.5,
     "word_count": 100
+  },
+  {
+    "post_id": 147377053,
+    "title": "Neoliberalism and its enemies, Part III",
+    "canonical_url": "https://www.slowboring.com/p/neoliberalism-and-its-enemies-part",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 64662013,
+    "top_level": true,
+    "date": "Aug 07 2024 07:41",
+    "likes": 27,
+    "timestamp": 1723030863,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> But with regard to intra-party factional politics, the \u201cneoliberals\u201d think you should try to address individual issues on the merits and deal with distributional concerns separately through tax policy and the welfare state."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I personally prefer this technocratic, neoliberal-ish approach of expanding the welfare state to address distributional issues and to smooth out the economic pain of job losses from technological progress, I think many people find this underwhelming due to an emotional attachment to their jobs, particularly if it involves novel skills. A licensed taxi driver with a decade of experience is still psychologically devastated to have to restart their career in a junior role at an advanced age, even if we can minimize the economic pain. There\u2019s just something of a loss in dignity or status associated with such vocational transitions, doubly so when welfare provides fewer material resources than one previously earned. Hence, people are emotionally drawn towards job-protecting policies over material assistance in repurposing labor resources."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Psychologically and sociologically, a lot of people just find welfare underwhelming relative to the pride and dignity they find in having a \u201cgood\u201d job, particularly a socially recognized job that gives them more status than someone who\u2019s just \u201con the dole.\u201d Hence, I think there\u2019s a limit to how far we can address technological (and trade)-driven economic disruption and job loss with welfare state expansion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Politically, people don\u2019t want to accept that job losses are necessary, if not unavoidable, in a dynamic economy. The upshot is that raising the salience of these concerns leads voters towards job-protecting measures. I, therefore, think it\u2019s better that we avoid these discussions in our politics so that we can preserve economic dynamism and growth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "(Reposted comment, with revisions, from related early discussion, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/lots-of-people-lose-jobs-even-in/comment/49523667"
+        },
+        {
+          "type": "text",
+          "value": ")"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 64662013,
+    "thread_children": 2,
+    "ratio_recv": -23,
+    "ratio_give": null,
+    "grade_level": 15.9,
+    "word_count": 289
+  },
+  {
+    "post_id": 147416812,
+    "title": "The declining significance of race, quantified ",
+    "canonical_url": "https://www.slowboring.com/p/the-declining-significance-of-race",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 64785752,
+    "top_level": false,
+    "date": "Aug 08 2024 08:21",
+    "likes": 13,
+    "timestamp": 1723119675,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Checkout Yglesias's Oct 2021 interview of Kathryn Paige Harden that covers her relevant research and book, \"The Genetic Lottery: Why DNA Matters for Social Equality\". This fragment of her answer to a question seems particularly relevant."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> When people think about genetics, they so often think about it purely in the vein that we've been talking about it so far, which is how are parents like their kids, right? How are kids like their parents? But half of the genetic variability is within families. Right. Genetics is also about difference and the way that differences play out. How are my kids different from me, how are my kids different from one another? And so, you know, often when people kind of back up to a very strong you know, \u201cthere is no way that genetics influences something like education or intelligence or personality.\u201d I really am like, have you ever spent time with children before? Like, have you been around them? Because I think if you are around them, particularly if you're around, you know, siblings or cousins, you have this front row seat to see how genetic difference plays out, very early in development. Like my children as infants felt very, very different to me in terms of their temperament. And then also like what they elicited from me in terms of my maternal behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Transcript, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Audio, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/kathryn-paige-harden-on-the-genetic"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also strongly recommend her book where she goes in depth on the research, it's implications and limitations, as well as how these findings should influence our moral reasoning, sociology research, and government policy."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 64781553,
+    "parent_children": 20,
+    "thread_id": 64778923,
+    "thread_children": 79,
+    "ratio_recv": -6,
+    "ratio_give": 13,
+    "grade_level": 9.4,
+    "word_count": 261
   }
 ];
