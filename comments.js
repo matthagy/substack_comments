@@ -40596,7 +40596,7 @@ window._comments = [
     "id": 64662013,
     "top_level": true,
     "date": "Aug 07 2024 07:41",
-    "likes": 27,
+    "likes": 31,
     "timestamp": 1723030863,
     "body": [
       [
@@ -40643,7 +40643,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 64662013,
     "thread_children": 2,
-    "ratio_recv": -23,
+    "ratio_recv": -27,
     "ratio_give": null,
     "grade_level": 15.9,
     "word_count": 289
@@ -40658,7 +40658,7 @@ window._comments = [
     "id": 64785752,
     "top_level": false,
     "date": "Aug 08 2024 08:21",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1723119675,
     "body": [
       [
@@ -40704,10 +40704,104 @@ window._comments = [
     "parent_id": 64781553,
     "parent_children": 20,
     "thread_id": 64778923,
-    "thread_children": 79,
-    "ratio_recv": -6,
-    "ratio_give": 13,
+    "thread_children": 84,
+    "ratio_recv": -7,
+    "ratio_give": 14,
     "grade_level": 9.4,
     "word_count": 261
+  },
+  {
+    "post_id": 147480025,
+    "title": "Bring back the revolving door!",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-revolving-door",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 65207940,
+    "top_level": false,
+    "date": "Aug 12 2024 08:30",
+    "likes": 28,
+    "timestamp": 1723465842,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't follow your reference of Tim Geithner with respect to the revolving door. He worked exclusively in NGOs, government, and the NY federal reserve bank, until toping out as Treasury Secretary under Obama. [1] After that he's had an unremarkable career in private equity and likely couldn't get a government job in either party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Timothy_Geithner#Early_career"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "His support for bailouts and cooperation with the banks stemmed from his technocratic and institutionalist background. He was certainly not alone; everyone who understood and respected the weight of the crisis similarly supported these actions. Only ignorant morons opposed this, particularly the proto tea party republicans who voted against their own president and treasury secretary's proposal."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 65204911,
+    "parent_children": 18,
+    "thread_id": 65204911,
+    "thread_children": 18,
+    "ratio_recv": -23,
+    "ratio_give": 11,
+    "grade_level": 12.9,
+    "word_count": 112
+  },
+  {
+    "post_id": 147480025,
+    "title": "Bring back the revolving door!",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-revolving-door",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 65209354,
+    "top_level": false,
+    "date": "Aug 12 2024 08:45",
+    "likes": 22,
+    "timestamp": 1723466712,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> We could have conditioned the bailouts with, say bans on executives working in the industry for X period of time and just chose not to. And I think that would have really helped politically."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many of the executives would've rejected the funding if such conditions were attached. Notably, Paulson and Bernanke wanted every bank to take funds, even those in a relatively strong financial position, so that counterparties wouldn\u2019t interpret some banks as being at higher risk of insolvency. That would've caused depositors (particularly institutions) to withdraw funds from perceived weak banks. So TARP funding was structured on particularly favorable terms. The CEOs recognized the logic of collective action, saw the chance for cheap funding on good terms, and they all agreed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The collapse of Lehman is insightful to what could\u2019ve happened. Paulson tried to engineer some acquisitions, but CEO Dick Fuld kept pushing acquirers for better terms. He really lived up to his name! He waited too long and eventually only Barclays was still at the table.. Fuld reluctantly agreed to tough terms, but the British government blocked the deal; and for good reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many more vulnerable banks would\u2019ve gone the way of Lehman if the Federal Gov attempted to push harsh terms for accepting TARP."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 65208373,
+    "parent_children": 8,
+    "thread_id": 65204911,
+    "thread_children": 18,
+    "ratio_recv": null,
+    "ratio_give": 13,
+    "grade_level": 8.3,
+    "word_count": 207
   }
 ];
