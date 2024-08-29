@@ -40720,7 +40720,7 @@ window._comments = [
     "id": 65207940,
     "top_level": false,
     "date": "Aug 12 2024 08:30",
-    "likes": 28,
+    "likes": 30,
     "timestamp": 1723465842,
     "body": [
       [
@@ -40748,10 +40748,10 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 65204911,
-    "parent_children": 18,
+    "parent_children": 22,
     "thread_id": 65204911,
-    "thread_children": 18,
-    "ratio_recv": -23,
+    "thread_children": 22,
+    "ratio_recv": -25,
     "ratio_give": 11,
     "grade_level": 12.9,
     "word_count": 112
@@ -40766,7 +40766,7 @@ window._comments = [
     "id": 65209354,
     "top_level": false,
     "date": "Aug 12 2024 08:45",
-    "likes": 22,
+    "likes": 24,
     "timestamp": 1723466712,
     "body": [
       [
@@ -40796,12 +40796,112 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 65208373,
-    "parent_children": 8,
+    "parent_children": 9,
     "thread_id": 65204911,
-    "thread_children": 18,
+    "thread_children": 22,
     "ratio_recv": null,
-    "ratio_give": 13,
+    "ratio_give": 14,
     "grade_level": 8.3,
     "word_count": 207
+  },
+  {
+    "post_id": 147842388,
+    "title": "The coming world of ubiquitous price discrimination",
+    "canonical_url": "https://www.slowboring.com/p/the-coming-world-of-ubiquitous-price",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 66751518,
+    "top_level": false,
+    "date": "Aug 26 2024 07:29",
+    "likes": 21,
+    "timestamp": 1724671750,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Grocery shopping had long been a larger puzzle for people who regularly clip coupons and check flyers for deals. I knew families circa 2000s who consumption was entirely based on current deals and what they has previously stocked up on."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "TLC even had a reality TV show centered on the most pathological cases, Extreme Couponing, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=uVh9n7DEY-c"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 66748765,
+    "parent_children": 3,
+    "thread_id": 66747629,
+    "thread_children": 59,
+    "ratio_recv": -19,
+    "ratio_give": -6,
+    "grade_level": 9.2,
+    "word_count": 55
+  },
+  {
+    "post_id": 148129819,
+    "title": "Voters care about issues, even lobstermen",
+    "canonical_url": "https://www.slowboring.com/p/voters-care-about-issues-even-lobstermen",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 66991160,
+    "top_level": false,
+    "date": "Aug 28 2024 07:40",
+    "likes": 38,
+    "timestamp": 1724845224,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think it's more that this pattern is repeated across numerous rural communities with extractive industries, which inspires a general perception that Democrats oppose their interests. Similar to the SALT cap, we should recognize the nuances of these conflicts, even if it seems like the number of people impacted by any single cause is negligible. For many of these issues, the environmental benefits are also trivial, or at least uncertain, and therefore we should be willing to compromise or possibly even just ignore the problem. That could weaken the general animosity of rural communities for Democrats."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 66986386,
+    "parent_children": 80,
+    "thread_id": 66986386,
+    "thread_children": 80,
+    "ratio_recv": -8,
+    "ratio_give": -13,
+    "grade_level": 13.8,
+    "word_count": 96
+  },
+  {
+    "post_id": 148129819,
+    "title": "Voters care about issues, even lobstermen",
+    "canonical_url": "https://www.slowboring.com/p/voters-care-about-issues-even-lobstermen",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 66991375,
+    "top_level": false,
+    "date": "Aug 28 2024 07:43",
+    "likes": 8,
+    "timestamp": 1724845388,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And there's a growing YIMBY constituencies opposing the NIMBYs, unlike many of these parochial environmental regulation issues for which no one is particularly pushing for the changes."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 66988822,
+    "parent_children": 5,
+    "thread_id": 66987901,
+    "thread_children": 52,
+    "ratio_recv": -7,
+    "ratio_give": -18,
+    "grade_level": 16.2,
+    "word_count": 27
   }
 ];
