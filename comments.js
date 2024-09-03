@@ -1601,6 +1601,72 @@ window._comments = [
     "word_count": 58
   },
   {
+    "post_id": 49971717,
+    "title": "Yes, We Understand You Hate Putin. That Won't End the War.",
+    "canonical_url": "https://www.richardhanania.com/p/yes-we-understand-you-hate-putin",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 5450560,
+    "top_level": true,
+    "date": "Mar 08 2022 20:22",
+    "likes": 3,
+    "timestamp": 1646788964,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that this war will ultimately end through diplomacy between Ukraine and Russia with some involvement from third parties. To this end, I believe the sanctions are just another bargaining chip in that they can be lifted if the US, EU, and their allies find the conditions reasonable or otherwise the sanctions can continue indefinitely."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I agree that Ukraine should agree to abstain from NATO membership. Until recently, I doubt NATO countries wanted Ukraine and their quagmire risking direct engagement with Russia. Even now, I don\u2019t see any clear path to Ukraine joining NATO and therefore it seems like another reasonable bargaining chip to leverage in negotiations with Putin."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet, I am concerned about what common ground Putin and Ukraine can find in terms of western economic integration, chiefly EU membership. I get the impression that Putin would prefer another Belarus; a vassal state with pro-Russia leadership maintained through whatever means necessary. And I doubt he\u2019d accept Ukraine going the way of Poland with stronger economic ties to the west and ever growing prosperity and liberal democracy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even with NATO off the table, I don\u2019t think Putin could accept Ukraine falling out of his sphere of influence. With his strong belief in a historical union between Ukraine and Russia, he may even fear that their divergence from Russia could threaten the legitimacy of his rule should Ukraine grow in economic prosperity and democratic freedom."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Further, I don\u2019t see how the Ukrainians could accept vassal state status as another Belarus within Putin\u2019s sphere of influences. Doubly so with the current violence and destruction from Putin\u2019s invasion. I imagine that any Ukrainian government that submits to Putin on such terms would not be seen as legitimate by the people; this could even include a Zelenskyy-led government."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I worry that we may not see an end to conflict anytime soon. At the moment, I think the best we can hope for is a decrease in the intensity of the conflict. For example, Russia may choose to solidify their hold of some areas and silently withdraw from others to decrease the cost of engagement. Similarly, Ukrainian forces could secede territory. The result would be frozen conflict."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In such a prolonged conflict the extreme sanctions would have the time to continuously increase the relative cost of the war. For example, Russia\u2019s military industries may struggle as their machinery requires maintenance parts and full replacement that can only be sourced through western firms; firms blocked from sales due to sanctions. Russia would be forced to become increasingly autarkic (or dependent on China) and increasingly larger portions of the domestic economy would be focused around the military."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 5450560,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 11.5,
+    "word_count": 443
+  },
+  {
     "post_id": 50154475,
     "title": "What went wrong with Russia in the 1990s",
     "canonical_url": "https://www.slowboring.com/p/russia-1990s",
@@ -36720,6 +36786,42 @@ window._comments = [
     "word_count": 52
   },
   {
+    "post_id": 141208290,
+    "title": "Taylor Swift Democrats",
+    "canonical_url": "https://www.richardhanania.com/p/taylor-swift-democrats",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 48507515,
+    "top_level": false,
+    "date": "Jan 31 2024 05:18",
+    "likes": 4,
+    "timestamp": 1706696300,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This comment perfectly exemplifies why Republicans have lost the suburban normie vote and have committed themselves to ever increasing electoral marginalization. While Swiftie Dems are likely sympathetic to LGTBQ causes and oppose police brutality, few have these as major political priorities. They're much more concerned about draconian abortion restrictions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, if Democrats nominated a raving lunatic who centered the most extreme positions on these issues in their political campaign, then they'd be risking the normie vote. Thankfully we haven't whereas Republicans have again committed themselves to their most offensive lunatic available. The minor political actions taken by the Biden administration on these issues do not impact normie voters, and while Swiftie Dems likely approve of most of the actions, they likely aren't even aware of them."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 48480395,
+    "parent_children": 3,
+    "thread_id": 48475683,
+    "thread_children": 18,
+    "ratio_recv": -3,
+    "ratio_give": 1,
+    "grade_level": 12.7,
+    "word_count": 126
+  },
+  {
     "post_id": 141231262,
     "title": "Karma mailbag ",
     "canonical_url": "https://www.slowboring.com/p/karma-mailbag",
@@ -40805,6 +40907,36 @@ window._comments = [
     "word_count": 207
   },
   {
+    "post_id": 148046572,
+    "title": "How \u2018Tranny\u2019 Became a Slur",
+    "canonical_url": "https://www.thefp.com/p/how-tranny-became-a-slur",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 66557529,
+    "top_level": false,
+    "date": "Aug 24 2024 08:02",
+    "likes": 26,
+    "timestamp": 1724500971,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Don't worry TFP will cover his speech, campaign suspension, and endorsement of Trump. They're just not organized and staffed for breaking news and need time to prepare thoughtful coverage. This piece was likely finished days in advances and scheduled to be a nice, light Sat morning read."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 66551911,
+    "parent_children": 7,
+    "thread_id": 66551911,
+    "thread_children": 7,
+    "ratio_recv": -24,
+    "ratio_give": -38,
+    "grade_level": 7.1,
+    "word_count": 47
+  },
+  {
     "post_id": 147842388,
     "title": "The coming world of ubiquitous price discrimination",
     "canonical_url": "https://www.slowboring.com/p/the-coming-world-of-ubiquitous-price",
@@ -40854,7 +40986,7 @@ window._comments = [
     "id": 66991160,
     "top_level": false,
     "date": "Aug 28 2024 07:40",
-    "likes": 38,
+    "likes": 40,
     "timestamp": 1724845224,
     "body": [
       [
@@ -40866,11 +40998,11 @@ window._comments = [
     ],
     "total_children": 9,
     "parent_id": 66986386,
-    "parent_children": 80,
+    "parent_children": 85,
     "thread_id": 66986386,
-    "thread_children": 80,
+    "thread_children": 85,
     "ratio_recv": -8,
-    "ratio_give": -13,
+    "ratio_give": -15,
     "grade_level": 13.8,
     "word_count": 96
   },
@@ -40898,10 +41030,174 @@ window._comments = [
     "parent_id": 66988822,
     "parent_children": 5,
     "thread_id": 66987901,
-    "thread_children": 52,
+    "thread_children": 55,
     "ratio_recv": -7,
-    "ratio_give": -18,
+    "ratio_give": -19,
     "grade_level": 16.2,
     "word_count": 27
+  },
+  {
+    "post_id": 148304989,
+    "title": "Against the \"price gouging\" theory of inflation ",
+    "canonical_url": "https://www.slowboring.com/p/against-the-price-gouging-theory",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 67553682,
+    "top_level": false,
+    "date": "Sep 02 2024 09:51",
+    "likes": 17,
+    "timestamp": 1725285087,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Coke and Pepsi are a bad example because they are entirely discretionary purchases; one can always just drink tap water. And there are numerous substitutes including generic brands. Consumers accepting price hikes for such superfluous goods just demonstrate that they're flush with cash, either through wage gains or stimulus. "
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 67538696,
+    "parent_children": 21,
+    "thread_id": 67537337,
+    "thread_children": 36,
+    "ratio_recv": -17,
+    "ratio_give": 10,
+    "grade_level": 9.6,
+    "word_count": 49
+  },
+  {
+    "post_id": 148282406,
+    "title": "What if Hillary Clinton had won in 2008?",
+    "canonical_url": "https://www.slowboring.com/p/what-if-hillary-clinton-had-won-in",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 67651577,
+    "top_level": false,
+    "date": "Sep 03 2024 08:38",
+    "likes": 21,
+    "timestamp": 1725367119,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, I think the GOP was already well on the road to crazy due to the Clinton years. Eg, the rise of Rush Limbaugh and Fox News. You can find clips from those years with right-wing \"influencers\" sounding like Q anon and there was growing demand for that trash. Something about Clinton's clever triangulation ending the Democrats years in the wilderness since 1968 just triggered Republicans like nothing else."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And also something about his background as an early instance of the new meritocratic, intellectual elite. I just get the impression that his rise out of poverty and journey through elite institutions due to his hard work and intelligence was particularly offensive to old school gentry-class republicans. Previously, Harvard and Yale were more of an old boys club for these established elites. At best a family had to get rich over the course of a generation or two before they gained access. Even less wealthy local business leaders accepted this framing, as did those aspiring to get on that path."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet Bill speed ran the process all the way to President due to his exceptional talent and the increasingly meritocratic world. Many just couldn't accept this possibility because it shattered their worldview and challenged their believed status security. Not to mention the offense they took to his similarly elite and accomplished wife who broke all of their stereotypes and biases around women."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 67642842,
+    "parent_children": 12,
+    "thread_id": 67642715,
+    "thread_children": 19,
+    "ratio_recv": -4,
+    "ratio_give": 9,
+    "grade_level": 9.6,
+    "word_count": 231
+  },
+  {
+    "post_id": 148282406,
+    "title": "What if Hillary Clinton had won in 2008?",
+    "canonical_url": "https://www.slowboring.com/p/what-if-hillary-clinton-had-won-in",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 67657855,
+    "top_level": false,
+    "date": "Sep 03 2024 09:36",
+    "likes": 7,
+    "timestamp": 1725370605,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. And it's important to remember the proto Tea Party house repubs who voted against the Bush admin's bank bailout, TARP, in 2008 and required Pelosi to wrangle out the Democratic votes to avoid financial armageddon. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The revised HR1424 was received from the Senate by the House, and on October 3, it voted 263-171 to enact the bill into law. Democrats voted 172 to 63 in favor of the legislation, while Republicans voted 108 to 91 against it"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We came dangerously close to a total market meltdown while House Republicans started to embrace some anti-technocratic populist opposition against their own party\u2019s president. My understanding is that this Republican opposition to TARP was the infancy of the Tea Party. As a Reason 2014 article explains, these Republicans were responding to rising populist sentiments within their party with the 2008 elections just a month away. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Karl Rove explained that Republicans literally feared for their political futures over this one vote."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some of the grassroots fervor is evidenced in the 60,000+ signatures collected at NoWallStreetBailout.com in the fall of 2008. A sampling of the petition signers' comments sounds a lot like the eventual tea party movement:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"No Wall Street or auto bailouts! Maybe Americans should boycott paying 2008 federal income tax\u2014no income tax revenue, no bailout.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"This bailout could end up breaking the spirit that underlies the true American way. The key word is \"RESPONSIBILITY!\" WHERE IS IT?!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If it wasn\u2019t for Pelosi\u2019s leadership and pragmatic approach to a highly technocratic financial crisis, then our global financial system would\u2019ve melted down while Republican politicians worried about appeasing their increasingly ornery populist base."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008#Second_House_vote,_October_3"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://reason.com/2014/10/03/the-birth-of-the-tea-party-movement-bega/"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 67654929,
+    "parent_children": 5,
+    "thread_id": 67644421,
+    "thread_children": 14,
+    "ratio_recv": 5,
+    "ratio_give": 1,
+    "grade_level": 10.9,
+    "word_count": 273
   }
 ];
