@@ -41046,7 +41046,7 @@ window._comments = [
     "id": 67553682,
     "top_level": false,
     "date": "Sep 02 2024 09:51",
-    "likes": 17,
+    "likes": 18,
     "timestamp": 1725285087,
     "body": [
       [
@@ -41061,8 +41061,8 @@ window._comments = [
     "parent_children": 21,
     "thread_id": 67537337,
     "thread_children": 36,
-    "ratio_recv": -17,
-    "ratio_give": 10,
+    "ratio_recv": -18,
+    "ratio_give": 11,
     "grade_level": 9.6,
     "word_count": 49
   },
@@ -41076,7 +41076,7 @@ window._comments = [
     "id": 67651577,
     "top_level": false,
     "date": "Sep 03 2024 08:38",
-    "likes": 21,
+    "likes": 24,
     "timestamp": 1725367119,
     "body": [
       [
@@ -41103,7 +41103,7 @@ window._comments = [
     "parent_children": 12,
     "thread_id": 67642715,
     "thread_children": 19,
-    "ratio_recv": -4,
+    "ratio_recv": -6,
     "ratio_give": 9,
     "grade_level": 9.6,
     "word_count": 231
@@ -41190,14 +41190,314 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 5,
     "parent_id": 67654929,
-    "parent_children": 5,
+    "parent_children": 6,
     "thread_id": 67644421,
-    "thread_children": 14,
+    "thread_children": 15,
     "ratio_recv": 5,
     "ratio_give": 1,
     "grade_level": 10.9,
     "word_count": 273
+  },
+  {
+    "post_id": 148262809,
+    "title": "A simple swap to boost growth and improve national security ",
+    "canonical_url": "https://www.slowboring.com/p/a-simple-swap-to-boost-growth-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 67891535,
+    "top_level": false,
+    "date": "Sep 05 2024 09:10",
+    "likes": 12,
+    "timestamp": 1725541851,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  I still don't understand why congress doesn't do much cross issue bargaining"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Because, in general, politicians are punished more for cooperating with the other side than for their own wins from such cooperation, particularly in the context of primaries with deeply ideological voters and small donors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine that hypothetical example would be quite egregious to Republican primary voters for whom corp tax cuts have little salience, but would be horrified by any amnesty for illegal immigrants. Reversing the example, I similarly imagine Democratic primary voters would be mortified if their elected representatives won a corp tax increase in exchange for a large deportation program."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At best, we can get bargaining and cooperation on low-salience issues, \u00e0 la secret Congress. For salient issues, we might hope for some compromise on one issue at a time. Eg, amnesty for DREAMers in exchange for deportation of a comparable number of less sympathetic cases."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 67879364,
+    "parent_children": 6,
+    "thread_id": 67879364,
+    "thread_children": 6,
+    "ratio_recv": -11,
+    "ratio_give": 6,
+    "grade_level": 14.3,
+    "word_count": 151
+  },
+  {
+    "post_id": 148476207,
+    "title": "A patriotic revival?",
+    "canonical_url": "https://www.slowboring.com/p/a-patriotic-revival",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 68003233,
+    "top_level": true,
+    "date": "Sep 06 2024 07:56",
+    "likes": 1,
+    "timestamp": 1725623804,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'm enjoying reading through the transcript in the \u201cClimate Catastrophism Leads to Illiberalism but Doesn\u2019t Solve the Problem\u201d link. It's an interesting and thought-provoking discussion on illiberalism and authoritarianism in the solutions proposed by some climate change activists and politicians, as well as the illiberal responses provoked on the right. I\u2019m about halfway through and looking forward to watching the video of the panel after completing the transcript."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Two quick thoughts it provoked:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. I could see many strong believers in climate change and the need for political solutions nonetheless rejecting illiberal, authoritarian solutions and even accepting the harms of climate change as inevitable if such proposals are the only options on the table. Ie, the timeless liberal battle cry of \u201clive free or die.\u201d Instead, the focus would shift to adaptation. I could even see myself accepting such politics under certain circumstances."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. A controversial idea I\u2019ve considered: Could we one day see factions of the far right embracing climate change as a way to harm \u201cthe undeserving\u201d? Ie, something of a biblical plague focused on the global south. Some parts of the world, particularly northern Europe and the northern U.S., could even see some localized benefits from warmer temperatures. To be clear, this is an atrocious idea, filled with racism and ethnonationalism. But at least it would get them to accept that climate change is real."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 68003233,
+    "thread_children": 4,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 9.6,
+    "word_count": 228
+  },
+  {
+    "post_id": 149024235,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-357",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 69376963,
+    "top_level": true,
+    "date": "Sep 17 2024 17:39",
+    "likes": 15,
+    "timestamp": 1726609149,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I average 4 chats a day (~20 min interaction time) in ChatGPT, primarily having it write and review code for my work as a software engineer. Also use it a few times throughout the week for augmenting reading of books and news; like a highly customized wikipedia. The latest ChatGPT o1 model with chain-of-thought reasoning is quite impressive, but generally overkill for my needs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Have also played around w/ ChatGPT API for analyzing substack comments. Eg, categorization and summarization of Slow Boring comments, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_comment_categories"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The 5 most frequent comment categories are titled:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Political Polarization and Cultural Conflicts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Journalism, Reporting Quality, and Ideological Biases"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Evaluating Industrial Practices and Regulatory Impacts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Democratic Party Strategies and Voter Dynamics"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Social Behavior and Cultural Shifts"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 69376963,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.1,
+    "word_count": 119
+  },
+  {
+    "post_id": 149120893,
+    "title": "Introducing the First Class of Free Press Fellows",
+    "canonical_url": "https://www.thefp.com/p/introducing-the-first-class-of-free",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 69718733,
+    "top_level": false,
+    "date": "Sep 20 2024 12:45",
+    "likes": 1,
+    "timestamp": 1726850706,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ivy League schools are still great at identify and developing talent. And that includes centrist and even conservative young people with a high likelihood of becoming future leaders. At the end of the day, these are cold and calculating institutions focused on maintaining their relevance and influence, staffed by similarly ruthless individuals where it matters. Don't be misled by their occasional mistakes and lefty-ish marketing; they're just as effective as ever at identify and developing talent."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 69704839,
+    "parent_children": 18,
+    "thread_id": 69704839,
+    "thread_children": 18,
+    "ratio_recv": 2,
+    "ratio_give": -64,
+    "grade_level": 13.1,
+    "word_count": 76
+  },
+  {
+    "post_id": 149071152,
+    "title": "Trump's tax plans mean higher mortgage interest rates",
+    "canonical_url": "https://www.slowboring.com/p/trumps-tax-plans-mean-higher-mortgage",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70007753,
+    "top_level": false,
+    "date": "Sep 23 2024 07:47",
+    "likes": 8,
+    "timestamp": 1727092030,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Because the deficit is too large [1] to avoid massive inflation, particularly if it's leading to immediate consumption from an every growing pool of retires. A key part of taxes isn't just financing programs and benefits but also removing spending from elsewhere in the economy. Otherwise its just more money chasing the same limited supply of goods and services, thereby causing inflation as the rationing mechanism. And we've recently learned how much voters hate even a moderate burst of inflation and elevated interest rates. Hopefully politicians have learned their lesson on that one."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And no one is in favor of the types of tax increases that would sure up SS. Even Democrats oppose any increase in taxes for all but the richest. Even just uncapping SS taxes (which is insufficient to fill the financing gap on its own) would be wildly unpopular. It would just require too much transfer of resource consumption from current workers to retires to be sustainable at current benefit levels."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My guess is we have a highly partisan fight, possibly even some internecine warfare within parties, while each group pushes their preferred strategy that puts the burden on someone else. We'll get some minor patch ups, but largely get the default SS benefit cuts, while factions continue to push for there preferred strategy. No chance any proper fix will get the necessary 60 votes in the senate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \"CBO\u2019s 2023 Long-Term Projections for Social Security\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cbo.gov/publication/59340"
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 70005033,
+    "parent_children": 10,
+    "thread_id": 70005033,
+    "thread_children": 10,
+    "ratio_recv": -6,
+    "ratio_give": 0,
+    "grade_level": 9.3,
+    "word_count": 239
+  },
+  {
+    "post_id": 149071152,
+    "title": "Trump's tax plans mean higher mortgage interest rates",
+    "canonical_url": "https://www.slowboring.com/p/trumps-tax-plans-mean-higher-mortgage",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70011176,
+    "top_level": false,
+    "date": "Sep 23 2024 08:26",
+    "likes": 6,
+    "timestamp": 1727094370,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The cliff refers to the automatic benefit cut such that payments equal tax revenue once the trust fund is exhausted. That is the default case as the law is currently written. Congress would need to pass new legislation for something else to happen."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here's the clearest wording I could find on the Security Security Adminstration's website after 2 min of Googling. The Future Financial Status of the Social Security Program [2010], "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ssa.gov/policy/docs/ssb/v70n3/v70n3p111.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As a result of changes to Social Security enacted in 1983, benefits are now expected to be payable in full on a timely basis until 2037, when the trust fund reserves are projected to become exhausted. At the point where the reserves are used up, continuing taxes are expected to be enough to pay 76 percent of scheduled benefits. Thus, the Congress will need to make changes to the scheduled benefits and revenue sources for the program in the future."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 70008338,
+    "parent_children": 4,
+    "thread_id": 70005033,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": 4,
+    "grade_level": 10.5,
+    "word_count": 151
   }
 ];
