@@ -41444,11 +41444,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 6,
+    "total_children": 7,
     "parent_id": 70005033,
-    "parent_children": 10,
+    "parent_children": 11,
     "thread_id": 70005033,
-    "thread_children": 10,
+    "thread_children": 11,
     "ratio_recv": -6,
     "ratio_give": 0,
     "grade_level": 9.3,
@@ -41494,10 +41494,294 @@ window._comments = [
     "parent_id": 70008338,
     "parent_children": 4,
     "thread_id": 70005033,
-    "thread_children": 10,
+    "thread_children": 11,
     "ratio_recv": 0,
     "ratio_give": 4,
     "grade_level": 10.5,
     "word_count": 151
+  },
+  {
+    "post_id": 149307955,
+    "title": "Monday thread + Poll",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-poll-4c8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70086244,
+    "top_level": false,
+    "date": "Sep 23 2024 19:11",
+    "likes": 12,
+    "timestamp": 1727133089,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but we also need a mechanism to avoid making bad investments in the first place regardless of whether its a debt or equity investment. That includes inefficient, and even predatory college programs, as well as students lacking in focus and aptitude."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To that end, we need to get a substantial portion of each loan issued by either the college itself or a private investor. That will create sophisticated actors with real skin the game to weed out bad investments."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 70082931,
+    "parent_children": 5,
+    "thread_id": 70082931,
+    "thread_children": 5,
+    "ratio_recv": -8,
+    "ratio_give": 3,
+    "grade_level": 9.9,
+    "word_count": 80
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70493060,
+    "top_level": true,
+    "date": "Sep 27 2024 06:32",
+    "likes": 28,
+    "timestamp": 1727433132,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "How would such regulation survive a first amendment challenge? Broadcast regulations could point to the limited spectrum and the need to manage it with the public interest in mind. As mentioned in this article, the only current constraint is human attention. Regulating with that in mind would extend to even movies, books, and in person chats."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 70493060,
+    "thread_children": 8,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 8.8,
+    "word_count": 56
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70493482,
+    "top_level": false,
+    "date": "Sep 27 2024 06:39",
+    "likes": 6,
+    "timestamp": 1727433562,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson of Stratechery has written extensively on the topic. Eg, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/antitrust-politics/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Figuring out how to regulate tech companies \u2014 particularly Aggregators, that base their power on consumer welfare \u2014 will require new approaches, and probably new laws. Moreover, any such regulations will necessitate difficult trade-offs between competition, privacy, national security, etc. (I was grateful that Representative Kelly Armstrong highlighted how GDPR made big tech companies stronger), which again means that Congress is best situated to decide what tradeoffs we should make."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 70493009,
+    "parent_children": 6,
+    "thread_id": 70493009,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 14.6,
+    "word_count": 79
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70496862,
+    "top_level": false,
+    "date": "Sep 27 2024 07:31",
+    "likes": 5,
+    "timestamp": 1727436674,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Both Bluesky and Mastodon have moderation and there have been disagreement among users about their approaches and policies. Here's a concise AI summary that matches my understanding, "
+        },
+        {
+          "type": "url",
+          "value": "https://chatgpt.com/share/66f6969e-4c54-800d-98f7-707cbbdeeaba"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe the existence of moderation and the disagreements and controversies about it have hindered their broader adoption. At best they can attract ideologues, either those opposed to current social media moderation policies or those generally in favor of \"open\" for various definitions of open. Even among those two groups there are disagreements. Eg, those who opposes changes in Twitter moderation policies under Musk certainly aren't looking for even less moderation. "
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 70495386,
+    "parent_children": 22,
+    "thread_id": 70495386,
+    "thread_children": 22,
+    "ratio_recv": -1,
+    "ratio_give": 2,
+    "grade_level": 12.1,
+    "word_count": 98
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70497923,
+    "top_level": false,
+    "date": "Sep 27 2024 07:45",
+    "likes": 7,
+    "timestamp": 1727437505,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although in practice most Mastodon instances, like most popular subreddits, descend into petty moderator dictatorships or at best echo chambers.  The theoretical openness isn't embraced to enable cross community discussions and exposure to facts and ideas we'd otherwise not encounter. We don't even get \"user empowerment\" to \"choose our own algorithm\". Further, we users are too lazy and we could already get a lot of that on Twitter with curation of who we follow and who we block."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 70497205,
+    "parent_children": 11,
+    "thread_id": 70495386,
+    "thread_children": 22,
+    "ratio_recv": -5,
+    "ratio_give": 3,
+    "grade_level": 11.0,
+    "word_count": 79
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70498601,
+    "top_level": false,
+    "date": "Sep 27 2024 07:53",
+    "likes": 15,
+    "timestamp": 1727437995,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Defecation isn't speech. (While there may be fun arguments about actions as speech and speech being actions, laws shouldn't consider that. Eg, your speech is violence whereas my violence is speech.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It would be more interesting to focus on the example of going on a schizo rant, including yelling profanities, in a public park. That does highlight a tension between our desire for public order and the 1st amendment. A libertarian would support such disruptive speech and encourage privatization to offer regulated spaces. Even some anti-rule-enforcement leftists could be persuaded to allow such speech and disorder without recognizing their complicity in further privatization."
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 70497446,
+    "parent_children": 18,
+    "thread_id": 70496843,
+    "thread_children": 28,
+    "ratio_recv": -5,
+    "ratio_give": 10,
+    "grade_level": 10.2,
+    "word_count": 103
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70507812,
+    "top_level": false,
+    "date": "Sep 27 2024 09:27",
+    "likes": 11,
+    "timestamp": 1727443620,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but regulating and taxing sugary drinks may not be possible if we had a constitutional amendment along the lines of \"Congress shall make no law abridging the freedom of producing or consuming food and beverages.\""
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 70502462,
+    "parent_children": 6,
+    "thread_id": 70493327,
+    "thread_children": 13,
+    "ratio_recv": -11,
+    "ratio_give": 11,
+    "grade_level": 17.3,
+    "word_count": 36
+  },
+  {
+    "post_id": 149355679,
+    "title": "Social media regulation beyond antitrust",
+    "canonical_url": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70522436,
+    "top_level": false,
+    "date": "Sep 27 2024 11:19",
+    "likes": 13,
+    "timestamp": 1727450362,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But interoperability requires standardization such that each network has the same model of reality. For example, if we standardized at the time of MySpace then the model wouldn't include retweets. In general its anti-innovation and can even benefit incumbents with some degree of captive users."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, the standard text messaging protocol was rather limited and therefore Apple developed their separate iMessage protocol that only works with their devices. Their existing install base, and the superior user experience, created a new alternative network. The EU is pushing for interoperability but that will only limit future innovation and lock in incumbents at the expense of user features."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Microsoft was infamous for such practices in the 90's and early 2000's with their \"Embrace, Extend, Extinguish\" strategy towards defeating open standards, particularly around in the early internet. Government mandated standards will just lock in incumbents and discourage innovation, particularly from upstarts that can't afford to implement that base protocol before developing their novel enhancements."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 70512624,
+    "parent_children": 7,
+    "thread_id": 70493217,
+    "thread_children": 15,
+    "ratio_recv": -13,
+    "ratio_give": 11,
+    "grade_level": 14.7,
+    "word_count": 161
   }
 ];
