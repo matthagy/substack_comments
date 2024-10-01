@@ -41394,11 +41394,11 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 69704839,
-    "parent_children": 18,
+    "parent_children": 19,
     "thread_id": 69704839,
-    "thread_children": 18,
-    "ratio_recv": 2,
-    "ratio_give": -64,
+    "thread_children": 19,
+    "ratio_recv": 6,
+    "ratio_give": -79,
     "grade_level": 13.1,
     "word_count": 76
   },
@@ -41546,7 +41546,7 @@ window._comments = [
     "id": 70493060,
     "top_level": true,
     "date": "Sep 27 2024 06:32",
-    "likes": 28,
+    "likes": 35,
     "timestamp": 1727433132,
     "body": [
       [
@@ -41556,12 +41556,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 8,
+    "total_children": 21,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 70493060,
-    "thread_children": 8,
-    "ratio_recv": -7,
+    "thread_children": 21,
+    "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 56
@@ -41576,7 +41576,7 @@ window._comments = [
     "id": 70493482,
     "top_level": false,
     "date": "Sep 27 2024 06:39",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1727433562,
     "body": [
       [
@@ -41602,7 +41602,7 @@ window._comments = [
     "thread_id": 70493009,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": 1,
+    "ratio_give": 2,
     "grade_level": 14.6,
     "word_count": 79
   },
@@ -41686,7 +41686,7 @@ window._comments = [
     "id": 70498601,
     "top_level": false,
     "date": "Sep 27 2024 07:53",
-    "likes": 15,
+    "likes": 18,
     "timestamp": 1727437995,
     "body": [
       [
@@ -41706,9 +41706,9 @@ window._comments = [
     "parent_id": 70497446,
     "parent_children": 18,
     "thread_id": 70496843,
-    "thread_children": 28,
-    "ratio_recv": -5,
-    "ratio_give": 10,
+    "thread_children": 31,
+    "ratio_recv": -8,
+    "ratio_give": 13,
     "grade_level": 10.2,
     "word_count": 103
   },
@@ -41722,7 +41722,7 @@ window._comments = [
     "id": 70507812,
     "top_level": false,
     "date": "Sep 27 2024 09:27",
-    "likes": 11,
+    "likes": 14,
     "timestamp": 1727443620,
     "body": [
       [
@@ -41734,11 +41734,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 70502462,
-    "parent_children": 6,
+    "parent_children": 7,
     "thread_id": 70493327,
-    "thread_children": 13,
-    "ratio_recv": -11,
-    "ratio_give": 11,
+    "thread_children": 17,
+    "ratio_recv": -14,
+    "ratio_give": 13,
     "grade_level": 17.3,
     "word_count": 36
   },
@@ -41752,7 +41752,7 @@ window._comments = [
     "id": 70522436,
     "top_level": false,
     "date": "Sep 27 2024 11:19",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1727450362,
     "body": [
       [
@@ -41776,12 +41776,236 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 70512624,
-    "parent_children": 7,
+    "parent_children": 12,
     "thread_id": 70493217,
-    "thread_children": 15,
-    "ratio_recv": -13,
-    "ratio_give": 11,
+    "thread_children": 22,
+    "ratio_recv": -14,
+    "ratio_give": 12,
     "grade_level": 14.7,
     "word_count": 161
+  },
+  {
+    "post_id": 149566514,
+    "title": "Sunday thread + Grab Bag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-grab-bag-4c7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 70777759,
+    "top_level": false,
+    "date": "Sep 29 2024 18:12",
+    "likes": 22,
+    "timestamp": 1727647943,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "An author's \"like\" adds 5 extra likes. Figured this out from my experiments w/ the substack API in various comment analysis projects."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Specifically, each substack comment has a `score` attribute in addition to a `likes` attribute. Eg, the comment from Freddie deBoer on Friday [1], liked by Ben, has 79 likes in my local copy and a score of 84. Looking at a sample of comments like by other authors, including multiple authors, they all have 5 extra points. Ie, there isn a difference between authors nor do likes from multiple authors stack."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/social-media-regulation-beyond-antitrust/comment/70492463"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You can see the API value of the comments in that thread at the URL, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/api/v1/post/149355679/comments?token=&all_comments=true&sort=best_first&comment_id=70492463"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here are some select current attributes of that comment object:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "{"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"id\": 70492463,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"body\": \"Yeah, systematic lead removal ...\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"date\": \"2024-09-27T10:21:11.110Z\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reply_from_post_id\": null,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"status\": \"published\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"pinned_by_user_id\": null,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"restacks\": 0,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"name\": \"Freddie deBoer\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"handle\": \"freddiedeboer\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reactions\": {"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    \"\u2764\": 83"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  },"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reactor_names\": ["
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    \"Ben Krauss\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  ],"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reaction\": \"\u2764\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reaction_count\": 83,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"suppressed\": false,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"user_banned\": false,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"user_banned_for_comment\": false,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"user_slug\": \"freddiedeboer\","
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"score\": 88,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"children_count\": 2,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \"reported_by_user\": false,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  ..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "}"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 70748379,
+    "parent_children": 9,
+    "thread_id": 70748379,
+    "thread_children": 9,
+    "ratio_recv": -14,
+    "ratio_give": 7,
+    "grade_level": 10.1,
+    "word_count": 163
   }
 ];
