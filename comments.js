@@ -41794,7 +41794,7 @@ window._comments = [
     "id": 70777759,
     "top_level": false,
     "date": "Sep 29 2024 18:12",
-    "likes": 22,
+    "likes": 23,
     "timestamp": 1727647943,
     "body": [
       [
@@ -42003,9 +42003,45 @@ window._comments = [
     "parent_children": 9,
     "thread_id": 70748379,
     "thread_children": 9,
-    "ratio_recv": -14,
-    "ratio_give": 7,
+    "ratio_recv": -15,
+    "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 163
+  },
+  {
+    "post_id": 149881953,
+    "title": "Sunday thread +Mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 71628291,
+    "top_level": false,
+    "date": "Oct 06 2024 15:15",
+    "likes": 14,
+    "timestamp": 1728242138,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "They'll just migrate to paid platforms. Eg, there are numerous Substacks making bank off populist messaging of both right and left branding. This is simply a demand side problem; many people are inherently skeptical of elites and institutions and are seeking such anti-establishment content to reaffirm their world view. For many I think this even transcends any sort of traditional right/left divide and they can easily subcume to false populist narrative of either persuasion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think some of this can be attributed to our increasingly complex world for which it's exceedingly hard for even experts to make sense of. See for example the ongoing debate among academics and financial professionals about the cause our recent bought of inflation and why its dissipated. Or say the source of covid. It's understandable why laypeople can be taken by simplistic false narratives when even experts can't agree on more complicated explanations."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 71625771,
+    "parent_children": 13,
+    "thread_id": 71618499,
+    "thread_children": 37,
+    "ratio_recv": -4,
+    "ratio_give": 11,
+    "grade_level": 10.5,
+    "word_count": 148
   }
 ];
