@@ -42038,10 +42038,168 @@ window._comments = [
     "parent_id": 71625771,
     "parent_children": 13,
     "thread_id": 71618499,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": -4,
     "ratio_give": 11,
     "grade_level": 10.5,
     "word_count": 148
+  },
+  {
+    "post_id": 150522012,
+    "title": "Monday thread + Poll",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-poll-4f8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73545679,
+    "top_level": false,
+    "date": "Oct 21 2024 17:42",
+    "likes": 7,
+    "timestamp": 1729546963,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Many experts have been analyzing and commenting on the recent antitrust decision against Google search, including what remedies would be reasonable. Eg, can Google no longer pay Apple and other browser/mobile device manufacturers for placement as the default search engine. Doubt it would be worth Matt's time to get up to speed in order to write up something so far removed from his core interests and expertises."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'd personally recommend Ben Thompson's Aug 2024 article \"Friendly Google and Enemy Remedies\" [1] for an overview of relevant law, court case, market factors, and possible remedies. He has numerous other free articles on the case and related topics for anyone who wants to go deep."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/friendly-google-and-enemy-remedies/"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 73543707,
+    "parent_children": 4,
+    "thread_id": 73542034,
+    "thread_children": 8,
+    "ratio_recv": -4,
+    "ratio_give": -6,
+    "grade_level": 12.3,
+    "word_count": 115
+  },
+  {
+    "post_id": 150448596,
+    "title": "A positive case for Kamala Harris",
+    "canonical_url": "https://www.slowboring.com/p/a-positive-case-for-kamala-harris",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73749516,
+    "top_level": false,
+    "date": "Oct 23 2024 08:36",
+    "likes": 30,
+    "timestamp": 1729686962,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and while I believe the growing conflict between Musk and Democrats is largely on him, I do think that it was a strategic mistake for Biden to explicitly exclude Tesla from his EV push. [1] And this isn't just hindsight bias because I registered that take in Dec 2022. [2] There's no future for legacy automakers and their unions in the EV future; at least not in their current form. Their workers (and investors) should milk these companies for all they can in the short term and hopefully something of value can rise from the ashes of their bankruptcies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk is insane, and deeply bought in to culture war BS, so it's totally possible the relationship would've frayed regardless. Nonetheless, it was strategic mistake to snub the future of American auto manufacturing and the leader of EV revolution in an attempt to better pander to unions. We can still pander our hearts out while recognizing those are dying industries and while building a strong relation with the future. Maybe we could just better pretend there's some future for unions in batteries?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2021-08-05/biden-snubs-non-union-ev-makers-at-event-promoting-evs"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elon-musk-is-the-latest-victim-of/comment/11141199"
+        }
+      ]
+    ],
+    "total_children": 20,
+    "parent_id": 73738786,
+    "parent_children": 104,
+    "thread_id": 73738786,
+    "thread_children": 104,
+    "ratio_recv": -19,
+    "ratio_give": -36,
+    "grade_level": 9.9,
+    "word_count": 184
+  },
+  {
+    "post_id": 150448596,
+    "title": "A positive case for Kamala Harris",
+    "canonical_url": "https://www.slowboring.com/p/a-positive-case-for-kamala-harris",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73764790,
+    "top_level": false,
+    "date": "Oct 23 2024 10:29",
+    "likes": 13,
+    "timestamp": 1729693769,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. As much as I hate to admit, Musk is both insane and brilliant. And the risks he took w/ Tesla and SpaceX are deeply rooted in the insane portion. Musk started w/ the premise that EVs or orbital launches must meet some unrealistic (at the time) cost structure and worked back from there. Supposedly for his outlandish vision of colonizing Mars and rapid zero emissions. All the established players rightfully dismissed this as madness and the mad man made it work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recently found this well articulated in \"Elon Dreams and Bitter Lessons\", "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/elon-dreams-and-bitter-lessons/"
+        },
+        {
+          "type": "text",
+          "value": " . Something rather poignant about the whole ordeal, but gotta admit there's something to that old George Bernard Shaw quote."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Edited to fix grammar error"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 73756355,
+    "parent_children": 7,
+    "thread_id": 73738786,
+    "thread_children": 104,
+    "ratio_recv": null,
+    "ratio_give": 5,
+    "grade_level": 6.6,
+    "word_count": 146
   }
 ];
