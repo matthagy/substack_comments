@@ -42100,7 +42100,7 @@ window._comments = [
     "id": 73749516,
     "top_level": false,
     "date": "Oct 23 2024 08:36",
-    "likes": 30,
+    "likes": 32,
     "timestamp": 1729686962,
     "body": [
       [
@@ -42136,13 +42136,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 20,
+    "total_children": 21,
     "parent_id": 73738786,
-    "parent_children": 104,
+    "parent_children": 110,
     "thread_id": 73738786,
-    "thread_children": 104,
-    "ratio_recv": -19,
-    "ratio_give": -36,
+    "thread_children": 110,
+    "ratio_recv": -21,
+    "ratio_give": -37,
     "grade_level": 9.9,
     "word_count": 184
   },
@@ -42196,10 +42196,208 @@ window._comments = [
     "parent_id": 73756355,
     "parent_children": 7,
     "thread_id": 73738786,
-    "thread_children": 104,
+    "thread_children": 110,
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 6.6,
     "word_count": 146
+  },
+  {
+    "post_id": 150471721,
+    "title": "Bring back the IPO ",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-ipo",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73886014,
+    "top_level": false,
+    "date": "Oct 24 2024 07:48",
+    "likes": 24,
+    "timestamp": 1729770526,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ahh, there are plenty of counter examples with public companies that are extremely long sighted. Eg, Alphabet (ie, Google) w/ their decade long investment in Waymo (which is now looking smart) and Meta (ie, Facebook) sinking 10's of billions in to the metaverse (which currently looks far more suspect*). Similarly many private companies can be extremely short sighted, particularly when they need to raise more money. It's good that there's some diversity in strategies across different actors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On the Salesforce employment levels question, this is truly a hard question about the future of their business and the broader economy. All tech companies massively over hired during the Covid boom and needed something of a correction. Yet the new AI boom suddenly increases the demand for their cloud services and presents new product opportunities. It's easy for us to argue that companies should be less reactive (and many are; eg, Oracle) but there's true unknowable uncertainty here. Had the Covid boom gone on a few more years then the less reactive companies would look foolish; same if the AI boom goes on for another decade. No one truly knows."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Decades on from now it will be easy for us to praise the wisdom of winners and scorn the foolishness of losers. But in the moment we just have a bunch of different actors, with different judgment calls, executing what they believe is the best strategy. That includes each of us as investors and workers. It's messy; but that's the reality of dealing with unknowable uncertainty because no one truly knows how this will all play out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Gotta admit that their prototype augmented reality glasses look rather promising and this seemed to help their positioning for AI so who know"
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": 73880905,
+    "parent_children": 41,
+    "thread_id": 73880080,
+    "thread_children": 43,
+    "ratio_recv": -9,
+    "ratio_give": 1,
+    "grade_level": 9.6,
+    "word_count": 288
+  },
+  {
+    "post_id": 150471721,
+    "title": "Bring back the IPO ",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-ipo",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73886683,
+    "top_level": false,
+    "date": "Oct 24 2024 07:55",
+    "likes": 10,
+    "timestamp": 1729770945,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly! I was going to raise the Snapchat vs. Instagram example. Instagram benefited from Facebook's massive investment in infrastructure and their deep bench of tech experts. And Facebook made huge investments in to the Instagram product. Had Instagram not been acquired, not only would they lack all of those immediate resources, Facebook would've been piling that into their own competing products and features. Even if investors were willing to sink billions into Instagram in an attempt to steal Facebook's market, it's still difficult to build up those resources and it takes time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Youtube was in an even more challenging position due to the massive hardware demands of serving videos. And the giant legal liability around copyrights. They needed someone with deep pockets and long time horizons at a minimum. Certainly helped that Google also provided the best infrastructure in the world for serving content at scale. Even with billions, it would've taken years to build up similar infrastructure and their product would suffer, and possibly fail, before they could provide comparable scaling."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 73883506,
+    "parent_children": 10,
+    "thread_id": 73883506,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.0,
+    "word_count": 172
+  },
+  {
+    "post_id": 150471721,
+    "title": "Bring back the IPO ",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-ipo",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73892414,
+    "top_level": false,
+    "date": "Oct 24 2024 08:49",
+    "likes": 1,
+    "timestamp": 1729774168,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think the issue is that IPO's are heavily in constrained in speculation about future of the business whereas acquisition aren't. Hence, a SPAC could acquire a startup with a disclosure based around their predictions of the business future. Yes, that can include unreasonable* confidence in business trajectory. But an early stage tech company is also highly speculative and VCs are investing in that potential; recognizing a high degree of uncertainty. If such a startup was to an attempt an IPO under present regulation all they could disclose in a money-losing sinkhole."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*reasonable is highly subjective and we generally want public companies to be conservative in their projections. Jobs (and now Musk) were highly unreasonable in their projections (ie, their vision), arguably delusional if not insane, but some of that worked out"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 73879768,
+    "parent_children": 10,
+    "thread_id": 73879768,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": -9,
+    "grade_level": 11.8,
+    "word_count": 132
+  },
+  {
+    "post_id": 150471721,
+    "title": "Bring back the IPO ",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-ipo",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73893693,
+    "top_level": false,
+    "date": "Oct 24 2024 09:00",
+    "likes": 5,
+    "timestamp": 1729774804,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And? Totally reasonable strategy for the large company. Best of luck to them in actually executing. Also reasonable (although cowardly) for investors and management in the small firm to accept acquisition in such a situation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At times the management of the small company is explicitly reversing that threat; acquire us at a massive premium or we'll out execute you on product X, get all of your customers to also buy our X, and then offer them your bread-and-butter product Y; thereby killing you."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 73892047,
+    "parent_children": 5,
+    "thread_id": 73883506,
+    "thread_children": 10,
+    "ratio_recv": -5,
+    "ratio_give": 0,
+    "grade_level": 11.4,
+    "word_count": 83
+  },
+  {
+    "post_id": 150471721,
+    "title": "Bring back the IPO ",
+    "canonical_url": "https://www.slowboring.com/p/bring-back-the-ipo",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 73901834,
+    "top_level": false,
+    "date": "Oct 24 2024 10:02",
+    "likes": 3,
+    "timestamp": 1729778525,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The point is that a startup is entirely a bet on the future. VCs invest based on such lofty projections, even if highly speculative, because they believe their is positive expected value in such bets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We can argue that regular retail investors shouldn't be exposed to such speculative investments; including those led by delusional if not full on fraudulent founders. But there is the counter argument that massive returns are being captured by VCs and other private investors while retail investors are being excluded from the opportunity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I personally don't particularly care either way, but just want the tradeoff to be explicit. Either we limit the riskiest investments to professionals and their wealthy backers (including nonprofit endowments and public pensions) or we let everyone in. On average, those taking the most risk will be expected to get the most returns, but there can be huge variance across risky investments. So maybe the general public should be excluded."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 73899801,
+    "parent_children": 6,
+    "thread_id": 73879768,
+    "thread_children": 10,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 10.9,
+    "word_count": 157
   }
 ];
