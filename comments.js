@@ -42212,7 +42212,7 @@ window._comments = [
     "id": 73886014,
     "top_level": false,
     "date": "Oct 24 2024 07:48",
-    "likes": 24,
+    "likes": 25,
     "timestamp": 1729770526,
     "body": [
       [
@@ -42245,8 +42245,8 @@ window._comments = [
     "parent_children": 41,
     "thread_id": 73880080,
     "thread_children": 43,
-    "ratio_recv": -9,
-    "ratio_give": 1,
+    "ratio_recv": -10,
+    "ratio_give": 0,
     "grade_level": 9.6,
     "word_count": 288
   },
@@ -42260,7 +42260,7 @@ window._comments = [
     "id": 73886683,
     "top_level": false,
     "date": "Oct 24 2024 07:55",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1729770945,
     "body": [
       [
@@ -42296,7 +42296,7 @@ window._comments = [
     "id": 73892414,
     "top_level": false,
     "date": "Oct 24 2024 08:49",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1729774168,
     "body": [
       [
@@ -42317,8 +42317,8 @@ window._comments = [
     "parent_children": 10,
     "thread_id": 73879768,
     "thread_children": 10,
-    "ratio_recv": 0,
-    "ratio_give": -9,
+    "ratio_recv": -1,
+    "ratio_give": -8,
     "grade_level": 11.8,
     "word_count": 132
   },
@@ -42332,7 +42332,7 @@ window._comments = [
     "id": 73893693,
     "top_level": false,
     "date": "Oct 24 2024 09:00",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1729774804,
     "body": [
       [
@@ -42353,7 +42353,7 @@ window._comments = [
     "parent_children": 5,
     "thread_id": 73883506,
     "thread_children": 10,
-    "ratio_recv": -5,
+    "ratio_recv": -6,
     "ratio_give": 0,
     "grade_level": 11.4,
     "word_count": 83
@@ -42368,7 +42368,7 @@ window._comments = [
     "id": 73901834,
     "top_level": false,
     "date": "Oct 24 2024 10:02",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1729778525,
     "body": [
       [
@@ -42395,9 +42395,51 @@ window._comments = [
     "parent_children": 6,
     "thread_id": 73879768,
     "thread_children": 10,
-    "ratio_recv": -2,
-    "ratio_give": 2,
+    "ratio_recv": -3,
+    "ratio_give": 3,
     "grade_level": 10.9,
     "word_count": 157
+  },
+  {
+    "post_id": 150722794,
+    "title": "Why America's future could hinge on Elon Musk",
+    "canonical_url": "https://www.noahpinion.blog/p/why-americas-future-could-hinge-on",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 74291025,
+    "top_level": false,
+    "date": "Oct 27 2024 08:30",
+    "likes": 8,
+    "timestamp": 1730032246,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, I think Mush truly believes that his embrace of Trump and his biasing of Twitter for right-wing content is him responsibly using his power. There is a cynical framing that sees Musk as purely pursuing his economic interests and calculating that Trump and Republicans are more aligned in that way. I think that is giving Musk way too much credit and requires us to dismiss his long track record of reckless behavior. Eg, committing security fraud via tweet in 2018."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That pattern of recklessness includes founding Tesla and SpaceX, both of which started from the premise of assuming unrealistic (at the time) cost structures and working backwards from there. Yes, he made it work, and that does demonstrate some truly amazing capabilities as technical leader. Yet his critics at the time were correct in noting that these were speculative long shots without sufficient justification to be achievable in any reasonable time frame."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe Musk is similarly taking a reckless risk based on assuming some political outcome and working backwards. That seems to be centered on a rightwing culture war victory (and more lenient regulation of business for he may actually have a point). Yet he's not operating in the world of physics and engineering where he and his team simply needs to find a solution within the structure of hard physical constraints. The political world is far more open-ended and he can't just engineer out a solution. Yet Musk doesn't see it that way and he truly believes he can just figure this out as he goes."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 74230439,
+    "parent_children": 4,
+    "thread_id": 74230439,
+    "thread_children": 4,
+    "ratio_recv": -2,
+    "ratio_give": -35,
+    "grade_level": 10.5,
+    "word_count": 259
   }
 ];
