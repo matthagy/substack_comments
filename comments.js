@@ -42441,5 +42441,139 @@ window._comments = [
     "ratio_give": -35,
     "grade_level": 10.5,
     "word_count": 259
+  },
+  {
+    "post_id": 150781036,
+    "title": "27 takes on the 2024 election ",
+    "canonical_url": "https://www.slowboring.com/p/27-takes-on-the-2024-election",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 74562276,
+    "top_level": true,
+    "date": "Oct 29 2024 07:30",
+    "likes": 68,
+    "timestamp": 1730201409,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Big New: Paul Graham came out in support of Harris with a very persuasive argument to appeal to techie moderates, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/paulg/status/1851200055220306378"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, he's among the most respected names in tech as the founder of YCombinator and Sam Altmans former boss. Great argument that will appeal to moderates in tech, including those highly suspicious of Democrats economic policy. Here's the message:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Why Moderates Should Vote for Harris"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "People on the far left and the far right have already decided who to vote for in the next election. Voting for the other party would be unthinkable. But what if you're a moderate?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm a moderate, and I'm voting for Harris. The reason is not that I love the Democrats' policies. Both parties' policies seem a roughly equal mix of good and bad. The reason I'm voting for Harris is that this election is about character."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As far as I can tell, Harris is a typical politician. That may not seem much of a recommendation. But Trump is something far worse. He seems to be completely without shame."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We saw that the last time he was president. He ran the White House like a mob boss, choosing subordinates for loyalty rather than ability. No one knows that better than the people who worked for him. Almost half the cabinet-level appointees from his previous administration have refused to endorse him. They're warning us what he's like."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The worst thing he did, in my opinion, was when he tried to remain in power after he lost the 2020 election. He knew he'd lost, but he called Mike Pence and tried to get him not to certify the election. Thank God Pence had the character to stand up to him. I don't like to think what might have happened if he hadn't."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Trying to remain in power after losing an election is banana republic stuff. You don't do that in America. Conceding gracefully when you lose an election is more important than any policy a politician might have, because it's only this principle that allows us to get rid of politicians whose policies don't work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So sure, Harris is a typical politician. But Trump is a crook. You can't have that sort of person as president. It's too risky."
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 74562276,
+    "thread_children": 18,
+    "ratio_recv": -43,
+    "ratio_give": null,
+    "grade_level": 6.0,
+    "word_count": 373
+  },
+  {
+    "post_id": 150781036,
+    "title": "27 takes on the 2024 election ",
+    "canonical_url": "https://www.slowboring.com/p/27-takes-on-the-2024-election",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 74563927,
+    "top_level": false,
+    "date": "Oct 29 2024 07:47",
+    "likes": 25,
+    "timestamp": 1730202452,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To add some more context, he's written numerous essays defending tech, capitalism, and even economic inequality. He's solidly on the right with respect to economics and has the billions to back that up. Eg, his 2005 article, \"Inequality and Risk\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.paulgraham.com/inequality.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT summarizes this better than I could (because I haven't read it in nearly 20 years) as:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Paul Graham\u2019s essay \"Inequality and Risk\" argues that reducing economic inequality through wealth redistribution dampens people\u2019s willingness to take risks, which he sees as crucial for startup innovation. He suggests that high potential rewards encourage risk-taking necessary for venture funding and founding startups. He emphasizes that attacking inequality by limiting wealth stifles economic growth, advocating instead to address corruption and the links between wealth and power. Graham concludes that societies should focus on transparency to limit power abuses, rather than reducing inequality itself."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 74562276,
+    "parent_children": 18,
+    "thread_id": 74562276,
+    "thread_children": 18,
+    "ratio_recv": -13,
+    "ratio_give": -43,
+    "grade_level": 14.7,
+    "word_count": 140
   }
 ];
