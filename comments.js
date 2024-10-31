@@ -42045,6 +42045,50 @@ window._comments = [
     "word_count": 148
   },
   {
+    "post_id": 149331962,
+    "title": "AI tools for software engineers, but without the hype \u2013 with Simon Willison (co-creator of Django)",
+    "canonical_url": "https://newsletter.pragmaticengineer.com/p/ai-tools-for-software-engineers-simon-willison",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 71681697,
+    "top_level": true,
+    "date": "Oct 07 2024 03:56",
+    "likes": 0,
+    "timestamp": 1728287797,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Solid first episode! I strong agree with the advice to experiment with different language models to build some intuition for the general strengths and weakness, notably hallucinations, of LLMs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To this end I'd recommend playing with "
+        },
+        {
+          "type": "url",
+          "value": "https://lmarena.ai/"
+        },
+        {
+          "type": "text",
+          "value": " as means of experimenting w/ different LLMs. Each query is answered by two different, randomly chosen LLMs and we the user rate which answer is better. The models are initially anonymous and their identity is only revealed after voting. It is fascinating to regularly see small, largely unknown models match performance of frontier LLMs, although we can also see them fail spectacularly on other queries."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 71681697,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.0,
+    "word_count": 101
+  },
+  {
     "post_id": 150522012,
     "title": "Monday thread + Poll",
     "canonical_url": "https://www.slowboring.com/p/monday-thread-poll-4f8",
@@ -42452,7 +42496,7 @@ window._comments = [
     "id": 74562276,
     "top_level": true,
     "date": "Oct 29 2024 07:30",
-    "likes": 68,
+    "likes": 75,
     "timestamp": 1730201409,
     "body": [
       [
@@ -42520,12 +42564,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 18,
+    "total_children": 19,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 74562276,
-    "thread_children": 18,
-    "ratio_recv": -43,
+    "thread_children": 19,
+    "ratio_recv": -46,
     "ratio_give": null,
     "grade_level": 6.0,
     "word_count": 373
@@ -42540,7 +42584,7 @@ window._comments = [
     "id": 74563927,
     "top_level": false,
     "date": "Oct 29 2024 07:47",
-    "likes": 25,
+    "likes": 29,
     "timestamp": 1730202452,
     "body": [
       [
@@ -42568,12 +42612,82 @@ window._comments = [
     ],
     "total_children": 7,
     "parent_id": 74562276,
-    "parent_children": 18,
+    "parent_children": 19,
     "thread_id": 74562276,
-    "thread_children": 18,
-    "ratio_recv": -13,
-    "ratio_give": -43,
+    "thread_children": 19,
+    "ratio_recv": -11,
+    "ratio_give": -46,
     "grade_level": 14.7,
     "word_count": 140
+  },
+  {
+    "post_id": 150893189,
+    "title": "Robert Moses's ideas were weird and bad",
+    "canonical_url": "https://www.slowboring.com/p/robert-mosess-ideas-were-weird-and",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 74907235,
+    "top_level": false,
+    "date": "Oct 31 2024 12:30",
+    "likes": 5,
+    "timestamp": 1730392225,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I believe this is the article in reference, \"The Very First Pandemic Blogger\" (May 15, 2020) "
+        },
+        {
+          "type": "url",
+          "value": "https://nymag.com/intelligencer/2020/05/andrew-sullivan-blogging-a-17th-century-pandemic.html"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 74905785,
+    "parent_children": 2,
+    "thread_id": 74858995,
+    "thread_children": 22,
+    "ratio_recv": null,
+    "ratio_give": 5,
+    "grade_level": 8.7,
+    "word_count": 17
+  },
+  {
+    "post_id": 150994583,
+    "title": "The Pulse #113: Engineering culture at Google vs Meta",
+    "canonical_url": "https://newsletter.pragmaticengineer.com/p/the-pulse-113",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 74924209,
+    "top_level": true,
+    "date": "Oct 31 2024 14:18",
+    "likes": 1,
+    "timestamp": 1730398731,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> A bootstrapped, profitable company could see less pressure to do layoffs while profitable \u2013 just because growth slowed. Then again, those bootstrapped companies also don\u2019t tend to hire as furiously during the boom times as publicly traded or VC-funded companies do."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Great to highlight this difference! Although, to play devil's advocate, it could imply that bootstrapped companies are slower to adjust to changing markets and therefore at risk of becoming unsustainable over time. I think that's a general observation of many small businesses with less aggressive management. Ideally, they're targeting a sufficiently narrow and durable niche to allow a more gradual approach towards adapting to a changing world."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 74924209,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.2,
+    "word_count": 107
   }
 ];
