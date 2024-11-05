@@ -42630,7 +42630,7 @@ window._comments = [
     "id": 74907235,
     "top_level": false,
     "date": "Oct 31 2024 12:30",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1730392225,
     "body": [
       [
@@ -42648,9 +42648,9 @@ window._comments = [
     "parent_id": 74905785,
     "parent_children": 2,
     "thread_id": 74858995,
-    "thread_children": 22,
+    "thread_children": 24,
     "ratio_recv": null,
-    "ratio_give": 5,
+    "ratio_give": 6,
     "grade_level": 8.7,
     "word_count": 17
   },
