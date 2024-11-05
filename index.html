@@ -37,6 +37,7 @@
                 <option value="ratio_give">Ratio Given</option>
                 <option value="fk_asc">Flesh-Kincaid Ascending</option>
                 <option value="fk_desc">Flesh-Kincaid Descending</option>
+                <option value="reply_count">Reply Count</option>
             </select>
 
             <label for="type" class="pad">Type</label>
@@ -49,8 +50,8 @@
             <label for="show" class="pad">Show</label>
             <select name="show" id="show">
                 <option value="10">10</option>
-                <option value="25" selected>25</option>
-                <option value="50">50</option>
+                <option value="25">25</option>
+                <option value="50" selected>50</option>
                 <option value="100">100</option>
                 <option value="all">All</option>
             </select>
@@ -66,8 +67,14 @@
             <input type="date" id="startDate" name="startDate">
             <label for="endDate" class="pad">End Date</label>
             <input type="date" id="endDate" name="endDate">
-
             <br/>
+
+            <label for="category">Category</label>
+            <select name="category" id="category">
+                <option value="all">All</option>
+            </select>
+            <br/>
+
             <label for="search">Terms</label>
             <input name="search" id="search" type="text" autocomplete="off"
                    placeholder="Filter comments by terms or leave empty for no filtering"/>

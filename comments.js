@@ -39,7 +39,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": -3,
     "grade_level": 10.3,
-    "word_count": 188
+    "word_count": 188,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 43514326,
@@ -81,7 +82,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -12,
     "grade_level": 10.7,
-    "word_count": 208
+    "word_count": 208,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 43776715,
@@ -151,7 +153,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": 2,
     "grade_level": 5.0,
-    "word_count": 73
+    "word_count": 73,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 43937960,
@@ -225,7 +228,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -3,
     "grade_level": 8.9,
-    "word_count": 245
+    "word_count": 245,
+    "category": "Uncategorized"
   },
   {
     "post_id": 44832459,
@@ -281,7 +285,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.7,
-    "word_count": 132
+    "word_count": 132,
+    "category": "Uncategorized"
   },
   {
     "post_id": 45150536,
@@ -337,7 +342,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 15.5,
-    "word_count": 152
+    "word_count": 152,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 45073472,
@@ -409,7 +415,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 8.7,
-    "word_count": 570
+    "word_count": 570,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 45381030,
@@ -461,7 +468,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 9.3,
-    "word_count": 222
+    "word_count": 222,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 45221732,
@@ -503,7 +511,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 15.5,
-    "word_count": 198
+    "word_count": 198,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 45221732,
@@ -545,7 +554,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -23,
     "grade_level": 10.5,
-    "word_count": 223
+    "word_count": 223,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 45221732,
@@ -583,7 +593,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 3.3,
-    "word_count": 18
+    "word_count": 18,
+    "category": "Uncategorized"
   },
   {
     "post_id": 45304661,
@@ -685,7 +696,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 342
+    "word_count": 342,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 45432154,
@@ -721,7 +733,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 13.9,
-    "word_count": 190
+    "word_count": 190,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 44848742,
@@ -763,7 +776,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 9.6,
-    "word_count": 153
+    "word_count": 153,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 45693612,
@@ -793,7 +807,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": -118,
     "grade_level": 17.2,
-    "word_count": 89
+    "word_count": 89,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 46266128,
@@ -858,7 +873,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -2,
     "grade_level": 11.1,
-    "word_count": 136
+    "word_count": 136,
+    "category": "Uncategorized"
   },
   {
     "post_id": 44807069,
@@ -888,7 +904,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": -18,
     "grade_level": 7.8,
-    "word_count": 88
+    "word_count": 88,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 46454781,
@@ -951,7 +968,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 11.8,
-    "word_count": 227
+    "word_count": 227,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 46030715,
@@ -993,7 +1011,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.0,
-    "word_count": 236
+    "word_count": 236,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 46030715,
@@ -1039,7 +1058,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 11.6,
-    "word_count": 171
+    "word_count": 171,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 46339666,
@@ -1087,7 +1107,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": -40,
     "grade_level": 12.6,
-    "word_count": 341
+    "word_count": 341,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 46971895,
@@ -1158,7 +1179,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.5,
-    "word_count": 351
+    "word_count": 351,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 47491031,
@@ -1200,7 +1222,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 241
+    "word_count": 241,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 47720171,
@@ -1248,7 +1271,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 11.3,
-    "word_count": 309
+    "word_count": 309,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 47889897,
@@ -1324,7 +1348,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 9.6,
-    "word_count": 339
+    "word_count": 339,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 47951599,
@@ -1388,7 +1413,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 11.3,
-    "word_count": 351
+    "word_count": 351,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 47951599,
@@ -1444,7 +1470,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": 14,
     "grade_level": 7.7,
-    "word_count": 138
+    "word_count": 138,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 48797501,
@@ -1480,7 +1507,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.1,
-    "word_count": 139
+    "word_count": 139,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 48797501,
@@ -1516,7 +1544,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 6,
     "grade_level": 9.2,
-    "word_count": 254
+    "word_count": 254,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 49698652,
@@ -1558,7 +1587,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 10.8,
-    "word_count": 245
+    "word_count": 245,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 49698652,
@@ -1598,7 +1628,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 12.2,
-    "word_count": 58
+    "word_count": 58,
+    "category": "Uncategorized"
   },
   {
     "post_id": 49971717,
@@ -1664,7 +1695,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 443
+    "word_count": 443,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 50154475,
@@ -1704,7 +1736,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -8,
     "grade_level": 10.6,
-    "word_count": 64
+    "word_count": 64,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 51320469,
@@ -1734,7 +1767,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 14.9,
-    "word_count": 62
+    "word_count": 62,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 51320469,
@@ -1794,7 +1828,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 228
+    "word_count": 228,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 51403483,
@@ -1836,7 +1871,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 196
+    "word_count": 196,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 52437399,
@@ -1910,7 +1946,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 0,
     "grade_level": 7.1,
-    "word_count": 64
+    "word_count": 64,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 52577286,
@@ -1972,7 +2009,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 224
+    "word_count": 224,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 52767182,
@@ -2002,7 +2040,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": 20,
     "grade_level": 10.2,
-    "word_count": 44
+    "word_count": 44,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 52767182,
@@ -2050,7 +2089,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 10.2,
-    "word_count": 249
+    "word_count": 249,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 52767182,
@@ -2080,7 +2120,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 8,
     "grade_level": 8.4,
-    "word_count": 13
+    "word_count": 13,
+    "category": "Uncategorized"
   },
   {
     "post_id": 52767182,
@@ -2132,7 +2173,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 11.5,
-    "word_count": 105
+    "word_count": 105,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 52767182,
@@ -2168,7 +2210,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 200
+    "word_count": 200,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 52767182,
@@ -2204,7 +2247,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 6.4,
-    "word_count": 68
+    "word_count": 68,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 52832260,
@@ -2234,7 +2278,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 4,
     "grade_level": 9.5,
-    "word_count": 66
+    "word_count": 66,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 52832260,
@@ -2270,7 +2315,8 @@ window._comments = [
     "ratio_recv": -30,
     "ratio_give": null,
     "grade_level": 13.2,
-    "word_count": 142
+    "word_count": 142,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 52832260,
@@ -2346,7 +2392,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 386
+    "word_count": 386,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 52832260,
@@ -2388,7 +2435,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 9.5,
-    "word_count": 152
+    "word_count": 152,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 53002259,
@@ -2440,7 +2488,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": -5,
     "grade_level": 10.7,
-    "word_count": 246
+    "word_count": 246,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 53053394,
@@ -2508,7 +2557,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 314
+    "word_count": 314,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 53053394,
@@ -2538,7 +2588,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": 15,
     "grade_level": 10.1,
-    "word_count": 41
+    "word_count": 41,
+    "category": "Uncategorized"
   },
   {
     "post_id": 53154031,
@@ -2614,7 +2665,8 @@ window._comments = [
     "ratio_recv": -23,
     "ratio_give": null,
     "grade_level": 9.1,
-    "word_count": 142
+    "word_count": 142,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 53154031,
@@ -2644,7 +2696,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -14,
     "grade_level": 5.6,
-    "word_count": 12
+    "word_count": 12,
+    "category": "Uncategorized"
   },
   {
     "post_id": 53154031,
@@ -2674,7 +2727,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": 6,
     "grade_level": 3.7,
-    "word_count": 14
+    "word_count": 14,
+    "category": "Uncategorized"
   },
   {
     "post_id": 53154031,
@@ -2754,7 +2808,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 5,
     "grade_level": 7.5,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 53154031,
@@ -2784,7 +2839,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 1,
     "grade_level": 3.3,
-    "word_count": 9
+    "word_count": 9,
+    "category": "Uncategorized"
   },
   {
     "post_id": 53154031,
@@ -2814,7 +2870,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": 1,
     "grade_level": 7.6,
-    "word_count": 42
+    "word_count": 42,
+    "category": "Uncategorized"
   },
   {
     "post_id": 53302113,
@@ -2866,7 +2923,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": -2,
     "grade_level": 10.6,
-    "word_count": 169
+    "word_count": 169,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 54303445,
@@ -2902,7 +2960,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 9.6,
-    "word_count": 130
+    "word_count": 130,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 54303445,
@@ -2954,7 +3013,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": 5,
     "grade_level": 11.0,
-    "word_count": 160
+    "word_count": 160,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 55799999,
@@ -3018,7 +3078,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 325
+    "word_count": 325,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 55302326,
@@ -3058,7 +3119,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 104
+    "word_count": 104,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 56724202,
@@ -3088,7 +3150,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 12.3,
-    "word_count": 14
+    "word_count": 14,
+    "category": "Uncategorized"
   },
   {
     "post_id": 56724202,
@@ -3118,7 +3181,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 8.5,
-    "word_count": 78
+    "word_count": 78,
+    "category": "Uncategorized"
   },
   {
     "post_id": 56724202,
@@ -3194,7 +3258,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 7.1,
-    "word_count": 167
+    "word_count": 167,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 57340427,
@@ -3270,7 +3335,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 10.1,
-    "word_count": 330
+    "word_count": 330,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 57340427,
@@ -3316,7 +3382,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.2,
-    "word_count": 59
+    "word_count": 59,
+    "category": "Uncategorized"
   },
   {
     "post_id": 57548064,
@@ -3352,7 +3419,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -44,
     "grade_level": 13.7,
-    "word_count": 189
+    "word_count": 189,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 57532707,
@@ -3428,7 +3496,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 179
+    "word_count": 179,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 57532707,
@@ -3464,7 +3533,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 9.1,
-    "word_count": 108
+    "word_count": 108,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 57532707,
@@ -3522,7 +3592,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 14.0,
-    "word_count": 220
+    "word_count": 220,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 57532707,
@@ -3574,7 +3645,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -2,
     "grade_level": 6.4,
-    "word_count": 238
+    "word_count": 238,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 57553651,
@@ -3654,7 +3726,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 10.4,
-    "word_count": 192
+    "word_count": 192,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 57830726,
@@ -3684,7 +3757,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 17,
     "grade_level": 9.3,
-    "word_count": 77
+    "word_count": 77,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 57830726,
@@ -3762,7 +3836,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 14.7,
-    "word_count": 300
+    "word_count": 300,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 58251621,
@@ -3878,7 +3953,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 5.8,
-    "word_count": 298
+    "word_count": 298,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 58251621,
@@ -3940,7 +4016,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 313
+    "word_count": 313,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 58394722,
@@ -3987,7 +4064,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -2,
     "grade_level": 9.8,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 58394722,
@@ -4051,7 +4129,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 200
+    "word_count": 200,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 58394722,
@@ -4093,7 +4172,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": null,
     "grade_level": 14.0,
-    "word_count": 195
+    "word_count": 195,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 58601559,
@@ -4151,7 +4231,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 332
+    "word_count": 332,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 58601559,
@@ -4187,7 +4268,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 11,
     "grade_level": 7.5,
-    "word_count": 138
+    "word_count": 138,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 58601559,
@@ -4223,7 +4305,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 221
+    "word_count": 221,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 58601559,
@@ -4281,7 +4364,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 12.7,
-    "word_count": 120
+    "word_count": 120,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 58930295,
@@ -4311,7 +4395,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 43
+    "word_count": 43,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 58930295,
@@ -4351,7 +4436,8 @@ window._comments = [
     "ratio_recv": -17,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 84
+    "word_count": 84,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 58930295,
@@ -4419,7 +4505,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 14.3,
-    "word_count": 156
+    "word_count": 156,
+    "category": "Uncategorized"
   },
   {
     "post_id": 58893445,
@@ -4467,7 +4554,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 291
+    "word_count": 291,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 58893445,
@@ -4503,7 +4591,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 12.1,
-    "word_count": 176
+    "word_count": 176,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 58893445,
@@ -4551,7 +4640,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 330
+    "word_count": 330,
+    "category": "Uncategorized"
   },
   {
     "post_id": 58893445,
@@ -4581,7 +4671,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -1,
     "grade_level": 10.3,
-    "word_count": 72
+    "word_count": 72,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 58867637,
@@ -4617,7 +4708,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 11.7,
-    "word_count": 186
+    "word_count": 186,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 58867637,
@@ -4653,7 +4745,8 @@ window._comments = [
     "ratio_recv": 45,
     "ratio_give": null,
     "grade_level": 11.8,
-    "word_count": 197
+    "word_count": 197,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 59628308,
@@ -4683,7 +4776,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 7,
     "grade_level": 15.1,
-    "word_count": 64
+    "word_count": 64,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 60197939,
@@ -4745,7 +4839,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 13.4,
-    "word_count": 336
+    "word_count": 336,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 60197939,
@@ -4775,7 +4870,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 0,
     "grade_level": 10.1,
-    "word_count": 70
+    "word_count": 70,
+    "category": "Uncategorized"
   },
   {
     "post_id": 59737189,
@@ -4809,7 +4905,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 3,
     "grade_level": 10.7,
-    "word_count": 7
+    "word_count": 7,
+    "category": "Uncategorized"
   },
   {
     "post_id": 59737189,
@@ -4871,7 +4968,8 @@ window._comments = [
     "ratio_recv": -32,
     "ratio_give": null,
     "grade_level": 12.1,
-    "word_count": 271
+    "word_count": 271,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 59737189,
@@ -4921,7 +5019,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -4,
     "grade_level": 10.1,
-    "word_count": 141
+    "word_count": 141,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 59752737,
@@ -4985,7 +5084,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 364
+    "word_count": 364,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 59737189,
@@ -5045,7 +5145,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 9.3,
-    "word_count": 37
+    "word_count": 37,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 59737189,
@@ -5123,7 +5224,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 11.2,
-    "word_count": 255
+    "word_count": 255,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 59518168,
@@ -5169,7 +5271,8 @@ window._comments = [
     "ratio_recv": -25,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 189
+    "word_count": 189,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 59518168,
@@ -5199,7 +5302,8 @@ window._comments = [
     "ratio_recv": 11,
     "ratio_give": -1,
     "grade_level": 9.5,
-    "word_count": 64
+    "word_count": 64,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 59518168,
@@ -5253,7 +5357,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 13.8,
-    "word_count": 285
+    "word_count": 285,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 60336780,
@@ -5333,7 +5438,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.7,
-    "word_count": 463
+    "word_count": 463,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 60336780,
@@ -5367,7 +5473,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 1,
     "grade_level": 2.9,
-    "word_count": 5
+    "word_count": 5,
+    "category": "Uncategorized"
   },
   {
     "post_id": 60539716,
@@ -5415,7 +5522,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -5,
     "grade_level": 9.9,
-    "word_count": 206
+    "word_count": 206,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 59616580,
@@ -5463,7 +5571,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 265
+    "word_count": 265,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 59616580,
@@ -5527,7 +5636,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 227
+    "word_count": 227,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 57982533,
@@ -5599,7 +5709,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 12.5,
-    "word_count": 213
+    "word_count": 213,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 57982533,
@@ -5641,7 +5752,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": 2,
     "grade_level": 10.2,
-    "word_count": 147
+    "word_count": 147,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 57982533,
@@ -5681,7 +5793,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": 11,
     "grade_level": 13.8,
-    "word_count": 104
+    "word_count": 104,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 57982533,
@@ -5839,7 +5952,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 8.2,
-    "word_count": 218
+    "word_count": 218,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 60820577,
@@ -5875,7 +5989,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": -8,
     "grade_level": 12.9,
-    "word_count": 148
+    "word_count": 148,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 61349681,
@@ -5911,7 +6026,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 193
+    "word_count": 193,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 61349681,
@@ -5959,7 +6075,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 9,
     "grade_level": 10.8,
-    "word_count": 246
+    "word_count": 246,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 61556524,
@@ -6034,7 +6151,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 9.7,
-    "word_count": 179
+    "word_count": 179,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 61636691,
@@ -6130,7 +6248,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 8.3,
-    "word_count": 490
+    "word_count": 490,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 61636691,
@@ -6184,7 +6303,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": null,
     "grade_level": 10.0,
-    "word_count": 365
+    "word_count": 365,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 61636691,
@@ -6226,7 +6346,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 256
+    "word_count": 256,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 61636691,
@@ -6266,7 +6387,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -16,
     "grade_level": 8.6,
-    "word_count": 91
+    "word_count": 91,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 62033902,
@@ -6334,7 +6456,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 8.3,
-    "word_count": 175
+    "word_count": 175,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 62988475,
@@ -6374,7 +6497,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 4,
     "grade_level": 8.1,
-    "word_count": 43
+    "word_count": 43,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 63921833,
@@ -6404,7 +6528,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 16.8,
-    "word_count": 63
+    "word_count": 63,
+    "category": "Uncategorized"
   },
   {
     "post_id": 62667855,
@@ -6450,7 +6575,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -7,
     "grade_level": 13.2,
-    "word_count": 135
+    "word_count": 135,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 67128817,
@@ -6492,7 +6618,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 14.1,
-    "word_count": 130
+    "word_count": 130,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 67219249,
@@ -6540,7 +6667,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 9.6,
-    "word_count": 191
+    "word_count": 191,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 67642825,
@@ -6582,7 +6710,8 @@ window._comments = [
     "ratio_recv": -36,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 219
+    "word_count": 219,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 67642825,
@@ -6612,7 +6741,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 1,
     "grade_level": 4.5,
-    "word_count": 6
+    "word_count": 6,
+    "category": "Uncategorized"
   },
   {
     "post_id": 67297001,
@@ -6676,7 +6806,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 168
+    "word_count": 168,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 68190824,
@@ -6718,7 +6849,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -15,
     "grade_level": 10.9,
-    "word_count": 131
+    "word_count": 131,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 68903073,
@@ -6764,7 +6896,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -4,
     "grade_level": 7.3,
-    "word_count": 230
+    "word_count": 230,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 68903073,
@@ -6800,7 +6933,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -2,
     "grade_level": 12.8,
-    "word_count": 150
+    "word_count": 150,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 69004628,
@@ -6842,7 +6976,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": -46,
     "grade_level": 13.0,
-    "word_count": 199
+    "word_count": 199,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 69004628,
@@ -6890,7 +7025,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -13,
     "grade_level": 11.3,
-    "word_count": 307
+    "word_count": 307,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 69004628,
@@ -6926,7 +7062,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -8,
     "grade_level": 7.0,
-    "word_count": 86
+    "word_count": 86,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 69515164,
@@ -7038,7 +7175,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 427
+    "word_count": 427,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 69515164,
@@ -7068,7 +7206,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 13.8,
-    "word_count": 72
+    "word_count": 72,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 69515164,
@@ -7110,7 +7249,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 4,
     "grade_level": 12.8,
-    "word_count": 122
+    "word_count": 122,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 69515164,
@@ -7152,7 +7292,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 12.5,
-    "word_count": 185
+    "word_count": 185,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 69956089,
@@ -7194,7 +7335,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 4,
     "grade_level": 9.0,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 69956089,
@@ -7248,7 +7390,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 13.4,
-    "word_count": 297
+    "word_count": 297,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 69956089,
@@ -7290,7 +7433,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": -1,
     "grade_level": 9.9,
-    "word_count": 120
+    "word_count": 120,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 69956089,
@@ -7354,7 +7498,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 9.1,
-    "word_count": 268
+    "word_count": 268,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 69956089,
@@ -7396,7 +7541,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 5,
     "grade_level": 12.3,
-    "word_count": 138
+    "word_count": 138,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 70000534,
@@ -7432,7 +7578,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -1,
     "grade_level": 11.8,
-    "word_count": 94
+    "word_count": 94,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 70000534,
@@ -7474,7 +7621,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -4,
     "grade_level": 12.3,
-    "word_count": 80
+    "word_count": 80,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 70000534,
@@ -7526,7 +7674,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -1,
     "grade_level": 9.5,
-    "word_count": 79
+    "word_count": 79,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 70330779,
@@ -7574,7 +7723,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 187
+    "word_count": 187,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 70330779,
@@ -7623,7 +7773,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 180
+    "word_count": 180,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 70330779,
@@ -7653,7 +7804,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.8,
-    "word_count": 58
+    "word_count": 58,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 70330779,
@@ -7683,7 +7835,8 @@ window._comments = [
     "ratio_recv": 10,
     "ratio_give": -17,
     "grade_level": 9.6,
-    "word_count": 76
+    "word_count": 76,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 70330779,
@@ -7719,7 +7872,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 6,
     "grade_level": 12.0,
-    "word_count": 77
+    "word_count": 77,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 70330779,
@@ -7755,7 +7909,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -4,
     "grade_level": 7.4,
-    "word_count": 83
+    "word_count": 83,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 69431698,
@@ -7797,7 +7952,8 @@ window._comments = [
     "ratio_recv": -44,
     "ratio_give": null,
     "grade_level": 14.2,
-    "word_count": 153
+    "word_count": 153,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 70469724,
@@ -7837,7 +7993,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 2,
     "grade_level": 8.6,
-    "word_count": 50
+    "word_count": 50,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 70608891,
@@ -7913,7 +8070,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 15.1,
-    "word_count": 267
+    "word_count": 267,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 70864744,
@@ -7971,7 +8129,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 216
+    "word_count": 216,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 70864744,
@@ -8018,7 +8177,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": 9,
     "grade_level": 13.4,
-    "word_count": 87
+    "word_count": 87,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 71584256,
@@ -8064,7 +8224,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": 18,
     "grade_level": 11.5,
-    "word_count": 268
+    "word_count": 268,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 71786926,
@@ -8106,7 +8267,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 196
+    "word_count": 196,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 71786926,
@@ -8148,7 +8310,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 233
+    "word_count": 233,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 72273018,
@@ -8194,7 +8357,8 @@ window._comments = [
     "ratio_recv": -26,
     "ratio_give": null,
     "grade_level": 13.3,
-    "word_count": 99
+    "word_count": 99,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 72273018,
@@ -8296,7 +8460,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 284
+    "word_count": 284,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 73006846,
@@ -8344,7 +8509,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 286
+    "word_count": 286,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 73006846,
@@ -8398,7 +8564,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 9.7,
-    "word_count": 197
+    "word_count": 197,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 73006846,
@@ -8440,7 +8607,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -19,
     "grade_level": 9.6,
-    "word_count": 191
+    "word_count": 191,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 73006846,
@@ -8482,7 +8650,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 8.4,
-    "word_count": 173
+    "word_count": 173,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 73006846,
@@ -8512,7 +8681,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -4,
     "grade_level": 10.3,
-    "word_count": 54
+    "word_count": 54,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 73254041,
@@ -8586,7 +8756,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 10.8,
-    "word_count": 359
+    "word_count": 359,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 72553392,
@@ -8649,7 +8820,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 13.8,
-    "word_count": 229
+    "word_count": 229,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 73210423,
@@ -8695,7 +8867,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 131
+    "word_count": 131,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 73638721,
@@ -8775,7 +8948,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 268
+    "word_count": 268,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 75632816,
@@ -8823,7 +8997,8 @@ window._comments = [
     "ratio_recv": 11,
     "ratio_give": null,
     "grade_level": 7.8,
-    "word_count": 194
+    "word_count": 194,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 75632816,
@@ -8871,7 +9046,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -1,
     "grade_level": 12.9,
-    "word_count": 236
+    "word_count": 236,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 75632816,
@@ -8913,7 +9089,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 11,
     "grade_level": 9.1,
-    "word_count": 89
+    "word_count": 89,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 75632816,
@@ -8961,7 +9138,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 11.2,
-    "word_count": 206
+    "word_count": 206,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 77442230,
@@ -9013,7 +9191,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.3,
-    "word_count": 231
+    "word_count": 231,
+    "category": "Uncategorized"
   },
   {
     "post_id": 78751941,
@@ -9061,7 +9240,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 11.8,
-    "word_count": 240
+    "word_count": 240,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 79072865,
@@ -9153,7 +9333,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 11.2,
-    "word_count": 202
+    "word_count": 202,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 79379632,
@@ -9217,7 +9398,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 8.1,
-    "word_count": 169
+    "word_count": 169,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 80475018,
@@ -9287,7 +9469,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 278
+    "word_count": 278,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 80475018,
@@ -9339,7 +9522,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 10.8,
-    "word_count": 196
+    "word_count": 196,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 81670675,
@@ -9415,7 +9599,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": null,
     "grade_level": 9.3,
-    "word_count": 388
+    "word_count": 388,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81670675,
@@ -9463,7 +9648,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 290
+    "word_count": 290,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81065545,
@@ -9493,7 +9679,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 4.4,
-    "word_count": 18
+    "word_count": 18,
+    "category": "Uncategorized"
   },
   {
     "post_id": 81065545,
@@ -9547,7 +9734,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -6,
     "grade_level": 12.5,
-    "word_count": 236
+    "word_count": 236,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 81065545,
@@ -9577,7 +9765,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 12.4,
-    "word_count": 53
+    "word_count": 53,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 81292136,
@@ -9653,7 +9842,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 9.3,
-    "word_count": 388
+    "word_count": 388,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81292136,
@@ -9699,7 +9889,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 128
+    "word_count": 128,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81292136,
@@ -9771,7 +9962,8 @@ window._comments = [
     "ratio_recv": -77,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 433
+    "word_count": 433,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 81292136,
@@ -9819,7 +10011,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 291
+    "word_count": 291,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81292136,
@@ -9861,7 +10054,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 7.7,
-    "word_count": 129
+    "word_count": 129,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 81292136,
@@ -9909,7 +10103,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 10.2,
-    "word_count": 270
+    "word_count": 270,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 81292136,
@@ -9939,7 +10134,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 13.4,
-    "word_count": 46
+    "word_count": 46,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 81292136,
@@ -9969,7 +10165,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 0,
     "grade_level": 5.9,
-    "word_count": 51
+    "word_count": 51,
+    "category": "Uncategorized"
   },
   {
     "post_id": 81372927,
@@ -10033,7 +10230,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": null,
     "grade_level": 10.6,
-    "word_count": 150
+    "word_count": 150,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 81372927,
@@ -10081,7 +10279,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -4,
     "grade_level": 8.9,
-    "word_count": 174
+    "word_count": 174,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81372927,
@@ -10111,7 +10310,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -1,
     "grade_level": 5.9,
-    "word_count": 48
+    "word_count": 48,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81247288,
@@ -10187,7 +10387,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 220
+    "word_count": 220,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 81750627,
@@ -10241,7 +10442,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.5,
-    "word_count": 248
+    "word_count": 248,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10277,7 +10479,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 4,
     "grade_level": 7.7,
-    "word_count": 43
+    "word_count": 43,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10353,7 +10556,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 6,
     "grade_level": 9.5,
-    "word_count": 208
+    "word_count": 208,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 81750627,
@@ -10389,7 +10593,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -3,
     "grade_level": 13.1,
-    "word_count": 96
+    "word_count": 96,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10431,7 +10636,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 0,
     "grade_level": 8.7,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10467,7 +10673,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 3,
     "grade_level": 11.9,
-    "word_count": 126
+    "word_count": 126,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10503,7 +10710,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 13.3,
-    "word_count": 86
+    "word_count": 86,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 81750627,
@@ -10539,7 +10747,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 9.9,
-    "word_count": 42
+    "word_count": 42,
+    "category": "Uncategorized"
   },
   {
     "post_id": 82102641,
@@ -10625,7 +10834,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 9.8,
-    "word_count": 286
+    "word_count": 286,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 82320227,
@@ -10683,7 +10893,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -8,
     "grade_level": 12.9,
-    "word_count": 494
+    "word_count": 494,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 82320227,
@@ -10735,7 +10946,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -2,
     "grade_level": 9.1,
-    "word_count": 287
+    "word_count": 287,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 82923971,
@@ -10771,7 +10983,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 5.7,
-    "word_count": 61
+    "word_count": 61,
+    "category": "Uncategorized"
   },
   {
     "post_id": 83218989,
@@ -10807,7 +11020,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": null,
     "grade_level": 13.0,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 83218989,
@@ -10849,7 +11063,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 13.4,
-    "word_count": 161
+    "word_count": 161,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 83218989,
@@ -10897,7 +11112,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 248
+    "word_count": 248,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 83218989,
@@ -10993,7 +11209,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 13.5,
-    "word_count": 446
+    "word_count": 446,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 83218989,
@@ -11045,7 +11262,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -4,
     "grade_level": 11.5,
-    "word_count": 338
+    "word_count": 338,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 83218989,
@@ -11093,7 +11311,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -10,
     "grade_level": 9.6,
-    "word_count": 153
+    "word_count": 153,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 83534788,
@@ -11159,7 +11378,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 9.1,
-    "word_count": 160
+    "word_count": 160,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 78234449,
@@ -11225,7 +11445,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 121
+    "word_count": 121,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 83535266,
@@ -11309,7 +11530,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 16.3,
-    "word_count": 242
+    "word_count": 242,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 83535266,
@@ -11361,7 +11583,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -7,
     "grade_level": 14.2,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 83535266,
@@ -11425,7 +11648,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -3,
     "grade_level": 16.2,
-    "word_count": 99
+    "word_count": 99,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 83900508,
@@ -11477,7 +11701,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": null,
     "grade_level": 10.1,
-    "word_count": 157
+    "word_count": 157,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 83900508,
@@ -11535,7 +11760,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": 1,
     "grade_level": 7.2,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 83900508,
@@ -11603,7 +11829,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 271
+    "word_count": 271,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 83900508,
@@ -11640,7 +11867,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 4.8,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 84371323,
@@ -11682,7 +11910,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 9.8,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 84371323,
@@ -11718,7 +11947,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 84489473,
@@ -11792,7 +12022,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": null,
     "grade_level": 13.0,
-    "word_count": 249
+    "word_count": 249,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 84489473,
@@ -11838,7 +12069,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 8.3,
-    "word_count": 95
+    "word_count": 95,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 84489473,
@@ -11886,7 +12118,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 14,
     "grade_level": 8.1,
-    "word_count": 184
+    "word_count": 184,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 84489473,
@@ -11932,7 +12165,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 8.3,
-    "word_count": 102
+    "word_count": 102,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 84489473,
@@ -11980,7 +12214,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 1,
     "grade_level": 10.3,
-    "word_count": 188
+    "word_count": 188,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 84489473,
@@ -12052,7 +12287,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -31,
     "grade_level": 11.2,
-    "word_count": 163
+    "word_count": 163,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 84489473,
@@ -12118,7 +12354,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -23,
     "grade_level": 8.9,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 84489473,
@@ -12156,7 +12393,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -9,
     "grade_level": 9.2,
-    "word_count": 9
+    "word_count": 9,
+    "category": "Uncategorized"
   },
   {
     "post_id": 84695778,
@@ -12230,7 +12468,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 294
+    "word_count": 294,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 84695778,
@@ -12276,7 +12515,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 10.7,
-    "word_count": 132
+    "word_count": 132,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 85218122,
@@ -12380,7 +12620,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 10.8,
-    "word_count": 307
+    "word_count": 307,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 85218122,
@@ -12444,7 +12685,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -14,
     "grade_level": 12.3,
-    "word_count": 299
+    "word_count": 299,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 85962904,
@@ -12474,7 +12716,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 3.1,
-    "word_count": 23
+    "word_count": 23,
+    "category": "Uncategorized"
   },
   {
     "post_id": 87168487,
@@ -12522,7 +12765,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 281
+    "word_count": 281,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 86347660,
@@ -12570,7 +12814,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 10.6,
-    "word_count": 173
+    "word_count": 173,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 86347660,
@@ -12758,7 +13003,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": -5,
     "grade_level": 10.6,
-    "word_count": 501
+    "word_count": 501,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 85966745,
@@ -12800,7 +13046,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -17,
     "grade_level": 8.9,
-    "word_count": 87
+    "word_count": 87,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 87219657,
@@ -12854,7 +13101,8 @@ window._comments = [
     "ratio_recv": -34,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 313
+    "word_count": 313,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 87219657,
@@ -12918,7 +13166,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 11.3,
-    "word_count": 228
+    "word_count": 228,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 87219657,
@@ -12984,7 +13233,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 1,
     "grade_level": 11.4,
-    "word_count": 214
+    "word_count": 214,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 87219657,
@@ -13014,7 +13264,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 5,
     "grade_level": 9.5,
-    "word_count": 48
+    "word_count": 48,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 87219657,
@@ -13050,7 +13301,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 7,
     "grade_level": 7.4,
-    "word_count": 50
+    "word_count": 50,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 87219657,
@@ -13092,7 +13344,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 11.1,
-    "word_count": 201
+    "word_count": 201,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 86845811,
@@ -13162,7 +13415,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 10.2,
-    "word_count": 194
+    "word_count": 194,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 86845811,
@@ -13198,7 +13452,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -16,
     "grade_level": 8.1,
-    "word_count": 61
+    "word_count": 61,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 85966745,
@@ -13228,7 +13483,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 86783389,
@@ -13294,7 +13550,8 @@ window._comments = [
     "ratio_recv": -31,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 399
+    "word_count": 399,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 87551177,
@@ -13348,7 +13605,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 284
+    "word_count": 284,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 87551177,
@@ -13414,7 +13672,8 @@ window._comments = [
     "ratio_recv": -37,
     "ratio_give": null,
     "grade_level": 9.0,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 87551177,
@@ -13472,7 +13731,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 0,
     "grade_level": 9.3,
-    "word_count": 204
+    "word_count": 204,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 87551177,
@@ -13502,7 +13762,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 11,
     "grade_level": 6.2,
-    "word_count": 21
+    "word_count": 21,
+    "category": "Uncategorized"
   },
   {
     "post_id": 87359583,
@@ -13562,7 +13823,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -1,
     "grade_level": 10.4,
-    "word_count": 332
+    "word_count": 332,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 87359583,
@@ -13614,7 +13876,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 14.6,
-    "word_count": 181
+    "word_count": 181,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 87852296,
@@ -13650,7 +13913,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 0,
     "grade_level": 9.9,
-    "word_count": 136
+    "word_count": 136,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 87852296,
@@ -13680,7 +13944,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -22,
     "grade_level": 9.2,
-    "word_count": 55
+    "word_count": 55,
+    "category": "Uncategorized"
   },
   {
     "post_id": 87852296,
@@ -13710,7 +13975,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 11.1,
-    "word_count": 60
+    "word_count": 60,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 87359583,
@@ -13756,7 +14022,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 7.7,
-    "word_count": 87
+    "word_count": 87,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 87359583,
@@ -13812,7 +14079,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 1,
     "grade_level": 9.3,
-    "word_count": 222
+    "word_count": 222,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 87359583,
@@ -13842,7 +14110,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 3.6,
-    "word_count": 16
+    "word_count": 16,
+    "category": "Uncategorized"
   },
   {
     "post_id": 87749070,
@@ -13890,7 +14159,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.6,
-    "word_count": 141
+    "word_count": 141,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 87749070,
@@ -13938,7 +14208,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 14.0,
-    "word_count": 387
+    "word_count": 387,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 87749070,
@@ -13984,7 +14255,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": -5,
     "grade_level": 9.9,
-    "word_count": 102
+    "word_count": 102,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 87749070,
@@ -14026,7 +14298,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 8,
     "grade_level": 10.7,
-    "word_count": 170
+    "word_count": 170,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 87749070,
@@ -14074,7 +14347,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 6.8,
-    "word_count": 193
+    "word_count": 193,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 87749070,
@@ -14110,7 +14384,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": 16,
     "grade_level": 11.7,
-    "word_count": 123
+    "word_count": 123,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 87749070,
@@ -14156,7 +14431,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 3,
     "grade_level": 11.1,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 87749070,
@@ -14190,7 +14466,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 18.1,
-    "word_count": 35
+    "word_count": 35,
+    "category": "Uncategorized"
   },
   {
     "post_id": 87749070,
@@ -14226,7 +14503,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 10.4,
-    "word_count": 92
+    "word_count": 92,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 87457071,
@@ -14306,7 +14584,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 203
+    "word_count": 203,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 87457071,
@@ -14336,7 +14615,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 4.0,
-    "word_count": 14
+    "word_count": 14,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88097777,
@@ -14372,7 +14652,8 @@ window._comments = [
     "ratio_recv": -84,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 108
+    "word_count": 108,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88097777,
@@ -14414,7 +14695,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 132
+    "word_count": 132,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88097777,
@@ -14460,7 +14742,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 2,
     "grade_level": 13.4,
-    "word_count": 137
+    "word_count": 137,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88097777,
@@ -14508,7 +14791,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 6,
     "grade_level": 10.9,
-    "word_count": 216
+    "word_count": 216,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88070789,
@@ -14538,7 +14822,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 11.1,
-    "word_count": 34
+    "word_count": 34,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88070789,
@@ -14618,7 +14903,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 11.0,
-    "word_count": 375
+    "word_count": 375,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 88219618,
@@ -14654,7 +14940,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 6.9,
-    "word_count": 76
+    "word_count": 76,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 88219618,
@@ -14702,7 +14989,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 244
+    "word_count": 244,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88219618,
@@ -14769,7 +15057,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 13.4,
-    "word_count": 203
+    "word_count": 203,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 86070726,
@@ -14799,7 +15088,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 6.4,
-    "word_count": 22
+    "word_count": 22,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88071358,
@@ -14829,7 +15119,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -8,
     "grade_level": 6.0,
-    "word_count": 7
+    "word_count": 7,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88579100,
@@ -14865,7 +15156,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.0,
-    "word_count": 75
+    "word_count": 75,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 88579100,
@@ -14945,7 +15237,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 325
+    "word_count": 325,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 88579100,
@@ -15019,7 +15312,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 11.7,
-    "word_count": 345
+    "word_count": 345,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 88579100,
@@ -15073,7 +15367,8 @@ window._comments = [
     "ratio_recv": -39,
     "ratio_give": null,
     "grade_level": 9.9,
-    "word_count": 278
+    "word_count": 278,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 88579100,
@@ -15109,7 +15404,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -2,
     "grade_level": 9.9,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 88579100,
@@ -15151,7 +15447,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 8.4,
-    "word_count": 224
+    "word_count": 224,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 88859649,
@@ -15221,7 +15518,8 @@ window._comments = [
     "ratio_recv": -46,
     "ratio_give": null,
     "grade_level": 8.1,
-    "word_count": 138
+    "word_count": 138,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 88859649,
@@ -15251,7 +15549,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 0,
     "grade_level": 7.6,
-    "word_count": 11
+    "word_count": 11,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88072201,
@@ -15299,7 +15598,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 8.4,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 89196577,
@@ -15385,7 +15685,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": null,
     "grade_level": 12.2,
-    "word_count": 436
+    "word_count": 436,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89196577,
@@ -15449,7 +15750,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 10.0,
-    "word_count": 260
+    "word_count": 260,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 89196577,
@@ -15485,7 +15787,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 0,
     "grade_level": 12.1,
-    "word_count": 83
+    "word_count": 83,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 89196577,
@@ -15521,7 +15824,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 10,
     "grade_level": 9.6,
-    "word_count": 81
+    "word_count": 81,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 89196577,
@@ -15551,7 +15855,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": -6,
     "grade_level": 6.4,
-    "word_count": 22
+    "word_count": 22,
+    "category": "Uncategorized"
   },
   {
     "post_id": 89196577,
@@ -15581,7 +15886,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -4,
     "grade_level": 8.1,
-    "word_count": 55
+    "word_count": 55,
+    "category": "Uncategorized"
   },
   {
     "post_id": 89196577,
@@ -15611,7 +15917,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 11.5,
-    "word_count": 45
+    "word_count": 45,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 89196577,
@@ -15669,7 +15976,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 2,
     "grade_level": 15.2,
-    "word_count": 137
+    "word_count": 137,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89196577,
@@ -15729,7 +16037,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 10.2,
-    "word_count": 285
+    "word_count": 285,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89196577,
@@ -15759,7 +16068,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 11.1,
-    "word_count": 68
+    "word_count": 68,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89196577,
@@ -15847,7 +16157,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": -5,
     "grade_level": 12.4,
-    "word_count": 378
+    "word_count": 378,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89196577,
@@ -15883,7 +16194,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 9.7,
-    "word_count": 94
+    "word_count": 94,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 89412470,
@@ -15943,7 +16255,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 12.2,
-    "word_count": 375
+    "word_count": 375,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89412470,
@@ -15997,7 +16310,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 256
+    "word_count": 256,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89412470,
@@ -16027,7 +16341,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -2,
     "grade_level": 10.0,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89412470,
@@ -16105,7 +16420,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": -2,
     "grade_level": 9.2,
-    "word_count": 347
+    "word_count": 347,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89412470,
@@ -16147,7 +16463,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 1,
     "grade_level": 6.9,
-    "word_count": 98
+    "word_count": 98,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 89412470,
@@ -16189,7 +16506,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -7,
     "grade_level": 10.1,
-    "word_count": 139
+    "word_count": 139,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90017925,
@@ -16229,7 +16547,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 7.9,
-    "word_count": 35
+    "word_count": 35,
+    "category": "Uncategorized"
   },
   {
     "post_id": 89637783,
@@ -16265,7 +16584,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 97
+    "word_count": 97,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 89799685,
@@ -16335,7 +16655,8 @@ window._comments = [
     "ratio_recv": 8,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 261
+    "word_count": 261,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 89799685,
@@ -16383,7 +16704,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 11.6,
-    "word_count": 164
+    "word_count": 164,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 89799685,
@@ -16430,7 +16752,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 8.8,
-    "word_count": 137
+    "word_count": 137,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 89799685,
@@ -16472,7 +16795,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": -14,
     "grade_level": 8.8,
-    "word_count": 140
+    "word_count": 140,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 89799685,
@@ -16530,7 +16854,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": -10,
     "grade_level": 10.8,
-    "word_count": 194
+    "word_count": 194,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 89799685,
@@ -16572,7 +16897,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 4,
     "grade_level": 11.0,
-    "word_count": 185
+    "word_count": 185,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 89799685,
@@ -16602,7 +16928,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 3,
     "grade_level": 11.3,
-    "word_count": 35
+    "word_count": 35,
+    "category": "Uncategorized"
   },
   {
     "post_id": 89799685,
@@ -16632,7 +16959,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 5,
     "grade_level": 15.4,
-    "word_count": 25
+    "word_count": 25,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90018342,
@@ -16704,7 +17032,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 254
+    "word_count": 254,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 89799685,
@@ -16758,7 +17087,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 0,
     "grade_level": 8.0,
-    "word_count": 274
+    "word_count": 274,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90018342,
@@ -16816,7 +17146,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 10.0,
-    "word_count": 182
+    "word_count": 182,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90018342,
@@ -16846,7 +17177,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 6,
     "grade_level": 6.6,
-    "word_count": 58
+    "word_count": 58,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 90018342,
@@ -16888,7 +17220,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 11.5,
-    "word_count": 145
+    "word_count": 145,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 90417774,
@@ -16946,7 +17279,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 12.2,
-    "word_count": 169
+    "word_count": 169,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17018,7 +17352,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -7,
     "grade_level": 10.3,
-    "word_count": 217
+    "word_count": 217,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17088,7 +17423,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 11.4,
-    "word_count": 250
+    "word_count": 250,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17124,7 +17460,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 11.2,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17174,7 +17511,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -5,
     "grade_level": 10.0,
-    "word_count": 86
+    "word_count": 86,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17233,7 +17571,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 141
+    "word_count": 141,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17269,7 +17608,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 10.1,
-    "word_count": 87
+    "word_count": 87,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 90417774,
@@ -17341,7 +17681,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 9.7,
-    "word_count": 200
+    "word_count": 200,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 89799685,
@@ -17409,7 +17750,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 9.4,
-    "word_count": 219
+    "word_count": 219,
+    "category": "Uncategorized"
   },
   {
     "post_id": 89799685,
@@ -17479,7 +17821,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 9.2,
-    "word_count": 227
+    "word_count": 227,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90417774,
@@ -17527,7 +17870,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -8,
     "grade_level": 11.4,
-    "word_count": 235
+    "word_count": 235,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 90613026,
@@ -17607,7 +17951,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 205
+    "word_count": 205,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 90613026,
@@ -17655,7 +18000,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 9.0,
-    "word_count": 176
+    "word_count": 176,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 90613026,
@@ -17703,7 +18049,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 243
+    "word_count": 243,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 90613026,
@@ -17755,7 +18102,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 6.8,
-    "word_count": 60
+    "word_count": 60,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 90613026,
@@ -17791,7 +18139,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -16,
     "grade_level": 8.5,
-    "word_count": 65
+    "word_count": 65,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 90613026,
@@ -17827,7 +18176,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 11,
     "grade_level": 12.4,
-    "word_count": 61
+    "word_count": 61,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 90613026,
@@ -17885,7 +18235,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 6,
     "grade_level": 11.8,
-    "word_count": 190
+    "word_count": 190,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 90613026,
@@ -17921,7 +18272,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 9.4,
-    "word_count": 110
+    "word_count": 110,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 90613026,
@@ -17977,7 +18329,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -13,
     "grade_level": 9.1,
-    "word_count": 63
+    "word_count": 63,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 90873639,
@@ -18035,7 +18388,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": null,
     "grade_level": 10.2,
-    "word_count": 230
+    "word_count": 230,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 90873639,
@@ -18127,7 +18481,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 0,
     "grade_level": 13.7,
-    "word_count": 452
+    "word_count": 452,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 90873639,
@@ -18179,7 +18534,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 7,
     "grade_level": 9.6,
-    "word_count": 71
+    "word_count": 71,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 90873639,
@@ -18221,7 +18577,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 9.9,
-    "word_count": 85
+    "word_count": 85,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 90873639,
@@ -18251,7 +18608,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 19.7,
-    "word_count": 84
+    "word_count": 84,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90873639,
@@ -18281,7 +18639,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 14.2,
-    "word_count": 75
+    "word_count": 75,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90872624,
@@ -18347,7 +18706,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 121
+    "word_count": 121,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 90872624,
@@ -18377,7 +18737,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 5.6,
-    "word_count": 24
+    "word_count": 24,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90873639,
@@ -18431,7 +18792,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.1,
-    "word_count": 164
+    "word_count": 164,
+    "category": "Uncategorized"
   },
   {
     "post_id": 88818373,
@@ -18517,7 +18879,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 13.8,
-    "word_count": 273
+    "word_count": 273,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 88818373,
@@ -18577,7 +18940,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 9.8,
-    "word_count": 352
+    "word_count": 352,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 88818373,
@@ -18619,7 +18983,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": -15,
     "grade_level": 12.8,
-    "word_count": 149
+    "word_count": 149,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 91424801,
@@ -18691,7 +19056,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.8,
-    "word_count": 326
+    "word_count": 326,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 91424801,
@@ -18727,7 +19093,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -2,
     "grade_level": 11.0,
-    "word_count": 117
+    "word_count": 117,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 90873268,
@@ -18781,7 +19148,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 14.0,
-    "word_count": 520
+    "word_count": 520,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 90873268,
@@ -18815,7 +19183,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -5,
     "grade_level": 14.6,
-    "word_count": 29
+    "word_count": 29,
+    "category": "Uncategorized"
   },
   {
     "post_id": 90873268,
@@ -18855,7 +19224,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 6.2,
-    "word_count": 21
+    "word_count": 21,
+    "category": "Uncategorized"
   },
   {
     "post_id": 91985864,
@@ -19009,7 +19379,8 @@ window._comments = [
     "ratio_recv": 10,
     "ratio_give": 14,
     "grade_level": 5.6,
-    "word_count": 124
+    "word_count": 124,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 93095527,
@@ -19079,7 +19450,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 236
+    "word_count": 236,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 93095527,
@@ -19115,7 +19487,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": null,
     "grade_level": 9.3,
-    "word_count": 75
+    "word_count": 75,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 92998341,
@@ -19197,7 +19570,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 11.2,
-    "word_count": 627
+    "word_count": 627,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 93547723,
@@ -19249,7 +19623,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 374
+    "word_count": 374,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 93896906,
@@ -19299,7 +19674,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 2,
     "grade_level": 13.0,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 92903238,
@@ -19353,7 +19729,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 288
+    "word_count": 288,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 92903238,
@@ -19411,7 +19788,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 248
+    "word_count": 248,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 92903238,
@@ -19453,7 +19831,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 10.1,
-    "word_count": 105
+    "word_count": 105,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 92903238,
@@ -19509,7 +19888,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 8.7,
-    "word_count": 221
+    "word_count": 221,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 93897135,
@@ -19627,7 +20007,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": null,
     "grade_level": 5.4,
-    "word_count": 126
+    "word_count": 126,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 93897135,
@@ -19743,7 +20124,8 @@ window._comments = [
     "ratio_recv": -17,
     "ratio_give": 7,
     "grade_level": 7.9,
-    "word_count": 106
+    "word_count": 106,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 93897135,
@@ -19801,7 +20183,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": 0,
     "grade_level": 11.7,
-    "word_count": 221
+    "word_count": 221,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 93897135,
@@ -19853,7 +20236,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -10,
     "grade_level": 8.5,
-    "word_count": 121
+    "word_count": 121,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 93897135,
@@ -19887,7 +20271,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 0,
     "grade_level": -3.1,
-    "word_count": 2
+    "word_count": 2,
+    "category": "Uncategorized"
   },
   {
     "post_id": 93897135,
@@ -19917,7 +20302,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 4,
     "grade_level": 7.2,
-    "word_count": 19
+    "word_count": 19,
+    "category": "Uncategorized"
   },
   {
     "post_id": 93897135,
@@ -19947,7 +20333,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 10.7,
-    "word_count": 19
+    "word_count": 19,
+    "category": "Uncategorized"
   },
   {
     "post_id": 93897135,
@@ -19987,7 +20374,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 9.0,
-    "word_count": 73
+    "word_count": 73,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 94620281,
@@ -20035,7 +20423,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 3,
     "grade_level": 10.3,
-    "word_count": 235
+    "word_count": 235,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 94620281,
@@ -20071,7 +20460,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 8.2,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 94305150,
@@ -20131,7 +20521,8 @@ window._comments = [
     "ratio_recv": -36,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 337
+    "word_count": 337,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 94305150,
@@ -20225,7 +20616,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -7,
     "grade_level": 10.8,
-    "word_count": 250
+    "word_count": 250,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 94530532,
@@ -20313,7 +20705,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 9.5,
-    "word_count": 363
+    "word_count": 363,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 94530532,
@@ -20367,7 +20760,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 9.6,
-    "word_count": 245
+    "word_count": 245,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 94483917,
@@ -20421,7 +20815,8 @@ window._comments = [
     "ratio_recv": -17,
     "ratio_give": null,
     "grade_level": 13.9,
-    "word_count": 194
+    "word_count": 194,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 94483917,
@@ -20467,7 +20862,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -6,
     "grade_level": 12.5,
-    "word_count": 140
+    "word_count": 140,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 94483917,
@@ -20537,7 +20933,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 12.4,
-    "word_count": 584
+    "word_count": 584,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 94483917,
@@ -20585,7 +20982,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 0,
     "grade_level": 12.3,
-    "word_count": 180
+    "word_count": 180,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 95329035,
@@ -20637,7 +21035,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 11.0,
-    "word_count": 137
+    "word_count": 137,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 95523951,
@@ -20713,7 +21112,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": null,
     "grade_level": 13.9,
-    "word_count": 265
+    "word_count": 265,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 95523951,
@@ -20743,7 +21143,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 7,
     "grade_level": 11.5,
-    "word_count": 24
+    "word_count": 24,
+    "category": "Uncategorized"
   },
   {
     "post_id": 95523951,
@@ -20801,7 +21202,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 231
+    "word_count": 231,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 95523951,
@@ -20859,7 +21261,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 11.3,
-    "word_count": 160
+    "word_count": 160,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 95558932,
@@ -20927,7 +21330,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.9,
-    "word_count": 294
+    "word_count": 294,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 95838542,
@@ -20985,7 +21389,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.3,
-    "word_count": 300
+    "word_count": 300,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 95838542,
@@ -21043,7 +21448,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 9.7,
-    "word_count": 180
+    "word_count": 180,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 95838542,
@@ -21101,7 +21507,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -25,
     "grade_level": 13.0,
-    "word_count": 149
+    "word_count": 149,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 95838542,
@@ -21149,7 +21556,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": -4,
     "grade_level": 9.1,
-    "word_count": 163
+    "word_count": 163,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 95838542,
@@ -21179,7 +21587,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 8.2,
-    "word_count": 62
+    "word_count": 62,
+    "category": "Uncategorized"
   },
   {
     "post_id": 95838542,
@@ -21227,7 +21636,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 14.0,
-    "word_count": 147
+    "word_count": 147,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 95908052,
@@ -21285,7 +21695,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 187
+    "word_count": 187,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 95908052,
@@ -21337,7 +21748,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 2,
     "grade_level": 7.4,
-    "word_count": 254
+    "word_count": 254,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 96085279,
@@ -21383,7 +21795,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 96085279,
@@ -21441,7 +21854,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": -24,
     "grade_level": 11.5,
-    "word_count": 232
+    "word_count": 232,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 96085279,
@@ -21507,7 +21921,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 10.9,
-    "word_count": 275
+    "word_count": 275,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 96085279,
@@ -21537,7 +21952,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -6,
     "grade_level": 7.6,
-    "word_count": 14
+    "word_count": 14,
+    "category": "Uncategorized"
   },
   {
     "post_id": 96085279,
@@ -21585,7 +22001,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": 17,
     "grade_level": 8.9,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 96085279,
@@ -21639,7 +22056,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 10.4,
-    "word_count": 191
+    "word_count": 191,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 96085279,
@@ -21669,7 +22087,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -2,
     "grade_level": 8.9,
-    "word_count": 34
+    "word_count": 34,
+    "category": "Uncategorized"
   },
   {
     "post_id": 95908501,
@@ -21769,7 +22188,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 10.5,
-    "word_count": 301
+    "word_count": 301,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 95909164,
@@ -21821,7 +22241,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 7.8,
-    "word_count": 88
+    "word_count": 88,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 95825718,
@@ -21863,7 +22284,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 106
+    "word_count": 106,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 95081668,
@@ -21899,7 +22321,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 11.2,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 97471398,
@@ -21947,7 +22370,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 11.2,
-    "word_count": 182
+    "word_count": 182,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 97471398,
@@ -22003,7 +22427,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -8,
     "grade_level": 17.2,
-    "word_count": 233
+    "word_count": 233,
+    "category": "Uncategorized"
   },
   {
     "post_id": 98334107,
@@ -22045,7 +22470,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 8.7,
-    "word_count": 138
+    "word_count": 138,
+    "category": "Uncategorized"
   },
   {
     "post_id": 98334107,
@@ -22107,7 +22533,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 11.0,
-    "word_count": 276
+    "word_count": 276,
+    "category": "Uncategorized"
   },
   {
     "post_id": 97776248,
@@ -22155,7 +22582,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 204
+    "word_count": 204,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 97693814,
@@ -22209,7 +22637,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": null,
     "grade_level": 15.6,
-    "word_count": 281
+    "word_count": 281,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 97693814,
@@ -22261,7 +22690,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -2,
     "grade_level": 17.4,
-    "word_count": 121
+    "word_count": 121,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 97693814,
@@ -22297,7 +22727,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 172
+    "word_count": 172,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 97693814,
@@ -22327,7 +22758,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -10,
     "grade_level": 11.4,
-    "word_count": 53
+    "word_count": 53,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 98178607,
@@ -22367,7 +22799,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 97902560,
@@ -22409,7 +22842,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -9,
     "grade_level": 12.6,
-    "word_count": 162
+    "word_count": 162,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 97886423,
@@ -22485,7 +22919,8 @@ window._comments = [
     "ratio_recv": -50,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 370
+    "word_count": 370,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 98492911,
@@ -22543,7 +22978,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.4,
-    "word_count": 290
+    "word_count": 290,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 99102422,
@@ -22611,7 +23047,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 241
+    "word_count": 241,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 99102422,
@@ -22677,7 +23114,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": null,
     "grade_level": 11.7,
-    "word_count": 467
+    "word_count": 467,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99102422,
@@ -22725,7 +23163,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": 1,
     "grade_level": 11.0,
-    "word_count": 217
+    "word_count": 217,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 99102422,
@@ -22799,7 +23238,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 14.4,
-    "word_count": 306
+    "word_count": 306,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 99102422,
@@ -22867,7 +23307,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -19,
     "grade_level": 8.1,
-    "word_count": 221
+    "word_count": 221,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99298471,
@@ -22931,7 +23372,8 @@ window._comments = [
     "ratio_recv": 15,
     "ratio_give": null,
     "grade_level": 15.4,
-    "word_count": 200
+    "word_count": 200,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 99298471,
@@ -23011,7 +23453,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 12.3,
-    "word_count": 348
+    "word_count": 348,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 99270290,
@@ -23059,7 +23502,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 12.4,
-    "word_count": 234
+    "word_count": 234,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 100006765,
@@ -23111,7 +23555,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 10,
     "grade_level": 7.0,
-    "word_count": 88
+    "word_count": 88,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 100006765,
@@ -23153,7 +23598,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 229
+    "word_count": 229,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 100006765,
@@ -23189,7 +23635,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": -14,
     "grade_level": 7.7,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 99224938,
@@ -23255,7 +23702,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 21.8,
-    "word_count": 115
+    "word_count": 115,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99224938,
@@ -23295,7 +23743,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 10.9,
-    "word_count": 82
+    "word_count": 82,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99938639,
@@ -23363,7 +23812,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": null,
     "grade_level": 8.1,
-    "word_count": 122
+    "word_count": 122,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99938639,
@@ -23417,7 +23867,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 9.0,
-    "word_count": 190
+    "word_count": 190,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99938639,
@@ -23471,7 +23922,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 11.0,
-    "word_count": 315
+    "word_count": 315,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 99224938,
@@ -23501,7 +23953,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": -3.5,
-    "word_count": 1
+    "word_count": 1,
+    "category": "Uncategorized"
   },
   {
     "post_id": 100878224,
@@ -23597,7 +24050,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -4,
     "grade_level": 9.9,
-    "word_count": 199
+    "word_count": 199,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 101213330,
@@ -23633,7 +24087,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -13,
     "grade_level": 11.2,
-    "word_count": 122
+    "word_count": 122,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 101399566,
@@ -23679,7 +24134,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 6.7,
-    "word_count": 74
+    "word_count": 74,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 101399566,
@@ -23719,7 +24175,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 6.7,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 101399566,
@@ -23786,7 +24243,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 4,
     "grade_level": 9.0,
-    "word_count": 177
+    "word_count": 177,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 101496493,
@@ -23856,7 +24314,8 @@ window._comments = [
     "ratio_recv": 17,
     "ratio_give": null,
     "grade_level": 15.5,
-    "word_count": 375
+    "word_count": 375,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 101496493,
@@ -23914,7 +24373,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": -13,
     "grade_level": 12.7,
-    "word_count": 325
+    "word_count": 325,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 101496493,
@@ -23972,7 +24432,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -9,
     "grade_level": 10.6,
-    "word_count": 187
+    "word_count": 187,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 101496493,
@@ -24020,7 +24481,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": -34,
     "grade_level": 9.9,
-    "word_count": 119
+    "word_count": 119,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 101496493,
@@ -24050,7 +24512,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -18,
     "grade_level": 9.1,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 102566653,
@@ -24110,7 +24573,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 13.0,
-    "word_count": 458
+    "word_count": 458,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 101843994,
@@ -24158,7 +24622,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 9.2,
-    "word_count": 163
+    "word_count": 163,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 101843994,
@@ -24274,7 +24739,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 8.8,
-    "word_count": 443
+    "word_count": 443,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 102656721,
@@ -24320,7 +24786,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 169
+    "word_count": 169,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 102656721,
@@ -24414,7 +24881,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 13.5,
-    "word_count": 488
+    "word_count": 488,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 102357504,
@@ -24484,7 +24952,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 7.4,
-    "word_count": 230
+    "word_count": 230,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 102357830,
@@ -24542,7 +25011,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.3,
-    "word_count": 122
+    "word_count": 122,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 103365512,
@@ -24584,7 +25054,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 128
+    "word_count": 128,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 103365512,
@@ -24626,7 +25097,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 12.0,
-    "word_count": 157
+    "word_count": 157,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 103365512,
@@ -24656,7 +25128,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": 36,
     "grade_level": 9.2,
-    "word_count": 36
+    "word_count": 36,
+    "category": "Uncategorized"
   },
   {
     "post_id": 103365512,
@@ -24686,7 +25159,8 @@ window._comments = [
     "ratio_recv": -54,
     "ratio_give": 89,
     "grade_level": 8.5,
-    "word_count": 49
+    "word_count": 49,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 103365512,
@@ -24716,7 +25190,8 @@ window._comments = [
     "ratio_recv": -33,
     "ratio_give": 50,
     "grade_level": 7.2,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 103365512,
@@ -24746,7 +25221,8 @@ window._comments = [
     "ratio_recv": -23,
     "ratio_give": -61,
     "grade_level": 11.4,
-    "word_count": 53
+    "word_count": 53,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 104112057,
@@ -24788,7 +25264,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": 6,
     "grade_level": 10.1,
-    "word_count": 164
+    "word_count": 164,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 104112057,
@@ -24818,7 +25295,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 6,
     "grade_level": 9.5,
-    "word_count": 48
+    "word_count": 48,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 104112057,
@@ -24848,7 +25326,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -6,
     "grade_level": 7.2,
-    "word_count": 13
+    "word_count": 13,
+    "category": "Uncategorized"
   },
   {
     "post_id": 102437209,
@@ -24878,7 +25357,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": null,
     "grade_level": 11.7,
-    "word_count": 74
+    "word_count": 74,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 104440770,
@@ -24926,7 +25406,8 @@ window._comments = [
     "ratio_recv": -26,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 223
+    "word_count": 223,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 104440770,
@@ -24974,7 +25455,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 14.1,
-    "word_count": 198
+    "word_count": 198,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 102749378,
@@ -25016,7 +25498,8 @@ window._comments = [
     "ratio_recv": -41,
     "ratio_give": null,
     "grade_level": 17.3,
-    "word_count": 180
+    "word_count": 180,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 105318311,
@@ -25056,7 +25539,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -19,
     "grade_level": 7.6,
-    "word_count": 40
+    "word_count": 40,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 105202767,
@@ -25134,7 +25618,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 11.0,
-    "word_count": 337
+    "word_count": 337,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 105098236,
@@ -25164,7 +25649,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -12,
     "grade_level": 0.9,
-    "word_count": 9
+    "word_count": 9,
+    "category": "Uncategorized"
   },
   {
     "post_id": 105631761,
@@ -25206,7 +25692,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 163
+    "word_count": 163,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 105714387,
@@ -25314,7 +25801,8 @@ window._comments = [
     "ratio_recv": -17,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 317
+    "word_count": 317,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 105714387,
@@ -25356,7 +25844,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 9,
     "grade_level": 10.3,
-    "word_count": 217
+    "word_count": 217,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 105714387,
@@ -25402,7 +25891,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 14.4,
-    "word_count": 284
+    "word_count": 284,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 106611175,
@@ -25460,7 +25950,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 12.4,
-    "word_count": 292
+    "word_count": 292,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 106611175,
@@ -25490,7 +25981,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 4,
     "grade_level": 12.5,
-    "word_count": 47
+    "word_count": 47,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 106611175,
@@ -25610,7 +26102,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -7,
     "grade_level": 13.9,
-    "word_count": 423
+    "word_count": 423,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 106662161,
@@ -25692,7 +26185,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 9.6,
-    "word_count": 210
+    "word_count": 210,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 106611175,
@@ -25752,7 +26246,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 1,
     "grade_level": 9.5,
-    "word_count": 287
+    "word_count": 287,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 105878852,
@@ -25798,7 +26293,8 @@ window._comments = [
     "ratio_recv": 23,
     "ratio_give": null,
     "grade_level": 11.7,
-    "word_count": 260
+    "word_count": 260,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 106887125,
@@ -25850,7 +26346,8 @@ window._comments = [
     "ratio_recv": 13,
     "ratio_give": null,
     "grade_level": 16.3,
-    "word_count": 242
+    "word_count": 242,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 106887125,
@@ -25880,7 +26377,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": 8,
     "grade_level": 10.8,
-    "word_count": 67
+    "word_count": 67,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 107805446,
@@ -25950,7 +26448,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 8,
     "grade_level": 10.1,
-    "word_count": 288
+    "word_count": 288,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 107805446,
@@ -26016,7 +26515,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -8,
     "grade_level": 10.5,
-    "word_count": 463
+    "word_count": 463,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 107192700,
@@ -26092,7 +26592,8 @@ window._comments = [
     "ratio_recv": -27,
     "ratio_give": null,
     "grade_level": 13.5,
-    "word_count": 324
+    "word_count": 324,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 107192700,
@@ -26190,7 +26691,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 5,
     "grade_level": 10.5,
-    "word_count": 260
+    "word_count": 260,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 107192700,
@@ -26226,7 +26728,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 4,
     "grade_level": 10.6,
-    "word_count": 113
+    "word_count": 113,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 107606583,
@@ -26268,7 +26771,8 @@ window._comments = [
     "ratio_recv": -33,
     "ratio_give": null,
     "grade_level": 10.5,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 107606583,
@@ -26328,7 +26832,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 8.8,
-    "word_count": 309
+    "word_count": 309,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 108162136,
@@ -26420,7 +26925,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": null,
     "grade_level": 10.1,
-    "word_count": 327
+    "word_count": 327,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 108162136,
@@ -26560,7 +27066,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -22,
     "grade_level": 10.6,
-    "word_count": 196
+    "word_count": 196,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 108586336,
@@ -26642,7 +27149,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 10.0,
-    "word_count": 386
+    "word_count": 386,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 108586336,
@@ -26738,7 +27246,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 11.5,
-    "word_count": 401
+    "word_count": 401,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 108655723,
@@ -26798,7 +27307,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 16.1,
-    "word_count": 295
+    "word_count": 295,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 108655723,
@@ -26852,7 +27362,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -7,
     "grade_level": 8.7,
-    "word_count": 193
+    "word_count": 193,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 108655723,
@@ -26922,7 +27433,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 7.8,
-    "word_count": 44
+    "word_count": 44,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 108656037,
@@ -26968,7 +27480,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 7.4,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 109048678,
@@ -27018,7 +27531,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 5,
     "grade_level": 12.3,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 109048678,
@@ -27060,7 +27574,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -7,
     "grade_level": 11.6,
-    "word_count": 150
+    "word_count": 150,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 109048678,
@@ -27130,7 +27645,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 13.3,
-    "word_count": 474
+    "word_count": 474,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 109476948,
@@ -27166,7 +27682,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 11.2,
-    "word_count": 140
+    "word_count": 140,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 109476948,
@@ -27202,7 +27719,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.9,
-    "word_count": 109
+    "word_count": 109,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 109476948,
@@ -27256,7 +27774,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 10.5,
-    "word_count": 303
+    "word_count": 303,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 109697799,
@@ -27310,7 +27829,8 @@ window._comments = [
     "ratio_recv": 10,
     "ratio_give": null,
     "grade_level": 9.9,
-    "word_count": 339
+    "word_count": 339,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 110518383,
@@ -27400,7 +27920,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.3,
-    "word_count": 188
+    "word_count": 188,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110518383,
@@ -27472,7 +27993,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -1,
     "grade_level": 9.5,
-    "word_count": 90
+    "word_count": 90,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 110518383,
@@ -27526,7 +28048,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 13.7,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 110518383,
@@ -27580,7 +28103,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 14.8,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 110518383,
@@ -27656,7 +28180,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 12.7,
-    "word_count": 109
+    "word_count": 109,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110518383,
@@ -27710,7 +28235,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 12.6,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110518383,
@@ -27764,7 +28290,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 12.5,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110518383,
@@ -27818,7 +28345,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 13.5,
-    "word_count": 25
+    "word_count": 25,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 110518383,
@@ -27872,7 +28400,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -1,
     "grade_level": 13.7,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110518383,
@@ -27926,7 +28455,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -1,
     "grade_level": 11.4,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 110518383,
@@ -27980,7 +28510,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 13.6,
-    "word_count": 26
+    "word_count": 26,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 109985984,
@@ -28022,7 +28553,8 @@ window._comments = [
     "ratio_recv": -27,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 149
+    "word_count": 149,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 109985984,
@@ -28112,7 +28644,8 @@ window._comments = [
     "ratio_recv": 9,
     "ratio_give": -53,
     "grade_level": 12.9,
-    "word_count": 322
+    "word_count": 322,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 109985984,
@@ -28142,7 +28675,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": -11,
     "grade_level": 8.3,
-    "word_count": 44
+    "word_count": 44,
+    "category": "Uncategorized"
   },
   {
     "post_id": 109985984,
@@ -28172,7 +28706,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": -14,
     "grade_level": 15.2,
-    "word_count": 49
+    "word_count": 49,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 109985984,
@@ -28208,7 +28743,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 0,
     "grade_level": 8.5,
-    "word_count": 41
+    "word_count": 41,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110198262,
@@ -28256,7 +28792,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 230
+    "word_count": 230,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 110198262,
@@ -28292,7 +28829,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": -7,
     "grade_level": 7.8,
-    "word_count": 46
+    "word_count": 46,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 110198262,
@@ -28340,7 +28878,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 12.9,
-    "word_count": 168
+    "word_count": 168,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 110198262,
@@ -28388,7 +28927,8 @@ window._comments = [
     "ratio_recv": 20,
     "ratio_give": -17,
     "grade_level": 11.5,
-    "word_count": 235
+    "word_count": 235,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 110198262,
@@ -28418,7 +28958,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 8,
     "grade_level": 13.8,
-    "word_count": 84
+    "word_count": 84,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 110198262,
@@ -28460,7 +29001,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -29,
     "grade_level": 10.0,
-    "word_count": 142
+    "word_count": 142,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 110421215,
@@ -28508,7 +29050,8 @@ window._comments = [
     "ratio_recv": -29,
     "ratio_give": null,
     "grade_level": 12.7,
-    "word_count": 190
+    "word_count": 190,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 110421215,
@@ -28580,7 +29123,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 10.4,
-    "word_count": 274
+    "word_count": 274,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 110421215,
@@ -28626,7 +29170,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -15,
     "grade_level": 12.1,
-    "word_count": 102
+    "word_count": 102,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 110421215,
@@ -28678,7 +29223,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -3,
     "grade_level": 11.0,
-    "word_count": 99
+    "word_count": 99,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110421215,
@@ -28708,7 +29254,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 8.9,
-    "word_count": 58
+    "word_count": 58,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 110421215,
@@ -28756,7 +29303,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.6,
-    "word_count": 140
+    "word_count": 140,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -28802,7 +29350,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 132
+    "word_count": 132,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -28872,7 +29421,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 0,
     "grade_level": 12.2,
-    "word_count": 237
+    "word_count": 237,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -28902,7 +29452,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 4.9,
-    "word_count": 53
+    "word_count": 53,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -28990,7 +29541,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 0,
     "grade_level": 8.5,
-    "word_count": 215
+    "word_count": 215,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -29020,7 +29572,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 9.5,
-    "word_count": 22
+    "word_count": 22,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110841665,
@@ -29062,7 +29615,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": 0,
     "grade_level": 8.4,
-    "word_count": 162
+    "word_count": 162,
+    "category": "Uncategorized"
   },
   {
     "post_id": 110841665,
@@ -29154,7 +29708,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.4,
-    "word_count": 229
+    "word_count": 229,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 110841665,
@@ -29184,7 +29739,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 6.8,
-    "word_count": 48
+    "word_count": 48,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -29242,7 +29798,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.4,
-    "word_count": 134
+    "word_count": 134,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110841665,
@@ -29310,7 +29867,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 4,
     "grade_level": 9.1,
-    "word_count": 356
+    "word_count": 356,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 111206826,
@@ -29370,7 +29928,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 7.2,
-    "word_count": 312
+    "word_count": 312,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 111206826,
@@ -29448,7 +30007,8 @@ window._comments = [
     "ratio_recv": 10,
     "ratio_give": -2,
     "grade_level": 14.6,
-    "word_count": 438
+    "word_count": 438,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 111206826,
@@ -29478,7 +30038,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 11.1,
-    "word_count": 68
+    "word_count": 68,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 111206826,
@@ -29520,7 +30081,8 @@ window._comments = [
     "ratio_recv": 10,
     "ratio_give": -1,
     "grade_level": 12.1,
-    "word_count": 135
+    "word_count": 135,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 111206826,
@@ -29556,7 +30118,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 9.6,
-    "word_count": 81
+    "word_count": 81,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 111206826,
@@ -29627,7 +30190,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 16.7,
-    "word_count": 313
+    "word_count": 313,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 111336596,
@@ -29681,7 +30245,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 299
+    "word_count": 299,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 111336596,
@@ -29737,7 +30302,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 10.2,
-    "word_count": 228
+    "word_count": 228,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110842111,
@@ -29785,7 +30351,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 8.5,
-    "word_count": 65
+    "word_count": 65,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 110842111,
@@ -29833,7 +30400,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": 0,
     "grade_level": 10.9,
-    "word_count": 292
+    "word_count": 292,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 110842111,
@@ -29863,7 +30431,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 5.2,
-    "word_count": 14
+    "word_count": 14,
+    "category": "Uncategorized"
   },
   {
     "post_id": 112690160,
@@ -29911,7 +30480,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.1,
-    "word_count": 176
+    "word_count": 176,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 112690160,
@@ -29947,7 +30517,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 11,
     "grade_level": 10.3,
-    "word_count": 96
+    "word_count": 96,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 112690160,
@@ -29983,7 +30554,8 @@ window._comments = [
     "ratio_recv": -22,
     "ratio_give": null,
     "grade_level": 14.2,
-    "word_count": 112
+    "word_count": 112,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 112690160,
@@ -30049,7 +30621,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -42,
     "grade_level": 9.5,
-    "word_count": 192
+    "word_count": 192,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 112651168,
@@ -30091,7 +30664,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": 9,
     "grade_level": 12.0,
-    "word_count": 203
+    "word_count": 203,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 112651168,
@@ -30127,7 +30701,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -15,
     "grade_level": 11.4,
-    "word_count": 104
+    "word_count": 104,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 112651168,
@@ -30194,7 +30769,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 10.9,
-    "word_count": 128
+    "word_count": 128,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 112651168,
@@ -30230,7 +30806,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 12.0,
-    "word_count": 65
+    "word_count": 65,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 113488945,
@@ -30276,7 +30853,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 113488945,
@@ -30324,7 +30902,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": -3,
     "grade_level": 10.7,
-    "word_count": 76
+    "word_count": 76,
+    "category": "Uncategorized"
   },
   {
     "post_id": 113872955,
@@ -30378,7 +30957,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": -2,
     "grade_level": 6.9,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 113281478,
@@ -30414,7 +30994,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 12.6,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 113281478,
@@ -30456,7 +31037,8 @@ window._comments = [
     "ratio_recv": -26,
     "ratio_give": null,
     "grade_level": 10.1,
-    "word_count": 187
+    "word_count": 187,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 114230135,
@@ -30508,7 +31090,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 255
+    "word_count": 255,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 114230135,
@@ -30556,7 +31139,8 @@ window._comments = [
     "ratio_recv": 7,
     "ratio_give": 3,
     "grade_level": 10.1,
-    "word_count": 285
+    "word_count": 285,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 114230135,
@@ -30652,7 +31236,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 382
+    "word_count": 382,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 114230135,
@@ -30682,7 +31267,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": 2,
     "grade_level": 11.2,
-    "word_count": 85
+    "word_count": 85,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 114230135,
@@ -30784,7 +31370,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 3,
     "grade_level": 9.9,
-    "word_count": 305
+    "word_count": 305,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 114230135,
@@ -30828,7 +31415,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 15.8,
-    "word_count": 38
+    "word_count": 38,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 113743922,
@@ -30876,7 +31464,9 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 12.3,
-    "word_count": 201
+    "word_count": 201,
+    "categories": "Contradictions and Challenges in Legal and Social Policies",
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 113743922,
@@ -30906,7 +31496,9 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 5,
     "grade_level": 8.3,
-    "word_count": 29
+    "word_count": 29,
+    "categories": "Uncategorized",
+    "category": "Uncategorized"
   },
   {
     "post_id": 114773991,
@@ -30948,7 +31540,9 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 10.9,
-    "word_count": 183
+    "word_count": 183,
+    "categories": "Challenges in Democratic Messaging and Electoral Strategies",
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 111842905,
@@ -30990,7 +31584,9 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 11.5,
-    "word_count": 147
+    "word_count": 147,
+    "categories": "Challenges and Reforms in Educational Equity and Systems",
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 111842905,
@@ -31038,7 +31634,9 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 12.2,
-    "word_count": 258
+    "word_count": 258,
+    "categories": "Challenges and Reforms in Educational Equity and Systems",
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 111842905,
@@ -31068,7 +31666,9 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -94,
     "grade_level": 13.3,
-    "word_count": 68
+    "word_count": 68,
+    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 114988517,
@@ -31116,7 +31716,9 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -12,
     "grade_level": 11.1,
-    "word_count": 205
+    "word_count": 205,
+    "categories": "Challenges and Reforms in Educational Equity and Systems",
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 115625576,
@@ -31152,7 +31754,9 @@ window._comments = [
     "ratio_recv": -30,
     "ratio_give": null,
     "grade_level": 11.9,
-    "word_count": 110
+    "word_count": 110,
+    "categories": "Economic Philosophies and Resource Allocation in Modern Policy Discussions",
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 115625576,
@@ -31200,7 +31804,9 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 9.9,
-    "word_count": 236
+    "word_count": 236,
+    "categories": "Inflation Dynamics and Policy Responses in the US and Europe",
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 115625576,
@@ -31262,7 +31868,9 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -30,
     "grade_level": 12.1,
-    "word_count": 98
+    "word_count": 98,
+    "categories": "Evolving Challenges in Business, Journalism, and Technology",
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 116649940,
@@ -31308,7 +31916,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 9.4,
-    "word_count": 113
+    "word_count": 113,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 115956601,
@@ -31344,7 +31953,9 @@ window._comments = [
     "ratio_recv": -81,
     "ratio_give": null,
     "grade_level": 14.5,
-    "word_count": 137
+    "word_count": 137,
+    "categories": "Challenges and Reforms in Educational Equity and Systems",
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 115956601,
@@ -31380,7 +31991,9 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": null,
     "grade_level": 12.2,
-    "word_count": 67
+    "word_count": 67,
+    "categories": "Challenges and Reforms in Educational Equity and Systems",
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 117159791,
@@ -31452,7 +32065,9 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 140
+    "word_count": 140,
+    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 117159791,
@@ -31494,7 +32109,9 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.1,
-    "word_count": 16
+    "word_count": 16,
+    "categories": "Uncategorized",
+    "category": "Uncategorized"
   },
   {
     "post_id": 117159791,
@@ -31524,7 +32141,9 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 5.7,
-    "word_count": 49
+    "word_count": 49,
+    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 116692659,
@@ -31582,7 +32201,9 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 10.7,
-    "word_count": 287
+    "word_count": 287,
+    "categories": "Challenges in Democratic Messaging and Electoral Strategies",
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 116692659,
@@ -31628,7 +32249,9 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 9,
     "grade_level": 9.1,
-    "word_count": 135
+    "word_count": 135,
+    "categories": "Shifts in Technology's Role in Work and Education",
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 116692659,
@@ -31670,7 +32293,9 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 6,
     "grade_level": 10.7,
-    "word_count": 132
+    "word_count": 132,
+    "categories": "Shifts in Technology's Role in Work and Education",
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 117011137,
@@ -31718,7 +32343,9 @@ window._comments = [
     "ratio_recv": -23,
     "ratio_give": null,
     "grade_level": 8.4,
-    "word_count": 194
+    "word_count": 194,
+    "categories": "Shifts in Technology's Role in Work and Education",
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 117011137,
@@ -31864,7 +32491,9 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": -23,
     "grade_level": 12.1,
-    "word_count": 537
+    "word_count": 537,
+    "categories": "Shifts in Technology's Role in Work and Education",
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 117011137,
@@ -31910,7 +32539,9 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 10,
     "grade_level": 11.7,
-    "word_count": 172
+    "word_count": 172,
+    "categories": "Shifts in Technology's Role in Work and Education",
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 117197283,
@@ -31990,7 +32621,9 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 12.6,
-    "word_count": 292
+    "word_count": 292,
+    "categories": "Financial Policy and Political Divisions in Crisis Management",
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 118908600,
@@ -32048,7 +32681,9 @@ window._comments = [
     "ratio_recv": 13,
     "ratio_give": null,
     "grade_level": 10.2,
-    "word_count": 196
+    "word_count": 196,
+    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 118595983,
@@ -32090,7 +32725,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 12.4,
-    "word_count": 238
+    "word_count": 238,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 120093740,
@@ -32140,7 +32776,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 5,
     "grade_level": 20.5,
-    "word_count": 82
+    "word_count": 82,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 120093740,
@@ -32224,7 +32861,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 13.3,
-    "word_count": 385
+    "word_count": 385,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 120093740,
@@ -32271,7 +32909,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 4,
     "grade_level": 11.1,
-    "word_count": 136
+    "word_count": 136,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119561942,
@@ -32319,7 +32958,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 213
+    "word_count": 213,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 119561942,
@@ -32349,7 +32989,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -17,
     "grade_level": 12.6,
-    "word_count": 95
+    "word_count": 95,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 119561942,
@@ -32379,7 +33020,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": 8,
     "grade_level": 13.5,
-    "word_count": 60
+    "word_count": 60,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 119561942,
@@ -32409,7 +33051,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 9,
     "grade_level": 10.3,
-    "word_count": 72
+    "word_count": 72,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 119561942,
@@ -32439,7 +33082,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 13.4,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 119561942,
@@ -32486,7 +33130,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 4,
     "grade_level": 10.6,
-    "word_count": 94
+    "word_count": 94,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 119561942,
@@ -32516,7 +33161,8 @@ window._comments = [
     "ratio_recv": 8,
     "ratio_give": -8,
     "grade_level": 5.9,
-    "word_count": 51
+    "word_count": 51,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 119499796,
@@ -32590,7 +33236,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 13.5,
-    "word_count": 320
+    "word_count": 320,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32626,7 +33273,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 128
+    "word_count": 128,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32668,7 +33316,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 141
+    "word_count": 141,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 119499796,
@@ -32704,7 +33353,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 1,
     "grade_level": 13.8,
-    "word_count": 168
+    "word_count": 168,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32766,7 +33416,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 13.6,
-    "word_count": 188
+    "word_count": 188,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32808,7 +33459,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 6,
     "grade_level": 12.8,
-    "word_count": 147
+    "word_count": 147,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32865,7 +33517,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 3,
     "grade_level": 9.4,
-    "word_count": 110
+    "word_count": 110,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 119499796,
@@ -32925,7 +33578,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 2,
     "grade_level": 7.4,
-    "word_count": 81
+    "word_count": 81,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 120094057,
@@ -32965,7 +33619,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 27.5,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 120094057,
@@ -32995,7 +33650,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 13.4,
-    "word_count": 23
+    "word_count": 23,
+    "category": "Uncategorized"
   },
   {
     "post_id": 120255006,
@@ -33043,7 +33699,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 12.4,
-    "word_count": 204
+    "word_count": 204,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 120255006,
@@ -33073,7 +33730,8 @@ window._comments = [
     "ratio_recv": 8,
     "ratio_give": -25,
     "grade_level": 11.8,
-    "word_count": 47
+    "word_count": 47,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 120345900,
@@ -33125,7 +33783,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 14.9,
-    "word_count": 230
+    "word_count": 230,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 120345900,
@@ -33195,7 +33854,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -9,
     "grade_level": 12.3,
-    "word_count": 347
+    "word_count": 347,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 120964109,
@@ -33237,7 +33897,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": null,
     "grade_level": 10.6,
-    "word_count": 152
+    "word_count": 152,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 120964109,
@@ -33267,7 +33928,8 @@ window._comments = [
     "ratio_recv": -35,
     "ratio_give": 32,
     "grade_level": 8.9,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 120964109,
@@ -33301,7 +33963,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 7.2,
-    "word_count": 16
+    "word_count": 16,
+    "category": "Uncategorized"
   },
   {
     "post_id": 121568094,
@@ -33353,7 +34016,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 115
+    "word_count": 115,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 121568094,
@@ -33399,7 +34063,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 2,
     "grade_level": 11.9,
-    "word_count": 155
+    "word_count": 155,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 121568094,
@@ -33435,7 +34100,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 6,
     "grade_level": 10.1,
-    "word_count": 72
+    "word_count": 72,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 121568094,
@@ -33471,7 +34137,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 7,
     "grade_level": 10.1,
-    "word_count": 105
+    "word_count": 105,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 121811900,
@@ -33537,7 +34204,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 12.6,
-    "word_count": 334
+    "word_count": 334,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 121811900,
@@ -33573,7 +34241,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 12.8,
-    "word_count": 171
+    "word_count": 171,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 121811900,
@@ -33629,7 +34298,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -57,
     "grade_level": 11.1,
-    "word_count": 179
+    "word_count": 179,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 123400296,
@@ -33665,7 +34335,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 17.9,
-    "word_count": 94
+    "word_count": 94,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 123400296,
@@ -33695,7 +34366,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -3,
     "grade_level": 9.8,
-    "word_count": 50
+    "word_count": 50,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 125027414,
@@ -33741,7 +34413,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 15.1,
-    "word_count": 145
+    "word_count": 145,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 126148200,
@@ -33799,7 +34472,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 14.0,
-    "word_count": 293
+    "word_count": 293,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 126148200,
@@ -33841,7 +34515,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 10.3,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 132350655,
@@ -33907,7 +34582,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 7.0,
-    "word_count": 112
+    "word_count": 112,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 132350655,
@@ -33937,7 +34613,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -1,
     "grade_level": 6.6,
-    "word_count": 23
+    "word_count": 23,
+    "category": "Uncategorized"
   },
   {
     "post_id": 132350655,
@@ -33967,7 +34644,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 6.6,
-    "word_count": 35
+    "word_count": 35,
+    "category": "Uncategorized"
   },
   {
     "post_id": 132350655,
@@ -33997,7 +34675,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 12.7,
-    "word_count": 15
+    "word_count": 15,
+    "category": "Uncategorized"
   },
   {
     "post_id": 134273254,
@@ -34033,7 +34712,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": -12,
     "grade_level": 5.2,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 137121032,
@@ -34075,7 +34755,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 8.9,
-    "word_count": 144
+    "word_count": 144,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 137202273,
@@ -34118,7 +34799,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": -4,
     "grade_level": 7.6,
-    "word_count": 66
+    "word_count": 66,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 137265586,
@@ -34154,7 +34836,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": -19,
     "grade_level": 13.5,
-    "word_count": 103
+    "word_count": 103,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 137637440,
@@ -34184,7 +34867,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 4,
     "grade_level": 7.0,
-    "word_count": 74
+    "word_count": 74,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 137637440,
@@ -34214,7 +34898,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 3.7,
-    "word_count": 40
+    "word_count": 40,
+    "category": "Uncategorized"
   },
   {
     "post_id": 137838201,
@@ -34244,7 +34929,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -3,
     "grade_level": 12.3,
-    "word_count": 46
+    "word_count": 46,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 137838201,
@@ -34280,7 +34966,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 2,
     "grade_level": 10.4,
-    "word_count": 55
+    "word_count": 55,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 138038255,
@@ -34320,7 +35007,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 12.9,
-    "word_count": 65
+    "word_count": 65,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 138119600,
@@ -34350,7 +35038,8 @@ window._comments = [
     "ratio_recv": 9,
     "ratio_give": 2,
     "grade_level": 14.6,
-    "word_count": 29
+    "word_count": 29,
+    "category": "Uncategorized"
   },
   {
     "post_id": 138119600,
@@ -34380,7 +35069,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": null,
     "grade_level": 7.8,
-    "word_count": 44
+    "word_count": 44,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 138119600,
@@ -34434,7 +35124,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": 10,
     "grade_level": 8.6,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 138235700,
@@ -34482,7 +35173,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 8.6,
-    "word_count": 41
+    "word_count": 41,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 138235700,
@@ -34558,7 +35250,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 12.4,
-    "word_count": 225
+    "word_count": 225,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 138200384,
@@ -34616,7 +35309,8 @@ window._comments = [
     "ratio_recv": -17,
     "ratio_give": -22,
     "grade_level": 10.2,
-    "word_count": 107
+    "word_count": 107,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 138438756,
@@ -34656,7 +35350,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 1,
     "grade_level": 8.2,
-    "word_count": 31
+    "word_count": 31,
+    "category": "Uncategorized"
   },
   {
     "post_id": 138527237,
@@ -34720,7 +35415,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.6,
-    "word_count": 310
+    "word_count": 310,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 138539348,
@@ -34756,7 +35452,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": -6,
     "grade_level": 13.8,
-    "word_count": 120
+    "word_count": 120,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 138742670,
@@ -34852,7 +35549,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": 21,
     "grade_level": 7.1,
-    "word_count": 50
+    "word_count": 50,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 138742670,
@@ -34942,7 +35640,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 6,
     "grade_level": 7.9,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 138742670,
@@ -35038,7 +35737,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 8,
     "grade_level": 18.1,
-    "word_count": 47
+    "word_count": 47,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 138692825,
@@ -35086,7 +35786,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 17.1,
-    "word_count": 293
+    "word_count": 293,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 138692825,
@@ -35243,7 +35944,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -9,
     "grade_level": 13.2,
-    "word_count": 387
+    "word_count": 387,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 138278391,
@@ -35273,7 +35975,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": -15.7,
-    "word_count": 0
+    "word_count": 0,
+    "category": "Uncategorized"
   },
   {
     "post_id": 138278391,
@@ -35303,7 +36006,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": -15.7,
-    "word_count": 0
+    "word_count": 0,
+    "category": "Uncategorized"
   },
   {
     "post_id": 139099672,
@@ -35343,7 +36047,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": null,
     "grade_level": 14.0,
-    "word_count": 55
+    "word_count": 55,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 139201270,
@@ -35395,7 +36100,8 @@ window._comments = [
     "ratio_recv": -28,
     "ratio_give": null,
     "grade_level": 8.9,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 139240097,
@@ -35451,7 +36157,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": -3,
     "grade_level": 7.0,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 139360227,
@@ -35488,7 +36195,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 15.1,
-    "word_count": 146
+    "word_count": 146,
+    "category": "Uncategorized"
   },
   {
     "post_id": 139360227,
@@ -35518,7 +36226,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -44,
     "grade_level": 13.8,
-    "word_count": 42
+    "word_count": 42,
+    "category": "Uncategorized"
   },
   {
     "post_id": 139463765,
@@ -35640,7 +36349,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": null,
     "grade_level": 9.5,
-    "word_count": 176
+    "word_count": 176,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 139614233,
@@ -35722,7 +36432,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": -5,
     "grade_level": 8.8,
-    "word_count": 310
+    "word_count": 310,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 139992115,
@@ -35780,7 +36491,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 12.5,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 139992115,
@@ -35828,7 +36540,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": -2,
     "grade_level": 20.5,
-    "word_count": 315
+    "word_count": 315,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 139992115,
@@ -35858,7 +36571,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 3.1,
-    "word_count": 26
+    "word_count": 26,
+    "category": "Uncategorized"
   },
   {
     "post_id": 140228948,
@@ -35892,7 +36606,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -5,
     "grade_level": 7.2,
-    "word_count": 64
+    "word_count": 64,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 140397199,
@@ -35960,7 +36675,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 4,
     "grade_level": 10.2,
-    "word_count": 142
+    "word_count": 142,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 140478660,
@@ -36002,7 +36718,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 7.6,
-    "word_count": 113
+    "word_count": 113,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 140478660,
@@ -36077,7 +36794,8 @@ window._comments = [
     "ratio_recv": -33,
     "ratio_give": null,
     "grade_level": 11.8,
-    "word_count": 592
+    "word_count": 592,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 140590943,
@@ -36107,7 +36825,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 6,
     "grade_level": -15.7,
-    "word_count": 0
+    "word_count": 0,
+    "category": "Uncategorized"
   },
   {
     "post_id": 140590943,
@@ -36147,7 +36866,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": -1,
     "grade_level": 6.4,
-    "word_count": 11
+    "word_count": 11,
+    "category": "Uncategorized"
   },
   {
     "post_id": 140688665,
@@ -36195,7 +36915,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": null,
     "grade_level": 19.6,
-    "word_count": 360
+    "word_count": 360,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 140643346,
@@ -36251,7 +36972,8 @@ window._comments = [
     "ratio_recv": 18,
     "ratio_give": -10,
     "grade_level": 11.6,
-    "word_count": 239
+    "word_count": 239,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 140643346,
@@ -36293,7 +37015,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -23,
     "grade_level": 15.7,
-    "word_count": 103
+    "word_count": 103,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 140767251,
@@ -36329,7 +37052,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": -61,
     "grade_level": 12.1,
-    "word_count": 98
+    "word_count": 98,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 140767251,
@@ -36365,7 +37089,8 @@ window._comments = [
     "ratio_recv": -22,
     "ratio_give": 15,
     "grade_level": 8.7,
-    "word_count": 51
+    "word_count": 51,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 140850960,
@@ -36421,7 +37146,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.4,
-    "word_count": 110
+    "word_count": 110,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 140850960,
@@ -36465,7 +37191,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 8.9,
-    "word_count": 58
+    "word_count": 58,
+    "category": "Uncategorized"
   },
   {
     "post_id": 140960236,
@@ -36505,7 +37232,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -2,
     "grade_level": 10.3,
-    "word_count": 24
+    "word_count": 24,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141059253,
@@ -36557,7 +37285,8 @@ window._comments = [
     "ratio_recv": 8,
     "ratio_give": null,
     "grade_level": 16.1,
-    "word_count": 374
+    "word_count": 374,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 141059253,
@@ -36599,7 +37328,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": 8,
     "grade_level": 11.7,
-    "word_count": 170
+    "word_count": 170,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 141120963,
@@ -36653,7 +37383,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": 18,
     "grade_level": 37.2,
-    "word_count": 84
+    "word_count": 84,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 141120963,
@@ -36687,7 +37418,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 8.0,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141120963,
@@ -36717,7 +37449,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -43,
     "grade_level": 10.2,
-    "word_count": 71
+    "word_count": 71,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 141120963,
@@ -36753,7 +37486,8 @@ window._comments = [
     "ratio_recv": -28,
     "ratio_give": -8,
     "grade_level": 11.0,
-    "word_count": 119
+    "word_count": 119,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 141120963,
@@ -36783,7 +37517,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.0,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141208290,
@@ -36819,7 +37554,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 1,
     "grade_level": 12.7,
-    "word_count": 126
+    "word_count": 126,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 141231262,
@@ -36861,7 +37597,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 2,
     "grade_level": 12.2,
-    "word_count": 205
+    "word_count": 205,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 141231262,
@@ -36909,7 +37646,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -5,
     "grade_level": 11.2,
-    "word_count": 262
+    "word_count": 262,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 141311473,
@@ -36965,7 +37703,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 9.7,
-    "word_count": 99
+    "word_count": 99,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 141475750,
@@ -37053,7 +37792,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": null,
     "grade_level": 15.0,
-    "word_count": 168
+    "word_count": 168,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 141575858,
@@ -37103,7 +37843,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": 10,
     "grade_level": 14.7,
-    "word_count": 93
+    "word_count": 93,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 141644425,
@@ -37195,7 +37936,8 @@ window._comments = [
     "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 18.5,
-    "word_count": 120
+    "word_count": 120,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 141644425,
@@ -37225,7 +37967,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -13,
     "grade_level": 7.6,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141644425,
@@ -37269,7 +38012,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 2,
     "grade_level": 2.9,
-    "word_count": 5
+    "word_count": 5,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141428009,
@@ -37311,7 +38055,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 13.2,
-    "word_count": 180
+    "word_count": 180,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 141462137,
@@ -37341,7 +38086,8 @@ window._comments = [
     "ratio_recv": -34,
     "ratio_give": 38,
     "grade_level": 25.6,
-    "word_count": 36
+    "word_count": 36,
+    "category": "Uncategorized"
   },
   {
     "post_id": 141462137,
@@ -37371,7 +38117,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 10,
     "grade_level": 11.5,
-    "word_count": 48
+    "word_count": 48,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 141548503,
@@ -37413,7 +38160,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": null,
     "grade_level": 14.4,
-    "word_count": 154
+    "word_count": 154,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 141890579,
@@ -37472,7 +38220,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": -1,
     "grade_level": 8.5,
-    "word_count": 130
+    "word_count": 130,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 142186179,
@@ -37558,7 +38307,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 6,
     "grade_level": 8.4,
-    "word_count": 67
+    "word_count": 67,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 142120863,
@@ -37604,7 +38354,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 8,
     "grade_level": 15.5,
-    "word_count": 188
+    "word_count": 188,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 142215522,
@@ -37700,7 +38451,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 11.3,
-    "word_count": 314
+    "word_count": 314,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 142215522,
@@ -37800,7 +38552,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -2,
     "grade_level": 8.8,
-    "word_count": 569
+    "word_count": 569,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 142215522,
@@ -37830,7 +38583,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 11.2,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 142215522,
@@ -37860,7 +38614,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 5,
     "grade_level": 5.3,
-    "word_count": 68
+    "word_count": 68,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 142215522,
@@ -37902,7 +38657,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 6,
     "grade_level": 10.8,
-    "word_count": 133
+    "word_count": 133,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 142219454,
@@ -37932,7 +38688,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": 2,
     "grade_level": 9.8,
-    "word_count": 79
+    "word_count": 79,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 142219454,
@@ -37962,7 +38719,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 8,
     "grade_level": 9.9,
-    "word_count": 60
+    "word_count": 60,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 142219454,
@@ -37992,7 +38750,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 11.2,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 142219454,
@@ -38028,7 +38787,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 1,
     "grade_level": 7.5,
-    "word_count": 96
+    "word_count": 96,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 142219454,
@@ -38064,7 +38824,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 3,
     "grade_level": 11.5,
-    "word_count": 63
+    "word_count": 63,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 142309107,
@@ -38094,7 +38855,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": -117,
     "grade_level": 12.3,
-    "word_count": 69
+    "word_count": 69,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 142206051,
@@ -38136,7 +38898,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": 4,
     "grade_level": 5.7,
-    "word_count": 61
+    "word_count": 61,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 142309107,
@@ -38178,7 +38941,8 @@ window._comments = [
     "ratio_recv": 12,
     "ratio_give": -5,
     "grade_level": 6.9,
-    "word_count": 76
+    "word_count": 76,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 142766341,
@@ -38224,7 +38988,8 @@ window._comments = [
     "ratio_recv": 4,
     "ratio_give": -7,
     "grade_level": 11.6,
-    "word_count": 91
+    "word_count": 91,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 143116075,
@@ -38270,7 +39035,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.0,
-    "word_count": 115
+    "word_count": 115,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 143357383,
@@ -38306,7 +39072,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 13.1,
-    "word_count": 111
+    "word_count": 111,
+    "category": "Uncategorized"
   },
   {
     "post_id": 143337367,
@@ -38336,7 +39103,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 20,
     "grade_level": 7.6,
-    "word_count": 17
+    "word_count": 17,
+    "category": "Uncategorized"
   },
   {
     "post_id": 143386348,
@@ -38412,7 +39180,8 @@ window._comments = [
     "ratio_recv": -12,
     "ratio_give": -1,
     "grade_level": 11.4,
-    "word_count": 474
+    "word_count": 474,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 143386348,
@@ -38454,7 +39223,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 8.6,
-    "word_count": 148
+    "word_count": 148,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 143386348,
@@ -38496,7 +39266,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": 14,
     "grade_level": 6.0,
-    "word_count": 90
+    "word_count": 90,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 143386348,
@@ -38526,7 +39297,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": 9,
     "grade_level": -0.2,
-    "word_count": 13
+    "word_count": 13,
+    "category": "Uncategorized"
   },
   {
     "post_id": 143435706,
@@ -38562,7 +39334,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -24,
     "grade_level": 11.0,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 143528953,
@@ -38598,7 +39371,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": 3,
     "grade_level": 9.4,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 143803872,
@@ -38628,7 +39402,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -12,
     "grade_level": 11.9,
-    "word_count": 32
+    "word_count": 32,
+    "category": "Uncategorized"
   },
   {
     "post_id": 144036233,
@@ -38662,7 +39437,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -23,
     "grade_level": 10.4,
-    "word_count": 6
+    "word_count": 6,
+    "category": "Uncategorized"
   },
   {
     "post_id": 144217936,
@@ -38704,7 +39480,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": null,
     "grade_level": 11.1,
-    "word_count": 23
+    "word_count": 23,
+    "category": "Uncategorized"
   },
   {
     "post_id": 144309106,
@@ -38760,7 +39537,8 @@ window._comments = [
     "ratio_recv": -32,
     "ratio_give": null,
     "grade_level": 13.6,
-    "word_count": 185
+    "word_count": 185,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 144366310,
@@ -38872,7 +39650,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": 5,
     "grade_level": 8.9,
-    "word_count": 349
+    "word_count": 349,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 144366310,
@@ -38908,7 +39687,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 6,
     "grade_level": 11.1,
-    "word_count": 120
+    "word_count": 120,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 144414803,
@@ -38950,7 +39730,8 @@ window._comments = [
     "ratio_recv": -38,
     "ratio_give": 22,
     "grade_level": 14.2,
-    "word_count": 199
+    "word_count": 199,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 144558465,
@@ -38980,7 +39761,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 6,
     "grade_level": 11.1,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 144558465,
@@ -39030,7 +39812,8 @@ window._comments = [
     "ratio_recv": 1,
     "ratio_give": -14,
     "grade_level": 11.4,
-    "word_count": 146
+    "word_count": 146,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 144448371,
@@ -39076,7 +39859,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": -49,
     "grade_level": 7.2,
-    "word_count": 113
+    "word_count": 113,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 144448371,
@@ -39122,7 +39906,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 11.1,
-    "word_count": 156
+    "word_count": 156,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 144448371,
@@ -39152,7 +39937,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": 2,
     "grade_level": 7.4,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Uncategorized"
   },
   {
     "post_id": 144477648,
@@ -39194,7 +39980,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.3,
-    "word_count": 202
+    "word_count": 202,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 144802276,
@@ -39250,7 +40037,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 6,
     "grade_level": 9.4,
-    "word_count": 131
+    "word_count": 131,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 144807712,
@@ -39286,7 +40074,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 10,
     "grade_level": 11.7,
-    "word_count": 129
+    "word_count": 129,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 144906847,
@@ -39334,7 +40123,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 2,
     "grade_level": 13.9,
-    "word_count": 241
+    "word_count": 241,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 144877183,
@@ -39406,7 +40196,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": -2,
     "grade_level": 13.4,
-    "word_count": 139
+    "word_count": 139,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 144877183,
@@ -39476,7 +40267,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 5,
     "grade_level": 15.1,
-    "word_count": 164
+    "word_count": 164,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 144944086,
@@ -39526,7 +40318,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 14.7,
-    "word_count": 93
+    "word_count": 93,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 144918283,
@@ -39582,7 +40375,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 26,
     "grade_level": 12.4,
-    "word_count": 122
+    "word_count": 122,
+    "category": "Inflation Dynamics and Policy Responses in the US and Europe"
   },
   {
     "post_id": 144918283,
@@ -39612,7 +40406,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": -12,
     "grade_level": 6.8,
-    "word_count": 30
+    "word_count": 30,
+    "category": "Uncategorized"
   },
   {
     "post_id": 145091849,
@@ -39654,7 +40449,8 @@ window._comments = [
     "ratio_recv": -22,
     "ratio_give": 2,
     "grade_level": 13.6,
-    "word_count": 186
+    "word_count": 186,
+    "category": "Challenges and Strategies in Digital Publishing: Substack's Business Model"
   },
   {
     "post_id": 145109069,
@@ -39696,7 +40492,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 8,
     "grade_level": 13.3,
-    "word_count": 158
+    "word_count": 158,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 145125332,
@@ -39738,7 +40535,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 4,
     "grade_level": 13.8,
-    "word_count": 144
+    "word_count": 144,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 145165809,
@@ -39774,7 +40572,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 7,
     "grade_level": 10.4,
-    "word_count": 73
+    "word_count": 73,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 145165809,
@@ -39828,7 +40627,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 2,
     "grade_level": 8.3,
-    "word_count": 126
+    "word_count": 126,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 145165809,
@@ -39874,7 +40674,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 4,
     "grade_level": 7.8,
-    "word_count": 44
+    "word_count": 44,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 145233397,
@@ -39922,7 +40723,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": -4,
     "grade_level": 8.8,
-    "word_count": 172
+    "word_count": 172,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 145233397,
@@ -39968,7 +40770,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 10.2,
-    "word_count": 124
+    "word_count": 124,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 145233397,
@@ -40002,7 +40805,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 12.1,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Uncategorized"
   },
   {
     "post_id": 145336462,
@@ -40044,7 +40848,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": -5,
     "grade_level": 12.9,
-    "word_count": 195
+    "word_count": 195,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 145463437,
@@ -40078,7 +40883,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 0,
     "grade_level": 12.7,
-    "word_count": 18
+    "word_count": 18,
+    "category": "Uncategorized"
   },
   {
     "post_id": 145444571,
@@ -40120,7 +40926,8 @@ window._comments = [
     "ratio_recv": -13,
     "ratio_give": -29,
     "grade_level": 11.4,
-    "word_count": 262
+    "word_count": 262,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 145917356,
@@ -40150,7 +40957,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 8.8,
-    "word_count": 28
+    "word_count": 28,
+    "category": "Uncategorized"
   },
   {
     "post_id": 145917356,
@@ -40198,7 +41006,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 13.7,
-    "word_count": 261
+    "word_count": 261,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 145942190,
@@ -40234,7 +41043,8 @@ window._comments = [
     "ratio_recv": -38,
     "ratio_give": 21,
     "grade_level": 12.4,
-    "word_count": 121
+    "word_count": 121,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 146370225,
@@ -40264,7 +41074,8 @@ window._comments = [
     "ratio_recv": -25,
     "ratio_give": null,
     "grade_level": 15.1,
-    "word_count": 73
+    "word_count": 73,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 146370225,
@@ -40298,7 +41109,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": 17,
     "grade_level": 10.7,
-    "word_count": 16
+    "word_count": 16,
+    "category": "Uncategorized"
   },
   {
     "post_id": 146370225,
@@ -40370,7 +41182,8 @@ window._comments = [
     "ratio_recv": -20,
     "ratio_give": -23,
     "grade_level": 6.8,
-    "word_count": 270
+    "word_count": 270,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 146370225,
@@ -40400,7 +41213,8 @@ window._comments = [
     "ratio_recv": -25,
     "ratio_give": 22,
     "grade_level": 8.9,
-    "word_count": 52
+    "word_count": 52,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 146851579,
@@ -40430,7 +41244,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 1,
     "grade_level": 8.4,
-    "word_count": 10
+    "word_count": 10,
+    "category": "Uncategorized"
   },
   {
     "post_id": 146851579,
@@ -40482,7 +41297,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 12,
     "grade_level": 11.4,
-    "word_count": 125
+    "word_count": 125,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 146851579,
@@ -40522,7 +41338,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 12.1,
-    "word_count": 45
+    "word_count": 45,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 146851579,
@@ -40558,7 +41375,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -24,
     "grade_level": 9.1,
-    "word_count": 105
+    "word_count": 105,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 147060890,
@@ -40616,7 +41434,8 @@ window._comments = [
     "ratio_recv": -16,
     "ratio_give": -7,
     "grade_level": 15.0,
-    "word_count": 162
+    "word_count": 162,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 147214873,
@@ -40656,7 +41475,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 16.2,
-    "word_count": 33
+    "word_count": 33,
+    "category": "Uncategorized"
   },
   {
     "post_id": 146771843,
@@ -40686,7 +41506,8 @@ window._comments = [
     "ratio_recv": -29,
     "ratio_give": 35,
     "grade_level": 13.5,
-    "word_count": 100
+    "word_count": 100,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 147377053,
@@ -40748,7 +41569,8 @@ window._comments = [
     "ratio_recv": -27,
     "ratio_give": null,
     "grade_level": 15.9,
-    "word_count": 289
+    "word_count": 289,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 147416812,
@@ -40810,7 +41632,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": 14,
     "grade_level": 9.4,
-    "word_count": 261
+    "word_count": 261,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 147480025,
@@ -40856,7 +41679,8 @@ window._comments = [
     "ratio_recv": -25,
     "ratio_give": 11,
     "grade_level": 12.9,
-    "word_count": 112
+    "word_count": 112,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 147480025,
@@ -40904,7 +41728,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 14,
     "grade_level": 8.3,
-    "word_count": 207
+    "word_count": 207,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 148046572,
@@ -40934,7 +41759,8 @@ window._comments = [
     "ratio_recv": -24,
     "ratio_give": -38,
     "grade_level": 7.1,
-    "word_count": 47
+    "word_count": 47,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 147842388,
@@ -40974,7 +41800,8 @@ window._comments = [
     "ratio_recv": -19,
     "ratio_give": -6,
     "grade_level": 9.2,
-    "word_count": 55
+    "word_count": 55,
+    "category": "Challenges and Solutions for Homelessness and Social Inequality"
   },
   {
     "post_id": 148129819,
@@ -41004,7 +41831,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": -15,
     "grade_level": 13.8,
-    "word_count": 96
+    "word_count": 96,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 148129819,
@@ -41034,7 +41862,8 @@ window._comments = [
     "ratio_recv": -7,
     "ratio_give": -19,
     "grade_level": 16.2,
-    "word_count": 27
+    "word_count": 27,
+    "category": "Uncategorized"
   },
   {
     "post_id": 148304989,
@@ -41064,7 +41893,8 @@ window._comments = [
     "ratio_recv": -18,
     "ratio_give": 11,
     "grade_level": 9.6,
-    "word_count": 49
+    "word_count": 49,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 148282406,
@@ -41106,7 +41936,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 9,
     "grade_level": 9.6,
-    "word_count": 231
+    "word_count": 231,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 148282406,
@@ -41198,7 +42029,8 @@ window._comments = [
     "ratio_recv": 5,
     "ratio_give": 1,
     "grade_level": 10.9,
-    "word_count": 273
+    "word_count": 273,
+    "category": "Financial Policy and Political Divisions in Crisis Management"
   },
   {
     "post_id": 148262809,
@@ -41246,7 +42078,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": 6,
     "grade_level": 14.3,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 148476207,
@@ -41294,7 +42127,8 @@ window._comments = [
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 9.6,
-    "word_count": 228
+    "word_count": 228,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 149024235,
@@ -41370,7 +42204,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 16.1,
-    "word_count": 119
+    "word_count": 119,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 149120893,
@@ -41400,7 +42235,8 @@ window._comments = [
     "ratio_recv": 6,
     "ratio_give": -79,
     "grade_level": 13.1,
-    "word_count": 76
+    "word_count": 76,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 149071152,
@@ -41452,7 +42288,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 0,
     "grade_level": 9.3,
-    "word_count": 239
+    "word_count": 239,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 149071152,
@@ -41498,7 +42335,8 @@ window._comments = [
     "ratio_recv": 0,
     "ratio_give": 4,
     "grade_level": 10.5,
-    "word_count": 151
+    "word_count": 151,
+    "category": "Challenges in US Economic Policy: Social Security, Taxes, and Inflation"
   },
   {
     "post_id": 149307955,
@@ -41534,7 +42372,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 3,
     "grade_level": 9.9,
-    "word_count": 80
+    "word_count": 80,
+    "category": "Challenges and Reforms in Educational Equity and Systems"
   },
   {
     "post_id": 149355679,
@@ -41564,7 +42403,8 @@ window._comments = [
     "ratio_recv": -9,
     "ratio_give": null,
     "grade_level": 8.8,
-    "word_count": 56
+    "word_count": 56,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 149355679,
@@ -41604,7 +42444,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 14.6,
-    "word_count": 79
+    "word_count": 79,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 149355679,
@@ -41644,7 +42485,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": 2,
     "grade_level": 12.1,
-    "word_count": 98
+    "word_count": 98,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 149355679,
@@ -41674,7 +42516,8 @@ window._comments = [
     "ratio_recv": -5,
     "ratio_give": 3,
     "grade_level": 11.0,
-    "word_count": 79
+    "word_count": 79,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 149355679,
@@ -41710,7 +42553,8 @@ window._comments = [
     "ratio_recv": -8,
     "ratio_give": 13,
     "grade_level": 10.2,
-    "word_count": 103
+    "word_count": 103,
+    "category": "Contradictions and Challenges in Legal and Social Policies"
   },
   {
     "post_id": 149355679,
@@ -41740,7 +42584,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": 13,
     "grade_level": 17.3,
-    "word_count": 36
+    "word_count": 36,
+    "category": "Uncategorized"
   },
   {
     "post_id": 149355679,
@@ -41782,7 +42627,8 @@ window._comments = [
     "ratio_recv": -14,
     "ratio_give": 12,
     "grade_level": 14.7,
-    "word_count": 161
+    "word_count": 161,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 149566514,
@@ -42006,7 +42852,8 @@ window._comments = [
     "ratio_recv": -15,
     "ratio_give": 8,
     "grade_level": 10.1,
-    "word_count": 163
+    "word_count": 163,
+    "category": "Enhancing Subscriber Experience through Comment Management and AI"
   },
   {
     "post_id": 149881953,
@@ -42042,7 +42889,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": 11,
     "grade_level": 10.5,
-    "word_count": 148
+    "word_count": 148,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 149331962,
@@ -42086,7 +42934,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 11.0,
-    "word_count": 101
+    "word_count": 101,
+    "category": "Uncategorized"
   },
   {
     "post_id": 150522012,
@@ -42132,7 +42981,8 @@ window._comments = [
     "ratio_recv": -4,
     "ratio_give": -6,
     "grade_level": 12.3,
-    "word_count": 115
+    "word_count": 115,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 150448596,
@@ -42188,7 +43038,8 @@ window._comments = [
     "ratio_recv": -21,
     "ratio_give": -37,
     "grade_level": 9.9,
-    "word_count": 184
+    "word_count": 184,
+    "category": "Navigating Energy Policy Amid Climate Change and Political Divides"
   },
   {
     "post_id": 150448596,
@@ -42244,7 +43095,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 6.6,
-    "word_count": 146
+    "word_count": 146,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 150471721,
@@ -42292,7 +43144,8 @@ window._comments = [
     "ratio_recv": -10,
     "ratio_give": 0,
     "grade_level": 9.6,
-    "word_count": 288
+    "word_count": 288,
+    "category": "Shifts in Technology's Role in Work and Education"
   },
   {
     "post_id": 150471721,
@@ -42328,7 +43181,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 10.0,
-    "word_count": 172
+    "word_count": 172,
+    "category": "Evolving Challenges in Business, Journalism, and Technology"
   },
   {
     "post_id": 150471721,
@@ -42364,7 +43218,8 @@ window._comments = [
     "ratio_recv": -1,
     "ratio_give": -8,
     "grade_level": 11.8,
-    "word_count": 132
+    "word_count": 132,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 150471721,
@@ -42400,7 +43255,8 @@ window._comments = [
     "ratio_recv": -6,
     "ratio_give": 0,
     "grade_level": 11.4,
-    "word_count": 83
+    "word_count": 83,
+    "category": "Financial Crises: FTX Fraud and SVB Collapse"
   },
   {
     "post_id": 150471721,
@@ -42442,7 +43298,8 @@ window._comments = [
     "ratio_recv": -3,
     "ratio_give": 3,
     "grade_level": 10.9,
-    "word_count": 157
+    "word_count": 157,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 150722794,
@@ -42484,7 +43341,8 @@ window._comments = [
     "ratio_recv": -2,
     "ratio_give": -35,
     "grade_level": 10.5,
-    "word_count": 259
+    "word_count": 259,
+    "category": "Polarization, Misinformation, and Media Trust in American Politics"
   },
   {
     "post_id": 150781036,
@@ -42572,7 +43430,8 @@ window._comments = [
     "ratio_recv": -46,
     "ratio_give": null,
     "grade_level": 6.0,
-    "word_count": 373
+    "word_count": 373,
+    "category": "Challenges in Democratic Messaging and Electoral Strategies"
   },
   {
     "post_id": 150781036,
@@ -42618,7 +43477,8 @@ window._comments = [
     "ratio_recv": -11,
     "ratio_give": -46,
     "grade_level": 14.7,
-    "word_count": 140
+    "word_count": 140,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   },
   {
     "post_id": 150893189,
@@ -42652,7 +43512,8 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": 6,
     "grade_level": 8.7,
-    "word_count": 17
+    "word_count": 17,
+    "category": "Uncategorized"
   },
   {
     "post_id": 150994583,
@@ -42688,6 +43549,7 @@ window._comments = [
     "ratio_recv": null,
     "ratio_give": null,
     "grade_level": 10.2,
-    "word_count": 107
+    "word_count": 107,
+    "category": "Economic Philosophies and Resource Allocation in Modern Policy Discussions"
   }
 ];

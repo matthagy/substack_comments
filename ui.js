@@ -14,12 +14,22 @@ function loadComments() {
     const totalPages = document.getElementById('totalPages');
     const startDateInput = document.getElementById('startDate');
     const endDateInput = document.getElementById('endDate');
+    const categorySelect = document.getElementById('category');
     const searchInput = document.getElementById('search');
     const commentCount = document.getElementById('commentCount');
-    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput].forEach(select => {
+    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect].forEach(select => {
         select.addEventListener("change", update);
     });
     searchInput.addEventListener("input", debounceUpdate);
+
+    const categories = [...new Set(window._comments.map(comment => comment['category']))]
+        .sort((a, b) => a.localeCompare(b));
+    categories.forEach(category => {
+        const option = document.createElement('option');
+        option.appendChild(document.createTextNode(category));
+        option.setAttribute('value', category);
+        categorySelect.add(option);
+    })
 
     const dates = window._comments.map(comment => comment.timestamp);
     const secondsInDay = 24 * 60 * 60;
@@ -41,6 +51,7 @@ function loadComments() {
     let lastSearchTerms = null;
     let lastStartDate = null;
     let lastEndDate = null;
+    let lastCategory = null;
     let updating = false;
 
     update();
@@ -75,12 +86,14 @@ function loadComments() {
         const sortBy = sortSelect.value;
         const showComments = showSelect.value;
         const searchTerms = searchInput.value.trim();
+        const category = categorySelect.value;
         const pagesChange = lastSelectCommentType !== selectCommentType
             || lastSortBy !== sortBy
             || lastShowComments !== showComments
             || lastSearchTerms !== searchTerms
             || lastStartDate !== startDateInput.value
-            || lastEndDate !== endDateInput.value;
+            || lastEndDate !== endDateInput.value
+            || lastCategory !== category;
         const pageNumber = pagesChange ? 1 : parseInt(pageSelect.value);
         lastSelectCommentType = selectCommentType;
         lastSortBy = sortBy;
@@ -88,15 +101,7 @@ function loadComments() {
         lastSearchTerms = searchTerms;
         lastStartDate = startDateInput.value;
         lastEndDate = endDateInput.value;
-
-        if (false) {
-            console.log(`selectCommentType=${selectCommentType}`);
-            console.log(`sortBy=${sortBy}`);
-            console.log(`showComments=${showComments}`);
-            console.log(`pageNumber=${pageNumber}`);
-            console.log(`searchTerms=${searchTerms}`);
-            console.log(`pagesChange=${pagesChange}`);
-        }
+        lastCategory = category;
 
         let comments = window._comments.filter(comment => {
             switch (selectCommentType) {
@@ -107,7 +112,7 @@ function loadComments() {
                 case 'reply':
                     return !comment['top_level'];
             }
-        });
+        }).filter(comment => lastCategory === 'all' || comment['category'] === category);
 
         const startTimestamp = startDateInput.value
             ? new Date(startDateInput.value).getTime() / 1000
@@ -158,6 +163,8 @@ function loadComments() {
                     return a['grade_level'] < b['grade_level'] ? -1 : 1;
                 case 'fk_desc':
                     return a['grade_level'] > b['grade_level'] ? -1 : 1;
+                case 'reply_count':
+                    return a['total_children'] > b['total_children'] ? -1 : 1;
             }
         });
 
