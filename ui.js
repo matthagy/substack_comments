@@ -165,6 +165,8 @@ function loadComments() {
                     return a['grade_level'] > b['grade_level'] ? -1 : 1;
                 case 'reply_count':
                     return a['total_children'] > b['total_children'] ? -1 : 1;
+                case 'length':
+                    return computeLength(a) > computeLength(b) ? -1 : 1;
             }
         });
 
@@ -327,6 +329,14 @@ function loadComments() {
         if (remaining.length > 0) {
             parent.appendChild(document.createTextNode(remaining));
         }
+    }
+
+    function computeLength(comment) {
+        return comment['body'].reduce((acc, paragraph) => {
+            return acc + paragraph.reduce((acc, span) => {
+                return acc + span['value'].length;
+            }, 0);
+        }, 0);
     }
 }
 
