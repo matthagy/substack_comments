@@ -48,7 +48,7 @@ input[type="text"] {
     padding: 8px;
 }
 
-.name, .meta, .post-title {
+.name, .meta, .post-title, .category {
     font-size: 12px;
     margin-right: 6px;
 }
@@ -60,10 +60,19 @@ input[type="text"] {
 
 .meta {
     color: #808080;
+    white-space: nowrap; /* Prevents text from breaking across lines */
+    overflow-wrap: normal; /* Ensure no word breaking */
+    display: inline-block; /* Ensures meta elements are treated as inline but don’t wrap internally */
 }
 
 .post-title {
     color: #202020;
+}
+
+.category {
+    color: #505050;
+    margin-top: 6px;
+    display: inline-block;
 }
 
 a.link {

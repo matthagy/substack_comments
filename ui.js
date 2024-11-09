@@ -265,6 +265,11 @@ function loadComments() {
             createCommentLink(comment.parent_id, `parent (${comment.parent_children})`);
         }
 
+        const categoryDiv = document.createElement('div');
+        categoryDiv.classList.add('category');
+        categoryDiv.appendChild(document.createTextNode(`Category: ${comment['category']}`));
+        metaDiv.appendChild(categoryDiv);
+
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');
         entryDiv.appendChild(commentDiv);
