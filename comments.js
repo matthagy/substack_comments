@@ -43551,5 +43551,297 @@ window._comments = [
     "grade_level": 10.2,
     "word_count": 107,
     "category": "Economic Tradeoffs and Market Dynamics in Policy and Investment"
+  },
+  {
+    "post_id": 151423197,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-42f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76382694,
+    "top_level": true,
+    "date": "Nov 09 2024 13:07",
+    "likes": 20,
+    "timestamp": 1731175676,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I updated the generative AI categorization and summarization of our collective discussion in the SB comments in "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_comment_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Top 5 most frequent categories (out of 20)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Navigating Political Strategies Amid Polarization (7.4%)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Critiques and Paradoxes of Progressive and Conservative Ideologies (7.2%)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Challenges in Modern Journalism and Commentary (6.9%)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Economic Impacts of Price Discrimination and Taxation (6.6%)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Evaluating Trump's Political Influence and Biden's Leadership (6.6%)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Link has a table of all 20 as well as a concise summarization section for each of the categories. Relative to earlier versions I've shared, the current methodology has been improved by iterating on the AI prompts and using at least 100 representative comments in summarizing each category (previously ~20). I'm particularly impressed by how well the OpenAI ChatGPT-4 API is able to distill the essence of each category into 5 key points and a summary paragraph. As someone who spends way too much time browsing the comment sections, I believe this well captures our collective views on each of the identified topics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, \"Navigating Political Strategies Amid Polarization\" is summarized as:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The comments discuss the challenges both main political parties face in the U.S., focusing on the impact of primaries in producing extreme candidates, especially within the Democratic Party. There is a call for clearer and more effective messaging that avoids unpopular extremities in policies and rhetoric. Concerns are raised about the inability of Democrats to appeal to median voters and effectively manage governance, with suggestions to redirect focus toward feasible and impactful policies. Meanwhile, polarizing figures and strategies from both parties fuel political dysfunction, complicating efforts to find common ground and appeal broadly to the electorate."
+        }
+      ],
+      []
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 76382694,
+    "thread_children": 5,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 13.2,
+    "word_count": 272,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 151423197,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-42f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76383209,
+    "top_level": false,
+    "date": "Nov 09 2024 13:11",
+    "likes": 18,
+    "timestamp": 1731175909,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "If anyone wants to further explore ChatGPT's ability to categorize and summarize Substack comments, I've made all ~840 of my own comments available with standalone AI categorization and summarization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Categories: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/hagy_comment_categories"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Searchable Categorized Comments: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I wouldn't want to do that with all ~250k SB comments because many individual commentators would not want their contributions collected together in such a format. Doing so with one person allows us to see how individual comments are categorized by selecting \"Category\" in the comment explorer. I'm obviously quite aware of the ideas expressed in these writings, and I find this organizes well and distills the essence of \"Matt Hagy\" thought."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also believe this approach can be useful for gaining insights into communities we're not committed to manually engaging with. For example, The Free Press comment section is of relatively low quality in my opinion (likely due to educational polarization?), making it mentally exhausting and tedious to read. The magic of AI can convert this noisy, poorly written, angry rants into what I find to be a highly charitable summary of TFP commentators' collective views, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/tfp_comment_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m thinking that many of us American SB readers are more interested in building mental models of our fellow citizens with such right-leaning views because we've recently received quantitative feedback on the growing prevalence of these beliefs and values. ChatGPT makes the experience much more palatable and time efficient."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 76382694,
+    "parent_children": 5,
+    "thread_id": 76382694,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 14.4,
+    "word_count": 229,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 151348302,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-04f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76527517,
+    "top_level": true,
+    "date": "Nov 10 2024 13:18",
+    "likes": 5,
+    "timestamp": 1731262685,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I finally refreshed the SB article categorization to use proper generative AI methods: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_article_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The AI categorization and summarization of each category are still quite rudimentary but far better than the original word-frequency-based approach. These categories actually make some sense, and we may find them useful for navigating the massive SB back catalog. I also updated the UI to use a modern filterable/sortable columns table (React MUI DataGrid), providing much more sophisticated options for exploring articles. It's still quite clunky. For example, we need to filter categories by typing in full or partial category names."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll keep revising both the categorization and UI over the next few weeks. I particularly think the category titles and summarization can be much improved by using more example articles from each category in the Gen AI prompt. There are also many ways in which the UI can be improved, eg. filtering category using a multi-select list. Anyone can else revise the UI for their own copy because it\u2019s just a static Next.js project: "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/sb_article_categories"
+        },
+        {
+          "type": "text",
+          "value": " . (ChatGPT is highly familiar with this common framework and it can guide you in making all sorts of edits in a local copy.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Let me know what you think and if you have ideas for improvement! Note that I\u2019m explicitly not sharing the generative AI code, as running that would require sharing article contents, which are, of course, copyrighted."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 76527517,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 11.3,
+    "word_count": 227,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 151348302,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-04f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76529324,
+    "top_level": false,
+    "date": "Nov 10 2024 13:29",
+    "likes": 27,
+    "timestamp": 1731263399,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, because that would only further raise the salience of inflation among the electorate without in anyway fixing the underlying problem. And if we actually convinced some voters of this false narrative, they'd immediately shift to the question of \"Why was Trump able to keep corporate greed under control, but Biden can't?\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We we're basically screwed after the ARP passed and we had baked in massive fiscal stimulus. The time to solve this was to better design the programs. Eg, make state and local aid only backfill holes in tax revenue under conditions of no tax cuts. Similarly, we could've made the extra unemployment insurance conditional on pandemic metrics that were guaranteed to fade in months."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 76525689,
+    "parent_children": 35,
+    "thread_id": 76525689,
+    "thread_children": 35,
+    "ratio_recv": -25,
+    "ratio_give": 11,
+    "grade_level": 10.8,
+    "word_count": 116,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 151348302,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-04f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76529868,
+    "top_level": false,
+    "date": "Nov 10 2024 13:33",
+    "likes": 9,
+    "timestamp": 1731263635,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To right of \"deregulate all things\" Carter? I know Regan gets a lot of the credit for neoliberalism (or blame as you may see it), but us true acolytes of the faith have always held Carter as true hero. Regan just had better marketing."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 76527549,
+    "parent_children": 11,
+    "thread_id": 76527549,
+    "thread_children": 11,
+    "ratio_recv": -8,
+    "ratio_give": 7,
+    "grade_level": 5.5,
+    "word_count": 44,
+    "category": "Uncategorized"
   }
 ];
