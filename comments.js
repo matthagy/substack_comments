@@ -43843,5 +43843,46 @@ window._comments = [
     "grade_level": 5.5,
     "word_count": 44,
     "category": "Uncategorized"
+  },
+  {
+    "post_id": 151322312,
+    "title": "Politics is Full of Bad People Who Do Good Things",
+    "canonical_url": "https://www.richardhanania.com/p/politics-is-full-of-bad-people-who",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76631372,
+    "top_level": true,
+    "date": "Nov 11 2024 07:36",
+    "likes": 0,
+    "timestamp": 1731328605,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Happy Veteran\u2019s Day! I hope all readers, particularly my fellow lurkers, can appreciate my small gift of, \u201cRichard Hanania's Substack Comment Categories\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/rh_comment_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve personally enjoyed getting to know the commentators here better through this generative AI organization and summarization of common discussion topics. I definitely now recognize the need to develop a better mental model of my fellow Americans with right wing views (ie, work on my empathy) following our recent quantitative feedback on the growing prevalence of these beliefs and values. Thank you all for your collective contributions to my intellectual growth!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 76631372,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 14.7,
+    "word_count": 93,
+    "category": "Uncategorized"
   }
 ];
