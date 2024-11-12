@@ -43725,7 +43725,7 @@ window._comments = [
     "id": 76527517,
     "top_level": true,
     "date": "Nov 10 2024 13:18",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1731262685,
     "body": [
       [
@@ -43765,12 +43765,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 76527517,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 2,
+    "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 227,
@@ -43786,7 +43786,7 @@ window._comments = [
     "id": 76529324,
     "top_level": false,
     "date": "Nov 10 2024 13:29",
-    "likes": 27,
+    "likes": 29,
     "timestamp": 1731263399,
     "body": [
       [
@@ -43804,11 +43804,11 @@ window._comments = [
     ],
     "total_children": 5,
     "parent_id": 76525689,
-    "parent_children": 35,
+    "parent_children": 49,
     "thread_id": 76525689,
-    "thread_children": 35,
-    "ratio_recv": -25,
-    "ratio_give": 11,
+    "thread_children": 49,
+    "ratio_recv": -27,
+    "ratio_give": 13,
     "grade_level": 10.8,
     "word_count": 116,
     "category": "Uncategorized"
@@ -43838,7 +43838,7 @@ window._comments = [
     "parent_children": 11,
     "thread_id": 76527549,
     "thread_children": 11,
-    "ratio_recv": -8,
+    "ratio_recv": -7,
     "ratio_give": 7,
     "grade_level": 5.5,
     "word_count": 44,
@@ -43854,7 +43854,7 @@ window._comments = [
     "id": 76631372,
     "top_level": true,
     "date": "Nov 11 2024 07:36",
-    "likes": 0,
+    "likes": 13,
     "timestamp": 1731328605,
     "body": [
       [
@@ -43874,15 +43874,66 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 76631372,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 3,
+    "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 14.7,
     "word_count": 93,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 151322312,
+    "title": "Politics is Full of Bad People Who Do Good Things",
+    "canonical_url": "https://www.richardhanania.com/p/politics-is-full-of-bad-people-who",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 76659932,
+    "top_level": false,
+    "date": "Nov 11 2024 10:45",
+    "likes": 3,
+    "timestamp": 1731339941,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks, much appreciated!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'll eventually get around to similarly organizing your ever-growing backlog of articles into AI-generated categories (unless you object; only titles and links to articles will be shared). Currently refining the methods with Yglesias's Slow Boring: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_article_categories/"
+        },
+        {
+          "type": "text",
+          "value": " Hoping to encourage more exploration of past articles from thoughtful authors when new readers discover them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And, similar to the comment work, I hope article organization and summarization help us all better understand the beliefs and values of other communities and motivate more cross-partisan-divide engagement. Moreover, these are good test cases for us to develop better intuition about the strengths and weaknesses of generative AI by applying it to novel domains that we each understand a bit as readers."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 76649095,
+    "parent_children": 2,
+    "thread_id": 76631372,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 16.0,
+    "word_count": 117,
     "category": "Uncategorized"
   }
 ];
