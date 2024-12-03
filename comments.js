@@ -44031,5 +44031,285 @@ window._comments = [
     "grade_level": 15.5,
     "word_count": 126,
     "category": "AI's Transformative Impact Across Domains"
+  },
+  {
+    "post_id": 152113891,
+    "title": "AI Progress, Racism and the Election, Trump Picks, and More",
+    "canonical_url": "https://www.richardhanania.com/p/ai-progress-racism-and-the-election",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79556232,
+    "top_level": true,
+    "date": "Dec 01 2024 04:55",
+    "likes": 0,
+    "timestamp": 1733046935,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "On \"21. Has AI plateaued?\", the company Runway ("
+        },
+        {
+          "type": "url",
+          "value": "https://runwayml.com/"
+        },
+        {
+          "type": "text",
+          "value": ") has found growing commercial success in AI-generated video. Here's a demo of their current capabilities: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=nByslCkykj8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On the more general question of AI plateauing, there's a lot of discussion in the tech community that I'd summarize as: a) current methods have exhausted all plausible training data, and b) there's a lot of experimentation with methods that augment the current approaches. Notably, OpenAI's o1 model [1] can leverage more compute at inference time rather than at training time. I.e., the model can spend more time thinking about a query."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It's also the case that current methods and models are meeting or exceeding human capabilities across numerous domains. Hence, a lot of the current work to improve AI is focused on more narrow domains with the potential for high payoffs. For example, because current models do so well across common measures of mathematical abilities, new tests have been developed in \"FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI\" [2]. Now, labs are focused on improvements in these domains where success wouldn't be noticed among the general public but could instead have large payoffs in accelerating STEM fields by augmenting, if not replacing, human researchers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://openai.com/o1/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://arxiv.org/abs/2411.04872v1"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 79556232,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.1,
+    "word_count": 203,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152060047,
+    "title": "We need reality-based energy policy",
+    "canonical_url": "https://www.slowboring.com/p/we-need-reality-based-energy-policy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79699912,
+    "top_level": false,
+    "date": "Dec 02 2024 07:25",
+    "likes": 12,
+    "timestamp": 1733142347,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I\u2019m a bit worried Matt is going down the Andrew Sullivan path; making your personal beefs the basis of your political analysis"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Uh, we can always attribute some of these beefs to \"strategic trolling\". Ie, getting your ideological opponents to negatively engage and thereby raise the salience and distribution of the debate. And, as noted in the article, Yglesias has a history of trolling in general so even if this is just him indulging those impulses, we can be confident he'll manage that well enough. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*edit to deal w/ substack messing up long comments by making a short comment and editing in the rest of the original comment. background, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-f0f/comment/79168766"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 79695637,
+    "parent_children": 62,
+    "thread_id": 79695637,
+    "thread_children": 62,
+    "ratio_recv": null,
+    "ratio_give": -32,
+    "grade_level": 12.8,
+    "word_count": 109,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79795854,
+    "top_level": false,
+    "date": "Dec 02 2024 18:26",
+    "likes": 4,
+    "timestamp": 1733182002,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Copying in some background from that linked wikipedia article on precipitating anger around mortgage bailouts and the sources of the name \"tea party\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Birth of the national Tea Party movement"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> On February 19, 2009, in a broadcast from the floor of the Chicago Mercantile Exchange, CNBC Business News Network editor Rick Santelli loudly criticized the government plan to refinance mortgages as \"promoting bad behavior\" by \"subsidizing losers' mortgages\", and raised the possibility of putting together a \"Chicago Tea Party in July\". A number of the traders and brokers around him cheered on his proposal, to the apparent amusement of the hosts in the studio. It was called \"the rant heard round the world\". Santelli's remarks \"set the fuse to the modern anti-Obama Tea Party movement\", according to journalist Lee Fang."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 79790313,
+    "parent_children": 3,
+    "thread_id": 79786381,
+    "thread_children": 23,
+    "ratio_recv": -3,
+    "ratio_give": 4,
+    "grade_level": 16.0,
+    "word_count": 130,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79797688,
+    "top_level": false,
+    "date": "Dec 02 2024 18:42",
+    "likes": 6,
+    "timestamp": 1733182959,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but addressing that requires limiting credit to all people or having the government play a more active role in deciding who is worthy of borrowing. Credit can be quite valuable and many people and firms use it reasonably. We'd have a far worse economy should everyone lose that ability to borrow."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Assuming we still allow lending, then we need a process to determine who can borrow how much. At least when the market makes decisions we can think of this as a cold calculating decision and can hope the lenders and borrowers self-interest leads to rational-ish behavior. As soon as this becomes a political, dare I say a moral decision, things could get far worse."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 79793366,
+    "parent_children": 8,
+    "thread_id": 79786381,
+    "thread_children": 23,
+    "ratio_recv": -2,
+    "ratio_give": -4,
+    "grade_level": 9.6,
+    "word_count": 116,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79798680,
+    "top_level": false,
+    "date": "Dec 02 2024 18:51",
+    "likes": 2,
+    "timestamp": 1733183492,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Nate's been pissy about various Democratic politicians and associated institutions, particularly the media and academia, for at least decade. He's not going Republican until it's at least Romney vs. Sanders level of Republican redemption and Democratic disrepute. And in such a fanciful situation he'll be getting in line behind myself and many, if not most, SB commentators."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 79787379,
+    "parent_children": 5,
+    "thread_id": 79785406,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 11.2,
+    "word_count": 57,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79804175,
+    "top_level": true,
+    "date": "Dec 02 2024 19:40",
+    "likes": 0,
+    "timestamp": 1733186443,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Preview of current generative AI project with Substack comments: "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.com/tag_fractions_resize.png"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Use ChatGPT API to assign tags to each of the top ~10k comments from various Substack communities, including Slow Boring, The Free Press, Noahpinion, and more. The linked image shows the frequency of tags among the comments from each site. Any thoughts about the relative prevalence of topics in the different communities? I certainly find it interesting how all communities sure love to discuss \"media influence\"."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The next step will be summarizing the views, beliefs, and themes of comments with each tag for each site using the ChatGPT API. We can then compare and contrast different communities using these summaries of their discussions for each topic. For example, how do Slow Boring commentators feel about \"media influence\" compared to those from The Free Press?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 79804175,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 133,
+    "category": "Uncategorized"
   }
 ];
