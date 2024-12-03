@@ -44145,11 +44145,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 79695637,
-    "parent_children": 62,
+    "parent_children": 64,
     "thread_id": 79695637,
-    "thread_children": 62,
+    "thread_children": 64,
     "ratio_recv": null,
-    "ratio_give": -32,
+    "ratio_give": -34,
     "grade_level": 12.8,
     "word_count": 109,
     "category": "Uncategorized"
@@ -44164,7 +44164,7 @@ window._comments = [
     "id": 79795854,
     "top_level": false,
     "date": "Dec 02 2024 18:26",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1733182002,
     "body": [
       [
@@ -44190,9 +44190,9 @@ window._comments = [
     "parent_id": 79790313,
     "parent_children": 3,
     "thread_id": 79786381,
-    "thread_children": 23,
+    "thread_children": 32,
     "ratio_recv": -3,
-    "ratio_give": 4,
+    "ratio_give": 5,
     "grade_level": 16.0,
     "word_count": 130,
     "category": "Uncategorized"
@@ -44207,7 +44207,7 @@ window._comments = [
     "id": 79797688,
     "top_level": false,
     "date": "Dec 02 2024 18:42",
-    "likes": 6,
+    "likes": 8,
     "timestamp": 1733182959,
     "body": [
       [
@@ -44223,13 +44223,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 5,
     "parent_id": 79793366,
-    "parent_children": 8,
+    "parent_children": 12,
     "thread_id": 79786381,
-    "thread_children": 23,
-    "ratio_recv": -2,
-    "ratio_give": -4,
+    "thread_children": 32,
+    "ratio_recv": -4,
+    "ratio_give": -10,
     "grade_level": 9.6,
     "word_count": 116,
     "category": "Uncategorized"
@@ -44244,7 +44244,7 @@ window._comments = [
     "id": 79798680,
     "top_level": false,
     "date": "Dec 02 2024 18:51",
-    "likes": 2,
+    "likes": 4,
     "timestamp": 1733183492,
     "body": [
       [
@@ -44258,9 +44258,9 @@ window._comments = [
     "parent_id": 79787379,
     "parent_children": 5,
     "thread_id": 79785406,
-    "thread_children": 37,
+    "thread_children": 41,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -5,
     "grade_level": 11.2,
     "word_count": 57,
     "category": "Uncategorized"
@@ -44275,7 +44275,7 @@ window._comments = [
     "id": 79804175,
     "top_level": true,
     "date": "Dec 02 2024 19:40",
-    "likes": 0,
+    "likes": 3,
     "timestamp": 1733186443,
     "body": [
       [
@@ -44301,15 +44301,126 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 79804175,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 6,
+    "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 133,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79806536,
+    "top_level": false,
+    "date": "Dec 02 2024 20:02",
+    "likes": 5,
+    "timestamp": 1733187751,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Foreclosure doesn't always mean the borrower \"loses everything.\" If the house sells for more than the outstanding balance, the borrower can receive any surplus after the debt and foreclosure costs are covered. The process is rarely ideal for the borrower, but it's not always a complete loss if the asset value exceeds what's owed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But again, the alternative is having the government determine who can borrow how much. And I'm sure voters from both parties would be quite unhappy when people are denied mortgages that banks would have otherwise made \"for their own good.\" Although, I'll admit, I'd find it quite funny, dare I say ironic, if these complaints consist of Democrats concerned about poor and disadvantaged communities unable to build wealth, while the individuals in question are primarily Republicans enraged about \"the guberment stealing their god-given right\" to a mortgage."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 79804448,
+    "parent_children": 3,
+    "thread_id": 79786381,
+    "thread_children": 32,
+    "ratio_recv": -5,
+    "ratio_give": 4,
+    "grade_level": 12.5,
+    "word_count": 141,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79840230,
+    "top_level": false,
+    "date": "Dec 03 2024 03:43",
+    "likes": 0,
+    "timestamp": 1733215404,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! And that discontinuity is likely due to lack of likes and therefore I use number of replies to identify salient comments. That's measuring something very different in terms of discussion. Also considered using a machine learning to create a `likes` predictor, trained on other sites, to predict the `likes` for ACX comments. But that lose the ACX-character because it would be using the judgement of a different groups of subscribers in terms of highly liked comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I too would appreciate enabling likes in ACX to better navigate comment quality as a reader. And also to help me w/ this project."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 79812698,
+    "parent_children": 3,
+    "thread_id": 79804175,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 8.7,
+    "word_count": 101,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152467617,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-847",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79840456,
+    "top_level": false,
+    "date": "Dec 03 2024 03:47",
+    "likes": 0,
+    "timestamp": 1733215641,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks! Use the full time scale of each site. Eg, SB goes back to Nov 2020. We may want to limit that to just the last 6 months to better identify the current salient discussion topics. Could also be interesting to see how this changes over time. Eg, SB comment tag-frequency in 2022 vs. in 2024 as well as the AI summarization of comments for the same tag in each time frame."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'll definitely share the next stages of the project!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 79812670,
+    "parent_children": 2,
+    "thread_id": 79804175,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 4.3,
+    "word_count": 81,
     "category": "Uncategorized"
   }
 ];
