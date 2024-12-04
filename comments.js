@@ -44145,11 +44145,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 79695637,
-    "parent_children": 64,
+    "parent_children": 80,
     "thread_id": 79695637,
-    "thread_children": 64,
+    "thread_children": 80,
     "ratio_recv": null,
-    "ratio_give": -34,
+    "ratio_give": -37,
     "grade_level": 12.8,
     "word_count": 109,
     "category": "Uncategorized"
@@ -44190,9 +44190,9 @@ window._comments = [
     "parent_id": 79790313,
     "parent_children": 3,
     "thread_id": 79786381,
-    "thread_children": 32,
+    "thread_children": 33,
     "ratio_recv": -3,
-    "ratio_give": 5,
+    "ratio_give": 4,
     "grade_level": 16.0,
     "word_count": 130,
     "category": "Uncategorized"
@@ -44207,7 +44207,7 @@ window._comments = [
     "id": 79797688,
     "top_level": false,
     "date": "Dec 02 2024 18:42",
-    "likes": 8,
+    "likes": 14,
     "timestamp": 1733182959,
     "body": [
       [
@@ -44227,9 +44227,9 @@ window._comments = [
     "parent_id": 79793366,
     "parent_children": 12,
     "thread_id": 79786381,
-    "thread_children": 32,
-    "ratio_recv": -4,
-    "ratio_give": -10,
+    "thread_children": 33,
+    "ratio_recv": -7,
+    "ratio_give": -12,
     "grade_level": 9.6,
     "word_count": 116,
     "category": "Uncategorized"
@@ -44244,7 +44244,7 @@ window._comments = [
     "id": 79798680,
     "top_level": false,
     "date": "Dec 02 2024 18:51",
-    "likes": 4,
+    "likes": 7,
     "timestamp": 1733183492,
     "body": [
       [
@@ -44258,7 +44258,7 @@ window._comments = [
     "parent_id": 79787379,
     "parent_children": 5,
     "thread_id": 79785406,
-    "thread_children": 41,
+    "thread_children": 44,
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 11.2,
@@ -44275,7 +44275,7 @@ window._comments = [
     "id": 79804175,
     "top_level": true,
     "date": "Dec 02 2024 19:40",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1733186443,
     "body": [
       [
@@ -44306,7 +44306,7 @@ window._comments = [
     "parent_children": null,
     "thread_id": 79804175,
     "thread_children": 6,
-    "ratio_recv": -1,
+    "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 133,
@@ -44322,7 +44322,7 @@ window._comments = [
     "id": 79806536,
     "top_level": false,
     "date": "Dec 02 2024 20:02",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1733187751,
     "body": [
       [
@@ -44342,7 +44342,7 @@ window._comments = [
     "parent_id": 79804448,
     "parent_children": 3,
     "thread_id": 79786381,
-    "thread_children": 32,
+    "thread_children": 33,
     "ratio_recv": -5,
     "ratio_give": 4,
     "grade_level": 12.5,
@@ -44359,7 +44359,7 @@ window._comments = [
     "id": 79840230,
     "top_level": false,
     "date": "Dec 03 2024 03:43",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1733215404,
     "body": [
       [
@@ -44381,7 +44381,7 @@ window._comments = [
     "thread_id": 79804175,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 8.7,
     "word_count": 101,
     "category": "Uncategorized"
@@ -44396,7 +44396,7 @@ window._comments = [
     "id": 79840456,
     "top_level": false,
     "date": "Dec 03 2024 03:47",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1733215641,
     "body": [
       [
@@ -44418,9 +44418,118 @@ window._comments = [
     "thread_id": 79804175,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": 0,
     "grade_level": 4.3,
     "word_count": 81,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152533941,
+    "title": "Tuesday thread ",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-a5f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 79959429,
+    "top_level": false,
+    "date": "Dec 03 2024 19:46",
+    "likes": 5,
+    "timestamp": 1733273196,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson at Stratechery has an excellent overview in today's article, \"Gelsinger Out at Intel, What Happened, Ten Years Too Late\" (paywalled) "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/gelsinger-out-at-intel-what-happened-ten-years-too-late/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The title gives it away and Thompson has been pounding this drum for over a decade. Intel got too insular, rested on their laurels of PC and server domination due to superior CPU performance, focused too much on short term financial results, and fell behind technically."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "First they missed mobile because it didn't leverage their expertise in high performance and instead needed a focus on energy efficiency. They also didn't anticipate much financial opportunity. Yet mobile became huge, resulting in considerable investment in its more energy efficient ARM architecture, and as it matured into higher performance ARM found its way into servers. Particularly for the hyperscalers\u2014Amazon, Microsoft, Google, and Meta\u2014reached the scale that energy optimization increasingly impacted the bottom line. Intel began losing market share."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next they missed GPU/AI accelerators. That actually started earlier when graphics accelerators were a niche product, far removed from Intel\u2019s core competencies. Yet now the generative AI hype cycle has all the major players redirecting capex from CPUs to GPUs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, Intel\u2019s attempt to become a foundry for other chip design firms, and thereby get the scale to compete with TSMC, was never going to succeed because everyone in the industry sees Intel as a bunch of insular assholes. TSMC by contrast is a customer-center services company. No one\u2019s gonna trust Intel to manufacture a potential competitor's product because when push comes to shove Intel\u2019s gonna look out for their own products. Eg, optimizing fabs for their own chips. Although at present the industry is more concerned about whether Intel can even manufacture their own chips on their leading edge process."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Gelsinger truly did believe Intel could turn this around and regain technical leadership while also becoming a services-focused foundry. Yet even he fooled himself about the true cost and pain necessary. Eg, Intel only began preserving capital by cutting their dividend and laying off staff in Aug 2024. [1] That should\u2019ve been done earlier and headcount should\u2019ve been cut more aggressively. They need to become a different firm and that entails different people. They also need a lot capital to finance this all."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The firing of Gelsinger is Intel\u2019s board admitting defeat and preparing to cut the company in half. A fabless firm with their chips manufactured by TSMC (a la AMD) and a fab that is TBD (may go the way of AMD\u2019s spinoff, Global Foundry, and decay into irrelevance). Thompson found a particularly poignant quote from Gelsinger in their Feb 2022 interview that exemplifies this [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Ben Thompson: When you were contemplating your strategy for Intel as you came back, how much consideration was there about going the same path, becoming a fabless company and leaning into your design?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Pat Gelsinger: Let me give maybe three different answers to that question, and these become more intellectual as we go along. The first one was I wrote a strategy document for the board of directors and I said if you want to split the company in two, then you should hire a PE kind of guy to go do that, not me. My strategy is what\u2019s become IDM 2.0 and I described it. So if you\u2019re hiring me, that\u2019s the strategy and 100% of the board asked me to be the CEO and supported the strategy I laid out, of which this is one of the pieces. So the first thing was all of that discussion happened before I took the job as the CEO, so there was no debate, no contemplation, et cetera, this is it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bye bye Intel!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reuters.com/technology/intel-forecasts-third-quarter-revenue-below-estimates-cut-15-jobs-2024-08-01/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 79943455,
+    "parent_children": 5,
+    "thread_id": 79941760,
+    "thread_children": 27,
+    "ratio_recv": -2,
+    "ratio_give": -5,
+    "grade_level": 9.8,
+    "word_count": 611,
     "category": "Uncategorized"
   }
 ];
