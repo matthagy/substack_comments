@@ -44149,7 +44149,7 @@ window._comments = [
     "thread_id": 79695637,
     "thread_children": 80,
     "ratio_recv": null,
-    "ratio_give": -37,
+    "ratio_give": -39,
     "grade_level": 12.8,
     "word_count": 109,
     "category": "Uncategorized"
@@ -44207,7 +44207,7 @@ window._comments = [
     "id": 79797688,
     "top_level": false,
     "date": "Dec 02 2024 18:42",
-    "likes": 14,
+    "likes": 15,
     "timestamp": 1733182959,
     "body": [
       [
@@ -44229,7 +44229,7 @@ window._comments = [
     "thread_id": 79786381,
     "thread_children": 33,
     "ratio_recv": -7,
-    "ratio_give": -12,
+    "ratio_give": -11,
     "grade_level": 9.6,
     "word_count": 116,
     "category": "Uncategorized"
@@ -44433,7 +44433,7 @@ window._comments = [
     "id": 79959429,
     "top_level": false,
     "date": "Dec 03 2024 19:46",
-    "likes": 5,
+    "likes": 10,
     "timestamp": 1733273196,
     "body": [
       [
@@ -44525,11 +44525,181 @@ window._comments = [
     "parent_id": 79943455,
     "parent_children": 5,
     "thread_id": 79941760,
-    "thread_children": 27,
-    "ratio_recv": -2,
+    "thread_children": 28,
+    "ratio_recv": -4,
     "ratio_give": -5,
     "grade_level": 9.8,
     "word_count": 611,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152219137,
+    "title": "Have I been running the Biden Administration?",
+    "canonical_url": "https://www.slowboring.com/p/have-i-been-running-the-biden-administration",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80011466,
+    "top_level": false,
+    "date": "Dec 04 2024 07:48",
+    "likes": 24,
+    "timestamp": 1733316533,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "No, acquisitions of small, failed startups decrease the downside risk for both investors and employees. Moreover, it allows a promising product, technology, or even just a team to get the resources and distribution channels necessary for success when they failed to do so independently. The primary beneficiaries are the end users."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, the Twitch Acquisition by Amazon. They were in no shape to secure the billions necessary to build the infrastructure necessary to become a financially viable business while still building out the product. Rather than die, Twitch immediately got access to Amazon\u2019s massive cloud infrastructure, the necessary engineering experts to use it, and financing for continued product development."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The importance of this mechanism in the tech investing ecosystem is best articulated in Ben Thompson\u2019s Feb 2020 article, \u201cFirst, Do No Harm\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/first-do-no-harm/"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That goes into detail about the flawed changes to antitrust enforcement that began under the Trump administration. He revisits the Instagram acquisition that many people highlight as failure of the FTC to block anti-competitive mergers, an opinion Thompson shares, but then strongly disagrees about the lessons learned. Instagram was far from a failed startup and Facebook should've been blocked from acquiring such a promising competitor."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, there\u2019s no guarantee that Instagram would\u2019ve achieved their current level of success without Facebook\u2019s immense resources in terms of infrastructure, deep bench of tech talent, and financial capital. But we should\u2019ve waited for them to actually fail before allowing an acquisition of their assets. Blocking such an acquisition serves no purpose because the competitive pressure has already been eliminated through the startup\u2019s failure."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80007184,
+    "parent_children": 6,
+    "thread_id": 80007184,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": 18,
+    "grade_level": 13.0,
+    "word_count": 261,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152219137,
+    "title": "Have I been running the Biden Administration?",
+    "canonical_url": "https://www.slowboring.com/p/have-i-been-running-the-biden-administration",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80012295,
+    "top_level": false,
+    "date": "Dec 04 2024 07:56",
+    "likes": 9,
+    "timestamp": 1733317002,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Biden didn't fire all the economists working on staff at the fed"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He couldn't because the Fed is an independent institution with a novel public/private structure. Particularly the economists employment, which primarily occurs at the regional banks that are private-esqu entities. Eg, the Federal Reserve Bank of St. Louis (famous for FRED - Federal Reserve Economic Data), "
+        },
+        {
+          "type": "url",
+          "value": "https://www.stlouisfed.org/"
+        },
+        {
+          "type": "text",
+          "value": " . Note the .org domain rather than a .gov."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 80011268,
+    "parent_children": 16,
+    "thread_id": 80011268,
+    "thread_children": 16,
+    "ratio_recv": -8,
+    "ratio_give": 5,
+    "grade_level": 9.5,
+    "word_count": 64,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152219137,
+    "title": "Have I been running the Biden Administration?",
+    "canonical_url": "https://www.slowboring.com/p/have-i-been-running-the-biden-administration",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80018651,
+    "top_level": false,
+    "date": "Dec 04 2024 08:47",
+    "likes": 20,
+    "timestamp": 1733320072,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "\"Neoliberalism failed the country\" is a vibe that means ten different things to seven different people. It\u2019s just a more respectable branding of generic populism that rails against \u201cthe establishment\u201d and \u201cthe elites\u201d without adding any actionable insights. Hence why political actors have continuously failed to build a political movement based around that messaging. Moreover, as soon as we add some substance to the vibe, support collapses. For example, low-paid service workers should make more money. But actually paying more for the services they provide is quite unpopular, including among leftist critics of neoliberalism who frame the higher prices as a failing of our \u201cexploitative neoliberal political and economic order.\u201d"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80009411,
+    "parent_children": 15,
+    "thread_id": 80009411,
+    "thread_children": 15,
+    "ratio_recv": -18,
+    "ratio_give": 15,
+    "grade_level": 11.6,
+    "word_count": 110,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152219137,
+    "title": "Have I been running the Biden Administration?",
+    "canonical_url": "https://www.slowboring.com/p/have-i-been-running-the-biden-administration",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80043049,
+    "top_level": false,
+    "date": "Dec 04 2024 11:27",
+    "likes": 1,
+    "timestamp": 1733329624,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, that was a pedantic point. But the broader point is that there were limited mechanisms at Biden's disposal to address inflation after ARP passed. Monetary policy wasn't among them. Yet, he could've pivoted to a supply side policy, ie conventional \"neoliberal\" economics, as Yglesias repeatedly suggested with receipts in today's article. Instead Biden eschewed those technocrats in favor of \"everything bagel progressivism\"."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80042064,
+    "parent_children": 4,
+    "thread_id": 80011268,
+    "thread_children": 16,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 10.6,
+    "word_count": 63,
     "category": "Uncategorized"
   }
 ];
