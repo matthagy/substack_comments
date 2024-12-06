@@ -44433,7 +44433,7 @@ window._comments = [
     "id": 79959429,
     "top_level": false,
     "date": "Dec 03 2024 19:46",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1733273196,
     "body": [
       [
@@ -44526,8 +44526,8 @@ window._comments = [
     "parent_children": 5,
     "thread_id": 79941760,
     "thread_children": 28,
-    "ratio_recv": -4,
-    "ratio_give": -5,
+    "ratio_recv": -5,
+    "ratio_give": -6,
     "grade_level": 9.8,
     "word_count": 611,
     "category": "Trends in Tech Industry Employment and Evaluation"
@@ -44542,7 +44542,7 @@ window._comments = [
     "id": 80011466,
     "top_level": false,
     "date": "Dec 04 2024 07:48",
-    "likes": 24,
+    "likes": 26,
     "timestamp": 1733316533,
     "body": [
       [
@@ -44590,7 +44590,7 @@ window._comments = [
     "thread_id": 80007184,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": 18,
+    "ratio_give": 20,
     "grade_level": 13.0,
     "word_count": 261,
     "category": "Challenges and Strategies in Modern Tech Ecosystems"
@@ -44650,7 +44650,7 @@ window._comments = [
     "id": 80018651,
     "top_level": false,
     "date": "Dec 04 2024 08:47",
-    "likes": 21,
+    "likes": 22,
     "timestamp": 1733320072,
     "body": [
       [
@@ -44665,8 +44665,8 @@ window._comments = [
     "parent_children": 16,
     "thread_id": 80009411,
     "thread_children": 16,
-    "ratio_recv": -19,
-    "ratio_give": 16,
+    "ratio_recv": -20,
+    "ratio_give": 17,
     "grade_level": 11.6,
     "word_count": 110,
     "category": "Dynamics and Challenges in U.S. Political Discourse"
@@ -44681,7 +44681,7 @@ window._comments = [
     "id": 80043049,
     "top_level": false,
     "date": "Dec 04 2024 11:27",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733329624,
     "body": [
       [
@@ -44696,10 +44696,264 @@ window._comments = [
     "parent_children": 4,
     "thread_id": 80011268,
     "thread_children": 16,
-    "ratio_recv": -1,
-    "ratio_give": 1,
+    "ratio_recv": -2,
+    "ratio_give": 2,
     "grade_level": 10.6,
     "word_count": 63,
     "category": "Debating Inflation, Policy Responses, and Political Implications"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80162216,
+    "top_level": false,
+    "date": "Dec 05 2024 07:40",
+    "likes": 14,
+    "timestamp": 1733402455,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That reminds me of a funny occurrence in the college protests about the IP conflict that I remarked on in May 2024 [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The protestors and counter protestors at one of the universities finally found a point of unity"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> Both sides now chanting \u201cF***\u201d Joe Biden\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">"
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/MavenNavarro1/status/1785785576571994299"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/wednesday-thread-465/comment/55312183"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80160617,
+    "parent_children": 6,
+    "thread_id": 80157620,
+    "thread_children": 88,
+    "ratio_recv": -11,
+    "ratio_give": 6,
+    "grade_level": 19.3,
+    "word_count": 47,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80163358,
+    "top_level": false,
+    "date": "Dec 05 2024 07:51",
+    "likes": 10,
+    "timestamp": 1733403079,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, both bubbles exists, the Trump one is worse, and both explain our recent electoral defeat. We should focus on the bubbles we can actually burst, those that we inhabit, rather than just rant more about Fox News and Joe Rogan."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80162547,
+    "parent_children": 7,
+    "thread_id": 80157620,
+    "thread_children": 88,
+    "ratio_recv": null,
+    "ratio_give": 6,
+    "grade_level": 7.7,
+    "word_count": 41,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80163698,
+    "top_level": false,
+    "date": "Dec 05 2024 07:54",
+    "likes": 8,
+    "timestamp": 1733403271,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "A lot of this is just intra-elite status competition within our own bubbles as we fool-heartedly embraced the \"no enemies to the left\" discussed in this article. We could almost win any argument by staking out a more extreme, or at least nuanced, position. Thankfully Yglesias, Klein, and others are working on correcting that."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80160733,
+    "parent_children": 17,
+    "thread_id": 80160733,
+    "thread_children": 17,
+    "ratio_recv": null,
+    "ratio_give": -29,
+    "grade_level": 10.3,
+    "word_count": 54,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80164955,
+    "top_level": false,
+    "date": "Dec 05 2024 08:05",
+    "likes": 15,
+    "timestamp": 1733403924,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In fairness, vengeance is a form of justice, and many people throughout the political space seem to viscerally excited by that. Doesn't mean we can't call this out, and in fact we should."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, binary choice, would one prefer addressing climate change in a manor that makes several people trillionaires, including Elon Musk, or would they rather climate change only gets worse? Anyone who rejects the question can be branded as an unserious, weirdo, loser who just wants to fantasize about vengeance rather than solve actual problems."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80161306,
+    "parent_children": 3,
+    "thread_id": 80157351,
+    "thread_children": 239,
+    "ratio_recv": -6,
+    "ratio_give": -8,
+    "grade_level": 10.6,
+    "word_count": 87,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80170608,
+    "top_level": false,
+    "date": "Dec 05 2024 08:51",
+    "likes": 14,
+    "timestamp": 1733406661,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We should add a flat surtax on immigrant income to embrace the Trumpian \"make outsiders pay\". This would serve 2 purposes:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1) Satisfy the visceral insider/outsider divide that Trump exploits by treating them financially worse"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2) Make unskilled immigration less financially beneficial and thereby decrease the supply of people seeking these opportunities"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would have less of an effect on highly skilled immigration that can already make far more money in the US than elsewhere; including in the EU. Even an extra 20 percentage points of tax (such that top marginal federal rates exceed 50%) would still have many skilled workers better off in the US. We could alternatively tax immigrant remittance to select against people that primarily want to send money home rather than build their life here."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would be particularly useful in the context of addressing the growing fiscal burden of Social Security and Medicare. Rather than raise taxes or cut benefits, we can instead just better exploit immigrants. Would make future blanket immigrant crackdowns painful, particularly high-skilled ones, when we can get fewer foreigners at the margin just by increasing the tax rate."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 80162138,
+    "parent_children": 10,
+    "thread_id": 80160733,
+    "thread_children": 17,
+    "ratio_recv": -10,
+    "ratio_give": -6,
+    "grade_level": 13.6,
+    "word_count": 185,
+    "category": "Uncategorized"
+  },
+  {
+    "post_id": 152095347,
+    "title": "The new politics of evasion ",
+    "canonical_url": "https://www.slowboring.com/p/the-new-politics-of-evasion",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80231062,
+    "top_level": false,
+    "date": "Dec 05 2024 15:12",
+    "likes": 2,
+    "timestamp": 1733429535,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I can see how this could be seen as unfair. To me, it just seems comparable to a business raising its prices; if consumers don't like it, then they don't have to buy it. If specific immigrants find this sufficiently unfair, or just not sufficiently lucrative, then they will go elsewhere. Although I'd expect this to primarily impact prospective immigrants. And like any price setter, the U.S. people can adjust their immigration tax rate to achieve some tradeoff between immigration levels and revenue."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The tax wouldn't apply to citizens, including naturalized citizens. Although that could give U.S. voters a reason to become rather stingy around citizenship, particularly as immigrants themselves could be aging into Social Security and Medicare benefits. The financially optimal arrangement would be to fleece immigrants during their prime working years with the warning that they better be saving and planning to move to a far lower cost of living country. That does seem rather unfair, possibly even cruel, but some immigrants might still find that arrangement optimal compared to their alternatives."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80226801,
+    "parent_children": 3,
+    "thread_id": 80160733,
+    "thread_children": 17,
+    "ratio_recv": -2,
+    "ratio_give": 1,
+    "grade_level": 9.5,
+    "word_count": 174,
+    "category": "Uncategorized"
   }
 ];
