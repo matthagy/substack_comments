@@ -40,7 +40,13 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 10.3,
     "word_count": 188,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "censorship",
+      "media influence",
+      "media bias",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 43514326,
@@ -83,7 +89,14 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 10.7,
     "word_count": 208,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political polarization",
+      "racial inequality",
+      "economic inequality",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 43776715,
@@ -154,7 +167,10 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 5.0,
     "word_count": 73,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 43937960,
@@ -229,7 +245,14 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 8.9,
     "word_count": 245,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "environmental impact",
+      "climate change",
+      "energy policy",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 44832459,
@@ -286,7 +309,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.7,
     "word_count": 132,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "education reform",
+      "public policy"
+    ]
   },
   {
     "post_id": 45150536,
@@ -343,7 +371,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.5,
     "word_count": 152,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "healthcare complexity"
+    ]
   },
   {
     "post_id": 45073472,
@@ -416,7 +448,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.7,
     "word_count": 570,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "media influence",
+      "political accountability"
+    ]
   },
   {
     "post_id": 45381030,
@@ -469,7 +506,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 222,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "US politics",
+      "political campaigns",
+      "inflation"
+    ]
   },
   {
     "post_id": 45221732,
@@ -512,7 +556,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.5,
     "word_count": 198,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "political behavior",
+      "education reform",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 45221732,
@@ -555,7 +605,12 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 10.5,
     "word_count": 223,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "media influence",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 45221732,
@@ -594,7 +649,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 3.3,
     "word_count": 18,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 45304661,
@@ -697,7 +753,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 342,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "labor unions",
+      "economic policy",
+      "technology ethics",
+      "automation trends",
+      "racial policy"
+    ]
   },
   {
     "post_id": 45432154,
@@ -734,7 +797,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 190,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "international relations",
+      "geopolitical strategy",
+      "US-China relations",
+      "Russia-Ukraine conflict",
+      "nuclear deterrence"
+    ]
   },
   {
     "post_id": 44848742,
@@ -777,7 +847,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 153,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 45693612,
@@ -808,7 +881,14 @@ window._comments = [
     "ratio_give": -118,
     "grade_level": 17.2,
     "word_count": 89,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "racial policy",
+      "education reform",
+      "political polarization",
+      "US politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 46266128,
@@ -874,7 +954,11 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 11.1,
     "word_count": 136,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 44807069,
@@ -905,7 +989,13 @@ window._comments = [
     "ratio_give": -18,
     "grade_level": 7.8,
     "word_count": 88,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "social media influence",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 46454781,
@@ -969,7 +1059,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 227,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 46030715,
@@ -1012,7 +1107,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 236,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "economic policy"
+    ]
   },
   {
     "post_id": 46030715,
@@ -1059,7 +1158,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.6,
     "word_count": 171,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic inequality",
+      "education reform",
+      "economic policy"
+    ]
   },
   {
     "post_id": 46339666,
@@ -1108,7 +1212,14 @@ window._comments = [
     "ratio_give": -40,
     "grade_level": 12.6,
     "word_count": 341,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "political polarization",
+      "climate change",
+      "environmental impact",
+      "economic inequality",
+      "activism"
+    ]
   },
   {
     "post_id": 46971895,
@@ -1180,7 +1291,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 351,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "education reform"
+    ]
   },
   {
     "post_id": 47491031,
@@ -1223,7 +1338,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 241,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "voter behavior",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 47720171,
@@ -1272,7 +1394,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.3,
     "word_count": 309,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "technology ethics",
+      "AI and ethics",
+      "digital privacy",
+      "economic policy"
+    ]
   },
   {
     "post_id": 47889897,
@@ -1349,7 +1477,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 339,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "pandemic response",
+      "labor unions",
+      "public health policy"
+    ]
   },
   {
     "post_id": 47951599,
@@ -1414,7 +1549,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 351,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "corporate accountability",
+      "digital privacy",
+      "trust in institutions",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 47951599,
@@ -1471,7 +1613,12 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 7.7,
     "word_count": 138,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 48797501,
@@ -1508,7 +1655,11 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.1,
     "word_count": 139,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 48797501,
@@ -1545,7 +1696,12 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 9.2,
     "word_count": 254,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic inequality",
+      "trust in institutions",
+      "education reform"
+    ]
   },
   {
     "post_id": 49698652,
@@ -1588,7 +1744,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 10.8,
     "word_count": 245,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "energy policy",
+      "economic policy",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 49698652,
@@ -1629,7 +1790,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.2,
     "word_count": 58,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "international relations",
+      "energy policy",
+      "Russia-Ukraine conflict"
+    ]
   },
   {
     "post_id": 49971717,
@@ -1696,7 +1862,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 443,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "Russia-Ukraine conflict",
+      "economic policy",
+      "geopolitical strategy",
+      "sanctions",
+      "NATO issues"
+    ]
   },
   {
     "post_id": 50154475,
@@ -1737,7 +1910,13 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 10.6,
     "word_count": 64,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political philosophy",
+      "authoritarianism",
+      "international relations",
+      "US politics"
+    ]
   },
   {
     "post_id": 51320469,
@@ -1768,7 +1947,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.9,
     "word_count": 62,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political campaigns",
+      "immigration issues",
+      "political polarization",
+      "labor unions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 51320469,
@@ -1829,7 +2015,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 228,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "education inequality",
+      "economic inequality",
+      "social justice",
+      "political polarization",
+      "economic policy"
+    ]
   },
   {
     "post_id": 51403483,
@@ -1872,7 +2065,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 196,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "activism",
+      "social media influence"
+    ]
   },
   {
     "post_id": 52437399,
@@ -1947,7 +2145,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 7.1,
     "word_count": 64,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "healthcare complexity",
+      "economic policy"
+    ]
   },
   {
     "post_id": 52577286,
@@ -2010,7 +2212,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 224,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "media influence",
+      "authoritarianism",
+      "US politics"
+    ]
   },
   {
     "post_id": 52767182,
@@ -2041,7 +2250,11 @@ window._comments = [
     "ratio_give": 20,
     "grade_level": 10.2,
     "word_count": 44,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 52767182,
@@ -2090,7 +2303,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 249,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "US politics",
+      "political accountability",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 52767182,
@@ -2121,7 +2341,8 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 8.4,
     "word_count": 13,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 52767182,
@@ -2174,7 +2395,13 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.5,
     "word_count": 105,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "US politics",
+      "geopolitical strategy"
+    ]
   },
   {
     "post_id": 52767182,
@@ -2211,7 +2438,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 200,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic inequality",
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 52767182,
@@ -2248,7 +2480,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 6.4,
     "word_count": 68,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 52832260,
@@ -2279,7 +2516,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.5,
     "word_count": 66,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "censorship",
+      "free speech issues",
+      "media influence"
+    ]
   },
   {
     "post_id": 52832260,
@@ -2316,7 +2558,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 142,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political polarization",
+      "climate change",
+      "media influence",
+      "US politics",
+      "environmental impact"
+    ]
   },
   {
     "post_id": 52832260,
@@ -2393,7 +2642,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 386,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "free speech issues",
+      "technology ethics",
+      "media bias",
+      "political polarization"
+    ]
   },
   {
     "post_id": 52832260,
@@ -2436,7 +2692,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 9.5,
     "word_count": 152,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 53002259,
@@ -2489,7 +2750,12 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 10.7,
     "word_count": 246,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "international relations",
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 53053394,
@@ -2558,7 +2824,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 314,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "economic policy",
+      "media bias",
+      "corporate accountability",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 53053394,
@@ -2589,7 +2862,8 @@ window._comments = [
     "ratio_give": 15,
     "grade_level": 10.1,
     "word_count": 41,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 53154031,
@@ -2666,7 +2940,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.1,
     "word_count": 142,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 53154031,
@@ -2697,7 +2975,8 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 5.6,
     "word_count": 12,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 53154031,
@@ -2728,7 +3007,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 3.7,
     "word_count": 14,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 53154031,
@@ -2809,7 +3089,12 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 7.5,
     "word_count": 125,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "digital privacy",
+      "technology ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 53154031,
@@ -2840,7 +3125,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 3.3,
     "word_count": 9,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 53154031,
@@ -2871,7 +3157,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 7.6,
     "word_count": 42,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 53302113,
@@ -2924,7 +3211,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.6,
     "word_count": 169,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political polarization",
+      "voter behavior",
+      "US politics",
+      "media influence",
+      "political leadership"
+    ]
   },
   {
     "post_id": 54303445,
@@ -2961,7 +3255,10 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 9.6,
     "word_count": 130,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 54303445,
@@ -3014,7 +3311,11 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 11.0,
     "word_count": 160,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "social justice",
+      "political leadership"
+    ]
   },
   {
     "post_id": 55799999,
@@ -3079,7 +3380,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 325,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "energy policy",
+      "environmental impact",
+      "pandemic response",
+      "economic policy"
+    ]
   },
   {
     "post_id": 55302326,
@@ -3120,7 +3427,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 104,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "climate change",
+      "energy policy"
+    ]
   },
   {
     "post_id": 56724202,
@@ -3151,7 +3463,8 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 12.3,
     "word_count": 14,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 56724202,
@@ -3182,7 +3495,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 8.5,
     "word_count": 78,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "activism",
+      "public safety",
+      "crime and justice"
+    ]
   },
   {
     "post_id": 56724202,
@@ -3259,7 +3577,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.1,
     "word_count": 167,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "public safety",
+      "crime and justice",
+      "gun rights",
+      "criminal justice reform",
+      "mental health"
+    ]
   },
   {
     "post_id": 57340427,
@@ -3336,7 +3661,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 330,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "student debt",
+      "education reform",
+      "economic policy",
+      "public misinformation",
+      "education inequality"
+    ]
   },
   {
     "post_id": 57340427,
@@ -3383,7 +3715,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.2,
     "word_count": 59,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "education inequality",
+      "political leadership",
+      "political accountability"
+    ]
   },
   {
     "post_id": 57548064,
@@ -3420,7 +3757,13 @@ window._comments = [
     "ratio_give": -44,
     "grade_level": 13.7,
     "word_count": 189,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "urban development",
+      "economic inequality",
+      "corporate accountability",
+      "housing affordability"
+    ]
   },
   {
     "post_id": 57532707,
@@ -3497,7 +3840,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 179,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 57532707,
@@ -3534,7 +3882,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.1,
     "word_count": 108,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "geopolitical strategy",
+      "international relations",
+      "foreign policy",
+      "US-China relations",
+      "Middle East conflict"
+    ]
   },
   {
     "post_id": 57532707,
@@ -3593,7 +3948,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 220,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "international relations",
+      "Russia-Ukraine conflict",
+      "foreign policy",
+      "geopolitical strategy",
+      "US politics"
+    ]
   },
   {
     "post_id": 57532707,
@@ -3646,7 +4008,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 6.4,
     "word_count": 238,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "international relations",
+      "agriculture policy",
+      "energy policy"
+    ]
   },
   {
     "post_id": 57553651,
@@ -3727,7 +4096,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 192,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "political accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 57830726,
@@ -3758,7 +4133,11 @@ window._comments = [
     "ratio_give": 17,
     "grade_level": 9.3,
     "word_count": 77,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 57830726,
@@ -3837,7 +4216,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.7,
     "word_count": 300,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "economic inequality",
+      "education inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 58251621,
@@ -3954,7 +4339,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 5.8,
     "word_count": 298,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "education reform",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 58251621,
@@ -4017,7 +4407,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 313,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "social media influence",
+      "media influence",
+      "religious freedom",
+      "media bias",
+      "political polarization"
+    ]
   },
   {
     "post_id": 58394722,
@@ -4065,7 +4462,13 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 9.8,
     "word_count": 158,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "US politics",
+      "economic policy"
+    ]
   },
   {
     "post_id": 58394722,
@@ -4130,7 +4533,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 200,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "US politics",
+      "public misinformation",
+      "political accountability"
+    ]
   },
   {
     "post_id": 58394722,
@@ -4173,7 +4583,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 195,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "political polarization",
+      "media bias",
+      "social media influence"
+    ]
   },
   {
     "post_id": 58601559,
@@ -4232,7 +4649,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 332,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "climate change",
+      "energy policy",
+      "economic policy",
+      "political polarization"
+    ]
   },
   {
     "post_id": 58601559,
@@ -4269,7 +4692,14 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 7.5,
     "word_count": 138,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "economic policy",
+      "voter behavior",
+      "environmental impact",
+      "economic inequality",
+      "energy policy"
+    ]
   },
   {
     "post_id": 58601559,
@@ -4306,7 +4736,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 221,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "climate change",
+      "activism",
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 58601559,
@@ -4365,7 +4801,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.7,
     "word_count": 120,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "political accountability",
+      "US politics"
+    ]
   },
   {
     "post_id": 58930295,
@@ -4396,7 +4837,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 43,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "political campaigns",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 58930295,
@@ -4437,7 +4884,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 84,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political polarization",
+      "voter behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 58930295,
@@ -4506,7 +4958,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.3,
     "word_count": 156,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "inflation",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 58893445,
@@ -4555,7 +5013,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 291,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "climate change",
+      "energy policy",
+      "economic policy",
+      "US politics",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 58893445,
@@ -4592,7 +5057,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 176,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "voter behavior",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 58893445,
@@ -4641,7 +5112,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 330,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "inflation",
+      "political accountability",
+      "voter behavior",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 58893445,
@@ -4672,7 +5150,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.3,
     "word_count": 72,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political campaigns",
+      "inflation",
+      "US politics",
+      "political accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 58867637,
@@ -4709,7 +5194,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 186,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "mental health",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 58867637,
@@ -4746,7 +5236,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 197,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "mental health",
+      "housing affordability",
+      "public safety",
+      "drug policy"
+    ]
   },
   {
     "post_id": 59628308,
@@ -4777,7 +5273,8 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 15.1,
     "word_count": 64,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": []
   },
   {
     "post_id": 60197939,
@@ -4840,7 +5337,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.4,
     "word_count": 336,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "political campaigns",
+      "climate change",
+      "energy policy",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 60197939,
@@ -4871,7 +5375,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.1,
     "word_count": 70,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "media influence"
+    ]
   },
   {
     "post_id": 59737189,
@@ -4906,7 +5414,8 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 10.7,
     "word_count": 7,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 59737189,
@@ -4969,7 +5478,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 271,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 59737189,
@@ -5020,7 +5532,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 10.1,
     "word_count": 141,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "political accountability",
+      "US politics"
+    ]
   },
   {
     "post_id": 59752737,
@@ -5085,7 +5602,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 364,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "activism",
+      "political accountability",
+      "social justice"
+    ]
   },
   {
     "post_id": 59737189,
@@ -5146,7 +5668,11 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.3,
     "word_count": 37,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 59737189,
@@ -5225,7 +5751,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.2,
     "word_count": 255,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "international relations",
+      "inflation",
+      "foreign policy"
+    ]
   },
   {
     "post_id": 59518168,
@@ -5272,7 +5804,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 189,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "human rights",
+      "animal rights",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 59518168,
@@ -5303,7 +5840,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.5,
     "word_count": 64,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "public misinformation",
+      "religious freedom"
+    ]
   },
   {
     "post_id": 59518168,
@@ -5358,7 +5899,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.8,
     "word_count": 285,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "AI and ethics",
+      "political campaigns",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 60336780,
@@ -5439,7 +5987,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 463,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "rental market",
+      "economic volatility"
+    ]
   },
   {
     "post_id": 60336780,
@@ -5474,7 +6028,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 2.9,
     "word_count": 5,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 60539716,
@@ -5523,7 +6078,11 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 9.9,
     "word_count": 206,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 59616580,
@@ -5572,7 +6131,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 265,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "activism",
+      "voter behavior",
+      "political campaigns",
+      "racial equality"
+    ]
   },
   {
     "post_id": 59616580,
@@ -5637,7 +6203,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 227,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "political campaigns",
+      "US politics",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 57982533,
@@ -5710,7 +6283,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 213,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "political polarization",
+      "voter behavior",
+      "political accountability"
+    ]
   },
   {
     "post_id": 57982533,
@@ -5753,7 +6331,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 10.2,
     "word_count": 147,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "voter behavior",
+      "political polarization",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 57982533,
@@ -5794,7 +6377,14 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 13.8,
     "word_count": 104,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "voter behavior",
+      "immigration issues",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 57982533,
@@ -5953,7 +6543,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 8.2,
     "word_count": 218,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "trust in institutions",
+      "media influence"
+    ]
   },
   {
     "post_id": 60820577,
@@ -5990,7 +6584,12 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 12.9,
     "word_count": 148,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media bias",
+      "social media influence",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 61349681,
@@ -6027,7 +6626,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 193,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "social media influence",
+      "political polarization",
+      "activism"
+    ]
   },
   {
     "post_id": 61349681,
@@ -6076,7 +6680,12 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 10.8,
     "word_count": 246,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "social media influence",
+      "political polarization",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 61556524,
@@ -6152,7 +6761,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 179,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "political accountability"
+    ]
   },
   {
     "post_id": 61636691,
@@ -6249,7 +6863,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 490,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "consumer protection",
+      "financial regulation",
+      "US politics"
+    ]
   },
   {
     "post_id": 61636691,
@@ -6304,7 +6925,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 365,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "parental controls",
+      "internet regulation",
+      "child safety",
+      "social media influence"
+    ]
   },
   {
     "post_id": 61636691,
@@ -6347,7 +6975,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 256,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "free speech issues",
+      "social media influence",
+      "activism",
+      "affirmative action"
+    ]
   },
   {
     "post_id": 61636691,
@@ -6388,7 +7022,12 @@ window._comments = [
     "ratio_give": -16,
     "grade_level": 8.6,
     "word_count": 91,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "digital privacy",
+      "media bias"
+    ]
   },
   {
     "post_id": 62033902,
@@ -6457,7 +7096,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 175,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "energy policy",
+      "Russia-Ukraine conflict"
+    ]
   },
   {
     "post_id": 62988475,
@@ -6498,7 +7142,8 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 8.1,
     "word_count": 43,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 63921833,
@@ -6529,7 +7174,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 16.8,
     "word_count": 63,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "corporate accountability",
+      "inflation",
+      "economic policy"
+    ]
   },
   {
     "post_id": 62667855,
@@ -6576,7 +7226,13 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 13.2,
     "word_count": 135,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "public health",
+      "healthcare complexity",
+      "education inequality",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 67128817,
@@ -6619,7 +7275,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.1,
     "word_count": 130,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "voter behavior",
+      "US politics",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 67219249,
@@ -6668,7 +7331,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 191,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "voter behavior",
+      "political campaigns",
+      "electoral integrity",
+      "political accountability"
+    ]
   },
   {
     "post_id": 67642825,
@@ -6711,7 +7381,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 219,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "voter behavior",
+      "political accountability",
+      "media bias"
+    ]
   },
   {
     "post_id": 67642825,
@@ -6742,7 +7419,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 4.5,
     "word_count": 6,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 67297001,
@@ -6807,7 +7485,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 168,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 68190824,
@@ -6850,7 +7532,10 @@ window._comments = [
     "ratio_give": -15,
     "grade_level": 10.9,
     "word_count": 131,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 68903073,
@@ -6897,7 +7582,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 7.3,
     "word_count": 230,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "education inequality",
+      "mental health",
+      "education reform"
+    ]
   },
   {
     "post_id": 68903073,
@@ -6934,7 +7624,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 12.8,
     "word_count": 150,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic inequality",
+      "trust in institutions",
+      "education inequality"
+    ]
   },
   {
     "post_id": 69004628,
@@ -6977,7 +7672,11 @@ window._comments = [
     "ratio_give": -46,
     "grade_level": 13.0,
     "word_count": 199,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "euthanasia ethics",
+      "healthcare complexity"
+    ]
   },
   {
     "post_id": 69004628,
@@ -7026,7 +7725,11 @@ window._comments = [
     "ratio_give": -13,
     "grade_level": 11.3,
     "word_count": 307,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "labor unions"
+    ]
   },
   {
     "post_id": 69004628,
@@ -7063,7 +7766,14 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 7.0,
     "word_count": 86,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "US politics",
+      "voter behavior",
+      "political accountability",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 69515164,
@@ -7176,7 +7886,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 427,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "political accountability",
+      "public misinformation",
+      "trust in institutions",
+      "political leadership"
+    ]
   },
   {
     "post_id": 69515164,
@@ -7207,7 +7924,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 13.8,
     "word_count": 72,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "tax policy"
+    ]
   },
   {
     "post_id": 69515164,
@@ -7250,7 +7971,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 12.8,
     "word_count": 122,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 69515164,
@@ -7293,7 +8019,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.5,
     "word_count": 185,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 69956089,
@@ -7336,7 +8067,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.0,
     "word_count": 158,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "healthcare complexity"
+    ]
   },
   {
     "post_id": 69956089,
@@ -7391,7 +8127,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.4,
     "word_count": 297,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "economic policy",
+      "student debt"
+    ]
   },
   {
     "post_id": 69956089,
@@ -7434,7 +8175,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.9,
     "word_count": 120,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "political leadership",
+      "voter behavior",
+      "political accountability",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 69956089,
@@ -7499,7 +8247,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.1,
     "word_count": 268,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 69956089,
@@ -7542,7 +8294,11 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 12.3,
     "word_count": 138,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "economic policy"
+    ]
   },
   {
     "post_id": 70000534,
@@ -7579,7 +8335,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.8,
     "word_count": 94,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "media bias",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 70000534,
@@ -7622,7 +8385,13 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 12.3,
     "word_count": 80,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "climate change",
+      "foreign policy",
+      "US politics",
+      "energy policy"
+    ]
   },
   {
     "post_id": 70000534,
@@ -7675,7 +8444,13 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.5,
     "word_count": 79,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "US politics",
+      "human rights",
+      "political accountability"
+    ]
   },
   {
     "post_id": 70330779,
@@ -7724,7 +8499,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 187,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health"
+    ]
   },
   {
     "post_id": 70330779,
@@ -7774,7 +8552,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 180,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 70330779,
@@ -7805,7 +8588,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.8,
     "word_count": 58,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "social media influence",
+      "media influence"
+    ]
   },
   {
     "post_id": 70330779,
@@ -7836,7 +8623,8 @@ window._comments = [
     "ratio_give": -17,
     "grade_level": 9.6,
     "word_count": 76,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": []
   },
   {
     "post_id": 70330779,
@@ -7873,7 +8661,12 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 12.0,
     "word_count": 77,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "free speech issues",
+      "digital privacy",
+      "media influence"
+    ]
   },
   {
     "post_id": 70330779,
@@ -7910,7 +8703,8 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 7.4,
     "word_count": 83,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": []
   },
   {
     "post_id": 69431698,
@@ -7953,7 +8747,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.2,
     "word_count": 153,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "labor unions",
+      "economic inequality",
+      "education reform",
+      "corporate accountability",
+      "social media influence"
+    ]
   },
   {
     "post_id": 70469724,
@@ -7994,7 +8795,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 8.6,
     "word_count": 50,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "education inequality",
+      "economic policy"
+    ]
   },
   {
     "post_id": 70608891,
@@ -8071,7 +8876,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 267,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political accountability",
+      "public misinformation",
+      "economic policy",
+      "education reform"
+    ]
   },
   {
     "post_id": 70864744,
@@ -8130,7 +8942,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 216,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political accountability",
+      "economic policy",
+      "US politics",
+      "political leadership",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 70864744,
@@ -8178,7 +8997,13 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 13.4,
     "word_count": 87,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political campaigns",
+      "US politics",
+      "political leadership",
+      "media influence"
+    ]
   },
   {
     "post_id": 71584256,
@@ -8225,7 +9050,11 @@ window._comments = [
     "ratio_give": 18,
     "grade_level": 11.5,
     "word_count": 268,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 71786926,
@@ -8268,7 +9097,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 196,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "US politics",
+      "political campaigns",
+      "authoritarianism"
+    ]
   },
   {
     "post_id": 71786926,
@@ -8311,7 +9147,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 233,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "religious freedom",
+      "US politics",
+      "climate change"
+    ]
   },
   {
     "post_id": 72273018,
@@ -8358,7 +9201,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.3,
     "word_count": 99,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 72273018,
@@ -8461,7 +9307,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 284,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "labor unions"
+    ]
   },
   {
     "post_id": 73006846,
@@ -8510,7 +9361,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 286,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "government accountability",
+      "pension reform",
+      "public employment"
+    ]
   },
   {
     "post_id": 73006846,
@@ -8565,7 +9422,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 197,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "education inequality"
+    ]
   },
   {
     "post_id": 73006846,
@@ -8608,7 +9469,11 @@ window._comments = [
     "ratio_give": -19,
     "grade_level": 9.6,
     "word_count": 191,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 73006846,
@@ -8651,7 +9516,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 8.4,
     "word_count": 173,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 73006846,
@@ -8682,7 +9551,10 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 10.3,
     "word_count": 54,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence"
+    ]
   },
   {
     "post_id": 73254041,
@@ -8757,7 +9629,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 359,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "US politics",
+      "monetary policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 72553392,
@@ -8821,7 +9700,14 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 13.8,
     "word_count": 229,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "US politics",
+      "international relations",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 73210423,
@@ -8868,7 +9754,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 131,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "public health",
+      "mental health",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 73638721,
@@ -8949,7 +9840,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 268,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "international relations",
+      "political leadership",
+      "Russia-Ukraine conflict",
+      "political polarization"
+    ]
   },
   {
     "post_id": 75632816,
@@ -8998,7 +9895,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.8,
     "word_count": 194,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "education inequality",
+      "social media influence"
+    ]
   },
   {
     "post_id": 75632816,
@@ -9047,7 +9949,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.9,
     "word_count": 236,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": []
   },
   {
     "post_id": 75632816,
@@ -9090,7 +9993,11 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 9.1,
     "word_count": 89,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "mental health"
+    ]
   },
   {
     "post_id": 75632816,
@@ -9139,7 +10046,10 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 206,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education inequality"
+    ]
   },
   {
     "post_id": 77442230,
@@ -9192,7 +10102,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 231,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "financial stability",
+      "banking regulation",
+      "monetary policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 78751941,
@@ -9241,7 +10158,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 240,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "political accountability",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 79072865,
@@ -9334,7 +10257,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 202,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "media influence",
+      "economic policy",
+      "US politics",
+      "gender equality"
+    ]
   },
   {
     "post_id": 79379632,
@@ -9399,7 +10329,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.1,
     "word_count": 169,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "US politics",
+      "international relations",
+      "Russia-Ukraine conflict"
+    ]
   },
   {
     "post_id": 80475018,
@@ -9470,7 +10407,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "electoral integrity",
+      "racial inequality",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 80475018,
@@ -9523,7 +10467,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 196,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "voter behavior",
+      "electoral integrity",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 81670675,
@@ -9600,7 +10551,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 388,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "free speech issues",
+      "media bias",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 81670675,
@@ -9649,7 +10607,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 290,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "political polarization",
+      "US politics",
+      "media bias"
+    ]
   },
   {
     "post_id": 81065545,
@@ -9680,7 +10645,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 4.4,
     "word_count": 18,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 81065545,
@@ -9735,7 +10701,13 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 236,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "political accountability",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 81065545,
@@ -9766,7 +10738,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 12.4,
     "word_count": 53,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "political leadership"
+    ]
   },
   {
     "post_id": 81292136,
@@ -9843,7 +10820,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 388,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "privacy issues",
+      "media bias",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 81292136,
@@ -9890,7 +10874,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 128,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "social media influence",
+      "media influence"
+    ]
   },
   {
     "post_id": 81292136,
@@ -9963,7 +10952,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 433,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "technology ethics",
+      "labor unions"
+    ]
   },
   {
     "post_id": 81292136,
@@ -10012,7 +11006,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 291,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "public misinformation",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 81292136,
@@ -10055,7 +11056,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.7,
     "word_count": 129,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 81292136,
@@ -10104,7 +11110,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.2,
     "word_count": 270,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "labor unions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 81292136,
@@ -10135,7 +11146,11 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 13.4,
     "word_count": 46,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 81292136,
@@ -10166,7 +11181,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 5.9,
     "word_count": 51,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "tax policy",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 81372927,
@@ -10231,7 +11251,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 150,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "social justice",
+      "media influence",
+      "activism"
+    ]
   },
   {
     "post_id": 81372927,
@@ -10280,7 +11305,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 8.9,
     "word_count": 174,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 81372927,
@@ -10311,7 +11341,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 5.9,
     "word_count": 48,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 81247288,
@@ -10388,7 +11422,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 220,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political accountability",
+      "inflation",
+      "US politics"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10443,7 +11484,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 248,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "US politics",
+      "political campaigns",
+      "economic policy",
+      "political leadership",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10480,7 +11528,14 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 7.7,
     "word_count": 43,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "US politics",
+      "political accountability",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10557,7 +11612,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 9.5,
     "word_count": 208,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "criminal justice reform",
+      "police accountability",
+      "public safety",
+      "political polarization",
+      "US politics"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10594,7 +11656,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 13.1,
     "word_count": 96,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "international relations"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10637,7 +11704,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.7,
     "word_count": 101,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "political leadership",
+      "economic policy"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10674,7 +11747,14 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.9,
     "word_count": 126,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "inflation",
+      "political campaigns",
+      "economic policy",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10711,7 +11791,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 13.3,
     "word_count": 86,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "financial meltdown",
+      "market dynamics",
+      "US politics",
+      "inflation"
+    ]
   },
   {
     "post_id": 81750627,
@@ -10748,7 +11835,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.9,
     "word_count": 42,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 82102641,
@@ -10835,7 +11923,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.8,
     "word_count": 286,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "racial equality",
+      "media influence",
+      "political campaigns",
+      "US politics"
+    ]
   },
   {
     "post_id": 82320227,
@@ -10894,7 +11989,14 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 12.9,
     "word_count": 494,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "political polarization",
+      "political leadership",
+      "healthcare complexity",
+      "US politics"
+    ]
   },
   {
     "post_id": 82320227,
@@ -10947,7 +12049,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 9.1,
     "word_count": 287,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "US politics",
+      "economic inequality",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 82923971,
@@ -10984,7 +12093,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 5.7,
     "word_count": 61,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "bureaucracy",
+      "urban development",
+      "public service efficiency"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11021,7 +12135,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 100,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media bias",
+      "social media influence",
+      "technology ethics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11064,7 +12184,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.4,
     "word_count": 161,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "voter behavior",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11113,7 +12240,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 248,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "monetary policy",
+      "EU politics",
+      "inflation",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11210,7 +12344,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 446,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "corporate accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11263,7 +12402,14 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 11.5,
     "word_count": 338,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political leadership",
+      "inflation",
+      "US politics",
+      "economic policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 83218989,
@@ -11312,7 +12458,12 @@ window._comments = [
     "ratio_give": -10,
     "grade_level": 9.6,
     "word_count": 153,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 83534788,
@@ -11379,7 +12530,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.1,
     "word_count": 160,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 78234449,
@@ -11446,7 +12600,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 121,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 83535266,
@@ -11531,7 +12688,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.3,
     "word_count": 242,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "trust in institutions",
+      "inflation"
+    ]
   },
   {
     "post_id": 83535266,
@@ -11584,7 +12747,12 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 14.2,
     "word_count": 125,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "healthcare complexity",
+      "media influence"
+    ]
   },
   {
     "post_id": 83535266,
@@ -11649,7 +12817,13 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 16.2,
     "word_count": 99,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "political leadership",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 83900508,
@@ -11702,7 +12876,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 157,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "activism",
+      "media bias",
+      "political accountability"
+    ]
   },
   {
     "post_id": 83900508,
@@ -11761,7 +12942,10 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 7.2,
     "word_count": 52,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 83900508,
@@ -11830,7 +13014,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 271,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political accountability",
+      "political polarization",
+      "media bias",
+      "free speech issues",
+      "US politics"
+    ]
   },
   {
     "post_id": 83900508,
@@ -11868,7 +13059,8 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 4.8,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 84371323,
@@ -11911,7 +13103,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.8,
     "word_count": 151,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 84371323,
@@ -11948,7 +13146,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 101,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "US politics",
+      "voter behavior",
+      "political leadership",
+      "political polarization"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12023,7 +13228,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 249,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "media influence"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12070,7 +13280,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 95,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "trust in institutions",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12119,7 +13335,12 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 8.1,
     "word_count": 184,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "political economy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12166,7 +13387,11 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 8.3,
     "word_count": 102,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12215,7 +13440,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.3,
     "word_count": 188,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12288,7 +13518,11 @@ window._comments = [
     "ratio_give": -31,
     "grade_level": 11.2,
     "word_count": 163,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12355,7 +13589,12 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 8.9,
     "word_count": 52,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "trust in institutions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 84489473,
@@ -12394,7 +13633,8 @@ window._comments = [
     "ratio_give": -9,
     "grade_level": 9.2,
     "word_count": 9,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 84695778,
@@ -12469,7 +13709,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 294,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "inflation",
+      "financial markets",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 84695778,
@@ -12516,7 +13763,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.7,
     "word_count": 132,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "corporate accountability",
+      "media influence",
+      "economic policy"
+    ]
   },
   {
     "post_id": 85218122,
@@ -12621,7 +13873,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 307,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "US politics",
+      "economic policy",
+      "political polarization"
+    ]
   },
   {
     "post_id": 85218122,
@@ -12686,7 +13945,14 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 12.3,
     "word_count": 299,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "media influence",
+      "political accountability",
+      "US politics"
+    ]
   },
   {
     "post_id": 85962904,
@@ -12717,7 +13983,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 3.1,
     "word_count": 23,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 87168487,
@@ -12766,7 +14033,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 281,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health",
+      "healthcare complexity",
+      "public health",
+      "social justice",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 86347660,
@@ -12815,7 +14089,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 173,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic inequality",
+      "mental health",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 86347660,
@@ -13004,7 +14283,14 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 10.6,
     "word_count": 501,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "environmental impact",
+      "climate change",
+      "economic policy",
+      "activism",
+      "cultural critique"
+    ]
   },
   {
     "post_id": 85966745,
@@ -13047,7 +14333,10 @@ window._comments = [
     "ratio_give": -17,
     "grade_level": 8.9,
     "word_count": 87,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "bureaucracy"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13102,7 +14391,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 313,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "trust in institutions",
+      "economic policy",
+      "voter behavior",
+      "political accountability",
+      "welfare policy"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13167,7 +14463,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 228,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political engagement",
+      "youth activism",
+      "media influence",
+      "national politics",
+      "political behavior"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13234,7 +14537,10 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.4,
     "word_count": 214,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13265,7 +14571,11 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 9.5,
     "word_count": 48,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "voter behavior",
+      "economic policy"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13302,7 +14612,12 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 7.4,
     "word_count": 50,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 87219657,
@@ -13345,7 +14660,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.1,
     "word_count": 201,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "political polarization"
+    ]
   },
   {
     "post_id": 86845811,
@@ -13416,7 +14735,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 194,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "labor unions",
+      "economic policy",
+      "political leadership",
+      "US politics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 86845811,
@@ -13453,7 +14779,8 @@ window._comments = [
     "ratio_give": -16,
     "grade_level": 8.1,
     "word_count": 61,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": []
   },
   {
     "post_id": 85966745,
@@ -13484,7 +14811,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 86783389,
@@ -13551,7 +14879,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 399,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "healthcare complexity",
+      "political leadership",
+      "economic policy",
+      "political polarization",
+      "public health policy"
+    ]
   },
   {
     "post_id": 87551177,
@@ -13606,7 +14941,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 284,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "climate change",
+      "energy policy",
+      "political campaigns",
+      "media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 87551177,
@@ -13673,7 +15015,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.0,
     "word_count": 158,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "urban development",
+      "climate change",
+      "political accountability",
+      "renewable energy",
+      "cancel culture"
+    ]
   },
   {
     "post_id": 87551177,
@@ -13732,7 +15081,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.3,
     "word_count": 204,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "climate change",
+      "inflation",
+      "public safety",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 87551177,
@@ -13763,7 +15119,8 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 6.2,
     "word_count": 21,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 87359583,
@@ -13824,7 +15181,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.4,
     "word_count": 332,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 87359583,
@@ -13877,7 +15239,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.6,
     "word_count": 181,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 87852296,
@@ -13914,7 +15281,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.9,
     "word_count": 136,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "digital privacy",
+      "technology ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 87852296,
@@ -13945,7 +15319,11 @@ window._comments = [
     "ratio_give": -22,
     "grade_level": 9.2,
     "word_count": 55,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 87852296,
@@ -13976,7 +15354,10 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 11.1,
     "word_count": 60,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "technology ethics"
+    ]
   },
   {
     "post_id": 87359583,
@@ -14023,7 +15404,14 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 7.7,
     "word_count": 87,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "hate speech",
+      "antisemitism",
+      "media bias"
+    ]
   },
   {
     "post_id": 87359583,
@@ -14080,7 +15468,11 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.3,
     "word_count": 222,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 87359583,
@@ -14111,7 +15503,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 3.6,
     "word_count": 16,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 87749070,
@@ -14160,7 +15553,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 141,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "racial policy",
+      "racial equality",
+      "international relations"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14209,7 +15607,12 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 14.0,
     "word_count": 387,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "racial equality",
+      "racial policy",
+      "social justice"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14256,7 +15659,13 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 9.9,
     "word_count": 102,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "public safety",
+      "gun policy",
+      "law enforcement",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14299,7 +15708,14 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 10.7,
     "word_count": 170,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "voter behavior",
+      "US politics",
+      "political polarization",
+      "public safety",
+      "activism"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14348,7 +15764,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.8,
     "word_count": 193,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "digital privacy",
+      "regulation and compliance"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14385,7 +15806,14 @@ window._comments = [
     "ratio_give": 16,
     "grade_level": 11.7,
     "word_count": 123,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "free speech issues",
+      "public safety",
+      "US politics",
+      "political polarization",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14432,7 +15860,14 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.1,
     "word_count": 100,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "public safety",
+      "crime and justice",
+      "gun control"
+    ]
   },
   {
     "post_id": 87749070,
@@ -14467,7 +15902,8 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 18.1,
     "word_count": 35,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 87749070,
@@ -14504,7 +15940,14 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.4,
     "word_count": 92,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "voter behavior",
+      "public safety",
+      "US politics",
+      "gun policy"
+    ]
   },
   {
     "post_id": 87457071,
@@ -14585,7 +16028,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 203,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "technology ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 87457071,
@@ -14616,7 +16064,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 4.0,
     "word_count": 14,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 88097777,
@@ -14653,7 +16102,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 108,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "public misinformation",
+      "media influence"
+    ]
   },
   {
     "post_id": 88097777,
@@ -14696,7 +16151,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 132,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political campaigns",
+      "media influence",
+      "voter behavior",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 88097777,
@@ -14743,7 +16205,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 13.4,
     "word_count": 137,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "political polarization",
+      "US politics"
+    ]
   },
   {
     "post_id": 88097777,
@@ -14792,7 +16260,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 10.9,
     "word_count": 216,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "US politics",
+      "climate change",
+      "healthcare complexity",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 88070789,
@@ -14823,7 +16298,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.1,
     "word_count": 34,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 88070789,
@@ -14904,7 +16380,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.0,
     "word_count": 375,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "education reform",
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 88219618,
@@ -14941,7 +16422,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.9,
     "word_count": 76,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 88219618,
@@ -14990,7 +16477,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 244,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political accountability",
+      "US politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 88219618,
@@ -15058,7 +16551,13 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 13.4,
     "word_count": 203,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "political accountability",
+      "US politics",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 86070726,
@@ -15089,7 +16588,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 6.4,
     "word_count": 22,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 88071358,
@@ -15120,7 +16620,8 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 6.0,
     "word_count": 7,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 88579100,
@@ -15157,7 +16658,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 75,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "economic inequality",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 88579100,
@@ -15238,7 +16744,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 325,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "political campaigns",
+      "social media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 88579100,
@@ -15313,7 +16826,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.7,
     "word_count": 345,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "corporate accountability",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 88579100,
@@ -15368,7 +16886,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.9,
     "word_count": 278,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media bias",
+      "political judgment",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 88579100,
@@ -15405,7 +16928,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 9.9,
     "word_count": 69,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "media bias",
+      "US politics",
+      "voter behavior",
+      "political accountability"
+    ]
   },
   {
     "post_id": 88579100,
@@ -15448,7 +16978,10 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 8.4,
     "word_count": 224,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "technology ethics"
+    ]
   },
   {
     "post_id": 88859649,
@@ -15519,7 +17052,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.1,
     "word_count": 138,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political accountability",
+      "infrastructure"
+    ]
   },
   {
     "post_id": 88859649,
@@ -15550,7 +17088,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 7.6,
     "word_count": 11,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 88072201,
@@ -15599,7 +17138,10 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 8.4,
     "word_count": 52,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "digital privacy"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15686,7 +17228,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 436,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "education reform",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15751,7 +17298,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 260,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "housing affordability",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15788,7 +17342,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.1,
     "word_count": 83,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "media bias",
+      "political polarization",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15825,7 +17385,12 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 9.6,
     "word_count": 81,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "economic inequality",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15856,7 +17421,8 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 6.4,
     "word_count": 22,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 89196577,
@@ -15887,7 +17453,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 8.1,
     "word_count": 55,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "media bias"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15918,7 +17489,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.5,
     "word_count": 45,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "media bias",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 89196577,
@@ -15977,7 +17553,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 15.2,
     "word_count": 137,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 89196577,
@@ -16038,7 +17619,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 10.2,
     "word_count": 285,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "education reform",
+      "technology ethics",
+      "digital privacy",
+      "media influence",
+      "education inequality"
+    ]
   },
   {
     "post_id": 89196577,
@@ -16069,7 +17657,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.1,
     "word_count": 68,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "education reform",
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 89196577,
@@ -16158,7 +17751,8 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 12.4,
     "word_count": 378,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": []
   },
   {
     "post_id": 89196577,
@@ -16195,7 +17789,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.7,
     "word_count": 94,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "social media influence",
+      "media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16256,7 +17855,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 375,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education reform",
+      "technology ethics",
+      "labor unions",
+      "economic policy",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16311,7 +17917,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 256,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "education reform",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16342,7 +17952,10 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.0,
     "word_count": 52,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "technology ethics"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16421,7 +18034,11 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 9.2,
     "word_count": 347,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education reform",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16464,7 +18081,11 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 6.9,
     "word_count": 98,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education reform",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 89412470,
@@ -16507,7 +18128,8 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 10.1,
     "word_count": 139,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 90017925,
@@ -16548,7 +18170,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.9,
     "word_count": 35,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 89637783,
@@ -16585,7 +18208,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 97,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "voter behavior",
+      "political campaigns",
+      "political polarization"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16656,7 +18284,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 261,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "political leadership",
+      "labor unions",
+      "renewable energy"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16705,7 +18340,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 164,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "political accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16753,7 +18393,13 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 8.8,
     "word_count": 137,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "labor unions",
+      "economic policy",
+      "climate change",
+      "US politics"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16796,7 +18442,14 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 8.8,
     "word_count": 140,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "political accountability",
+      "trust in institutions",
+      "US politics"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16855,7 +18508,12 @@ window._comments = [
     "ratio_give": -10,
     "grade_level": 10.8,
     "word_count": 194,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "housing affordability",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16898,7 +18556,14 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 11.0,
     "word_count": 185,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "public misinformation",
+      "corporate accountability",
+      "economic inequality",
+      "US politics"
+    ]
   },
   {
     "post_id": 89799685,
@@ -16929,7 +18594,8 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.3,
     "word_count": 35,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 89799685,
@@ -16960,7 +18626,8 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 15.4,
     "word_count": 25,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 90018342,
@@ -17033,7 +18700,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 254,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "media influence",
+      "political accountability",
+      "US politics"
+    ]
   },
   {
     "post_id": 89799685,
@@ -17088,7 +18761,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.0,
     "word_count": 274,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "US politics",
+      "political leadership",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 90018342,
@@ -17147,7 +18827,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 182,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "public safety",
+      "international relations",
+      "human rights",
+      "US politics",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 90018342,
@@ -17178,7 +18865,11 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 6.6,
     "word_count": 58,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 90018342,
@@ -17221,7 +18912,10 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.5,
     "word_count": 145,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17280,7 +18974,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 169,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17353,7 +19051,10 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 10.3,
     "word_count": 217,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17424,7 +19125,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.4,
     "word_count": 250,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17461,7 +19166,14 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 11.2,
     "word_count": 100,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "digital privacy",
+      "drug policy",
+      "financial systems",
+      "cryptocurrency",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17512,7 +19224,10 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 10.0,
     "word_count": 86,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17572,7 +19287,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 141,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17609,7 +19328,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 10.1,
     "word_count": 87,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17682,7 +19406,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 9.7,
     "word_count": 200,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 89799685,
@@ -17751,7 +19479,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.4,
     "word_count": 219,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "corporate accountability",
+      "crime and justice",
+      "economic policy"
+    ]
   },
   {
     "post_id": 89799685,
@@ -17822,7 +19555,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.2,
     "word_count": 227,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "trust in institutions",
+      "corporate accountability",
+      "criminal justice reform",
+      "public misinformation",
+      "political accountability"
+    ]
   },
   {
     "post_id": 90417774,
@@ -17871,7 +19611,12 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 11.4,
     "word_count": 235,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "digital privacy",
+      "privacy issues",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 90613026,
@@ -17952,7 +19697,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 205,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "trust in institutions",
+      "political leadership",
+      "media influence",
+      "political accountability"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18001,7 +19753,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.0,
     "word_count": 176,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "education reform",
+      "economic policy"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18050,7 +19807,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 243,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "international relations",
+      "currency"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18103,7 +19865,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.8,
     "word_count": 60,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "censorship",
+      "international relations",
+      "US-China relations",
+      "media influence",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18140,7 +19909,12 @@ window._comments = [
     "ratio_give": -16,
     "grade_level": 8.5,
     "word_count": 65,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "media bias"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18177,7 +19951,11 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 12.4,
     "word_count": 61,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "urban development",
+      "housing affordability"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18236,7 +20014,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 11.8,
     "word_count": 190,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "mental health",
+      "drug policy",
+      "public safety",
+      "social justice"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18273,7 +20058,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.4,
     "word_count": 110,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "mental health",
+      "crime and justice"
+    ]
   },
   {
     "post_id": 90613026,
@@ -18330,7 +20120,12 @@ window._comments = [
     "ratio_give": -13,
     "grade_level": 9.1,
     "word_count": 63,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "urban development",
+      "environmental impact",
+      "political leadership"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18389,7 +20184,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 230,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "labor unions"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18482,7 +20282,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 13.7,
     "word_count": 452,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "US politics",
+      "monetary policy",
+      "employment trends"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18535,7 +20342,12 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 9.6,
     "word_count": 71,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic inequality",
+      "inflation",
+      "economic policy"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18578,7 +20390,12 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 9.9,
     "word_count": 85,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "labor unions"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18609,7 +20426,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 19.7,
     "word_count": 84,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 90873639,
@@ -18640,7 +20461,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 14.2,
     "word_count": 75,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 90872624,
@@ -18707,7 +20532,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 121,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "US politics",
+      "political accountability",
+      "energy policy"
+    ]
   },
   {
     "post_id": 90872624,
@@ -18738,7 +20570,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 5.6,
     "word_count": 24,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 90873639,
@@ -18793,7 +20626,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.1,
     "word_count": 164,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "inflation",
+      "labor unions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 88818373,
@@ -18880,7 +20718,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.8,
     "word_count": 273,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "free speech issues",
+      "public health policy",
+      "media influence",
+      "legal issues"
+    ]
   },
   {
     "post_id": 88818373,
@@ -18941,7 +20785,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.8,
     "word_count": 352,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "public health",
+      "healthcare complexity",
+      "freedom of choice",
+      "government intervention",
+      "public safety"
+    ]
   },
   {
     "post_id": 88818373,
@@ -18984,7 +20835,13 @@ window._comments = [
     "ratio_give": -15,
     "grade_level": 12.8,
     "word_count": 149,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "public safety",
+      "free speech issues",
+      "individual autonomy",
+      "government regulation"
+    ]
   },
   {
     "post_id": 91424801,
@@ -19057,7 +20914,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 326,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health",
+      "media influence"
+    ]
   },
   {
     "post_id": 91424801,
@@ -19094,7 +20955,13 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 11.0,
     "word_count": 117,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "media bias",
+      "economic policy",
+      "political polarization"
+    ]
   },
   {
     "post_id": 90873268,
@@ -19149,7 +21016,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 520,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political polarization",
+      "economic policy",
+      "voter behavior",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 90873268,
@@ -19184,7 +21058,8 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 14.6,
     "word_count": 29,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 90873268,
@@ -19225,7 +21100,8 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 6.2,
     "word_count": 21,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 91985864,
@@ -19380,7 +21256,11 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 5.6,
     "word_count": 124,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 93095527,
@@ -19451,7 +21331,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 236,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "immigration issues",
+      "racial inequality",
+      "national unity",
+      "ethnic policy"
+    ]
   },
   {
     "post_id": 93095527,
@@ -19488,7 +21374,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 75,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "education reform"
+    ]
   },
   {
     "post_id": 92998341,
@@ -19571,7 +21461,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 627,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "economic policy",
+      "trust in institutions",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 93547723,
@@ -19624,7 +21520,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 374,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political polarization",
+      "US politics",
+      "political leadership",
+      "political accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 93896906,
@@ -19675,7 +21578,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 13.0,
     "word_count": 100,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "digital privacy",
+      "media influence"
+    ]
   },
   {
     "post_id": 92903238,
@@ -19730,7 +21638,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 288,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "economic policy",
+      "wealth redistribution",
+      "education reform",
+      "labor structure"
+    ]
   },
   {
     "post_id": 92903238,
@@ -19789,7 +21704,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 248,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "technology ethics",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 92903238,
@@ -19832,7 +21753,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 105,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "political campaigns",
+      "voter behavior",
+      "US politics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 92903238,
@@ -19889,7 +21817,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 8.7,
     "word_count": 221,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "education inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 93897135,
@@ -20008,7 +21940,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 5.4,
     "word_count": 126,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "activism"
+    ]
   },
   {
     "post_id": 93897135,
@@ -20125,7 +22062,11 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 7.9,
     "word_count": 106,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "education reform"
+    ]
   },
   {
     "post_id": 93897135,
@@ -20184,7 +22125,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.7,
     "word_count": 221,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "political leadership",
+      "political campaigns",
+      "public misinformation",
+      "media influence"
+    ]
   },
   {
     "post_id": 93897135,
@@ -20237,7 +22185,11 @@ window._comments = [
     "ratio_give": -10,
     "grade_level": 8.5,
     "word_count": 121,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "technology ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 93897135,
@@ -20272,7 +22224,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": -3.1,
     "word_count": 2,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 93897135,
@@ -20303,7 +22256,8 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 7.2,
     "word_count": 19,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 93897135,
@@ -20334,7 +22288,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.7,
     "word_count": 19,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 93897135,
@@ -20375,7 +22330,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 9.0,
     "word_count": 73,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "digital privacy",
+      "privacy issues"
+    ]
   },
   {
     "post_id": 94620281,
@@ -20424,7 +22383,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 10.3,
     "word_count": 235,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "social justice",
+      "human rights",
+      "economic policy"
+    ]
   },
   {
     "post_id": 94620281,
@@ -20461,7 +22425,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 8.2,
     "word_count": 125,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "philanthropy ethics",
+      "tax policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 94305150,
@@ -20522,7 +22491,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 337,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "trust in institutions",
+      "education reform",
+      "technology ethics",
+      "media influence",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 94305150,
@@ -20617,7 +22593,8 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 10.8,
     "word_count": 250,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": []
   },
   {
     "post_id": 94530532,
@@ -20706,7 +22683,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.5,
     "word_count": 363,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": []
   },
   {
     "post_id": 94530532,
@@ -20761,7 +22739,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 245,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "mental health",
+      "workplace stress",
+      "leadership challenges",
+      "time management"
+    ]
   },
   {
     "post_id": 94483917,
@@ -20816,7 +22800,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 194,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political polarization",
+      "political accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 94483917,
@@ -20863,7 +22854,13 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 12.5,
     "word_count": 140,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "US politics",
+      "historical analysis",
+      "political strategy"
+    ]
   },
   {
     "post_id": 94483917,
@@ -20934,7 +22931,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.4,
     "word_count": 584,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "racial equality",
+      "US politics",
+      "history"
+    ]
   },
   {
     "post_id": 94483917,
@@ -20983,7 +22987,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.3,
     "word_count": 180,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political leadership",
+      "voter behavior",
+      "media influence",
+      "trust in institutions",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 95329035,
@@ -21036,7 +23047,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 137,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "immigration issues",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 95523951,
@@ -21113,7 +23129,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 265,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 95523951,
@@ -21144,7 +23165,8 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 11.5,
     "word_count": 24,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 95523951,
@@ -21203,7 +23225,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 231,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 95523951,
@@ -21262,7 +23289,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.3,
     "word_count": 160,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "economic policy",
+      "US politics",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 95558932,
@@ -21331,7 +23365,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 294,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "financial markets",
+      "inflation"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21390,7 +23430,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 300,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political leadership",
+      "social media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21449,7 +23496,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 180,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "voter behavior",
+      "social media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21508,7 +23562,11 @@ window._comments = [
     "ratio_give": -25,
     "grade_level": 13.0,
     "word_count": 149,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21557,7 +23615,13 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 9.1,
     "word_count": 163,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "crime and justice",
+      "political accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21588,7 +23652,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.2,
     "word_count": 62,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "corporate accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 95838542,
@@ -21637,7 +23705,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 14.0,
     "word_count": 147,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 95908052,
@@ -21696,7 +23769,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 187,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "US politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 95908052,
@@ -21749,7 +23828,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 7.4,
     "word_count": 254,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "criminal justice reform",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 96085279,
@@ -21796,7 +23880,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 125,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "economic policy"
+    ]
   },
   {
     "post_id": 96085279,
@@ -21855,7 +23942,12 @@ window._comments = [
     "ratio_give": -24,
     "grade_level": 11.5,
     "word_count": 232,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "trust in institutions",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 96085279,
@@ -21922,7 +24014,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 275,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "democracy",
+      "education reform",
+      "political accountability"
+    ]
   },
   {
     "post_id": 96085279,
@@ -21953,7 +24052,8 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 7.6,
     "word_count": 14,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 96085279,
@@ -22002,7 +24102,12 @@ window._comments = [
     "ratio_give": 17,
     "grade_level": 8.9,
     "word_count": 158,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "authoritarianism",
+      "political leadership",
+      "political accountability"
+    ]
   },
   {
     "post_id": 96085279,
@@ -22057,7 +24162,12 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 10.4,
     "word_count": 191,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "pandemic response",
+      "inflation"
+    ]
   },
   {
     "post_id": 96085279,
@@ -22088,7 +24198,8 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 8.9,
     "word_count": 34,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 95908501,
@@ -22189,7 +24300,13 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 10.5,
     "word_count": 301,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "political leadership",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 95909164,
@@ -22242,7 +24359,12 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 7.8,
     "word_count": 88,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "media bias",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 95825718,
@@ -22285,7 +24407,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 106,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "climate change",
+      "environmental impact"
+    ]
   },
   {
     "post_id": 95081668,
@@ -22322,7 +24448,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 101,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "economic inequality",
+      "social justice",
+      "media influence"
+    ]
   },
   {
     "post_id": 97471398,
@@ -22371,7 +24502,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 182,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "voter behavior",
+      "political polarization",
+      "economic policy",
+      "economic inequality",
+      "US politics"
+    ]
   },
   {
     "post_id": 97471398,
@@ -22428,7 +24566,12 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 17.2,
     "word_count": 233,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "political campaigns",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 98334107,
@@ -22471,7 +24614,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.7,
     "word_count": 138,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 98334107,
@@ -22534,7 +24681,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.0,
     "word_count": 276,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "social media influence",
+      "media bias",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 97776248,
@@ -22583,7 +24735,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 204,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic impact",
+      "pandemic response",
+      "economic policy"
+    ]
   },
   {
     "post_id": 97693814,
@@ -22638,7 +24795,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.6,
     "word_count": 281,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "religious freedom",
+      "education reform",
+      "social justice"
+    ]
   },
   {
     "post_id": 97693814,
@@ -22691,7 +24853,11 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 17.4,
     "word_count": 121,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "urban development"
+    ]
   },
   {
     "post_id": 97693814,
@@ -22728,7 +24894,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 172,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability",
+      "urban development",
+      "economic policy",
+      "public opinion",
+      "homeownership"
+    ]
   },
   {
     "post_id": 97693814,
@@ -22759,7 +24932,11 @@ window._comments = [
     "ratio_give": -10,
     "grade_level": 11.4,
     "word_count": 53,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "urban development",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 98178607,
@@ -22800,7 +24977,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 56,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 97902560,
@@ -22843,7 +25024,14 @@ window._comments = [
     "ratio_give": -9,
     "grade_level": 12.6,
     "word_count": 162,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "political leadership",
+      "economic policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 97886423,
@@ -22920,7 +25108,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 370,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "gun control",
+      "social justice",
+      "criminal justice reform",
+      "law enforcement",
+      "public safety"
+    ]
   },
   {
     "post_id": 98492911,
@@ -22979,7 +25174,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 290,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "US politics",
+      "political leadership",
+      "voter behavior",
+      "political accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 99102422,
@@ -23048,7 +25250,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 241,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 99102422,
@@ -23115,7 +25321,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 467,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "technology ethics",
+      "labor unions",
+      "corporate accountability",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 99102422,
@@ -23164,7 +25377,14 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 11.0,
     "word_count": 217,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "trust in institutions",
+      "corporate accountability",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 99102422,
@@ -23239,7 +25459,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 14.4,
     "word_count": 306,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 99102422,
@@ -23308,7 +25532,12 @@ window._comments = [
     "ratio_give": -19,
     "grade_level": 8.1,
     "word_count": 221,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "labor unions"
+    ]
   },
   {
     "post_id": 99298471,
@@ -23373,7 +25602,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.4,
     "word_count": 200,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "media influence",
+      "economic inequality",
+      "political polarization",
+      "political leadership",
+      "economic policy"
+    ]
   },
   {
     "post_id": 99298471,
@@ -23454,7 +25690,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 348,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political polarization",
+      "rural development",
+      "inequality",
+      "radicalization"
+    ]
   },
   {
     "post_id": 99270290,
@@ -23503,7 +25745,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 234,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "US politics",
+      "political campaigns",
+      "economic policy",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 100006765,
@@ -23556,7 +25804,11 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 7.0,
     "word_count": 88,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "gender equality",
+      "healthcare complexity"
+    ]
   },
   {
     "post_id": 100006765,
@@ -23599,7 +25851,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 229,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "public health",
+      "mental health"
+    ]
   },
   {
     "post_id": 100006765,
@@ -23636,7 +25892,8 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 7.7,
     "word_count": 101,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": []
   },
   {
     "post_id": 99224938,
@@ -23703,7 +25960,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 21.8,
     "word_count": 115,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media bias",
+      "technology ethics",
+      "political polarization",
+      "social media influence"
+    ]
   },
   {
     "post_id": 99224938,
@@ -23744,7 +26007,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.9,
     "word_count": 82,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "social media influence",
+      "media bias",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 99938639,
@@ -23813,7 +26081,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.1,
     "word_count": 122,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "healthcare complexity",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 99938639,
@@ -23868,7 +26141,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.0,
     "word_count": 190,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "economic policy",
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 99938639,
@@ -23923,7 +26201,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 315,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "education reform",
+      "AI and ethics",
+      "labor unions"
+    ]
   },
   {
     "post_id": 99224938,
@@ -23954,7 +26237,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": -3.5,
     "word_count": 1,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 100878224,
@@ -24051,7 +26335,13 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 9.9,
     "word_count": 199,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "public misinformation",
+      "economic inequality",
+      "media bias"
+    ]
   },
   {
     "post_id": 101213330,
@@ -24088,7 +26378,14 @@ window._comments = [
     "ratio_give": -13,
     "grade_level": 11.2,
     "word_count": 122,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "international relations",
+      "US politics",
+      "foreign policy",
+      "geopolitical strategy",
+      "US-China relations"
+    ]
   },
   {
     "post_id": 101399566,
@@ -24135,7 +26432,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.7,
     "word_count": 74,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 101399566,
@@ -24176,7 +26477,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.7,
     "word_count": 125,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 101399566,
@@ -24244,7 +26549,11 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.0,
     "word_count": 177,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 101496493,
@@ -24315,7 +26624,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.5,
     "word_count": 375,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "media influence",
+      "social justice",
+      "gender equality"
+    ]
   },
   {
     "post_id": 101496493,
@@ -24374,7 +26688,12 @@ window._comments = [
     "ratio_give": -13,
     "grade_level": 12.7,
     "word_count": 325,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "social justice",
+      "human rights",
+      "gender equality"
+    ]
   },
   {
     "post_id": 101496493,
@@ -24433,7 +26752,12 @@ window._comments = [
     "ratio_give": -9,
     "grade_level": 10.6,
     "word_count": 187,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "gender equality",
+      "human rights",
+      "social justice"
+    ]
   },
   {
     "post_id": 101496493,
@@ -24482,7 +26806,8 @@ window._comments = [
     "ratio_give": -34,
     "grade_level": 9.9,
     "word_count": 119,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": []
   },
   {
     "post_id": 101496493,
@@ -24513,7 +26838,8 @@ window._comments = [
     "ratio_give": -18,
     "grade_level": 9.1,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 102566653,
@@ -24574,7 +26900,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 458,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 101843994,
@@ -24623,7 +26954,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 163,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "consumer rights"
+    ]
   },
   {
     "post_id": 101843994,
@@ -24740,7 +27075,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 443,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic inequality",
+      "corporate accountability",
+      "financial systems",
+      "regulatory policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 102656721,
@@ -24787,7 +27129,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 169,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "economic policy",
+      "media bias"
+    ]
   },
   {
     "post_id": 102656721,
@@ -24882,7 +27229,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 488,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "media bias"
+    ]
   },
   {
     "post_id": 102357504,
@@ -24953,7 +27305,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.4,
     "word_count": 230,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 102357830,
@@ -25012,7 +27369,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 122,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "media bias",
+      "technology ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 103365512,
@@ -25055,7 +27418,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 128,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "trust in institutions",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 103365512,
@@ -25098,7 +27468,12 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 12.0,
     "word_count": 157,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "digital privacy",
+      "technology ethics",
+      "public safety"
+    ]
   },
   {
     "post_id": 103365512,
@@ -25129,7 +27504,8 @@ window._comments = [
     "ratio_give": 36,
     "grade_level": 9.2,
     "word_count": 36,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 103365512,
@@ -25160,7 +27536,12 @@ window._comments = [
     "ratio_give": 89,
     "grade_level": 8.5,
     "word_count": 49,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political leadership",
+      "trust in institutions",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 103365512,
@@ -25191,7 +27572,8 @@ window._comments = [
     "ratio_give": 50,
     "grade_level": 7.2,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 103365512,
@@ -25222,7 +27604,13 @@ window._comments = [
     "ratio_give": -61,
     "grade_level": 11.4,
     "word_count": 53,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "trust in institutions",
+      "political polarization",
+      "social media influence",
+      "political leadership"
+    ]
   },
   {
     "post_id": 104112057,
@@ -25265,7 +27653,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 10.1,
     "word_count": 164,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "media influence",
+      "public misinformation",
+      "free speech issues",
+      "media bias"
+    ]
   },
   {
     "post_id": 104112057,
@@ -25296,7 +27691,10 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 9.5,
     "word_count": 48,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence"
+    ]
   },
   {
     "post_id": 104112057,
@@ -25327,7 +27725,8 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 7.2,
     "word_count": 13,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 102437209,
@@ -25358,7 +27757,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 74,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political leadership",
+      "voter behavior",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 104440770,
@@ -25407,7 +27812,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 223,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "political accountability",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 104440770,
@@ -25456,7 +27867,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.1,
     "word_count": 198,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "international relations",
+      "US politics"
+    ]
   },
   {
     "post_id": 102749378,
@@ -25499,7 +27915,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 17.3,
     "word_count": 180,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "public misinformation",
+      "political polarization",
+      "political leadership",
+      "voter behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 105318311,
@@ -25540,7 +27963,13 @@ window._comments = [
     "ratio_give": -19,
     "grade_level": 7.6,
     "word_count": 40,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "international relations",
+      "authoritarianism"
+    ]
   },
   {
     "post_id": 105202767,
@@ -25619,7 +28048,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 337,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health",
+      "social media influence",
+      "digital privacy",
+      "gender equality",
+      "public health"
+    ]
   },
   {
     "post_id": 105098236,
@@ -25650,7 +28086,8 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 0.9,
     "word_count": 9,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 105631761,
@@ -25693,7 +28130,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 163,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "social justice",
+      "economic inequality",
+      "housing affordability",
+      "urban development",
+      "political polarization"
+    ]
   },
   {
     "post_id": 105714387,
@@ -25802,7 +28246,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 317,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 105714387,
@@ -25845,7 +28293,11 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 10.3,
     "word_count": 217,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 105714387,
@@ -25892,7 +28344,14 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 14.4,
     "word_count": 284,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "corporate accountability",
+      "media bias",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 106611175,
@@ -25951,7 +28410,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 292,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 106611175,
@@ -25982,7 +28447,8 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 12.5,
     "word_count": 47,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": []
   },
   {
     "post_id": 106611175,
@@ -26103,7 +28569,11 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 13.9,
     "word_count": 423,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "consumer behavior"
+    ]
   },
   {
     "post_id": 106662161,
@@ -26186,7 +28656,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 9.6,
     "word_count": 210,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "student debt",
+      "economic policy",
+      "political accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 106611175,
@@ -26247,7 +28724,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.5,
     "word_count": 287,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "economic policy",
+      "media bias"
+    ]
   },
   {
     "post_id": 105878852,
@@ -26294,7 +28776,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 260,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
   },
   {
     "post_id": 106887125,
@@ -26347,7 +28833,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.3,
     "word_count": 242,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "labor unions",
+      "corporate accountability",
+      "international relations",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 106887125,
@@ -26378,7 +28871,11 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 10.8,
     "word_count": 67,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "public safety",
+      "crime and justice"
+    ]
   },
   {
     "post_id": 107805446,
@@ -26449,7 +28946,12 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 288,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "US politics"
+    ]
   },
   {
     "post_id": 107805446,
@@ -26516,7 +29018,13 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 10.5,
     "word_count": 463,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "financial regulation",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 107192700,
@@ -26593,7 +29101,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 324,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "international relations",
+      "regulatory issues",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 107192700,
@@ -26692,7 +29207,11 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 10.5,
     "word_count": 260,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 107192700,
@@ -26729,7 +29248,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 113,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 107606583,
@@ -26772,7 +29296,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 151,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "social justice",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 107606583,
@@ -26833,7 +29361,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 309,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political polarization",
+      "economic policy"
+    ]
   },
   {
     "post_id": 108162136,
@@ -26926,7 +29458,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 327,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "political accountability",
+      "media influence",
+      "banking regulation"
+    ]
   },
   {
     "post_id": 108162136,
@@ -27067,7 +29605,14 @@ window._comments = [
     "ratio_give": -22,
     "grade_level": 10.6,
     "word_count": 196,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "economic policy",
+      "corporate accountability",
+      "social media influence"
+    ]
   },
   {
     "post_id": 108586336,
@@ -27150,7 +29695,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 386,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "financial crisis",
+      "trust in institutions",
+      "public safety",
+      "political leadership"
+    ]
   },
   {
     "post_id": 108586336,
@@ -27247,7 +29799,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.5,
     "word_count": 401,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "banking regulation",
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 108655723,
@@ -27308,7 +29865,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 295,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "political strategy",
+      "political polarization",
+      "media influence",
+      "economic policy",
+      "social issues"
+    ]
   },
   {
     "post_id": 108655723,
@@ -27363,7 +29927,11 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 8.7,
     "word_count": 193,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "technology ethics",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 108655723,
@@ -27434,7 +30002,10 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 7.8,
     "word_count": 44,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "digital privacy"
+    ]
   },
   {
     "post_id": 108656037,
@@ -27481,7 +30052,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.4,
     "word_count": 100,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 109048678,
@@ -27532,7 +30107,14 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 12.3,
     "word_count": 69,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "inflation",
+      "Russia-Ukraine conflict",
+      "US politics",
+      "economic policy",
+      "energy policy"
+    ]
   },
   {
     "post_id": 109048678,
@@ -27575,7 +30157,12 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 11.6,
     "word_count": 150,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "economic policy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 109048678,
@@ -27646,7 +30233,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 13.3,
     "word_count": 474,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "technology ethics",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 109476948,
@@ -27683,7 +30274,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 140,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "trust in institutions",
+      "political accountability"
+    ]
   },
   {
     "post_id": 109476948,
@@ -27720,7 +30317,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 109,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "public misinformation",
+      "economic policy"
+    ]
   },
   {
     "post_id": 109476948,
@@ -27775,7 +30376,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.5,
     "word_count": 303,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": []
   },
   {
     "post_id": 109697799,
@@ -27830,7 +30432,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.9,
     "word_count": 339,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "banking regulation",
+      "financial system",
+      "investment strategies",
+      "credit risk management"
+    ]
   },
   {
     "post_id": 110518383,
@@ -27921,7 +30530,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 188,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "political polarization",
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 110518383,
@@ -27994,7 +30610,13 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 9.5,
     "word_count": 90,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "economic policy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28049,7 +30671,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 13.7,
     "word_count": 28,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "urban development",
+      "political campaigns",
+      "media influence"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28104,7 +30731,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 14.8,
     "word_count": 27,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social justice",
+      "media influence",
+      "international relations",
+      "foreign policy",
+      "racial equality"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28181,7 +30815,10 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.7,
     "word_count": 109,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28236,7 +30873,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 12.6,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "social justice"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28291,7 +30933,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.5,
     "word_count": 27,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "political campaigns",
+      "media influence",
+      "climate change",
+      "energy policy",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28346,7 +30995,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 13.5,
     "word_count": 25,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social justice",
+      "media influence",
+      "political polarization",
+      "racial equality"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28401,7 +31056,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 13.7,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "urban development",
+      "political campaigns",
+      "housing affordability",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28456,7 +31118,14 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.4,
     "word_count": 28,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "political campaigns",
+      "social media influence",
+      "racial equality"
+    ]
   },
   {
     "post_id": 110518383,
@@ -28511,7 +31180,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 13.6,
     "word_count": 26,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "international relations",
+      "foreign policy",
+      "public health"
+    ]
   },
   {
     "post_id": 109985984,
@@ -28554,7 +31230,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 149,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 109985984,
@@ -28645,7 +31325,11 @@ window._comments = [
     "ratio_give": -53,
     "grade_level": 12.9,
     "word_count": 322,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "economic inequality",
+      "social media influence"
+    ]
   },
   {
     "post_id": 109985984,
@@ -28676,7 +31360,8 @@ window._comments = [
     "ratio_give": -11,
     "grade_level": 8.3,
     "word_count": 44,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 109985984,
@@ -28707,7 +31392,10 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 15.2,
     "word_count": 49,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "urban development"
+    ]
   },
   {
     "post_id": 109985984,
@@ -28744,7 +31432,10 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.5,
     "word_count": 41,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 110198262,
@@ -28793,7 +31484,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 230,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political accountability",
+      "education reform",
+      "labor unions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110198262,
@@ -28830,7 +31527,11 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 7.8,
     "word_count": 46,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
   },
   {
     "post_id": 110198262,
@@ -28879,7 +31580,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 168,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "political polarization",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 110198262,
@@ -28928,7 +31634,13 @@ window._comments = [
     "ratio_give": -17,
     "grade_level": 11.5,
     "word_count": 235,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "labor unions",
+      "political polarization",
+      "public sector",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110198262,
@@ -28959,7 +31671,11 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 13.8,
     "word_count": 84,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110198262,
@@ -29002,7 +31718,12 @@ window._comments = [
     "ratio_give": -29,
     "grade_level": 10.0,
     "word_count": 142,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "social justice",
+      "parental rights",
+      "public intervention"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29051,7 +31772,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 190,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "media influence",
+      "social media influence",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29124,7 +31852,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 274,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "political campaigns",
+      "political polarization",
+      "economic policy",
+      "US politics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29171,7 +31906,11 @@ window._comments = [
     "ratio_give": -15,
     "grade_level": 12.1,
     "word_count": 102,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "climate change",
+      "scientific communication"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29224,7 +31963,10 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 11.0,
     "word_count": 99,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29255,7 +31997,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 8.9,
     "word_count": 58,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "voter behavior",
+      "political strategy",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 110421215,
@@ -29304,7 +32051,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.6,
     "word_count": 140,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": []
   },
   {
     "post_id": 110841665,
@@ -29351,7 +32099,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 132,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "political polarization",
+      "religious freedom",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29422,7 +32177,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.2,
     "word_count": 237,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "political polarization",
+      "technology ethics",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29453,7 +32214,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 4.9,
     "word_count": 53,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "economic policy"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29542,7 +32307,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.5,
     "word_count": 215,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "media influence",
+      "corporate accountability",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29573,7 +32345,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.5,
     "word_count": 22,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 110841665,
@@ -29616,7 +32389,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.4,
     "word_count": 162,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "AI and ethics",
+      "corporate accountability",
+      "technology ethics",
+      "media influence",
+      "political leadership"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29709,7 +32489,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 229,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29740,7 +32525,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 6.8,
     "word_count": 48,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "political polarization",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29799,7 +32589,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.4,
     "word_count": 134,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 110841665,
@@ -29868,7 +32662,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.1,
     "word_count": 356,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "media influence"
+    ]
   },
   {
     "post_id": 111206826,
@@ -29929,7 +32728,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.2,
     "word_count": 312,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "social media influence",
+      "media bias",
+      "free speech issues"
+    ]
   },
   {
     "post_id": 111206826,
@@ -30008,7 +32814,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 14.6,
     "word_count": 438,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "social justice",
+      "political polarization",
+      "cultural values",
+      "community responsibility",
+      "intergenerational wisdom"
+    ]
   },
   {
     "post_id": 111206826,
@@ -30039,7 +32852,10 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.1,
     "word_count": 68,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 111206826,
@@ -30082,7 +32898,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.1,
     "word_count": 135,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": []
   },
   {
     "post_id": 111206826,
@@ -30119,7 +32936,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.6,
     "word_count": 81,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "AI and ethics",
+      "political polarization",
+      "media influence"
+    ]
   },
   {
     "post_id": 111206826,
@@ -30191,7 +33013,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.7,
     "word_count": 313,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "media bias",
+      "digital privacy",
+      "corporate accountability",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 111336596,
@@ -30246,7 +33075,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 299,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 111336596,
@@ -30303,7 +33137,12 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 10.2,
     "word_count": 228,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "technology ethics",
+      "AI and ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 110842111,
@@ -30352,7 +33191,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.5,
     "word_count": 65,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political polarization",
+      "social media influence"
+    ]
   },
   {
     "post_id": 110842111,
@@ -30401,7 +33244,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.9,
     "word_count": 292,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 110842111,
@@ -30432,7 +33280,8 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 5.2,
     "word_count": 14,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 112690160,
@@ -30481,7 +33330,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 176,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "political polarization",
+      "urban development",
+      "housing affordability",
+      "political campaigns",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 112690160,
@@ -30518,7 +33374,10 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 10.3,
     "word_count": 96,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "housing affordability"
+    ]
   },
   {
     "post_id": 112690160,
@@ -30555,7 +33414,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.2,
     "word_count": 112,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political ideology",
+      "economic policy",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 112690160,
@@ -30622,7 +33487,12 @@ window._comments = [
     "ratio_give": -42,
     "grade_level": 9.5,
     "word_count": 192,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "free speech issues",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 112651168,
@@ -30665,7 +33535,11 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 12.0,
     "word_count": 203,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education inequality",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 112651168,
@@ -30702,7 +33576,12 @@ window._comments = [
     "ratio_give": -15,
     "grade_level": 11.4,
     "word_count": 104,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "economic inequality",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 112651168,
@@ -30770,7 +33649,11 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.9,
     "word_count": 128,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "education reform",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 112651168,
@@ -30807,7 +33690,10 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.0,
     "word_count": 65,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "technology ethics"
+    ]
   },
   {
     "post_id": 113488945,
@@ -30854,7 +33740,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 125,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 113488945,
@@ -30903,7 +33794,8 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 10.7,
     "word_count": 76,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 113872955,
@@ -30958,7 +33850,8 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 6.9,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 113281478,
@@ -30995,7 +33888,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 125,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "immigration issues",
+      "political polarization",
+      "media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 113281478,
@@ -31038,7 +33937,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 187,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "trust in institutions",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31091,7 +33995,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 255,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "media influence",
+      "economic policy",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31140,7 +34050,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 10.1,
     "word_count": 285,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31237,7 +34152,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 382,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31268,7 +34188,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 85,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "media influence",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31371,7 +34296,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 9.9,
     "word_count": 305,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 114230135,
@@ -31416,7 +34346,10 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 15.8,
     "word_count": 38,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 113743922,
@@ -31466,7 +34399,11 @@ window._comments = [
     "grade_level": 12.3,
     "word_count": 201,
     "categories": "Contradictions and Challenges in Legal and Social Policies",
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "public safety",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 113743922,
@@ -31498,7 +34435,8 @@ window._comments = [
     "grade_level": 8.3,
     "word_count": 29,
     "categories": "Uncategorized",
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 114773991,
@@ -31542,7 +34480,13 @@ window._comments = [
     "grade_level": 10.9,
     "word_count": 183,
     "categories": "Challenges in Democratic Messaging and Electoral Strategies",
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "media influence",
+      "crime and justice"
+    ]
   },
   {
     "post_id": 111842905,
@@ -31586,7 +34530,14 @@ window._comments = [
     "grade_level": 11.5,
     "word_count": 147,
     "categories": "Challenges and Reforms in Educational Equity and Systems",
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "public misinformation",
+      "political leadership",
+      "censorship",
+      "social justice"
+    ]
   },
   {
     "post_id": 111842905,
@@ -31636,7 +34587,13 @@ window._comments = [
     "grade_level": 12.2,
     "word_count": 258,
     "categories": "Challenges and Reforms in Educational Equity and Systems",
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "public education",
+      "political implications",
+      "parental involvement"
+    ]
   },
   {
     "post_id": 111842905,
@@ -31668,7 +34625,8 @@ window._comments = [
     "grade_level": 13.3,
     "word_count": 68,
     "categories": "Enhancing Subscriber Experience through Comment Management and AI",
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 114988517,
@@ -31718,7 +34676,12 @@ window._comments = [
     "grade_level": 11.1,
     "word_count": 205,
     "categories": "Challenges and Reforms in Educational Equity and Systems",
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "social justice",
+      "political accountability"
+    ]
   },
   {
     "post_id": 115625576,
@@ -31756,7 +34719,11 @@ window._comments = [
     "grade_level": 11.9,
     "word_count": 110,
     "categories": "Economic Philosophies and Resource Allocation in Modern Policy Discussions",
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 115625576,
@@ -31806,7 +34773,14 @@ window._comments = [
     "grade_level": 9.9,
     "word_count": 236,
     "categories": "Inflation Dynamics and Policy Responses in the US and Europe",
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "international relations",
+      "climate change",
+      "US politics",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 115625576,
@@ -31870,7 +34844,10 @@ window._comments = [
     "grade_level": 12.1,
     "word_count": 98,
     "categories": "Evolving Challenges in Business, Journalism, and Technology",
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 116649940,
@@ -31917,7 +34894,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 113,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 115956601,
@@ -31955,7 +34936,12 @@ window._comments = [
     "grade_level": 14.5,
     "word_count": 137,
     "categories": "Challenges and Reforms in Educational Equity and Systems",
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "economic inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 115956601,
@@ -31993,7 +34979,11 @@ window._comments = [
     "grade_level": 12.2,
     "word_count": 67,
     "categories": "Challenges and Reforms in Educational Equity and Systems",
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "media influence"
+    ]
   },
   {
     "post_id": 117159791,
@@ -32067,7 +35057,11 @@ window._comments = [
     "grade_level": 11.1,
     "word_count": 140,
     "categories": "Enhancing Subscriber Experience through Comment Management and AI",
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 117159791,
@@ -32111,7 +35105,8 @@ window._comments = [
     "grade_level": 10.1,
     "word_count": 16,
     "categories": "Uncategorized",
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 117159791,
@@ -32143,7 +35138,8 @@ window._comments = [
     "grade_level": 5.7,
     "word_count": 49,
     "categories": "Enhancing Subscriber Experience through Comment Management and AI",
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 116692659,
@@ -32203,7 +35199,14 @@ window._comments = [
     "grade_level": 10.7,
     "word_count": 287,
     "categories": "Challenges in Democratic Messaging and Electoral Strategies",
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "social media influence",
+      "media influence",
+      "labor unions",
+      "political leadership"
+    ]
   },
   {
     "post_id": 116692659,
@@ -32251,7 +35254,12 @@ window._comments = [
     "grade_level": 9.1,
     "word_count": 135,
     "categories": "Shifts in Technology's Role in Work and Education",
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "labor unions",
+      "economic policy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 116692659,
@@ -32295,7 +35303,11 @@ window._comments = [
     "grade_level": 10.7,
     "word_count": 132,
     "categories": "Shifts in Technology's Role in Work and Education",
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "education reform",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 117011137,
@@ -32345,7 +35357,12 @@ window._comments = [
     "grade_level": 8.4,
     "word_count": 194,
     "categories": "Shifts in Technology's Role in Work and Education",
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "media influence",
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 117011137,
@@ -32493,7 +35510,14 @@ window._comments = [
     "grade_level": 12.1,
     "word_count": 537,
     "categories": "Shifts in Technology's Role in Work and Education",
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "media influence",
+      "housing affordability",
+      "technology ethics",
+      "AI and ethics",
+      "urban development"
+    ]
   },
   {
     "post_id": 117011137,
@@ -32541,7 +35565,12 @@ window._comments = [
     "grade_level": 11.7,
     "word_count": 172,
     "categories": "Shifts in Technology's Role in Work and Education",
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "media influence",
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 117197283,
@@ -32623,7 +35652,14 @@ window._comments = [
     "grade_level": 12.6,
     "word_count": 292,
     "categories": "Financial Policy and Political Divisions in Crisis Management",
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "political campaigns",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 118908600,
@@ -32683,7 +35719,13 @@ window._comments = [
     "grade_level": 10.2,
     "word_count": 196,
     "categories": "Enhancing Subscriber Experience through Comment Management and AI",
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "digital privacy",
+      "technology ethics",
+      "social media influence",
+      "privacy issues"
+    ]
   },
   {
     "post_id": 118595983,
@@ -32726,7 +35768,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 238,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "cultural fragmentation",
+      "social identity",
+      "normal distribution"
+    ]
   },
   {
     "post_id": 120093740,
@@ -32777,7 +35824,11 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 20.5,
     "word_count": 82,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "education reform",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 120093740,
@@ -32862,7 +35913,14 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 13.3,
     "word_count": 385,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political commentary",
+      "economic policy",
+      "housing affordability",
+      "media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 120093740,
@@ -32910,7 +35968,11 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 11.1,
     "word_count": 136,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 119561942,
@@ -32959,7 +36021,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 213,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political polarization",
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 119561942,
@@ -32990,7 +36059,12 @@ window._comments = [
     "ratio_give": -17,
     "grade_level": 12.6,
     "word_count": 95,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "political accountability"
+    ]
   },
   {
     "post_id": 119561942,
@@ -33021,7 +36095,12 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 13.5,
     "word_count": 60,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "public misinformation",
+      "economic policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 119561942,
@@ -33052,7 +36131,11 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 10.3,
     "word_count": 72,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 119561942,
@@ -33083,7 +36166,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 13.4,
     "word_count": 69,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "economic inequality",
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 119561942,
@@ -33131,7 +36219,11 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 94,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 119561942,
@@ -33162,7 +36254,10 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 5.9,
     "word_count": 51,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33237,7 +36332,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 320,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "media influence",
+      "public misinformation",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33274,7 +36376,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 128,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "economic impact",
+      "healthcare complexity",
+      "education reform",
+      "housing affordability"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33317,7 +36425,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 141,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "US politics",
+      "political leadership",
+      "political accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33354,7 +36468,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 13.8,
     "word_count": 168,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "education reform",
+      "healthcare complexity"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33417,7 +36536,11 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 13.6,
     "word_count": 188,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "education reform",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33460,7 +36583,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 12.8,
     "word_count": 147,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "media influence",
+      "digital privacy",
+      "free speech issues",
+      "technology ethics",
+      "privacy issues"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33518,7 +36648,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 9.4,
     "word_count": 110,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "healthcare complexity",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 119499796,
@@ -33579,7 +36714,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 7.4,
     "word_count": 81,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "digital privacy",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 120094057,
@@ -33620,7 +36760,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 27.5,
     "word_count": 56,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "racial inequality",
+      "affirmative action"
+    ]
   },
   {
     "post_id": 120094057,
@@ -33651,7 +36797,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 13.4,
     "word_count": 23,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 120255006,
@@ -33700,7 +36847,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 204,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "geopolitical strategy",
+      "US politics",
+      "foreign policy",
+      "climate change",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 120255006,
@@ -33731,7 +36885,12 @@ window._comments = [
     "ratio_give": -25,
     "grade_level": 11.8,
     "word_count": 47,
-    "category": "Balancing Climate Policy and Domestic Energy Needs"
+    "category": "Balancing Climate Policy and Domestic Energy Needs",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "energy policy"
+    ]
   },
   {
     "post_id": 120345900,
@@ -33784,7 +36943,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.9,
     "word_count": 230,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political accountability",
+      "trust in institutions",
+      "US politics",
+      "bureaucracy",
+      "public administration"
+    ]
   },
   {
     "post_id": 120345900,
@@ -33855,7 +37021,14 @@ window._comments = [
     "ratio_give": -9,
     "grade_level": 12.3,
     "word_count": 347,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "regulation",
+      "trust in institutions",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 120964109,
@@ -33898,7 +37071,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 152,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "media bias",
+      "political polarization",
+      "social media influence"
+    ]
   },
   {
     "post_id": 120964109,
@@ -33929,7 +37109,12 @@ window._comments = [
     "ratio_give": 32,
     "grade_level": 8.9,
     "word_count": 69,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "political polarization"
+    ]
   },
   {
     "post_id": 120964109,
@@ -33964,7 +37149,8 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 7.2,
     "word_count": 16,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 121568094,
@@ -34017,7 +37203,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 115,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "student debt",
+      "political accountability"
+    ]
   },
   {
     "post_id": 121568094,
@@ -34064,7 +37256,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.9,
     "word_count": 155,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "trust in institutions",
+      "public misinformation",
+      "political leadership"
+    ]
   },
   {
     "post_id": 121568094,
@@ -34101,7 +37300,13 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 10.1,
     "word_count": 72,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "voter behavior",
+      "inflation"
+    ]
   },
   {
     "post_id": 121568094,
@@ -34138,7 +37343,14 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 10.1,
     "word_count": 105,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political campaigns",
+      "media influence",
+      "media bias",
+      "electoral integrity",
+      "political accountability"
+    ]
   },
   {
     "post_id": 121811900,
@@ -34205,7 +37417,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 334,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "social justice",
+      "human rights",
+      "political polarization",
+      "media influence"
+    ]
   },
   {
     "post_id": 121811900,
@@ -34242,7 +37460,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 171,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "political accountability",
+      "media influence",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 121811900,
@@ -34299,7 +37524,12 @@ window._comments = [
     "ratio_give": -57,
     "grade_level": 11.1,
     "word_count": 179,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 123400296,
@@ -34336,7 +37566,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 17.9,
     "word_count": 94,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "political polarization",
+      "education reform",
+      "political accountability"
+    ]
   },
   {
     "post_id": 123400296,
@@ -34367,7 +37603,10 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 9.8,
     "word_count": 50,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "euthanasia ethics"
+    ]
   },
   {
     "post_id": 125027414,
@@ -34414,7 +37653,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 145,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political polarization",
+      "education inequality",
+      "gender equality",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 126148200,
@@ -34473,7 +37718,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 293,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political polarization",
+      "trust in institutions",
+      "US politics"
+    ]
   },
   {
     "post_id": 126148200,
@@ -34516,7 +37768,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 125,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "media bias",
+      "economic policy"
+    ]
   },
   {
     "post_id": 132350655,
@@ -34583,7 +37840,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.0,
     "word_count": 112,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "housing affordability",
+      "urban development"
+    ]
   },
   {
     "post_id": 132350655,
@@ -34614,7 +37875,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 6.6,
     "word_count": 23,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 132350655,
@@ -34645,7 +37907,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 6.6,
     "word_count": 35,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 132350655,
@@ -34676,7 +37939,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.7,
     "word_count": 15,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 134273254,
@@ -34713,7 +37977,8 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 5.2,
     "word_count": 56,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": []
   },
   {
     "post_id": 137121032,
@@ -34756,7 +38021,10 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.9,
     "word_count": 144,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health"
+    ]
   },
   {
     "post_id": 137202273,
@@ -34800,7 +38068,14 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 7.6,
     "word_count": 66,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "technology ethics",
+      "digital privacy",
+      "economic policy",
+      "urban development",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 137265586,
@@ -34837,7 +38112,11 @@ window._comments = [
     "ratio_give": -19,
     "grade_level": 13.5,
     "word_count": 103,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic inequality",
+      "mental health"
+    ]
   },
   {
     "post_id": 137637440,
@@ -34868,7 +38147,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 7.0,
     "word_count": 74,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "urban development",
+      "housing affordability",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 137637440,
@@ -34899,7 +38183,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 3.7,
     "word_count": 40,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 137838201,
@@ -34930,7 +38215,8 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 12.3,
     "word_count": 46,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 137838201,
@@ -34967,7 +38253,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 10.4,
     "word_count": 55,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health",
+      "social media influence"
+    ]
   },
   {
     "post_id": 138038255,
@@ -35008,7 +38298,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.9,
     "word_count": 65,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "education inequality",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 138119600,
@@ -35039,7 +38333,8 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 14.6,
     "word_count": 29,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 138119600,
@@ -35070,7 +38365,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.8,
     "word_count": 44,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "media bias"
+    ]
   },
   {
     "post_id": 138119600,
@@ -35125,7 +38425,14 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 8.6,
     "word_count": 151,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "trust in institutions",
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 138235700,
@@ -35174,7 +38481,13 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.6,
     "word_count": 41,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "media bias",
+      "international relations"
+    ]
   },
   {
     "post_id": 138235700,
@@ -35251,7 +38564,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.4,
     "word_count": 225,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "international relations",
+      "political accountability",
+      "media bias"
+    ]
   },
   {
     "post_id": 138200384,
@@ -35310,7 +38630,11 @@ window._comments = [
     "ratio_give": -22,
     "grade_level": 10.2,
     "word_count": 107,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "antisemitism",
+      "human rights"
+    ]
   },
   {
     "post_id": 138438756,
@@ -35351,7 +38675,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 8.2,
     "word_count": 31,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 138527237,
@@ -35416,7 +38741,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 310,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "mental health",
+      "housing affordability",
+      "drug policy",
+      "urban development",
+      "public health"
+    ]
   },
   {
     "post_id": 138539348,
@@ -35453,7 +38785,14 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 13.8,
     "word_count": 120,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political leadership",
+      "trust in institutions",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 138742670,
@@ -35550,7 +38889,8 @@ window._comments = [
     "ratio_give": 21,
     "grade_level": 7.1,
     "word_count": 50,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 138742670,
@@ -35641,7 +38981,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 7.9,
     "word_count": 27,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 138742670,
@@ -35738,7 +39079,8 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 18.1,
     "word_count": 47,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": []
   },
   {
     "post_id": 138692825,
@@ -35787,7 +39129,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 17.1,
     "word_count": 293,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "media bias",
+      "political leadership",
+      "foreign policy",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 138692825,
@@ -35945,7 +39294,14 @@ window._comments = [
     "ratio_give": -9,
     "grade_level": 13.2,
     "word_count": 387,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "media bias",
+      "electoral integrity",
+      "foreign policy"
+    ]
   },
   {
     "post_id": 138278391,
@@ -35976,7 +39332,8 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": -15.7,
     "word_count": 0,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 138278391,
@@ -36007,7 +39364,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": -15.7,
     "word_count": 0,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 139099672,
@@ -36048,7 +39406,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 55,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "public misinformation",
+      "media influence",
+      "education reform"
+    ]
   },
   {
     "post_id": 139201270,
@@ -36101,7 +39464,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.9,
     "word_count": 69,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 139240097,
@@ -36158,7 +39525,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 7.0,
     "word_count": 56,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "censorship",
+      "education reform",
+      "media influence"
+    ]
   },
   {
     "post_id": 139360227,
@@ -36196,7 +39568,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 146,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 139360227,
@@ -36227,7 +39604,8 @@ window._comments = [
     "ratio_give": -44,
     "grade_level": 13.8,
     "word_count": 42,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 139463765,
@@ -36350,7 +39728,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.5,
     "word_count": 176,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "US politics",
+      "voter behavior",
+      "political campaigns",
+      "political polarization"
+    ]
   },
   {
     "post_id": 139614233,
@@ -36433,7 +39818,11 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 8.8,
     "word_count": 310,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 139992115,
@@ -36492,7 +39881,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 158,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 139992115,
@@ -36541,7 +39934,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 20.5,
     "word_count": 315,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "economic policy",
+      "healthcare complexity",
+      "education reform",
+      "political accountability",
+      "unionization"
+    ]
   },
   {
     "post_id": 139992115,
@@ -36572,7 +39972,8 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 3.1,
     "word_count": 26,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 140228948,
@@ -36607,7 +40008,10 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 7.2,
     "word_count": 64,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "digital privacy"
+    ]
   },
   {
     "post_id": 140397199,
@@ -36676,7 +40080,11 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 10.2,
     "word_count": 142,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "digital privacy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 140478660,
@@ -36719,7 +40127,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 7.6,
     "word_count": 113,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "inflation",
+      "economic policy"
+    ]
   },
   {
     "post_id": 140478660,
@@ -36795,7 +40207,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 592,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "media influence",
+      "public misinformation",
+      "US politics"
+    ]
   },
   {
     "post_id": 140590943,
@@ -36826,7 +40245,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": -15.7,
     "word_count": 0,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 140590943,
@@ -36867,7 +40287,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 6.4,
     "word_count": 11,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 140688665,
@@ -36916,7 +40337,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 19.6,
     "word_count": 360,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "political accountability",
+      "US politics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 140643346,
@@ -36973,7 +40401,13 @@ window._comments = [
     "ratio_give": -10,
     "grade_level": 11.6,
     "word_count": 239,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "education reform",
+      "social justice",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 140643346,
@@ -37016,7 +40450,11 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 15.7,
     "word_count": 103,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 140767251,
@@ -37053,7 +40491,11 @@ window._comments = [
     "ratio_give": -61,
     "grade_level": 12.1,
     "word_count": 98,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "political leadership",
+      "political accountability"
+    ]
   },
   {
     "post_id": 140767251,
@@ -37090,7 +40532,11 @@ window._comments = [
     "ratio_give": 15,
     "grade_level": 8.7,
     "word_count": 51,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 140850960,
@@ -37147,7 +40593,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 110,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics",
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 140850960,
@@ -37192,7 +40643,14 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 8.9,
     "word_count": 58,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "public misinformation",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 140960236,
@@ -37233,7 +40691,8 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 10.3,
     "word_count": 24,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 141059253,
@@ -37286,7 +40745,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 374,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political polarization",
+      "media influence",
+      "political leadership",
+      "trust in institutions",
+      "foreign policy"
+    ]
   },
   {
     "post_id": 141059253,
@@ -37329,7 +40795,14 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 11.7,
     "word_count": 170,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "political polarization",
+      "media influence",
+      "political leadership",
+      "US politics",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 141120963,
@@ -37384,7 +40857,14 @@ window._comments = [
     "ratio_give": 18,
     "grade_level": 37.2,
     "word_count": 84,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "media bias",
+      "digital privacy",
+      "technology ethics",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 141120963,
@@ -37419,7 +40899,8 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 8.0,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 141120963,
@@ -37450,7 +40931,10 @@ window._comments = [
     "ratio_give": -43,
     "grade_level": 10.2,
     "word_count": 71,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic inequality"
+    ]
   },
   {
     "post_id": 141120963,
@@ -37487,7 +40971,10 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 11.0,
     "word_count": 119,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence"
+    ]
   },
   {
     "post_id": 141120963,
@@ -37518,7 +41005,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 10.0,
     "word_count": 52,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 141208290,
@@ -37555,7 +41046,14 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 12.7,
     "word_count": 126,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "voter behavior",
+      "political polarization",
+      "US politics",
+      "abortion"
+    ]
   },
   {
     "post_id": 141231262,
@@ -37598,7 +41096,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.2,
     "word_count": 205,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political accountability",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 141231262,
@@ -37647,7 +41150,13 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 11.2,
     "word_count": 262,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political accountability",
+      "US politics",
+      "crime and justice",
+      "public safety"
+    ]
   },
   {
     "post_id": 141311473,
@@ -37704,7 +41213,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 99,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 141475750,
@@ -37793,7 +41307,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 168,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media bias",
+      "political polarization",
+      "social media influence"
+    ]
   },
   {
     "post_id": 141575858,
@@ -37844,7 +41363,13 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "Russia-Ukraine conflict",
+      "energy policy"
+    ]
   },
   {
     "post_id": 141644425,
@@ -37937,7 +41462,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 18.5,
     "word_count": 120,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "political leadership",
+      "trust in institutions",
+      "public health"
+    ]
   },
   {
     "post_id": 141644425,
@@ -37968,7 +41500,8 @@ window._comments = [
     "ratio_give": -13,
     "grade_level": 7.6,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 141644425,
@@ -38013,7 +41546,8 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 2.9,
     "word_count": 5,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 141428009,
@@ -38056,7 +41590,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 180,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "labor unions",
+      "voter behavior",
+      "political campaigns",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 141462137,
@@ -38087,7 +41628,8 @@ window._comments = [
     "ratio_give": 38,
     "grade_level": 25.6,
     "word_count": 36,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 141462137,
@@ -38118,7 +41660,11 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 11.5,
     "word_count": 48,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political leadership",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 141548503,
@@ -38161,7 +41707,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.4,
     "word_count": 154,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "trust in institutions",
+      "media influence",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 141890579,
@@ -38221,7 +41774,10 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 8.5,
     "word_count": 130,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 142186179,
@@ -38308,7 +41864,11 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 8.4,
     "word_count": 67,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "antisemitism",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 142120863,
@@ -38355,7 +41915,12 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 15.5,
     "word_count": 188,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "technology ethics",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 142215522,
@@ -38452,7 +42017,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 314,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "political polarization",
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 142215522,
@@ -38553,7 +42125,12 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 8.8,
     "word_count": 569,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "AI and ethics",
+      "political polarization",
+      "media influence"
+    ]
   },
   {
     "post_id": 142215522,
@@ -38584,7 +42161,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 101,
-    "category": "Advancements and Applications of AI Technologies"
+    "category": "Advancements and Applications of AI Technologies",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "media influence"
+    ]
   },
   {
     "post_id": 142215522,
@@ -38615,7 +42197,12 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 5.3,
     "word_count": 68,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "political leadership",
+      "political accountability",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 142215522,
@@ -38658,7 +42245,12 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 10.8,
     "word_count": 133,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "technology ethics",
+      "AI and ethics",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 142219454,
@@ -38689,7 +42281,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 9.8,
     "word_count": 79,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "trust in institutions",
+      "public misinformation",
+      "media influence",
+      "political accountability"
+    ]
   },
   {
     "post_id": 142219454,
@@ -38720,7 +42318,14 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 9.9,
     "word_count": 60,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "media bias",
+      "US politics",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 142219454,
@@ -38751,7 +42356,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 69,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 142219454,
@@ -38788,7 +42399,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 7.5,
     "word_count": 96,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "criminal justice reform",
+      "crime and justice",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 142219454,
@@ -38825,7 +42441,14 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.5,
     "word_count": 63,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "political leadership",
+      "political accountability",
+      "US politics",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 142309107,
@@ -38856,7 +42479,13 @@ window._comments = [
     "ratio_give": -117,
     "grade_level": 12.3,
     "word_count": 69,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "political leadership",
+      "US politics"
+    ]
   },
   {
     "post_id": 142206051,
@@ -38899,7 +42528,11 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 5.7,
     "word_count": 61,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
   },
   {
     "post_id": 142309107,
@@ -38942,7 +42575,12 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 6.9,
     "word_count": 76,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political campaigns",
+      "gender equality",
+      "human rights"
+    ]
   },
   {
     "post_id": 142766341,
@@ -38989,7 +42627,12 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 11.6,
     "word_count": 91,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "healthcare complexity",
+      "economic policy",
+      "public health policy"
+    ]
   },
   {
     "post_id": 143116075,
@@ -39036,7 +42679,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 115,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "religious freedom",
+      "social justice",
+      "political polarization"
+    ]
   },
   {
     "post_id": 143357383,
@@ -39073,7 +42721,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 111,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "media influence"
+    ]
   },
   {
     "post_id": 143337367,
@@ -39104,7 +42756,8 @@ window._comments = [
     "ratio_give": 20,
     "grade_level": 7.6,
     "word_count": 17,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 143386348,
@@ -39181,7 +42834,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.4,
     "word_count": 474,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "political accountability",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 143386348,
@@ -39224,7 +42882,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.6,
     "word_count": 148,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "polar: political polarization",
+      "trust in institutions",
+      "media influence"
+    ]
   },
   {
     "post_id": 143386348,
@@ -39267,7 +42930,13 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 6.0,
     "word_count": 90,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "trust in institutions",
+      "US politics"
+    ]
   },
   {
     "post_id": 143386348,
@@ -39298,7 +42967,8 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": -0.2,
     "word_count": 13,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 143435706,
@@ -39335,7 +43005,14 @@ window._comments = [
     "ratio_give": -24,
     "grade_level": 11.0,
     "word_count": 151,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "economic inequality",
+      "social justice",
+      "education inequality",
+      "meritocracy",
+      "economic policy"
+    ]
   },
   {
     "post_id": 143528953,
@@ -39372,7 +43049,11 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 9.4,
     "word_count": 56,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 143803872,
@@ -39403,7 +43084,8 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 11.9,
     "word_count": 32,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 144036233,
@@ -39438,7 +43120,8 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 10.4,
     "word_count": 6,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 144217936,
@@ -39481,7 +43164,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 23,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 144309106,
@@ -39538,7 +43222,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 185,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "mental health",
+      "healthcare complexity",
+      "public health policy"
+    ]
   },
   {
     "post_id": 144366310,
@@ -39651,7 +43340,12 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 8.9,
     "word_count": 349,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 144366310,
@@ -39688,7 +43382,11 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 11.1,
     "word_count": 120,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "media influence",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 144414803,
@@ -39731,7 +43429,14 @@ window._comments = [
     "ratio_give": 22,
     "grade_level": 14.2,
     "word_count": 199,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "political polarization",
+      "social justice",
+      "public policy",
+      "mental health"
+    ]
   },
   {
     "post_id": 144558465,
@@ -39762,7 +43467,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 11.1,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 144558465,
@@ -39813,7 +43519,14 @@ window._comments = [
     "ratio_give": -14,
     "grade_level": 11.4,
     "word_count": 146,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "AI and ethics",
+      "environmental impact",
+      "technology ethics",
+      "trust in institutions",
+      "political accountability"
+    ]
   },
   {
     "post_id": 144448371,
@@ -39860,7 +43573,12 @@ window._comments = [
     "ratio_give": -49,
     "grade_level": 7.2,
     "word_count": 113,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "social media influence",
+      "hate speech"
+    ]
   },
   {
     "post_id": 144448371,
@@ -39907,7 +43625,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 11.1,
     "word_count": 156,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "international relations",
+      "human rights",
+      "religious freedom"
+    ]
   },
   {
     "post_id": 144448371,
@@ -39938,7 +43661,8 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 7.4,
     "word_count": 27,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 144477648,
@@ -39981,7 +43705,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 202,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "public misinformation",
+      "social media influence",
+      "media bias"
+    ]
   },
   {
     "post_id": 144802276,
@@ -40038,7 +43769,13 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 9.4,
     "word_count": 131,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political accountability",
+      "political campaigns",
+      "US politics",
+      "gender equality"
+    ]
   },
   {
     "post_id": 144807712,
@@ -40075,7 +43812,13 @@ window._comments = [
     "ratio_give": 10,
     "grade_level": 11.7,
     "word_count": 129,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "international relations",
+      "political polarization",
+      "human rights",
+      "Middle East conflict"
+    ]
   },
   {
     "post_id": 144906847,
@@ -40124,7 +43867,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 13.9,
     "word_count": 241,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political accountability",
+      "economic policy",
+      "US politics",
+      "inflation"
+    ]
   },
   {
     "post_id": 144877183,
@@ -40197,7 +43946,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 13.4,
     "word_count": 139,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political accountability",
+      "education reform",
+      "economic policy",
+      "activism",
+      "social media influence"
+    ]
   },
   {
     "post_id": 144877183,
@@ -40268,7 +44024,12 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 15.1,
     "word_count": 164,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "public misinformation",
+      "economic policy",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 144944086,
@@ -40319,7 +44080,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "Russia-Ukraine conflict"
+    ]
   },
   {
     "post_id": 144918283,
@@ -40376,7 +44142,14 @@ window._comments = [
     "ratio_give": 26,
     "grade_level": 12.4,
     "word_count": 122,
-    "category": "Comparative Inflation and Economic Pressures"
+    "category": "Comparative Inflation and Economic Pressures",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "media influence",
+      "public misinformation",
+      "Russia-Ukraine conflict"
+    ]
   },
   {
     "post_id": 144918283,
@@ -40407,7 +44180,8 @@ window._comments = [
     "ratio_give": -12,
     "grade_level": 6.8,
     "word_count": 30,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 145091849,
@@ -40450,7 +44224,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 13.6,
     "word_count": 186,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "market dynamics"
+    ]
   },
   {
     "post_id": 145109069,
@@ -40493,7 +44272,13 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 13.3,
     "word_count": 158,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "free speech issues",
+      "political campaigns",
+      "US politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 145125332,
@@ -40536,7 +44321,13 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 13.8,
     "word_count": 144,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "political leadership",
+      "technology ethics",
+      "social media influence",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 145165809,
@@ -40573,7 +44364,12 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 10.4,
     "word_count": 73,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "political polarization",
+      "voter behavior",
+      "US politics"
+    ]
   },
   {
     "post_id": 145165809,
@@ -40628,7 +44424,11 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 8.3,
     "word_count": 126,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "voter behavior",
+      "political polarization"
+    ]
   },
   {
     "post_id": 145165809,
@@ -40675,7 +44475,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 7.8,
     "word_count": 44,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 145233397,
@@ -40724,7 +44529,14 @@ window._comments = [
     "ratio_give": -4,
     "grade_level": 8.8,
     "word_count": 172,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political polarization",
+      "economic policy",
+      "inflation",
+      "social media influence",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 145233397,
@@ -40771,7 +44583,13 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.2,
     "word_count": 124,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "inflation",
+      "political leadership",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 145233397,
@@ -40806,7 +44624,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 12.1,
     "word_count": 27,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 145336462,
@@ -40849,7 +44668,14 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 12.9,
     "word_count": 195,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "US politics",
+      "political leadership",
+      "political accountability",
+      "international relations",
+      "foreign policy"
+    ]
   },
   {
     "post_id": 145463437,
@@ -40884,7 +44710,8 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 12.7,
     "word_count": 18,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 145444571,
@@ -40927,7 +44754,14 @@ window._comments = [
     "ratio_give": -29,
     "grade_level": 11.4,
     "word_count": 262,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "social justice",
+      "media influence",
+      "public misinformation",
+      "mental health",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 145917356,
@@ -40958,7 +44792,8 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 8.8,
     "word_count": 28,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 145917356,
@@ -41007,7 +44842,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 13.7,
     "word_count": 261,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 145942190,
@@ -41044,7 +44884,14 @@ window._comments = [
     "ratio_give": 21,
     "grade_level": 12.4,
     "word_count": 121,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "trust in institutions",
+      "media bias",
+      "political accountability"
+    ]
   },
   {
     "post_id": 146370225,
@@ -41075,7 +44922,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 73,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic inequality",
+      "healthcare complexity",
+      "public health policy",
+      "economic policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 146370225,
@@ -41110,7 +44964,8 @@ window._comments = [
     "ratio_give": 17,
     "grade_level": 10.7,
     "word_count": 16,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 146370225,
@@ -41183,7 +45038,14 @@ window._comments = [
     "ratio_give": -23,
     "grade_level": 6.8,
     "word_count": 270,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "voter behavior",
+      "US politics",
+      "political accountability"
+    ]
   },
   {
     "post_id": 146370225,
@@ -41214,7 +45076,10 @@ window._comments = [
     "ratio_give": 22,
     "grade_level": 8.9,
     "word_count": 52,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 146851579,
@@ -41245,7 +45110,8 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 8.4,
     "word_count": 10,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 146851579,
@@ -41298,7 +45164,14 @@ window._comments = [
     "ratio_give": 12,
     "grade_level": 11.4,
     "word_count": 125,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "corporate accountability",
+      "digital privacy",
+      "free speech issues",
+      "media bias"
+    ]
   },
   {
     "post_id": 146851579,
@@ -41339,7 +45212,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 45,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "media influence",
+      "political leadership",
+      "public misinformation",
+      "technology ethics",
+      "media bias"
+    ]
   },
   {
     "post_id": 146851579,
@@ -41376,7 +45256,11 @@ window._comments = [
     "ratio_give": -24,
     "grade_level": 9.1,
     "word_count": 105,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "digital privacy",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 147060890,
@@ -41435,7 +45319,12 @@ window._comments = [
     "ratio_give": -7,
     "grade_level": 15.0,
     "word_count": 162,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "political leadership",
+      "political philosophy",
+      "political polarization"
+    ]
   },
   {
     "post_id": 147214873,
@@ -41476,7 +45365,8 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.2,
     "word_count": 33,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 146771843,
@@ -41507,7 +45397,12 @@ window._comments = [
     "ratio_give": 35,
     "grade_level": 13.5,
     "word_count": 100,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "political polarization",
+      "media influence",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 147377053,
@@ -41570,7 +45465,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 15.9,
     "word_count": 289,
-    "category": "Challenges in Taxation, Welfare, and Economic Policy"
+    "category": "Challenges in Taxation, Welfare, and Economic Policy",
+    "tags": [
+      "economic policy",
+      "political behavior",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 147416812,
@@ -41633,7 +45533,12 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 9.4,
     "word_count": 261,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "education inequality",
+      "social justice",
+      "media influence"
+    ]
   },
   {
     "post_id": 147480025,
@@ -41680,7 +45585,14 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 12.9,
     "word_count": 112,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political leadership",
+      "economic policy",
+      "public misinformation",
+      "trust in institutions",
+      "US politics"
+    ]
   },
   {
     "post_id": 147480025,
@@ -41729,7 +45641,13 @@ window._comments = [
     "ratio_give": 14,
     "grade_level": 8.3,
     "word_count": 207,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "US politics",
+      "political leadership"
+    ]
   },
   {
     "post_id": 148046572,
@@ -41760,7 +45678,12 @@ window._comments = [
     "ratio_give": -38,
     "grade_level": 7.1,
     "word_count": 47,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "media bias"
+    ]
   },
   {
     "post_id": 147842388,
@@ -41801,7 +45724,11 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 9.2,
     "word_count": 55,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic inequality",
+      "media influence"
+    ]
   },
   {
     "post_id": 148129819,
@@ -41832,7 +45759,10 @@ window._comments = [
     "ratio_give": -15,
     "grade_level": 13.8,
     "word_count": 96,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "environmental impact"
+    ]
   },
   {
     "post_id": 148129819,
@@ -41863,7 +45793,8 @@ window._comments = [
     "ratio_give": -19,
     "grade_level": 16.2,
     "word_count": 27,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 148304989,
@@ -41894,7 +45825,11 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 9.6,
     "word_count": 49,
-    "category": "Digital Media Strategies and Business Models"
+    "category": "Digital Media Strategies and Business Models",
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 148282406,
@@ -41937,7 +45872,14 @@ window._comments = [
     "ratio_give": 9,
     "grade_level": 9.6,
     "word_count": 231,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "political leadership",
+      "social media influence",
+      "gender equality"
+    ]
   },
   {
     "post_id": 148282406,
@@ -42030,7 +45972,14 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 10.9,
     "word_count": 273,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political leadership",
+      "financial policy",
+      "US politics",
+      "political history",
+      "economic policy"
+    ]
   },
   {
     "post_id": 148262809,
@@ -42079,7 +46028,14 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 14.3,
     "word_count": 151,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political polarization",
+      "political campaigns",
+      "voter behavior",
+      "US politics",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 148476207,
@@ -42128,7 +46084,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 228,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "climate change",
+      "authoritarianism",
+      "political polarization",
+      "racial inequality",
+      "US politics"
+    ]
   },
   {
     "post_id": 149024235,
@@ -42205,7 +46168,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 119,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "AI and ethics",
+      "media bias",
+      "political polarization"
+    ]
   },
   {
     "post_id": 149120893,
@@ -42236,7 +46204,12 @@ window._comments = [
     "ratio_give": -79,
     "grade_level": 13.1,
     "word_count": 76,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "education inequality",
+      "political leadership",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 149071152,
@@ -42289,7 +46262,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.3,
     "word_count": 239,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "inflation",
+      "economic policy",
+      "political polarization",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 149071152,
@@ -42336,7 +46315,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 10.5,
     "word_count": 151,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "trust in institutions",
+      "political accountability"
+    ]
   },
   {
     "post_id": 149307955,
@@ -42373,7 +46357,12 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 9.9,
     "word_count": 80,
-    "category": "Challenges and Reforms in Education Systems"
+    "category": "Challenges and Reforms in Education Systems",
+    "tags": [
+      "education reform",
+      "economic policy",
+      "student debt"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42404,7 +46393,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 56,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "free speech issues",
+      "media influence",
+      "censorship"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42445,7 +46439,14 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 14.6,
     "word_count": 79,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "media influence",
+      "digital privacy",
+      "corporate accountability",
+      "technology ethics",
+      "privacy issues"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42486,7 +46487,12 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 12.1,
     "word_count": 98,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "censorship",
+      "free speech issues",
+      "social media influence"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42517,7 +46523,14 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 11.0,
     "word_count": 79,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "censorship",
+      "social media influence",
+      "free speech issues",
+      "digital privacy",
+      "media bias"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42554,7 +46567,12 @@ window._comments = [
     "ratio_give": 13,
     "grade_level": 10.2,
     "word_count": 103,
-    "category": "Homelessness and Housing Market Dynamics"
+    "category": "Homelessness and Housing Market Dynamics",
+    "tags": [
+      "free speech issues",
+      "public safety",
+      "political accountability"
+    ]
   },
   {
     "post_id": 149355679,
@@ -42585,7 +46603,8 @@ window._comments = [
     "ratio_give": 13,
     "grade_level": 17.3,
     "word_count": 36,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 149355679,
@@ -42628,7 +46647,12 @@ window._comments = [
     "ratio_give": 12,
     "grade_level": 14.7,
     "word_count": 161,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "corporate accountability",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 149566514,
@@ -42853,7 +46877,11 @@ window._comments = [
     "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 163,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 149881953,
@@ -42890,7 +46918,14 @@ window._comments = [
     "ratio_give": 11,
     "grade_level": 10.5,
     "word_count": 148,
-    "category": "Misinformation and Anti-Establishment Sentiments in Politics"
+    "category": "Misinformation and Anti-Establishment Sentiments in Politics",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political polarization",
+      "trust in institutions",
+      "inflation"
+    ]
   },
   {
     "post_id": 149331962,
@@ -42935,7 +46970,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 101,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "AI and ethics",
+      "technology ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 150522012,
@@ -42982,7 +47022,11 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 12.3,
     "word_count": 115,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "corporate accountability",
+      "media influence"
+    ]
   },
   {
     "post_id": 150448596,
@@ -43039,7 +47083,14 @@ window._comments = [
     "ratio_give": -37,
     "grade_level": 9.9,
     "word_count": 184,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "labor unions",
+      "US politics",
+      "economic policy"
+    ]
   },
   {
     "post_id": 150448596,
@@ -43096,7 +47147,12 @@ window._comments = [
     "ratio_give": 5,
     "grade_level": 6.6,
     "word_count": 146,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "technology ethics",
+      "environmental impact"
+    ]
   },
   {
     "post_id": 150471721,
@@ -43145,7 +47201,13 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 9.6,
     "word_count": 288,
-    "category": "Impacts and Challenges of AI Advancement"
+    "category": "Impacts and Challenges of AI Advancement",
+    "tags": [
+      "corporate accountability",
+      "economic policy",
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 150471721,
@@ -43182,7 +47244,12 @@ window._comments = [
     "ratio_give": -1,
     "grade_level": 10.0,
     "word_count": 172,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "corporate accountability",
+      "digital privacy",
+      "media influence"
+    ]
   },
   {
     "post_id": 150471721,
@@ -43219,7 +47286,12 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 11.8,
     "word_count": 132,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "economic policy",
+      "corporate accountability",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 150471721,
@@ -43256,7 +47328,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 11.4,
     "word_count": 83,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 150471721,
@@ -43299,7 +47375,11 @@ window._comments = [
     "ratio_give": 3,
     "grade_level": 10.9,
     "word_count": 157,
-    "category": "Crypto Collapse and Banking Failures"
+    "category": "Crypto Collapse and Banking Failures",
+    "tags": [
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 150722794,
@@ -43342,7 +47422,14 @@ window._comments = [
     "ratio_give": -44,
     "grade_level": 10.5,
     "word_count": 259,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media bias",
+      "political polarization",
+      "political accountability",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 150781036,
@@ -43431,7 +47518,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 6.0,
     "word_count": 373,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political leadership",
+      "political campaigns",
+      "US politics",
+      "voter behavior",
+      "electoral integrity"
+    ]
   },
   {
     "post_id": 150781036,
@@ -43478,7 +47572,13 @@ window._comments = [
     "ratio_give": -46,
     "grade_level": 14.7,
     "word_count": 140,
-    "category": "Exploring the Divide: From Gender Disparity to Political Polarization"
+    "category": "Exploring the Divide: From Gender Disparity to Political Polarization",
+    "tags": [
+      "economic inequality",
+      "corporate accountability",
+      "economic policy",
+      "media influence"
+    ]
   },
   {
     "post_id": 150893189,
@@ -43513,7 +47613,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 8.7,
     "word_count": 17,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 150994583,
@@ -43550,7 +47651,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 107,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "economic policy",
+      "corporate accountability"
+    ]
   },
   {
     "post_id": 151423197,
@@ -43640,7 +47745,14 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 272,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "media influence",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 151423197,
@@ -43713,7 +47825,14 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 14.4,
     "word_count": 229,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "education inequality",
+      "AI and ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 151348302,
@@ -43774,7 +47893,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 11.3,
     "word_count": 227,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "technology ethics",
+      "digital privacy",
+      "media influence"
+    ]
   },
   {
     "post_id": 151348302,
@@ -43811,7 +47935,14 @@ window._comments = [
     "ratio_give": 13,
     "grade_level": 10.8,
     "word_count": 116,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "voter behavior",
+      "US politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 151348302,
@@ -43842,7 +47973,12 @@ window._comments = [
     "ratio_give": 7,
     "grade_level": 5.5,
     "word_count": 44,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic policy",
+      "political leadership",
+      "media influence"
+    ]
   },
   {
     "post_id": 151322312,
@@ -43883,7 +48019,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "political polarization",
+      "AI and ethics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 151322312,
@@ -43934,7 +48075,12 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 16.0,
     "word_count": 117,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "AI and ethics",
+      "media influence",
+      "political polarization"
+    ]
   },
   {
     "post_id": 151305115,
@@ -43977,7 +48123,13 @@ window._comments = [
     "ratio_give": -24,
     "grade_level": 11.7,
     "word_count": 111,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "political leadership",
+      "voter behavior",
+      "political campaigns",
+      "political accountability"
+    ]
   },
   {
     "post_id": 151903217,
@@ -44030,7 +48182,11 @@ window._comments = [
     "ratio_give": -2,
     "grade_level": 15.5,
     "word_count": 126,
-    "category": "Impact of AI on Education and Data Analysis"
+    "category": "Impact of AI on Education and Data Analysis",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152113891,
@@ -44105,7 +48261,11 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 203,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152060047,
@@ -44152,7 +48312,12 @@ window._comments = [
     "ratio_give": -39,
     "grade_level": 12.8,
     "word_count": 109,
-    "category": "Elon Musk and Political Polarization in America"
+    "category": "Elon Musk and Political Polarization in America",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "political polarization"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44195,7 +48360,14 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 16.0,
     "word_count": 130,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "political polarization",
+      "economic policy",
+      "political campaigns",
+      "media influence",
+      "US politics"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44232,7 +48404,11 @@ window._comments = [
     "ratio_give": -11,
     "grade_level": 9.6,
     "word_count": 116,
-    "category": "Financial System Challenges and Reforms"
+    "category": "Financial System Challenges and Reforms",
+    "tags": [
+      "economic policy",
+      "political accountability"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44263,7 +48439,13 @@ window._comments = [
     "ratio_give": -5,
     "grade_level": 11.2,
     "word_count": 57,
-    "category": "Political Dynamics and High-Stakes Elections"
+    "category": "Political Dynamics and High-Stakes Elections",
+    "tags": [
+      "political polarization",
+      "media influence",
+      "political accountability",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44310,7 +48492,12 @@ window._comments = [
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 133,
-    "category": "AI-Driven Comment Analysis and Political Discourse"
+    "category": "AI-Driven Comment Analysis and Political Discourse",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44347,7 +48534,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 12.5,
     "word_count": 141,
-    "category": "Political Dynamics of the TARP Legislation and Economic Response"
+    "category": "Political Dynamics of the TARP Legislation and Economic Response",
+    "tags": [
+      "economic inequality",
+      "voter behavior",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44384,7 +48576,12 @@ window._comments = [
     "ratio_give": -3,
     "grade_level": 8.7,
     "word_count": 101,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "social media influence",
+      "media influence",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152467617,
@@ -44421,7 +48618,11 @@ window._comments = [
     "ratio_give": 0,
     "grade_level": 4.3,
     "word_count": 81,
-    "category": "Engagement Dynamics and Comment Ranking in Substack Communities"
+    "category": "Engagement Dynamics and Comment Ranking in Substack Communities",
+    "tags": [
+      "media influence",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 152533941,
@@ -44530,7 +48731,13 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 9.8,
     "word_count": 611,
-    "category": "Trends in Tech Industry Employment and Evaluation"
+    "category": "Trends in Tech Industry Employment and Evaluation",
+    "tags": [
+      "corporate accountability",
+      "technology ethics",
+      "US politics",
+      "economic policy"
+    ]
   },
   {
     "post_id": 152219137,
@@ -44593,7 +48800,14 @@ window._comments = [
     "ratio_give": 20,
     "grade_level": 13.0,
     "word_count": 261,
-    "category": "Challenges and Strategies in Modern Tech Ecosystems"
+    "category": "Challenges and Strategies in Modern Tech Ecosystems",
+    "tags": [
+      "corporate accountability",
+      "technology ethics",
+      "US politics",
+      "media influence",
+      "antitrust issues"
+    ]
   },
   {
     "post_id": 152219137,
@@ -44638,7 +48852,12 @@ window._comments = [
     "ratio_give": 4,
     "grade_level": 9.5,
     "word_count": 64,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "political leadership",
+      "trust in institutions",
+      "economic policy"
+    ]
   },
   {
     "post_id": 152219137,
@@ -44669,7 +48888,12 @@ window._comments = [
     "ratio_give": 17,
     "grade_level": 11.6,
     "word_count": 110,
-    "category": "Dynamics and Challenges in U.S. Political Discourse"
+    "category": "Dynamics and Challenges in U.S. Political Discourse",
+    "tags": [
+      "economic inequality",
+      "political campaigns",
+      "political accountability"
+    ]
   },
   {
     "post_id": 152219137,
@@ -44700,7 +48924,13 @@ window._comments = [
     "ratio_give": 2,
     "grade_level": 10.6,
     "word_count": 63,
-    "category": "Debating Inflation, Policy Responses, and Political Implications"
+    "category": "Debating Inflation, Policy Responses, and Political Implications",
+    "tags": [
+      "economic policy",
+      "US politics",
+      "political leadership",
+      "inflation"
+    ]
   },
   {
     "post_id": 152095347,
@@ -44763,7 +48993,12 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 19.3,
     "word_count": 47,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "political polarization",
+      "political leadership",
+      "activism"
+    ]
   },
   {
     "post_id": 152095347,
@@ -44794,7 +49029,8 @@ window._comments = [
     "ratio_give": 6,
     "grade_level": 7.7,
     "word_count": 41,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 152095347,
@@ -44825,7 +49061,12 @@ window._comments = [
     "ratio_give": -29,
     "grade_level": 10.3,
     "word_count": 54,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "political polarization",
+      "political leadership"
+    ]
   },
   {
     "post_id": 152095347,
@@ -44862,7 +49103,13 @@ window._comments = [
     "ratio_give": -8,
     "grade_level": 10.6,
     "word_count": 87,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "climate change",
+      "social justice",
+      "political polarization",
+      "economic policy"
+    ]
   },
   {
     "post_id": 152095347,
@@ -44917,7 +49164,12 @@ window._comments = [
     "ratio_give": -6,
     "grade_level": 13.6,
     "word_count": 185,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "immigration issues",
+      "economic policy",
+      "US politics"
+    ]
   },
   {
     "post_id": 152095347,
@@ -44954,6 +49206,12 @@ window._comments = [
     "ratio_give": 1,
     "grade_level": 9.5,
     "word_count": 174,
-    "category": "Uncategorized"
+    "category": "Uncategorized",
+    "tags": [
+      "immigration issues",
+      "economic policy",
+      "voter behavior",
+      "social justice"
+    ]
   }
 ];

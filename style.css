@@ -48,7 +48,7 @@ input[type="text"] {
     padding: 8px;
 }
 
-.name, .meta, .post-title, .category {
+.name, .meta, .post-title, .category, .tags {
     font-size: 12px;
     margin-right: 6px;
 }
@@ -69,7 +69,7 @@ input[type="text"] {
     color: #202020;
 }
 
-.category {
+.category, .tags {
     color: #505050;
     margin-top: 6px;
     display: inline-block;

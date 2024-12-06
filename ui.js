@@ -16,8 +16,9 @@ function loadComments() {
     const endDateInput = document.getElementById('endDate');
     const categorySelect = document.getElementById('category');
     const searchInput = document.getElementById('search');
+    const tagsSelect = document.getElementById('tags');
     const commentCount = document.getElementById('commentCount');
-    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect].forEach(select => {
+    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
         select.addEventListener("change", update);
     });
     searchInput.addEventListener("input", debounceUpdate);
@@ -30,6 +31,23 @@ function loadComments() {
         option.setAttribute('value', category);
         categorySelect.add(option);
     })
+
+    // Populate tags dynamically
+    const tagsCount = {};
+    window._comments.forEach(comment => {
+        comment.tags.forEach(tag => {
+            tagsCount[tag] = (tagsCount[tag] || 0) + 1;
+        });
+    });
+
+    Object.keys(tagsCount).sort((a, b) => a.localeCompare(b))
+        .filter(tag => tagsCount[tag] > 5)
+        .forEach(tag => {
+        const option = document.createElement('option');
+        option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
+        option.setAttribute('value', tag);
+        tagsSelect.add(option);
+    });
 
     const dates = window._comments.map(comment => comment.timestamp);
     const secondsInDay = 24 * 60 * 60;
@@ -52,6 +70,7 @@ function loadComments() {
     let lastStartDate = null;
     let lastEndDate = null;
     let lastCategory = null;
+    let lastTags = null;
     let updating = false;
 
     update();
@@ -87,13 +106,15 @@ function loadComments() {
         const showComments = showSelect.value;
         const searchTerms = searchInput.value.trim();
         const category = categorySelect.value;
+        const selectedTags = Array.from(tagsSelect.selectedOptions).map(option => option.value);
         const pagesChange = lastSelectCommentType !== selectCommentType
             || lastSortBy !== sortBy
             || lastShowComments !== showComments
             || lastSearchTerms !== searchTerms
             || lastStartDate !== startDateInput.value
             || lastEndDate !== endDateInput.value
-            || lastCategory !== category;
+            || lastCategory !== category
+            || lastTags !== selectedTags.join(',');
         const pageNumber = pagesChange ? 1 : parseInt(pageSelect.value);
         lastSelectCommentType = selectCommentType;
         lastSortBy = sortBy;
@@ -102,6 +123,7 @@ function loadComments() {
         lastStartDate = startDateInput.value;
         lastEndDate = endDateInput.value;
         lastCategory = category;
+        lastTags = selectedTags.join(',');
 
         let comments = window._comments.filter(comment => {
             switch (selectCommentType) {
@@ -124,6 +146,12 @@ function loadComments() {
         comments = comments.filter(comment =>
             (startTimestamp === null || comment.timestamp >= startTimestamp) &&
             (endTimestamp === null || comment.timestamp <= endTimestamp));
+
+        if (selectedTags.length > 0 && selectedTags[0] !== 'all') {
+            comments = comments.filter(comment =>
+                selectedTags.every(tag => comment.tags.includes(tag))
+            );
+        }
 
         const [extractedTerms, remainingInput] = extractQuotedRegex(searchTerms);
         const terms = remainingInput.length ? remainingInput.trim().split(/\s+/).filter(Boolean) : [];
@@ -271,6 +299,11 @@ function loadComments() {
         categoryDiv.classList.add('category');
         categoryDiv.appendChild(document.createTextNode(`Category: ${comment['category']}`));
         metaDiv.appendChild(categoryDiv);
+
+        const tagsDiv = document.createElement('div');
+        tagsDiv.classList.add('tags');
+        tagsDiv.appendChild(document.createTextNode(`Tags: ${comment['tags'].join(', ')}`));
+        metaDiv.appendChild(tagsDiv);
 
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');
