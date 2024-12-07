@@ -43,11 +43,11 @@ function loadComments() {
     Object.keys(tagsCount).sort((a, b) => a.localeCompare(b))
         .filter(tag => tagsCount[tag] > 5)
         .forEach(tag => {
-        const option = document.createElement('option');
-        option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
-        option.setAttribute('value', tag);
-        tagsSelect.add(option);
-    });
+            const option = document.createElement('option');
+            option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
+            option.setAttribute('value', tag);
+            tagsSelect.add(option);
+        });
 
     const dates = window._comments.map(comment => comment.timestamp);
     const secondsInDay = 24 * 60 * 60;
@@ -302,7 +302,13 @@ function loadComments() {
 
         const tagsDiv = document.createElement('div');
         tagsDiv.classList.add('tags');
-        tagsDiv.appendChild(document.createTextNode(`Tags: ${comment['tags'].join(', ')}`));
+        comment['tags'].sort((a, b) => a.localeCompare(b))
+            .forEach(tag => {
+                const tagSpan = document.createElement('span');
+                tagSpan.classList.add('tag');
+                tagSpan.appendChild(document.createTextNode(tag));
+                tagsDiv.appendChild(tagSpan);
+            })
         metaDiv.appendChild(tagsDiv);
 
         const commentDiv = document.createElement('div');
