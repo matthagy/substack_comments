@@ -48988,9 +48988,9 @@ window._comments = [
     "parent_id": 80160617,
     "parent_children": 6,
     "thread_id": 80157620,
-    "thread_children": 88,
+    "thread_children": 94,
     "ratio_recv": -11,
-    "ratio_give": 6,
+    "ratio_give": 5,
     "grade_level": 19.3,
     "word_count": 47,
     "category": "Uncategorized",
@@ -49010,7 +49010,7 @@ window._comments = [
     "id": 80163358,
     "top_level": false,
     "date": "Dec 05 2024 07:51",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1733403079,
     "body": [
       [
@@ -49024,9 +49024,9 @@ window._comments = [
     "parent_id": 80162547,
     "parent_children": 7,
     "thread_id": 80157620,
-    "thread_children": 88,
+    "thread_children": 94,
     "ratio_recv": null,
-    "ratio_give": 6,
+    "ratio_give": 7,
     "grade_level": 7.7,
     "word_count": 41,
     "category": "Uncategorized",
@@ -49042,7 +49042,7 @@ window._comments = [
     "id": 80163698,
     "top_level": false,
     "date": "Dec 05 2024 07:54",
-    "likes": 8,
+    "likes": 11,
     "timestamp": 1733403271,
     "body": [
       [
@@ -49054,11 +49054,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80160733,
-    "parent_children": 17,
+    "parent_children": 20,
     "thread_id": 80160733,
-    "thread_children": 17,
+    "thread_children": 20,
     "ratio_recv": null,
-    "ratio_give": -29,
+    "ratio_give": -34,
     "grade_level": 10.3,
     "word_count": 54,
     "category": "Uncategorized",
@@ -49098,7 +49098,7 @@ window._comments = [
     "parent_id": 80161306,
     "parent_children": 3,
     "thread_id": 80157351,
-    "thread_children": 239,
+    "thread_children": 265,
     "ratio_recv": -6,
     "ratio_give": -8,
     "grade_level": 10.6,
@@ -49121,7 +49121,7 @@ window._comments = [
     "id": 80170608,
     "top_level": false,
     "date": "Dec 05 2024 08:51",
-    "likes": 14,
+    "likes": 16,
     "timestamp": 1733406661,
     "body": [
       [
@@ -49155,13 +49155,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 8,
     "parent_id": 80162138,
-    "parent_children": 10,
+    "parent_children": 11,
     "thread_id": 80160733,
-    "thread_children": 17,
-    "ratio_recv": -10,
-    "ratio_give": -6,
+    "thread_children": 20,
+    "ratio_recv": -11,
+    "ratio_give": -8,
     "grade_level": 13.6,
     "word_count": 185,
     "category": "Uncategorized",
@@ -49199,10 +49199,10 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 80226801,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 80160733,
-    "thread_children": 17,
-    "ratio_recv": -2,
+    "thread_children": 20,
+    "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 9.5,
     "word_count": 174,
@@ -49213,5 +49213,273 @@ window._comments = [
       "voter behavior",
       "social justice"
     ]
+  },
+  {
+    "post_id": 152429840,
+    "title": "Another post-election mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/another-post-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80323392,
+    "top_level": false,
+    "date": "Dec 06 2024 08:49",
+    "likes": 17,
+    "timestamp": 1733492942,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just to clarify, does this refer to \"Cannabis Use Disorder\"? I had to look this up and got a multitude of answers from Google and ChatGPT, but only this one seemed to fit. If so, then I strongly agree, particularly as a five-year sober, former cannabis user."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For at least 90% of frequent users, it serves no more of a health purpose than alcohol. Moreover, while I still drink occasionally, I'm a teetotaler with respect to marijuana because its failure modes for me are now much more severe. I attribute that to the modern, weapons-grade narcotics available through retail channels rather than the good old grass of my college years. (We'll need to criminalize pot again for me to consider occasional use again.)"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 80318697,
+    "parent_children": 6,
+    "thread_id": 80308589,
+    "thread_children": 48,
+    "ratio_recv": -16,
+    "ratio_give": 11,
+    "grade_level": 7.8,
+    "word_count": 123,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152429840,
+    "title": "Another post-election mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/another-post-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80351478,
+    "top_level": false,
+    "date": "Dec 06 2024 11:42",
+    "likes": 8,
+    "timestamp": 1733503377,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'd challenge \"The rise of mega-wealth and its increasing ties to political power\". From a historical perspective, Musk et al. aren't yet at the level of Rockefeller or Carnegie, let alone J.P. Morgan in terms of relative power over our world. I'll admit that this is a subjective opinion, but just the fact that Morgan had to bail out both the government and the overall banking system through privately orchestrated financing (because we didn't yet have the Fed) is far beyond Musk and the means of \"Meme Distribution.\" Not to mention the Hearst publishing and influence machine as prior precedent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe his rocket launches are a little closer in comparison? I do believe that generative AI and related tech will almost certainly give rise to people, institutions, and AI entities that far exceed J.P. Morgan in comparison. This will occur through the same mechanism of a massive change in our social and economic reality long before the government can catch up, but the details are TBD."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 80330225,
+    "parent_children": 11,
+    "thread_id": 80310361,
+    "thread_children": 38,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 9.8,
+    "word_count": 166,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152429840,
+    "title": "Another post-election mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/another-post-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80356960,
+    "top_level": false,
+    "date": "Dec 06 2024 12:14",
+    "likes": 1,
+    "timestamp": 1733505290,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed on the TBD part of AI. Totally unknowable and pattern matching to the past may be a best a distraction and at worst suggest a counterproductive insight. Just the basic idea of, \"technology, economical, and sociology\" world changes faster than politics and government seems like a useful insight. And my subjective opinion is that this is way more impressive in current value, relative change in last year or so, and plausible potential than like the Internet felt in 1997."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80355709,
+    "parent_children": 2,
+    "thread_id": 80310361,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 11.1,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152429840,
+    "title": "Another post-election mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/another-post-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80379413,
+    "top_level": false,
+    "date": "Dec 06 2024 14:35",
+    "likes": 5,
+    "timestamp": 1733513713,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But it took time for society to get to our present understanding and Prohibition was part of that. Eg, the patent medicine era in the 19th century in which alcohol was commonly included; some even had opiates. Coca Cola first marketed as something of a cure all with an active ingredient of cocaine. From Ken Burn's documentary on prohibition, I recall that some variants of whiskey were even allowed with a prescription for \"medicinal purposes\" and those heavily exploited for recreational use."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe one day pot will be similarly managed w/ analogies to the difference between beer, wine, and liquor. Even sub-variants like whiskey vs grain alcohol. Should we discover some strains are more like heroin then they can be made illegal. But the process of figuring that out will be messy with some collateral damage."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80342544,
+    "parent_children": 9,
+    "thread_id": 80308589,
+    "thread_children": 48,
+    "ratio_recv": null,
+    "ratio_give": -10,
+    "grade_level": 8.7,
+    "word_count": 136,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152429840,
+    "title": "Another post-election mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/another-post-election-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80390824,
+    "top_level": false,
+    "date": "Dec 06 2024 15:55",
+    "likes": 3,
+    "timestamp": 1733518548,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and it had to rise to Rockefeller, Carnegie, and JP Morgan levels before it became a sufficiently large problem to become a political priority for the parties and voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some people think we have similar concerns around concentrated firms, but the mechanisms of concentration are far different from those addressed by existing legislation. For example, Google didn\u2019t gain 90% market share by buying up 20 smaller search engines. Unlike Google, which gained its share organically, Rockefeller built his monopoly by acquiring smaller competitors. What would it even mean to reverse this for Google search? Currently, regulators are proposing splitting out Chrome and maybe requiring Google to license some intermediate search data, but that won\u2019t eliminate Google\u2019s dominance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, past political actions did nothing for wealth concentration. Rockefeller's net worth increased considerably following the breakup of Standard Oil because the whole was worth less than the sum of its parts. (I\u2019ve heard private equity folks joke that this was the greatest breakup/carve-out deal of all time.) For that, we can thank the Great Depression, WWII, and the resulting restructuring of the socio-political-economic structure. That was extremely painful for everyone, least of all the robber barons, so I\u2019m certainly not hoping for a comparable solution."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80359387,
+    "parent_children": 2,
+    "thread_id": 80310361,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 11.7,
+    "word_count": 204,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152679831,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-1af",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80408166,
+    "top_level": false,
+    "date": "Dec 06 2024 18:11",
+    "likes": 6,
+    "timestamp": 1733526668,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just a consideration from a techie who worked in the identity portion of people-based advertising: is every \"like\" an actual person? Bots are rampant everywhere, and there's an arms race between bot developers and bot detectors. Commonly created for some types of ad fraud, bots engage in user-like behavior\u2014such as \"liking\" comments\u2014to evade detection. I doubt Reddit is spending a lot to build or buy bot blockers. They may even have a perverse incentive to inflate engagement numbers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I certainly wouldn\u2019t put it past Russia, China, Iran, etc., to build bots to sway discussions. Even domestic actors could do so toward various ends at an annual cost measured in only millions. I don\u2019t want to sound conspiratorial or anything, but if I wanted to take that number seriously, I\u2019d need some details on how they detect and combat bots."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Putting the bots aside: how many accounts are Americans? It\u2019s a global site, and the likes could be 90+% non-American. Even if it\u2019s all Americans, 120k likes could easily be made up of edgy U.S. teens who just think it\u2019s funny because it\u2019s offensive. As a historical comparison point, consider the lyrics from 90s-era Eminem and Dre, both of whom sold millions of records. We all turned out fine despite some of us, including myself, finding the following lyrics hilarious, "
+        },
+        {
+          "type": "url",
+          "value": "https://genius.com/Eminem-im-back-lyrics"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I take seven {kids} from {Columbine}, stand 'em all in line"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Add an AK-47, a revolver, a .9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> A MAC-11 and it oughta solve the problem of mine"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And that's a whole school of bullies shot up all at one time"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So we have a multitude of reasons to dismiss this data point in terms of having any meaning."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80402390,
+    "parent_children": 11,
+    "thread_id": 80402390,
+    "thread_children": 11,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 8.9,
+    "word_count": 279,
+    "category": "Uncategorized",
+    "tags": []
   }
 ];
