@@ -49633,5 +49633,311 @@ window._comments = [
     "word_count": 209,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80629916,
+    "top_level": true,
+    "date": "Dec 08 2024 13:10",
+    "likes": 4,
+    "timestamp": 1733681453,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could Trump, with technical assistance from Musk personnel, produce a \u201cTwitter Files\u201d for the Biden administration? And while that could be negative in certain ways, could it also be quite useful for us Democrats in discovering the people and actions responsible for certain suboptimal policies? E.g., which Warrenite staffers can we scapegoat for \u201ceverything bagel liberalism\u201d? What about Biden staying in too long? It should be straightforward to discover the specific emails, memos, and other electronic documents that are most representative of the beliefs and actions that we Democrats need to disavow for the growth and evolution of our party. And of course, Musk and Trump would take great pleasure in airing out this dirty laundry."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 80629916,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 10.8,
+    "word_count": 116,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80647777,
+    "top_level": false,
+    "date": "Dec 08 2024 15:34",
+    "likes": 4,
+    "timestamp": 1733690088,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Sounds more like a job for a charity or the government. Better to keep institutions focused on their actual mission and avoid costly distractions in terms of attention, time, and resources."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 80642796,
+    "parent_children": 6,
+    "thread_id": 80629062,
+    "thread_children": 28,
+    "ratio_recv": -3,
+    "ratio_give": 2,
+    "grade_level": 9.3,
+    "word_count": 31,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80648454,
+    "top_level": false,
+    "date": "Dec 08 2024 15:40",
+    "likes": 0,
+    "timestamp": 1733690434,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Although we could manage this if the formal membership org had a statement of values geared towards the median national Democrat. Eg, borrow Yglesias's recent manifesto."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80633233,
+    "parent_children": 4,
+    "thread_id": 80629062,
+    "thread_children": 28,
+    "ratio_recv": 0,
+    "ratio_give": -6,
+    "grade_level": 9.7,
+    "word_count": 27,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80649139,
+    "top_level": false,
+    "date": "Dec 08 2024 15:46",
+    "likes": 0,
+    "timestamp": 1733690766,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We could make the meetings almost as exciting as a Swift concert. Imagine a random chance that a famous individual shows up, selected from a group of celebrities, politicians, and pundits. Perhaps there could even be a chance that two show up at once, unexpectedly to each other, and have to publicly respond to audience questions and each other."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80642728,
+    "parent_children": 2,
+    "thread_id": 80629062,
+    "thread_children": 28,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 9.8,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80649963,
+    "top_level": false,
+    "date": "Dec 08 2024 15:52",
+    "likes": 1,
+    "timestamp": 1733691159,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could there be an \"accredited investor\" category for opting out of each form of paternalism? That existing mechanism limits proper private investments to the moderately wealthy, and I'd like something similar to ensure I can always access as much nicotine as I want, in whatever form I choose. Otherwise, I and other addicts may need to oppose this as if you were challenging the most sacred things in our lives."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80639480,
+    "parent_children": 8,
+    "thread_id": 80633776,
+    "thread_children": 9,
+    "ratio_recv": -1,
+    "ratio_give": -5,
+    "grade_level": 12.4,
+    "word_count": 70,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80650211,
+    "top_level": false,
+    "date": "Dec 08 2024 15:54",
+    "likes": 0,
+    "timestamp": 1733691269,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe each regime will have fewer resources than the last with which to harm the broader world if some capital is damaged beyond repair in each regime change?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80631806,
+    "parent_children": 6,
+    "thread_id": 80629261,
+    "thread_children": 21,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 10.7,
+    "word_count": 28,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80662518,
+    "top_level": false,
+    "date": "Dec 08 2024 17:35",
+    "likes": 0,
+    "timestamp": 1733697358,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but I personally would need the charity-level resource contribution to be capped at most ~10% before I'd consider participating. Maybe we could even have two donation buckets so that members can vote with their wallets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My chief concern isn't even the money, but instead the attention and time. I'd hate for charity allocation decisions to consume much leadership time. Maybe members could vote once a year on allocation criteria, and then a single person could execute those instructions, whereas everyone else works on electoral success, including popularizing more well-resourced current and prospective government programs. Moreover, discussion of future allocation proposals could be limited to specifically intended meetings so that we never have to concern ourselves with sidetracked discussions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80653417,
+    "parent_children": 3,
+    "thread_id": 80629062,
+    "thread_children": 28,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 13.4,
+    "word_count": 119,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80662612,
+    "top_level": false,
+    "date": "Dec 08 2024 17:36",
+    "likes": 0,
+    "timestamp": 1733697419,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, just brainstorming how this could actually work. Definitely not planning on actually founding something here."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80651172,
+    "parent_children": 2,
+    "thread_id": 80629062,
+    "thread_children": 28,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.0,
+    "word_count": 16,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80663506,
+    "top_level": false,
+    "date": "Dec 08 2024 17:45",
+    "likes": 0,
+    "timestamp": 1733697924,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Well, I'd recommend a vape for cost savings alone; it's likely healthier and can hit stronger if that motivates someone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I only got to smoke in bars for a few years, and I certainly don't miss that. Just saying, NYC has made it moderately difficult with my flavor of choice being an under-the-counter purchase from  hundreds of less scrupulous bodagas. Moreover, the FDA has caused a multitude of issues for major brands such that almost everything is a boutique label, all manufactured in China with questionable quality assurance. Instead, I want major brands adhering to some common standards and then selling every flavor under the sun, as well as at least 10 different strength levels, with a 5/10 being cigarette equivalent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "All I'm saying is that I've been increasingly discovering my inner libertarian."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80651324,
+    "parent_children": 2,
+    "thread_id": 80633776,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.9,
+    "word_count": 133,
+    "category": "Uncategorized",
+    "tags": []
   }
 ];
