@@ -49244,9 +49244,9 @@ window._comments = [
     "parent_id": 80318697,
     "parent_children": 6,
     "thread_id": 80308589,
-    "thread_children": 55,
-    "ratio_recv": -18,
-    "ratio_give": 14,
+    "thread_children": 58,
+    "ratio_recv": -17,
+    "ratio_give": 13,
     "grade_level": 7.8,
     "word_count": 123,
     "category": "Uncategorized",
@@ -49262,7 +49262,7 @@ window._comments = [
     "id": 80351478,
     "top_level": false,
     "date": "Dec 06 2024 11:42",
-    "likes": 10,
+    "likes": 13,
     "timestamp": 1733503377,
     "body": [
       [
@@ -49278,13 +49278,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 80330225,
-    "parent_children": 11,
+    "parent_children": 13,
     "thread_id": 80310361,
-    "thread_children": 39,
-    "ratio_recv": -3,
-    "ratio_give": 1,
+    "thread_children": 44,
+    "ratio_recv": -5,
+    "ratio_give": 3,
     "grade_level": 9.8,
     "word_count": 166,
     "category": "Uncategorized",
@@ -49300,7 +49300,7 @@ window._comments = [
     "id": 80356960,
     "top_level": false,
     "date": "Dec 06 2024 12:14",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733505290,
     "body": [
       [
@@ -49314,7 +49314,7 @@ window._comments = [
     "parent_id": 80355709,
     "parent_children": 2,
     "thread_id": 80310361,
-    "thread_children": 39,
+    "thread_children": 44,
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 11.1,
@@ -49332,7 +49332,7 @@ window._comments = [
     "id": 80379413,
     "top_level": false,
     "date": "Dec 06 2024 14:35",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1733513713,
     "body": [
       [
@@ -49350,9 +49350,9 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80342544,
-    "parent_children": 11,
+    "parent_children": 12,
     "thread_id": 80308589,
-    "thread_children": 55,
+    "thread_children": 58,
     "ratio_recv": null,
     "ratio_give": -8,
     "grade_level": 8.7,
@@ -49370,7 +49370,7 @@ window._comments = [
     "id": 80390824,
     "top_level": false,
     "date": "Dec 06 2024 15:55",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1733518548,
     "body": [
       [
@@ -49394,9 +49394,9 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80359387,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 80310361,
-    "thread_children": 39,
+    "thread_children": 44,
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 11.7,
@@ -49414,7 +49414,7 @@ window._comments = [
     "id": 80408166,
     "top_level": false,
     "date": "Dec 06 2024 18:11",
-    "likes": 20,
+    "likes": 26,
     "timestamp": 1733526668,
     "body": [
       [
@@ -49472,13 +49472,165 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 80402390,
-    "parent_children": 32,
+    "parent_children": 38,
     "thread_id": 80402390,
-    "thread_children": 32,
-    "ratio_recv": -20,
-    "ratio_give": 6,
+    "thread_children": 38,
+    "ratio_recv": -24,
+    "ratio_give": 8,
     "grade_level": 8.9,
     "word_count": 279,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152764082,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-b73",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80522791,
+    "top_level": false,
+    "date": "Dec 07 2024 15:54",
+    "likes": 10,
+    "timestamp": 1733604864,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hiring for software engineers has been a market for lemons since at least 2015. Weak candidates take a while to luck their way into a role and are then let go in a year or two. Meanwhile, strong candidates spend years, even entire careers, at the same firm. When they leave, they find their next role through professional contacts. Hence, even if 75% of CS grads from top schools are solid, interview pipelines have at best 5-10% solid candidates."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I blame the movie \"The Social Network\" and the increasing desirability of the career path from both a financial and lifestyle perspective for generating such a surplus of marginal engineers. Unfortunately, this coincided with a massive increase in demand for engineers and top-down pressure on managers to fill out headcount. It got truly absurd during the COVID boom, and I assumed we were heading for a crash that would rival the Dot-Com bust because there was no way any of this was financially sustainable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thankfully, we're getting a good correction due to the 2022-23 layoffs without catastrophic failure. That and the concerns about AI automating away software engineering are also decreasing interest in the field. Moreover, hiring managers won't feel so desperate to fill out their roles, and teams can instead focus more on getting leverage through vendors and AI coding augmenting tools. For example, an organization with a $5M budget can shift from $4M on staff and $1M on infrastructure/vendors to a $2M/$3M split."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It could still take 5+ years to clear out the current college students' pipeline as well as cycle marginal engineers into other careers. But I am optimistic that by 2030 our field will be in a great place once again."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80516917,
+    "parent_children": 14,
+    "thread_id": 80503584,
+    "thread_children": 46,
+    "ratio_recv": -7,
+    "ratio_give": -2,
+    "grade_level": 10.0,
+    "word_count": 284,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152764082,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-b73",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80524592,
+    "top_level": false,
+    "date": "Dec 07 2024 16:10",
+    "likes": 3,
+    "timestamp": 1733605856,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> why are we using word prediction to solve arithmetic problems"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yep, and ChatGPT address this by using tools, including writing and executing code. Here's an example for the prompt: \"Write and execute code to calculate the probability distribution for the numbers of heads when flipping a fair coin 100 times. Plot the results\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Demo video: "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/2MDaw658ms8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT: "
+        },
+        {
+          "type": "url",
+          "value": "https://chatgpt.com/share/6754b999-3b90-800d-beb2-3c4e8a36feb5"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80519033,
+    "parent_children": 5,
+    "thread_id": 80512711,
+    "thread_children": 8,
+    "ratio_recv": -3,
+    "ratio_give": -1,
+    "grade_level": 10.6,
+    "word_count": 56,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152764082,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-b73",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80548271,
+    "top_level": false,
+    "date": "Dec 07 2024 20:19",
+    "likes": 3,
+    "timestamp": 1733620752,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't know. Just recognize that this stuff has improved rapidly in the last two years and is becoming increasingly useful for my work, both in writing code and in avoiding the need to write code and develop ML models because the problem can be handed directly to a Gen AI model. For example, rather than developing feature engineering code and ML models to classify Substack comments, I just pass the comments to the model with a text prompt describing how I want them classified. It's similar for my professional work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I reflect on the internet of the mid-90s during my childhood and how impressive it was, as well as how rapidly it changed. Gen AI seems at least an order of magnitude more impressive, so it seems likely there will be a lot of change in the next decade or two."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This doesn't mean it will eliminate software engineering; just that it could be a particularly rapid evolution of the role. Moreover, the same force would affect all other knowledge work, so I'm not sure which career paths are relatively safe. It could even be that the most heavily disrupted fields offer the most upside for individuals who embrace and skillfully apply the tools to remake the function."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80545466,
+    "parent_children": 2,
+    "thread_id": 80503584,
+    "thread_children": 46,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.2,
+    "word_count": 209,
     "category": "Uncategorized",
     "tags": []
   }
