@@ -49250,7 +49250,10 @@ window._comments = [
     "grade_level": 7.8,
     "word_count": 123,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "drug policy",
+      "public health"
+    ]
   },
   {
     "post_id": 152429840,
@@ -49288,7 +49291,12 @@ window._comments = [
     "grade_level": 9.8,
     "word_count": 166,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "political power",
+      "economic inequality",
+      "AI and ethics"
+    ]
   },
   {
     "post_id": 152429840,
@@ -49320,7 +49328,10 @@ window._comments = [
     "grade_level": 11.1,
     "word_count": 80,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152429840,
@@ -49358,7 +49369,11 @@ window._comments = [
     "grade_level": 8.7,
     "word_count": 136,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "drug policy",
+      "public misinformation",
+      "social justice"
+    ]
   },
   {
     "post_id": 152429840,
@@ -49402,7 +49417,12 @@ window._comments = [
     "grade_level": 11.7,
     "word_count": 204,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "corporate accountability",
+      "economic inequality",
+      "political campaigns",
+      "monopolies"
+    ]
   },
   {
     "post_id": 152679831,
@@ -49480,7 +49500,13 @@ window._comments = [
     "grade_level": 8.9,
     "word_count": 279,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "digital privacy",
+      "foreign policy",
+      "social media influence"
+    ]
   },
   {
     "post_id": 152764082,
@@ -49530,7 +49556,13 @@ window._comments = [
     "grade_level": 10.0,
     "word_count": 284,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "AI and ethics",
+      "labor unions",
+      "pandemic response",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152764082,
@@ -49588,7 +49620,10 @@ window._comments = [
     "grade_level": 10.6,
     "word_count": 56,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "AI and ethics",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 152764082,
@@ -49632,7 +49667,11 @@ window._comments = [
     "grade_level": 11.2,
     "word_count": 209,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "technology ethics",
+      "AI and ethics",
+      "digital privacy"
+    ]
   },
   {
     "post_id": 152801948,
@@ -49664,7 +49703,13 @@ window._comments = [
     "grade_level": 10.8,
     "word_count": 116,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "political accountability",
+      "US politics",
+      "political polarization",
+      "media bias"
+    ]
   },
   {
     "post_id": 152801948,
@@ -49760,7 +49805,11 @@ window._comments = [
     "grade_level": 9.8,
     "word_count": 59,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "political leadership",
+      "public engagement"
+    ]
   },
   {
     "post_id": 152801948,
@@ -49792,7 +49841,9 @@ window._comments = [
     "grade_level": 12.4,
     "word_count": 70,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "free speech issues"
+    ]
   },
   {
     "post_id": 152801948,
@@ -49862,7 +49913,10 @@ window._comments = [
     "grade_level": 13.4,
     "word_count": 119,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "political leadership",
+      "voter behavior"
+    ]
   },
   {
     "post_id": 152801948,
@@ -49938,6 +49992,10 @@ window._comments = [
     "grade_level": 11.9,
     "word_count": 133,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "healthcare complexity",
+      "public health",
+      "US politics"
+    ]
   }
 ];
