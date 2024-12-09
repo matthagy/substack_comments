@@ -49683,7 +49683,7 @@ window._comments = [
     "id": 80629916,
     "top_level": true,
     "date": "Dec 08 2024 13:10",
-    "likes": 4,
+    "likes": 7,
     "timestamp": 1733681453,
     "body": [
       [
@@ -49693,11 +49693,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 80629916,
-    "thread_children": 2,
+    "thread_children": 4,
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 10.8,
@@ -49721,7 +49721,7 @@ window._comments = [
     "id": 80647777,
     "top_level": false,
     "date": "Dec 08 2024 15:34",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1733690088,
     "body": [
       [
@@ -49731,13 +49731,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 5,
     "parent_id": 80642796,
-    "parent_children": 6,
+    "parent_children": 7,
     "thread_id": 80629062,
-    "thread_children": 28,
-    "ratio_recv": -3,
-    "ratio_give": 2,
+    "thread_children": 37,
+    "ratio_recv": -2,
+    "ratio_give": 3,
     "grade_level": 9.3,
     "word_count": 31,
     "category": "Uncategorized",
@@ -49767,7 +49767,7 @@ window._comments = [
     "parent_id": 80633233,
     "parent_children": 4,
     "thread_id": 80629062,
-    "thread_children": 28,
+    "thread_children": 37,
     "ratio_recv": 0,
     "ratio_give": -6,
     "grade_level": 9.7,
@@ -49785,7 +49785,7 @@ window._comments = [
     "id": 80649139,
     "top_level": false,
     "date": "Dec 08 2024 15:46",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1733690766,
     "body": [
       [
@@ -49795,13 +49795,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 4,
     "parent_id": 80642728,
-    "parent_children": 2,
+    "parent_children": 5,
     "thread_id": 80629062,
-    "thread_children": 28,
-    "ratio_recv": null,
-    "ratio_give": -9,
+    "thread_children": 37,
+    "ratio_recv": 1,
+    "ratio_give": -14,
     "grade_level": 9.8,
     "word_count": 59,
     "category": "Uncategorized",
@@ -49821,7 +49821,7 @@ window._comments = [
     "id": 80649963,
     "top_level": false,
     "date": "Dec 08 2024 15:52",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733691159,
     "body": [
       [
@@ -49831,11 +49831,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 80639480,
-    "parent_children": 8,
+    "parent_children": 28,
     "thread_id": 80633776,
-    "thread_children": 9,
+    "thread_children": 30,
     "ratio_recv": -1,
     "ratio_give": -5,
     "grade_level": 12.4,
@@ -49855,7 +49855,7 @@ window._comments = [
     "id": 80650211,
     "top_level": false,
     "date": "Dec 08 2024 15:54",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733691269,
     "body": [
       [
@@ -49867,11 +49867,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80631806,
-    "parent_children": 6,
+    "parent_children": 9,
     "thread_id": 80629261,
-    "thread_children": 21,
+    "thread_children": 28,
     "ratio_recv": null,
-    "ratio_give": -11,
+    "ratio_give": -14,
     "grade_level": 10.7,
     "word_count": 28,
     "category": "Uncategorized",
@@ -49907,9 +49907,9 @@ window._comments = [
     "parent_id": 80653417,
     "parent_children": 3,
     "thread_id": 80629062,
-    "thread_children": 28,
-    "ratio_recv": 0,
-    "ratio_give": -1,
+    "thread_children": 37,
+    "ratio_recv": 3,
+    "ratio_give": -3,
     "grade_level": 13.4,
     "word_count": 119,
     "category": "Uncategorized",
@@ -49942,7 +49942,7 @@ window._comments = [
     "parent_id": 80651172,
     "parent_children": 2,
     "thread_id": 80629062,
-    "thread_children": 28,
+    "thread_children": 37,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.0,
@@ -49960,7 +49960,7 @@ window._comments = [
     "id": 80663506,
     "top_level": false,
     "date": "Dec 08 2024 17:45",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733697924,
     "body": [
       [
@@ -49982,12 +49982,12 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 80651324,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 80633776,
-    "thread_children": 9,
-    "ratio_recv": null,
+    "thread_children": 30,
+    "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": 11.9,
     "word_count": 133,
@@ -49996,6 +49996,186 @@ window._comments = [
       "healthcare complexity",
       "public health",
       "US politics"
+    ]
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80664751,
+    "top_level": false,
+    "date": "Dec 08 2024 17:55",
+    "likes": 0,
+    "timestamp": 1733698554,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Fair point. With those considerations, I think this question could be better phrased as: Assuming a high likelihood that Musk and Trump may already be preparing for a \u201cBiden Files,\u201d how could Democrats best respond to this fiasco? Like, could this become a high-salience narrative in some parts of the media ecosystem that some Democrats could use to best position the party for the future? For example, should they go on Rogan and throw some Warren-ites under the bus?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80636269,
+    "parent_children": 2,
+    "thread_id": 80629916,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -7,
+    "grade_level": 11.2,
+    "word_count": 79,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "political campaigns",
+      "US politics",
+      "media bias",
+      "voter behavior"
+    ]
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80668008,
+    "top_level": false,
+    "date": "Dec 08 2024 18:25",
+    "likes": 4,
+    "timestamp": 1733700320,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What are the goals of moving ownership to employees beyond what can be achieved with stock-based compensation?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall Amazon offering stock-based comp to warehouse workers, and a Google search shows this was ended in October 2018, according to CNBC's \"Amazon\u2019s hourly workers lose monthly bonuses and stock awards as minimum wage increases.\" [1] The article doesn't provide any insights into why, but I\u2019m guessing the firm and employees found this a better arrangement: higher guaranteed wages at the cost of potentially higher but uncertain upside based on company performance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cnbc.com/2018/10/03/amazon-hourly-workers-lose-monthly-bonuses-stock-awards.html"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 80630968,
+    "parent_children": 4,
+    "thread_id": 80630968,
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": -22,
+    "grade_level": 15.1,
+    "word_count": 91,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "corporate accountability",
+      "labor unions"
+    ]
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80670650,
+    "top_level": false,
+    "date": "Dec 08 2024 18:47",
+    "likes": 2,
+    "timestamp": 1733701641,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I suppose we're moving in opposite directions; everyone has their own journey."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Excellent!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Though, a lot of the issues you take seem to come from a very not-libertarian place. In the libertarian framework"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yep, I'm still looking for some middle-of-the-road solution. Like just treat nicotine the same as alcohol. Just saying when things head in the nanny-state direction, I start to appreciate the \"don't tread on me\" approach."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80668926,
+    "parent_children": 2,
+    "thread_id": 80633776,
+    "thread_children": 30,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 8.6,
+    "word_count": 68,
+    "category": "Uncategorized",
+    "tags": [
+      "free speech issues",
+      "public health",
+      "drug policy"
+    ]
+  },
+  {
+    "post_id": 152801948,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e53",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80699882,
+    "top_level": false,
+    "date": "Dec 09 2024 00:14",
+    "likes": 0,
+    "timestamp": 1733721270,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, some people could be disappointed. Others may appreciate the lottery-like dynamics. Some may even discover a new artist, pundit, or politician that they are surprised to really like. (To that end, we should definitely get Slayer involved; assuming any of them are still alive.) Moreover, I could see some value in rather broads selection of audience members to best represent different cultures in terms of profession, beliefs, and values."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80690517,
+    "parent_children": 2,
+    "thread_id": 80629062,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 8.8,
+    "word_count": 70,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "diversity"
     ]
   }
 ];
