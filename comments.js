@@ -49244,7 +49244,7 @@ window._comments = [
     "parent_id": 80318697,
     "parent_children": 6,
     "thread_id": 80308589,
-    "thread_children": 58,
+    "thread_children": 59,
     "ratio_recv": -17,
     "ratio_give": 13,
     "grade_level": 7.8,
@@ -49285,7 +49285,7 @@ window._comments = [
     "parent_id": 80330225,
     "parent_children": 13,
     "thread_id": 80310361,
-    "thread_children": 44,
+    "thread_children": 45,
     "ratio_recv": -5,
     "ratio_give": 3,
     "grade_level": 9.8,
@@ -49322,7 +49322,7 @@ window._comments = [
     "parent_id": 80355709,
     "parent_children": 2,
     "thread_id": 80310361,
-    "thread_children": 44,
+    "thread_children": 45,
     "ratio_recv": null,
     "ratio_give": -4,
     "grade_level": 11.1,
@@ -49363,7 +49363,7 @@ window._comments = [
     "parent_id": 80342544,
     "parent_children": 12,
     "thread_id": 80308589,
-    "thread_children": 58,
+    "thread_children": 59,
     "ratio_recv": null,
     "ratio_give": -8,
     "grade_level": 8.7,
@@ -49411,7 +49411,7 @@ window._comments = [
     "parent_id": 80359387,
     "parent_children": 3,
     "thread_id": 80310361,
-    "thread_children": 44,
+    "thread_children": 45,
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 11.7,
@@ -49434,7 +49434,7 @@ window._comments = [
     "id": 80408166,
     "top_level": false,
     "date": "Dec 06 2024 18:11",
-    "likes": 26,
+    "likes": 27,
     "timestamp": 1733526668,
     "body": [
       [
@@ -49495,8 +49495,8 @@ window._comments = [
     "parent_children": 38,
     "thread_id": 80402390,
     "thread_children": 38,
-    "ratio_recv": -24,
-    "ratio_give": 8,
+    "ratio_recv": -25,
+    "ratio_give": 9,
     "grade_level": 8.9,
     "word_count": 279,
     "category": "Uncategorized",
@@ -49518,7 +49518,7 @@ window._comments = [
     "id": 80522791,
     "top_level": false,
     "date": "Dec 07 2024 15:54",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1733604864,
     "body": [
       [
@@ -49548,10 +49548,10 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 80516917,
-    "parent_children": 14,
+    "parent_children": 16,
     "thread_id": 80503584,
-    "thread_children": 46,
-    "ratio_recv": -7,
+    "thread_children": 55,
+    "ratio_recv": -8,
     "ratio_give": -2,
     "grade_level": 10.0,
     "word_count": 284,
@@ -49610,13 +49610,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 80519033,
-    "parent_children": 5,
+    "parent_children": 6,
     "thread_id": 80512711,
-    "thread_children": 8,
+    "thread_children": 11,
     "ratio_recv": -3,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 10.6,
     "word_count": 56,
     "category": "Uncategorized",
@@ -49635,7 +49635,7 @@ window._comments = [
     "id": 80548271,
     "top_level": false,
     "date": "Dec 07 2024 20:19",
-    "likes": 3,
+    "likes": 6,
     "timestamp": 1733620752,
     "body": [
       [
@@ -49661,9 +49661,9 @@ window._comments = [
     "parent_id": 80545466,
     "parent_children": 2,
     "thread_id": 80503584,
-    "thread_children": 46,
+    "thread_children": 55,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 209,
     "category": "Uncategorized",
@@ -49721,7 +49721,7 @@ window._comments = [
     "id": 80647777,
     "top_level": false,
     "date": "Dec 08 2024 15:34",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1733690088,
     "body": [
       [
@@ -49731,13 +49731,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 80642796,
-    "parent_children": 7,
+    "parent_children": 9,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": -2,
-    "ratio_give": 3,
+    "ratio_give": 4,
     "grade_level": 9.3,
     "word_count": 31,
     "category": "Uncategorized",
@@ -49767,7 +49767,7 @@ window._comments = [
     "parent_id": 80633233,
     "parent_children": 4,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": 0,
     "ratio_give": -6,
     "grade_level": 9.7,
@@ -49799,9 +49799,9 @@ window._comments = [
     "parent_id": 80642728,
     "parent_children": 5,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": 1,
-    "ratio_give": -14,
+    "ratio_give": -17,
     "grade_level": 9.8,
     "word_count": 59,
     "category": "Uncategorized",
@@ -49833,11 +49833,11 @@ window._comments = [
     ],
     "total_children": 5,
     "parent_id": 80639480,
-    "parent_children": 28,
+    "parent_children": 34,
     "thread_id": 80633776,
-    "thread_children": 30,
+    "thread_children": 37,
     "ratio_recv": -1,
-    "ratio_give": -5,
+    "ratio_give": -7,
     "grade_level": 12.4,
     "word_count": 70,
     "category": "Uncategorized",
@@ -49855,7 +49855,7 @@ window._comments = [
     "id": 80650211,
     "top_level": false,
     "date": "Dec 08 2024 15:54",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733691269,
     "body": [
       [
@@ -49867,9 +49867,9 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80631806,
-    "parent_children": 9,
+    "parent_children": 10,
     "thread_id": 80629261,
-    "thread_children": 28,
+    "thread_children": 31,
     "ratio_recv": null,
     "ratio_give": -14,
     "grade_level": 10.7,
@@ -49887,7 +49887,7 @@ window._comments = [
     "id": 80662518,
     "top_level": false,
     "date": "Dec 08 2024 17:35",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733697358,
     "body": [
       [
@@ -49903,11 +49903,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 80653417,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": 3,
     "ratio_give": -3,
     "grade_level": 13.4,
@@ -49942,7 +49942,7 @@ window._comments = [
     "parent_id": 80651172,
     "parent_children": 2,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.0,
@@ -49960,7 +49960,7 @@ window._comments = [
     "id": 80663506,
     "top_level": false,
     "date": "Dec 08 2024 17:45",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733697924,
     "body": [
       [
@@ -49986,9 +49986,9 @@ window._comments = [
     "parent_id": 80651324,
     "parent_children": 4,
     "thread_id": 80633776,
-    "thread_children": 30,
-    "ratio_recv": 0,
-    "ratio_give": 0,
+    "thread_children": 37,
+    "ratio_recv": -1,
+    "ratio_give": 1,
     "grade_level": 11.9,
     "word_count": 133,
     "category": "Uncategorized",
@@ -50046,7 +50046,7 @@ window._comments = [
     "id": 80668008,
     "top_level": false,
     "date": "Dec 08 2024 18:25",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1733700320,
     "body": [
       [
@@ -50074,11 +50074,11 @@ window._comments = [
     ],
     "total_children": 2,
     "parent_id": 80630968,
-    "parent_children": 4,
+    "parent_children": 7,
     "thread_id": 80630968,
-    "thread_children": 4,
+    "thread_children": 7,
     "ratio_recv": -1,
-    "ratio_give": -22,
+    "ratio_give": -26,
     "grade_level": 15.1,
     "word_count": 91,
     "category": "Uncategorized",
@@ -50130,7 +50130,7 @@ window._comments = [
     "parent_id": 80668926,
     "parent_children": 2,
     "thread_id": 80633776,
-    "thread_children": 30,
+    "thread_children": 37,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 8.6,
@@ -50152,7 +50152,7 @@ window._comments = [
     "id": 80699882,
     "top_level": false,
     "date": "Dec 09 2024 00:14",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733721270,
     "body": [
       [
@@ -50166,9 +50166,9 @@ window._comments = [
     "parent_id": 80690517,
     "parent_children": 2,
     "thread_id": 80629062,
-    "thread_children": 37,
+    "thread_children": 39,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -2,
     "grade_level": 8.8,
     "word_count": 70,
     "category": "Uncategorized",
@@ -50177,5 +50177,87 @@ window._comments = [
       "public misinformation",
       "diversity"
     ]
+  },
+  {
+    "post_id": 152211906,
+    "title": "Common Sense Manifesto #4: Identity politics won't save us",
+    "canonical_url": "https://www.slowboring.com/p/common-sense-manifesto-4-identity",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80724719,
+    "top_level": false,
+    "date": "Dec 09 2024 07:28",
+    "likes": 15,
+    "timestamp": 1733747280,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I can sort of relate because I roughly recall being a militant atheist who found Nietzsche quite exciting ~23 years ago as a fifteen-year-old. Maybe this pre-Christianity framing feels particularly viscerally satisfying to some people, at some times? Honestly, I\u2019m rather struggling to put this into words."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine this felt similar to the excitement my friends and I also felt about Fight Club and Rage Against the Machine, for anyone who recalls similar feelings. I also recall my friends not appreciating an over-intellectualization, and that was good feedback in a way I may not have appreciated at the time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully, someone finds this comparison useful in understanding how someone with an overly active mind could feel the need to overly complicate their appreciation of rebellious movies or songs."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80719907,
+    "parent_children": 24,
+    "thread_id": 80719907,
+    "thread_children": 24,
+    "ratio_recv": -2,
+    "ratio_give": -20,
+    "grade_level": 12.9,
+    "word_count": 129,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152211906,
+    "title": "Common Sense Manifesto #4: Identity politics won't save us",
+    "canonical_url": "https://www.slowboring.com/p/common-sense-manifesto-4-identity",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80726713,
+    "top_level": false,
+    "date": "Dec 09 2024 07:48",
+    "likes": 2,
+    "timestamp": 1733748495,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I've since read some as an adult, and that all sounds reasonable now to the extent I recall anything. I even have an audiobook on existentialism that I'm working through, and I'm appreciating the broader themes in the movement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also agree that testosterone is a sufficient explanation for my previous interpretation."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80726071,
+    "parent_children": 2,
+    "thread_id": 80719907,
+    "thread_children": 24,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 10.2,
+    "word_count": 53,
+    "category": "Uncategorized",
+    "tags": []
   }
 ];
