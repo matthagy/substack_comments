@@ -50292,7 +50292,7 @@ window._comments = [
     "thread_id": 80869211,
     "thread_children": 43,
     "ratio_recv": null,
-    "ratio_give": -11,
+    "ratio_give": -13,
     "grade_level": 12.6,
     "word_count": 83,
     "category": "Uncategorized",
@@ -50356,7 +50356,7 @@ window._comments = [
     "id": 80969869,
     "top_level": false,
     "date": "Dec 10 2024 18:38",
-    "likes": 4,
+    "likes": 6,
     "timestamp": 1733873916,
     "body": [
       [
@@ -50366,15 +50366,47 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 80959263,
-    "parent_children": 8,
+    "parent_children": 12,
     "thread_id": 80959263,
-    "thread_children": 8,
-    "ratio_recv": -4,
-    "ratio_give": -4,
+    "thread_children": 12,
+    "ratio_recv": -3,
+    "ratio_give": -5,
     "grade_level": 8.5,
     "word_count": 58,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152934859,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-f18",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80999475,
+    "top_level": false,
+    "date": "Dec 10 2024 23:41",
+    "likes": 0,
+    "timestamp": 1733892083,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I believe the guest was focused on major donors; both individual people and institutional money (ie, Super PACs)."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80983675,
+    "parent_children": 2,
+    "thread_id": 80959263,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 12.7,
+    "word_count": 18,
     "category": "Uncategorized",
     "tags": []
   }
