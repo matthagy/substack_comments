@@ -50078,7 +50078,7 @@ window._comments = [
     "thread_id": 80630968,
     "thread_children": 7,
     "ratio_recv": -1,
-    "ratio_give": -26,
+    "ratio_give": -27,
     "grade_level": 15.1,
     "word_count": 91,
     "category": "Uncategorized",
@@ -50188,7 +50188,7 @@ window._comments = [
     "id": 80724719,
     "top_level": false,
     "date": "Dec 09 2024 07:28",
-    "likes": 15,
+    "likes": 16,
     "timestamp": 1733747280,
     "body": [
       [
@@ -50212,11 +50212,11 @@ window._comments = [
     ],
     "total_children": 3,
     "parent_id": 80719907,
-    "parent_children": 24,
+    "parent_children": 28,
     "thread_id": 80719907,
-    "thread_children": 24,
+    "thread_children": 28,
     "ratio_recv": -2,
-    "ratio_give": -20,
+    "ratio_give": -23,
     "grade_level": 12.9,
     "word_count": 129,
     "category": "Uncategorized",
@@ -50252,11 +50252,129 @@ window._comments = [
     "parent_id": 80726071,
     "parent_children": 2,
     "thread_id": 80719907,
-    "thread_children": 24,
+    "thread_children": 28,
     "ratio_recv": null,
-    "ratio_give": -11,
+    "ratio_give": -12,
     "grade_level": 10.2,
     "word_count": 53,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152667675,
+    "title": "Bad news from the New Cold War",
+    "canonical_url": "https://www.slowboring.com/p/bad-news-from-the-new-cold-war",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80909355,
+    "top_level": false,
+    "date": "Dec 10 2024 11:34",
+    "likes": 3,
+    "timestamp": 1733848477,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, balancing our interests and our actual capabilities toward achieving them is quite difficult. Moreover, I'd be disappointed if we went in with expectations of always getting the balance correct because this involves quite a bit of uncertainty. Maybe our best path forward is working toward greater levels of thoughtfulness in terms of clarifying our foreign policy objectives while refining our capabilities to achieve them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although I doubt anyone would disagree with that rather milquetoast framing, the devil is always in the details."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80896389,
+    "parent_children": 6,
+    "thread_id": 80869211,
+    "thread_children": 43,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 12.6,
+    "word_count": 83,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152667675,
+    "title": "Bad news from the New Cold War",
+    "canonical_url": "https://www.slowboring.com/p/bad-news-from-the-new-cold-war",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80916722,
+    "top_level": false,
+    "date": "Dec 10 2024 12:21",
+    "likes": 3,
+    "timestamp": 1733851277,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We can't always control what people hear, particularly those who already believe the US is \"The Great Satan.\" [1] Some individuals may just be too stuck in their ways for any message, save a message from God herself, to change their priors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Great_Satan"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The \"Great Satan\" (Persian: \u0634\u064a\u0637\u0627\u0646 \u0628\u0632\u0631\u06af, Sheyt\u00e2n-e Bozorg) is a derogatory epithet used in some Muslim-majority countries to refer to the United States. Alongside the \"Death to America\" slogan, it originated in Iran during the Islamic Revolution."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80915199,
+    "parent_children": 4,
+    "thread_id": 80869211,
+    "thread_children": 43,
+    "ratio_recv": null,
+    "ratio_give": 3,
+    "grade_level": 11.1,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152934859,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-f18",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80969869,
+    "top_level": false,
+    "date": "Dec 10 2024 18:38",
+    "likes": 4,
+    "timestamp": 1733873916,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I recall a guest on Ezra's show recently stating that the problem is that the Groups are funded by the same major donors that politicians need to court. (I've forgotten the specific guest.) That theory sounds reasonable, in that anything that sufficiently angers the groups could come back in the form of funding redirected to a primary challenger."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 80959263,
+    "parent_children": 8,
+    "thread_id": 80959263,
+    "thread_children": 8,
+    "ratio_recv": -4,
+    "ratio_give": -4,
+    "grade_level": 8.5,
+    "word_count": 58,
     "category": "Uncategorized",
     "tags": []
   }
