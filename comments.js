@@ -50464,11 +50464,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 81033249,
-    "parent_children": 16,
+    "parent_children": 18,
     "thread_id": 81023257,
-    "thread_children": 149,
+    "thread_children": 160,
     "ratio_recv": null,
-    "ratio_give": -23,
+    "ratio_give": -26,
     "grade_level": 11.1,
     "word_count": 140,
     "category": "Uncategorized",
@@ -50504,9 +50504,9 @@ window._comments = [
     "parent_id": 81052842,
     "parent_children": 2,
     "thread_id": 81023257,
-    "thread_children": 149,
+    "thread_children": 160,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": -2,
     "grade_level": 8.2,
     "word_count": 131,
     "category": "Uncategorized",
@@ -50522,7 +50522,7 @@ window._comments = [
     "id": 81115113,
     "top_level": true,
     "date": "Dec 11 2024 17:11",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1733955067,
     "body": [
       [
@@ -50538,11 +50538,11 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 9,
+    "total_children": 12,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 81115113,
-    "thread_children": 9,
+    "thread_children": 12,
     "ratio_recv": 2,
     "ratio_give": null,
     "grade_level": 11.7,
@@ -50560,7 +50560,7 @@ window._comments = [
     "id": 81118440,
     "top_level": false,
     "date": "Dec 11 2024 17:35",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1733956513,
     "body": [
       [
@@ -50624,11 +50624,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 81115067,
-    "parent_children": 58,
+    "parent_children": 74,
     "thread_id": 81115067,
-    "thread_children": 58,
-    "ratio_recv": 1,
-    "ratio_give": -40,
+    "thread_children": 74,
+    "ratio_recv": 5,
+    "ratio_give": -56,
     "grade_level": 15.1,
     "word_count": 297,
     "category": "Uncategorized",
@@ -50644,7 +50644,7 @@ window._comments = [
     "id": 81118757,
     "top_level": false,
     "date": "Dec 11 2024 17:37",
-    "likes": 5,
+    "likes": 9,
     "timestamp": 1733956653,
     "body": [
       [
@@ -50672,11 +50672,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 81116967,
-    "parent_children": 8,
+    "parent_children": 11,
     "thread_id": 81115113,
-    "thread_children": 9,
-    "ratio_recv": 7,
-    "ratio_give": -4,
+    "thread_children": 12,
+    "ratio_recv": 5,
+    "ratio_give": -1,
     "grade_level": 11.1,
     "word_count": 20,
     "category": "Uncategorized",
@@ -50692,7 +50692,7 @@ window._comments = [
     "id": 81120285,
     "top_level": false,
     "date": "Dec 11 2024 17:49",
-    "likes": 4,
+    "likes": 8,
     "timestamp": 1733957369,
     "body": [
       [
@@ -50712,11 +50712,59 @@ window._comments = [
     "parent_id": 81118803,
     "parent_children": 2,
     "thread_id": 81115067,
-    "thread_children": 58,
+    "thread_children": 74,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": -2,
     "grade_level": 5.9,
     "word_count": 64,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152991208,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-247",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81142974,
+    "top_level": false,
+    "date": "Dec 11 2024 21:10",
+    "likes": 1,
+    "timestamp": 1733969427,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I partially agree, but as a paid subscriber to The Free Press and sometimes reader I do believe they are focused on covering stories that would otherwise primarily exist in Fox News, et al. with a higher level of rigor and thoughtfulness. Like we might think of them as a harm reduction mechanism in satisfying an urge for certain right/center-right news without going all the way to Alex Jones and Tucker Carlson."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don't have any data to back that up, although I have found the AI analysis of highly-upvoted TFP comments [1] to demonstrate a consistent and not-totally-unreasonable world view. Like, I could imagine people with that mental model being at least acceptable neighbors if not someone I could appreciate a heated, but non-argumentative, conversation with at times. But note that involves filtering out a plethora of garbage comments\u2014that at least have few likes\u2014so they still have plenty of crazy people."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/tfp_comment_categories/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81117092,
+    "parent_children": 2,
+    "thread_id": 81115130,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -7,
+    "grade_level": 12.1,
+    "word_count": 153,
     "category": "Uncategorized",
     "tags": []
   }
