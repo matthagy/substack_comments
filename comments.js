@@ -50216,7 +50216,7 @@ window._comments = [
     "thread_id": 80719907,
     "thread_children": 28,
     "ratio_recv": -2,
-    "ratio_give": -23,
+    "ratio_give": -24,
     "grade_level": 12.9,
     "word_count": 129,
     "category": "Uncategorized",
@@ -50288,11 +50288,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 80896389,
-    "parent_children": 6,
+    "parent_children": 7,
     "thread_id": 80869211,
-    "thread_children": 43,
+    "thread_children": 44,
     "ratio_recv": null,
-    "ratio_give": -13,
+    "ratio_give": -16,
     "grade_level": 12.6,
     "word_count": 83,
     "category": "Uncategorized",
@@ -50338,7 +50338,7 @@ window._comments = [
     "parent_id": 80915199,
     "parent_children": 4,
     "thread_id": 80869211,
-    "thread_children": 43,
+    "thread_children": 44,
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 11.1,
@@ -50356,7 +50356,7 @@ window._comments = [
     "id": 80969869,
     "top_level": false,
     "date": "Dec 10 2024 18:38",
-    "likes": 6,
+    "likes": 9,
     "timestamp": 1733873916,
     "body": [
       [
@@ -50366,13 +50366,13 @@ window._comments = [
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 80959263,
-    "parent_children": 12,
+    "parent_children": 13,
     "thread_id": 80959263,
-    "thread_children": 12,
-    "ratio_recv": -3,
-    "ratio_give": -5,
+    "thread_children": 13,
+    "ratio_recv": -4,
+    "ratio_give": -3,
     "grade_level": 8.5,
     "word_count": 58,
     "category": "Uncategorized",
@@ -50388,7 +50388,7 @@ window._comments = [
     "id": 80999475,
     "top_level": false,
     "date": "Dec 10 2024 23:41",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733892083,
     "body": [
       [
@@ -50402,11 +50402,321 @@ window._comments = [
     "parent_id": 80983675,
     "parent_children": 2,
     "thread_id": 80959263,
-    "thread_children": 12,
+    "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 12.7,
     "word_count": 18,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152851040,
+    "title": "Have experts really gotten worse?",
+    "canonical_url": "https://www.slowboring.com/p/have-experts-really-gotten-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81037465,
+    "top_level": false,
+    "date": "Dec 11 2024 08:56",
+    "likes": 2,
+    "timestamp": 1733925363,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I hope I don't have to reuse a comment from yesterday on virtually every single comment in this thread because it may not seems sufficiently appropriate or general enough. It just seems like many of these will boil down to a comparable consideration about facts/value bubbles. [A] And good luck differentiating between facts and values in broad narrative structures!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We can't always control what people hear, particularly those who already believe the US is \"The Great Satan.\" [1] Some individuals may just be too stuck in their ways for any message, save a message from God herself, to change their priors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> [1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Great_Satan"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> The \"Great Satan\" (Persian: \u0634\u064a\u0637\u0627\u0646 \u0628\u0632\u0631\u06af, Sheyt\u00e2n-e Bozorg) is a derogatory epithet used in some Muslim-majority countries to refer to the United States. Alongside the \"Death to America\" slogan, it originated in Iran during the Islamic Revolution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[A] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/bad-news-from-the-new-cold-war/comment/80916722"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81033249,
+    "parent_children": 16,
+    "thread_id": 81023257,
+    "thread_children": 145,
+    "ratio_recv": null,
+    "ratio_give": -23,
+    "grade_level": 11.1,
+    "word_count": 140,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152851040,
+    "title": "Have experts really gotten worse?",
+    "canonical_url": "https://www.slowboring.com/p/have-experts-really-gotten-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81079801,
+    "top_level": false,
+    "date": "Dec 11 2024 13:16",
+    "likes": 1,
+    "timestamp": 1733940994,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Many, myself included, would consider this to be a gross over simplification. It could be an appropriate starting point for someone who already has negative priors on all, or at least most, elites and simply wants to explore nuances of a specific infraction. Eg, a book called \"Why Carter was the Worst President of All Time!\" I doubt I'd find that framing engaging."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although it would be great if the moral of this seemingly biased narrative was in teaching the lesson that elites are people just like all of us and hopefully we can all continue working together. Would suck if they all felt the need to put all their time and effort into getting off this planet just so that they can \"go on without us.\" They might actually succeed!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81052842,
+    "parent_children": 2,
+    "thread_id": 81023257,
+    "thread_children": 145,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.2,
+    "word_count": 131,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152991208,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-247",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81115113,
+    "top_level": true,
+    "date": "Dec 11 2024 17:11",
+    "likes": 7,
+    "timestamp": 1733955067,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Wow! Warren really knows how to throw grenades, even though we already know this guy is nothing more than another insane vigilante with politics that are in no way aligned with our causes and may very well be the embodiment of much we hold in contempt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "What is she going to celebrate next? Trump's re-election?"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 81115113,
+    "thread_children": 8,
+    "ratio_recv": 1,
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 55,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152991208,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-247",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81118440,
+    "top_level": false,
+    "date": "Dec 11 2024 17:35",
+    "likes": 3,
+    "timestamp": 1733956513,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Has anyone you know personally said this to you in an in-person conversation, or is it just Twitter and TikTok personalities? To me, it\u2019s not surprising that we\u2019ve now invented Fox News-like personalities with other political branding. If anything, it would be surprising if the internet didn\u2019t enable that innovation, along with other increasingly specialized media that appeals to such raw, visceral emotions under various political brands. Who knows, maybe we'll have an SB-themed Tucker Carlson within a year or two?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a techie, it seems like a continuation of trends that tech analysts like Ben Thompson at Stratechery have been discussing since 2013. Notably, Thompson\u2019s June 2020 article, \u201cNever-Ending Niches\u201d, examines this phenomenon. "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/never-ending-niches/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The article is outside of his paywall and uses the history of the newspaper industry as a historical comparison. It also includes plenty of helpful figures. I\u2019d recommend skipping the subsequent summary and just reading, or even scanning, the article directly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But for those who prefer a summary, ChatGPT and I created the following for the SB audience:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " \u2022 The internet enables endless niches, allowing anyone to become a publisher, which has led to a proliferation of internet personalities catering to hyper-specific audiences."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " \u2022 Platforms like YouTube, TikTok, and Instagram use algorithms to amplify certain personalities, shifting economic and attention power to these aggregators rather than traditional media gatekeepers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Success in this new ecosystem often prioritizes niche appeal (focus) over universal quality, resulting in personalities who excel in specific domains rather than broad-based credibility."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " \u2022 Unlike traditional media with limited slots and finite resources, the internet\u2019s abundance creates a race for attention, often rewarding controversial or polarizing figures who drive engagement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " \u2022 The rise of niche-focused personalities mirrors a societal shift toward smaller, disconnected communities, raising concerns about the loss of common cultural frameworks and shared understanding."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 81115067,
+    "parent_children": 46,
+    "thread_id": 81115067,
+    "thread_children": 46,
+    "ratio_recv": 0,
+    "ratio_give": -36,
+    "grade_level": 15.1,
+    "word_count": 297,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152991208,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-247",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81118757,
+    "top_level": false,
+    "date": "Dec 11 2024 17:37",
+    "likes": 4,
+    "timestamp": 1733956653,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Beloved murderer canceled after old tweets surface"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://x.com/RobDenBleyker/status/1866212445246898373"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "HT to Erik Torenberg in his dark humor compilation: \"Memes about Luigi Mangione\" "
+        },
+        {
+          "type": "url",
+          "value": "https://eriktorenberg.substack.com/p/memes-about-luigi-mangione"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 81116967,
+    "parent_children": 7,
+    "thread_id": 81115113,
+    "thread_children": 8,
+    "ratio_recv": 7,
+    "ratio_give": -4,
+    "grade_level": 11.1,
+    "word_count": 20,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152991208,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-247",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81120285,
+    "top_level": false,
+    "date": "Dec 11 2024 17:49",
+    "likes": 3,
+    "timestamp": 1733957369,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, that is different. I was assuming this was largely online and, therefore, provided that context and article. Please disregard it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d certainly be disappointed, to say the least, to learn I had people in my life who felt the need to celebrate such a disturbing event. I don\u2019t know what to say beyond something like, \u201cWishing these people in your life sucked less.\u201d"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81118803,
+    "parent_children": 2,
+    "thread_id": 81115067,
+    "thread_children": 46,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 5.9,
+    "word_count": 64,
     "category": "Uncategorized",
     "tags": []
   }
