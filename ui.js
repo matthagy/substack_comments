@@ -23,16 +23,20 @@ function loadComments() {
     });
     searchInput.addEventListener("input", debounceUpdate);
 
+    const categoryCount = {};
+    window._comments.forEach(comment => {
+        categoryCount[comment['category']] = (categoryCount[comment['category']] || 0) + 1;
+    })
+
     const categories = [...new Set(window._comments.map(comment => comment['category']))]
         .sort((a, b) => a.localeCompare(b));
     categories.forEach(category => {
         const option = document.createElement('option');
-        option.appendChild(document.createTextNode(category));
+        option.appendChild(document.createTextNode(`${category} (${categoryCount[category]})`));
         option.setAttribute('value', category);
         categorySelect.add(option);
     })
 
-    // Populate tags dynamically
     const tagsCount = {};
     window._comments.forEach(comment => {
         comment.tags.forEach(tag => {
