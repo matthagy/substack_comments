@@ -50270,7 +50270,7 @@ window._comments = [
     "id": 80909355,
     "top_level": false,
     "date": "Dec 10 2024 11:34",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1733848477,
     "body": [
       [
@@ -50290,9 +50290,9 @@ window._comments = [
     "parent_id": 80896389,
     "parent_children": 7,
     "thread_id": 80869211,
-    "thread_children": 44,
+    "thread_children": 45,
     "ratio_recv": null,
-    "ratio_give": -16,
+    "ratio_give": -18,
     "grade_level": 12.6,
     "word_count": 83,
     "category": "Challenges in Progressive Messaging and Strategy",
@@ -50341,7 +50341,7 @@ window._comments = [
     "parent_id": 80915199,
     "parent_children": 4,
     "thread_id": 80869211,
-    "thread_children": 44,
+    "thread_children": 45,
     "ratio_recv": null,
     "ratio_give": 3,
     "grade_level": 11.1,
@@ -50431,7 +50431,7 @@ window._comments = [
     "id": 81037465,
     "top_level": false,
     "date": "Dec 11 2024 08:56",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1733925363,
     "body": [
       [
@@ -50475,11 +50475,11 @@ window._comments = [
     ],
     "total_children": 1,
     "parent_id": 81033249,
-    "parent_children": 18,
+    "parent_children": 21,
     "thread_id": 81023257,
-    "thread_children": 160,
+    "thread_children": 188,
     "ratio_recv": null,
-    "ratio_give": -26,
+    "ratio_give": -29,
     "grade_level": 11.1,
     "word_count": 140,
     "category": "Political and Moral Polarization in Modern Society",
@@ -50501,7 +50501,7 @@ window._comments = [
     "id": 81079801,
     "top_level": false,
     "date": "Dec 11 2024 13:16",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1733940994,
     "body": [
       [
@@ -50521,7 +50521,7 @@ window._comments = [
     "parent_id": 81052842,
     "parent_children": 2,
     "thread_id": 81023257,
-    "thread_children": 160,
+    "thread_children": 188,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 8.2,
@@ -50543,7 +50543,7 @@ window._comments = [
     "id": 81115113,
     "top_level": true,
     "date": "Dec 11 2024 17:11",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1733955067,
     "body": [
       [
@@ -50585,7 +50585,7 @@ window._comments = [
     "id": 81118440,
     "top_level": false,
     "date": "Dec 11 2024 17:35",
-    "likes": 5,
+    "likes": 7,
     "timestamp": 1733956513,
     "body": [
       [
@@ -50649,11 +50649,11 @@ window._comments = [
     ],
     "total_children": 4,
     "parent_id": 81115067,
-    "parent_children": 74,
+    "parent_children": 78,
     "thread_id": 81115067,
-    "thread_children": 74,
+    "thread_children": 78,
     "ratio_recv": 5,
-    "ratio_give": -56,
+    "ratio_give": -64,
     "grade_level": 15.1,
     "word_count": 297,
     "category": "The Dynamics of Modern Media and Information Flow",
@@ -50707,7 +50707,7 @@ window._comments = [
     "thread_id": 81115113,
     "thread_children": 12,
     "ratio_recv": 5,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 11.1,
     "word_count": 20,
     "category": "Uncategorized",
@@ -50743,9 +50743,9 @@ window._comments = [
     "parent_id": 81118803,
     "parent_children": 2,
     "thread_id": 81115067,
-    "thread_children": 74,
+    "thread_children": 78,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -4,
     "grade_level": 5.9,
     "word_count": 64,
     "category": "Political and Moral Polarization in Modern Society",
@@ -50803,5 +50803,119 @@ window._comments = [
       "political polarization",
       "social media influence"
     ]
+  },
+  {
+    "post_id": 152867726,
+    "title": "End the Medicare For All wars",
+    "canonical_url": "https://www.slowboring.com/p/end-the-medicare-for-all-wars",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81202496,
+    "top_level": false,
+    "date": "Dec 12 2024 09:55",
+    "likes": 9,
+    "timestamp": 1734015327,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "How about we mandate sufficiently transparent accounting from government-funded medical service providers so that we, the tax-paying public, at least know where the money is going and can develop ever more targeted regulations to eliminate rent-seeking?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, the investment industry would love to know where unreasonably large margins are accumulating (i.e., rent-seeking). Similar to Walmart\u2019s and Amazon\u2019s disruption of insufficiently differentiated independent retailers, we can count on ever more innovation to manage out the waste. Eg, I've heard that the private equity industry is currently attempting to roll up various general practitioners in medical, dental, and vision so that they can get increasingly more leverage over their fixed costs; notably by introducing technology to substitute for inefficiently allocated resources."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 81199434,
+    "parent_children": 7,
+    "thread_id": 81179203,
+    "thread_children": 60,
+    "ratio_recv": -1,
+    "ratio_give": -3,
+    "grade_level": 18.5,
+    "word_count": 119,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152867726,
+    "title": "End the Medicare For All wars",
+    "canonical_url": "https://www.slowboring.com/p/end-the-medicare-for-all-wars",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81209294,
+    "top_level": false,
+    "date": "Dec 12 2024 10:39",
+    "likes": 4,
+    "timestamp": 1734017967,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but at least taxpayers would know how much is being spent through taxes versus individual contributions for consuming the service. Additionally, academic-like research could use privileged data on consumption patterns to identify cases of moral hazard. This could help establish regulations similar to those for pre-existing conditions. Moreover, instead of fully excluding individuals from treatment, we could simply limit publicly funded options to those deemed sufficiently beneficial based on certain decisions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These regulations could evolve through political processes to reflect voter preferences. For example, fewer lung cancer treatment options might be offered to smokers than to non-smokers, with these options narrowing further over time. Cutoff dates based on birth year could also be introduced, especially as public awareness grows about the risks of certain lifestyle choices."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 81203413,
+    "parent_children": 3,
+    "thread_id": 81179203,
+    "thread_children": 60,
+    "ratio_recv": -1,
+    "ratio_give": -4,
+    "grade_level": 12.7,
+    "word_count": 127,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 152867726,
+    "title": "End the Medicare For All wars",
+    "canonical_url": "https://www.slowboring.com/p/end-the-medicare-for-all-wars",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81227719,
+    "top_level": false,
+    "date": "Dec 12 2024 12:30",
+    "likes": 1,
+    "timestamp": 1734024636,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but private providers are already incentivized to get the accounting correct. Moreover we already have regulations that require sufficiently sophisticated accounting from sufficiently large companies. Eg, GAAP."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could mandate a sufficiently detailed and rigorous accounting for any medical service paid for by public funds. Moreover, we could also ban price discrimination and thereby ensure we're not getting a subsidy by simply charging private insurance more. I believe that such a subsidy is already alleged."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81224727,
+    "parent_children": 2,
+    "thread_id": 81179203,
+    "thread_children": 60,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 11.6,
+    "word_count": 76,
+    "category": "Uncategorized",
+    "tags": []
   }
 ];
