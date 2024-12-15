@@ -268,7 +268,8 @@ async function loadComments() {
         link.setAttribute('href', url);
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
-        link.appendChild(document.createTextNode(text));
+        const textNode = text instanceof HTMLElement ? text : document.createTextNode(text);
+        link.appendChild(textNode);
         return link;
     }
 
@@ -337,7 +338,7 @@ async function loadComments() {
                     break;
                 case 'url':
                     const link = document.createElement('a');
-                    para.appendChild(link);
+                    para.appendChild(createLink(span['value'], span['value'], 'link'));
                     link.classList.add('link');
                     link.setAttribute('href', span['value']);
                     createHighlightedText(link, span['value'], termsMatcher);
