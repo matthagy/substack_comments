@@ -1,9 +1,11 @@
-function loadComments() {
-    if (typeof window._comments === 'undefined') {
-        console.log('comments not loaded yet');
-        window.setTimeout(loadComments, 100);
-        return;
-    }
+async function loadComments() {
+    const response = await fetch('./comments.json')
+        .catch(error => {
+            console.error('Failed to fetch comments', error)
+            alert('Failed to fetch comments');
+            return [];
+        })
+    const allComments = await response.json();
 
     const commentsDiv = document.getElementById("comments");
 
@@ -24,11 +26,11 @@ function loadComments() {
     searchInput.addEventListener("input", debounceUpdate);
 
     const categoryCount = {};
-    window._comments.forEach(comment => {
+    allComments.forEach(comment => {
         categoryCount[comment['category']] = (categoryCount[comment['category']] || 0) + 1;
     })
 
-    const categories = [...new Set(window._comments.map(comment => comment['category']))]
+    const categories = [...new Set(allComments.map(comment => comment['category']))]
         .sort((a, b) => a.localeCompare(b));
     categories.forEach(category => {
         const option = document.createElement('option');
@@ -38,7 +40,7 @@ function loadComments() {
     })
 
     const tagsCount = {};
-    window._comments.forEach(comment => {
+    allComments.forEach(comment => {
         comment.tags.forEach(tag => {
             tagsCount[tag] = (tagsCount[tag] || 0) + 1;
         });
@@ -53,7 +55,7 @@ function loadComments() {
             tagsSelect.add(option);
         });
 
-    const dates = window._comments.map(comment => comment.timestamp);
+    const dates = allComments.map(comment => comment.timestamp);
     const secondsInDay = 24 * 60 * 60;
     startDateInput.valueAsDate = new Date(Math.min(...dates) * 1000);
     endDateInput.valueAsDate = new Date((Math.max(...dates) + secondsInDay) * 1000);
@@ -129,7 +131,7 @@ function loadComments() {
         lastCategory = category;
         lastTags = selectedTags.join(',');
 
-        let comments = window._comments.filter(comment => {
+        let comments = allComments.filter(comment => {
             switch (selectCommentType) {
                 case 'all':
                     return true;
@@ -266,7 +268,8 @@ function loadComments() {
         link.setAttribute('href', url);
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
-        link.appendChild(document.createTextNode(text));
+        const textNode = text instanceof HTMLElement ? text : document.createTextNode(text);
+        link.appendChild(textNode);
         return link;
     }
 
@@ -335,7 +338,7 @@ function loadComments() {
                     break;
                 case 'url':
                     const link = document.createElement('a');
-                    para.appendChild(link);
+                    para.appendChild(createLink(span['value'], span['value'], 'link'));
                     link.classList.add('link');
                     link.setAttribute('href', span['value']);
                     createHighlightedText(link, span['value'], termsMatcher);

@@ -10,3 +10,10 @@ Hope to eventually release the custom front-end as open source code so that othe
 
 Comments are fetched using [substack_client](https://github.com/matthagy/substack_client) as described in,
 [Developing a Substack client to fetch posts and comments](https://matthagy.substack.com/p/developing-a-custom-substack-front).
+
+Run locally using
+```shell
+python3 -m http.server
+```
+
+Then visit the given URL in your browser. Eg `http://[::]:8000/`
