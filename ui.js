@@ -1,11 +1,16 @@
 async function loadComments() {
-    const response = await fetch('./comments.json')
+    const allComments = await fetch('./comments.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
         .catch(error => {
-            console.error('Failed to fetch comments', error)
+            console.error('Failed to fetch comments', error);
             alert('Failed to fetch comments');
             return [];
-        })
-    const allComments = await response.json();
+        });
 
     const commentsDiv = document.getElementById("comments");
 
