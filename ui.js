@@ -7,12 +7,15 @@ async function loadComments() {
             return response.json();
         })
         .catch(error => {
-            console.error('Failed to fetch comments', error);
-            alert('Failed to fetch comments');
-            return [];
+            console.error('Failed to fetch comments:', error);
+            return error.message || 'Unknown error';
         });
 
     const commentsDiv = document.getElementById("comments");
+    if (typeof allComments === 'string') {
+        commentsDiv.appendChild(document.createTextNode(`Failed to fetch comments: ${allComments}`));
+        return;
+    }
 
     const sortSelect = document.getElementById('sort');
     const typeSelect = document.getElementById('type');
