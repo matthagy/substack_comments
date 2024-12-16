@@ -1,4 +1,4 @@
-async function loadComments() {
+const loadComments = async () => {
     const allComments = await fetch('./comments.json')
         .then(response => {
             if (!response.ok) {
@@ -28,15 +28,12 @@ async function loadComments() {
     const searchInput = document.getElementById('search');
     const tagsSelect = document.getElementById('tags');
     const commentCount = document.getElementById('commentCount');
-    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
-        select.addEventListener("change", update);
-    });
-    searchInput.addEventListener("input", debounceUpdate);
+    const resetButton = document.getElementById('reset');
 
     const categoryCount = {};
     allComments.forEach(comment => {
         categoryCount[comment['category']] = (categoryCount[comment['category']] || 0) + 1;
-    })
+    });
 
     const categories = [...new Set(allComments.map(comment => comment['category']))]
         .sort((a, b) => a.localeCompare(b));
@@ -45,7 +42,7 @@ async function loadComments() {
         option.appendChild(document.createTextNode(`${category} (${categoryCount[category]})`));
         option.setAttribute('value', category);
         categorySelect.add(option);
-    })
+    });
 
     const tagsCount = {};
     allComments.forEach(comment => {
@@ -70,12 +67,12 @@ async function loadComments() {
 
     let pendingUpdate = null;
 
-    function debounceUpdate() {
+    const debounceUpdate = () => {
         if (pendingUpdate) {
             window.clearTimeout(pendingUpdate);
         }
-        pendingUpdate = window.setTimeout(update, 200)
-    }
+        pendingUpdate = window.setTimeout(update, 200);
+    };
 
     let lastSelectCommentType = null;
     let lastSortBy = null;
@@ -87,9 +84,7 @@ async function loadComments() {
     let lastTags = null;
     let updating = false;
 
-    update();
-
-    function extractQuotedRegex(input) {
+    const extractQuotedRegex = (input) => {
         const regex = /<([^>]+)>|(["'])(?:(?!\2).)+\2/g;
         const terms = [];
         let match;
@@ -105,9 +100,62 @@ async function loadComments() {
         }
 
         return [terms, input];
-    }
+    };
 
-    function update() {
+    const initialParams = {
+        sort: sortSelect.value,
+        type: typeSelect.value,
+        show: showSelect.value,
+        page: pageSelect.value,
+        startDate: startDateInput.value,
+        endDate: endDateInput.value,
+        category: categorySelect.value,
+        search: searchInput.value.trim(),
+        tags: Array.from(tagsSelect.selectedOptions).map(o => o.value)
+    };
+
+    const readParamsFromHash = () => {
+        if (!window.location.hash) return;
+        const hash = window.location.hash.substring(1); // remove '#'
+        const params = new URLSearchParams(hash);
+
+        if (params.has('sort')) sortSelect.value = params.get('sort');
+        if (params.has('type')) typeSelect.value = params.get('type');
+        if (params.has('show')) showSelect.value = params.get('show');
+        if (params.has('page')) pageSelect.value = params.get('page');
+        if (params.has('startDate')) startDateInput.value = params.get('startDate');
+        if (params.has('endDate')) endDateInput.value = params.get('endDate');
+        if (params.has('category')) categorySelect.value = params.get('category');
+        if (params.has('search')) searchInput.value = params.get('search');
+
+        if (params.has('tags')) {
+            const selectedTags = params.get('tags').split(',');
+            for (let i = 0; i < tagsSelect.options.length; i++) {
+                tagsSelect.options[i].selected = selectedTags.includes(tagsSelect.options[i].value);
+            }
+        }
+    };
+
+    const writeParamsToHash = () => {
+        const params = new URLSearchParams();
+        params.set('sort', sortSelect.value);
+        params.set('type', typeSelect.value);
+        params.set('show', showSelect.value);
+        params.set('page', pageSelect.value);
+        params.set('startDate', startDateInput.value);
+        params.set('endDate', endDateInput.value);
+        params.set('category', categorySelect.value);
+        params.set('search', searchInput.value.trim());
+
+        const selectedTags = Array.from(tagsSelect.selectedOptions).map(o => o.value);
+        if (selectedTags.length > 0) {
+            params.set('tags', selectedTags.join(','));
+        }
+
+        window.location.hash = params.toString();
+    };
+
+    const update = () => {
         if (updating) {
             console.log('recursive update');
             return;
@@ -242,14 +290,14 @@ async function loadComments() {
 
         clearChildren(commentsDiv);
 
-        function createTermMatcher() {
+        const createTermMatcher = () => {
             try {
                 return RegExp(combinedTerms.map(term => `(?:${term})`).join("|"), "ig");
             } catch (e) {
                 console.error('Invalid regex', e);
                 return null;
             }
-        }
+        };
 
         const termsMatcher = combinedTerms.length > 0
             ? createTermMatcher()
@@ -260,15 +308,17 @@ async function loadComments() {
         updating = false;
         const endTime = new Date().getTime();
         console.log(`update took ${endTime - startTime}ms`);
-    }
 
-    function clearChildren(node) {
+        writeParamsToHash();
+    };
+
+    const clearChildren = (node) => {
         while (node.firstChild) {
             node.removeChild(node.lastChild);
         }
-    }
+    };
 
-    function createLink(url, text, cssClass) {
+    const createLink = (url, text, cssClass) => {
         const link = document.createElement('a');
         if (cssClass) {
             link.classList.add(cssClass);
@@ -279,25 +329,25 @@ async function loadComments() {
         const textNode = text instanceof HTMLElement ? text : document.createTextNode(text);
         link.appendChild(textNode);
         return link;
-    }
+    };
 
-    function renderComment(comment, termsMatcher) {
+    const renderComment = (comment, termsMatcher) => {
         const entryDiv = document.createElement('div');
         entryDiv.classList.add('entry');
 
         const metaDiv = document.createElement('div');
         entryDiv.appendChild(metaDiv);
 
-        function createText(text, cssClass) {
+        const createText = (text, cssClass) => {
             const likeSpan = document.createElement('span');
             metaDiv.appendChild(likeSpan);
             likeSpan.classList.add(cssClass);
             likeSpan.appendChild(document.createTextNode(text));
-        }
+        };
 
-        function createCommentLink(commentId, text) {
+        const createCommentLink = (commentId, text) => {
             metaDiv.appendChild(createLink(`${comment['canonical_url']}/comment/${commentId}`, text, 'meta'));
-        }
+        };
 
         createText(comment['name'], 'name');
         createText(`❤ ${comment['likes']}, ${comment['date']}, FK=${comment['grade_level']}`, 'meta');
@@ -323,7 +373,7 @@ async function loadComments() {
                 tagSpan.classList.add('tag');
                 tagSpan.appendChild(document.createTextNode(tag));
                 tagsDiv.appendChild(tagSpan);
-            })
+            });
         metaDiv.appendChild(tagsDiv);
 
         const commentDiv = document.createElement('div');
@@ -334,9 +384,9 @@ async function loadComments() {
             commentDiv.appendChild(createParagraph(paragraph, termsMatcher));
         });
         commentsDiv.appendChild(entryDiv);
-    }
+    };
 
-    function createParagraph(paragraph, termsMatcher) {
+    const createParagraph = (paragraph, termsMatcher) => {
         const para = document.createElement('p');
         para.classList.add('comment-text');
         paragraph.forEach(span => {
@@ -353,9 +403,9 @@ async function loadComments() {
             }
         });
         return para;
-    }
+    };
 
-    function createHighlightedText(parent, value, termsMatcher) {
+    const createHighlightedText = (parent, value, termsMatcher) => {
         if (termsMatcher === null) {
             parent.appendChild(document.createTextNode(value));
             return;
@@ -365,7 +415,7 @@ async function loadComments() {
         let maxIterations = 1000;
         while ((match = termsMatcher.exec(value)) !== null) {
             if (!maxIterations--) {
-                console.error('Max iterations hit, aborting.')
+                console.error('Max iterations hit, aborting.');
                 break;
             }
             const start = match.index;
@@ -383,15 +433,40 @@ async function loadComments() {
         if (remaining.length > 0) {
             parent.appendChild(document.createTextNode(remaining));
         }
-    }
+    };
 
-    function computeLength(comment) {
+    const computeLength = (comment) => {
         return comment['body'].reduce((acc, paragraph) => {
             return acc + paragraph.reduce((acc, span) => {
                 return acc + span['value'].length;
             }, 0);
         }, 0);
-    }
-}
+    };
+
+    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
+        select.addEventListener("change", update);
+    });
+    searchInput.addEventListener("input", debounceUpdate);
+
+    resetButton.addEventListener('click', () => {
+        sortSelect.value = initialParams.sort;
+        typeSelect.value = initialParams.type;
+        showSelect.value = initialParams.show;
+        pageSelect.value = initialParams.page;
+        startDateInput.value = initialParams.startDate;
+        endDateInput.value = initialParams.endDate;
+        categorySelect.value = initialParams.category;
+        searchInput.value = initialParams.search;
+
+        for (let i = 0; i < tagsSelect.options.length; i++) {
+            tagsSelect.options[i].selected = initialParams.tags.includes(tagsSelect.options[i].value);
+        }
+
+        update();
+    });
+
+    readParamsFromHash();
+    update();
+};
 
 window.addEventListener('DOMContentLoaded', loadComments);
