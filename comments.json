@@ -34361,7 +34361,7 @@
     "id": 14823311,
     "top_level": true,
     "date": "Apr 17 2023 07:08",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1681729729,
     "body": [
       [
@@ -34394,11 +34394,10 @@
     "parent_children": null,
     "thread_id": 14823311,
     "thread_children": 7,
-    "ratio_recv": -5,
+    "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 201,
-    "categories": "Contradictions and Challenges in Legal and Social Policies",
     "category": "Debates on Guns, Abortion, and Political Strategy",
     "tags": [
       "public safety",
@@ -34415,7 +34414,7 @@
     "id": 14824709,
     "top_level": false,
     "date": "Apr 17 2023 07:56",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1681732582,
     "body": [
       [
@@ -34430,11 +34429,10 @@
     "parent_children": 5,
     "thread_id": 14823311,
     "thread_children": 7,
-    "ratio_recv": -4,
-    "ratio_give": 5,
+    "ratio_recv": -5,
+    "ratio_give": 6,
     "grade_level": 8.3,
     "word_count": 29,
-    "categories": "Uncategorized",
     "category": "Uncategorized",
     "tags": []
   },
@@ -34479,7 +34477,6 @@
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 183,
-    "categories": "Challenges in Democratic Messaging and Electoral Strategies",
     "category": "Debates on Guns, Abortion, and Political Strategy",
     "tags": [
       "political campaigns",
@@ -34529,7 +34526,6 @@
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 147,
-    "categories": "Challenges and Reforms in Educational Equity and Systems",
     "category": "Socioeconomic Impact on Education Systems",
     "tags": [
       "education reform",
@@ -34577,16 +34573,15 @@
         }
       ]
     ],
-    "total_children": 14,
+    "total_children": 11,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 14925526,
-    "thread_children": 14,
-    "ratio_recv": 5,
+    "thread_children": 11,
+    "ratio_recv": 6,
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 258,
-    "categories": "Challenges and Reforms in Educational Equity and Systems",
     "category": "Socioeconomic Impact on Education Systems",
     "tags": [
       "education inequality",
@@ -34617,14 +34612,13 @@
     ],
     "total_children": 9,
     "parent_id": 14924980,
-    "parent_children": 49,
+    "parent_children": 46,
     "thread_id": 14924980,
-    "thread_children": 49,
+    "thread_children": 46,
     "ratio_recv": -4,
-    "ratio_give": -94,
+    "ratio_give": -100,
     "grade_level": 13.3,
     "word_count": 68,
-    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
     "category": "AI-Driven Comment Categorization and Summarization",
     "tags": []
   },
@@ -34638,7 +34632,7 @@
     "id": 14961266,
     "top_level": false,
     "date": "Apr 19 2023 20:17",
-    "likes": 12,
+    "likes": 14,
     "timestamp": 1681949831,
     "body": [
       [
@@ -34668,14 +34662,13 @@
     ],
     "total_children": 1,
     "parent_id": 14956437,
-    "parent_children": 37,
+    "parent_children": 26,
     "thread_id": 14956437,
-    "thread_children": 37,
+    "thread_children": 26,
     "ratio_recv": null,
-    "ratio_give": -12,
+    "ratio_give": -11,
     "grade_level": 11.1,
     "word_count": 205,
-    "categories": "Challenges and Reforms in Educational Equity and Systems",
     "category": "Socioeconomic Impact on Education Systems",
     "tags": [
       "education reform",
@@ -34693,7 +34686,7 @@
     "id": 15023596,
     "top_level": true,
     "date": "Apr 21 2023 06:21",
-    "likes": 39,
+    "likes": 42,
     "timestamp": 1682072505,
     "body": [
       [
@@ -34709,16 +34702,15 @@
         }
       ]
     ],
-    "total_children": 26,
+    "total_children": 25,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 15023596,
-    "thread_children": 26,
-    "ratio_recv": -30,
+    "thread_children": 25,
+    "ratio_recv": -33,
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 110,
-    "categories": "Economic Philosophies and Resource Allocation in Modern Policy Discussions",
     "category": "Evolving Dynamics in Tech Companies and Employment",
     "tags": [
       "corporate accountability",
@@ -34735,7 +34727,7 @@
     "id": 15024682,
     "top_level": true,
     "date": "Apr 21 2023 07:12",
-    "likes": 16,
+    "likes": 17,
     "timestamp": 1682075544,
     "body": [
       [
@@ -34772,7 +34764,6 @@
     "ratio_give": null,
     "grade_level": 9.9,
     "word_count": 236,
-    "categories": "Inflation Dynamics and Policy Responses in the US and Europe",
     "category": "Inflation Dynamics and Policy Responses",
     "tags": [
       "economic policy",
@@ -34836,14 +34827,13 @@
     ],
     "total_children": 16,
     "parent_id": 15023596,
-    "parent_children": 26,
+    "parent_children": 25,
     "thread_id": 15023596,
-    "thread_children": 26,
+    "thread_children": 25,
     "ratio_recv": 6,
-    "ratio_give": -30,
+    "ratio_give": -33,
     "grade_level": 12.1,
     "word_count": 98,
-    "categories": "Evolving Challenges in Business, Journalism, and Technology",
     "category": "Evolving Dynamics in Tech Companies and Employment",
     "tags": [
       "corporate accountability"
@@ -34910,7 +34900,7 @@
     "id": 15195301,
     "top_level": true,
     "date": "Apr 25 2023 06:37",
-    "likes": 99,
+    "likes": 101,
     "timestamp": 1682419055,
     "body": [
       [
@@ -34926,16 +34916,15 @@
         }
       ]
     ],
-    "total_children": 359,
+    "total_children": 324,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 15195301,
-    "thread_children": 359,
-    "ratio_recv": -81,
+    "thread_children": 324,
+    "ratio_recv": -83,
     "ratio_give": null,
     "grade_level": 14.5,
     "word_count": 137,
-    "categories": "Challenges and Reforms in Educational Equity and Systems",
     "category": "Socioeconomic Impact on Education Systems",
     "tags": [
       "education inequality",
@@ -34978,7 +34967,6 @@
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 67,
-    "categories": "Challenges and Reforms in Educational Equity and Systems",
     "category": "Socioeconomic Impact on Education Systems",
     "tags": [
       "education inequality",
@@ -35047,16 +35035,15 @@
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 9,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 15225456,
-    "thread_children": 10,
+    "thread_children": 9,
     "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 140,
-    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
     "category": "AI-Driven Comment Categorization and Summarization",
     "tags": [
       "media influence",
@@ -35099,12 +35086,11 @@
     "parent_id": 15227903,
     "parent_children": 2,
     "thread_id": 15225456,
-    "thread_children": 10,
+    "thread_children": 9,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 10.1,
     "word_count": 16,
-    "categories": "Uncategorized",
     "category": "Uncategorized",
     "tags": []
   },
@@ -35132,12 +35118,11 @@
     "parent_id": 15229237,
     "parent_children": 4,
     "thread_id": 15225456,
-    "thread_children": 10,
+    "thread_children": 9,
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 5.7,
     "word_count": 49,
-    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
     "category": "Comment Dynamics and Engagement Patterns on Substack",
     "tags": []
   },
@@ -35151,7 +35136,7 @@
     "id": 15244154,
     "top_level": true,
     "date": "Apr 26 2023 06:50",
-    "likes": 17,
+    "likes": 19,
     "timestamp": 1682506231,
     "body": [
       [
@@ -35189,16 +35174,15 @@
         }
       ]
     ],
-    "total_children": 19,
+    "total_children": 17,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 15244154,
-    "thread_children": 19,
-    "ratio_recv": -13,
+    "thread_children": 17,
+    "ratio_recv": -15,
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 287,
-    "categories": "Challenges in Democratic Messaging and Electoral Strategies",
     "category": "Challenges in Progressive Messaging and Strategy",
     "tags": [
       "political polarization",
@@ -35218,7 +35202,7 @@
     "id": 15255471,
     "top_level": false,
     "date": "Apr 26 2023 11:22",
-    "likes": 12,
+    "likes": 15,
     "timestamp": 1682522552,
     "body": [
       [
@@ -35244,16 +35228,15 @@
         }
       ]
     ],
-    "total_children": 11,
+    "total_children": 15,
     "parent_id": 15249349,
-    "parent_children": 22,
+    "parent_children": 26,
     "thread_id": 15243909,
-    "thread_children": 57,
-    "ratio_recv": -5,
-    "ratio_give": 9,
+    "thread_children": 60,
+    "ratio_recv": -8,
+    "ratio_give": 12,
     "grade_level": 9.1,
     "word_count": 135,
-    "categories": "Shifts in Technology's Role in Work and Education",
     "category": "Evaluation Practices and Career Ethics in Tech",
     "tags": [
       "labor unions",
@@ -35271,7 +35254,7 @@
     "id": 15256442,
     "top_level": false,
     "date": "Apr 26 2023 11:39",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1682523566,
     "body": [
       [
@@ -35295,14 +35278,13 @@
     ],
     "total_children": 2,
     "parent_id": 15255695,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 15243909,
-    "thread_children": 57,
+    "thread_children": 60,
     "ratio_recv": -5,
-    "ratio_give": 6,
+    "ratio_give": 7,
     "grade_level": 10.7,
     "word_count": 132,
-    "categories": "Shifts in Technology's Role in Work and Education",
     "category": "Evaluation Practices and Career Ethics in Tech",
     "tags": [
       "education reform",
@@ -35319,7 +35301,7 @@
     "id": 15291653,
     "top_level": true,
     "date": "Apr 27 2023 06:44",
-    "likes": 46,
+    "likes": 47,
     "timestamp": 1682592270,
     "body": [
       [
@@ -35356,7 +35338,6 @@
     "ratio_give": null,
     "grade_level": 8.4,
     "word_count": 194,
-    "categories": "Shifts in Technology's Role in Work and Education",
     "category": "Evaluation Practices and Career Ethics in Tech",
     "tags": [
       "media influence",
@@ -35374,7 +35355,7 @@
     "id": 15292385,
     "top_level": false,
     "date": "Apr 27 2023 07:12",
-    "likes": 23,
+    "likes": 24,
     "timestamp": 1682593976,
     "body": [
       [
@@ -35509,7 +35490,6 @@
     "ratio_give": -23,
     "grade_level": 12.1,
     "word_count": 537,
-    "categories": "Shifts in Technology's Role in Work and Education",
     "category": "Comment Dynamics and Engagement Patterns on Substack",
     "tags": [
       "media influence",
@@ -35529,7 +35509,7 @@
     "id": 15294267,
     "top_level": false,
     "date": "Apr 27 2023 08:12",
-    "likes": 16,
+    "likes": 17,
     "timestamp": 1682597572,
     "body": [
       [
@@ -35561,10 +35541,9 @@
     "thread_id": 15291653,
     "thread_children": 18,
     "ratio_recv": null,
-    "ratio_give": 10,
+    "ratio_give": 11,
     "grade_level": 11.7,
     "word_count": 172,
-    "categories": "Shifts in Technology's Role in Work and Education",
     "category": "Comment Dynamics and Engagement Patterns on Substack",
     "tags": [
       "media influence",
@@ -35651,7 +35630,6 @@
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 292,
-    "categories": "Financial Policy and Political Divisions in Crisis Management",
     "category": "Political Stalemates and Economic Policy Challenges",
     "tags": [
       "political polarization",
@@ -35709,16 +35687,15 @@
         }
       ]
     ],
-    "total_children": 42,
+    "total_children": 41,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 15628550,
-    "thread_children": 42,
+    "thread_children": 41,
     "ratio_recv": 13,
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 196,
-    "categories": "Enhancing Subscriber Experience through Comment Management and AI",
     "category": "Sustainability of Subscription Models and Substack's Business Challenges",
     "tags": [
       "digital privacy",
@@ -50840,7 +50817,11 @@
     "grade_level": 18.5,
     "word_count": 119,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "healthcare complexity",
+      "corporate accountability",
+      "economic policy"
+    ]
   },
   {
     "post_id": 152867726,
@@ -50878,7 +50859,12 @@
     "grade_level": 12.7,
     "word_count": 127,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "public health policy",
+      "healthcare complexity",
+      "voter behavior",
+      "political accountability"
+    ]
   },
   {
     "post_id": 152867726,
@@ -50916,6 +50902,10 @@
     "grade_level": 11.6,
     "word_count": 76,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "healthcare complexity",
+      "economic policy",
+      "corporate accountability"
+    ]
   }
 ]
