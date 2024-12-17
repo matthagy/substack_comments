@@ -28,17 +28,28 @@ h1 {
     margin-bottom: 20px;
 }
 
-label.pad {
+.nowrap {
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+}
+
+label.pad, button.pad {
     margin-left: 10px;
 }
 
 input {
     margin-top: 6px;
     margin-bottom: 6px;
+    margin-left: 6px;
 }
 
-input[type="text"] {
-    width: 80%;
+select {
+    margin-left: 6px;
+}
+
+#search {
+    min-width: 40em;
 }
 
 .entry {
