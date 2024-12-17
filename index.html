@@ -23,72 +23,80 @@
         Source code and explanation of methods at
         <a href="https://github.com/matthagy/substack_comments">github.com/matthagy/substack_comments</a>
         <br/>
-        Explore <a href="https://matthagy.github.io/hagy_comment_categories/">AI-generated and summarized comment categories</a>.
+        Explore <a href="https://matthagy.github.io/hagy_comment_categories/">AI-generated and summarized comment
+        categories</a>.
         AI-assigned tags are a work in progress.
     </p>
 
     <div id="controls">
         <form onsubmit="return false;">
-            <label for="sort">Sort</label>
-            <select name="sort" id="sort">
-                <option value="likes">Likes</option>
-                <option value="new">New First</option>
-                <option value="old">Chronological</option>
-                <option value="ratio_recv">Ratio Received</option>
-                <option value="ratio_give">Ratio Given</option>
-                <!--
-                <option value="fk_asc">Flesh-Kincaid Asc</option>
-                -->
-                <option value="fk_desc">Flesh-Kincaid Grade</option>
-                <option value="reply_count">Reply Count</option>
-                <option value="length">Length (Characters)</option>
-            </select>
-
-            <label for="type" class="pad">Type</label>
-            <select name="type" id="type">
-                <option value="all">All</option>
-                <option value="top">Top-Level</option>
-                <option value="reply">Reply</option>
-            </select>
-
-            <label for="show" class="pad">Show</label>
-            <select name="show" id="show">
-                <option value="10">10</option>
-                <option value="25">25</option>
-                <option value="50" selected>50</option>
-                <option value="100">100</option>
-                <option value="all">All</option>
-            </select>
-
-            <label for="page" class="pad">Page</label>
-            <select name="page" id="page">
-                <option value="1">1</option>
-            </select>
-            <label id="totalPages"></label>
-
-            <button id="reset">Reset</button>
-            <br/>
-
-            <label for="startDate">Start Date</label>
-            <input type="date" id="startDate" name="startDate">
-            <label for="endDate" class="pad">End Date</label>
-            <input type="date" id="endDate" name="endDate">
-
-            <label for="tags" class="pad">Tag</label>
-            <select name="tags" id="tags">
-                <option value="all">All</option>
-            </select>
-            <br/>
-
-            <label for="category">Category</label>
-            <select name="category" id="category">
-                <option value="all">All</option>
-            </select>
-            <br/>
-
-            <label for="search">Terms</label>
-            <input name="search" id="search" type="text" autocomplete="off"
-                   placeholder="Filter comments by terms or leave empty for no filtering"/>
+            <span class="nowrap">
+                <label for="sort">Sort</label>
+                <select name="sort" id="sort">
+                    <option value="likes">Likes</option>
+                    <option value="new">New First</option>
+                    <option value="old">Chronological</option>
+                    <option value="ratio_recv">Ratio Received</option>
+                    <option value="ratio_give">Ratio Given</option>
+                    <!--
+                    <option value="fk_asc">Flesh-Kincaid Asc</option>
+                    -->
+                    <option value="fk_desc">Flesh-Kincaid Grade</option>
+                    <option value="reply_count">Reply Count</option>
+                    <option value="length">Length (Characters)</option>
+                </select>
+            </span>
+            <span class="nowrap">
+                <label for="type" class="pad">Type</label>
+                <select name="type" id="type">
+                    <option value="all">All</option>
+                    <option value="top">Top-Level</option>
+                    <option value="reply">Reply</option>
+                </select>
+            </span>
+            <span class="nowrap">
+                <label for="show" class="pad">Show</label>
+                <select name="show" id="show">
+                    <option value="10">10</option>
+                    <option value="25">25</option>
+                    <option value="50" selected>50</option>
+                    <option value="100">100</option>
+                    <option value="all">All</option>
+                </select>
+            </span>
+            <span class="nowrap">
+                <label for="page" class="pad">Page</label>
+                <select name="page" id="page">
+                    <option value="1">1</option>
+                </select>
+                <label id="totalPages" class="pad"></label>
+            </span>
+            <button id="reset" class="pad">Reset</button>
+            <span class="nowrap">
+                <label for="startDate">Start Date</label>
+                <input type="date" id="startDate" name="startDate">
+            </span>
+            <span class="nowrap">
+                <label for="endDate" class="pad">End Date</label>
+                <input type="date" id="endDate" name="endDate">
+            </span>
+            <span class="nowrap">
+                <label for="tags" class="pad">Tag</label>
+                <select name="tags" id="tags">
+                    <option value="all">All</option>
+                </select>
+            </span>
+            <span class="nowrap">
+                <label for="category">Category</label>
+                <select name="category" id="category">
+                    <option value="all">All</option>
+                </select>
+            </span>
+            <span class="nowrap">
+                <label for="search">Terms</label>
+                <input name="search" id="search" type="text" autocomplete="off"
+                       placeholder="Filter comments by terms or leave empty for no filtering"/>
+            </span>
             <br/>
             <label id="commentCount"></label>
         </form>
