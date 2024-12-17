@@ -50918,7 +50918,7 @@
     "id": 81898610,
     "top_level": false,
     "date": "Dec 17 2024 07:42",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1734439358,
     "body": [
       [
@@ -50959,7 +50959,7 @@
     "id": 81899271,
     "top_level": false,
     "date": "Dec 17 2024 07:48",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1734439733,
     "body": [
       [
@@ -50975,12 +50975,55 @@
     "thread_id": 81890659,
     "thread_children": 11,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": 0,
     "grade_level": 13.8,
     "word_count": 63,
     "category": "Uncategorized",
     "tags": [
       "immigration issues",
+      "US politics"
+    ]
+  },
+  {
+    "post_id": 153234011,
+    "title": "Are place-based policies targeting the wrong distressed areas?",
+    "canonical_url": "https://www.slowboring.com/p/are-place-based-policies-targeting",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81901506,
+    "top_level": false,
+    "date": "Dec 17 2024 08:08",
+    "likes": 0,
+    "timestamp": 1734440917,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We should tie the federal mortgage interest deduction to local housing costs as a percentage of income for local, low-income residents, phasing it out in relatively high-cost areas. Subsidizing high-cost-of-living regions disincentivizes growth in housing supply. This approach could be generalized to the SALT deduction, broadening support among affluent individuals who might otherwise oppose new construction but could instead advocate for it. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe the Republicans will do this for us\u2014as they did w/ capping SALT deduction\u2014to \u201cstick it to the libs\u201d in funding tax cuts for the rich?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81893027,
+    "parent_children": 4,
+    "thread_id": 81893027,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -13,
+    "grade_level": 14.2,
+    "word_count": 88,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "housing affordability",
+      "political accountability",
       "US politics"
     ]
   }
