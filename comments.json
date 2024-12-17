@@ -50907,5 +50907,75 @@
       "economic policy",
       "corporate accountability"
     ]
+  },
+  {
+    "post_id": 153234011,
+    "title": "Are place-based policies targeting the wrong distressed areas?",
+    "canonical_url": "https://www.slowboring.com/p/are-place-based-policies-targeting",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81898610,
+    "top_level": false,
+    "date": "Dec 17 2024 07:42",
+    "likes": 3,
+    "timestamp": 1734439358,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Double like. It\u2019s understandable that some programs should allocate more funds to high-cost living areas based on their specific aims (e.g., SNAP). Other programs, however, should recognize migration as a key part of addressing the issue\u2014for example, addressing high unemployment among non-college workers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, many people hold a \u201cpie in the sky\u201d dream that no one should ever have to move for employment and that instead all communities can sustain vibrant economies tailored to their current demographics. But at best, that\u2019s a distraction, and at worst, it misleads individuals in these communities into avoiding the short-term pain of moving by falsely promising future economic opportunities without sufficient justification."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81893542,
+    "parent_children": 2,
+    "thread_id": 81893542,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 15.0,
+    "word_count": 108,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153234011,
+    "title": "Are place-based policies targeting the wrong distressed areas?",
+    "canonical_url": "https://www.slowboring.com/p/are-place-based-policies-targeting",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81899271,
+    "top_level": false,
+    "date": "Dec 17 2024 07:48",
+    "likes": 0,
+    "timestamp": 1734439733,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The U.S. has long been a nation of immigrants, including internal migration by people with birthright citizenship. Yes, balancing this with the preservation of communities and personal ties, notably family relationships, is important. However, we should never strive to become like the complacent and unambitious Europeans\u2014communities from which many of our ancestors fled in search of the opportunities offered by the American project."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 81894551,
+    "parent_children": 3,
+    "thread_id": 81890659,
+    "thread_children": 11,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 13.8,
+    "word_count": 63,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
