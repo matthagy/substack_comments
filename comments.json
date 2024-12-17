@@ -50944,7 +50944,10 @@
     "grade_level": 15.0,
     "word_count": 108,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "housing affordability"
+    ]
   },
   {
     "post_id": 153234011,
@@ -50976,6 +50979,9 @@
     "grade_level": 13.8,
     "word_count": 63,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "immigration issues",
+      "US politics"
+    ]
   }
 ]
