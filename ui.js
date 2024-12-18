@@ -261,7 +261,7 @@ const loadComments = async () => {
         });
 
         clearChildren(commentCount);
-        commentCount.appendChild(document.createTextNode(`${comments.length} matching comments`));
+        commentCount.appendChild(document.createTextNode(`${comments.length} matching comments out of ${allComments.length} total`));
 
         let pages = 1;
         if (showComments !== 'all') {
