@@ -50918,7 +50918,7 @@
     "id": 81898610,
     "top_level": false,
     "date": "Dec 17 2024 07:42",
-    "likes": 5,
+    "likes": 21,
     "timestamp": 1734439358,
     "body": [
       [
@@ -50934,13 +50934,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 81893542,
-    "parent_children": 2,
+    "parent_children": 16,
     "thread_id": 81893542,
-    "thread_children": 2,
-    "ratio_recv": null,
-    "ratio_give": -5,
+    "thread_children": 16,
+    "ratio_recv": -15,
+    "ratio_give": -22,
     "grade_level": 15.0,
     "word_count": 108,
     "category": "Uncategorized",
@@ -50959,7 +50959,7 @@
     "id": 81899271,
     "top_level": false,
     "date": "Dec 17 2024 07:48",
-    "likes": 1,
+    "likes": 9,
     "timestamp": 1734439733,
     "body": [
       [
@@ -50969,13 +50969,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 8,
     "parent_id": 81894551,
-    "parent_children": 3,
+    "parent_children": 15,
     "thread_id": 81890659,
-    "thread_children": 11,
-    "ratio_recv": null,
-    "ratio_give": 0,
+    "thread_children": 52,
+    "ratio_recv": -5,
+    "ratio_give": -13,
     "grade_level": 13.8,
     "word_count": 63,
     "category": "Uncategorized",
@@ -50994,7 +50994,7 @@
     "id": 81901506,
     "top_level": false,
     "date": "Dec 17 2024 08:08",
-    "likes": 0,
+    "likes": 9,
     "timestamp": 1734440917,
     "body": [
       [
@@ -51010,13 +51010,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 6,
     "parent_id": 81893027,
-    "parent_children": 4,
+    "parent_children": 38,
     "thread_id": 81893027,
-    "thread_children": 4,
-    "ratio_recv": null,
-    "ratio_give": -13,
+    "thread_children": 38,
+    "ratio_recv": -1,
+    "ratio_give": -51,
     "grade_level": 14.2,
     "word_count": 88,
     "category": "Uncategorized",
@@ -51026,5 +51026,37 @@
       "political accountability",
       "US politics"
     ]
+  },
+  {
+    "post_id": 153234011,
+    "title": "Are place-based policies targeting the wrong distressed areas?",
+    "canonical_url": "https://www.slowboring.com/p/are-place-based-policies-targeting",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81920458,
+    "top_level": false,
+    "date": "Dec 17 2024 10:20",
+    "likes": 3,
+    "timestamp": 1734448819,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Fine if individual people and families choose that given the costs/benefits of their different options. Ie, cool to forgo material standards of living and vocational opportunities to maintain community. But that certainly isn't something that government should be subsidizing and any employment programs targeting these communities should focus on relocation."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 81914585,
+    "parent_children": 5,
+    "thread_id": 81890659,
+    "thread_children": 52,
+    "ratio_recv": -1,
+    "ratio_give": -1,
+    "grade_level": 14.5,
+    "word_count": 50,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
