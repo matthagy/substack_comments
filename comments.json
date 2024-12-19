@@ -50918,7 +50918,7 @@
     "id": 81898610,
     "top_level": false,
     "date": "Dec 17 2024 07:42",
-    "likes": 23,
+    "likes": 25,
     "timestamp": 1734439358,
     "body": [
       [
@@ -50936,10 +50936,10 @@
     ],
     "total_children": 3,
     "parent_id": 81893542,
-    "parent_children": 16,
+    "parent_children": 17,
     "thread_id": 81893542,
-    "thread_children": 16,
-    "ratio_recv": -16,
+    "thread_children": 17,
+    "ratio_recv": -18,
     "ratio_give": -22,
     "grade_level": 15.0,
     "word_count": 108,
@@ -51012,11 +51012,11 @@
     ],
     "total_children": 6,
     "parent_id": 81893027,
-    "parent_children": 44,
+    "parent_children": 46,
     "thread_id": 81893027,
-    "thread_children": 44,
+    "thread_children": 46,
     "ratio_recv": 0,
-    "ratio_give": -52,
+    "ratio_give": -56,
     "grade_level": 14.2,
     "word_count": 88,
     "category": "Uncategorized",
@@ -51056,6 +51056,50 @@
     "ratio_give": -2,
     "grade_level": 14.5,
     "word_count": 50,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153073402,
+    "title": "From the veal pen to The Groups ",
+    "canonical_url": "https://www.slowboring.com/p/from-the-veal-pen-to-the-groups",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 82106468,
+    "top_level": false,
+    "date": "Dec 18 2024 13:17",
+    "likes": 3,
+    "timestamp": 1734545855,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Moreover, I am very hopeful that the continued fragmentation of online spaces will help dilute the harm of these donations by spreading them over a larger number of independent, non-coordinated actors. For example, Musk is smearing crap all over Twitter, yet the exodus isn\u2019t collecting at any Mastodon instance, and even BlueSky is nothing like 2021 Twitter. That should impede the creation of future medium-to-large small-donor movements and, moreover, draw away current funding of existing ones to a plethora of harmless micro movement-esque communities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To this end, we\u2019re primarily aided by the deemphasis of \u201csocial\u201d in social media, with more and more content coming not through algorithmic prioritization of your follows, but instead by scouring the entire network for whatever will be most salient to you in the moment. It\u2019s far harder for large-scale movements to coalesce when everyone is in their own ever-more-personalized echo chamber. And, like everything else, generative AI will transform this like nothing before. There\u2019s will be no need to find the best content on a site when the site can instead directly generate exactly what you crave in the moment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We just need to muddle through these next few years toward our salvation: the perfect alienation of anyone who could have previously found their way into an online mob."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 82067649,
+    "parent_children": 10,
+    "thread_id": 82047946,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": -16,
+    "grade_level": 13.8,
+    "word_count": 215,
     "category": "Uncategorized",
     "tags": []
   }
