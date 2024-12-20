@@ -51157,7 +51157,7 @@
     "id": 82371659,
     "top_level": false,
     "date": "Dec 20 2024 08:27",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1734701245,
     "body": [
       [
@@ -51178,8 +51178,8 @@
     "parent_children": 7,
     "thread_id": 82359938,
     "thread_children": 7,
-    "ratio_recv": 7,
-    "ratio_give": -20,
+    "ratio_recv": 8,
+    "ratio_give": -21,
     "grade_level": 9.8,
     "word_count": 101,
     "category": "Uncategorized",
@@ -51210,8 +51210,8 @@
     "parent_children": 4,
     "thread_id": 82359938,
     "thread_children": 7,
-    "ratio_recv": 0,
-    "ratio_give": -9,
+    "ratio_recv": 1,
+    "ratio_give": -11,
     "grade_level": 6.6,
     "word_count": 22,
     "category": "Uncategorized",
@@ -51227,7 +51227,7 @@
     "id": 82386194,
     "top_level": false,
     "date": "Dec 20 2024 10:07",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1734707275,
     "body": [
       [
@@ -51261,7 +51261,7 @@
     "thread_id": 82360648,
     "thread_children": 13,
     "ratio_recv": null,
-    "ratio_give": -15,
+    "ratio_give": -16,
     "grade_level": 11.2,
     "word_count": 164,
     "category": "Uncategorized",
