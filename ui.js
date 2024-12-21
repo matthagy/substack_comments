@@ -116,9 +116,11 @@ const loadComments = async () => {
     };
 
     const readParamsFromHash = () => {
-        if (!window.location.hash) return;
-        const hash = window.location.hash.substring(1); // remove '#'
+        console.info('attempt readParamsFromHash');
+
+        const hash = (window.location.hash || '').substring(1); // remove '#'
         const params = new URLSearchParams(hash);
+        console.info('start readParamsFromHash', params);
 
         if (params.has('sort')) sortSelect.value = params.get('sort');
         if (params.has('type')) typeSelect.value = params.get('type');
@@ -135,12 +137,14 @@ const loadComments = async () => {
                 tagsSelect.options[i].selected = selectedTags.includes(tagsSelect.options[i].value);
             }
         }
-
         hasReadHashParams = true;
+        console.info('finish readParamsFromHash', params);
     };
 
     const writeParamsToHash = () => {
-        if (!hasReadHashParams) return;
+        if (!hasReadHashParams) {
+            console.warn('writeParamsToHash skipped');
+        }
 
         const params = new URLSearchParams();
         params.set('sort', sortSelect.value);
@@ -158,14 +162,15 @@ const loadComments = async () => {
         }
 
         window.location.hash = params.toString();
+        console.info('finish writeParamsToHash', params);
     };
 
     const update = () => {
         if (updating) {
-            console.log('recursive update');
+            console.warn('recursive update');
             return;
         }
-        console.log('updating');
+        console.log('start updating');
         updating = true;
         const startTime = new Date().getTime();
         const selectCommentType = typeSelect.value;
@@ -310,11 +315,12 @@ const loadComments = async () => {
         comments.forEach(comment => {
             renderComment(comment, termsMatcher);
         });
-        updating = false;
-        const endTime = new Date().getTime();
-        console.log(`update took ${endTime - startTime}ms`);
 
         writeParamsToHash();
+
+        const endTime = new Date().getTime();
+        console.log(`update took ${endTime - startTime}ms`);
+        updating = false;
     };
 
     const clearChildren = (node) => {
@@ -465,12 +471,8 @@ const loadComments = async () => {
         }, 0);
     };
 
-    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
-        select.addEventListener("change", update);
-    });
-    searchInput.addEventListener("input", debounceUpdate);
-
-    resetButton.addEventListener('click', () => {
+    function reset() {
+        console.info('attempt reset');
         sortSelect.value = initialParams.sort;
         typeSelect.value = initialParams.type;
         showSelect.value = initialParams.show;
@@ -485,10 +487,19 @@ const loadComments = async () => {
         }
 
         update();
+        console.info('finish reset');
+    }
+
+    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
+        select.addEventListener("change", update);
     });
+    searchInput.addEventListener("input", debounceUpdate);
+
+    resetButton.addEventListener('click', reset);
 
     readParamsFromHash();
     update();
+    console.log('finished loadComments')
 };
 
 window.addEventListener('DOMContentLoaded', loadComments);
