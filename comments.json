@@ -51178,7 +51178,7 @@
     "parent_children": 7,
     "thread_id": 82359938,
     "thread_children": 7,
-    "ratio_recv": 8,
+    "ratio_recv": 9,
     "ratio_give": -21,
     "grade_level": 9.8,
     "word_count": 101,
@@ -51211,7 +51211,7 @@
     "thread_id": 82359938,
     "thread_children": 7,
     "ratio_recv": 1,
-    "ratio_give": -11,
+    "ratio_give": -12,
     "grade_level": 6.6,
     "word_count": 22,
     "category": "Uncategorized",
@@ -51264,6 +51264,48 @@
     "ratio_give": -16,
     "grade_level": 11.2,
     "word_count": 164,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153431514,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-a4e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 82468718,
+    "top_level": false,
+    "date": "Dec 20 2024 20:09",
+    "likes": 0,
+    "timestamp": 1734743386,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Interesting. Tried it just now, and, personally, I wasn't able to get into that one currently. Instead, I've been keeping myself distracted with work and other stuff under my control so I've just been looping*, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=RYnFIRc0k6E"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* I just the other day learned you can actually loop YouTube videos w/: Right-click the video and select \u201cLoop\u201d. Seems self evident now. Always thought of that as more of a Spotify thing"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 82450415,
+    "parent_children": 12,
+    "thread_id": 82450415,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 7.6,
+    "word_count": 68,
     "category": "Uncategorized",
     "tags": []
   }
