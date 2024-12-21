@@ -102,6 +102,7 @@ const loadComments = async () => {
         return [terms, input];
     };
 
+    let hasReadHashParams = false;
     const initialParams = {
         sort: sortSelect.value,
         type: typeSelect.value,
@@ -134,9 +135,13 @@ const loadComments = async () => {
                 tagsSelect.options[i].selected = selectedTags.includes(tagsSelect.options[i].value);
             }
         }
+
+        hasReadHashParams = true;
     };
 
     const writeParamsToHash = () => {
+        if (!hasReadHashParams) return;
+
         const params = new URLSearchParams();
         params.set('sort', sortSelect.value);
         params.set('type', typeSelect.value);
@@ -336,6 +341,7 @@ const loadComments = async () => {
         entryDiv.classList.add('entry');
 
         const metaDiv = document.createElement('div');
+        metaDiv.classList.add('metaContainer');
         entryDiv.appendChild(metaDiv);
 
         const createText = (text, cssClass) => {
