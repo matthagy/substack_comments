@@ -336,6 +336,20 @@ const loadComments = async () => {
         return link;
     };
 
+    const extractDomainComponents = (url) => {
+        try {
+            const hostname = new URL(url).hostname;
+            const urlParts = hostname.split('.');
+            if (urlParts.length >= 2) {
+                return urlParts.slice(-2).join('.'); // Last two components
+            }
+            return hostname; // Fallback to full hostname
+        } catch (error) {
+            console.error('Invalid URL:', url);
+            return 'unknown'; // Fallback for completely invalid URLs
+        }
+    };
+
     const renderComment = (comment, termsMatcher) => {
         const entryDiv = document.createElement('div');
         entryDiv.classList.add('entry');
@@ -345,10 +359,10 @@ const loadComments = async () => {
         entryDiv.appendChild(metaDiv);
 
         const createText = (text, cssClass) => {
-            const likeSpan = document.createElement('span');
-            metaDiv.appendChild(likeSpan);
-            likeSpan.classList.add(cssClass);
-            likeSpan.appendChild(document.createTextNode(text));
+            const textSpan = document.createElement('span');
+            metaDiv.appendChild(textSpan);
+            textSpan.classList.add(cssClass);
+            textSpan.appendChild(document.createTextNode(text));
         };
 
         const createCommentLink = (commentId, text) => {
@@ -358,6 +372,8 @@ const loadComments = async () => {
         createText(comment['name'], 'name');
         createText(`❤ ${comment['likes']}, ${comment['date']}, FK=${comment['grade_level']}`, 'meta');
         metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
+        let domain = extractDomainComponents(comment['canonical_url']);
+        createText(`[${domain}]`, 'meta');
         createCommentLink(comment.id,
             `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
 
