@@ -423,10 +423,8 @@ const loadComments = async () => {
                     createHighlightedText(para, span['value'], termsMatcher);
                     break;
                 case 'url':
-                    const link = document.createElement('a');
-                    para.appendChild(createLink(span['value'], span['value'], 'link'));
-                    link.classList.add('link');
-                    link.setAttribute('href', span['value']);
+                    const link = createLink(span['value'], span['value'], 'link');
+                    para.appendChild(link);
                     createHighlightedText(link, span['value'], termsMatcher);
             }
         });
