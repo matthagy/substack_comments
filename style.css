@@ -141,7 +141,11 @@ a.link {
 }
 
 span.highlight {
-    color: #ff5252;
+    background-color: rgba(59, 130, 246, 0.2); /* Light teal background */
+    color: #e0e0e0;
+    border: 1px solid rgba(59, 130, 246, 0.8); /* Teal border with solid emphasis */
+    border-radius: 1px; /* Slightly rounded edges */
+    padding: 0 2px; /* Minimal padding for tight, clean spacing */
 }
 
 p {
