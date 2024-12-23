@@ -423,9 +423,10 @@ const loadComments = async () => {
                     createHighlightedText(para, span['value'], termsMatcher);
                     break;
                 case 'url':
-                    const link = createLink(span['value'], span['value'], 'link');
+                    const textNode = document.createElement('span');
+                    const link = createLink(span['value'], textNode, 'link');
                     para.appendChild(link);
-                    createHighlightedText(link, span['value'], termsMatcher);
+                    createHighlightedText(textNode, span['value'], termsMatcher);
             }
         });
         return para;
