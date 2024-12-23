@@ -51308,5 +51308,61 @@
     "word_count": 68,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 153211734,
+    "title": "Liberalism not socialism",
+    "canonical_url": "https://www.slowboring.com/p/liberalism-not-socialism",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 82832271,
+    "top_level": false,
+    "date": "Dec 23 2024 15:56",
+    "likes": 3,
+    "timestamp": 1734987410,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Bloomberg is also solid on business, tech, finance, etc because they're targeting an audience of financial professionals and hobbyists. (It's generally accepted that their media business is a loss leader to promote their financial data services, bloomberg terminal, etc.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They offer a diverse range of media products; everything from in-depth reporting on a range of topics from business to geopolitics, narrow newsletters and podcasts, as well as their streaming TV products."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You can even find most of their video programming free on youtube with just a few hours lag, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/@markets"
+        },
+        {
+          "type": "text",
+          "value": " . If you're curious, I'd recommend starting w/ their morning show, Surveillance, because it's both entertaining and informative. Eg, here's their special edition on the recent Fed decision, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=LAf5pxNukoM"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 82816237,
+    "parent_children": 2,
+    "thread_id": 82758487,
+    "thread_children": 66,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 10.8,
+    "word_count": 116,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
