@@ -70,11 +70,19 @@ select {
     border: 1px solid #444444;
 }
 
-#search {
-    min-width: 40em;
-    background-color: #1e1e1e;
-    color: #fafafa;
-    border: 1px solid #444444;
+@media (max-width: 800px) {
+    input, select {
+        max-width: 30em;
+    }
+    #search {
+        min-width: 30em;
+    }
+}
+
+@media (min-width: 800px) {
+    #search {
+        min-width: 40em;
+    }
 }
 
 .entry {
@@ -102,7 +110,7 @@ select {
     margin-right: 6px;
 }
 
-a.meta, .post-title  {
+a.meta, .post-title {
     text-decoration: underline;
     text-underline-offset: 4px;
 }
@@ -123,8 +131,17 @@ a.meta, .post-title  {
     font-size: 12px;
 }
 
-.category {
-    text-wrap: nowrap;
+
+@media (max-width: 800px) {
+    .category {
+        text-wrap: wrap;
+    }
+}
+
+@media (min-width: 800px) {
+    .category {
+        text-wrap: nowrap;
+    }
 }
 
 .tag {
