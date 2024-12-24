@@ -44,15 +44,33 @@ const loadComments = async () => {
         categorySelect.add(option);
     });
 
+    const generateHSVPalette = (n) => {
+        const palette = [];
+        for (let i = 0; i < n; i++) {
+            const hue = (i / n) * 360; // Evenly spaced hues around the color wheel
+            const saturation = 70; // Moderate saturation for vibrant yet soft colors
+            const value = 50;
+            const alpha = 0.3;
+            palette.push(`hsla(${hue}, ${saturation}%, ${value}%, ${alpha})`);
+        }
+        return palette;
+    };
+
     const tagsCount = {};
     allComments.forEach(comment => {
-        comment.tags.forEach(tag => {
-            tagsCount[tag] = (tagsCount[tag] || 0) + 1;
-        });
+        comment.tags.forEach(tag => tagsCount[tag] = (tagsCount[tag] || 0) + 1);
     });
+    const allTags = Object.keys(tagsCount);
+    const topTags = allTags.sort((a, b) => tagsCount[b] - tagsCount[a]).slice(0, 20);
+    console.log('topTags', topTags.map(tag => `${tag} (${tagsCount[tag]})`));
+    const tagsColorArray = generateHSVPalette(topTags.length);
+    const tagColors = topTags.reduce((acc, tag, index) => {
+        acc[tag] = tagsColorArray[index];
+        return acc;
+    }, {});
 
-    Object.keys(tagsCount).sort((a, b) => a.localeCompare(b))
-        .filter(tag => tagsCount[tag] > 5)
+    allTags.filter(tag => tagsCount[tag] > 5)
+        .sort((a, b) => a.localeCompare(b))
         .forEach(tag => {
             const option = document.createElement('option');
             option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
@@ -138,7 +156,7 @@ const loadComments = async () => {
             }
         }
         hasReadHashParams = true;
-        console.info('finish readParamsFromHash', params);
+        console.info('finish readParamsFromHash');
     };
 
     const writeParamsToHash = () => {
@@ -281,7 +299,7 @@ const loadComments = async () => {
             console.log(`pages=${pages} pageNumber=${pageNumber}`);
             const start = (pageNumber - 1) * commentsToShow;
             const end = pageNumber * commentsToShow;
-            console.log(`slice ${start} ${end}`);
+            console.log(`comments slice indexes ${start}:${end}`);
             comments = comments.slice(start, end);
             console.log(`comments.length=${comments.length}`);
         }
@@ -365,6 +383,9 @@ const loadComments = async () => {
         entryDiv.appendChild(metaDiv);
 
         const createText = (text, cssClass) => {
+            if (typeof text !== 'string') {
+                throw new Error(`Expected string, got ${typeof text} for ${text}`);
+            }
             const textSpan = document.createElement('span');
             metaDiv.appendChild(textSpan);
             textSpan.classList.add(cssClass);
@@ -380,41 +401,42 @@ const loadComments = async () => {
         metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
         let domain = extractDomainComponents(comment['canonical_url']);
         createText(`[${domain}]`, 'meta');
-        createCommentLink(comment.id,
-            `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
+        createCommentLink(comment.id, `${comment['top_level'] ? 'top-level' : 'reply'} (${comment['total_children']})`);
 
-        if (!comment.top_level) {
-            createCommentLink(comment.thread_id, `thread (${comment.thread_children})`);
-            createCommentLink(comment.parent_id, `parent (${comment.parent_children})`);
+        if (!comment['top_level']) {
+            createCommentLink(comment['thread_id'], `thread (${comment['thread_children']})`);
+            createCommentLink(comment['parent_id'], `parent (${comment['parent_children']})`);
         }
 
-        const categoryDiv = document.createElement('div');
-        categoryDiv.classList.add('category');
-        categoryDiv.appendChild(document.createTextNode(`Category: ${comment['category']}`));
-        metaDiv.appendChild(categoryDiv);
-
-        const tagsDiv = document.createElement('div');
+        const tagsDiv = document.createElement('span');
         tagsDiv.classList.add('tags');
         comment['tags'].sort((a, b) => a.localeCompare(b))
             .forEach(tag => {
                 const tagSpan = document.createElement('span');
                 tagSpan.classList.add('tag');
+                const tagColor = tagColors[tag];
+                if (tagColor) {
+                    tagSpan.style.backgroundColor = tagColor;
+                }
                 tagSpan.appendChild(document.createTextNode(tag));
                 tagsDiv.appendChild(tagSpan);
             });
         metaDiv.appendChild(tagsDiv);
 
+        const categoryDiv = document.createElement('span');
+        categoryDiv.classList.add('category');
+        categoryDiv.appendChild(document.createTextNode(`Category: ${comment['category']}`));
+        metaDiv.appendChild(categoryDiv);
+
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');
         entryDiv.appendChild(commentDiv);
 
-        comment['body'].forEach(paragraph => {
-            commentDiv.appendChild(createParagraph(paragraph, termsMatcher));
-        });
+        comment['body'].forEach(block => commentDiv.appendChild(createBodyBlock(block, termsMatcher)));
         commentsDiv.appendChild(entryDiv);
     };
 
-    const createParagraph = (paragraph, termsMatcher) => {
+    const createBodyBlock = (paragraph, termsMatcher) => {
         const para = document.createElement('p');
         para.classList.add('comment-text');
         paragraph.forEach(span => {

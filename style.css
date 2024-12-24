@@ -90,6 +90,8 @@ select {
     font-weight: 200; /* Slightly heavier */
     line-height: 1.2; /* Improved spacing */
     letter-spacing: 0.02em; /* More space between letters */
+    display: inline-block; /* Ensure inline behavior of all children */
+    width: 100%; /* Adjust width if the container is too narrow */
 }
 
 .name,
@@ -118,20 +120,21 @@ a.meta, .post-title  {
 .tags {
     color: #cccccc;
     margin-top: 6px;
-    display: inline-block;
     font-size: 12px;
+}
+
+.category {
+    text-wrap: nowrap;
 }
 
 .tag {
     border: 1px solid #444444;
     border-radius: 3px;
     padding: 2px 4px;
-    margin-right: 4px;
-    color: #cccccc;
-    background-color: #222222;
+    margin: 4px 4px 2px 0; /* Consistent spacing */
     white-space: nowrap;
-    display: inline-flex;
     align-items: center;
+    display: inline-block; /* Adjust for inline behavior */
 }
 
 a.link {
