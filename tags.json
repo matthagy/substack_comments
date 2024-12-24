@@ -10,17 +10,17 @@
     "economic inequality",
     "social justice"
   ],
+  "10138366": [
+    "economic policy",
+    "technology ethics",
+    "labor unions"
+  ],
   "13140414": [
     "public misinformation",
     "political polarization",
     "political leadership",
     "voter behavior",
     "media influence"
-  ],
-  "10138366": [
-    "economic policy",
-    "technology ethics",
-    "labor unions"
   ],
   "12967487": [
     "political leadership",
@@ -41,12 +41,6 @@
     "voter behavior",
     "electoral integrity"
   ],
-  "12967833": [
-    "trust in institutions",
-    "political polarization",
-    "social media influence",
-    "political leadership"
-  ],
   "10976922": [
     "media bias",
     "political judgment",
@@ -57,6 +51,12 @@
     "economic policy",
     "media influence",
     "social media influence"
+  ],
+  "12967833": [
+    "trust in institutions",
+    "political polarization",
+    "social media influence",
+    "political leadership"
   ],
   "6266728": [
     "political polarization",
@@ -82,12 +82,18 @@
     "economic inequality",
     "social justice"
   ],
-  "8712397": [
-    "labor unions",
-    "economic inequality",
-    "education reform",
-    "corporate accountability",
-    "social media influence"
+  "7165152": [
+    "mental health",
+    "housing affordability",
+    "public safety",
+    "drug policy"
+  ],
+  "10812862": [
+    "healthcare complexity",
+    "political leadership",
+    "economic policy",
+    "political polarization",
+    "public health policy"
   ],
   "10837150": [
     "urban development",
@@ -95,6 +101,13 @@
     "political accountability",
     "renewable energy",
     "cancel culture"
+  ],
+  "8712397": [
+    "labor unions",
+    "economic inequality",
+    "education reform",
+    "corporate accountability",
+    "social media influence"
   ],
   "56030169": [
     "economic inequality",
@@ -117,32 +130,19 @@
     "media influence",
     "corporate accountability"
   ],
-  "7165152": [
-    "mental health",
-    "housing affordability",
-    "public safety",
-    "drug policy"
-  ],
   "7426985": [
     "social media influence",
     "political polarization",
     "activism"
   ],
-  "10812862": [
-    "healthcare complexity",
-    "political leadership",
-    "economic policy",
-    "political polarization",
-    "public health policy"
-  ],
-  "13597172": [
-    "social justice",
-    "economic inequality"
-  ],
   "7260227": [
     "activism",
     "political accountability",
     "social justice"
+  ],
+  "13597172": [
+    "social justice",
+    "economic inequality"
   ],
   "16209790": [
     "US politics",
@@ -150,15 +150,22 @@
     "student debt",
     "political accountability"
   ],
+  "11001701": [
+    "political leadership",
+    "political accountability",
+    "infrastructure"
+  ],
   "15291653": [
     "media influence",
     "digital privacy",
     "technology ethics"
   ],
-  "11001701": [
-    "political leadership",
+  "10787805": [
+    "trust in institutions",
+    "economic policy",
+    "voter behavior",
     "political accountability",
-    "infrastructure"
+    "welfare policy"
   ],
   "45242472": [
     "media influence",
@@ -170,34 +177,15 @@
     "political accountability",
     "corporate accountability"
   ],
-  "52877700": [
-    "religious freedom",
-    "social justice",
-    "political polarization"
-  ],
   "11116225": [
     "voter behavior",
     "political campaigns",
     "political polarization"
   ],
-  "10787805": [
-    "trust in institutions",
-    "economic policy",
-    "voter behavior",
-    "political accountability",
-    "welfare policy"
-  ],
-  "14532533": [
-    "economic policy",
-    "trust in institutions",
-    "corporate accountability"
-  ],
-  "8313885": [
-    "political polarization",
-    "political campaigns",
-    "voter behavior",
-    "political accountability",
-    "media bias"
+  "52877700": [
+    "religious freedom",
+    "social justice",
+    "political polarization"
   ],
   "60089271": [
     "media influence",
@@ -206,9 +194,17 @@
     "media bias",
     "political accountability"
   ],
-  "15023596": [
-    "corporate accountability",
-    "economic policy"
+  "8313885": [
+    "political polarization",
+    "political campaigns",
+    "voter behavior",
+    "political accountability",
+    "media bias"
+  ],
+  "64541549": [
+    "political polarization",
+    "media influence",
+    "public misinformation"
   ],
   "11752579": [
     "media influence",
@@ -217,12 +213,19 @@
     "political accountability",
     "trust in institutions"
   ],
-  "66991160": [
-    "environmental impact"
+  "14532533": [
+    "economic policy",
+    "trust in institutions",
+    "corporate accountability"
   ],
-  "6550309": [
-    "social justice",
-    "political leadership"
+  "15023596": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "16169126": [
+    "political campaigns",
+    "voter behavior",
+    "political polarization"
   ],
   "45014120": [
     "media influence",
@@ -231,15 +234,12 @@
     "political campaigns",
     "political polarization"
   ],
-  "16169126": [
-    "political campaigns",
-    "voter behavior",
-    "political polarization"
+  "66991160": [
+    "environmental impact"
   ],
-  "64541549": [
-    "political polarization",
-    "media influence",
-    "public misinformation"
+  "6550309": [
+    "social justice",
+    "political leadership"
   ],
   "7252326": [
     "media influence"
@@ -253,21 +253,6 @@
     "environmental impact",
     "economic inequality",
     "activism"
-  ],
-  "16969597": [
-    "political polarization",
-    "education inequality",
-    "gender equality",
-    "political campaigns"
-  ],
-  "12343344": [
-    "economic policy",
-    "pandemic response"
-  ],
-  "17057790": [
-    "media influence",
-    "media bias",
-    "economic policy"
   ],
   "13565270": [
     "US politics",
@@ -283,24 +268,32 @@
     "public misinformation",
     "US politics"
   ],
-  "70493060": [
-    "free speech issues",
-    "media influence",
-    "censorship"
+  "12343344": [
+    "economic policy",
+    "pandemic response"
   ],
-  "7006538": [
-    "social media influence",
-    "media influence",
-    "religious freedom",
-    "media bias",
-    "political polarization"
-  ],
-  "73749516": [
+  "16969597": [
     "political polarization",
-    "political leadership",
-    "labor unions",
-    "US politics",
+    "education inequality",
+    "gender equality",
+    "political campaigns"
+  ],
+  "10530603": [
+    "corporate accountability",
+    "economic policy",
+    "media influence"
+  ],
+  "17057790": [
+    "media influence",
+    "media bias",
     "economic policy"
+  ],
+  "6364395": [
+    "housing affordability",
+    "economic policy",
+    "media bias",
+    "corporate accountability",
+    "public misinformation"
   ],
   "8241339": [
     "political polarization",
@@ -309,12 +302,24 @@
     "US politics",
     "immigration issues"
   ],
-  "6364395": [
-    "housing affordability",
-    "economic policy",
+  "70493060": [
+    "free speech issues",
+    "media influence",
+    "censorship"
+  ],
+  "73749516": [
+    "political polarization",
+    "political leadership",
+    "labor unions",
+    "US politics",
+    "economic policy"
+  ],
+  "7006538": [
+    "social media influence",
+    "media influence",
+    "religious freedom",
     "media bias",
-    "corporate accountability",
-    "public misinformation"
+    "political polarization"
   ],
   "55610713": [
     "mental health",
@@ -328,21 +333,21 @@
     "public misinformation",
     "Russia-Ukraine conflict"
   ],
-  "10530603": [
-    "corporate accountability",
+  "64662013": [
     "economic policy",
-    "media influence"
-  ],
-  "12804346": [
-    "media influence",
-    "economic policy",
-    "media bias"
+    "political behavior",
+    "voter behavior"
   ],
   "12406500": [
     "US politics",
     "political campaigns",
     "economic policy",
     "voter behavior"
+  ],
+  "12804346": [
+    "media influence",
+    "economic policy",
+    "media bias"
   ],
   "58138009": [
     "political leadership",
@@ -353,6 +358,10 @@
   "11864532": [
     "economic policy"
   ],
+  "44362145": [
+    "AI and ethics",
+    "technology ethics"
+  ],
   "11167548": [
     "digital privacy",
     "drug policy",
@@ -360,25 +369,16 @@
     "cryptocurrency",
     "technology ethics"
   ],
-  "74563927": [
-    "economic inequality",
-    "corporate accountability",
-    "economic policy",
-    "media influence"
-  ],
-  "64662013": [
-    "economic policy",
-    "political behavior",
-    "voter behavior"
-  ],
   "11025759": [
     "education reform",
     "technology ethics",
     "digital privacy"
   ],
-  "44362145": [
-    "AI and ethics",
-    "technology ethics"
+  "74563927": [
+    "economic inequality",
+    "corporate accountability",
+    "economic policy",
+    "media influence"
   ],
   "12967089": [
     "political polarization",
@@ -394,12 +394,13 @@
     "trust in institutions",
     "US politics"
   ],
+  "12670971": [
+    "media influence",
+    "social justice",
+    "gender equality"
+  ],
   "48444478": [
     "media influence"
-  ],
-  "6399846": [
-    "social media influence",
-    "media bias"
   ],
   "16564286": [
     "education inequality",
@@ -407,29 +408,23 @@
     "education reform",
     "political accountability"
   ],
-  "12670971": [
+  "6399846": [
+    "social media influence",
+    "media bias"
+  ],
+  "7029273": [
     "media influence",
-    "social justice",
-    "gender equality"
-  ],
-  "15823256": [
-    "AI and ethics",
-    "technology ethics",
-    "media influence",
-    "public misinformation",
-    "digital privacy"
-  ],
-  "57782045": [
-    "corporate accountability",
-    "economic policy",
-    "market dynamics"
-  ],
-  "10481291": [
-    "political accountability",
+    "political leadership",
     "political polarization",
     "media bias",
-    "free speech issues",
-    "US politics"
+    "social media influence"
+  ],
+  "11282409": [
+    "public health",
+    "healthcare complexity",
+    "freedom of choice",
+    "government intervention",
+    "public safety"
   ],
   "76529324": [
     "economic policy",
@@ -444,12 +439,36 @@
     "Russia-Ukraine conflict",
     "energy policy"
   ],
-  "7029273": [
-    "media influence",
-    "political leadership",
+  "10481291": [
+    "political accountability",
     "political polarization",
     "media bias",
-    "social media influence"
+    "free speech issues",
+    "US politics"
+  ],
+  "15823256": [
+    "AI and ethics",
+    "technology ethics",
+    "media influence",
+    "public misinformation",
+    "digital privacy"
+  ],
+  "7280853": [
+    "human rights",
+    "animal rights",
+    "AI and ethics"
+  ],
+  "57782045": [
+    "corporate accountability",
+    "economic policy",
+    "market dynamics"
+  ],
+  "80011466": [
+    "corporate accountability",
+    "technology ethics",
+    "US politics",
+    "media influence",
+    "antitrust issues"
   ],
   "7380373": [
     "inflation",
@@ -464,16 +483,8 @@
     "media influence",
     "banking regulation"
   ],
-  "13597694": [
-    "political polarization",
+  "10456299": [
     "economic policy"
-  ],
-  "11282409": [
-    "public health",
-    "healthcare complexity",
-    "freedom of choice",
-    "government intervention",
-    "public safety"
   ],
   "12231341": [
     "US politics",
@@ -482,12 +493,9 @@
     "political accountability",
     "economic policy"
   ],
-  "7476897": [
-    "economic policy",
-    "corporate accountability",
-    "consumer protection",
-    "financial regulation",
-    "US politics"
+  "13597694": [
+    "political polarization",
+    "economic policy"
   ],
   "61224987": [
     "economic inequality",
@@ -496,29 +504,15 @@
     "economic policy",
     "political accountability"
   ],
-  "7280853": [
-    "human rights",
-    "animal rights",
-    "AI and ethics"
+  "7476897": [
+    "economic policy",
+    "corporate accountability",
+    "consumer protection",
+    "financial regulation",
+    "US politics"
   ],
   "8942202": [
     "economic policy"
-  ],
-  "47643062": [
-    "education reform",
-    "trust in institutions"
-  ],
-  "8699550": [
-    "media influence",
-    "social media influence",
-    "media bias"
-  ],
-  "80011466": [
-    "corporate accountability",
-    "technology ethics",
-    "US politics",
-    "media influence",
-    "antitrust issues"
   ],
   "80408166": [
     "media influence",
@@ -527,11 +521,20 @@
     "foreign policy",
     "social media influence"
   ],
-  "73886014": [
+  "8699550": [
+    "media influence",
+    "social media influence",
+    "media bias"
+  ],
+  "47643062": [
+    "education reform",
+    "trust in institutions"
+  ],
+  "7099978": [
+    "climate change",
+    "activism",
     "corporate accountability",
-    "economic policy",
-    "AI and ethics",
-    "technology ethics"
+    "economic policy"
   ],
   "9860195": [
     "political campaigns",
@@ -540,29 +543,22 @@
     "US politics",
     "gender equality"
   ],
-  "61229516": [
-    "corporate accountability"
-  ],
-  "66557529": [
-    "media influence",
-    "political campaigns",
-    "media bias"
-  ],
-  "58758272": [
-    "social justice",
-    "media influence",
-    "public misinformation",
-    "mental health",
-    "economic inequality"
-  ],
   "12437300": [
     "public health",
     "mental health"
   ],
-  "12137020": [
-    "economic impact",
-    "pandemic response",
-    "economic policy"
+  "8567846": [
+    "economic inequality",
+    "political accountability",
+    "public misinformation",
+    "trust in institutions",
+    "political leadership"
+  ],
+  "73886014": [
+    "corporate accountability",
+    "economic policy",
+    "AI and ethics",
+    "technology ethics"
   ],
   "6228662": [
     "political polarization",
@@ -571,34 +567,25 @@
     "authoritarianism",
     "US politics"
   ],
-  "13029439": [
-    "political leadership",
-    "voter behavior",
-    "economic policy",
-    "US politics"
-  ],
-  "49948502": [
-    "political polarization",
-    "political leadership",
-    "trust in institutions",
+  "58758272": [
+    "social justice",
     "media influence",
-    "public misinformation"
-  ],
-  "7099978": [
-    "climate change",
-    "activism",
-    "corporate accountability",
-    "economic policy"
-  ],
-  "10456299": [
-    "economic policy"
-  ],
-  "8567846": [
-    "economic inequality",
-    "political accountability",
     "public misinformation",
-    "trust in institutions",
-    "political leadership"
+    "mental health",
+    "economic inequality"
+  ],
+  "12137020": [
+    "economic impact",
+    "pandemic response",
+    "economic policy"
+  ],
+  "61229516": [
+    "corporate accountability"
+  ],
+  "66557529": [
+    "media influence",
+    "political campaigns",
+    "media bias"
   ],
   "61229089": [
     "political leadership",
@@ -612,17 +599,42 @@
     "political campaigns",
     "political accountability"
   ],
-  "53676014": [
-    "polar: political polarization",
-    "trust in institutions",
-    "media influence"
+  "10763958": [
+    "economic inequality",
+    "mental health",
+    "political campaigns"
   ],
-  "10481051": [
-    "media influence",
+  "13029439": [
+    "political leadership",
+    "voter behavior",
+    "economic policy",
+    "US politics"
+  ],
+  "65209354": [
+    "economic policy",
+    "corporate accountability",
+    "US politics",
+    "political leadership"
+  ],
+  "49948502": [
     "political polarization",
-    "activism",
-    "media bias",
-    "political accountability"
+    "political leadership",
+    "trust in institutions",
+    "media influence",
+    "public misinformation"
+  ],
+  "40638863": [
+    "economic inequality",
+    "mental health"
+  ],
+  "81898610": [
+    "economic policy",
+    "housing affordability"
+  ],
+  "42331904": [
+    "media influence",
+    "public misinformation",
+    "media bias"
   ],
   "6246558": [
     "political leadership",
@@ -631,15 +643,24 @@
     "political accountability",
     "voter behavior"
   ],
+  "10137853": [
+    "media influence",
+    "social media influence",
+    "privacy issues",
+    "media bias",
+    "technology ethics"
+  ],
+  "6736898": [
+    "energy policy",
+    "environmental impact",
+    "pandemic response",
+    "economic policy"
+  ],
   "57004157": [
     "political accountability",
     "political campaigns",
     "US politics",
     "gender equality"
-  ],
-  "40638863": [
-    "economic inequality",
-    "mental health"
   ],
   "17057464": [
     "media influence",
@@ -655,29 +676,19 @@
     "political polarization",
     "social media influence"
   ],
-  "42331904": [
-    "media influence",
-    "public misinformation",
-    "media bias"
-  ],
-  "6736898": [
-    "energy policy",
-    "environmental impact",
-    "pandemic response",
-    "economic policy"
-  ],
-  "10137853": [
-    "media influence",
-    "social media influence",
-    "privacy issues",
-    "media bias",
-    "technology ethics"
-  ],
-  "65209354": [
+  "49523667": [
     "economic policy",
-    "corporate accountability",
-    "US politics",
-    "political leadership"
+    "labor unions",
+    "voter behavior",
+    "political campaigns",
+    "public misinformation"
+  ],
+  "10481051": [
+    "media influence",
+    "political polarization",
+    "activism",
+    "media bias",
+    "political accountability"
   ],
   "67651577": [
     "media influence",
@@ -686,14 +697,18 @@
     "social media influence",
     "gender equality"
   ],
-  "12671335": [
-    "gender equality",
-    "human rights",
-    "social justice"
+  "8872269": [
+    "education inequality",
+    "economic inequality"
   ],
   "7111874": [
     "political polarization",
     "voter behavior",
+    "media influence"
+  ],
+  "53676014": [
+    "polar: political polarization",
+    "trust in institutions",
     "media influence"
   ],
   "15292385": [
@@ -703,34 +718,42 @@
     "AI and ethics",
     "urban development"
   ],
-  "9808670": [
-    "inflation",
+  "12671335": [
+    "gender equality",
+    "human rights",
+    "social justice"
+  ],
+  "10618939": [
+    "political leadership",
+    "political campaigns",
+    "US politics",
     "economic policy",
-    "political accountability",
-    "voter behavior"
+    "political polarization"
+  ],
+  "8615151": [
+    "education reform",
+    "economic policy",
+    "student debt"
+  ],
+  "10481103": [
+    "media influence"
   ],
   "42395554": [
     "antisemitism",
     "human rights"
   ],
-  "13266758": [
-    "economic policy",
-    "corporate accountability"
-  ],
   "70777759": [
     "media influence",
     "digital privacy"
   ],
-  "15779005": [
-    "media influence",
-    "public misinformation",
-    "political polarization",
-    "corporate accountability",
-    "economic policy"
+  "63778483": [
+    "political leadership",
+    "political philosophy",
+    "political polarization"
   ],
-  "8872269": [
-    "education inequality",
-    "economic inequality"
+  "13266758": [
+    "economic policy",
+    "corporate accountability"
   ],
   "47641358": [
     "political leadership",
@@ -743,23 +766,6 @@
     "child safety",
     "social media influence"
   ],
-  "49523667": [
-    "economic policy",
-    "labor unions",
-    "voter behavior",
-    "political campaigns",
-    "public misinformation"
-  ],
-  "10763958": [
-    "economic inequality",
-    "mental health",
-    "political campaigns"
-  ],
-  "63778483": [
-    "political leadership",
-    "political philosophy",
-    "political polarization"
-  ],
   "11587693": [
     "economic inequality",
     "economic policy",
@@ -767,18 +773,49 @@
     "education reform",
     "labor structure"
   ],
-  "43387946": [],
+  "9808670": [
+    "inflation",
+    "economic policy",
+    "political accountability",
+    "voter behavior"
+  ],
+  "15779005": [
+    "media influence",
+    "public misinformation",
+    "political polarization",
+    "corporate accountability",
+    "economic policy"
+  ],
   "10164753": [
     "social justice",
     "media influence",
     "activism"
+  ],
+  "43387946": [],
+  "15823527": [
+    "economic impact",
+    "healthcare complexity",
+    "education reform",
+    "housing affordability"
   ],
   "12747176": [
     "AI and ethics",
     "technology ethics",
     "digital privacy"
   ],
-  "10481103": [
+  "5893555": [
+    "media influence",
+    "activism",
+    "social media influence"
+  ],
+  "56250756": [
+    "political polarization",
+    "social media influence",
+    "hate speech"
+  ],
+  "4807658": [
+    "digital privacy",
+    "technology ethics",
     "media influence"
   ],
   "10836948": [
@@ -794,49 +831,25 @@
     "social media influence",
     "privacy issues"
   ],
-  "10618939": [
-    "political leadership",
-    "political campaigns",
-    "US politics",
-    "economic policy",
-    "political polarization"
-  ],
-  "15823527": [
-    "economic impact",
-    "healthcare complexity",
-    "education reform",
-    "housing affordability"
-  ],
-  "4807658": [
-    "digital privacy",
-    "technology ethics",
-    "media influence"
-  ],
-  "56250756": [
+  "11193094": [
     "political polarization",
-    "social media influence",
-    "hate speech"
-  ],
-  "66751518": [
-    "economic inequality",
-    "media influence"
+    "trust in institutions",
+    "political leadership",
+    "media influence",
+    "political accountability"
   ],
   "11807316": [
     "economic policy",
     "US politics",
     "political accountability"
   ],
-  "10113835": [
+  "11353340": [
     "media influence",
-    "social media influence",
-    "free speech issues",
-    "media bias",
-    "technology ethics"
+    "social media influence"
   ],
-  "14677359": [
-    "economic policy",
+  "11605346": [
     "media influence",
-    "corporate accountability"
+    "education reform"
   ],
   "48435817": [
     "media influence",
@@ -845,30 +858,50 @@
     "technology ethics",
     "corporate accountability"
   ],
-  "5893555": [
+  "10113835": [
     "media influence",
-    "activism",
-    "social media influence"
+    "social media influence",
+    "free speech issues",
+    "media bias",
+    "technology ethics"
   ],
-  "11605346": [
+  "66751518": [
+    "economic inequality",
+    "media influence"
+  ],
+  "14677359": [
+    "economic policy",
     "media influence",
-    "education reform"
+    "corporate accountability"
   ],
-  "11353340": [
-    "media influence",
-    "social media influence"
-  ],
-  "11193094": [
+  "76382694": [
     "political polarization",
-    "trust in institutions",
     "political leadership",
     "media influence",
-    "political accountability"
-  ],
-  "8615151": [
-    "education reform",
     "economic policy",
-    "student debt"
+    "US politics"
+  ],
+  "14010574": [
+    "political accountability",
+    "education reform",
+    "labor unions",
+    "economic policy"
+  ],
+  "49061494": [
+    "media bias",
+    "political polarization",
+    "social media influence"
+  ],
+  "6246430": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "15244154": [
+    "political polarization",
+    "social media influence",
+    "media influence",
+    "labor unions",
+    "political leadership"
   ],
   "14011454": [
     "social justice",
@@ -879,36 +912,14 @@
     "drug policy",
     "public health"
   ],
-  "6246430": [
-    "economic policy",
-    "corporate accountability"
-  ],
-  "13380620": [
-    "education inequality",
-    "education reform"
-  ],
   "12138173": [
     "religious freedom",
     "education reform",
     "social justice"
   ],
-  "14010574": [
-    "political accountability",
-    "education reform",
-    "labor unions",
-    "economic policy"
-  ],
-  "76382694": [
-    "political polarization",
-    "political leadership",
-    "media influence",
-    "economic policy",
-    "US politics"
-  ],
-  "49061494": [
-    "media bias",
-    "political polarization",
-    "social media influence"
+  "13380620": [
+    "education inequality",
+    "education reform"
   ],
   "55942021": [
     "media influence",
@@ -922,12 +933,23 @@
     "corporate accountability",
     "AI and ethics"
   ],
-  "15244154": [
-    "political polarization",
-    "social media influence",
-    "media influence",
-    "labor unions",
-    "political leadership"
+  "67553682": [
+    "economic policy",
+    "inflation"
+  ],
+  "14324273": [
+    "education inequality",
+    "economic inequality",
+    "trust in institutions"
+  ],
+  "11865274": [
+    "authoritarianism",
+    "political leadership",
+    "political accountability"
+  ],
+  "9553854": [
+    "education reform",
+    "mental health"
   ],
   "48319988": [
     "political polarization",
@@ -936,96 +958,11 @@
     "US politics",
     "AI and ethics"
   ],
-  "9553854": [
-    "education reform",
-    "mental health"
-  ],
-  "11865274": [
-    "authoritarianism",
-    "political leadership",
-    "political accountability"
-  ],
-  "14324273": [
-    "education inequality",
-    "economic inequality",
-    "trust in institutions"
-  ],
-  "15736704": [
-    "cultural fragmentation",
-    "social identity",
-    "normal distribution"
-  ],
-  "3986762": [
-    "education inequality",
-    "political behavior",
-    "education reform",
-    "voter behavior"
-  ],
-  "67553682": [
-    "economic policy",
-    "inflation"
-  ],
-  "76383209": [
-    "media influence",
-    "political polarization",
-    "education inequality",
-    "AI and ethics",
-    "social media influence"
-  ],
   "13172053": [
     "media influence",
     "public misinformation",
     "international relations",
     "authoritarianism"
-  ],
-  "8699462": [
-    "mental health"
-  ],
-  "12987090": [
-    "social media influence",
-    "media influence",
-    "public misinformation",
-    "free speech issues",
-    "media bias"
-  ],
-  "46127709": [
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "11680819": [],
-  "4075565": [
-    "racial policy",
-    "education reform",
-    "political polarization",
-    "US politics",
-    "media influence"
-  ],
-  "70498601": [
-    "free speech issues",
-    "public safety",
-    "political accountability"
-  ],
-  "62794309": [
-    "media influence",
-    "corporate accountability",
-    "digital privacy",
-    "free speech issues",
-    "media bias"
-  ],
-  "15867924": [
-    "political leadership",
-    "economic policy",
-    "energy policy"
-  ],
-  "9072809": [
-    "social media influence",
-    "technology ethics"
-  ],
-  "16251059": [
-    "social justice",
-    "human rights",
-    "political polarization",
-    "media influence"
   ],
   "10764309": [
     "environmental impact",
@@ -1034,30 +971,87 @@
     "activism",
     "cultural critique"
   ],
-  "76631372": [
+  "15867924": [
+    "political leadership",
+    "economic policy",
+    "energy policy"
+  ],
+  "70498601": [
+    "free speech issues",
+    "public safety",
+    "political accountability"
+  ],
+  "3986762": [
+    "education inequality",
+    "political behavior",
+    "education reform",
+    "voter behavior"
+  ],
+  "46127709": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "11680819": [],
+  "16251059": [
+    "social justice",
+    "human rights",
     "political polarization",
+    "media influence"
+  ],
+  "10530945": [
+    "economic inequality",
+    "political economy",
+    "corporate accountability"
+  ],
+  "8699462": [
+    "mental health"
+  ],
+  "76383209": [
+    "media influence",
+    "political polarization",
+    "education inequality",
     "AI and ethics",
     "social media influence"
   ],
-  "12436739": [
-    "gender equality",
-    "healthcare complexity"
+  "4075565": [
+    "racial policy",
+    "education reform",
+    "political polarization",
+    "US politics",
+    "media influence"
   ],
-  "10504818": [
-    "political leadership",
-    "political campaigns",
-    "voter behavior",
-    "US politics"
+  "15736704": [
+    "cultural fragmentation",
+    "social identity",
+    "normal distribution"
+  ],
+  "12987090": [
+    "social media influence",
+    "media influence",
+    "public misinformation",
+    "free speech issues",
+    "media bias"
+  ],
+  "9072809": [
+    "social media influence",
+    "technology ethics"
+  ],
+  "62794309": [
+    "media influence",
+    "corporate accountability",
+    "digital privacy",
+    "free speech issues",
+    "media bias"
+  ],
+  "15294267": [
+    "media influence",
+    "digital privacy",
+    "technology ethics"
   ],
   "10366997": [
     "economic policy",
     "corporate accountability",
     "media influence"
-  ],
-  "12671146": [
-    "social justice",
-    "human rights",
-    "gender equality"
   ],
   "43211848": [
     "media influence",
@@ -1066,13 +1060,11 @@
     "trust in institutions",
     "pandemic response"
   ],
-  "79797688": [
-    "economic policy",
-    "political accountability"
-  ],
-  "6986503": [
-    "education inequality",
-    "social justice"
+  "10504818": [
+    "political leadership",
+    "political campaigns",
+    "voter behavior",
+    "US politics"
   ],
   "15024682": [
     "economic policy",
@@ -1081,15 +1073,49 @@
     "US politics",
     "immigration issues"
   ],
-  "15294267": [
-    "media influence",
-    "digital privacy",
-    "technology ethics"
+  "9072431": [
+    "economic policy",
+    "government accountability",
+    "pension reform",
+    "public employment"
   ],
-  "10530945": [
-    "economic inequality",
-    "political economy",
-    "corporate accountability"
+  "79797688": [
+    "economic policy",
+    "political accountability"
+  ],
+  "12436739": [
+    "gender equality",
+    "healthcare complexity"
+  ],
+  "6986503": [
+    "education inequality",
+    "social justice"
+  ],
+  "76631372": [
+    "political polarization",
+    "AI and ethics",
+    "social media influence"
+  ],
+  "8768812": [
+    "political campaigns",
+    "US politics",
+    "political leadership",
+    "media influence"
+  ],
+  "12671146": [
+    "social justice",
+    "human rights",
+    "gender equality"
+  ],
+  "3592608": [
+    "economic policy"
+  ],
+  "12343884": [
+    "economic policy",
+    "inflation",
+    "trust in institutions",
+    "corporate accountability",
+    "economic inequality"
   ],
   "10862849": [
     "free speech issues",
@@ -1098,11 +1124,13 @@
     "political polarization",
     "trust in institutions"
   ],
-  "4202548": [
-    "media influence",
-    "political polarization",
-    "social media influence",
-    "political campaigns"
+  "69376963": [
+    "AI and ethics",
+    "media bias",
+    "political polarization"
+  ],
+  "13980190": [
+    "urban development"
   ],
   "74291025": [
     "media bias",
@@ -1110,16 +1138,6 @@
     "political accountability",
     "economic policy",
     "US politics"
-  ],
-  "14324045": [
-    "education inequality",
-    "technology ethics"
-  ],
-  "8768812": [
-    "political campaigns",
-    "US politics",
-    "political leadership",
-    "media influence"
   ],
   "13869632": [
     "public misinformation",
@@ -1131,46 +1149,14 @@
     "US politics",
     "media influence"
   ],
-  "69376963": [
-    "AI and ethics",
-    "media bias",
-    "political polarization"
-  ],
-  "43405219": [
-    "media influence",
-    "media bias",
-    "political leadership",
-    "foreign policy",
-    "electoral integrity"
-  ],
-  "10138003": [
-    "digital privacy",
-    "social media influence",
-    "media influence"
-  ],
-  "12343884": [
-    "economic policy",
-    "inflation",
-    "trust in institutions",
-    "corporate accountability",
-    "economic inequality"
+  "14324045": [
+    "education inequality",
+    "technology ethics"
   ],
   "80170608": [
     "immigration issues",
     "economic policy",
     "US politics"
-  ],
-  "80724719": [],
-  "9072431": [
-    "economic policy",
-    "government accountability",
-    "pension reform",
-    "public employment"
-  ],
-  "7404808": [
-    "voter behavior",
-    "political polarization",
-    "political campaigns"
   ],
   "46127766": [
     "economic policy",
@@ -1179,56 +1165,6 @@
     "political accountability",
     "unionization"
   ],
-  "80164955": [
-    "climate change",
-    "social justice",
-    "political polarization",
-    "economic policy"
-  ],
-  "11824370": [
-    "US politics",
-    "economic policy",
-    "financial markets",
-    "inflation"
-  ],
-  "12747687": [
-    "economic policy",
-    "consumer rights"
-  ],
-  "80162216": [
-    "political polarization",
-    "political leadership",
-    "activism"
-  ],
-  "73764790": [
-    "media influence",
-    "technology ethics",
-    "environmental impact"
-  ],
-  "13980190": [
-    "urban development"
-  ],
-  "12138832": [
-    "housing affordability",
-    "urban development",
-    "economic policy",
-    "public opinion",
-    "homeownership"
-  ],
-  "50886839": [
-    "trust in institutions",
-    "public misinformation",
-    "media influence",
-    "political accountability"
-  ],
-  "43147508": [
-    "mental health",
-    "housing affordability",
-    "drug policy",
-    "urban development",
-    "public health"
-  ],
-  "14925639": [],
   "7404988": [
     "political polarization",
     "political campaigns",
@@ -1243,6 +1179,68 @@
     "electoral integrity",
     "immigration issues"
   ],
+  "4202548": [
+    "media influence",
+    "political polarization",
+    "social media influence",
+    "political campaigns"
+  ],
+  "80724719": [],
+  "43405219": [
+    "media influence",
+    "media bias",
+    "political leadership",
+    "foreign policy",
+    "electoral integrity"
+  ],
+  "7404808": [
+    "voter behavior",
+    "political polarization",
+    "political campaigns"
+  ],
+  "10138003": [
+    "digital privacy",
+    "social media influence",
+    "media influence"
+  ],
+  "7450238": [
+    "economic policy",
+    "inflation",
+    "political accountability"
+  ],
+  "12747687": [
+    "economic policy",
+    "consumer rights"
+  ],
+  "73764790": [
+    "media influence",
+    "technology ethics",
+    "environmental impact"
+  ],
+  "14925639": [],
+  "50886839": [
+    "trust in institutions",
+    "public misinformation",
+    "media influence",
+    "political accountability"
+  ],
+  "12138832": [
+    "housing affordability",
+    "urban development",
+    "economic policy",
+    "public opinion",
+    "homeownership"
+  ],
+  "80162216": [
+    "political polarization",
+    "political leadership",
+    "activism"
+  ],
+  "15255471": [
+    "labor unions",
+    "economic policy",
+    "technology ethics"
+  ],
   "10047053": [
     "political campaigns",
     "electoral integrity",
@@ -1250,10 +1248,40 @@
     "US politics",
     "political polarization"
   ],
-  "15255471": [
-    "labor unions",
+  "80164955": [
+    "climate change",
+    "social justice",
+    "political polarization",
+    "economic policy"
+  ],
+  "11824370": [
+    "US politics",
     "economic policy",
-    "technology ethics"
+    "financial markets",
+    "inflation"
+  ],
+  "43147508": [
+    "mental health",
+    "housing affordability",
+    "drug policy",
+    "urban development",
+    "public health"
+  ],
+  "13565877": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "7099844": [
+    "economic policy",
+    "voter behavior",
+    "environmental impact",
+    "economic inequality",
+    "energy policy"
+  ],
+  "14961266": [
+    "education reform",
+    "social justice",
+    "political accountability"
   ],
   "80351478": [
     "media influence",
@@ -1261,78 +1289,21 @@
     "economic inequality",
     "AI and ethics"
   ],
-  "7450238": [
-    "economic policy",
-    "inflation",
-    "political accountability"
-  ],
-  "10927110": [
-    "political campaigns",
-    "voter behavior",
-    "political polarization",
-    "US politics"
-  ],
-  "14961266": [
-    "education reform",
-    "social justice",
-    "political accountability"
-  ],
-  "7404712": [
-    "political polarization",
-    "voter behavior",
-    "political accountability"
-  ],
-  "64785752": [
-    "education inequality",
-    "social justice",
-    "media influence"
-  ],
-  "3592608": [
-    "economic policy"
-  ],
-  "14873497": [
-    "political campaigns",
-    "voter behavior",
+  "11546764": [
     "media influence",
-    "crime and justice"
+    "economic policy",
+    "trust in institutions",
+    "financial regulation"
   ],
-  "18504320": [],
   "76796567": [
     "political leadership",
     "voter behavior",
     "political campaigns",
     "political accountability"
   ],
-  "49490003": [
-    "media influence",
-    "political polarization",
-    "political leadership",
-    "trust in institutions",
-    "public health"
-  ],
-  "13565877": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "10366449": [
-    "digital privacy",
-    "corporate accountability",
+  "15195542": [
+    "education inequality",
     "media influence"
-  ],
-  "11197039": [
-    "urban development",
-    "housing affordability"
-  ],
-  "13477828": [
-    "public safety",
-    "crime and justice"
-  ],
-  "50887276": [
-    "media influence",
-    "political leadership",
-    "media bias",
-    "US politics",
-    "voter behavior"
   ],
   "70522436": [
     "corporate accountability",
@@ -1346,21 +1317,18 @@
     "media bias",
     "political polarization"
   ],
-  "53672328": [
+  "6968185": [
     "economic policy",
-    "political accountability",
-    "corporate accountability"
-  ],
-  "15195542": [
-    "education inequality",
-    "media influence"
-  ],
-  "10504905": [
-    "political campaigns",
     "US politics",
+    "international relations",
+    "agriculture policy",
+    "energy policy"
+  ],
+  "10927110": [
+    "political campaigns",
     "voter behavior",
-    "political leadership",
-    "political polarization"
+    "political polarization",
+    "US politics"
   ],
   "71628291": [
     "media influence",
@@ -1369,35 +1337,61 @@
     "trust in institutions",
     "inflation"
   ],
+  "14873497": [
+    "political campaigns",
+    "voter behavior",
+    "media influence",
+    "crime and justice"
+  ],
+  "11197039": [
+    "urban development",
+    "housing affordability"
+  ],
+  "10861788": [
+    "racial policy",
+    "racial equality",
+    "international relations"
+  ],
+  "13477828": [
+    "public safety",
+    "crime and justice"
+  ],
+  "50887276": [
+    "media influence",
+    "political leadership",
+    "media bias",
+    "US politics",
+    "voter behavior"
+  ],
+  "10504905": [
+    "political campaigns",
+    "US politics",
+    "voter behavior",
+    "political leadership",
+    "political polarization"
+  ],
   "47489980": [
     "education inequality",
     "education reform",
     "social justice",
     "economic inequality"
   ],
-  "11546764": [
-    "media influence",
+  "53672328": [
     "economic policy",
-    "trust in institutions",
-    "financial regulation"
+    "political accountability",
+    "corporate accountability"
+  ],
+  "18504320": [],
+  "11605250": [
+    "media influence",
+    "political polarization",
+    "activism"
   ],
   "53676369": [
     "corporate accountability",
     "economic policy",
     "trust in institutions",
     "US politics"
-  ],
-  "11605250": [
-    "media influence",
-    "political polarization",
-    "activism"
-  ],
-  "6968185": [
-    "economic policy",
-    "US politics",
-    "international relations",
-    "agriculture policy",
-    "energy policy"
   ],
   "9094342": [
     "inflation",
@@ -1406,66 +1400,30 @@
     "monetary policy",
     "political accountability"
   ],
-  "11864976": [
+  "10366449": [
+    "digital privacy",
+    "corporate accountability",
+    "media influence"
+  ],
+  "49490003": [
+    "media influence",
     "political polarization",
     "political leadership",
-    "democracy",
-    "education reform",
-    "political accountability"
-  ],
-  "49600485": [
-    "political leadership",
-    "trust in institutions"
-  ],
-  "12676249": [],
-  "11491429": [
-    "economic policy",
-    "education reform"
-  ],
-  "50663720": [
-    "antisemitism",
-    "pandemic response"
-  ],
-  "6986671": [
-    "education reform",
-    "economic inequality",
-    "education inequality",
-    "social justice"
-  ],
-  "15779767": [
-    "economic inequality",
-    "corporate accountability",
-    "economic policy"
-  ],
-  "10366353": [
-    "political leadership",
-    "economic policy",
-    "voter behavior",
-    "US politics",
-    "political accountability"
-  ],
-  "50688879": [
-    "technology ethics",
-    "media influence",
-    "social media influence"
-  ],
-  "16251561": [
-    "political leadership",
-    "political campaigns",
-    "political accountability",
-    "media influence",
-    "public misinformation"
-  ],
-  "11592362": [
-    "education inequality",
-    "social justice"
-  ],
-  "15910199": [
-    "political accountability",
     "trust in institutions",
-    "US politics",
-    "bureaucracy",
-    "public administration"
+    "public health"
+  ],
+  "7404712": [
+    "political polarization",
+    "voter behavior",
+    "political accountability"
+  ],
+  "64785752": [
+    "education inequality",
+    "social justice",
+    "media influence"
+  ],
+  "40374977": [
+    "mental health"
   ],
   "10530754": [
     "media influence",
@@ -1473,25 +1431,13 @@
     "trust in institutions",
     "corporate accountability"
   ],
-  "15867412": [
-    "geopolitical strategy",
-    "US politics",
-    "foreign policy",
-    "climate change",
-    "electoral integrity"
+  "50688879": [
+    "technology ethics",
+    "media influence",
+    "social media influence"
   ],
   "14290800": [
     "housing affordability"
-  ],
-  "7099844": [
-    "economic policy",
-    "voter behavior",
-    "environmental impact",
-    "economic inequality",
-    "energy policy"
-  ],
-  "40374977": [
-    "mental health"
   ],
   "11141912": [
     "corporate accountability",
@@ -1500,76 +1446,44 @@
     "trust in institutions",
     "US politics"
   ],
-  "13349958": [
-    "media influence",
-    "public misinformation",
-    "social media influence",
-    "media bias"
-  ],
-  "11282846": [
-    "public safety",
-    "free speech issues",
-    "individual autonomy",
-    "government regulation"
-  ],
-  "13271998": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "14676059": [
-    "economic policy",
-    "corporate accountability",
-    "media influence"
-  ],
-  "11630924": [
-    "social justice",
-    "human rights",
-    "economic policy"
-  ],
-  "13204105": [
-    "mental health",
-    "social media influence",
-    "digital privacy",
-    "gender equality",
-    "public health"
-  ],
-  "12437451": [],
-  "11026342": [
+  "15779767": [
     "economic inequality",
-    "technology ethics",
-    "media influence"
+    "corporate accountability",
+    "economic policy"
   ],
-  "70086244": [
-    "education reform",
-    "economic policy",
-    "student debt"
-  ],
-  "43388326": [],
-  "47337209": [
+  "11864976": [
+    "political polarization",
     "political leadership",
-    "political campaigns",
-    "political accountability",
-    "US politics",
-    "social media influence"
-  ],
-  "47735821": [
-    "AI and ethics",
-    "digital privacy",
-    "technology ethics"
-  ],
-  "9161952": [
-    "public health",
-    "mental health",
-    "public misinformation"
-  ],
-  "10861788": [
-    "racial policy",
-    "racial equality",
-    "international relations"
+    "democracy",
+    "education reform",
+    "political accountability"
   ],
   "8493765": [
     "euthanasia ethics",
     "healthcare complexity"
+  ],
+  "50663720": [
+    "antisemitism",
+    "pandemic response"
+  ],
+  "49600485": [
+    "political leadership",
+    "trust in institutions"
+  ],
+  "12676249": [],
+  "6986671": [
+    "education reform",
+    "economic inequality",
+    "education inequality",
+    "social justice"
+  ],
+  "11592362": [
+    "education inequality",
+    "social justice"
+  ],
+  "11491429": [
+    "economic policy",
+    "education reform"
   ],
   "10861977": [
     "public safety",
@@ -1577,41 +1491,38 @@
     "law enforcement",
     "criminal justice reform"
   ],
-  "7111859": [
-    "inflation",
-    "political campaigns",
+  "15867412": [
+    "geopolitical strategy",
     "US politics",
-    "political polarization"
+    "foreign policy",
+    "climate change",
+    "electoral integrity"
   ],
-  "67891535": [
-    "political polarization",
+  "16251561": [
+    "political leadership",
     "political campaigns",
+    "political accountability",
+    "media influence",
+    "public misinformation"
+  ],
+  "15910199": [
+    "political accountability",
+    "trust in institutions",
+    "US politics",
+    "bureaucracy",
+    "public administration"
+  ],
+  "10366353": [
+    "political leadership",
+    "economic policy",
     "voter behavior",
     "US politics",
-    "immigration issues"
+    "political accountability"
   ],
-  "7477402": [
-    "free speech issues",
-    "social media influence",
-    "activism",
-    "affirmative action"
-  ],
-  "79699912": [
-    "media influence",
-    "public misinformation",
-    "political polarization"
-  ],
-  "6413521": [
-    "political polarization",
-    "voter behavior",
-    "US politics",
-    "media influence",
-    "political leadership"
-  ],
-  "81202496": [
-    "healthcare complexity",
-    "corporate accountability",
-    "economic policy"
+  "47735821": [
+    "AI and ethics",
+    "digital privacy",
+    "technology ethics"
   ],
   "80522791": [
     "economic policy",
@@ -1620,10 +1531,86 @@
     "pandemic response",
     "technology ethics"
   ],
-  "80163698": [
-    "media influence",
+  "67891535": [
     "political polarization",
-    "political leadership"
+    "political campaigns",
+    "voter behavior",
+    "US politics",
+    "immigration issues"
+  ],
+  "43388326": [],
+  "11148058": [
+    "economic policy",
+    "housing affordability",
+    "corporate accountability"
+  ],
+  "11630924": [
+    "social justice",
+    "human rights",
+    "economic policy"
+  ],
+  "13271998": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "81202496": [
+    "healthcare complexity",
+    "corporate accountability",
+    "economic policy"
+  ],
+  "82213677": [
+    "healthcare complexity"
+  ],
+  "14676059": [
+    "economic policy",
+    "corporate accountability",
+    "media influence"
+  ],
+  "47337209": [
+    "political leadership",
+    "political campaigns",
+    "political accountability",
+    "US politics",
+    "social media influence"
+  ],
+  "9161952": [
+    "public health",
+    "mental health",
+    "public misinformation"
+  ],
+  "13204105": [
+    "mental health",
+    "social media influence",
+    "digital privacy",
+    "gender equality",
+    "public health"
+  ],
+  "13349958": [
+    "media influence",
+    "public misinformation",
+    "social media influence",
+    "media bias"
+  ],
+  "42120297": [
+    "education inequality",
+    "economic inequality"
+  ],
+  "70086244": [
+    "education reform",
+    "economic policy",
+    "student debt"
+  ],
+  "7477402": [
+    "free speech issues",
+    "social media influence",
+    "activism",
+    "affirmative action"
+  ],
+  "11282846": [
+    "public safety",
+    "free speech issues",
+    "individual autonomy",
+    "government regulation"
   ],
   "6900138": [
     "student debt",
@@ -1637,20 +1624,46 @@
     "digital privacy",
     "media influence"
   ],
-  "42120297": [
-    "education inequality",
-    "economic inequality"
-  ],
   "6748702": [
     "media influence",
     "climate change",
     "energy policy"
   ],
-  "57094337": [
-    "international relations",
+  "6413521": [
     "political polarization",
-    "human rights",
-    "Middle East conflict"
+    "voter behavior",
+    "US politics",
+    "media influence",
+    "political leadership"
+  ],
+  "7111859": [
+    "inflation",
+    "political campaigns",
+    "US politics",
+    "political polarization"
+  ],
+  "79699912": [
+    "media influence",
+    "public misinformation",
+    "political polarization"
+  ],
+  "11026342": [
+    "economic inequality",
+    "technology ethics",
+    "media influence"
+  ],
+  "12437451": [],
+  "80163698": [
+    "media influence",
+    "political polarization",
+    "political leadership"
+  ],
+  "14074026": [
+    "social justice",
+    "political polarization",
+    "cultural values",
+    "community responsibility",
+    "intergenerational wisdom"
   ],
   "11605631": [
     "US politics",
@@ -1659,27 +1672,27 @@
     "public misinformation",
     "media influence"
   ],
-  "57601298": [
-    "inflation",
-    "economic policy",
-    "Russia-Ukraine conflict"
-  ],
-  "10533236": [
-    "corporate accountability",
-    "trust in institutions",
-    "economic policy"
-  ],
-  "79959429": [
-    "corporate accountability",
-    "technology ethics",
-    "US politics",
-    "economic policy"
-  ],
-  "9195913": [
-    "international relations",
+  "11835414": [
+    "media influence",
+    "public misinformation",
     "political leadership",
-    "Russia-Ukraine conflict",
-    "political polarization"
+    "social media influence",
+    "US politics"
+  ],
+  "14444590": [
+    "media influence",
+    "social media influence",
+    "media bias"
+  ],
+  "14010961": [
+    "economic inequality",
+    "economic policy"
+  ],
+  "10366332": [
+    "media bias",
+    "social media influence",
+    "technology ethics",
+    "public misinformation"
   ],
   "11026292": [
     "media influence",
@@ -1687,25 +1700,66 @@
     "political polarization",
     "trust in institutions"
   ],
-  "7430970": [
-    "social media influence",
+  "79959429": [
+    "corporate accountability",
+    "technology ethics",
+    "US politics",
+    "economic policy"
+  ],
+  "15824808": [
+    "education reform",
+    "technology ethics"
+  ],
+  "10862202": [
+    "voter behavior",
+    "US politics",
     "political polarization",
-    "political campaigns"
+    "public safety",
+    "activism"
+  ],
+  "15780234": [
+    "media influence",
+    "AI and ethics"
   ],
   "7421562": [
     "media bias",
     "social media influence",
     "public misinformation"
   ],
-  "44154758": [
-    "public misinformation",
-    "media influence",
-    "education reform"
-  ],
-  "10366332": [
-    "media bias",
+  "7430970": [
     "social media influence",
-    "technology ethics",
+    "political polarization",
+    "political campaigns"
+  ],
+  "57601298": [
+    "inflation",
+    "economic policy",
+    "Russia-Ukraine conflict"
+  ],
+  "57094337": [
+    "international relations",
+    "political polarization",
+    "human rights",
+    "Middle East conflict"
+  ],
+  "10533236": [
+    "corporate accountability",
+    "trust in institutions",
+    "economic policy"
+  ],
+  "15763844": [
+    "education reform",
+    "technology ethics"
+  ],
+  "9195913": [
+    "international relations",
+    "political leadership",
+    "Russia-Ukraine conflict",
+    "political polarization"
+  ],
+  "7005703": [
+    "media influence",
+    "education reform",
     "public misinformation"
   ],
   "42333056": [
@@ -1715,12 +1769,15 @@
     "AI and ethics",
     "technology ethics"
   ],
-  "11835414": [
-    "media influence",
+  "44154758": [
     "public misinformation",
-    "political leadership",
-    "social media influence",
-    "US politics"
+    "media influence",
+    "education reform"
+  ],
+  "8703628": [
+    "free speech issues",
+    "digital privacy",
+    "media influence"
   ],
   "48319916": [
     "political polarization",
@@ -1729,105 +1786,19 @@
     "trust in institutions",
     "foreign policy"
   ],
-  "15780234": [
-    "media influence",
-    "AI and ethics"
-  ],
-  "10862202": [
-    "voter behavior",
-    "US politics",
-    "political polarization",
-    "public safety",
-    "activism"
-  ],
-  "14010961": [
-    "economic inequality",
-    "economic policy"
-  ],
-  "11148058": [
-    "economic policy",
-    "housing affordability",
-    "corporate accountability"
-  ],
-  "15763844": [
-    "education reform",
-    "technology ethics"
-  ],
-  "14074026": [
-    "social justice",
-    "political polarization",
-    "cultural values",
-    "community responsibility",
-    "intergenerational wisdom"
-  ],
-  "15824808": [
-    "education reform",
-    "technology ethics"
-  ],
-  "14444590": [
-    "media influence",
-    "social media influence",
-    "media bias"
-  ],
-  "10218829": [
-    "political leadership",
-    "racial equality",
-    "media influence",
-    "political campaigns",
-    "US politics"
-  ],
+  "43389059": [],
   "8568062": [
     "economic policy",
     "corporate accountability",
     "public misinformation"
   ],
-  "11091202": [
-    "education reform",
-    "technology ethics",
-    "labor unions",
-    "economic policy",
-    "public misinformation"
+  "10788831": [
+    "economic policy"
   ],
-  "11576366": [
+  "10788999": [
+    "economic policy",
     "corporate accountability",
-    "digital privacy",
-    "media influence"
-  ],
-  "8703628": [
-    "free speech issues",
-    "digital privacy",
-    "media influence"
-  ],
-  "10927417": [
-    "political polarization",
-    "US politics",
-    "climate change",
-    "healthcare complexity",
-    "electoral integrity"
-  ],
-  "7005703": [
-    "media influence",
-    "education reform",
     "public misinformation"
-  ],
-  "15779252": [
-    "economic policy",
-    "inflation",
-    "political accountability"
-  ],
-  "15779358": [
-    "public misinformation",
-    "economic policy",
-    "political accountability"
-  ],
-  "11807625": [
-    "economic policy",
-    "US politics",
-    "public misinformation"
-  ],
-  "15779439": [
-    "economic policy",
-    "inflation"
   ],
   "11681089": [
     "mental health",
@@ -1835,14 +1806,33 @@
     "leadership challenges",
     "time management"
   ],
-  "14677113": [
-    "AI and ethics",
-    "technology ethics",
-    "digital privacy"
+  "10192861": [
+    "criminal justice reform",
+    "police accountability",
+    "public safety",
+    "political polarization",
+    "US politics"
+  ],
+  "11576366": [
+    "corporate accountability",
+    "digital privacy",
+    "media influence"
+  ],
+  "11768526": [
+    "immigration issues",
+    "political leadership",
+    "US politics"
   ],
   "9072562": [
     "education reform",
     "education inequality"
+  ],
+  "10218829": [
+    "political leadership",
+    "racial equality",
+    "media influence",
+    "political campaigns",
+    "US politics"
   ],
   "11318592": [
     "political leadership",
@@ -1856,22 +1846,62 @@
     "US politics",
     "political accountability"
   ],
-  "10192861": [
-    "criminal justice reform",
-    "police accountability",
-    "public safety",
+  "15779358": [
+    "public misinformation",
+    "economic policy",
+    "political accountability"
+  ],
+  "14677113": [
+    "AI and ethics",
+    "technology ethics",
+    "digital privacy"
+  ],
+  "3986824": [
+    "education reform",
+    "media influence",
+    "public misinformation"
+  ],
+  "81115113": [
     "political polarization",
-    "US politics"
+    "US politics",
+    "political accountability"
   ],
   "11193322": [
     "media influence",
     "education reform",
     "economic policy"
   ],
-  "81115113": [
-    "political polarization",
+  "80012295": [
+    "political leadership",
+    "trust in institutions",
+    "economic policy"
+  ],
+  "11091202": [
+    "education reform",
+    "technology ethics",
+    "labor unions",
+    "economic policy",
+    "public misinformation"
+  ],
+  "10926943": [
+    "political campaigns",
+    "media influence",
+    "voter behavior",
     "US politics",
+    "political polarization"
+  ],
+  "10982062": [
+    "technology ethics"
+  ],
+  "15779252": [
+    "economic policy",
+    "inflation",
     "political accountability"
+  ],
+  "11807625": [
+    "economic policy",
+    "US politics",
+    "public misinformation"
   ],
   "13810713": [
     "AI and ethics",
@@ -1885,185 +1915,16 @@
     "economic policy",
     "social issues"
   ],
-  "3986824": [
-    "education reform",
-    "media influence",
-    "public misinformation"
-  ],
-  "10788999": [
-    "economic policy",
-    "corporate accountability",
-    "public misinformation"
-  ],
-  "43389059": [],
-  "11768526": [
-    "immigration issues",
-    "political leadership",
-    "US politics"
-  ],
-  "80012295": [
-    "political leadership",
-    "trust in institutions",
-    "economic policy"
-  ],
-  "11095273": [
-    "education reform",
-    "technology ethics"
-  ],
-  "80379413": [
-    "drug policy",
-    "public misinformation",
-    "social justice"
-  ],
-  "76529868": [
-    "economic policy",
-    "political leadership",
-    "media influence"
-  ],
-  "14823311": [
-    "public safety",
-    "criminal justice reform"
-  ],
-  "15024987": [
-    "corporate accountability"
-  ],
-  "15764493": [
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "10952722": [
-    "economic policy",
-    "inflation",
+  "10927417": [
+    "political polarization",
     "US politics",
-    "political accountability"
-  ],
-  "80969869": [
-    "political campaigns",
-    "corporate accountability",
-    "political accountability"
-  ],
-  "12467995": [
-    "AI and ethics",
-    "healthcare complexity",
-    "digital privacy"
-  ],
-  "12638001": [
-    "economic policy",
-    "inflation"
-  ],
-  "15107249": [
-    "economic policy",
-    "voter behavior"
-  ],
-  "6266613": [
-    "censorship",
-    "free speech issues",
-    "media influence"
-  ],
-  "7121135": [
     "climate change",
-    "energy policy",
-    "economic policy",
-    "US politics",
-    "voter behavior"
-  ],
-  "14675779": [
-    "corporate accountability",
-    "media influence",
-    "economic policy",
-    "digital privacy"
-  ],
-  "10288251": [
-    "economic policy",
-    "political polarization",
-    "political leadership",
     "healthcare complexity",
-    "US politics"
-  ],
-  "10854315": [
-    "AI and ethics",
-    "media influence",
-    "digital privacy",
-    "technology ethics",
-    "social media influence"
-  ],
-  "44589379": [
-    "censorship",
-    "education reform",
-    "media influence"
-  ],
-  "10192609": [
-    "US politics",
-    "political campaigns",
-    "economic policy",
-    "political leadership",
-    "voter behavior"
-  ],
-  "13526540": [
-    "economic policy",
-    "corporate accountability",
-    "US politics"
-  ],
-  "58330738": [
-    "political polarization",
-    "economic policy",
-    "inflation",
-    "social media influence",
-    "voter behavior"
-  ],
-  "15823723": [
-    "US politics",
-    "political leadership",
-    "political accountability",
-    "economic policy"
-  ],
-  "48673917": [
-    "political accountability",
-    "voter behavior",
-    "US politics"
-  ],
-  "50176760": [
-    "corporate accountability"
-  ],
-  "8699632": [
-    "social media influence",
-    "media influence"
-  ],
-  "47494484": [
-    "education inequality",
-    "economic inequality"
-  ],
-  "8615247": [
-    "US politics",
-    "political leadership",
-    "voter behavior",
-    "political accountability",
     "electoral integrity"
   ],
-  "10788895": [
-    "voter behavior",
-    "economic policy"
-  ],
-  "11199888": [
-    "housing affordability",
-    "mental health",
-    "drug policy",
-    "public safety",
-    "social justice"
-  ],
-  "13810774": [
-    "technology ethics",
-    "AI and ethics"
-  ],
-  "10788831": [
-    "economic policy"
-  ],
-  "16217071": [
-    "political campaigns",
-    "media influence",
-    "media bias",
-    "electoral integrity",
-    "political accountability"
+  "15779439": [
+    "economic policy",
+    "inflation"
   ],
   "57504445": [
     "political accountability",
@@ -2072,23 +1933,204 @@
     "activism",
     "social media influence"
   ],
-  "81120285": [],
-  "12819743": [
-    "AI and ethics",
+  "6266613": [
+    "censorship",
+    "free speech issues",
+    "media influence"
+  ],
+  "81901506": [
+    "economic policy",
+    "housing affordability",
+    "political accountability",
+    "US politics"
+  ],
+  "81899271": [
+    "immigration issues",
+    "US politics"
+  ],
+  "50176760": [
+    "corporate accountability"
+  ],
+  "7121135": [
+    "climate change",
+    "energy policy",
+    "economic policy",
+    "US politics",
+    "voter behavior"
+  ],
+  "8699632": [
     "social media influence",
+    "media influence"
+  ],
+  "12638001": [
+    "economic policy",
+    "inflation"
+  ],
+  "80969869": [
+    "political campaigns",
+    "corporate accountability",
+    "political accountability"
+  ],
+  "8615247": [
+    "US politics",
+    "political leadership",
+    "voter behavior",
+    "political accountability",
+    "electoral integrity"
+  ],
+  "80379413": [
+    "drug policy",
+    "public misinformation",
+    "social justice"
+  ],
+  "58330738": [
+    "political polarization",
+    "economic policy",
+    "inflation",
+    "social media influence",
+    "voter behavior"
+  ],
+  "76529868": [
+    "economic policy",
+    "political leadership",
+    "media influence"
+  ],
+  "12467995": [
+    "AI and ethics",
+    "healthcare complexity",
+    "digital privacy"
+  ],
+  "48673917": [
+    "political accountability",
+    "voter behavior",
+    "US politics"
+  ],
+  "11199888": [
+    "housing affordability",
+    "mental health",
+    "drug policy",
+    "public safety",
+    "social justice"
+  ],
+  "15764493": [
+    "AI and ethics",
     "technology ethics"
   ],
-  "12468122": [
+  "15107249": [
     "economic policy",
+    "voter behavior"
+  ],
+  "13810774": [
+    "technology ethics",
+    "AI and ethics"
+  ],
+  "10952722": [
+    "economic policy",
+    "inflation",
+    "US politics",
+    "political accountability"
+  ],
+  "15823723": [
+    "US politics",
+    "political leadership",
+    "political accountability",
+    "economic policy"
+  ],
+  "47494484": [
+    "education inequality",
+    "economic inequality"
+  ],
+  "10854315": [
     "AI and ethics",
+    "media influence",
+    "digital privacy",
+    "technology ethics",
+    "social media influence"
+  ],
+  "16217071": [
+    "political campaigns",
+    "media influence",
+    "media bias",
+    "electoral integrity",
+    "political accountability"
+  ],
+  "13526540": [
+    "economic policy",
+    "corporate accountability",
+    "US politics"
+  ],
+  "15024987": [
+    "corporate accountability"
+  ],
+  "10789275": [
+    "economic policy",
+    "political polarization"
+  ],
+  "10788895": [
+    "voter behavior",
+    "economic policy"
+  ],
+  "10288251": [
+    "economic policy",
+    "political polarization",
+    "political leadership",
+    "healthcare complexity",
+    "US politics"
+  ],
+  "11167302": [
+    "economic policy",
     "technology ethics"
+  ],
+  "14823311": [
+    "public safety",
+    "criminal justice reform"
+  ],
+  "44589379": [
+    "censorship",
+    "education reform",
+    "media influence"
+  ],
+  "14675779": [
+    "corporate accountability",
+    "media influence",
+    "economic policy",
+    "digital privacy"
+  ],
+  "10192609": [
+    "US politics",
+    "political campaigns",
+    "economic policy",
+    "political leadership",
+    "voter behavior"
+  ],
+  "11095273": [
+    "education reform",
+    "technology ethics"
+  ],
+  "81120285": [],
+  "14925526": [
+    "education inequality",
+    "public education",
+    "political implications",
+    "parental involvement"
   ],
   "14107598": [
     "AI and ethics",
     "technology ethics",
     "media influence"
   ],
+  "70007753": [
+    "inflation",
+    "economic policy",
+    "political polarization",
+    "voter behavior"
+  ],
   "78344572": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "12468122": [
+    "economic policy",
     "AI and ethics",
     "technology ethics"
   ],
@@ -2099,30 +2141,10 @@
     "technology ethics",
     "privacy issues"
   ],
-  "14925526": [
-    "education inequality",
-    "public education",
-    "political implications",
-    "parental involvement"
-  ],
-  "53757292": [
-    "economic inequality",
-    "social justice",
-    "education inequality",
-    "meritocracy",
-    "economic policy"
-  ],
-  "70007753": [
-    "inflation",
-    "economic policy",
-    "political polarization",
-    "voter behavior"
-  ],
-  "14531697": [
-    "immigration issues",
-    "political polarization",
+  "16251848": [
     "media influence",
-    "US politics"
+    "public misinformation",
+    "corporate accountability"
   ],
   "56207824": [
     "AI and ethics",
@@ -2131,13 +2153,26 @@
     "trust in institutions",
     "political accountability"
   ],
+  "12819743": [
+    "AI and ethics",
+    "social media influence",
+    "technology ethics"
+  ],
+  "53757292": [
+    "economic inequality",
+    "social justice",
+    "education inequality",
+    "meritocracy",
+    "economic policy"
+  ],
   "12987370": [
     "social media influence"
   ],
-  "16251848": [
+  "14531697": [
+    "immigration issues",
+    "political polarization",
     "media influence",
-    "public misinformation",
-    "corporate accountability"
+    "US politics"
   ],
   "3305267": [
     "censorship",
@@ -2145,35 +2180,8 @@
     "media bias",
     "free speech issues"
   ],
-  "10619185": [
-    "political leadership",
-    "political campaigns",
-    "media influence",
-    "political accountability",
-    "US politics"
-  ],
-  "10789275": [
-    "economic policy",
-    "political polarization"
-  ],
-  "10141065": [
-    "corporate accountability",
-    "labor unions",
-    "economic policy"
-  ],
-  "11864606": [
-    "economic policy",
-    "trust in institutions",
-    "public misinformation"
-  ],
-  "7198971": [],
   "6550101": [
     "media influence"
-  ],
-  "6246719": [
-    "economic inequality",
-    "economic policy",
-    "inflation"
   ],
   "10752912": [
     "mental health",
@@ -2182,42 +2190,46 @@
     "social justice",
     "public misinformation"
   ],
-  "9553551": [
-    "education reform",
-    "education inequality",
-    "social media influence"
-  ],
-  "4437254": [
-    "economic policy",
-    "education reform"
-  ],
+  "7198971": [],
   "11588032": [
     "economic policy",
     "political leadership",
     "technology ethics",
     "economic inequality"
   ],
-  "10926943": [
-    "political campaigns",
-    "media influence",
-    "voter behavior",
-    "US politics",
-    "political polarization"
+  "9553551": [
+    "education reform",
+    "education inequality",
+    "social media influence"
+  ],
+  "8446954": [
+    "AI and ethics"
+  ],
+  "9077573": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "4437254": [
+    "economic policy",
+    "education reform"
   ],
   "8615012": [
     "political leadership",
     "economic policy",
     "healthcare complexity"
   ],
-  "11167302": [
-    "economic policy",
-    "technology ethics"
+  "10141065": [
+    "corporate accountability",
+    "labor unions",
+    "economic policy"
   ],
-  "14010612": [
-    "education inequality",
-    "education reform"
+  "10619185": [
+    "political leadership",
+    "political campaigns",
+    "media influence",
+    "political accountability",
+    "US politics"
   ],
-  "9553770": [],
   "8895077": [
     "political polarization",
     "political campaigns",
@@ -2225,36 +2237,41 @@
     "US politics",
     "climate change"
   ],
-  "11282106": [
-    "free speech issues",
-    "public health policy",
-    "media influence",
-    "legal issues"
+  "10861799": [
+    "racial equality",
+    "racial policy",
+    "social justice"
   ],
-  "13350043": [],
-  "8468999": [
-    "education inequality",
-    "mental health",
-    "education reform"
-  ],
-  "9077573": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "12157048": [
-    "media influence",
-    "free speech issues"
-  ],
-  "11260528": [
+  "6246719": [
     "economic inequality",
-    "inflation",
-    "economic policy"
+    "economic policy",
+    "inflation"
   ],
-  "10129115": [
-    "political leadership",
-    "political accountability",
+  "10556036": [
+    "economic policy",
     "US politics",
-    "political polarization"
+    "inflation",
+    "financial markets",
+    "corporate accountability"
+  ],
+  "11864606": [
+    "economic policy",
+    "trust in institutions",
+    "public misinformation"
+  ],
+  "16210182": [
+    "economic policy",
+    "US politics",
+    "trust in institutions",
+    "public misinformation",
+    "political leadership"
+  ],
+  "67657855": [
+    "political leadership",
+    "financial policy",
+    "US politics",
+    "political history",
+    "economic policy"
   ],
   "13477498": [
     "economic policy",
@@ -2263,10 +2280,141 @@
     "international relations",
     "economic inequality"
   ],
-  "10131646": [
+  "7242835": [
+    "political campaigns",
+    "climate change",
+    "energy policy",
+    "economic policy",
+    "US politics"
+  ],
+  "13350043": [],
+  "7303402": [
+    "inflation",
+    "economic policy",
+    "rental market",
+    "economic volatility"
+  ],
+  "11491300": [
+    "immigration issues",
+    "racial inequality",
+    "national unity",
+    "ethnic policy"
+  ],
+  "70011176": [
+    "economic policy",
+    "trust in institutions",
+    "political accountability"
+  ],
+  "11307117": [
+    "mental health",
+    "media influence"
+  ],
+  "11282106": [
+    "free speech issues",
+    "public health policy",
+    "media influence",
+    "legal issues"
+  ],
+  "79806536": [
+    "economic inequality",
+    "voter behavior",
+    "trust in institutions"
+  ],
+  "7690428": [],
+  "7099782": [
+    "climate change",
+    "energy policy",
+    "economic policy",
+    "political polarization"
+  ],
+  "70493482": [
+    "media influence",
+    "digital privacy",
+    "corporate accountability",
+    "technology ethics",
+    "privacy issues"
+  ],
+  "70497923": [
+    "censorship",
+    "social media influence",
+    "free speech issues",
+    "digital privacy",
+    "media bias"
+  ],
+  "14049711": [
+    "voter behavior",
+    "political strategy",
+    "political campaigns"
+  ],
+  "79798680": [
+    "political polarization",
+    "media influence",
+    "political accountability",
+    "trust in institutions"
+  ],
+  "14042609": [
+    "political campaigns",
+    "political polarization",
+    "economic policy",
+    "US politics",
+    "technology ethics"
+  ],
+  "14010612": [
+    "education inequality",
+    "education reform"
+  ],
+  "73545679": [
+    "corporate accountability",
+    "media influence"
+  ],
+  "6862403": [
+    "public safety",
+    "crime and justice",
+    "gun rights",
+    "criminal justice reform",
+    "mental health"
+  ],
+  "7572247": [
+    "economic policy",
+    "energy policy",
+    "Russia-Ukraine conflict"
+  ],
+  "11260528": [
+    "economic inequality",
+    "inflation",
+    "economic policy"
+  ],
+  "12925543": [
+    "AI and ethics",
+    "media bias",
+    "technology ethics",
+    "social media influence"
+  ],
+  "11757750": [
+    "political leadership",
+    "voter behavior",
+    "media influence",
+    "trust in institutions",
+    "public misinformation"
+  ],
+  "8468999": [
+    "education inequality",
+    "mental health",
+    "education reform"
+  ],
+  "43405349": [
+    "media influence",
+    "political leadership",
+    "media bias",
+    "electoral integrity",
+    "foreign policy"
+  ],
+  "80629916": [
+    "media influence",
+    "political accountability",
     "US politics",
     "political polarization",
-    "political leadership"
+    "media bias"
   ],
   "57507459": [
     "public misinformation",
@@ -2280,61 +2428,16 @@
     "political accountability",
     "voter behavior"
   ],
-  "43405349": [
+  "10977031": [
     "media influence",
-    "political leadership",
     "media bias",
-    "electoral integrity",
-    "foreign policy"
-  ],
-  "10556036": [
-    "economic policy",
     "US politics",
-    "inflation",
-    "financial markets",
-    "corporate accountability"
-  ],
-  "16210182": [
-    "economic policy",
-    "US politics",
-    "trust in institutions",
-    "public misinformation",
-    "political leadership"
-  ],
-  "10861799": [
-    "racial equality",
-    "racial policy",
-    "social justice"
-  ],
-  "15256442": [
-    "education reform",
-    "technology ethics"
-  ],
-  "14049711": [
     "voter behavior",
-    "political strategy",
-    "political campaigns"
+    "political accountability"
   ],
-  "8446954": [
-    "AI and ethics"
-  ],
-  "11491300": [
-    "immigration issues",
-    "racial inequality",
-    "national unity",
-    "ethnic policy"
-  ],
-  "12925543": [
-    "AI and ethics",
-    "media bias",
-    "technology ethics",
-    "social media influence"
-  ],
-  "7303402": [
-    "inflation",
-    "economic policy",
-    "rental market",
-    "economic volatility"
+  "4269797": [
+    "education reform",
+    "economic policy"
   ],
   "81118440": [
     "media influence",
@@ -2343,92 +2446,58 @@
     "media bias",
     "digital privacy"
   ],
-  "80629916": [
-    "media influence",
-    "political accountability",
-    "US politics",
-    "political polarization",
-    "media bias"
-  ],
-  "79806536": [
-    "economic inequality",
-    "voter behavior",
-    "trust in institutions"
-  ],
-  "79798680": [
-    "political polarization",
-    "media influence",
-    "political accountability",
-    "trust in institutions"
-  ],
-  "73545679": [
-    "corporate accountability",
-    "media influence"
-  ],
-  "6862403": [
-    "public safety",
-    "crime and justice",
-    "gun rights",
-    "criminal justice reform",
-    "mental health"
-  ],
-  "70497923": [
-    "censorship",
-    "social media influence",
-    "free speech issues",
-    "digital privacy",
-    "media bias"
-  ],
-  "70493482": [
-    "media influence",
-    "digital privacy",
-    "corporate accountability",
-    "technology ethics",
-    "privacy issues"
-  ],
-  "70011176": [
-    "economic policy",
-    "trust in institutions",
-    "political accountability"
-  ],
-  "67657855": [
-    "political leadership",
-    "financial policy",
-    "US politics",
-    "political history",
-    "economic policy"
-  ],
-  "7242835": [
-    "political campaigns",
-    "climate change",
-    "energy policy",
-    "economic policy",
-    "US politics"
-  ],
-  "14042609": [
-    "political campaigns",
-    "political polarization",
-    "economic policy",
-    "US politics",
+  "15256442": [
+    "education reform",
     "technology ethics"
   ],
-  "7690428": [],
-  "11757750": [
-    "political leadership",
-    "voter behavior",
-    "media influence",
-    "trust in institutions",
-    "public misinformation"
-  ],
+  "9553770": [],
   "58235389": [
     "political polarization",
     "voter behavior",
     "US politics"
   ],
-  "7572247": [
-    "economic policy",
-    "energy policy",
-    "Russia-Ukraine conflict"
+  "12157048": [
+    "media influence",
+    "free speech issues"
+  ],
+  "10129115": [
+    "political leadership",
+    "political accountability",
+    "US politics",
+    "political polarization"
+  ],
+  "10952916": [
+    "political leadership",
+    "political accountability",
+    "US politics",
+    "political polarization"
+  ],
+  "10131646": [
+    "US politics",
+    "political polarization",
+    "political leadership"
+  ],
+  "10779300": [
+    "bureaucracy"
+  ],
+  "8646359": [
+    "media influence",
+    "political polarization",
+    "media bias",
+    "US politics",
+    "political accountability"
+  ],
+  "58441876": [
+    "US politics",
+    "political leadership",
+    "political accountability",
+    "international relations",
+    "foreign policy"
+  ],
+  "15824592": [
+    "AI and ethics",
+    "education reform",
+    "healthcare complexity"
   ],
   "8768716": [
     "political accountability",
@@ -2437,88 +2506,35 @@
     "political leadership",
     "economic inequality"
   ],
-  "10977031": [
-    "media influence",
-    "media bias",
-    "US politics",
-    "voter behavior",
-    "political accountability"
-  ],
-  "10854094": [
-    "AI and ethics",
-    "technology ethics",
-    "media influence"
-  ],
-  "15824592": [
-    "AI and ethics",
-    "education reform",
-    "healthcare complexity"
-  ],
-  "4269797": [
-    "education reform",
-    "economic policy"
-  ],
-  "15783295": [
-    "media influence"
-  ],
-  "10862365": [
-    "economic policy",
-    "digital privacy",
-    "regulation and compliance"
-  ],
-  "4250600": [
-    "inflation",
-    "economic policy",
-    "corporate accountability"
-  ],
-  "10952916": [
+  "50891248": [
+    "political campaigns",
     "political leadership",
     "political accountability",
     "US politics",
-    "political polarization"
+    "electoral integrity"
   ],
-  "80548271": [
-    "technology ethics",
-    "AI and ethics",
-    "digital privacy"
-  ],
-  "16210408": [
-    "political leadership",
-    "economic policy",
-    "voter behavior",
-    "inflation"
-  ],
-  "15225456": [
+  "10976271": [
     "media influence",
-    "technology ethics"
-  ],
-  "14924915": [
-    "education reform",
-    "public misinformation",
-    "political leadership",
-    "censorship",
-    "social justice"
-  ],
-  "11141199": [
-    "media influence",
-    "political polarization",
-    "political leadership",
-    "labor unions",
-    "renewable energy"
-  ],
-  "11158877": [
-    "economic policy",
+    "economic inequality",
     "corporate accountability"
   ],
-  "14125201": [
-    "technology ethics",
-    "AI and ethics",
-    "digital privacy"
-  ],
-  "14071989": [
-    "corporate accountability",
+  "6967940": [
     "economic policy",
+    "US politics",
     "media influence"
+  ],
+  "10953002": [
+    "economic policy",
+    "political accountability",
+    "US politics",
+    "corporate accountability"
+  ],
+  "50789732": [
+    "AI and ethics",
+    "media influence",
+    "political polarization",
+    "social media influence",
+    "technology ethics"
   ],
   "56334742": [
     "media influence",
@@ -2531,80 +2547,10 @@
     "media influence",
     "digital privacy"
   ],
-  "10779300": [
-    "bureaucracy"
-  ],
-  "58441876": [
-    "US politics",
-    "political leadership",
-    "political accountability",
-    "international relations",
-    "foreign policy"
-  ],
-  "5134422": [
-    "economic inequality",
-    "trust in institutions",
-    "education reform"
-  ],
-  "50789732": [
-    "AI and ethics",
-    "media influence",
-    "political polarization",
-    "social media influence",
-    "technology ethics"
-  ],
-  "50795996": [
-    "technology ethics",
-    "AI and ethics",
-    "corporate accountability"
-  ],
-  "7099782": [
-    "climate change",
-    "energy policy",
+  "10862365": [
     "economic policy",
-    "political polarization"
-  ],
-  "7379950": [
-    "political polarization",
-    "activism",
-    "voter behavior",
-    "political campaigns",
-    "racial equality"
-  ],
-  "8646359": [
-    "media influence",
-    "political polarization",
-    "media bias",
-    "US politics",
-    "political accountability"
-  ],
-  "50891248": [
-    "political campaigns",
-    "political leadership",
-    "political accountability",
-    "US politics",
-    "electoral integrity"
-  ],
-  "6967940": [
-    "economic policy",
-    "US politics",
-    "media influence"
-  ],
-  "10138881": [
-    "media influence",
-    "social media influence",
-    "technology ethics"
-  ],
-  "46823694": [
     "digital privacy",
-    "corporate accountability"
-  ],
-  "10183203": [
-    "media influence",
-    "public misinformation",
-    "political accountability",
-    "inflation",
-    "US politics"
+    "regulation and compliance"
   ],
   "8494792": [
     "political leadership",
@@ -2613,16 +2559,97 @@
     "political accountability",
     "criminal justice reform"
   ],
+  "15225456": [
+    "media influence",
+    "technology ethics"
+  ],
   "57412824": [
     "political accountability",
     "economic policy",
     "US politics",
     "inflation"
   ],
-  "6299990": [
-    "international relations",
+  "14071989": [
+    "corporate accountability",
+    "economic policy",
+    "media influence"
+  ],
+  "11141199": [
+    "media influence",
+    "political polarization",
+    "political leadership",
+    "labor unions",
+    "renewable energy"
+  ],
+  "14924915": [
+    "education reform",
+    "public misinformation",
+    "political leadership",
+    "censorship",
+    "social justice"
+  ],
+  "14125201": [
+    "technology ethics",
+    "AI and ethics",
+    "digital privacy"
+  ],
+  "16210408": [
+    "political leadership",
+    "economic policy",
+    "voter behavior",
+    "inflation"
+  ],
+  "10854094": [
+    "AI and ethics",
+    "technology ethics",
+    "media influence"
+  ],
+  "11158877": [
     "economic policy",
     "corporate accountability"
+  ],
+  "7379950": [
+    "political polarization",
+    "activism",
+    "voter behavior",
+    "political campaigns",
+    "racial equality"
+  ],
+  "73893693": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "50795996": [
+    "technology ethics",
+    "AI and ethics",
+    "corporate accountability"
+  ],
+  "15783295": [
+    "media influence"
+  ],
+  "11657817": [],
+  "13794563": [
+    "media influence",
+    "technology ethics"
+  ],
+  "6402753": [
+    "digital privacy",
+    "technology ethics",
+    "social media influence"
+  ],
+  "13272253": [
+    "media influence",
+    "social media influence",
+    "corporate accountability",
+    "media bias",
+    "digital privacy"
+  ],
+  "11818568": [
+    "political polarization",
+    "political leadership",
+    "economic policy",
+    "US politics",
+    "economic inequality"
   ],
   "10471481": [
     "political leadership",
@@ -2630,23 +2657,86 @@
     "trust in institutions",
     "inflation"
   ],
+  "5134422": [
+    "economic inequality",
+    "trust in institutions",
+    "education reform"
+  ],
+  "11853990": [
+    "media influence",
+    "criminal justice reform",
+    "public misinformation"
+  ],
+  "4250600": [
+    "inflation",
+    "economic policy",
+    "corporate accountability"
+  ],
+  "80548271": [
+    "technology ethics",
+    "AI and ethics",
+    "digital privacy"
+  ],
+  "11560068": [
+    "political polarization",
+    "US politics",
+    "political leadership",
+    "political accountability",
+    "media influence"
+  ],
+  "13635641": [
+    "media influence",
+    "public misinformation",
+    "economic policy",
+    "corporate accountability",
+    "social media influence"
+  ],
+  "13695281": [
+    "banking regulation",
+    "economic policy",
+    "corporate accountability"
+  ],
+  "12643392": [
+    "economic policy",
+    "public misinformation"
+  ],
+  "10183203": [
+    "media influence",
+    "public misinformation",
+    "political accountability",
+    "inflation",
+    "US politics"
+  ],
+  "12000723": [
+    "economic inequality",
+    "social justice",
+    "media influence"
+  ],
+  "13807712": [
+    "inflation",
+    "Russia-Ukraine conflict",
+    "US politics",
+    "economic policy",
+    "energy policy"
+  ],
   "41779176": [
     "mental health",
     "social media influence"
   ],
-  "73893693": [
-    "corporate accountability",
-    "economic policy"
+  "10138881": [
+    "media influence",
+    "social media influence",
+    "technology ethics"
+  ],
+  "6299990": [
+    "international relations",
+    "economic policy",
+    "corporate accountability"
   ],
   "76527517": [
     "technology ethics",
     "digital privacy",
     "media influence"
-  ],
-  "6402753": [
-    "digital privacy",
-    "technology ethics",
-    "social media influence"
   ],
   "41388559": [
     "urban development",
@@ -2659,171 +2749,31 @@
     "political polarization",
     "social media influence"
   ],
-  "13695281": [
-    "banking regulation",
-    "economic policy",
-    "corporate accountability"
-  ],
-  "11657817": [],
-  "11307117": [
-    "mental health",
-    "media influence"
-  ],
-  "11853990": [
-    "media influence",
-    "criminal justice reform",
-    "public misinformation"
-  ],
-  "12643392": [
-    "economic policy",
-    "public misinformation"
-  ],
-  "13635641": [
-    "media influence",
-    "public misinformation",
-    "economic policy",
-    "corporate accountability",
-    "social media influence"
-  ],
-  "13272253": [
-    "media influence",
-    "social media influence",
-    "corporate accountability",
-    "media bias",
-    "digital privacy"
-  ],
-  "12000723": [
-    "economic inequality",
-    "social justice",
-    "media influence"
-  ],
-  "11560068": [
-    "political polarization",
-    "US politics",
-    "political leadership",
-    "political accountability",
-    "media influence"
-  ],
-  "13794563": [
-    "media influence",
-    "technology ethics"
-  ],
-  "13807712": [
-    "inflation",
-    "Russia-Ukraine conflict",
-    "US politics",
-    "economic policy",
-    "energy policy"
-  ],
-  "11818568": [
-    "political polarization",
-    "political leadership",
-    "economic policy",
-    "US politics",
-    "economic inequality"
-  ],
   "11752966": [
     "political leadership",
     "US politics",
     "historical analysis",
     "political strategy"
   ],
-  "10169017": [
+  "8942417": [
     "economic policy",
-    "US politics",
-    "corporate accountability"
-  ],
-  "11141403": [
-    "political polarization",
-    "political accountability",
-    "media influence"
-  ],
-  "58243796": [
-    "political polarization",
-    "political campaigns",
-    "voter behavior"
-  ],
-  "11835549": [
-    "media influence",
-    "political campaigns",
-    "voter behavior",
-    "social media influence",
-    "US politics"
-  ],
-  "10366596": [
-    "political leadership",
     "inflation",
-    "US politics",
-    "economic policy",
-    "political accountability"
+    "labor unions"
   ],
-  "10424558": [
-    "media influence"
-  ],
-  "80909355": [
-    "foreign policy",
-    "geopolitical strategy"
-  ],
-  "70496862": [
-    "censorship",
-    "free speech issues",
-    "social media influence"
-  ],
-  "8567960": [
-    "economic policy",
-    "tax policy"
-  ],
-  "40491622": [
-    "technology ethics",
+  "46823694": [
     "digital privacy",
-    "economic policy",
-    "urban development",
     "corporate accountability"
   ],
-  "6968016": [
-    "geopolitical strategy",
-    "international relations",
-    "foreign policy",
-    "US-China relations",
-    "Middle East conflict"
-  ],
-  "11273151": [
-    "political campaigns",
-    "voter behavior",
-    "US politics",
-    "political accountability",
-    "energy policy"
-  ],
-  "17993436": [
-    "housing affordability",
-    "urban development"
-  ],
-  "10982062": [
-    "technology ethics"
+  "80668008": [
+    "economic inequality",
+    "corporate accountability",
+    "labor unions"
   ],
   "11842071": [
     "corporate accountability",
     "crime and justice",
     "political accountability",
     "trust in institutions"
-  ],
-  "7281163": [
-    "media influence",
-    "political polarization",
-    "AI and ethics",
-    "political campaigns",
-    "voter behavior"
-  ],
-  "10976271": [
-    "media influence",
-    "economic inequality",
-    "corporate accountability"
-  ],
-  "10953002": [
-    "economic policy",
-    "political accountability",
-    "US politics",
-    "corporate accountability"
   ],
   "15764249": [
     "political commentary",
@@ -2832,44 +2782,6 @@
     "media influence",
     "US politics"
   ],
-  "7280929": [
-    "public misinformation",
-    "religious freedom"
-  ],
-  "62812360": [
-    "media influence",
-    "political leadership",
-    "public misinformation",
-    "technology ethics",
-    "media bias"
-  ],
-  "10918280": [
-    "media influence",
-    "technology ethics",
-    "social media influence"
-  ],
-  "11193627": [
-    "economic policy",
-    "international relations",
-    "currency"
-  ],
-  "11195851": [
-    "censorship",
-    "international relations",
-    "US-China relations",
-    "media influence",
-    "free speech issues"
-  ],
-  "74924209": [
-    "economic policy",
-    "corporate accountability"
-  ],
-  "13547606": [
-    "economic policy",
-    "corporate accountability",
-    "financial regulation",
-    "trust in institutions"
-  ],
   "11753014": [
     "political leadership",
     "economic policy",
@@ -2877,28 +2789,120 @@
     "US politics",
     "history"
   ],
+  "82371659": [
+    "trust in institutions",
+    "media influence"
+  ],
+  "11166962": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "58243796": [
+    "political polarization",
+    "political campaigns",
+    "voter behavior"
+  ],
+  "4721552": [
+    "technology ethics",
+    "AI and ethics",
+    "digital privacy",
+    "economic policy"
+  ],
+  "8567960": [
+    "economic policy",
+    "tax policy"
+  ],
+  "11835549": [
+    "media influence",
+    "political campaigns",
+    "voter behavior",
+    "social media influence",
+    "US politics"
+  ],
+  "50889968": [
+    "criminal justice reform",
+    "crime and justice",
+    "trust in institutions"
+  ],
+  "8494349": [
+    "economic policy",
+    "labor unions"
+  ],
   "80390824": [
     "corporate accountability",
     "economic inequality",
     "political campaigns",
     "monopolies"
   ],
-  "8494349": [
+  "80909355": [
+    "foreign policy",
+    "geopolitical strategy"
+  ],
+  "10169017": [
     "economic policy",
-    "labor unions"
+    "US politics",
+    "corporate accountability"
+  ],
+  "8628603": [
+    "education inequality",
+    "economic policy"
+  ],
+  "10918280": [
+    "media influence",
+    "technology ethics",
+    "social media influence"
   ],
   "8469255": [
     "economic inequality",
     "trust in institutions",
     "education inequality"
   ],
-  "81898610": [
-    "economic policy",
-    "housing affordability"
+  "13250613": [
+    "social justice",
+    "economic inequality",
+    "housing affordability",
+    "urban development",
+    "political polarization"
   ],
-  "50794208": [
-    "political leadership",
+  "11141403": [
+    "political polarization",
     "political accountability",
+    "media influence"
+  ],
+  "40491622": [
+    "technology ethics",
+    "digital privacy",
+    "economic policy",
+    "urban development",
+    "corporate accountability"
+  ],
+  "11193627": [
+    "economic policy",
+    "international relations",
+    "currency"
+  ],
+  "8894881": [
+    "political polarization",
+    "political leadership",
+    "US politics",
+    "political campaigns",
+    "authoritarianism"
+  ],
+  "70496862": [
+    "censorship",
+    "free speech issues",
+    "social media influence"
+  ],
+  "11273151": [
+    "political campaigns",
+    "voter behavior",
+    "US politics",
+    "political accountability",
+    "energy policy"
+  ],
+  "48940067": [
+    "economic policy",
+    "US politics",
     "corporate accountability"
   ],
   "79795854": [
@@ -2908,40 +2912,28 @@
     "media influence",
     "US politics"
   ],
+  "11195851": [
+    "censorship",
+    "international relations",
+    "US-China relations",
+    "media influence",
+    "free speech issues"
+  ],
+  "17993436": [
+    "housing affordability",
+    "urban development"
+  ],
   "14074182": [
     "media influence"
   ],
   "14074260": [],
-  "8942417": [
+  "10424558": [
+    "media influence"
+  ],
+  "13547606": [
     "economic policy",
-    "inflation",
-    "labor unions"
-  ],
-  "4721552": [
-    "technology ethics",
-    "AI and ethics",
-    "digital privacy",
-    "economic policy"
-  ],
-  "48940067": [
-    "economic policy",
-    "US politics",
-    "corporate accountability"
-  ],
-  "13250613": [
-    "social justice",
-    "economic inequality",
-    "housing affordability",
-    "urban development",
-    "political polarization"
-  ],
-  "13350068": [
-    "media influence",
-    "consumer behavior"
-  ],
-  "50889968": [
-    "criminal justice reform",
-    "crime and justice",
+    "corporate accountability",
+    "financial regulation",
     "trust in institutions"
   ],
   "13350761": [
@@ -2951,43 +2943,79 @@
     "political accountability",
     "trust in institutions"
   ],
+  "7280929": [
+    "public misinformation",
+    "religious freedom"
+  ],
+  "6968016": [
+    "geopolitical strategy",
+    "international relations",
+    "foreign policy",
+    "US-China relations",
+    "Middle East conflict"
+  ],
+  "13350068": [
+    "media influence",
+    "consumer behavior"
+  ],
+  "7281163": [
+    "media influence",
+    "political polarization",
+    "AI and ethics",
+    "political campaigns",
+    "voter behavior"
+  ],
+  "74924209": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "10366596": [
+    "political leadership",
+    "inflation",
+    "US politics",
+    "economic policy",
+    "political accountability"
+  ],
+  "50794208": [
+    "political leadership",
+    "political accountability",
+    "corporate accountability"
+  ],
+  "62812360": [
+    "media influence",
+    "political leadership",
+    "public misinformation",
+    "technology ethics",
+    "media bias"
+  ],
   "50963243": [
     "education inequality",
     "education reform"
   ],
-  "80668008": [
-    "economic inequality",
-    "corporate accountability",
-    "labor unions"
+  "9077985": [
+    "social media influence"
   ],
-  "8628603": [
-    "education inequality",
+  "46999204": [
+    "inflation",
     "economic policy"
   ],
-  "11166962": [
+  "10531130": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "10169662": [
     "economic policy",
     "corporate accountability"
   ],
-  "50887499": [
+  "16564421": [
+    "euthanasia ethics"
+  ],
+  "10867159": [
     "political polarization",
-    "political leadership",
-    "US politics",
-    "political accountability"
-  ],
-  "50792464": [
-    "AI and ethics",
-    "technology ethics",
-    "media influence"
-  ],
-  "8568445": [
-    "corporate accountability",
-    "economic policy",
-    "trust in institutions"
-  ],
-  "50789789": [
-    "AI and ethics",
-    "political polarization",
-    "media influence"
+    "political campaigns",
+    "public safety",
+    "crime and justice",
+    "gun control"
   ],
   "15910480": [
     "economic policy",
@@ -2996,6 +3024,17 @@
     "trust in institutions",
     "public misinformation"
   ],
+  "10192913": [
+    "economic policy",
+    "US politics",
+    "international relations"
+  ],
+  "50789789": [
+    "AI and ethics",
+    "political polarization",
+    "media influence"
+  ],
+  "10802972": [],
   "10837284": [
     "climate change",
     "inflation",
@@ -3003,74 +3042,9 @@
     "voter behavior",
     "US politics"
   ],
-  "16564421": [
-    "euthanasia ethics"
-  ],
-  "10802972": [],
-  "11605696": [
-    "technology ethics",
-    "social media influence"
-  ],
-  "13748341": [
-    "digital privacy"
-  ],
-  "11610514": [
-    "digital privacy",
-    "privacy issues"
-  ],
-  "10531130": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "13694750": [
-    "economic policy",
-    "financial crisis",
-    "trust in institutions",
-    "public safety",
-    "political leadership"
-  ],
-  "8699869": [],
-  "7979665": [
-    "public health",
-    "healthcare complexity",
+  "8721354": [
     "education inequality",
-    "economic inequality"
-  ],
-  "46999204": [
-    "inflation",
     "economic policy"
-  ],
-  "15825068": [
-    "AI and ethics",
-    "healthcare complexity",
-    "technology ethics"
-  ],
-  "9077985": [
-    "social media influence"
-  ],
-  "10143181": [
-    "media influence",
-    "social media influence"
-  ],
-  "10169662": [
-    "economic policy",
-    "corporate accountability"
-  ],
-  "48507515": [
-    "political campaigns",
-    "voter behavior",
-    "political polarization",
-    "US politics",
-    "abortion"
-  ],
-  "58238946": [
-    "voter behavior",
-    "political polarization"
-  ],
-  "10192913": [
-    "economic policy",
-    "US politics",
-    "international relations"
   ],
   "10193239": [
     "inflation",
@@ -3079,30 +3053,17 @@
     "voter behavior",
     "US politics"
   ],
-  "48675439": [
-    "political accountability",
+  "48507515": [
+    "political campaigns",
+    "voter behavior",
+    "political polarization",
     "US politics",
-    "crime and justice",
-    "public safety"
+    "abortion"
   ],
-  "11207788": [
-    "urban development",
-    "environmental impact",
-    "political leadership"
-  ],
-  "11631627": [
-    "philanthropy ethics",
-    "tax policy",
-    "US politics"
-  ],
-  "12804775": [
-    "media influence",
-    "public misinformation",
-    "media bias"
-  ],
-  "8721354": [
-    "education inequality",
-    "economic policy"
+  "15825068": [
+    "AI and ethics",
+    "healthcare complexity",
+    "technology ethics"
   ],
   "15855893": [
     "media influence",
@@ -3110,58 +3071,112 @@
     "racial inequality",
     "affirmative action"
   ],
-  "8894881": [
+  "50887499": [
     "political polarization",
     "political leadership",
     "US politics",
-    "political campaigns",
-    "authoritarianism"
+    "political accountability"
+  ],
+  "48675439": [
+    "political accountability",
+    "US politics",
+    "crime and justice",
+    "public safety"
+  ],
+  "50792464": [
+    "AI and ethics",
+    "technology ethics",
+    "media influence"
+  ],
+  "10143181": [
+    "media influence",
+    "social media influence"
   ],
   "11196773": [
     "media influence",
     "political polarization",
     "media bias"
   ],
-  "81209294": [
-    "public health policy",
+  "6137709": [
     "healthcare complexity",
-    "voter behavior",
-    "political accountability"
+    "economic policy"
   ],
-  "14064718": [
-    "economic policy",
-    "corporate accountability",
+  "11207788": [
+    "urban development",
+    "environmental impact",
+    "political leadership"
+  ],
+  "6968089": [
+    "international relations",
+    "Russia-Ukraine conflict",
+    "foreign policy",
+    "geopolitical strategy",
+    "US politics"
+  ],
+  "14010784": [
+    "education inequality",
+    "political polarization",
     "trust in institutions"
   ],
-  "79804175": [
+  "73901834": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "8699869": [],
+  "13939490": [
     "media influence",
+    "political campaigns",
+    "political polarization",
     "social media influence",
     "technology ethics"
-  ],
-  "12638024": [
-    "economic policy",
-    "pandemic response"
   ],
   "76659932": [
     "AI and ethics",
     "media influence",
     "political polarization"
   ],
-  "14290685": [
-    "political polarization",
-    "urban development",
-    "housing affordability",
-    "political campaigns",
-    "voter behavior"
+  "13869993": [],
+  "12638024": [
+    "economic policy",
+    "pandemic response"
   ],
-  "14304515": [
-    "media influence",
-    "free speech issues",
+  "14048124": [
+    "media influence"
+  ],
+  "13748341": [
     "digital privacy"
   ],
-  "6137709": [
-    "healthcare complexity",
-    "economic policy"
+  "79804175": [
+    "media influence",
+    "social media influence",
+    "technology ethics"
+  ],
+  "13694750": [
+    "economic policy",
+    "financial crisis",
+    "trust in institutions",
+    "public safety",
+    "political leadership"
+  ],
+  "11605696": [
+    "technology ethics",
+    "social media influence"
+  ],
+  "11610514": [
+    "digital privacy",
+    "privacy issues"
+  ],
+  "11631627": [
+    "philanthropy ethics",
+    "tax policy",
+    "US politics"
+  ],
+  "4675823": [
+    "political polarization",
+    "political leadership",
+    "voter behavior",
+    "media influence",
+    "social media influence"
   ],
   "11853834": [
     "corporate accountability",
@@ -3169,10 +3184,59 @@
     "US politics",
     "media influence"
   ],
-  "12468429": [
-    "education reform",
+  "14047471": [
+    "climate change",
+    "scientific communication"
+  ],
+  "12804775": [
+    "media influence",
+    "public misinformation",
+    "media bias"
+  ],
+  "14062023": [
     "AI and ethics",
-    "labor unions"
+    "political polarization",
+    "technology ethics",
+    "political campaigns"
+  ],
+  "14304515": [
+    "media influence",
+    "free speech issues",
+    "digital privacy"
+  ],
+  "8568445": [
+    "corporate accountability",
+    "economic policy",
+    "trust in institutions"
+  ],
+  "11151255": [
+    "economic policy",
+    "public misinformation",
+    "corporate accountability",
+    "economic inequality",
+    "US politics"
+  ],
+  "11156783": [
+    "political leadership",
+    "media influence",
+    "political accountability",
+    "US politics"
+  ],
+  "7979665": [
+    "public health",
+    "healthcare complexity",
+    "education inequality",
+    "economic inequality"
+  ],
+  "58238946": [
+    "voter behavior",
+    "political polarization"
+  ],
+  "81209294": [
+    "public health policy",
+    "healthcare complexity",
+    "voter behavior",
+    "political accountability"
   ],
   "14324559": [
     "technology ethics"
@@ -3184,63 +3248,22 @@
     "automation trends",
     "racial policy"
   ],
-  "11156783": [
-    "political leadership",
-    "media influence",
-    "political accountability",
-    "US politics"
-  ],
-  "11151255": [
-    "economic policy",
-    "public misinformation",
-    "corporate accountability",
-    "economic inequality",
-    "US politics"
-  ],
-  "73901834": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "14062023": [
+  "12468429": [
+    "education reform",
     "AI and ethics",
-    "political polarization",
-    "technology ethics",
-    "political campaigns"
+    "labor unions"
   ],
-  "6968089": [
-    "international relations",
-    "Russia-Ukraine conflict",
-    "foreign policy",
-    "geopolitical strategy",
-    "US politics"
+  "14290685": [
+    "political polarization",
+    "urban development",
+    "housing affordability",
+    "political campaigns",
+    "voter behavior"
   ],
   "7254268": [
     "economic policy",
     "political accountability",
     "US politics"
-  ],
-  "10867159": [
-    "political polarization",
-    "political campaigns",
-    "public safety",
-    "crime and justice",
-    "gun control"
-  ],
-  "13939490": [
-    "media influence",
-    "political campaigns",
-    "political polarization",
-    "social media influence",
-    "technology ethics"
-  ],
-  "14047471": [
-    "climate change",
-    "scientific communication"
-  ],
-  "14010784": [
-    "education inequality",
-    "political polarization",
-    "trust in institutions"
   ],
   "7126264": [
     "political campaigns",
@@ -3249,43 +3272,30 @@
     "political accountability",
     "media influence"
   ],
-  "4675823": [
-    "political polarization",
-    "political leadership",
-    "voter behavior",
-    "media influence",
-    "social media influence"
+  "14064718": [
+    "economic policy",
+    "corporate accountability",
+    "trust in institutions"
   ],
-  "13869993": [],
-  "14048124": [
+  "9558982": [
+    "education inequality"
+  ],
+  "80916722": [
+    "international relations",
+    "US politics",
     "media influence"
   ],
-  "52024655": [
-    "healthcare complexity",
-    "economic policy",
-    "public health policy"
-  ],
-  "46397891": [
-    "digital privacy"
-  ],
-  "54240236": [
-    "economic policy",
-    "financial regulation"
-  ],
-  "13980049": [
-    "economic inequality",
-    "social media influence"
-  ],
-  "6246612": [
-    "economic policy",
-    "inflation",
-    "US politics",
-    "geopolitical strategy"
-  ],
-  "13061591": [
-    "economic policy",
+  "81037465": [
+    "media influence",
+    "public misinformation",
+    "political polarization",
     "international relations",
     "US politics"
+  ],
+  "81920458": [
+    "economic policy",
+    "employment programs",
+    "community development"
   ],
   "10113869": [
     "media influence",
@@ -3294,33 +3304,32 @@
     "US politics",
     "media bias"
   ],
+  "80524592": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "4018542": [
+    "media influence"
+  ],
+  "82106468": [
+    "social media influence",
+    "media bias"
+  ],
+  "82468718": [],
+  "52024655": [
+    "healthcare complexity",
+    "economic policy",
+    "public health policy"
+  ],
+  "6246612": [
+    "economic policy",
+    "inflation",
+    "US politics",
+    "geopolitical strategy"
+  ],
   "5131343": [
     "housing affordability",
     "economic inequality"
-  ],
-  "8264048": [
-    "US politics",
-    "voter behavior",
-    "political campaigns",
-    "electoral integrity",
-    "political accountability"
-  ],
-  "11173921": [
-    "corporate accountability",
-    "economic policy",
-    "technology ethics"
-  ],
-  "5548903": [
-    "political philosophy",
-    "authoritarianism",
-    "international relations",
-    "US politics"
-  ],
-  "8646664": [
-    "climate change",
-    "foreign policy",
-    "US politics",
-    "energy policy"
   ],
   "5450560": [
     "Russia-Ukraine conflict",
@@ -3329,83 +3338,10 @@
     "sanctions",
     "NATO issues"
   ],
-  "4018542": [
-    "media influence"
-  ],
-  "14074909": [
-    "media influence",
-    "media bias",
-    "digital privacy",
-    "corporate accountability",
-    "technology ethics"
-  ],
-  "11171378": [
-    "economic policy"
-  ],
-  "80916722": [
+  "5548903": [
+    "political philosophy",
+    "authoritarianism",
     "international relations",
-    "US politics",
-    "media influence"
-  ],
-  "12376009": [
-    "media influence",
-    "economic inequality",
-    "political polarization",
-    "political leadership",
-    "economic policy"
-  ],
-  "9558982": [
-    "education inequality"
-  ],
-  "15835509": [
-    "digital privacy",
-    "technology ethics",
-    "media influence"
-  ],
-  "14688934": [
-    "corporate accountability",
-    "economic policy",
-    "trust in institutions"
-  ],
-  "10532047": [
-    "media influence",
-    "corporate accountability"
-  ],
-  "11029556": [
-    "AI and ethics",
-    "technology ethics",
-    "digital privacy"
-  ],
-  "41778783": [],
-  "12174166": [
-    "US politics",
-    "political polarization",
-    "political leadership",
-    "economic policy",
-    "political accountability"
-  ],
-  "7481720": [
-    "social media influence",
-    "digital privacy",
-    "media bias"
-  ],
-  "6979127": [
-    "inflation",
-    "economic policy",
-    "political accountability",
-    "media influence"
-  ],
-  "13939651": [
-    "media influence",
-    "political campaigns",
-    "economic policy",
-    "technology ethics"
-  ],
-  "15339943": [
-    "political polarization",
-    "political leadership",
-    "political campaigns",
-    "economic policy",
     "US politics"
   ],
   "6926909": [
@@ -3414,13 +3350,11 @@
     "corporate accountability",
     "housing affordability"
   ],
-  "12138419": [
+  "6979127": [
+    "inflation",
     "economic policy",
-    "urban development"
-  ],
-  "13731686": [
-    "technology ethics",
-    "AI and ethics"
+    "political accountability",
+    "media influence"
   ],
   "7164978": [
     "housing affordability",
@@ -3431,66 +3365,9 @@
     "digital privacy",
     "AI and ethics"
   ],
-  "10855792": [
-    "digital privacy",
-    "technology ethics"
-  ],
-  "10853411": [
-    "media influence",
+  "7481720": [
     "social media influence",
-    "free speech issues"
-  ],
-  "11029869": [
-    "education reform",
-    "technology ethics",
     "digital privacy",
-    "media influence",
-    "education inequality"
-  ],
-  "11835783": [
-    "corporate accountability",
-    "criminal justice reform"
-  ],
-  "81037465": [
-    "media influence",
-    "public misinformation",
-    "political polarization",
-    "international relations",
-    "US politics"
-  ],
-  "10366374": [
-    "economic policy",
-    "monetary policy",
-    "EU politics",
-    "inflation",
-    "economic inequality"
-  ],
-  "12748097": [
-    "economic inequality",
-    "corporate accountability",
-    "financial systems",
-    "regulatory policy",
-    "US politics"
-  ],
-  "11091510": [
-    "education reform",
-    "technology ethics"
-  ],
-  "80524592": [
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "10193042": [
-    "US politics",
-    "political polarization",
-    "political leadership",
-    "economic policy"
-  ],
-  "42386189": [
-    "media influence",
-    "public misinformation",
-    "international relations",
-    "political accountability",
     "media bias"
   ],
   "58332228": [
@@ -3499,125 +3376,220 @@
     "political leadership",
     "voter behavior"
   ],
-  "80649963": [
+  "8264048": [
+    "US politics",
+    "voter behavior",
+    "political campaigns",
+    "electoral integrity",
+    "political accountability"
+  ],
+  "54240236": [
+    "economic policy",
+    "financial regulation"
+  ],
+  "8646664": [
+    "climate change",
+    "foreign policy",
+    "US politics",
+    "energy policy"
+  ],
+  "42386189": [
+    "media influence",
+    "public misinformation",
+    "international relations",
+    "political accountability",
+    "media bias"
+  ],
+  "82832271": [
+    "media influence",
+    "media bias",
+    "geopolitical strategy"
+  ],
+  "14688934": [
+    "corporate accountability",
+    "economic policy",
+    "trust in institutions"
+  ],
+  "13061591": [
+    "economic policy",
+    "international relations",
+    "US politics"
+  ],
+  "13731686": [
+    "technology ethics",
+    "AI and ethics"
+  ],
+  "12748097": [
+    "economic inequality",
+    "corporate accountability",
+    "financial systems",
+    "regulatory policy",
+    "US politics"
+  ],
+  "10853411": [
+    "media influence",
+    "social media influence",
     "free speech issues"
   ],
-  "73892414": [
-    "economic policy",
+  "13980049": [
+    "economic inequality",
+    "social media influence"
+  ],
+  "11835783": [
     "corporate accountability",
-    "technology ethics"
-  ],
-  "80649139": [
-    "media influence",
-    "political leadership",
-    "public engagement"
-  ],
-  "4003683": [
-    "international relations",
-    "geopolitical strategy",
-    "US-China relations",
-    "Russia-Ukraine conflict",
-    "nuclear deterrence"
-  ],
-  "7408589": [
-    "trust in institutions",
-    "media influence"
-  ],
-  "11843405": [
-    "corporate accountability",
-    "economic policy",
     "criminal justice reform"
   ],
-  "12349718": [
-    "economic policy",
-    "inflation"
+  "11029869": [
+    "education reform",
+    "technology ethics",
+    "digital privacy",
+    "media influence",
+    "education inequality"
   ],
-  "80356960": [
-    "AI and ethics",
+  "10855792": [
+    "digital privacy",
     "technology ethics"
+  ],
+  "11091510": [
+    "education reform",
+    "technology ethics"
+  ],
+  "15835509": [
+    "digital privacy",
+    "technology ethics",
+    "media influence"
+  ],
+  "11029556": [
+    "AI and ethics",
+    "technology ethics",
+    "digital privacy"
+  ],
+  "15339943": [
+    "political polarization",
+    "political leadership",
+    "political campaigns",
+    "economic policy",
+    "US politics"
+  ],
+  "11307307": [
+    "media influence",
+    "media bias",
+    "economic policy",
+    "political polarization"
+  ],
+  "10976660": [
+    "media influence",
+    "corporate accountability",
+    "digital privacy"
+  ],
+  "13939651": [
+    "media influence",
+    "political campaigns",
+    "economic policy",
+    "technology ethics"
+  ],
+  "41778783": [],
+  "10532047": [
+    "media influence",
+    "corporate accountability"
+  ],
+  "11173921": [
+    "corporate accountability",
+    "economic policy",
+    "technology ethics"
+  ],
+  "14074909": [
+    "media influence",
+    "media bias",
+    "digital privacy",
+    "corporate accountability",
+    "technology ethics"
+  ],
+  "46397891": [
+    "digital privacy"
+  ],
+  "12376009": [
+    "media influence",
+    "economic inequality",
+    "political polarization",
+    "political leadership",
+    "economic policy"
+  ],
+  "11171378": [
+    "economic policy"
+  ],
+  "12174166": [
+    "US politics",
+    "political polarization",
+    "political leadership",
+    "economic policy",
+    "political accountability"
+  ],
+  "10366374": [
+    "economic policy",
+    "monetary policy",
+    "EU politics",
+    "inflation",
+    "economic inequality"
+  ],
+  "10193042": [
+    "US politics",
+    "political polarization",
+    "political leadership",
+    "economic policy"
+  ],
+  "12138419": [
+    "economic policy",
+    "urban development"
+  ],
+  "11173478": [
+    "media influence",
+    "US politics"
   ],
   "6246905": [
     "economic policy",
     "political leadership",
     "US politics"
   ],
-  "12610642": [
-    "international relations",
-    "US politics",
-    "foreign policy",
-    "geopolitical strategy",
-    "US-China relations"
-  ],
-  "4807589": [
-    "media influence",
+  "73892414": [
+    "economic policy",
     "corporate accountability",
-    "digital privacy",
-    "trust in institutions",
     "technology ethics"
   ],
-  "80043049": [
-    "economic policy",
-    "US politics",
-    "political leadership",
-    "inflation"
-  ],
-  "7102743": [
-    "economic policy",
-    "political accountability",
-    "US politics"
-  ],
-  "56264185": [
-    "international relations",
-    "human rights",
-    "religious freedom"
-  ],
-  "79840456": [
+  "14073648": [
     "media influence",
-    "AI and ethics"
-  ],
-  "79840230": [
+    "public misinformation",
     "social media influence",
-    "media influence",
-    "technology ethics"
-  ],
-  "12349895": [
-    "economic policy",
-    "corporate accountability",
-    "labor unions"
-  ],
-  "12967237": [
-    "digital privacy",
-    "technology ethics",
-    "public safety"
+    "media bias",
+    "free speech issues"
   ],
   "59883234": [
     "AI and ethics",
     "media influence",
     "corporate accountability"
   ],
-  "5440550": [
-    "energy policy",
-    "economic policy",
-    "voter behavior"
-  ],
-  "5886333": [
-    "political campaigns",
-    "immigration issues",
+  "14074419": [
+    "AI and ethics",
     "political polarization",
-    "labor unions",
+    "media influence"
+  ],
+  "7408589": [
+    "trust in institutions",
+    "media influence"
+  ],
+  "11182022": [
+    "digital privacy",
+    "technology ethics"
+  ],
+  "11192335": [
+    "digital privacy",
+    "privacy issues",
+    "trust in institutions"
+  ],
+  "14059268": [],
+  "14062376": [
+    "AI and ethics",
     "economic policy"
-  ],
-  "11887546": [
-    "US politics",
-    "economic policy",
-    "political leadership",
-    "corporate accountability"
-  ],
-  "80231062": [
-    "immigration issues",
-    "economic policy",
-    "voter behavior",
-    "social justice"
   ],
   "14062556": [
     "AI and ethics",
@@ -3626,13 +3598,164 @@
     "corporate accountability",
     "digital privacy"
   ],
+  "5886333": [
+    "political campaigns",
+    "immigration issues",
+    "political polarization",
+    "labor unions",
+    "economic policy"
+  ],
+  "7102743": [
+    "economic policy",
+    "political accountability",
+    "US politics"
+  ],
+  "79840230": [
+    "social media influence",
+    "media influence",
+    "technology ethics"
+  ],
+  "80649963": [
+    "free speech issues"
+  ],
+  "12349718": [
+    "economic policy",
+    "inflation"
+  ],
+  "3915524": [
+    "AI and ethics",
+    "healthcare complexity"
+  ],
   "3949338": [
     "economic policy",
     "media influence",
     "political accountability"
   ],
+  "4003683": [
+    "international relations",
+    "geopolitical strategy",
+    "US-China relations",
+    "Russia-Ukraine conflict",
+    "nuclear deterrence"
+  ],
+  "81079801": [
+    "media bias",
+    "political leadership",
+    "social media influence"
+  ],
+  "12610642": [
+    "international relations",
+    "US politics",
+    "foreign policy",
+    "geopolitical strategy",
+    "US-China relations"
+  ],
+  "80726713": [],
+  "80670650": [
+    "free speech issues",
+    "public health",
+    "drug policy"
+  ],
+  "80663506": [
+    "healthcare complexity",
+    "public health",
+    "US politics"
+  ],
+  "80649139": [
+    "media influence",
+    "political leadership",
+    "public engagement"
+  ],
+  "79840456": [
+    "media influence",
+    "AI and ethics"
+  ],
+  "11887546": [
+    "US politics",
+    "economic policy",
+    "political leadership",
+    "corporate accountability"
+  ],
+  "12967237": [
+    "digital privacy",
+    "technology ethics",
+    "public safety"
+  ],
+  "11843405": [
+    "corporate accountability",
+    "economic policy",
+    "criminal justice reform"
+  ],
+  "80356960": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "80231062": [
+    "immigration issues",
+    "economic policy",
+    "voter behavior",
+    "social justice"
+  ],
+  "11167077": [
+    "media influence"
+  ],
+  "13354650": [
+    "media influence",
+    "economic policy",
+    "media bias"
+  ],
+  "80043049": [
+    "economic policy",
+    "US politics",
+    "political leadership",
+    "inflation"
+  ],
+  "5440550": [
+    "energy policy",
+    "economic policy",
+    "voter behavior"
+  ],
+  "4807589": [
+    "media influence",
+    "corporate accountability",
+    "digital privacy",
+    "trust in institutions",
+    "technology ethics"
+  ],
+  "12349895": [
+    "economic policy",
+    "corporate accountability",
+    "labor unions"
+  ],
+  "10855064": [
+    "media influence",
+    "public misinformation",
+    "hate speech",
+    "antisemitism",
+    "media bias"
+  ],
+  "11026460": [
+    "media influence",
+    "media bias",
+    "public misinformation"
+  ],
+  "11024962": [
+    "digital privacy"
+  ],
+  "11030953": [
+    "social media influence",
+    "media influence",
+    "media bias"
+  ],
   "14693437": [
     "corporate accountability"
+  ],
+  "10976425": [
+    "media influence",
+    "political leadership",
+    "political campaigns",
+    "social media influence",
+    "US politics"
   ],
   "10193329": [
     "economic policy",
@@ -3641,35 +3764,75 @@
     "US politics",
     "inflation"
   ],
-  "15229637": [],
-  "14073648": [
-    "media influence",
-    "public misinformation",
-    "social media influence",
-    "media bias",
-    "free speech issues"
-  ],
-  "14074419": [
+  "10943277": [
+    "education reform",
     "AI and ethics",
-    "political polarization",
-    "media influence"
+    "technology ethics"
   ],
-  "11024962": [
-    "digital privacy"
+  "50962904": [
+    "political polarization",
+    "political campaigns",
+    "political leadership",
+    "US politics"
+  ],
+  "10872296": [
+    "political polarization",
+    "voter behavior",
+    "public safety",
+    "US politics",
+    "gun policy"
+  ],
+  "15229637": [],
+  "11091573": [
+    "technology ethics"
+  ],
+  "10854431": [
+    "technology ethics"
+  ],
+  "56264185": [
+    "international relations",
+    "human rights",
+    "religious freedom"
+  ],
+  "9142978": [
+    "economic policy",
+    "inflation",
+    "US politics",
+    "international relations",
+    "monetary policy"
+  ],
+  "8743547": [
+    "political polarization",
+    "political accountability",
+    "public misinformation",
+    "economic policy",
+    "education reform"
+  ],
+  "8622972": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "11158781": [
+    "public safety",
+    "international relations",
+    "human rights",
+    "US politics",
+    "pandemic response"
   ],
   "10531351": [
     "economic inequality",
     "corporate accountability",
     "economic policy"
   ],
+  "11029918": [
+    "education reform",
+    "AI and ethics",
+    "technology ethics"
+  ],
   "10569505": [
     "corporate accountability",
     "media influence",
     "economic policy"
-  ],
-  "8622972": [
-    "economic policy",
-    "corporate accountability"
   ],
   "10788120": [
     "political engagement",
@@ -3685,439 +3848,12 @@
     "US politics",
     "public misinformation"
   ],
-  "81079801": [
-    "media bias",
-    "political leadership",
-    "social media influence"
-  ],
-  "10854431": [
-    "technology ethics"
-  ],
-  "10855064": [
-    "media influence",
-    "public misinformation",
-    "hate speech",
-    "antisemitism",
-    "media bias"
-  ],
-  "10872296": [
-    "political polarization",
-    "voter behavior",
-    "public safety",
-    "US politics",
-    "gun policy"
-  ],
-  "11158781": [
-    "public safety",
-    "international relations",
-    "human rights",
-    "US politics",
-    "pandemic response"
-  ],
-  "10943277": [
-    "education reform",
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "14062376": [
-    "AI and ethics",
-    "economic policy"
-  ],
-  "10976660": [
-    "media influence",
-    "corporate accountability",
-    "digital privacy"
-  ],
-  "80726713": [],
-  "11030953": [
-    "social media influence",
-    "media influence",
-    "media bias"
-  ],
-  "8743547": [
-    "political polarization",
-    "political accountability",
-    "public misinformation",
-    "economic policy",
-    "education reform"
-  ],
-  "11182022": [
-    "digital privacy",
-    "technology ethics"
-  ],
-  "50962904": [
-    "political polarization",
-    "political campaigns",
-    "political leadership",
-    "US politics"
-  ],
-  "9142978": [
-    "economic policy",
-    "inflation",
-    "US politics",
-    "international relations",
-    "monetary policy"
-  ],
-  "13354650": [
-    "media influence",
-    "economic policy",
-    "media bias"
-  ],
-  "11173478": [
-    "media influence",
-    "US politics"
-  ],
-  "80670650": [
-    "free speech issues",
-    "public health",
-    "drug policy"
-  ],
-  "11091573": [
-    "technology ethics"
-  ],
-  "11029918": [
-    "education reform",
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "80663506": [
-    "healthcare complexity",
-    "public health",
-    "US politics"
-  ],
-  "11026460": [
-    "media influence",
-    "media bias",
-    "public misinformation"
-  ],
-  "14059268": [],
-  "3915524": [
-    "AI and ethics",
-    "healthcare complexity"
-  ],
-  "11307307": [
-    "media influence",
-    "media bias",
-    "economic policy",
-    "political polarization"
-  ],
-  "11917541": [
-    "media influence",
-    "media bias",
-    "free speech issues"
-  ],
-  "6274232": [
-    "digital privacy",
-    "media influence",
-    "social media influence"
-  ],
-  "12139325": [
-    "urban development",
-    "economic inequality"
-  ],
-  "81142974": [
-    "media influence",
-    "media bias",
-    "political polarization",
-    "social media influence"
-  ],
-  "14324421": [
-    "education reform",
-    "digital privacy"
-  ],
-  "3487721": [
-    "political leadership",
-    "political polarization",
-    "racial inequality",
-    "economic inequality",
-    "voter behavior"
-  ],
-  "11141755": [
-    "labor unions",
-    "economic policy",
-    "climate change",
-    "US politics"
-  ],
-  "11588372": [
-    "economic inequality",
-    "political campaigns",
-    "voter behavior",
-    "US politics",
-    "public misinformation"
-  ],
-  "13948439": [
-    "social justice",
-    "media influence",
-    "political polarization",
-    "racial equality"
-  ],
-  "11968582": [
-    "climate change",
-    "environmental impact"
-  ],
-  "14065242": [
-    "AI and ethics",
-    "political polarization",
-    "technology ethics"
-  ],
-  "81899271": [
-    "immigration issues",
-    "US politics"
-  ],
-  "4270540": [
-    "economic inequality",
-    "education reform",
-    "economic policy"
-  ],
-  "14010844": [
-    "labor unions",
-    "political polarization",
-    "public sector",
-    "economic policy"
-  ],
-  "11192335": [
-    "digital privacy",
-    "privacy issues",
-    "trust in institutions"
-  ],
-  "4755461": [
-    "economic policy",
-    "inflation",
-    "pandemic response",
-    "labor unions",
-    "public health policy"
-  ],
-  "13961132": [
-    "media influence",
-    "political campaigns",
-    "international relations",
-    "foreign policy",
-    "public health"
-  ],
-  "14060909": [
-    "AI and ethics",
-    "media influence",
-    "political polarization",
-    "religious freedom",
-    "economic policy"
-  ],
-  "14071683": [
-    "AI and ethics",
-    "technology ethics"
-  ],
-  "5886359": [
-    "education inequality",
-    "economic inequality",
-    "social justice",
-    "political polarization",
-    "economic policy"
-  ],
-  "13961047": [
-    "media influence",
-    "political polarization",
-    "political campaigns",
-    "social media influence",
-    "racial equality"
-  ],
-  "81227719": [
-    "healthcare complexity",
-    "economic policy",
-    "corporate accountability"
-  ],
-  "11095471": [
-    "education reform",
-    "immigration issues"
-  ],
-  "14146882": [
-    "political polarization",
-    "social media influence"
-  ],
-  "14147007": [
-    "AI and ethics",
-    "media influence",
-    "trust in institutions"
-  ],
-  "11167077": [
-    "media influence"
-  ],
-  "11159094": [
-    "economic policy"
-  ],
-  "12467863": [
-    "social media influence",
-    "media bias",
-    "trust in institutions"
-  ],
-  "69718733": [
-    "education inequality",
-    "political leadership",
-    "trust in institutions"
-  ],
-  "11871190": [
-    "economic policy",
-    "pandemic response",
-    "inflation"
-  ],
-  "13945878": [
-    "AI and ethics"
-  ],
-  "7327423": [
-    "corporate accountability",
-    "economic policy"
-  ],
-  "10473463": [
-    "corporate accountability",
-    "healthcare complexity",
-    "media influence"
-  ],
-  "42386121": [
-    "media influence",
-    "public misinformation",
-    "media bias",
-    "international relations"
-  ],
-  "10288516": [
-    "economic policy",
-    "political leadership",
-    "US politics",
-    "economic inequality",
-    "public misinformation"
-  ],
-  "11259406": [
-    "inflation",
-    "economic policy",
-    "labor unions"
-  ],
-  "11259699": [
-    "inflation",
-    "economic policy",
-    "US politics",
-    "monetary policy",
-    "employment trends"
-  ],
-  "11260687": [
-    "economic policy",
-    "inflation",
-    "labor unions"
-  ],
-  "10138753": [
-    "media influence",
-    "social media influence",
-    "public misinformation",
-    "US politics",
-    "political polarization"
-  ],
-  "80662518": [
-    "political leadership",
-    "voter behavior"
-  ],
-  "9886124": [
-    "inflation",
-    "economic policy",
-    "US politics",
-    "international relations",
-    "Russia-Ukraine conflict"
-  ],
-  "80699882": [
-    "media influence",
-    "public misinformation",
-    "diversity"
-  ],
-  "8419207": [
-    "economic policy",
-    "corporate accountability"
-  ],
-  "8703750": [],
-  "8647159": [
-    "political leadership",
-    "US politics",
-    "human rights",
-    "political accountability"
-  ],
-  "50964456": [
-    "political campaigns",
-    "gender equality",
-    "human rights"
-  ],
-  "10473656": [
-    "economic policy",
-    "US politics",
-    "political leadership",
-    "trust in institutions"
-  ],
-  "11207045": [
-    "housing affordability",
-    "mental health",
-    "crime and justice"
-  ],
-  "7273458": [
-    "economic policy",
-    "international relations",
-    "inflation",
-    "foreign policy"
-  ],
-  "7028946": [
-    "political polarization",
-    "political leadership",
-    "US politics",
-    "public misinformation",
-    "political accountability"
-  ],
-  "11030046": [],
-  "12545467": [
-    "social media influence",
-    "public misinformation",
-    "economic inequality",
-    "media bias"
-  ],
   "13945738": [
     "social justice",
     "media influence",
     "international relations",
     "foreign policy",
     "racial equality"
-  ],
-  "11026041": [
-    "inflation",
-    "economic policy",
-    "housing affordability",
-    "political leadership",
-    "US politics"
-  ],
-  "7028860": [
-    "political polarization",
-    "political campaigns",
-    "US politics",
-    "economic policy"
-  ],
-  "7273084": [
-    "economic policy",
-    "inflation"
-  ],
-  "68003233": [
-    "climate change",
-    "authoritarianism",
-    "political polarization",
-    "racial inequality",
-    "US politics"
-  ],
-  "13940935": [
-    "urban development",
-    "political campaigns",
-    "media influence"
-  ],
-  "10976425": [
-    "media influence",
-    "political leadership",
-    "political campaigns",
-    "social media influence",
-    "US politics"
-  ],
-  "7121284": [
-    "economic policy",
-    "corporate accountability",
-    "voter behavior",
-    "public misinformation"
   ],
   "13901215": [
     "economic policy",
@@ -4126,11 +3862,273 @@
     "investment strategies",
     "credit risk management"
   ],
+  "11260687": [
+    "economic policy",
+    "inflation",
+    "labor unions"
+  ],
+  "6274232": [
+    "digital privacy",
+    "media influence",
+    "social media influence"
+  ],
+  "12545467": [
+    "social media influence",
+    "public misinformation",
+    "economic inequality",
+    "media bias"
+  ],
+  "5886359": [
+    "education inequality",
+    "economic inequality",
+    "social justice",
+    "political polarization",
+    "economic policy"
+  ],
+  "13940935": [
+    "urban development",
+    "political campaigns",
+    "media influence"
+  ],
+  "11026041": [
+    "inflation",
+    "economic policy",
+    "housing affordability",
+    "political leadership",
+    "US politics"
+  ],
+  "13945878": [
+    "AI and ethics"
+  ],
+  "11159094": [
+    "economic policy"
+  ],
+  "11588372": [
+    "economic inequality",
+    "political campaigns",
+    "voter behavior",
+    "US politics",
+    "public misinformation"
+  ],
   "13869387": [
     "political leadership",
     "economic policy",
     "trust in institutions",
     "political accountability"
+  ],
+  "8647159": [
+    "political leadership",
+    "US politics",
+    "human rights",
+    "political accountability"
+  ],
+  "10473463": [
+    "corporate accountability",
+    "healthcare complexity",
+    "media influence"
+  ],
+  "50964456": [
+    "political campaigns",
+    "gender equality",
+    "human rights"
+  ],
+  "13948439": [
+    "social justice",
+    "media influence",
+    "political polarization",
+    "racial equality"
+  ],
+  "4755461": [
+    "economic policy",
+    "inflation",
+    "pandemic response",
+    "labor unions",
+    "public health policy"
+  ],
+  "8703750": [],
+  "80699882": [
+    "media influence",
+    "public misinformation",
+    "diversity"
+  ],
+  "4270540": [
+    "economic inequality",
+    "education reform",
+    "economic policy"
+  ],
+  "11871190": [
+    "economic policy",
+    "pandemic response",
+    "inflation"
+  ],
+  "11917541": [
+    "media influence",
+    "media bias",
+    "free speech issues"
+  ],
+  "10473656": [
+    "economic policy",
+    "US politics",
+    "political leadership",
+    "trust in institutions"
+  ],
+  "80662518": [
+    "political leadership",
+    "voter behavior"
+  ],
+  "10288516": [
+    "economic policy",
+    "political leadership",
+    "US politics",
+    "economic inequality",
+    "public misinformation"
+  ],
+  "3487721": [
+    "political leadership",
+    "political polarization",
+    "racial inequality",
+    "economic inequality",
+    "voter behavior"
+  ],
+  "42386121": [
+    "media influence",
+    "public misinformation",
+    "media bias",
+    "international relations"
+  ],
+  "11141755": [
+    "labor unions",
+    "economic policy",
+    "climate change",
+    "US politics"
+  ],
+  "10138753": [
+    "media influence",
+    "social media influence",
+    "public misinformation",
+    "US politics",
+    "political polarization"
+  ],
+  "69718733": [
+    "education inequality",
+    "political leadership",
+    "trust in institutions"
+  ],
+  "8419207": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "68003233": [
+    "climate change",
+    "authoritarianism",
+    "political polarization",
+    "racial inequality",
+    "US politics"
+  ],
+  "7121284": [
+    "economic policy",
+    "corporate accountability",
+    "voter behavior",
+    "public misinformation"
+  ],
+  "14065242": [
+    "AI and ethics",
+    "political polarization",
+    "technology ethics"
+  ],
+  "14324421": [
+    "education reform",
+    "digital privacy"
+  ],
+  "14071683": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "11095471": [
+    "education reform",
+    "immigration issues"
+  ],
+  "7327423": [
+    "corporate accountability",
+    "economic policy"
+  ],
+  "14146882": [
+    "political polarization",
+    "social media influence"
+  ],
+  "7273084": [
+    "economic policy",
+    "inflation"
+  ],
+  "7273458": [
+    "economic policy",
+    "international relations",
+    "inflation",
+    "foreign policy"
+  ],
+  "14147007": [
+    "AI and ethics",
+    "media influence",
+    "trust in institutions"
+  ],
+  "9886124": [
+    "inflation",
+    "economic policy",
+    "US politics",
+    "international relations",
+    "Russia-Ukraine conflict"
+  ],
+  "81227719": [
+    "healthcare complexity",
+    "economic policy",
+    "corporate accountability"
+  ],
+  "12139325": [
+    "urban development",
+    "economic inequality"
+  ],
+  "7028946": [
+    "political polarization",
+    "political leadership",
+    "US politics",
+    "public misinformation",
+    "political accountability"
+  ],
+  "12467863": [
+    "social media influence",
+    "media bias",
+    "trust in institutions"
+  ],
+  "11968582": [
+    "climate change",
+    "environmental impact"
+  ],
+  "13961047": [
+    "media influence",
+    "political polarization",
+    "political campaigns",
+    "social media influence",
+    "racial equality"
+  ],
+  "13961132": [
+    "media influence",
+    "political campaigns",
+    "international relations",
+    "foreign policy",
+    "public health"
+  ],
+  "81142974": [
+    "media influence",
+    "media bias",
+    "political polarization",
+    "social media influence"
+  ],
+  "11259699": [
+    "inflation",
+    "economic policy",
+    "US politics",
+    "monetary policy",
+    "employment trends"
   ],
   "3983530": [
     "economic policy",
@@ -4139,133 +4137,40 @@
     "political campaigns",
     "inflation"
   ],
-  "3644093": [
-    "environmental impact",
-    "climate change",
-    "energy policy",
-    "economic policy",
-    "US politics"
-  ],
-  "4192678": [
-    "economic policy",
-    "corporate accountability"
-  ],
-  "12125550": [
-    "social media influence",
-    "media bias",
-    "technology ethics"
-  ],
-  "3901854": [
-    "economic inequality",
-    "education reform",
-    "public policy"
-  ],
-  "80664751": [
-    "media influence",
-    "political campaigns",
-    "US politics",
-    "media bias",
-    "voter behavior"
-  ],
-  "11191896": [
-    "trust in institutions",
-    "corporate accountability",
-    "criminal justice reform",
-    "public misinformation",
-    "political accountability"
-  ],
-  "12125239": [
-    "social media influence",
-    "media bias"
-  ],
-  "11096029": [],
-  "11264866": [
-    "economic policy",
-    "inflation"
-  ],
-  "10148881": [
-    "economic policy",
-    "tax policy",
-    "economic inequality"
-  ],
-  "44697274": [
-    "economic policy",
+  "11259406": [
     "inflation",
-    "economic inequality"
+    "economic policy",
+    "labor unions"
   ],
-  "10332670": [
-    "bureaucracy",
-    "urban development",
-    "public service efficiency"
-  ],
-  "10854369": [
+  "82386194": [
+    "generational change",
     "AI and ethics",
-    "technology ethics"
+    "political philosophy"
   ],
-  "11026405": [
-    "media influence",
-    "political polarization",
-    "media bias"
-  ],
-  "13947017": [
-    "media influence",
-    "political polarization",
-    "social justice"
-  ],
-  "12070359": [
-    "political campaigns",
-    "economic policy",
-    "US politics"
-  ],
-  "11157661": [
-    "economic policy",
-    "corporate accountability",
-    "US politics",
-    "political leadership",
-    "public misinformation"
-  ],
-  "14480060": [],
-  "13948416": [
-    "political campaigns",
-    "media influence",
-    "climate change",
-    "energy policy",
-    "economic policy"
-  ],
-  "13949388": [
-    "media influence",
-    "urban development",
-    "political campaigns",
-    "housing affordability",
-    "public misinformation"
-  ],
-  "14063675": [
-    "AI and ethics",
-    "corporate accountability",
-    "technology ethics",
-    "media influence",
-    "political leadership"
-  ],
-  "11191775": [
-    "corporate accountability",
-    "crime and justice",
-    "economic policy"
-  ],
-  "11271172": [
-    "economic policy",
-    "inflation"
-  ],
-  "11281564": [
-    "inflation",
+  "14010844": [
     "labor unions",
+    "political polarization",
+    "public sector",
     "economic policy"
   ],
-  "9627947": [
-    "economic policy",
-    "financial stability",
-    "banking regulation",
-    "monetary policy",
-    "corporate accountability"
+  "11207045": [
+    "housing affordability",
+    "mental health",
+    "crime and justice"
+  ],
+  "7028860": [
+    "political polarization",
+    "political campaigns",
+    "US politics",
+    "economic policy"
+  ],
+  "11030046": [],
+  "14060909": [
+    "AI and ethics",
+    "media influence",
+    "political polarization",
+    "religious freedom",
+    "economic policy"
   ],
   "47810380": [
     "media influence",
@@ -4274,15 +4179,69 @@
     "political leadership",
     "US politics"
   ],
+  "44697274": [
+    "economic policy",
+    "inflation",
+    "economic inequality"
+  ],
+  "12125550": [
+    "social media influence",
+    "media bias",
+    "technology ethics"
+  ],
+  "3644093": [
+    "environmental impact",
+    "climate change",
+    "energy policy",
+    "economic policy",
+    "US politics"
+  ],
+  "3901854": [
+    "economic inequality",
+    "education reform",
+    "public policy"
+  ],
+  "9627947": [
+    "economic policy",
+    "financial stability",
+    "banking regulation",
+    "monetary policy",
+    "corporate accountability"
+  ],
   "48484047": [
     "media influence",
     "media bias"
   ],
-  "13998571": [
-    "media influence"
+  "12070359": [
+    "political campaigns",
+    "economic policy",
+    "US politics"
   ],
-  "53440569": [
-    "economic inequality",
+  "12125239": [
+    "social media influence",
+    "media bias"
+  ],
+  "10332670": [
+    "bureaucracy",
+    "urban development",
+    "public service efficiency"
+  ],
+  "4192678": [
+    "economic policy",
+    "corporate accountability"
+  ],
+  "79556232": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "80664751": [
+    "media influence",
+    "political campaigns",
+    "US politics",
+    "media bias",
+    "voter behavior"
+  ],
+  "13998571": [
     "media influence"
   ],
   "7752367": [
@@ -4290,13 +4249,30 @@
     "inflation",
     "economic policy"
   ],
+  "14480060": [],
+  "11157661": [
+    "economic policy",
+    "corporate accountability",
+    "US politics",
+    "political leadership",
+    "public misinformation"
+  ],
+  "11191775": [
+    "corporate accountability",
+    "crime and justice",
+    "economic policy"
+  ],
+  "11191896": [
+    "trust in institutions",
+    "corporate accountability",
+    "criminal justice reform",
+    "public misinformation",
+    "political accountability"
+  ],
+  "11096029": [],
   "7242930": [
     "economic policy",
     "media influence"
-  ],
-  "11843203": [
-    "corporate accountability",
-    "trust in institutions"
   ],
   "7121569": [
     "inflation",
@@ -4311,34 +4287,85 @@
     "inflation",
     "corporate accountability"
   ],
-  "6908518": [
-    "education inequality",
-    "political leadership",
-    "political accountability"
+  "14063675": [
+    "AI and ethics",
+    "corporate accountability",
+    "technology ethics",
+    "media influence",
+    "political leadership"
   ],
   "71681697": [
     "AI and ethics",
     "technology ethics",
     "digital privacy"
   ],
+  "6908518": [
+    "education inequality",
+    "political leadership",
+    "political accountability"
+  ],
+  "10854369": [
+    "AI and ethics",
+    "technology ethics"
+  ],
+  "13949388": [
+    "media influence",
+    "urban development",
+    "political campaigns",
+    "housing affordability",
+    "public misinformation"
+  ],
   "6862313": [
     "activism",
     "public safety",
     "crime and justice"
+  ],
+  "13948416": [
+    "political campaigns",
+    "media influence",
+    "climate change",
+    "energy policy",
+    "economic policy"
+  ],
+  "13947017": [
+    "media influence",
+    "political polarization",
+    "social justice"
+  ],
+  "11026405": [
+    "media influence",
+    "political polarization",
+    "media bias"
+  ],
+  "11264866": [
+    "economic policy",
+    "inflation"
+  ],
+  "11271172": [
+    "economic policy",
+    "inflation"
+  ],
+  "11281564": [
+    "inflation",
+    "labor unions",
+    "economic policy"
+  ],
+  "53440569": [
+    "economic inequality",
+    "media influence"
   ],
   "5440651": [
     "international relations",
     "energy policy",
     "Russia-Ukraine conflict"
   ],
-  "79556232": [
-    "AI and ethics",
-    "technology ethics"
+  "11843203": [
+    "corporate accountability",
+    "trust in institutions"
   ],
-  "81901506": [
+  "10148881": [
     "economic policy",
-    "housing affordability",
-    "political accountability",
-    "US politics"
+    "tax policy",
+    "economic inequality"
   ]
 }
