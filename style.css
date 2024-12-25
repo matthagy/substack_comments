@@ -58,8 +58,12 @@ h1 {
     align-items: center;
 }
 
-label.pad, button.pad {
+label.pad {
     margin-left: 10px;
+}
+
+button.pad {
+    margin-left: 6px;
 }
 
 input,
