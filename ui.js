@@ -88,6 +88,16 @@ const loadComments = async () => {
         return element
     }
 
+    /**
+     * @param {string} id
+     * @returns {HTMLButtonElement}
+     */
+    const getButtonById = (id) => {
+        const element = getElementById(id);
+        if (!(element instanceof HTMLButtonElement)) throw new Error(`Element with id ${id} is not a button`);
+        return element
+    }
+
     const commentsDiv = getElementById("comments");
     if (typeof commentsOrError === 'string') {
         commentsDiv.appendChild(document.createTextNode(`Failed to fetch comments: ${commentsOrError}`));
@@ -110,7 +120,9 @@ const loadComments = async () => {
     const searchInput = getInputById('search');
     const tagsSelect = getSelectById('tags');
     const commentCount = getElementById('commentCount');
-    const resetButton = getElementById('reset');
+    const resetButton = getButtonById('reset');
+    const copyUrlButton = getButtonById('copyUrl');
+    const downloadJsonButton = getButtonById('downloadJson');
 
     /**
      * @type {{ [tag: string]: number }}
@@ -678,23 +690,126 @@ const loadComments = async () => {
         }, 0);
     };
 
-    function reset() {
-        console.info('attempt reset');
-        sortSelect.value = initialParams.sortBy;
-        typeSelect.value = initialParams.selectCommentType;
-        showSelect.value = initialParams.showComments;
-        pageSelect.value = initialParams.pageNumber;
-        startDateInput.value = initialParams.startDate;
-        endDateInput.value = initialParams.endDate;
-        categorySelect.value = initialParams.category;
-        searchInput.value = initialParams.searchTerms;
+    /**
+     * @typedef {Object} ButtonHandler
+     * @property {string} name
+     * @property {HTMLButtonElement} button
+     * @property {() => Promise<boolean>} handler
+     * @property {string} originalText
+     * @property {string} successText
+     * @property {string} failureText
+     * @property {string | undefined} runningText
+     */
 
-        for (let i = 0; i < tagsSelect.options.length; i++) {
-            tagsSelect.options[i].selected = initialParams.selectedTags.includes(tagsSelect.options[i].value);
+    /**
+     * @type {{ [name: string]: number }}
+     */
+    const buttonHandlerTimeouts = {};
+
+    /**
+     * @param {ButtonHandler} buttonHandler
+     */
+    const handleButton = (buttonHandler) => {
+        const setButtonText = (text) => {
+            clearChildren(buttonHandler.button);
+            buttonHandler.button.appendChild(document.createTextNode(text));
         }
+        const wrapper = async () => {
+            console.info(`attempt ${buttonHandler.name}`);
+            const existingTimeout = buttonHandlerTimeouts[buttonHandler.name];
+            if (existingTimeout) {
+                console.warn(`Clearing callback for ${buttonHandler.name}`);
+                clearTimeout(existingTimeout);
+                buttonHandlerTimeouts[buttonHandler.name] = undefined;
+            }
+            if (buttonHandler.runningText) {
+                setButtonText(buttonHandler.runningText);
+            }
+            let success = false;
+            try {
+                success = await buttonHandler.handler();
+            } catch (error) {
+                console.error(`Failed to ${buttonHandler.name}:`, error);
+            }
+            setButtonText(success ? buttonHandler.successText : buttonHandler.failureText);
+            buttonHandlerTimeouts[buttonHandler.name] = setTimeout(() => {
+                setButtonText(buttonHandler.originalText);
+            }, 2000);
+        }
+        wrapper().catch(error => console.error(`Failed to ${buttonHandler.name}:`, error))
+    }
 
-        update();
-        console.info('finish reset');
+    const resetOriginalText = resetButton.textContent;
+    const reset = () => {
+        handleButton({
+            name: 'reset',
+            button: resetButton,
+            handler: async () => {
+                console.info('attempt reset');
+                sortSelect.value = initialParams.sortBy;
+                typeSelect.value = initialParams.selectCommentType;
+                showSelect.value = initialParams.showComments;
+                pageSelect.value = initialParams.pageNumber.toString();
+                startDateInput.value = initialParams.startDate;
+                endDateInput.value = initialParams.endDate;
+                categorySelect.value = initialParams.category;
+                searchInput.value = initialParams.searchTerms;
+
+                for (let i = 0; i < tagsSelect.options.length; i++) {
+                    tagsSelect.options[i].selected = initialParams.selectedTags.includes(tagsSelect.options[i].value);
+                }
+
+                update();
+                console.info('finish reset');
+                return true;
+            },
+            originalText: resetOriginalText,
+            successText: 'State reset!',
+            failureText: 'Failed to reset',
+            runningText: undefined
+        });
+    }
+
+    const copyUrlOriginalText = copyUrlButton.textContent;
+    const copyUrl = () => {
+        handleButton({
+            name: 'copyUrl',
+            button: copyUrlButton,
+            handler: () =>
+                navigator.clipboard.writeText(window.location.href)
+                    .then(() => true)
+                    .catch(error => {
+                        console.error('Failed to copy URL to clipboard:', error);
+                        return false;
+                    }),
+            originalText: copyUrlOriginalText,
+            successText: 'Copied!',
+            failureText: 'Failed to copy',
+            runningText: undefined
+        });
+    }
+
+    const downloadJsonOriginalText = downloadJsonButton.textContent;
+    const downloadJson = () => {
+        handleButton({
+            name: 'downloadJson',
+            button: downloadJsonButton,
+            handler: () => {
+                const comments = getFilteredAndSortedComments(allComments, lastState);
+                const blob = new Blob([JSON.stringify(comments, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `comments-${new Date().toISOString()}.json`;
+                a.click();
+                URL.revokeObjectURL(url);
+                return true;
+            },
+            originalText: downloadJsonOriginalText,
+            successText: 'Downloaded!',
+            failureText: 'Failed to download',
+            runningText: 'Downloading...'
+        })
     }
 
     [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
@@ -703,6 +818,8 @@ const loadComments = async () => {
     searchInput.addEventListener("input", debounceUpdate);
 
     resetButton.addEventListener('click', reset);
+    copyUrlButton.addEventListener('click', copyUrl);
+    downloadJsonButton.addEventListener('click', downloadJson);
 
     readParamsFromHash();
     update();
