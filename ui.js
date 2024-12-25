@@ -16,7 +16,7 @@
  * @property {string} date
  * @property {number} likes
  * @property {number} timestamp
- * @property {BodySpan[]} body
+ * @property {BodySpan[][]} body
  * @property {number} total_children
  * @property {number} parent_id
  * @property {number} parent_children
@@ -43,11 +43,38 @@
  * @property {number} pageNumber
  */
 
+/**
+ * @typedef {Object} UIElements
+ * @property {HTMLElement} commentsDiv
+ * @property {HTMLSelectElement} sortSelect
+ * @property {HTMLSelectElement} typeSelect
+ * @property {HTMLSelectElement} showSelect
+ * @property {HTMLSelectElement} pageSelect
+ * @property {HTMLElement} totalPages
+ * @property {HTMLInputElement} startDateInput
+ * @property {HTMLInputElement} endDateInput
+ * @property {HTMLSelectElement} categorySelect
+ * @property {HTMLInputElement} searchInput
+ * @property {HTMLSelectElement} tagsSelect
+ * @property {HTMLElement} commentCount
+ * @property {HTMLButtonElement} resetButton
+ * @property {HTMLButtonElement} copyUrlButton
+ * @property {HTMLButtonElement} downloadJsonButton
+ */
+
+/**
+ * @typedef {Object} ButtonHandler
+ * @property {string} name
+ * @property {HTMLButtonElement} button
+ * @property {() => Promise<boolean>} handler
+ * @property {string} originalText
+ * @property {string} successText
+ * @property {string} failureText
+ * @property {string | undefined} runningText
+ */
 
 const loadComments = async () => {
-    /**
-     * @type {Comment[] | string}
-     */
+    /** @type {Comment[] | string} */
     const commentsOrError = await fetch('./comments.json')
         .then(response => {
             if (!response.ok) {
@@ -60,143 +87,203 @@ const loadComments = async () => {
             return error.message || 'Unknown error';
         });
 
-    /**
-     * @param {string} id
-     * @returns {HTMLElement}
-     */
-    const getElementById = (id) => {
-        const element = document.getElementById(id);
-        if (!element) throw new Error(`Element with id ${id} not found`);
-        return element;
-    }
-    /**
-     * @param {string} id
-     * @returns {HTMLSelectElement}
-     */
-    const getSelectById = (id) => {
-        const element = getElementById(id);
-        if (!(element instanceof HTMLSelectElement)) throw new Error(`Element with id ${id} is not a select`);
-        return element
-    }
-    /**
-     * @param {string} id
-     * @returns {HTMLInputElement}
-     */
-    const getInputById = (id) => {
-        const element = getElementById(id);
-        if (!(element instanceof HTMLInputElement)) throw new Error(`Element with id ${id} is not an input`);
-        return element
-    }
+    /** @type {UIElements} */
+    const uiElements = (() => {
+        /**
+         * @param {string} id
+         * @returns {HTMLElement}
+         */
+        const getElementById = (id) => {
+            const element = document.getElementById(id);
+            if (!element) throw new Error(`Element with id ${id} not found`);
+            return element;
+        }
+        /**
+         * @param {string} id
+         * @returns {HTMLSelectElement}
+         */
+        const getSelectById = (id) => {
+            const element = getElementById(id);
+            if (!(element instanceof HTMLSelectElement)) throw new Error(`Element with id ${id} is not a select`);
+            return element
+        }
+        /**
+         * @param {string} id
+         * @returns {HTMLInputElement}
+         */
+        const getInputById = (id) => {
+            const element = getElementById(id);
+            if (!(element instanceof HTMLInputElement)) throw new Error(`Element with id ${id} is not an input`);
+            return element
+        }
+        /**
+         * @param {string} id
+         * @returns {HTMLButtonElement}
+         */
+        const getButtonById = (id) => {
+            const element = getElementById(id);
+            if (!(element instanceof HTMLButtonElement)) throw new Error(`Element with id ${id} is not a button`);
+            return element
+        }
 
-    /**
-     * @param {string} id
-     * @returns {HTMLButtonElement}
-     */
-    const getButtonById = (id) => {
-        const element = getElementById(id);
-        if (!(element instanceof HTMLButtonElement)) throw new Error(`Element with id ${id} is not a button`);
-        return element
-    }
+        return {
+            commentsDiv: getElementById('comments'),
+            sortSelect: getSelectById('sort'),
+            typeSelect: getSelectById('type'),
+            showSelect: getSelectById('show'),
+            pageSelect: getSelectById('page'),
+            totalPages: getElementById('totalPages'),
+            startDateInput: getInputById('startDate'),
+            endDateInput: getInputById('endDate'),
+            categorySelect: getSelectById('category'),
+            searchInput: getInputById('search'),
+            tagsSelect: getSelectById('tags'),
+            commentCount: getElementById('commentCount'),
+            resetButton: getButtonById('reset'),
+            copyUrlButton: getButtonById('copyUrl'),
+            downloadJsonButton: getButtonById('downloadJson')
+        };
+    })();
 
-    const commentsDiv = getElementById("comments");
     if (typeof commentsOrError === 'string') {
-        commentsDiv.appendChild(document.createTextNode(`Failed to fetch comments: ${commentsOrError}`));
+        uiElements.commentsDiv.appendChild(document.createTextNode(`Failed to fetch comments: ${commentsOrError}`));
         return;
     }
 
-    /**
-     * @type {Comment[]}
-     */
+    /** @type {Comment[]} */
     const allComments = commentsOrError;
 
-    const sortSelect = getSelectById('sort');
-    const typeSelect = getSelectById('type');
-    const showSelect = getSelectById('show');
-    const pageSelect = getSelectById('page');
-    const totalPages = getElementById('totalPages');
-    const startDateInput = getInputById('startDate');
-    const endDateInput = getInputById('endDate');
-    const categorySelect = getSelectById('category');
-    const searchInput = getInputById('search');
-    const tagsSelect = getSelectById('tags');
-    const commentCount = getElementById('commentCount');
-    const resetButton = getButtonById('reset');
-    const copyUrlButton = getButtonById('copyUrl');
-    const downloadJsonButton = getButtonById('downloadJson');
-
-    /**
-     * @type {{ [tag: string]: number }}
-     */
-    const categoryCount = {};
-    allComments.forEach(comment => {
-        categoryCount[comment.category] = (categoryCount[comment.category] || 0) + 1;
-    });
-
-    const categories = Object.keys(categoryCount).sort((a, b) => a.localeCompare(b));
-    categories.forEach(category => {
-        const option = document.createElement('option');
-        option.appendChild(document.createTextNode(`${category} (${categoryCount[category]})`));
-        option.setAttribute('value', category);
-        categorySelect.add(option);
-    });
-
-    /**
-     * @param {number} n
-     * @returns {string[]}
-     */
-    const generateHSVPalette = (n) => {
-        const palette = [];
-        for (let i = 0; i < n; i++) {
-            const hue = (i / n) * 360; // Evenly spaced hues around the color wheel
-            const saturation = 70; // Moderate saturation for vibrant yet soft colors
-            const value = 50;
-            const alpha = 0.3;
-            palette.push(`hsla(${hue}, ${saturation}%, ${value}%, ${alpha})`);
-        }
-        return palette;
-    };
-
-    /**
-     * @type {{ [tag: string]: number }}
-     */
-    const tagsCount = {};
-    allComments.forEach(comment => {
-        comment.tags.forEach(tag => tagsCount[tag] = (tagsCount[tag] || 0) + 1);
-    });
-    const allTags = Object.keys(tagsCount);
-    const topTags = allTags.sort((a, b) => tagsCount[b] - tagsCount[a]).slice(0, 20);
-    console.log('topTags', topTags.map(tag => `${tag} (${tagsCount[tag]})`));
-    const tagsColorArray = generateHSVPalette(topTags.length);
-    /**
-     * @type {{ [tag: string]: string }}
-     */
-    const tagColors = topTags.reduce((acc, tag, index) => {
-        acc[tag] = tagsColorArray[index];
-        return acc;
-    }, {});
-
-    allTags.filter(tag => tagsCount[tag] > 5)
-        .sort((a, b) => a.localeCompare(b))
-        .forEach(tag => {
-            const option = document.createElement('option');
-            option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
-            option.setAttribute('value', tag);
-            tagsSelect.add(option);
+    (() => { // Populate category dropdown
+        /** @type {{ [tag: string]: number }} */
+        const categoryCount = {};
+        allComments.forEach(comment => {
+            categoryCount[comment.category] = (categoryCount[comment.category] || 0) + 1;
         });
 
-    const timestamps = allComments.map(comment => comment.timestamp);
-    const secondsInDay = 24 * 60 * 60;
-    startDateInput.valueAsDate = new Date(Math.min(...timestamps) * 1000);
-    endDateInput.valueAsDate = new Date((Math.max(...timestamps) + secondsInDay) * 1000);
+        const categories = Object.keys(categoryCount).sort((a, b) => a.localeCompare(b));
+        categories.forEach(category => {
+            const option = document.createElement('option');
+            option.appendChild(document.createTextNode(`${category} (${categoryCount[category]})`));
+            option.setAttribute('value', category);
+            uiElements.categorySelect.add(option);
+        });
+    })();
 
-    let pendingUpdate = null;
-    let updating = false;
+    /** @type {{ [tag: string]: string }} */
+    const tagColors = (() => { // Populate tags dropdown and generate tag colors
+        /**
+         * @param {number} n
+         * @returns {string[]}
+         */
+        const generateHSVPalette = (n) => {
+            const palette = [];
+            for (let i = 0; i < n; i++) {
+                const hue = (i / n) * 360; // Evenly spaced hues around the color wheel
+                const saturation = 70; // Moderate saturation for vibrant yet soft colors
+                const value = 50;
+                const alpha = 0.3;
+                palette.push(`hsla(${hue}, ${saturation}%, ${value}%, ${alpha})`);
+            }
+            return palette;
+        };
 
-    const debounceUpdate = () => {
-        if (pendingUpdate) {
-            window.clearTimeout(pendingUpdate);
+        /** @type {{ [tag: string]: number }} */
+        const tagsCount = {};
+        allComments.forEach(comment => {
+            comment.tags.forEach(tag => tagsCount[tag] = (tagsCount[tag] || 0) + 1);
+        });
+        const allTags = Object.keys(tagsCount);
+        const topTags = allTags.sort((a, b) => tagsCount[b] - tagsCount[a]).slice(0, 20);
+        const tagsColorArray = generateHSVPalette(topTags.length);
+
+        allTags.filter(tag => tagsCount[tag] > 5)
+            .sort((a, b) => a.localeCompare(b))
+            .forEach(tag => {
+                const option = document.createElement('option');
+                option.appendChild(document.createTextNode(`${tag} (${tagsCount[tag]})`));
+                option.setAttribute('value', tag);
+                uiElements.tagsSelect.add(option);
+            });
+        return topTags.reduce((acc, tag, index) => {
+            acc[tag] = tagsColorArray[index];
+            return acc;
+        }, {});
+    })();
+
+    (() => {
+        const timestamps = allComments.map(comment => comment.timestamp);
+        const secondsInDay = 24 * 60 * 60;
+        uiElements.startDateInput.valueAsDate = new Date(Math.min(...timestamps) * 1000);
+        uiElements.endDateInput.valueAsDate = new Date((Math.max(...timestamps) + secondsInDay) * 1000);
+    })();
+
+    /** @returns {UIState} */
+    const getCurrentUIState = () => {
+        return {
+            selectCommentType: uiElements.typeSelect.value,
+            sortBy: uiElements.sortSelect.value,
+            showComments: uiElements.showSelect.value,
+            searchTerms: uiElements.searchInput.value.trim(),
+            category: uiElements.categorySelect.value,
+            selectedTags: Array.from(uiElements.tagsSelect.selectedOptions).map(option => option.value),
+            startDate: uiElements.startDateInput.value,
+            endDate: uiElements.endDateInput.value,
+            pageNumber: parseInt(uiElements.pageSelect.value, 10)
+        };
+    };
+
+    const initialParams = getCurrentUIState();
+
+    /** @type {UIState | null} */
+    let lastState = null;
+
+    let hasReadHashParams = false;
+
+    const readParamsFromHash = () => {
+        const hash = (window.location.hash || '').substring(1); // remove '#'
+        const params = new URLSearchParams(hash);
+        console.info('start readParamsFromHash', params);
+
+        if (params.has('sort')) uiElements.sortSelect.value = params.get('sort');
+        if (params.has('type')) uiElements.typeSelect.value = params.get('type');
+        if (params.has('show')) uiElements.showSelect.value = params.get('show');
+        if (params.has('page')) uiElements.pageSelect.value = params.get('page');
+        if (params.has('startDate')) uiElements.startDateInput.value = params.get('startDate');
+        if (params.has('endDate')) uiElements.endDateInput.value = params.get('endDate');
+        if (params.has('category')) uiElements.categorySelect.value = params.get('category');
+        if (params.has('search')) uiElements.searchInput.value = params.get('search');
+
+        if (params.has('tags')) {
+            const selectedTags = params.get('tags').split(',');
+            for (let i = 0; i < uiElements.tagsSelect.options.length; i++) {
+                uiElements.tagsSelect.options[i].selected = selectedTags.includes(uiElements.tagsSelect.options[i].value);
+            }
         }
-        pendingUpdate = window.setTimeout(update, 200);
+        hasReadHashParams = true;
+    };
+
+    const writeParamsToHash = () => {
+        if (!hasReadHashParams) {
+            throw new Error('writeParamsToHash without readParamsFromHash');
+        }
+
+        const params = new URLSearchParams();
+        params.set('sort', uiElements.sortSelect.value);
+        params.set('type', uiElements.typeSelect.value);
+        params.set('show', uiElements.showSelect.value);
+        params.set('page', uiElements.pageSelect.value);
+        params.set('startDate', uiElements.startDateInput.value);
+        params.set('endDate', uiElements.endDateInput.value);
+        params.set('category', uiElements.categorySelect.value);
+        params.set('search', uiElements.searchInput.value.trim());
+
+        const selectedTags = Array.from(uiElements.tagsSelect.selectedOptions).map(o => o.value);
+        if (selectedTags.length > 0) {
+            params.set('tags', selectedTags.join(','));
+        }
+
+        window.location.hash = params.toString();
+        console.info('finish writeParamsToHash', params);
     };
 
     /**
@@ -220,82 +307,6 @@ const loadComments = async () => {
         }
 
         return [terms, input];
-    };
-
-    let hasReadHashParams = false;
-
-    /**
-     * @returns {UIState}
-     */
-    const getCurrentUIState = () => {
-        return {
-            selectCommentType: typeSelect.value,
-            sortBy: sortSelect.value,
-            showComments: showSelect.value,
-            searchTerms: searchInput.value.trim(),
-            category: categorySelect.value,
-            selectedTags: Array.from(tagsSelect.selectedOptions).map(option => option.value),
-            startDate: startDateInput.value,
-            endDate: endDateInput.value,
-            pageNumber: parseInt(pageSelect.value, 10)
-        };
-    };
-
-    const initialParams = getCurrentUIState();
-
-    /**
-     * @type {UIState | null}
-     */
-    let lastState = null;
-
-    const readParamsFromHash = () => {
-        console.info('attempt readParamsFromHash');
-
-        const hash = (window.location.hash || '').substring(1); // remove '#'
-        const params = new URLSearchParams(hash);
-        console.info('start readParamsFromHash', params);
-
-        if (params.has('sort')) sortSelect.value = params.get('sort');
-        if (params.has('type')) typeSelect.value = params.get('type');
-        if (params.has('show')) showSelect.value = params.get('show');
-        if (params.has('page')) pageSelect.value = params.get('page');
-        if (params.has('startDate')) startDateInput.value = params.get('startDate');
-        if (params.has('endDate')) endDateInput.value = params.get('endDate');
-        if (params.has('category')) categorySelect.value = params.get('category');
-        if (params.has('search')) searchInput.value = params.get('search');
-
-        if (params.has('tags')) {
-            const selectedTags = params.get('tags').split(',');
-            for (let i = 0; i < tagsSelect.options.length; i++) {
-                tagsSelect.options[i].selected = selectedTags.includes(tagsSelect.options[i].value);
-            }
-        }
-        hasReadHashParams = true;
-        console.info('finish readParamsFromHash');
-    };
-
-    const writeParamsToHash = () => {
-        if (!hasReadHashParams) {
-            console.warn('writeParamsToHash skipped');
-        }
-
-        const params = new URLSearchParams();
-        params.set('sort', sortSelect.value);
-        params.set('type', typeSelect.value);
-        params.set('show', showSelect.value);
-        params.set('page', pageSelect.value);
-        params.set('startDate', startDateInput.value);
-        params.set('endDate', endDateInput.value);
-        params.set('category', categorySelect.value);
-        params.set('search', searchInput.value.trim());
-
-        const selectedTags = Array.from(tagsSelect.selectedOptions).map(o => o.value);
-        if (selectedTags.length > 0) {
-            params.set('tags', selectedTags.join(','));
-        }
-
-        window.location.hash = params.toString();
-        console.info('finish writeParamsToHash', params);
     };
 
     /**
@@ -386,6 +397,18 @@ const loadComments = async () => {
             inTimestampRange(comment) && doTagsMatch(comment) && doTermsMatch(comment);
 
         /**
+         * @param {Comment} comment
+         * @returns {number}
+         */
+        const computeLength = (comment) => {
+            return comment['body'].reduce((acc, paragraph) => {
+                return acc + paragraph.reduce((acc, span) => {
+                    return acc + span['value'].length;
+                }, 0);
+            }, 0);
+        };
+
+        /**
          * @param {Comment} a
          * @param {Comment} b
          * @returns {number}
@@ -439,6 +462,8 @@ const loadComments = async () => {
         );
     };
 
+    let updating = false;
+
     const update = () => {
         if (updating) {
             console.warn('recursive update');
@@ -457,8 +482,8 @@ const loadComments = async () => {
 
         let comments = getFilteredAndSortedComments(allComments, lastState);
 
-        clearChildren(commentCount);
-        commentCount.appendChild(document.createTextNode(`${comments.length} matching comments out of ${allComments.length} total`));
+        clearChildren(uiElements.commentCount);
+        uiElements.commentCount.appendChild(document.createTextNode(`${comments.length} matching comments out of ${allComments.length} total`));
 
         let pages = 1;
         if (lastState.showComments !== 'all') {
@@ -469,19 +494,19 @@ const loadComments = async () => {
             comments = comments.slice(start, end);
         }
 
-        clearChildren(totalPages);
-        totalPages.appendChild(document.createTextNode(`of ${pages}`));
+        clearChildren(uiElements.totalPages);
+        uiElements.totalPages.appendChild(document.createTextNode(`of ${pages}`));
 
-        clearChildren(pageSelect);
+        clearChildren(uiElements.pageSelect);
         for (let i = 1; i <= pages; i++) {
             const pageOption = document.createElement('option');
             pageOption.appendChild(document.createTextNode(String(i)));
             pageOption.setAttribute('value', String(i));
-            pageSelect.add(pageOption);
+            uiElements.pageSelect.add(pageOption);
         }
-        pageSelect.selectedIndex = pageNumber - 1;
+        uiElements.pageSelect.selectedIndex = pageNumber - 1;
 
-        clearChildren(commentsDiv);
+        clearChildren(uiElements.commentsDiv);
 
         const [extractedTerms, remainingInput] = extractQuotedRegex(lastState.searchTerms);
         const terms = remainingInput.length
@@ -498,7 +523,7 @@ const loadComments = async () => {
         };
         const termsMatcher = combinedTerms.length > 0 ? createTermMatcher() : null;
 
-        comments.forEach(comment => renderComment(comment, termsMatcher));
+        comments.forEach(comment => uiElements.commentsDiv.appendChild(renderComment(comment, termsMatcher)));
 
         writeParamsToHash();
         const endTime = new Date().getTime();
@@ -557,6 +582,7 @@ const loadComments = async () => {
      * Renders a single comment to the commentsDiv.
      * @param {Comment} comment
      * @param {RegExp | null} termsMatcher
+     * @returns {HTMLDivElement}
      */
     const renderComment = (comment, termsMatcher) => {
         const entryDiv = document.createElement('div');
@@ -607,17 +633,17 @@ const loadComments = async () => {
             });
         metaDiv.appendChild(tagsDiv);
 
-        const categoryDiv = document.createElement('span');
-        categoryDiv.classList.add('category');
-        categoryDiv.appendChild(document.createTextNode(`Category: ${comment['category']}`));
-        metaDiv.appendChild(categoryDiv);
+        const categorySpan = document.createElement('span');
+        categorySpan.classList.add('category');
+        categorySpan.appendChild(document.createTextNode(`Category: ${comment['category']}`));
+        metaDiv.appendChild(categorySpan);
 
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');
         entryDiv.appendChild(commentDiv);
+        comment['body'].forEach(paragraph => commentDiv.appendChild(renderParagraph(paragraph, termsMatcher)));
 
-        comment['body'].forEach(block => commentDiv.appendChild(createBodyBlock(block, termsMatcher)));
-        commentsDiv.appendChild(entryDiv);
+        return entryDiv;
     };
 
     /**
@@ -625,19 +651,19 @@ const loadComments = async () => {
      * @param {RegExp | null} termsMatcher
      * @returns {HTMLParagraphElement}
      */
-    const createBodyBlock = (paragraph, termsMatcher) => {
+    const renderParagraph = (paragraph, termsMatcher) => {
         const para = document.createElement('p');
         para.classList.add('comment-text');
         paragraph.forEach(span => {
-            switch (span['type']) {
+            switch (span.type) {
                 case 'text':
-                    createHighlightedText(para, span['value'], termsMatcher);
+                    createHighlightedText(para, span.value, termsMatcher);
                     break;
                 case 'url':
                     const textNode = document.createElement('span');
-                    const link = createLink(span['value'], textNode, 'link');
+                    const link = createLink(span.value, textNode, 'link');
                     para.appendChild(link);
-                    createHighlightedText(textNode, span['value'], termsMatcher);
+                    createHighlightedText(textNode, span.value, termsMatcher);
             }
         });
         return para;
@@ -678,37 +704,10 @@ const loadComments = async () => {
         }
     };
 
-    /**
-     * @param {Comment} comment
-     * @returns {number}
-     */
-    const computeLength = (comment) => {
-        return comment['body'].reduce((acc, paragraph) => {
-            return acc + paragraph.reduce((acc, span) => {
-                return acc + span['value'].length;
-            }, 0);
-        }, 0);
-    };
-
-    /**
-     * @typedef {Object} ButtonHandler
-     * @property {string} name
-     * @property {HTMLButtonElement} button
-     * @property {() => Promise<boolean>} handler
-     * @property {string} originalText
-     * @property {string} successText
-     * @property {string} failureText
-     * @property {string | undefined} runningText
-     */
-
-    /**
-     * @type {{ [name: string]: number }}
-     */
+    /** @type {{ [name: string]: number }} */
     const buttonHandlerTimeouts = {};
 
-    /**
-     * @param {ButtonHandler} buttonHandler
-     */
+    /** @param {ButtonHandler} buttonHandler */
     const handleButton = (buttonHandler) => {
         const setButtonText = (text) => {
             clearChildren(buttonHandler.button);
@@ -739,24 +738,24 @@ const loadComments = async () => {
         wrapper().catch(error => console.error(`Failed to ${buttonHandler.name}:`, error))
     }
 
-    const resetOriginalText = resetButton.textContent;
+    const resetOriginalText = uiElements.resetButton.textContent;
     const reset = () => {
         handleButton({
             name: 'reset',
-            button: resetButton,
+            button: uiElements.resetButton,
             handler: async () => {
                 console.info('attempt reset');
-                sortSelect.value = initialParams.sortBy;
-                typeSelect.value = initialParams.selectCommentType;
-                showSelect.value = initialParams.showComments;
-                pageSelect.value = initialParams.pageNumber.toString();
-                startDateInput.value = initialParams.startDate;
-                endDateInput.value = initialParams.endDate;
-                categorySelect.value = initialParams.category;
-                searchInput.value = initialParams.searchTerms;
+                uiElements.sortSelect.value = initialParams.sortBy;
+                uiElements.typeSelect.value = initialParams.selectCommentType;
+                uiElements.showSelect.value = initialParams.showComments;
+                uiElements.pageSelect.value = initialParams.pageNumber.toString();
+                uiElements.startDateInput.value = initialParams.startDate;
+                uiElements.endDateInput.value = initialParams.endDate;
+                uiElements.categorySelect.value = initialParams.category;
+                uiElements.searchInput.value = initialParams.searchTerms;
 
-                for (let i = 0; i < tagsSelect.options.length; i++) {
-                    tagsSelect.options[i].selected = initialParams.selectedTags.includes(tagsSelect.options[i].value);
+                for (let i = 0; i < uiElements.tagsSelect.options.length; i++) {
+                    uiElements.tagsSelect.options[i].selected = initialParams.selectedTags.includes(uiElements.tagsSelect.options[i].value);
                 }
 
                 update();
@@ -770,11 +769,11 @@ const loadComments = async () => {
         });
     }
 
-    const copyUrlOriginalText = copyUrlButton.textContent;
+    const copyUrlOriginalText = uiElements.copyUrlButton.textContent;
     const copyUrl = () => {
         handleButton({
             name: 'copyUrl',
-            button: copyUrlButton,
+            button: uiElements.copyUrlButton,
             handler: () =>
                 navigator.clipboard.writeText(window.location.href)
                     .then(() => true)
@@ -789,14 +788,15 @@ const loadComments = async () => {
         });
     }
 
-    const downloadJsonOriginalText = downloadJsonButton.textContent;
+    const downloadJsonOriginalText = uiElements.downloadJsonButton.textContent;
     const downloadJson = () => {
         handleButton({
             name: 'downloadJson',
-            button: downloadJsonButton,
-            handler: () => {
+            button: uiElements.downloadJsonButton,
+            handler: async () => {
                 const comments = getFilteredAndSortedComments(allComments, lastState);
-                const blob = new Blob([JSON.stringify(comments, null, 2)], { type: 'application/json' });
+                const prettyJson = JSON.stringify(comments, null, 2);
+                const blob = new Blob([prettyJson], {type: 'application/json'});
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement('a');
                 a.href = url;
@@ -812,14 +812,23 @@ const loadComments = async () => {
         })
     }
 
-    [sortSelect, typeSelect, showSelect, pageSelect, startDateInput, endDateInput, categorySelect, tagsSelect].forEach(select => {
-        select.addEventListener("change", update);
-    });
-    searchInput.addEventListener("input", debounceUpdate);
+    /** @type {number | null} */
+    let pendingDebounce = null;
+    const debounceUpdate = () => {
+        if (pendingDebounce) window.clearTimeout(pendingDebounce);
+        pendingDebounce = window.setTimeout(() => {
+            pendingDebounce = null;
+            update()
+        }, 200);
+    };
 
-    resetButton.addEventListener('click', reset);
-    copyUrlButton.addEventListener('click', copyUrl);
-    downloadJsonButton.addEventListener('click', downloadJson);
+    [uiElements.sortSelect, uiElements.typeSelect, uiElements.showSelect, uiElements.pageSelect,
+        uiElements.startDateInput, uiElements.endDateInput, uiElements.categorySelect, uiElements.tagsSelect
+    ].forEach(select => select.addEventListener("change", update));
+    uiElements.searchInput.addEventListener("input", debounceUpdate);
+    uiElements.resetButton.addEventListener('click', reset);
+    uiElements.copyUrlButton.addEventListener('click', copyUrl);
+    uiElements.downloadJsonButton.addEventListener('click', downloadJson);
 
     readParamsFromHash();
     update();
