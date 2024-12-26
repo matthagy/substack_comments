@@ -27378,6 +27378,78 @@
     ]
   },
   {
+    "post_id": 103536260,
+    "title": "Wacky Beliefs are the Point ",
+    "canonical_url": "https://eriktorenberg.substack.com/p/wacky-beliefs-are-the-point",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 12940404,
+    "top_level": true,
+    "date": "Feb 20 2023 08:40",
+    "likes": 1,
+    "timestamp": 1676900450,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Solid points in this series of essays about the value of religion in promoting group loyalty regardless of the factual reality of the doctrine. (As an aside, I also quite enjoyed the Noah Smith discussion.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The ideas in these essays reminds me of a related 2016 Scott Alexander essay, \u201cThe Ideology is Not the Movement\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He uses various examples to demonstrate human\u2019s strong drive towards tribalism. This includes forming new groups as well as group fracturing and at times dissolution. Of particular importance are rallying flags; the \u201cexplicit purpose of the tribe.\u201d Yet we shouldn\u2019t be fooled into thinking individuals join their tribe primarily to advance these stated goals. Instead, rallying flags simply provide the ideological scaffolding for constructing tribal identities, and it is the group membership that actually matters to the members."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Scott\u2019s conclusion gets at the challenges of maintaining these rallying flags and durable tribes in our modern world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But in order to talk about tribes coherently, we need to talk about rallying flags. And that involves admitting that a lot of rallying flags are based on ideologies (which are sometimes wrong), holy books (which are always wrong), nationality (which we can\u2019t define), race (which is racist), and works of art (which some people inconveniently want to enjoy just as normal art without any connotations)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> My title for this post is also my preferred summary: the ideology is not the movement. Or, more jargonishly \u2013 the rallying flag is not the tribe. People are just trying to find a tribe for themselves and keep it intact. This often involves defending an ideology they might not be tempted to defend for any other reason. This doesn\u2019t make them bad, and it may not even necessarily mean their tribe deserves to go extinct. I\u2019m reluctant to say for sure whether I think it\u2019s okay to maintain a tribe based on a faulty ideology, but I think it\u2019s at least important to understand that these people are in a crappy situation with no good choices, and they deserve some pity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some vital aspects of modern society \u2013 freedom of speech, freedom of criticism, access to multiple viewpoints, the existence of entryist tribes with explicit goals of invading and destroying competing tribes as problematic, and the overwhelming pressure to dissolve into the Generic Identity Of Modern Secular Consumerism \u2013 make maintaining tribal identities really hard these days. I think some of the most interesting sociological questions revolve around whether there are any ways around the practical and moral difficulties with tribalism, what social phenomena are explicable as the struggle of tribes to maintain themselves in the face of pressure, and whether tribalism continues to be a worthwhile or even a possible project at all."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 12940404,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 13.0,
+    "word_count": 449,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 103365512,
     "title": "We can't tolerate fake, expired, and obscured car tags",
     "canonical_url": "https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and",
@@ -28352,6 +28424,50 @@
       "media bias",
       "digital privacy"
     ]
+  },
+  {
+    "post_id": 106614486,
+    "title": "How Slave Morality Won",
+    "canonical_url": "https://eriktorenberg.substack.com/p/how-slave-morality-won",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 13341562,
+    "top_level": true,
+    "date": "Mar 05 2023 20:08",
+    "likes": 1,
+    "timestamp": 1678064903,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While egalitarianism may be playing an ever larger role in our modern moral discussions, it doesn\u2019t appear to be winning any significant tangible victories over the last few decades. Further, there\u2019s a strong counter current in technology driving inequality by giving individuals and small teams ever increasing leverage and efficiency in deploying plans and capital. If anything, the recent flare ups of egalitarianism in our public discourse, eg. Occupy Wall Street and Bernie 2016, might just be a cathartic release of frustration for individuals who perceive themselves as getting the short end of the stick."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, while it\u2019s been a while since I\u2019ve read Nietzsche, I seem to recall him characterizing slave morality as being primarily a coping strategy for the weak rather than a calculated strategy for strengthening their position. While it could have the long term impact of subverting power structures, that was largely incidental. Its primary purpose was instead to allow the weak to accept their lot in life, and at times even celebrate their suffering. In contrast, active rebellions and revolutions required more of an \u00dcbermenschian will to power."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, our recent preoccupation with egalitarianism may simply be the latest coping strategy for dealing with more saliently perceived inequalities."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 13341562,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 13.3,
+    "word_count": 203,
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 106611175,
@@ -38656,6 +38772,50 @@
     "tags": []
   },
   {
+    "post_id": 138154907,
+    "title": "A Schism in The Current Thing",
+    "canonical_url": "https://eriktorenberg.substack.com/p/a-schism-in-the-current-thing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 43090647,
+    "top_level": true,
+    "date": "Nov 05 2023 03:50",
+    "likes": 6,
+    "timestamp": 1699174237,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I find it particularly surprising how many young western progressives\u2019 concern for the suffering of the Palestinian people can lead to condoning, or at least a failure to condemn Hamas; a far-right theocratic death cult. It seems trivial to me to separate these two and to even recognize Hamas as the chief barrier to the security and flourishing of the Palestinians."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet many western supporters feel the need to \u201csane wash\u201d Hamas\u2019s terrorism as something of a just liberation movement. That includes ignoring Hamas\u2019s strategic use of Palestinians as human shields and their celebration of the resulting civilian deaths as martyrs for use in their propaganda."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Why can\u2019t western Palestinian supporters separate out Hamas for condemnation?"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 43090647,
+    "thread_children": 5,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 12.3,
+    "word_count": 116,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 138527237,
     "title": "America\u2019s two homelessness problems",
     "canonical_url": "https://www.slowboring.com/p/americas-two-homelessness-problems",
@@ -39508,6 +39668,44 @@
       "education reform",
       "media influence"
     ]
+  },
+  {
+    "post_id": 139182056,
+    "title": "People are Different",
+    "canonical_url": "https://eriktorenberg.substack.com/p/people-are-different",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 44695730,
+    "top_level": true,
+    "date": "Dec 03 2023 04:07",
+    "likes": 1,
+    "timestamp": 1701594465,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Freddie deBoer and Kathryn Paige Harden have offered the left a pathway to not only accepting innate differences among individuals, but also using these inequities as justification for leftist policies. Eg, if economic outcomes are strongly influenced by factors that are outside of individual control and can\u2019t be equalized through education and other interventions, then financial redistribution is the only practical way to achieve more equal material standards of living."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, the focus on ineffectual educational and societal interventions is a distraction from achieving leftist goals. Furthermore, this allows us affluent PMCs to demonstrate our concern for the poor and disadvantaged without having to bear the burden of the higher taxes needed for a proper welfare state to equalize material outcomes. From an even more cynical perspective, we ensure funding for members of our caste to \u201cwork\u201d on these futile interventions in governments, universities, and NGOs in perpetuity."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 44695730,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 17.3,
+    "word_count": 149,
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 139360227,
