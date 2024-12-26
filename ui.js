@@ -380,14 +380,17 @@ const loadComments = async () => {
          * @param {Comment} comment
          * @returns {boolean}
          */
-        const doTermsMatch = (comment) =>
-            termsRegexes.length === 0
-                ? true
-                : termsRegexes.every(termRegex =>
-                    comment.body.some(paragraph =>
-                        paragraph.some(span => termRegex.test(span.value))
-                    )
-                )
+        const doTermsMatch = (comment) => {
+            if (termsRegexes.length === 0) {
+                return true;
+            }
+            const domain = extractDomainComponents(comment['canonical_url']);
+            return termsRegexes.every(termRegex =>
+                comment.body.some(paragraph =>
+                    paragraph.some(span => termRegex.test(span.value))
+                ) || termRegex.test(comment.title) || termRegex.test(domain)
+            );
+        }
 
         /**
          * @param {Comment} comment
@@ -569,7 +572,11 @@ const loadComments = async () => {
             const hostname = new URL(url).hostname;
             const urlParts = hostname.split('.');
             if (urlParts.length >= 2) {
-                return urlParts.slice(-2).join('.'); // Last two components
+                const lastTwoComponents = urlParts.slice(-2).join('.');
+                if (lastTwoComponents === 'substack.com') {
+                    return urlParts.slice(-3).join('.');
+                }
+                return lastTwoComponents;
             }
             return hostname; // Fallback to full hostname
         } catch (error) {
@@ -592,14 +599,23 @@ const loadComments = async () => {
         metaDiv.classList.add('metaContainer');
         entryDiv.appendChild(metaDiv);
 
-        const createText = (text, cssClass) => {
+        /**
+         * @param {string} text
+         * @param {string} cssClass
+         * @param {boolean} highlight
+         */
+        const createText = (text, cssClass, highlight = false) => {
             if (typeof text !== 'string') {
                 throw new Error(`Expected string, got ${typeof text} for ${text}`);
             }
             const textSpan = document.createElement('span');
             metaDiv.appendChild(textSpan);
             textSpan.classList.add(cssClass);
-            textSpan.appendChild(document.createTextNode(text));
+            if (highlight) {
+                createHighlightedText(textSpan, text, termsMatcher);
+            } else {
+                textSpan.appendChild(document.createTextNode(text));
+            }
         };
 
         const createCommentLink = (commentId, text) => {
@@ -608,9 +624,9 @@ const loadComments = async () => {
 
         createText(comment['name'], 'name');
         createText(`❤ ${comment['likes']}, ${comment['date']}, FK=${comment['grade_level']}`, 'meta');
-        metaDiv.appendChild(createLink(comment['canonical_url'], comment['title'].trim(), 'post-title'));
-        let domain = extractDomainComponents(comment['canonical_url']);
-        createText(`[${domain}]`, 'meta');
+        metaDiv.appendChild(createHighlightLink(comment['canonical_url'], comment['title'].trim(), termsMatcher, 'post-title'));
+        const domain = extractDomainComponents(comment['canonical_url']);
+        createText(`[${domain}]`, 'meta', true);
         createCommentLink(comment.id, `${comment['top_level'] ? 'top-level' : 'reply'} (${comment['total_children']})`);
 
         if (!comment['top_level']) {
@@ -647,6 +663,20 @@ const loadComments = async () => {
     };
 
     /**
+     * @param {string} url
+     * @param {string} text
+     * @param {RegExp | null} termsMatcher
+     * @param {string} cssClass
+     * @returns {HTMLAnchorElement}
+     */
+    const createHighlightLink = (url, text, termsMatcher, cssClass) => {
+        const textNode = document.createElement('span');
+        const link = createLink(url, textNode, cssClass);
+        createHighlightedText(textNode, text, termsMatcher);
+        return link;
+    };
+
+    /**
      * @param {BodySpan[]} paragraph
      * @param {RegExp | null} termsMatcher
      * @returns {HTMLParagraphElement}
@@ -660,10 +690,7 @@ const loadComments = async () => {
                     createHighlightedText(para, span.value, termsMatcher);
                     break;
                 case 'url':
-                    const textNode = document.createElement('span');
-                    const link = createLink(span.value, textNode, 'link');
-                    para.appendChild(link);
-                    createHighlightedText(textNode, span.value, termsMatcher);
+                    para.appendChild(createHighlightLink(span.value, span.value, termsMatcher, 'link'));
             }
         });
         return para;
