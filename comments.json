@@ -45137,7 +45137,7 @@
     "parent_children": 21,
     "thread_id": 62790557,
     "thread_children": 51,
-    "ratio_recv": -6,
+    "ratio_recv": -5,
     "ratio_give": 12,
     "grade_level": 11.4,
     "word_count": 125,
@@ -50238,6 +50238,38 @@
     "tags": []
   },
   {
+    "post_id": 152877930,
+    "title": "Memes about Luigi Mangione",
+    "canonical_url": "https://eriktorenberg.substack.com/p/memes-about-luigi-mangione",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 80889054,
+    "top_level": false,
+    "date": "Dec 10 2024 09:27",
+    "likes": 2,
+    "timestamp": 1733840843,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Secounded "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 80852308,
+    "parent_children": 2,
+    "thread_id": 80852072,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 20.2,
+    "word_count": 1,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 152667675,
     "title": "Bad news from the New Cold War",
     "canonical_url": "https://www.slowboring.com/p/bad-news-from-the-new-cold-war",
@@ -50909,6 +50941,44 @@
     ]
   },
   {
+    "post_id": 153145666,
+    "title": "Dispatches from the Group Chats Vol 2",
+    "canonical_url": "https://eriktorenberg.substack.com/p/dispatches-from-the-group-chats-vol-d28",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 81638784,
+    "top_level": true,
+    "date": "Dec 15 2024 12:05",
+    "likes": 1,
+    "timestamp": 1734282351,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Liking this format\u2014keep them coming, please."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Topic suggestion for future volumes: speculation about a \u201cBiden Files\u201d from the Trump administration, likely with technical assistance from Musk acolytes. As a Democrat, I\u2019m curious about this possibility, both out of morbid curiosity and to brainstorm how Democrats should ideally respond, as well as how they are likely to respond in actuality."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 81638784,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.2,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 153234011,
     "title": "Are place-based policies targeting the wrong distressed areas?",
     "canonical_url": "https://www.slowboring.com/p/are-place-based-policies-targeting",
@@ -51375,7 +51445,7 @@
     "thread_id": 82758487,
     "thread_children": 76,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -4,
     "grade_level": 10.8,
     "word_count": 116,
     "category": "Media Evolution and Its Impact on Society",
