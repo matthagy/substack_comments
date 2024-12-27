@@ -48373,7 +48373,7 @@
     "id": 79556232,
     "top_level": true,
     "date": "Dec 01 2024 04:55",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1733046935,
     "body": [
       [
@@ -48427,12 +48427,12 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 79556232,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 2,
+    "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 203,
@@ -51955,6 +51955,98 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 458,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153372544,
+    "title": "The Origins of Elite Human Capital Institutions and Communities",
+    "canonical_url": "https://www.richardhanania.com/p/the-origins-of-elite-human-capital",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83305597,
+    "top_level": true,
+    "date": "Dec 27 2024 17:55",
+    "likes": 0,
+    "timestamp": 1735340118,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Re: \u201cMatthew Yglesias has argued that objective journalism emerged as a product of the business model of mid-twentieth century American newspapers\u201d, for the book you may want to additionally cite and summarize the work of the tech analyst Ben Thompson\u2019s extensive analysis of media business, including how the internet disrupted it. Notably, the following free articles:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* \u201cThe Great Unbundling\u201d Jan 2017, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-great-unbundling/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* \u201cThe Local News Business Model\u201d, May 2017, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-local-news-business-model/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* \u201cPopping the Publishing Bubble\u201d, Sep 2015, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2015/popping-the-publishing-bubble/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* \u201cNever-Ending Niches\u201d, Jun 2020, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/never-ending-niches/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thompson built his reputation on analysis of internet economics; chiefly zero marginal costs and lack of physical distribution limitations. He\u2019s highly respected in tech and these free articles in his newsletter \u201cStratechery\u201d are a great starting point for anyone who wants to better understand the evolution of the media ecosystem in the internet age. Thompson also extends this to Trump\u2019s disruption of the political process in his May 2016 article, \u201cThe Voters Decide\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2016/the-voters-decide/"
+        },
+        {
+          "type": "text",
+          "value": " ."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And lastly, Thompson pioneered the paid newsletter business model with the launch of his Stratechery newsletter in 2013 (Substacker founders listed his publication as their inspiration). The aforementioned \u201cThe Local News Business Model\u201d article has a greater overview of these economics in the section \u201cThe Subscription Business Model\u201d. Hence, I think he could be a valuable resource to your readers, and possibly to yourself, in better understanding the evolving economics of paid newsletters."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 83305597,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 17.0,
+    "word_count": 224,
     "category": "Uncategorized",
     "tags": []
   }
