@@ -51663,7 +51663,7 @@
     "id": 83172097,
     "top_level": true,
     "date": "Dec 26 2024 15:54",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1735246484,
     "body": [
       [
@@ -52047,6 +52047,76 @@
     "ratio_give": null,
     "grade_level": 17.0,
     "word_count": 224,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153527508,
+    "title": "2024 Was the Year I Didn't Change Much",
+    "canonical_url": "https://www.richardhanania.com/p/2024-was-the-year-i-didnt-change",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83312428,
+    "top_level": true,
+    "date": "Dec 27 2024 19:04",
+    "likes": 0,
+    "timestamp": 1735344275,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Congrats on a great 2024, including the growth in reach and subscribers! I upgraded from a monthly plan to an annual plan to demonstrate my own small financial commitment to your writing. I\u2019d encourage other subscribers to do likewise, as I imagine all writers appreciate the more stable funding of longer-term subscriptions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m particularly looking forward to the future installments of your Elite Human Capital book to better understand and appreciate what distinguishes the cultural and political institutions built by our modern educated classes relative to more instinctual modes of human organization throughout history. I also like this approach of releasing draft chapters one by one because I\u2019m increasingly hesitant to commit to reading entire books when I already have so many engaging newsletters. I hope to see other writers adopt this installment format so that we subscribers can engage with larger topics at a deeper level through our existing subscriptions. Eg, Yglesias did a five-part series on \u201cThe Strange Death of Education Reform.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of topic suggestions, I recently recommended tech analyst Ben Thompson\u2019s work on the evolution of the media business\u2014notably news and opinions\u2014with the internet, in the context of Chapter 2 in EHC concerning the death of mass media. [2] In general, I find Thompson to be particularly insightful on how the internet disrupted the information ecosystem and shattered our shared-consensus reality. He also has a lot to say about the subscription business model because Thompson pioneered the paid newsletter model with the launch of his Stratechery newsletter in 2013 (Substack founders listed his publication as their inspiration)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thanks for insightful and engaging articles and looking forward to more in 2025!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/why-teacher-evaluation-reforms-flopped"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.richardhanania.com/p/the-origins-of-elite-human-capital/comment/83305597"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 83312428,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 14.3,
+    "word_count": 278,
     "category": "Uncategorized",
     "tags": []
   }
