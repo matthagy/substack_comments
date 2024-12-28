@@ -27447,7 +27447,11 @@
     "grade_level": 13.0,
     "word_count": 449,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "social media influence",
+      "free speech issues",
+      "media bias"
+    ]
   },
   {
     "post_id": 103365512,
@@ -28467,7 +28471,12 @@
     "grade_level": 13.3,
     "word_count": 203,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "technology ethics",
+      "social justice",
+      "political polarization"
+    ]
   },
   {
     "post_id": 106611175,
@@ -38813,7 +38822,13 @@
     "grade_level": 12.3,
     "word_count": 116,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "human rights",
+      "political polarization",
+      "Middle East conflict",
+      "social media influence"
+    ]
   },
   {
     "post_id": 138527237,
@@ -39705,7 +39720,12 @@
     "grade_level": 17.3,
     "word_count": 149,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "education reform",
+      "social justice",
+      "political accountability"
+    ]
   },
   {
     "post_id": 139360227,
@@ -51174,7 +51194,11 @@
     "grade_level": 12.2,
     "word_count": 59,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "political accountability",
+      "political polarization"
+    ]
   },
   {
     "post_id": 153234011,
@@ -51956,7 +51980,13 @@
     "grade_level": 11.4,
     "word_count": 458,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "political leadership",
+      "political polarization",
+      "social justice",
+      "media influence",
+      "economic policy"
+    ]
   },
   {
     "post_id": 153372544,
@@ -52048,7 +52078,13 @@
     "grade_level": 17.0,
     "word_count": 224,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "media bias",
+      "political polarization",
+      "digital privacy",
+      "technology ethics"
+    ]
   },
   {
     "post_id": 153527508,
@@ -52060,7 +52096,7 @@
     "id": 83312428,
     "top_level": true,
     "date": "Dec 27 2024 19:04",
-    "likes": 0,
+    "likes": 4,
     "timestamp": 1735344275,
     "body": [
       [
@@ -52108,16 +52144,22 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 83312428,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 2,
+    "ratio_recv": -4,
     "ratio_give": null,
     "grade_level": 14.3,
     "word_count": 278,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "trust in institutions",
+      "education reform",
+      "public misinformation",
+      "technology ethics"
+    ]
   }
 ]
