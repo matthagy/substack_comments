@@ -52281,5 +52281,170 @@
       "political institutions",
       "subscription business model"
     ]
+  },
+  {
+    "post_id": 153765784,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-8ce",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83612822,
+    "top_level": false,
+    "date": "Dec 30 2024 03:11",
+    "likes": 2,
+    "timestamp": 1735546289,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Facebook make $68.44 of revenue per a user, per a **quarter**, which is $22.81 per a month. See \"Trends in Our Monetization by Facebook User Geography\" in their most recent 10-K annual report, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1326801/000132680124000012/meta-20231231.htm"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> We define ARPU [Average Revenue Per User] as our total revenue in a given geography during a given quarter, divided by the average of the number of MAUs in the geography at the beginning and end of the quarter. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, that is for the Dec 2023 quarter and they always have relatively higher revenue in that quarter due to the holiday season. There ARPU for the entire 2023 year is $48.85 + $53.53 + $56.11 + $68.44 = $226.93. Which averages out to $18.91 per a month."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 83551861,
+    "parent_children": 11,
+    "thread_id": 83535066,
+    "thread_children": 26,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 7.8,
+    "word_count": 116,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153267975,
+    "title": "Predictions for 2025 ",
+    "canonical_url": "https://www.slowboring.com/p/predictions-for-2025",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83646237,
+    "top_level": false,
+    "date": "Dec 30 2024 09:56",
+    "likes": 0,
+    "timestamp": 1735570568,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> it would already be getting great scores on PhD subject matter exams and would be much better at coding"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "OpenAI\u2019s o1 (announced Sept 12 2024), and now o3 (semi-announced Dec 20 2024), are reaching PhD-subject matter expert levels as well as blowing away coding benchmarks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From o1 announcement, "
+        },
+        {
+          "type": "url",
+          "value": "https://openai.com/index/learning-to-reason-with-llms/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> OpenAI o1 ranks in the 89th percentile on competitive programming questions (Codeforces), places among the top 500 students in the US in a qualifier for the USA Math Olympiad (AIME), and exceeds human PhD-level accuracy on a benchmark of physics, biology, and chemistry problems (GPQA). "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "o3 doesn\u2019t even yet have a formal announcement. Just the blog post \u201co3 preview & call for safety researchers\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://openai.com/12-days/?day=12"
+        },
+        {
+          "type": "text",
+          "value": " and a storm of tweets from OpenAI researchers and collaborators. Today, Zvi Mowshowitz published a consolidated collections of results and analysis in "
+        },
+        {
+          "type": "url",
+          "value": "https://thezvi.substack.com/p/o3-oh-my"
+        },
+        {
+          "type": "text",
+          "value": ". Here are some highlights:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Deedy: OpenAI o3 is 2727 on Codeforces which is equivalent to the #175 best human competitive coder on the planet."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Nat McAleese: Scores are impressive elsewhere, too. 87.7% on the GPQA diamond benchmark surpasses any LLM I am aware of externally (I believe the non-o1 state-of-the-art is Gemini Flash 2 at 62%?), as well as o1\u2019s 78%. An unknown noise ceiling exists, so this may even underestimate o3\u2019s scientific advancements over o1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> o3 can also perform software engineering, setting a new state of the art on SWE-bench, achieving 71.7%, a substantial improvement over o1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Well, on FrontierMath 2024-11-26, o3 improved the state of the art from 2% to 25% accuracy. These are extremely difficult, well-established, held-out math problems. And on ARC, the semi-private test set and public validation set scores are 87.5% (private) and 91.5% (public)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve already found o1 to be overkill for most software engineer problems. Moreover, 4o w/ search is best for anything of a factual nature because I can check its sources. Eg, when I wanted to sanity check a Facebook financial metrics in yesterday\u2019s comments, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunday-thread-mailbag-8ce/comment/83612822"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So we shouldn\u2019t expect many more improvements for us mere mortals for now. OpenAI and other labs are focused on competing w/ top-tier human experts on math and scientific research problems. Maybe some of that will flow back to helping us peons?"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 83623516,
+    "parent_children": 8,
+    "thread_id": 83623516,
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 8.8,
+    "word_count": 359,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
