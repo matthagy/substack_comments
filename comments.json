@@ -52350,11 +52350,11 @@
     ],
     "total_children": 2,
     "parent_id": 83623516,
-    "parent_children": 13,
+    "parent_children": 15,
     "thread_id": 83623516,
-    "thread_children": 13,
+    "thread_children": 15,
     "ratio_recv": -5,
-    "ratio_give": 4,
+    "ratio_give": 2,
     "grade_level": 8.8,
     "word_count": 359,
     "category": "Uncategorized",
@@ -52362,5 +52362,43 @@
       "AI and ethics",
       "technology ethics"
     ]
+  },
+  {
+    "post_id": 153283231,
+    "title": "How to get slightly better at things",
+    "canonical_url": "https://www.slowboring.com/p/how-to-get-slightly-better-at-things",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83786912,
+    "top_level": false,
+    "date": "Dec 31 2024 08:29",
+    "likes": 12,
+    "timestamp": 1735651784,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I wouldn\u2019t call Nate\u2019s Substack-advice article \u201cgrifty\u201d because there\u2019s no illusion that this is something just anyone can do\u2014i.e., it\u2019s not some get-rich-quick scheme. Maybe it could use an explicit disclaimer to that end\u2014comparable to Yglesias\u2019s caution to aspiring writers in today\u2019s article\u2014but it seems pretty clear to me that Nate is just describing what worked for him, with no pretense that anyone could duplicate his success."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also agree with your characterization of \u201cToo many small Substacks are paid.\u201d If anything, I think such writers could learn from the career history of Yglesias, Nate, Ezra, and others, all of whom began with years of non-monetized blogging, driven by a compulsion to write and be part of the public conversation. I imagine almost all early-career, aspiring newsletter authors should similarly begin with free blogging on the side. That allows them to hone their craft, build their brand, and verify whether this is something they actually want to do professionally. Worst case, they build up a portfolio of work they can reference when applying for other writing opportunities."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 83779907,
+    "parent_children": 14,
+    "thread_id": 83779907,
+    "thread_children": 14,
+    "ratio_recv": -6,
+    "ratio_give": -1,
+    "grade_level": 11.9,
+    "word_count": 177,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
