@@ -287,26 +287,38 @@ const loadComments = async () => {
     };
 
     /**
-     * Finds all quoted terms in input, returned as an array, as well as any remaining text.
+     * Parses search query to find individual terms, including those that are quoted.
      * @param {string} input
-     * @returns {[string[], string]}
+     * @returns string[]
      */
-    const extractQuotedRegex = (input) => {
-        const regex = /<([^>]+)>|(["'])(?:(?!\2).)+\2/g;
-        const terms = [];
+    const parseSearchTerms = (input) => {
+        /* Matches two types of quoted terms:
+         * 1. <...>
+         * 2. "...", '...'
+         */
+        const quotedTermRegex = /<([^>]+)>|(["'])(?:(?!\2).)+\2/g;
+        const quotedTerms = [];
         let match;
+        let maxIterations = 1000;
 
-        while ((match = regex.exec(input)) !== null) {
-            let matched = match[0];
-            if (matched.startsWith('<') && matched.endsWith('>')) {
-                terms.push(match[1]);
-            } else {
-                terms.push(matched.slice(1, -1));
+        while ((match = quotedTermRegex.exec(input)) !== null) {
+            if (!maxIterations--) {
+                console.error('Max iterations hit, aborting parseSearchTerms.', input, match);
+                break;
             }
+            let matched = match[0];
+            if (matched.length === 0) {
+                console.warn('Empty match', match, 'exiting parseSearchTerms');
+                break;
+            }
+            const quotedTerm = matched.startsWith('<') && matched.endsWith('>')
+                ? match[1] : matched.slice(1, -1);
+            quotedTerms.push(quotedTerm);
             input = input.replace(matched, ' ');
         }
 
-        return [terms, input];
+        const remainingTerms = input.trim().split(/\s+/).filter(Boolean);
+        return quotedTerms.concat(remainingTerms);
     };
 
     /**
@@ -361,13 +373,9 @@ const loadComments = async () => {
         const doTagsMatch = (comment) => state.selectedTags.length === 0 || state.selectedTags[0] === 'all' ||
             state.selectedTags.every(tag => comment.tags.includes(tag));
 
-        const [extractedTerms, remainingInput] = extractQuotedRegex(state.searchTerms);
-        const terms = remainingInput.length
-            ? remainingInput.trim().split(/\s+/).filter(Boolean)
-            : [];
-        const combinedTerms = extractedTerms.concat(terms);
-
-        const termsRegexes = combinedTerms.map(term => {
+        const searchTerms = parseSearchTerms(state.searchTerms);
+        console.info('searchTerms', state.searchTerms, 'parsed to', searchTerms);
+        const termsRegexes = searchTerms.map(term => {
             try {
                 return new RegExp(term, 'i');
             } catch (e) {
@@ -511,20 +519,17 @@ const loadComments = async () => {
 
         clearChildren(uiElements.commentsDiv);
 
-        const [extractedTerms, remainingInput] = extractQuotedRegex(lastState.searchTerms);
-        const terms = remainingInput.length
-            ? remainingInput.trim().split(/\s+/).filter(Boolean)
-            : [];
-        const combinedTerms = extractedTerms.concat(terms);
+        const searchTerms = parseSearchTerms(lastState.searchTerms)
+        /** @returns {RegExp|null} */
         const createTermMatcher = () => {
             try {
-                return new RegExp(combinedTerms.map(t => `(?:${t})`).join('|'), 'ig');
+                return new RegExp(searchTerms.map(t => `(?:${t})`).join('|'), 'ig');
             } catch (e) {
                 console.error('Invalid regex', e);
                 return null;
             }
         };
-        const termsMatcher = combinedTerms.length > 0 ? createTermMatcher() : null;
+        const termsMatcher = searchTerms.length > 0 ? createTermMatcher() : null;
 
         comments.forEach(comment => uiElements.commentsDiv.appendChild(renderComment(comment, termsMatcher)));
 
@@ -711,11 +716,15 @@ const loadComments = async () => {
         let maxIterations = 1000;
         while ((match = termsMatcher.exec(value)) !== null) {
             if (!maxIterations--) {
-                console.error('Max iterations hit, aborting.');
+                console.error('Max iterations hit, aborting createHighlightedText.', termsMatcher);
                 break;
             }
             const start = match.index;
             const matchValue = match[0];
+            if (matchValue.length === 0) {
+                console.warn('Empty match', match, 'exiting createHighlightedText');
+                break;
+            }
             if (start > cur) {
                 parent.appendChild(document.createTextNode(value.substring(cur, start)));
             }
