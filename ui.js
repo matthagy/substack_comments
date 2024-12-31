@@ -5,7 +5,7 @@
  */
 
 /**
- * @typedef {Object} Comment
+ * @typedef {Object} CommentState
  * @property {number} post_id
  * @property {string} title
  * @property {string} canonical_url
@@ -74,7 +74,7 @@
  */
 
 const loadComments = async () => {
-    /** @type {Comment[] | string} */
+    /** @type {CommentState[] | string} */
     const commentsOrError = await fetch('./comments.json')
         .then(response => {
             if (!response.ok) {
@@ -150,7 +150,7 @@ const loadComments = async () => {
         return;
     }
 
-    /** @type {Comment[]} */
+    /** @type {CommentState[]} */
     const allComments = commentsOrError;
 
     (() => { // Populate category dropdown
@@ -204,10 +204,10 @@ const loadComments = async () => {
                 option.setAttribute('value', tag);
                 uiElements.tagsSelect.add(option);
             });
-        return topTags.reduce((acc, tag, index) => {
+        return topTags.reduce((/** @type {{ [tag: string]: string }} */  acc, tag, index) => {
             acc[tag] = tagsColorArray[index];
             return acc;
-        }, {});
+        }, /** @type {{ [tag: string]: string }} */  {});
     })();
 
     (() => {
@@ -244,17 +244,17 @@ const loadComments = async () => {
         const params = new URLSearchParams(hash);
         console.info('start readParamsFromHash', params);
 
-        if (params.has('sort')) uiElements.sortSelect.value = params.get('sort');
-        if (params.has('type')) uiElements.typeSelect.value = params.get('type');
-        if (params.has('show')) uiElements.showSelect.value = params.get('show');
-        if (params.has('page')) uiElements.pageSelect.value = params.get('page');
-        if (params.has('startDate')) uiElements.startDateInput.value = params.get('startDate');
-        if (params.has('endDate')) uiElements.endDateInput.value = params.get('endDate');
-        if (params.has('category')) uiElements.categorySelect.value = params.get('category');
-        if (params.has('search')) uiElements.searchInput.value = params.get('search');
+        if (params.has('sort')) uiElements.sortSelect.value = params.get('sort') || '';
+        if (params.has('type')) uiElements.typeSelect.value = params.get('type') || '';
+        if (params.has('show')) uiElements.showSelect.value = params.get('show') || '';
+        if (params.has('page')) uiElements.pageSelect.value = params.get('page') || '';
+        if (params.has('startDate')) uiElements.startDateInput.value = params.get('startDate') || '';
+        if (params.has('endDate')) uiElements.endDateInput.value = params.get('endDate') || '';
+        if (params.has('category')) uiElements.categorySelect.value = params.get('category') || '';
+        if (params.has('search')) uiElements.searchInput.value = params.get('search') || '';
 
         if (params.has('tags')) {
-            const selectedTags = params.get('tags').split(',');
+            const selectedTags = (params.get('tags') || '').split(',');
             for (let i = 0; i < uiElements.tagsSelect.options.length; i++) {
                 uiElements.tagsSelect.options[i].selected = selectedTags.includes(uiElements.tagsSelect.options[i].value);
             }
@@ -323,15 +323,15 @@ const loadComments = async () => {
 
     /**
      * Filters and then sorts using the passed-in UI state.
-     * @param {Comment[]} comments
+     * @param {CommentState[]} comments
      * @param {UIState} state
-     * @returns {Comment[]}
+     * @returns {CommentState[]}
      */
     const getFilteredAndSortedComments = (comments, state) => {
         console.log('getFilteredAndSortedComments', comments.length, state);
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const doesTypeMatch = (comment) => {
@@ -342,11 +342,13 @@ const loadComments = async () => {
                     return comment.top_level;
                 case 'reply':
                     return !comment.top_level;
+                default:
+                    throw new Error(`Unknown comment type: ${state.selectCommentType}`);
             }
         }
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const doesCategoryMatch = (comment) => state.category === 'all' || comment.category === state.category
@@ -359,7 +361,7 @@ const loadComments = async () => {
             : null;
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const inTimestampRange = (comment) =>
@@ -367,7 +369,7 @@ const loadComments = async () => {
             (endTimestamp === null || comment.timestamp <= endTimestamp)
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const doTagsMatch = (comment) => state.selectedTags.length === 0 || state.selectedTags[0] === 'all' ||
@@ -375,6 +377,12 @@ const loadComments = async () => {
 
         const searchTerms = parseSearchTerms(state.searchTerms);
         console.info('searchTerms', state.searchTerms, 'parsed to', searchTerms);
+
+        /**
+         * @param {RegExp | null} regex
+         * @returns {regex is RegExp}
+         */
+        const isRegExp= (regex) => regex instanceof RegExp
         const termsRegexes = searchTerms.map(term => {
             try {
                 return new RegExp(term, 'i');
@@ -382,10 +390,10 @@ const loadComments = async () => {
                 console.error(`Invalid regex: ${term}`, e);
                 return null;
             }
-        }).filter(Boolean);
+        }).filter(isRegExp);
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const doTermsMatch = (comment) => {
@@ -401,14 +409,14 @@ const loadComments = async () => {
         }
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {boolean}
          */
         const doesCommentMatch = (comment) => doesTypeMatch(comment) && doesCategoryMatch(comment) &&
             inTimestampRange(comment) && doTagsMatch(comment) && doTermsMatch(comment);
 
         /**
-         * @param {Comment} comment
+         * @param {CommentState} comment
          * @returns {number}
          */
         const computeLength = (comment) => {
@@ -420,8 +428,8 @@ const loadComments = async () => {
         };
 
         /**
-         * @param {Comment} a
-         * @param {Comment} b
+         * @param {CommentState} a
+         * @param {CommentState} b
          * @returns {number}
          */
         const compareComments = (a, b) => {
@@ -543,7 +551,7 @@ const loadComments = async () => {
      * @param {HTMLElement} node
      */
     const clearChildren = (node) => {
-        while (node.firstChild) {
+        while (node.lastChild) {
             node.removeChild(node.lastChild);
         }
     };
@@ -592,7 +600,7 @@ const loadComments = async () => {
 
     /**
      * Renders a single comment to the commentsDiv.
-     * @param {Comment} comment
+     * @param {CommentState} comment
      * @param {RegExp | null} termsMatcher
      * @returns {HTMLDivElement}
      */
@@ -623,25 +631,29 @@ const loadComments = async () => {
             }
         };
 
+        /**
+         * @param {number} commentId
+         * @param {string} text
+         */
         const createCommentLink = (commentId, text) => {
             metaDiv.appendChild(createLink(`${comment['canonical_url']}/comment/${commentId}`, text, 'meta'));
         };
 
-        createText(comment['name'], 'name');
-        createText(`❤ ${comment['likes']}, ${comment['date']}, FK=${comment['grade_level']}`, 'meta');
-        metaDiv.appendChild(createHighlightLink(comment['canonical_url'], comment['title'].trim(), termsMatcher, 'post-title'));
-        const domain = extractDomainComponents(comment['canonical_url']);
+        createText(comment.name, 'name');
+        createText(`❤ ${comment.likes}, ${comment.date}, FK=${comment.grade_level}`, 'meta');
+        metaDiv.appendChild(createHighlightLink(comment.canonical_url, comment.title.trim(), termsMatcher, 'post-title'));
+        const domain = extractDomainComponents(comment.canonical_url);
         createText(`[${domain}]`, 'meta', true);
-        createCommentLink(comment.id, `${comment['top_level'] ? 'top-level' : 'reply'} (${comment['total_children']})`);
+        createCommentLink(comment.id, `${comment.top_level ? 'top-level' : 'reply'} (${comment.total_children})`);
 
-        if (!comment['top_level']) {
-            createCommentLink(comment['thread_id'], `thread (${comment['thread_children']})`);
-            createCommentLink(comment['parent_id'], `parent (${comment['parent_children']})`);
+        if (!comment.top_level) {
+            createCommentLink(comment.thread_id, `thread (${comment.thread_children})`);
+            createCommentLink(comment.parent_id, `parent (${comment.parent_children})`);
         }
 
         const tagsDiv = document.createElement('span');
         tagsDiv.classList.add('tags');
-        comment['tags'].sort((a, b) => a.localeCompare(b))
+        comment.tags.sort((a, b) => a.localeCompare(b))
             .forEach(tag => {
                 const tagSpan = document.createElement('span');
                 tagSpan.classList.add('tag');
@@ -656,13 +668,13 @@ const loadComments = async () => {
 
         const categorySpan = document.createElement('span');
         categorySpan.classList.add('category');
-        categorySpan.appendChild(document.createTextNode(`Category: ${comment['category']}`));
+        categorySpan.appendChild(document.createTextNode(`Category: ${comment.category}`));
         metaDiv.appendChild(categorySpan);
 
         const commentDiv = document.createElement('div');
         commentDiv.classList.add('comment-outer');
         entryDiv.appendChild(commentDiv);
-        comment['body'].forEach(paragraph => commentDiv.appendChild(renderParagraph(paragraph, termsMatcher)));
+        comment.body.forEach(paragraph => commentDiv.appendChild(renderParagraph(paragraph, termsMatcher)));
 
         return entryDiv;
     };
@@ -745,6 +757,7 @@ const loadComments = async () => {
 
     /** @param {ButtonHandler} buttonHandler */
     const handleButton = (buttonHandler) => {
+        /** @param {string} text */
         const setButtonText = (text) => {
             clearChildren(buttonHandler.button);
             buttonHandler.button.appendChild(document.createTextNode(text));
@@ -755,7 +768,7 @@ const loadComments = async () => {
             if (existingTimeout) {
                 console.warn(`Clearing callback for ${buttonHandler.name}`);
                 clearTimeout(existingTimeout);
-                buttonHandlerTimeouts[buttonHandler.name] = undefined;
+                delete buttonHandlerTimeouts[buttonHandler.name];
             }
             if (buttonHandler.runningText) {
                 setButtonText(buttonHandler.runningText);
@@ -774,7 +787,7 @@ const loadComments = async () => {
         wrapper().catch(error => console.error(`Failed to ${buttonHandler.name}:`, error))
     }
 
-    const resetOriginalText = uiElements.resetButton.textContent;
+    const resetOriginalText = uiElements.resetButton.textContent || 'Reset';
     const reset = () => {
         handleButton({
             name: 'reset',
@@ -805,7 +818,7 @@ const loadComments = async () => {
         });
     }
 
-    const copyUrlOriginalText = uiElements.copyUrlButton.textContent;
+    const copyUrlOriginalText = uiElements.copyUrlButton.textContent || 'Copy URL';
     const copyUrl = () => {
         handleButton({
             name: 'copyUrl',
@@ -824,13 +837,13 @@ const loadComments = async () => {
         });
     }
 
-    const downloadJsonOriginalText = uiElements.downloadJsonButton.textContent;
+    const downloadJsonOriginalText = uiElements.downloadJsonButton.textContent || 'Download JSON';
     const downloadJson = () => {
         handleButton({
             name: 'downloadJson',
             button: uiElements.downloadJsonButton,
             handler: async () => {
-                const comments = getFilteredAndSortedComments(allComments, lastState);
+                const comments = getFilteredAndSortedComments(allComments, lastState || getCurrentUIState());
                 const prettyJson = JSON.stringify(comments, null, 2);
                 const blob = new Blob([prettyJson], {type: 'application/json'});
                 const url = URL.createObjectURL(blob);
