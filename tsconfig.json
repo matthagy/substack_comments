@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,         // Enable type checking for .js files
+    "allowJs": true,         // Allow JavaScript files to be processed
+    "noEmit": true,          // Do not emit output files, just type-check
+    "strict": true,          // Enable strict type-checking rules
+    "lib": ["ES2016", "DOM"]
+  },
+  "include": ["ui.js"]
+}
