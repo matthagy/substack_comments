@@ -52192,11 +52192,11 @@
     ],
     "total_children": 6,
     "parent_id": 83779907,
-    "parent_children": 14,
+    "parent_children": 16,
     "thread_id": 83779907,
-    "thread_children": 14,
+    "thread_children": 16,
     "ratio_recv": -6,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 11.9,
     "word_count": 177,
     "category": "Uncategorized",
@@ -52206,5 +52206,199 @@
       "media influence",
       "news consumption"
     ]
+  },
+  {
+    "post_id": 153878095,
+    "title": "New Years Eve Thread",
+    "canonical_url": "https://www.slowboring.com/p/new-years-eve-thread-b26",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83933503,
+    "top_level": false,
+    "date": "Jan 01 2025 09:02",
+    "likes": 1,
+    "timestamp": 1735740141,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The \"felony murder rule\" is quite common in the US. From  "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Felony_murder_rule"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The rule of felony murder is a legal doctrine in some common law jurisdictions that broadens the crime of murder: when someone is killed (regardless of intent to kill) in the commission of a dangerous or enumerated crime (called a felony in some jurisdictions), the offender, and also the offender's accomplices or co-conspirators, may be found guilty of murder."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The concept of felony murder originates in the rule of transferred intent. In its original form, the malicious intent inherent in the commission of any crime, however trivial, was considered to apply to any consequences of that crime regardless of intent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> ..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> United States"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As of August 2008, 46 states in the United States had a felony murder rule, under which felony murder is generally first-degree murder. In 24 of those states, it is a capital offense."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 83927403,
+    "parent_children": 11,
+    "thread_id": 83921412,
+    "thread_children": 12,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 11.6,
+    "word_count": 146,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153878095,
+    "title": "New Years Eve Thread",
+    "canonical_url": "https://www.slowboring.com/p/new-years-eve-thread-b26",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83935681,
+    "top_level": false,
+    "date": "Jan 01 2025 09:20",
+    "likes": 0,
+    "timestamp": 1735741250,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Well, I am Not a Lawyer, but the Florida statute in question appears quite broad without any reference to how someone was killed in the commission of burglary. "
+        },
+        {
+          "type": "url",
+          "value": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0782/Sections/0782.04.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> 782.04\u2003Murder."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (3)\u2003When a human being is killed during the perpetration of, or during the attempt to perpetrate, any:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (a)\u2003Trafficking offense prohibited by s. 893.135(1),"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (b)\u2003Arson,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (c)\u2003Sexual battery,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (d)\u2003Robbery,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> (e)\u2003Burglary,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \u2026"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall similar cases in other states resulting in a conviction, but don\u2019t recall any of the specifics or nuances."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 83933959,
+    "parent_children": 3,
+    "thread_id": 83921412,
+    "thread_children": 12,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 13.0,
+    "word_count": 84,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153878095,
+    "title": "New Years Eve Thread",
+    "canonical_url": "https://www.slowboring.com/p/new-years-eve-thread-b26",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 83936390,
+    "top_level": false,
+    "date": "Jan 01 2025 09:26",
+    "likes": 1,
+    "timestamp": 1735741612,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "See my other comment that links to the Florida law in question. It only applies to assailants in the commission of specific crimes, including burglary. I'm roughly familiar with the concept from my time serving on a Georgia grand jury although I obviously don't recall the details nor know this across various states. The basic concept makes sense though in that death wouldn't have happened had the crime not been committed and therefore all of the perpetrators bear some responsibility due to their commission of the crime."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 83935103,
+    "parent_children": 2,
+    "thread_id": 83921412,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 10.6,
+    "word_count": 87,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
