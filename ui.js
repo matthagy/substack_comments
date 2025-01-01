@@ -780,9 +780,13 @@ const loadComments = async () => {
                 console.error(`Failed to ${buttonHandler.name}:`, error);
             }
             setButtonText(success ? buttonHandler.successText : buttonHandler.failureText);
-            buttonHandlerTimeouts[buttonHandler.name] = setTimeout(() => {
-                setButtonText(buttonHandler.originalText);
+            const currentTimeout = setTimeout(() => {
+                if (buttonHandlerTimeouts[buttonHandler.name] === currentTimeout) {
+                    setButtonText(buttonHandler.originalText);
+                    delete buttonHandlerTimeouts[buttonHandler.name];
+                }
             }, 2000);
+            buttonHandlerTimeouts[buttonHandler.name] = currentTimeout;
         }
         wrapper().catch(error => console.error(`Failed to ${buttonHandler.name}:`, error))
     }
