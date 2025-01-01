@@ -52192,9 +52192,9 @@
     ],
     "total_children": 6,
     "parent_id": 83779907,
-    "parent_children": 16,
+    "parent_children": 17,
     "thread_id": 83779907,
-    "thread_children": 16,
+    "thread_children": 17,
     "ratio_recv": -6,
     "ratio_give": -2,
     "grade_level": 11.9,
@@ -52217,7 +52217,7 @@
     "id": 83933503,
     "top_level": false,
     "date": "Jan 01 2025 09:02",
-    "likes": 1,
+    "likes": 3,
     "timestamp": 1735740141,
     "body": [
       [
@@ -52261,17 +52261,21 @@
         }
       ]
     ],
-    "total_children": 6,
+    "total_children": 12,
     "parent_id": 83927403,
-    "parent_children": 11,
+    "parent_children": 20,
     "thread_id": 83921412,
-    "thread_children": 12,
-    "ratio_recv": -1,
-    "ratio_give": 1,
+    "thread_children": 23,
+    "ratio_recv": 0,
+    "ratio_give": 2,
     "grade_level": 11.6,
     "word_count": 146,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "crime and justice",
+      "criminal justice reform"
+    ]
   },
   {
     "post_id": 153878095,
@@ -52357,17 +52361,19 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 5,
     "parent_id": 83933959,
-    "parent_children": 3,
+    "parent_children": 7,
     "thread_id": 83921412,
-    "thread_children": 12,
+    "thread_children": 23,
     "ratio_recv": 0,
-    "ratio_give": 0,
+    "ratio_give": -3,
     "grade_level": 13.0,
     "word_count": 84,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice"
+    ]
   },
   {
     "post_id": 153878095,
@@ -52379,7 +52385,7 @@
     "id": 83936390,
     "top_level": false,
     "date": "Jan 01 2025 09:26",
-    "likes": 1,
+    "likes": 5,
     "timestamp": 1735741612,
     "body": [
       [
@@ -52391,14 +52397,16 @@
     ],
     "total_children": 1,
     "parent_id": 83935103,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 83921412,
-    "thread_children": 12,
+    "thread_children": 23,
     "ratio_recv": null,
-    "ratio_give": 1,
+    "ratio_give": 5,
     "grade_level": 10.6,
     "word_count": 87,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice"
+    ]
   }
 ]
