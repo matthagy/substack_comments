@@ -51926,7 +51926,7 @@
     "id": 83312428,
     "top_level": true,
     "date": "Dec 27 2024 19:04",
-    "likes": 4,
+    "likes": 6,
     "timestamp": 1735344275,
     "body": [
       [
@@ -51979,7 +51979,7 @@
     "parent_children": null,
     "thread_id": 83312428,
     "thread_children": 2,
-    "ratio_recv": -4,
+    "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 14.3,
     "word_count": 278,
@@ -52174,7 +52174,7 @@
     "id": 83786912,
     "top_level": false,
     "date": "Dec 31 2024 08:29",
-    "likes": 12,
+    "likes": 13,
     "timestamp": 1735651784,
     "body": [
       [
@@ -52196,7 +52196,7 @@
     "thread_id": 83779907,
     "thread_children": 17,
     "ratio_recv": -6,
-    "ratio_give": -2,
+    "ratio_give": -1,
     "grade_level": 11.9,
     "word_count": 177,
     "category": "Uncategorized",
@@ -52217,7 +52217,7 @@
     "id": 83933503,
     "top_level": false,
     "date": "Jan 01 2025 09:02",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1735740141,
     "body": [
       [
@@ -52261,13 +52261,13 @@
         }
       ]
     ],
-    "total_children": 12,
+    "total_children": 16,
     "parent_id": 83927403,
-    "parent_children": 20,
+    "parent_children": 29,
     "thread_id": 83921412,
-    "thread_children": 23,
-    "ratio_recv": 0,
-    "ratio_give": 2,
+    "thread_children": 36,
+    "ratio_recv": -1,
+    "ratio_give": 3,
     "grade_level": 11.6,
     "word_count": 146,
     "category": "Uncategorized",
@@ -52287,7 +52287,7 @@
     "id": 83935681,
     "top_level": false,
     "date": "Jan 01 2025 09:20",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1735741250,
     "body": [
       [
@@ -52361,12 +52361,12 @@
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 8,
     "parent_id": 83933959,
-    "parent_children": 7,
+    "parent_children": 10,
     "thread_id": 83921412,
-    "thread_children": 23,
-    "ratio_recv": 0,
+    "thread_children": 36,
+    "ratio_recv": -1,
     "ratio_give": -3,
     "grade_level": 13.0,
     "word_count": 84,
@@ -52385,7 +52385,7 @@
     "id": 83936390,
     "top_level": false,
     "date": "Jan 01 2025 09:26",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1735741612,
     "body": [
       [
@@ -52397,11 +52397,11 @@
     ],
     "total_children": 1,
     "parent_id": 83935103,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 83921412,
-    "thread_children": 23,
+    "thread_children": 36,
     "ratio_recv": null,
-    "ratio_give": 5,
+    "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 87,
     "category": "Uncategorized",
