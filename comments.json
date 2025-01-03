@@ -52174,7 +52174,7 @@
     "id": 83786912,
     "top_level": false,
     "date": "Dec 31 2024 08:29",
-    "likes": 13,
+    "likes": 15,
     "timestamp": 1735651784,
     "body": [
       [
@@ -52195,8 +52195,8 @@
     "parent_children": 17,
     "thread_id": 83779907,
     "thread_children": 17,
-    "ratio_recv": -6,
-    "ratio_give": -1,
+    "ratio_recv": -8,
+    "ratio_give": 0,
     "grade_level": 11.9,
     "word_count": 177,
     "category": "Media Subscription Models and Market Dynamics",
@@ -52266,8 +52266,8 @@
     "parent_children": 29,
     "thread_id": 83921412,
     "thread_children": 36,
-    "ratio_recv": -1,
-    "ratio_give": 3,
+    "ratio_recv": 0,
+    "ratio_give": 2,
     "grade_level": 11.6,
     "word_count": 146,
     "category": "Intersections of History, Technology, and Society",
@@ -52367,7 +52367,7 @@
     "thread_id": 83921412,
     "thread_children": 36,
     "ratio_recv": -1,
-    "ratio_give": -3,
+    "ratio_give": -4,
     "grade_level": 13.0,
     "word_count": 84,
     "category": "Intersections of History, Technology, and Society",
@@ -52408,5 +52408,61 @@
     "tags": [
       "crime and justice"
     ]
+  },
+  {
+    "post_id": 154004563,
+    "title": "Thursday Thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-d07",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 84164340,
+    "top_level": true,
+    "date": "Jan 02 2025 17:51",
+    "likes": 7,
+    "timestamp": 1735858311,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'd like to say that I'm surprised to see Sander's rushing to the defense of the \"America First\" racists within the repub's immigration fight, but no, Sander has always been populist idiot looking for any angle against the rich. Just would've thought he'd at least recognize the hazard in jumping into this specific mess."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://x.com/SenSanders/status/1874918027982172626"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Elon Musk is wrong."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The main function of the H-1B visa program is not to hire \u201cthe best and the brightest,\u201d but rather to replace good-paying American jobs with low-wage indentured servants from abroad."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The cheaper the labor they hire, the more money the billionaires make."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 84164340,
+    "thread_children": 7,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 8.7,
+    "word_count": 100,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
