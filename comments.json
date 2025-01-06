@@ -52419,7 +52419,7 @@
     "id": 84164340,
     "top_level": true,
     "date": "Jan 02 2025 17:51",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1735858311,
     "body": [
       [
@@ -52453,12 +52453,12 @@
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 9,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 84164340,
-    "thread_children": 7,
-    "ratio_recv": 2,
+    "thread_children": 9,
+    "ratio_recv": 3,
     "ratio_give": null,
     "grade_level": 8.7,
     "word_count": 100,
@@ -52468,5 +52468,87 @@
       "immigration issues",
       "populism"
     ]
+  },
+  {
+    "post_id": 154205219,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-65e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 84614235,
+    "top_level": false,
+    "date": "Jan 05 2025 17:08",
+    "likes": 5,
+    "timestamp": 1736114938,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. o3 is looking extremely impressive. Moreover, it and other state-of-the-art models are focusing primarily on PhD-level performance in fields such as math, physics, and medicine, meaning that few of us laypeople can appreciate these recent advances."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "GPT4o and Claude 3.5 Sonnet are already sufficient for most knowledge labor and the remaining work is in adapting software, workflows, roles, and organizations to better leverage these tools. That could take a decade or two and we'll see the early results in newer companies and institutions that can adopt different job descriptions, processes, and org charts from scratch. Only then will legacy firms go through the painful and error prone reorgs to attempt to adapt and survive."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For anyone looking for an overview of o3, I'd recommend Zvi Mowshowitz Dec 30th 2024 collection of results and analysis, "
+        },
+        {
+          "type": "url",
+          "value": "https://thezvi.substack.com/p/o3-oh-my"
+        },
+        {
+          "type": "text",
+          "value": ". Here are some highlights:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Deedy: OpenAI o3 is 2727 on Codeforces which is equivalent to the #175 best human competitive coder on the planet."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Nat McAleese: [o3 scores] 87.7% on the GPQA* diamond benchmark surpasses any LLM I am aware of externally (I believe the non-o1 state-of-the-art is Gemini Flash 2 at 62%?), as well as o1\u2019s 78%. An unknown noise ceiling exists, so this may even underestimate o3\u2019s scientific advancements over o1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* GPQA (Graduate-Level Google-Proof Q&A) Diamond is a benchmark of rigorously validated, graduate-level multiple-choice questions spanning biology, physics, and chemistry, designed to challenge AI with complex problems that are difficult even for skilled non-experts using unrestricted internet access."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> o3 can also perform software engineering, setting a new state of the art on SWE-bench, achieving 71.7%, a substantial improvement over o1."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Well, on FrontierMath 2024-11-26, o3 improved the state of the art from 2% to 25% accuracy. These are extremely difficult, well-established, held-out math problems. And on ARC, the semi-private test set and public validation set scores are 87.5% (private) and 91.5% (public)"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 84594979,
+    "parent_children": 13,
+    "thread_id": 84579788,
+    "thread_children": 262,
+    "ratio_recv": -4,
+    "ratio_give": -3,
+    "grade_level": 9.6,
+    "word_count": 309,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
