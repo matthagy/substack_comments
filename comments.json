@@ -52539,16 +52539,112 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 6,
     "parent_id": 84594979,
-    "parent_children": 13,
+    "parent_children": 18,
     "thread_id": 84579788,
-    "thread_children": 262,
+    "thread_children": 291,
     "ratio_recv": -4,
     "ratio_give": -3,
     "grade_level": 9.6,
     "word_count": 309,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "educational technology",
+      "machine learning",
+      "software engineering",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 153636133,
+    "title": "Four years later",
+    "canonical_url": "https://www.slowboring.com/p/four-years-later",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 84698420,
+    "top_level": false,
+    "date": "Jan 06 2025 08:37",
+    "likes": 12,
+    "timestamp": 1736170623,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> no reasonable person could look at his situation and conclude that he [Hunter Biden] wasn\u2019t being singled"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Unfortunately, I don\u2019t think we can assume voters are sufficiently reasonable in this dimension, or at least that they\u2019re receiving a fair and balanced perspective on the allegations against Hunter Biden. Moreover, while I agree that he\u2019s being singled out, I also believe there\u2019s credible evidence that he\u2019s a criminal who engaged in shady behavior, possibly extending to trading on his family name and connections."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I\u2019m totally fine with throwing Hunter Biden under the bus to minimize the bad optics of a pardon\u2014doubly so after President Biden already promised not to pardon his son. Reasonable people can certainly disagree on the tradeoffs being weighed here."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, it almost certainly won\u2019t matter. I doubt that few, if any, voters will condone Trump\u2019s future, more corrupt pardons but would have condemned those actions had it not been for the Hunter Biden pardon. At most, it just gives another excuse to those already converted to the Trump cult."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 84696356,
+    "parent_children": 12,
+    "thread_id": 84688727,
+    "thread_children": 16,
+    "ratio_recv": -11,
+    "ratio_give": 7,
+    "grade_level": 12.9,
+    "word_count": 173,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "media bias",
+      "partisan politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 153636133,
+    "title": "Four years later",
+    "canonical_url": "https://www.slowboring.com/p/four-years-later",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 84704612,
+    "top_level": false,
+    "date": "Jan 06 2025 09:18",
+    "likes": 10,
+    "timestamp": 1736173080,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. And I recall reading about how the founders explicitly sought a relatively strong executive following the state-level failures of weak executives created during the Revolutionary War era. It's my understanding that numerous states created weak executives, with a focus on committees and congresses, due to their heightened concerns of tyrannical despots as they rebelled against monarchy. Yet those governments were pathologically ineffective, which created their own problems. Striking a balance between effectiveness and accountability is quite hard."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 84698039,
+    "parent_children": 10,
+    "thread_id": 84685653,
+    "thread_children": 112,
+    "ratio_recv": -7,
+    "ratio_give": -7,
+    "grade_level": 14.4,
+    "word_count": 78,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "historical analysis"
+    ]
   }
 ]
