@@ -52543,7 +52543,7 @@
     "parent_id": 84594979,
     "parent_children": 18,
     "thread_id": 84579788,
-    "thread_children": 291,
+    "thread_children": 303,
     "ratio_recv": -4,
     "ratio_give": -3,
     "grade_level": 9.6,
@@ -52636,7 +52636,7 @@
     "parent_id": 84698039,
     "parent_children": 10,
     "thread_id": 84685653,
-    "thread_children": 112,
+    "thread_children": 117,
     "ratio_recv": -7,
     "ratio_give": -7,
     "grade_level": 14.4,
@@ -52646,5 +52646,77 @@
       "US politics",
       "historical analysis"
     ]
+  },
+  {
+    "post_id": 154357017,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-cd5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 84969894,
+    "top_level": false,
+    "date": "Jan 07 2025 17:16",
+    "likes": 7,
+    "timestamp": 1736288165,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It's currently at 1,002 comments, which ranks it as the third most commented article, "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/sb_article_categories/blob/main/sb_articles_comment_count_sort.png"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And looks like it could easily clear the current 2nd place article"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. 1,219 - A Common Sense Democrat manifesto - Nov 2024 "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. 1,016 - How we got here - Feb 2024"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3. 1,002 [at present] - Men and women are different - Jan 2025"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "4. 955 - Post-election mailbag - Nov 2024"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "5. 898 - Antisemitism in America - Nov 2023"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 84967540,
+    "parent_children": 69,
+    "thread_id": 84967540,
+    "thread_children": 69,
+    "ratio_recv": -4,
+    "ratio_give": 3,
+    "grade_level": 5.3,
+    "word_count": 67,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
