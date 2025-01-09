@@ -52803,7 +52803,7 @@
     "parent_id": 85080472,
     "parent_children": 13,
     "thread_id": 85048539,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": -7,
     "ratio_give": 7,
     "grade_level": 13.4,
@@ -52839,7 +52839,7 @@
     "parent_id": 85108526,
     "parent_children": 3,
     "thread_id": 85048539,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": -5,
     "ratio_give": 5,
     "grade_level": 10.6,
@@ -52893,5 +52893,157 @@
       "labor market",
       "software engineering"
     ]
+  },
+  {
+    "post_id": 154330441,
+    "title": "The '90s weren't that great",
+    "canonical_url": "https://www.slowboring.com/p/the-90s-werent-that-great",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85235628,
+    "top_level": false,
+    "date": "Jan 09 2025 07:44",
+    "likes": 4,
+    "timestamp": 1736426663,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The subscription vs. pay-per-view debate has been discussed numerous times in SB comment sections. To provide the argument for subscriptions, I'm going to lazily reuse a past comment of mine from Dec 2023, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/another-brutal-year-for-the-media/comment/45242472"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Pay-per-view is a bad business model. Publishers don\u2019t want sporadic purchases, but instead the more consistent revenue from subscriptions (and ads). That entails creating a product that is a regular, consistent, novel point of view. Select free articles, as well as publicly on other venues like twitter can convince potential subscribers to consider the product. Customers need to be compelled to commit to a paid subscription."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The tech analyst Ben Thompson has written extensively on the subscription business model for news and opinion publications. He has first hand experience as he\u2019s been running an amazing paid newsletter since 2013. (Substack founders cited him as their inspiration). Notably, see his 2017 article, \u201cThe Local News Business Model\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> It is very important to clearly define what a subscriptions means. First, it\u2019s not a donation: it is asking a customer to pay money for a product. What, then, is the product? It is not, in fact, any one article (a point that is missed by the misguided focus on micro-transactions). Rather, a subscriber is paying for the regular delivery of well-defined value."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Each of those words is meaningful:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Paying: A subscription is an ongoing commitment to the production of content, not a one-off payment for one piece of content that catches the eye."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Regular Delivery: A subscriber does not need to depend on the random discovery of content; said content can be delivered to the subscriber directly, whether that be email, a bookmark, or an app."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Well-defined Value: A subscriber needs to know what they are paying for, and it needs to be worth it."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He has a lot of free articles that cover news and more generally the media industry, particularly how the internet disrupted it. If you find this topic interesting, I bet that you\u2019ll find reading a few convinces you to commit to a paid subscription for $120/yr."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-local-news-business-model/"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 85231936,
+    "parent_children": 6,
+    "thread_id": 85227670,
+    "thread_children": 12,
+    "ratio_recv": -3,
+    "ratio_give": -2,
+    "grade_level": 8.8,
+    "word_count": 343,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154330441,
+    "title": "The '90s weren't that great",
+    "canonical_url": "https://www.slowboring.com/p/the-90s-werent-that-great",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85236766,
+    "top_level": false,
+    "date": "Jan 09 2025 07:54",
+    "likes": 0,
+    "timestamp": 1736427258,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In searching my substack comments, here are two of the past discussions we've had on the topic"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 82 comments, Dec 2023, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/another-brutal-year-for-the-media/comment/45240702"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 28 comments, May 2024, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/reflections-on-almost-four-years/comment/55937506"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe there have been more, but I'm to lazy to search further for those discussions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 85235628,
+    "parent_children": 4,
+    "thread_id": 85227670,
+    "thread_children": 12,
+    "ratio_recv": 1,
+    "ratio_give": -4,
+    "grade_level": 15.7,
+    "word_count": 41,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
