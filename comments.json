@@ -52657,7 +52657,7 @@
     "id": 84969894,
     "top_level": false,
     "date": "Jan 07 2025 17:16",
-    "likes": 7,
+    "likes": 9,
     "timestamp": 1736288165,
     "body": [
       [
@@ -52709,14 +52709,189 @@
     ],
     "total_children": 4,
     "parent_id": 84967540,
-    "parent_children": 69,
+    "parent_children": 77,
     "thread_id": 84967540,
-    "thread_children": 69,
-    "ratio_recv": -4,
-    "ratio_give": 3,
+    "thread_children": 77,
+    "ratio_recv": -6,
+    "ratio_give": 4,
     "grade_level": 5.3,
     "word_count": 67,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 153985133,
+    "title": "Skilled immigration is good",
+    "canonical_url": "https://www.slowboring.com/p/skilled-immigration-is-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85054312,
+    "top_level": false,
+    "date": "Jan 08 2025 07:52",
+    "likes": 32,
+    "timestamp": 1736340743,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I strongly second this as another software engineer. Software is all about leveraging upfront fixed costs and near-zero marginal costs at scale. Nothing gives an engineer more leverage than other software\u2014both in multiplying the productivity of upfront development time and in minimizing operational costs. This includes cloud services and DevTools SaaS, as well as open-source, high-level programming languages and libraries. The only reason we engineers can earn so much in a financially sustainable way is that we have incredibly powerful tools developed by other engineers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That includes other engineers at our employer; sometimes just our own past work. And when you\u2019re \u201cin the trenches,\u201d you want the strongest current and past colleagues you can get. Even if they have a fancier title and a larger comp package than yourself, you desperately want the best tools and existing code you can get.  The incentives also aligned financially\u2014particularly our stock-base comp\u2014in that the more productive we are in aggregate, the better our firm performs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So software engineers\u2014especially those of us who have worked with colleagues with a diverse range of competencies throughout our careers and can viscerally appreciate strong teammates\u2014should be the strongest advocates for more software engineer immigrants."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85047409,
+    "parent_children": 10,
+    "thread_id": 85047409,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 12.2,
+    "word_count": 197,
+    "category": "Uncategorized",
+    "tags": [
+      "immigration issues",
+      "software engineering",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 153985133,
+    "title": "Skilled immigration is good",
+    "canonical_url": "https://www.slowboring.com/p/skilled-immigration-is-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85106891,
+    "top_level": false,
+    "date": "Jan 08 2025 12:47",
+    "likes": 8,
+    "timestamp": 1736358432,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> with middling Python proficiency hired by our tech industry before we even think of hiring people from overseas"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Plenty of people with just \"middling Python proficiency\" cannot be employed in tech. Attempting to would just burden their colleagues. It's unfortunate these individuals weren't given feedback early in their education so that could either shape up or change majors. Yet now they need to listen to market signals and either do sufficient independent study to become employable or they need to change occupations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Avoiding these education/aptitude mismatches going forward is going to involve some serious reforms to higher education. Notably we need to dissolve the current \u201ccustomer is always right\u201d model that discourages flunking students out. Degree-granting institutions (and even bootcamps) need to feel some pain when their graduates fail to succeed in the labor market such that they\u2019re incentivized to only grant credentials to students that have demonstrated sufficient aptitude and work habits to succeed in their field of study."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 85080472,
+    "parent_children": 13,
+    "thread_id": 85048539,
+    "thread_children": 73,
+    "ratio_recv": -7,
+    "ratio_give": 7,
+    "grade_level": 13.4,
+    "word_count": 160,
+    "category": "Uncategorized",
+    "tags": [
+      "education reform",
+      "higher education",
+      "labor market"
+    ]
+  },
+  {
+    "post_id": 153985133,
+    "title": "Skilled immigration is good",
+    "canonical_url": "https://www.slowboring.com/p/skilled-immigration-is-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85110006,
+    "top_level": false,
+    "date": "Jan 08 2025 13:03",
+    "likes": 5,
+    "timestamp": 1736359409,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree, but that belief is no more useful than, \"most people can be trained to run a marathon.\" Even if there is some truth at a physiological level, it doesn't change the fact that very few people are going to attempt training or are going to quickly give up. Whatever it is that gets some people to diligently go through the actions of training to the point where they can do a marathon\u2014or program in an economically useful fashion\u2014we don\u2019t know how to replicate it. Likely some mix of innate strengths (and weakness), life experience, and happenstance."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 85108526,
+    "parent_children": 3,
+    "thread_id": 85048539,
+    "thread_children": 73,
+    "ratio_recv": -5,
+    "ratio_give": 5,
+    "grade_level": 10.6,
+    "word_count": 99,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 153985133,
+    "title": "Skilled immigration is good",
+    "canonical_url": "https://www.slowboring.com/p/skilled-immigration-is-good",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85129716,
+    "top_level": false,
+    "date": "Jan 08 2025 14:48",
+    "likes": 5,
+    "timestamp": 1736365708,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed as another engineer on the hiring side. Even before the AI generated slop, there was a general pray-and-spray approach that candidates took to applying. Eg, just mass applying to every single LinkedIn \"easy apply\" software job listing. That puts the impetus on the hiring team to filter and prioritize applications. Some of the filtered out candidates may even be a good fit, but with just a generic LinkedIn profile/resume designed for mass applying, we can't tell."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Asking candidates to meet in person does sound like a decent filter for serious candidates. I'm thinking anything that adds in some friction such that candidates have to decide whether this is a role that is a sufficiently strong fit for their experience/interests to be worth their time explore is helpful towards that end. Similarly, we on the hiring side need to provide a clear, concise, and specific description of the role and company in order for candidates to make that determination."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ultimately hoping the whole engineering employment market structure will evolve from the current broken equilibria. For too long it seems like both sides of the market have been incentivized to embellish, and at times cheat and lie, with the assumption that getting to signed offer is all that matters. For the candidates, a lot of that is motivated by the reluctance of firms to fire for insufficient performance and the slow pace at which those decisions are made. Probably something similar on the firms side where it can be assumed hires will stick around for a year or two and even a demotivated employee is acceptable relative to keeping head count open."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85123058,
+    "parent_children": 4,
+    "thread_id": 85047409,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.9,
+    "word_count": 271,
+    "category": "Uncategorized",
+    "tags": [
+      "labor market",
+      "software engineering"
+    ]
   }
 ]
