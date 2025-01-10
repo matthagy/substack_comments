@@ -52986,7 +52986,11 @@
     "grade_level": 8.8,
     "word_count": 343,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "media influence",
+      "subscription models"
+    ]
   },
   {
     "post_id": 154330441,
@@ -53084,11 +53088,17 @@
     "thread_id": 85229563,
     "thread_children": 47,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 11.7,
     "word_count": 216,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "educational technology",
+      "media influence",
+      "social media influence",
+      "tech industry"
+    ]
   },
   {
     "post_id": 154330441,
@@ -53126,7 +53136,10 @@
     "grade_level": 10.8,
     "word_count": 134,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 154509544,
@@ -53202,15 +53215,97 @@
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": 85335939,
-    "parent_children": 13,
+    "parent_children": 14,
     "thread_id": 85335939,
-    "thread_children": 13,
+    "thread_children": 14,
     "ratio_recv": -6,
     "ratio_give": -5,
     "grade_level": 14.0,
     "word_count": 275,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "censorship",
+      "free speech issues",
+      "media influence",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 154509544,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-e6a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85391309,
+    "top_level": false,
+    "date": "Jan 10 2025 02:44",
+    "likes": 0,
+    "timestamp": 1736495053,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s still a significant amount of political content on Meta properties [1], and it\u2019s a testament to their filtering and prioritization algorithms that little of it makes its way into your feed, thereby satisfying your personal preferences. Meta explicitly attempted to deprioritize such content globally on Instagram and Threads, but the later platform\u2019s failure to succeed is calling that decision into question, particularly as BlueSky has managed to capitalize on the user exodus from Twitter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The main issue is that Meta shouldn\u2019t be in the editorialization business, especially when it comes to policing the nebulous and ever-expanding concept of misinformation. Their futile attempts to do so failed to satisfy proponents of misinformation management while simultaneously enraging users who felt they were being censored. The community notes model works better because it simply provides additional context without influencing the filtering and prioritization of content."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I continue to believe that an even better model for social media algorithms would give users agency in shaping their feeds, including shared responsibility for the outcomes they criticize. A simple model could allow users to choose among multiple algorithms, including a generic, neutral option as well as third-party-provided filtering and prioritization methods\u2014for example, algorithmic feeds shaped by NYT, Fox News, and others. This way, user frustration with the results would be directed primarily at these third parties, allowing Meta to focus on being a neutral platform provider."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was some outside interest in such an approach when Musk took over Twitter, as it would have allowed him to lean into the \u201cfree speech\u201d angle without owning the consequences. I elaborated on this concept\u2014riffing on a Stratechery article\u2014in a Nov 2022 comment [2], for those curious to explore that approach further. Obviously, Musk went in a different direction. I believe BlueSky also aspires to a similar \u201cchoose your own algorithm\u201d model, though they currently implement some degree of platform-level moderation, which has been drawing attention. I suspect their moderation will remain relatively stringent compared to the ideal of only censoring content that is illegal in a country-specific manner."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, I still hope that some platforms will eventually offer such user choice, and I continue to experiment with similar approaches for shaping my own consumption of Substack comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://about.fb.com/news/2024/12/2024-global-elections-meta-platforms/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elon-musk-needs-to-make-twitter-better/comment/10137853"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85356994,
+    "parent_children": 2,
+    "thread_id": 85335939,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 16.0,
+    "word_count": 372,
     "category": "Uncategorized",
     "tags": []
   }
