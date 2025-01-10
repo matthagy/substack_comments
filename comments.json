@@ -52980,7 +52980,7 @@
     "parent_id": 85231936,
     "parent_children": 13,
     "thread_id": 85227670,
-    "thread_children": 23,
+    "thread_children": 24,
     "ratio_recv": -5,
     "ratio_give": 0,
     "grade_level": 8.8,
@@ -53038,7 +53038,7 @@
     "parent_id": 85235628,
     "parent_children": 9,
     "thread_id": 85227670,
-    "thread_children": 23,
+    "thread_children": 24,
     "ratio_recv": -2,
     "ratio_give": -9,
     "grade_level": 15.7,
@@ -53056,7 +53056,7 @@
     "id": 85246127,
     "top_level": false,
     "date": "Jan 09 2025 09:01",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1736431317,
     "body": [
       [
@@ -53084,7 +53084,7 @@
     "thread_id": 85229563,
     "thread_children": 47,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -1,
     "grade_level": 11.7,
     "word_count": 216,
     "category": "Uncategorized",
@@ -53122,9 +53122,95 @@
     "thread_id": 85229713,
     "thread_children": 28,
     "ratio_recv": 2,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 10.8,
     "word_count": 134,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154509544,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-e6a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85353275,
+    "top_level": false,
+    "date": "Jan 09 2025 19:41",
+    "likes": 12,
+    "timestamp": 1736469665,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s easy for me to dismiss Zuck\u2019s recent change in moderation policies as just him following political currents, or even showing fealty to Trump. Moreover, the same could be said about his embrace of misinformation policing in the aftermath of the 2016 election, where Facebook and Twitter \u201cfake news\u201d were blamed for the results.*"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet I will say his recent statement is quite candid and direct, and it definitely represents a better direction for Facebook and Instagram in the long term. I\u2019d recommend watching his recent short video message to appreciate this, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.instagram.com/p/DEhf2uTJUs0/"
+        },
+        {
+          "type": "text",
+          "value": " . Transcript, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/justlikethepoet/status/1876612805685583958"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, the following excerpt stands out:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> After Trump first got elected in 2016, the legacy media wrote nonstop about how misinformation was a threat to democracy. We tried in good faith to address those concerns without becoming the arbiters of truth, but the fact checkers have just been too politically biased and have destroyed more trust than they've created, especially in the US."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Zuck does seem genuinely pissed that his attempt to address misinformation concerns raised by critics earned them zero credit\u2014if anything, it only led to further attacks on him and Facebook\u2014while simultaneously enraging the other half of the political spectrum, who felt they were \u201cbeing censored.\u201d (As if anyone has a natural right to broadcast on someone else\u2019s platform.) This was a lose-lose proposition, and it\u2019s good to see Zuck abandoning the futile mission of being the arbiters of truth and acceptable opinions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Here\u2019s an excellent refutation of the belief that internet fake news was to blame for 2016\u2014at most, it\u2019s a distracting narrative that deflects from conventional media\u2019s culpability, including the NYT\u2019s extensive coverage of Hillary\u2019s email security lapses: "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/twitter-responsibility-and-accountability/"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 85335939,
+    "parent_children": 13,
+    "thread_id": 85335939,
+    "thread_children": 13,
+    "ratio_recv": -6,
+    "ratio_give": -5,
+    "grade_level": 14.0,
+    "word_count": 275,
     "category": "Uncategorized",
     "tags": []
   }
