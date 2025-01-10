@@ -53115,7 +53115,7 @@
     "id": 85246127,
     "top_level": false,
     "date": "Jan 09 2025 09:01",
-    "likes": 14,
+    "likes": 15,
     "timestamp": 1736431317,
     "body": [
       [
@@ -53141,7 +53141,7 @@
     "parent_id": 85238709,
     "parent_children": 5,
     "thread_id": 85229563,
-    "thread_children": 50,
+    "thread_children": 55,
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 11.7,
@@ -53185,7 +53185,7 @@
     "parent_id": 85232605,
     "parent_children": 9,
     "thread_id": 85229713,
-    "thread_children": 30,
+    "thread_children": 33,
     "ratio_recv": 2,
     "ratio_give": -9,
     "grade_level": 10.8,
@@ -53275,8 +53275,8 @@
     "parent_children": 14,
     "thread_id": 85335939,
     "thread_children": 14,
-    "ratio_recv": -7,
-    "ratio_give": -4,
+    "ratio_recv": -5,
+    "ratio_give": -5,
     "grade_level": 14.0,
     "word_count": 275,
     "category": "Uncategorized",
@@ -53298,7 +53298,7 @@
     "id": 85391309,
     "top_level": false,
     "date": "Jan 10 2025 02:44",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1736495053,
     "body": [
       [
@@ -53358,7 +53358,7 @@
     "thread_id": 85335939,
     "thread_children": 14,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": 0,
     "grade_level": 16.0,
     "word_count": 372,
     "category": "Uncategorized",
@@ -53380,7 +53380,7 @@
     "id": 85414384,
     "top_level": false,
     "date": "Jan 10 2025 07:55",
-    "likes": 0,
+    "likes": 15,
     "timestamp": 1736513705,
     "body": [
       [
@@ -53422,15 +53422,53 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 7,
     "parent_id": 85405434,
-    "parent_children": 10,
+    "parent_children": 41,
     "thread_id": 85405434,
-    "thread_children": 10,
-    "ratio_recv": null,
-    "ratio_give": -8,
+    "thread_children": 41,
+    "ratio_recv": -9,
+    "ratio_give": -2,
     "grade_level": 11.9,
     "word_count": 223,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154227515,
+    "title": "A frozen mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/a-frozen-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85448289,
+    "top_level": false,
+    "date": "Jan 10 2025 11:12",
+    "likes": 3,
+    "timestamp": 1736525544,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, to clarify, in this context I intended \"elite engineering school\", which would include GaTech and other public, state-level institutions like Caltech. Also includes elite private schools like MIT and Stanford."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Not expecting us to rely on the Ivies here, although I certainly wouldn\u2019t count them out either because they certainly have some impressive math, science, and even engineering programs."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 85441961,
+    "parent_children": 3,
+    "thread_id": 85405434,
+    "thread_children": 41,
+    "ratio_recv": 0,
+    "ratio_give": 2,
+    "grade_level": 12.3,
+    "word_count": 60,
     "category": "Uncategorized",
     "tags": []
   }
