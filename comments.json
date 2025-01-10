@@ -2858,7 +2858,10 @@
     "grade_level": 10.1,
     "word_count": 41,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "inflation"
+    ]
   },
   {
     "post_id": 53154031,
@@ -3150,7 +3153,10 @@
     "grade_level": 7.6,
     "word_count": 42,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "digital privacy",
+      "subscription models"
+    ]
   },
   {
     "post_id": 53302113,
@@ -11809,7 +11815,10 @@
     "grade_level": 9.9,
     "word_count": 42,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 82102641,
@@ -13024,7 +13033,10 @@
     "grade_level": 4.8,
     "word_count": 30,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "data analysis",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 84371323,
@@ -15852,7 +15864,10 @@
     "grade_level": 18.1,
     "word_count": 35,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice",
+      "gun control"
+    ]
   },
   {
     "post_id": 87749070,
@@ -18535,7 +18550,9 @@
     "grade_level": 11.3,
     "word_count": 35,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice"
+    ]
   },
   {
     "post_id": 89799685,
@@ -27504,7 +27521,10 @@
     "grade_level": 9.2,
     "word_count": 36,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice",
+      "public safety"
+    ]
   },
   {
     "post_id": 103365512,
@@ -31388,7 +31408,10 @@
     "grade_level": 8.3,
     "word_count": 44,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "advertising revenue",
+      "media influence"
+    ]
   },
   {
     "post_id": 109985984,
@@ -34448,7 +34471,9 @@
     "grade_level": 8.3,
     "word_count": 29,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI"
+    ]
   },
   {
     "post_id": 114773991,
@@ -39674,7 +39699,11 @@
     "grade_level": 13.8,
     "word_count": 42,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 139463765,
@@ -41699,7 +41728,10 @@
     "grade_level": 25.6,
     "word_count": 36,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "human rights",
+      "immigration issues"
+    ]
   },
   {
     "post_id": 141462137,
@@ -43149,7 +43181,11 @@
     "grade_level": 11.9,
     "word_count": 32,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "education inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 144036233,
@@ -44238,7 +44274,11 @@
     "grade_level": 6.8,
     "word_count": 30,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 145091849,
@@ -44681,7 +44721,10 @@
     "grade_level": 12.1,
     "word_count": 27,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 145336462,
@@ -45413,7 +45456,11 @@
     "grade_level": 16.2,
     "word_count": 33,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "political campaigns",
+      "political polarization"
+    ]
   },
   {
     "post_id": 146771843,
@@ -46648,7 +46695,9 @@
     "grade_level": 17.3,
     "word_count": 36,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "free speech issues"
+    ]
   },
   {
     "post_id": 149355679,
@@ -49065,7 +49114,13 @@
     "grade_level": 7.7,
     "word_count": 41,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "media influence",
+      "news consumption",
+      "partisan politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 152095347,
@@ -52982,7 +53037,7 @@
     "thread_id": 85227670,
     "thread_children": 24,
     "ratio_recv": -5,
-    "ratio_give": 0,
+    "ratio_give": -1,
     "grade_level": 8.8,
     "word_count": 343,
     "category": "Uncategorized",
@@ -53086,9 +53141,9 @@
     "parent_id": 85238709,
     "parent_children": 5,
     "thread_id": 85229563,
-    "thread_children": 47,
+    "thread_children": 50,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 11.7,
     "word_count": 216,
     "category": "Uncategorized",
@@ -53130,7 +53185,7 @@
     "parent_id": 85232605,
     "parent_children": 9,
     "thread_id": 85229713,
-    "thread_children": 28,
+    "thread_children": 30,
     "ratio_recv": 2,
     "ratio_give": -9,
     "grade_level": 10.8,
@@ -53151,7 +53206,7 @@
     "id": 85353275,
     "top_level": false,
     "date": "Jan 09 2025 19:41",
-    "likes": 12,
+    "likes": 14,
     "timestamp": 1736469665,
     "body": [
       [
@@ -53220,8 +53275,8 @@
     "parent_children": 14,
     "thread_id": 85335939,
     "thread_children": 14,
-    "ratio_recv": -6,
-    "ratio_give": -5,
+    "ratio_recv": -7,
+    "ratio_give": -4,
     "grade_level": 14.0,
     "word_count": 275,
     "category": "Uncategorized",
@@ -53306,6 +53361,76 @@
     "ratio_give": -1,
     "grade_level": 16.0,
     "word_count": 372,
+    "category": "Uncategorized",
+    "tags": [
+      "censorship",
+      "content moderation",
+      "free speech issues",
+      "media influence",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 154227515,
+    "title": "A frozen mailbag ",
+    "canonical_url": "https://www.slowboring.com/p/a-frozen-mailbag",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85414384,
+    "top_level": false,
+    "date": "Jan 10 2025 07:55",
+    "likes": 0,
+    "timestamp": 1736513705,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I question whether it would have been worthwhile for U.S. consumers to pay higher prices to minimize the disruptions of a once-in-a-century pandemic. Overall, things weren\u2019t that bad, and I doubt even now there\u2019s much political will for higher prices in exchange for anything, given voters\u2019 recent anger over relatively mild inflation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I\u2019m guessing U.S. supply chains will become increasingly robust as we reshore more manufacturing for economic reasons alone, given the accelerating progress in automation. Eg, I vaguely recall some discussion about clothing manufacturing research and startups at Georgia Tech circa 2010, and numerous critics thinking it was ridiculous given the low margins in apparel. Yet advocates pointed out the transportation costs, particularly with Georgia and other parts of the U.S. still growing and exporting cotton. Furthermore, eventually, machines will outcompete humans even in the lowest labor-cost countries. Here\u2019s a 2017 article on such \u201csewbots\u201d [1], and I\u2019m guessing the \u201cGeorgia Tech Manufacturing Institute\u201d [2] is where the associated research is being conducted."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So, I\u2019m increasingly confident the U.S. will have more robust domestic manufacturing for numerous goods due to our multitude of natural resources. However, I doubt this will be celebrated by many proponents of U.S. manufacturing because it will resemble semiconductor manufacturing, where even the lowest-level roles require at least a master\u2019s degree from an elite institution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.fastcompany.com/40454692/this-t-shirt-sewing-robot-could-radically-shift-the-apparel-industry"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://research.gatech.edu/manufacturing/flexible-automation"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85405434,
+    "parent_children": 10,
+    "thread_id": 85405434,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 11.9,
+    "word_count": 223,
     "category": "Uncategorized",
     "tags": []
   }

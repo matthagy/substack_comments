@@ -265,12 +265,20 @@
     "consumer behavior",
     "economic inequality"
   ],
+  "6365053": [
+    "economic inequality",
+    "inflation"
+  ],
   "6399846": [
     "consumer behavior",
     "data analysis",
     "social media influence"
   ],
   "6402753": [],
+  "6403134": [
+    "digital privacy",
+    "subscription models"
+  ],
   "6413521": [
     "US politics",
     "partisan politics",
@@ -1047,6 +1055,10 @@
     "financial crisis",
     "financial markets"
   ],
+  "10194020": [
+    "US politics",
+    "partisan politics"
+  ],
   "10218829": [
     "Democratic Party",
     "US politics",
@@ -1140,6 +1152,10 @@
     "partisan politics",
     "political polarization",
     "right-wing politics"
+  ],
+  "10485238": [
+    "data analysis",
+    "economic inequality"
   ],
   "10504818": [
     "US politics",
@@ -1364,6 +1380,10 @@
     "gun control",
     "partisan politics"
   ],
+  "10868150": [
+    "crime and justice",
+    "gun control"
+  ],
   "10872296": [
     "US politics",
     "gun control",
@@ -1540,6 +1560,7 @@
     "tech industry"
   ],
   "11096029": [],
+  "11105838": [],
   "11116225": [
     "partisan politics",
     "political campaigns",
@@ -1576,6 +1597,9 @@
     "US politics",
     "economic policy",
     "financial crisis"
+  ],
+  "11152355": [
+    "crime and justice"
   ],
   "11156783": [
     "Democratic Party",
@@ -2262,6 +2286,10 @@
     "public safety",
     "tech industry"
   ],
+  "12967390": [
+    "crime and justice",
+    "public safety"
+  ],
   "12967487": [
     "taxation"
   ],
@@ -2552,6 +2580,10 @@
     "social justice"
   ],
   "13980049": [],
+  "13980112": [
+    "advertising revenue",
+    "media influence"
+  ],
   "13980190": [],
   "13998571": [
     "generative AI"
@@ -2746,6 +2778,7 @@
     "social media influence"
   ],
   "14480060": [],
+  "14497862": [],
   "14531697": [
     "immigration issues",
     "political polarization",
@@ -2787,6 +2820,9 @@
   "14823311": [
     "crime and justice",
     "public safety"
+  ],
+  "14824709": [
+    "generative AI"
   ],
   "14873497": [
     "US politics",
@@ -3122,6 +3158,7 @@
   "41388559": [
     "economic inequality"
   ],
+  "41423490": [],
   "41778783": [
     "comment moderation",
     "social media influence"
@@ -3157,6 +3194,7 @@
     "public misinformation"
   ],
   "42395554": [],
+  "42927256": [],
   "43090647": [
     "international relations",
     "political polarization",
@@ -3210,6 +3248,11 @@
     "welfare state"
   ],
   "44697274": [
+    "US politics",
+    "economic policy",
+    "inflation"
+  ],
+  "44697338": [
     "US politics",
     "economic policy",
     "inflation"
@@ -3371,6 +3414,10 @@
     "progressivism",
     "welfare state"
   ],
+  "49600207": [
+    "human rights",
+    "immigration issues"
+  ],
   "49600485": [
     "US politics",
     "political polarization",
@@ -3502,6 +3549,11 @@
     "economic policy",
     "financial regulation"
   ],
+  "54605776": [
+    "economic inequality",
+    "education inequality",
+    "social justice"
+  ],
   "55610713": [],
   "55942021": [
     "consumer behavior",
@@ -3582,6 +3634,11 @@
     "monetary policy",
     "public misinformation"
   ],
+  "57670803": [
+    "Biden administration",
+    "US politics",
+    "pandemic response"
+  ],
   "57782045": [
     "automation",
     "business strategy",
@@ -3624,6 +3681,10 @@
     "US politics",
     "fiscal policy",
     "inflation"
+  ],
+  "58335613": [
+    "US politics",
+    "partisan politics"
   ],
   "58441876": [
     "Biden administration",
@@ -3681,6 +3742,11 @@
     "historical analysis",
     "political polarization",
     "progressivism"
+  ],
+  "64423160": [
+    "US politics",
+    "political campaigns",
+    "political polarization"
   ],
   "64541549": [
     "identity politics",
@@ -3805,6 +3871,9 @@
   "70498601": [
     "free speech issues",
     "public safety"
+  ],
+  "70507812": [
+    "free speech issues"
   ],
   "70522436": [
     "business strategy",
@@ -4011,6 +4080,13 @@
     "Biden administration",
     "US politics",
     "activism"
+  ],
+  "80163358": [
+    "US politics",
+    "media influence",
+    "news consumption",
+    "partisan politics",
+    "political polarization"
   ],
   "80163698": [
     "identity politics",
@@ -4335,5 +4411,12 @@
     "free speech issues",
     "media influence",
     "public misinformation"
+  ],
+  "85391309": [
+    "censorship",
+    "content moderation",
+    "free speech issues",
+    "media influence",
+    "social media influence"
   ]
 }
