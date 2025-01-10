@@ -52803,9 +52803,9 @@
     "parent_id": 85080472,
     "parent_children": 13,
     "thread_id": 85048539,
-    "thread_children": 76,
+    "thread_children": 77,
     "ratio_recv": -7,
-    "ratio_give": 7,
+    "ratio_give": 6,
     "grade_level": 13.4,
     "word_count": 160,
     "category": "Uncategorized",
@@ -52839,9 +52839,9 @@
     "parent_id": 85108526,
     "parent_children": 3,
     "thread_id": 85048539,
-    "thread_children": 76,
+    "thread_children": 77,
     "ratio_recv": -5,
-    "ratio_give": 5,
+    "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 99,
     "category": "Uncategorized",
@@ -52885,7 +52885,7 @@
     "thread_id": 85047409,
     "thread_children": 10,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 10.9,
     "word_count": 271,
     "category": "Uncategorized",
@@ -52904,7 +52904,7 @@
     "id": 85235628,
     "top_level": false,
     "date": "Jan 09 2025 07:44",
-    "likes": 4,
+    "likes": 13,
     "timestamp": 1736426663,
     "body": [
       [
@@ -52976,13 +52976,13 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 9,
     "parent_id": 85231936,
-    "parent_children": 6,
+    "parent_children": 13,
     "thread_id": 85227670,
-    "thread_children": 12,
-    "ratio_recv": -3,
-    "ratio_give": -2,
+    "thread_children": 23,
+    "ratio_recv": -5,
+    "ratio_give": 0,
     "grade_level": 8.8,
     "word_count": 343,
     "category": "Uncategorized",
@@ -52998,7 +52998,7 @@
     "id": 85236766,
     "top_level": false,
     "date": "Jan 09 2025 07:54",
-    "likes": 0,
+    "likes": 4,
     "timestamp": 1736427258,
     "body": [
       [
@@ -53034,15 +53034,97 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 85235628,
-    "parent_children": 4,
+    "parent_children": 9,
     "thread_id": 85227670,
-    "thread_children": 12,
-    "ratio_recv": 1,
-    "ratio_give": -4,
+    "thread_children": 23,
+    "ratio_recv": -2,
+    "ratio_give": -9,
     "grade_level": 15.7,
     "word_count": 41,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154330441,
+    "title": "The '90s weren't that great",
+    "canonical_url": "https://www.slowboring.com/p/the-90s-werent-that-great",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85246127,
+    "top_level": false,
+    "date": "Jan 09 2025 09:01",
+    "likes": 13,
+    "timestamp": 1736431317,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't get the impression that Lewis intended this as a dismissal of critical thinking about technology, but instead the general pattern we've seen across numerous technology adoption cycles. Just because older people are predisposed to being uncomfortable with technology developed in their adulthood doesn't mean they're wrong in any specific criticism. Yet we should expect some degree of discomfort from older cohorts relative to younger users, and moreover we should expect the younger cohorts to more easily accept these technologies as the \"natural state of things\"."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In terms of working through any specific criticism the devil is always in the details. Are the youth foolishly adopting a negative technology or cultural change because they don't know any better? Or are the older generations yet again failing to get with the times? It'll certainly come down the nuances of the critique as well as the possibility for an alternative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As discussed in this article, adults would struggle to go without a smartphones despite the fact that was totally natural to not have a cell phone in the 90's. Just because there are some downsides to smartphones doesn't mean there's a straightforward alternative for most people. Although I do think we are increasingly learning the value of keeping phones and other digital distractions out of the classrooms."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85238709,
+    "parent_children": 5,
+    "thread_id": 85229563,
+    "thread_children": 47,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 11.7,
+    "word_count": 216,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154330441,
+    "title": "The '90s weren't that great",
+    "canonical_url": "https://www.slowboring.com/p/the-90s-werent-that-great",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85251045,
+    "top_level": false,
+    "date": "Jan 09 2025 09:31",
+    "likes": 4,
+    "timestamp": 1736433089,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although I remember my parents complaining about the ever-changing mediums throughout their lives: records \u2192 cassettes \u2192 CDs \u2192 MP3s. In particular, they felt they should\u2019ve been able to trade in the old medium for the new one and only pay the physical manufacturing cost. Similarly, they bet on Betamax over VHS initially, so we still had that old piece of hardware and some movies in the early \u201990s."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "By contrast, I was an early adopter of Amazon Video on Demand and still have digital purchases from the early 2010s. I happily ditched my old DVDs when moving cross-country in 2013, figuring I could always digitally buy or rent as needed. I haven\u2019t regretted that decision and am glad I\u2019m no longer lugging around DVDs and an antiquated disk reader, analogous to my parents\u2019 old Betamax."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 85232605,
+    "parent_children": 9,
+    "thread_id": 85229713,
+    "thread_children": 28,
+    "ratio_recv": 2,
+    "ratio_give": -8,
+    "grade_level": 10.8,
+    "word_count": 134,
     "category": "Uncategorized",
     "tags": []
   }
