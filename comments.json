@@ -52959,7 +52959,7 @@
     "id": 85235628,
     "top_level": false,
     "date": "Jan 09 2025 07:44",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1736426663,
     "body": [
       [
@@ -53036,8 +53036,8 @@
     "parent_children": 13,
     "thread_id": 85227670,
     "thread_children": 24,
-    "ratio_recv": -5,
-    "ratio_give": -1,
+    "ratio_recv": -6,
+    "ratio_give": 0,
     "grade_level": 8.8,
     "word_count": 343,
     "category": "Uncategorized",
@@ -53099,7 +53099,7 @@
     "thread_id": 85227670,
     "thread_children": 24,
     "ratio_recv": -2,
-    "ratio_give": -9,
+    "ratio_give": -10,
     "grade_level": 15.7,
     "word_count": 41,
     "category": "Uncategorized",
@@ -53115,7 +53115,7 @@
     "id": 85246127,
     "top_level": false,
     "date": "Jan 09 2025 09:01",
-    "likes": 15,
+    "likes": 16,
     "timestamp": 1736431317,
     "body": [
       [
@@ -53143,7 +53143,7 @@
     "thread_id": 85229563,
     "thread_children": 55,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -2,
     "grade_level": 11.7,
     "word_count": 216,
     "category": "Uncategorized",
@@ -53275,7 +53275,7 @@
     "parent_children": 14,
     "thread_id": 85335939,
     "thread_children": 14,
-    "ratio_recv": -5,
+    "ratio_recv": -4,
     "ratio_give": -5,
     "grade_level": 14.0,
     "word_count": 275,
@@ -53380,7 +53380,7 @@
     "id": 85414384,
     "top_level": false,
     "date": "Jan 10 2025 07:55",
-    "likes": 15,
+    "likes": 16,
     "timestamp": 1736513705,
     "body": [
       [
@@ -53422,17 +53422,22 @@
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 9,
     "parent_id": 85405434,
-    "parent_children": 41,
+    "parent_children": 44,
     "thread_id": 85405434,
-    "thread_children": 41,
+    "thread_children": 44,
     "ratio_recv": -9,
     "ratio_give": -2,
     "grade_level": 11.9,
     "word_count": 223,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "economic policy",
+      "inflation",
+      "labor market"
+    ]
   },
   {
     "post_id": 154227515,
@@ -53460,16 +53465,82 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 85441961,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 85405434,
-    "thread_children": 41,
+    "thread_children": 44,
     "ratio_recv": 0,
     "ratio_give": 2,
     "grade_level": 12.3,
     "word_count": 60,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "higher education"
+    ]
+  },
+  {
+    "post_id": 154629331,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-648",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85654188,
+    "top_level": true,
+    "date": "Jan 11 2025 14:23",
+    "likes": 3,
+    "timestamp": 1736623413,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I found a fascinating and rather discomforting Bloomberg article on the female analog of cryptocurrency/memestock speculation and sports gambling, labeled \u201ca feminine financial nihilism,\u201d in How \u2018Disaster Girls\u2019 Are Cashing in on the Digital Economy [1]. It had me reflecting on the recent SB article \u201cMen and women are different\u201d within this particularly absurd context of financial nihilism, where there are now apparently both male- and female-coded variants."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Bloomberg article focuses on \u201cTrad Influencers\u201d and \u201cDisaster Girl\u201d entrepreneurs who capitalize on these female-themed trends by shilling both digital and physical goods and services. For example, \u201cfinfluencers selling crystals as the solution to financial insolvency\u201d and a woman described as \u201ca kind of virtual puppet, animated by virtual tokens sent by viewers.\u201d Surprisingly, the article didn\u2019t mention OnlyFans or other digital sex work but did highlight related communities where women discuss strategies for finding a male provider or a straight up sugar daddy. Overall, this realm strikes me as quite dystopian and disappointing, especially from my perspective as an elderly millennial."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I wish the article had focused less on the few who managed to profit from these trends and more on the larger number of young women wasting time and money\u2014analogous to male financial nihilists. For instance, what type of person buys crystals to address financial issues? Do we have female equivalents to male degenerate sports gamblers? I imagine there\u2019s a lot of collateral damage from, \u201cOn Sugar Bowl Reddit forums, where those seeking a transactional relationship congregate to discuss the terms of an exchange.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] [gift link, hence the messy-ness] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2025-01-10/tradwife-delulu-girl-npc-how-women-are-cashing-in-on-social-media?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczNjYyMTI4NCwiZXhwIjoxNzM3MjI2MDg0LCJhcnRpY2xlSWQiOiJTUFZJU0JUMEcxS1cwMCIsImJjb25uZWN0SWQiOiJBRTM0NDZCMTRFMDQ0QzBCQkE0NTRFMTNDQUNFQzk4NiJ9.x2K6vuB9E3JJ2B_qkzDOlevuPwDMC6dmuq-BjzDG6jY"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 85654188,
+    "thread_children": 6,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 13.7,
+    "word_count": 261,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "cryptocurrency",
+      "digital privacy",
+      "economic inequality",
+      "media influence"
+    ]
   }
 ]
