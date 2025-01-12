@@ -655,14 +655,16 @@ const loadComments = async () => {
         tagsDiv.classList.add('tags');
         comment.tags.sort((a, b) => a.localeCompare(b))
             .forEach(tag => {
-                const tagSpan = document.createElement('span');
-                tagSpan.classList.add('tag');
+                const tagButton = document.createElement('button');
+                tagButton.classList.add('tag');
+                tagButton.setAttribute('type', 'button');
                 const tagColor = tagColors[tag];
                 if (tagColor) {
-                    tagSpan.style.backgroundColor = tagColor;
+                    tagButton.style.backgroundColor = tagColor;
                 }
-                tagSpan.appendChild(document.createTextNode(tag));
-                tagsDiv.appendChild(tagSpan);
+                tagButton.appendChild(document.createTextNode(tag));
+                tagButton.addEventListener('click', () => selectTag(tag));
+                tagsDiv.appendChild(tagButton);
             });
         metaDiv.appendChild(tagsDiv);
 
@@ -751,6 +753,18 @@ const loadComments = async () => {
             parent.appendChild(document.createTextNode(remaining));
         }
     };
+
+    /**
+     * @param {string} tag
+     */
+    const selectTag = (tag) => {
+        for (let i = 0; i < uiElements.tagsSelect.options.length; i++) {
+            uiElements.tagsSelect.options[i].selected = uiElements.tagsSelect.options[i].value === tag;
+        }
+        uiElements.pageSelect.selectedIndex = 0;
+        update();
+        window.scrollTo({top: 0, left: 0, behavior: 'smooth'});
+    }
 
     /** @type {{ [name: string]: number }} */
     const buttonHandlerTimeouts = {};

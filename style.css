@@ -75,11 +75,19 @@ select {
 }
 
 @media (max-width: 800px) {
+    #controls {
+        padding: 1em; /* Add breathing room */
+        overflow: hidden; /* Prevent elements from spilling out */
+    }
     input, select {
-        max-width: 30em;
+        max-width: 100%; /* Use full width of the container */
     }
     #search {
-        min-width: 30em;
+        min-width: 20em;
+        width: 100%; /* Make it responsive */
+    }
+    #category {
+        max-width: 20em;
     }
 }
 
@@ -156,6 +164,21 @@ a.meta, .post-title {
     white-space: nowrap;
     align-items: center;
     display: inline-block; /* Adjust for inline behavior */
+    cursor: pointer; /* Indicate interactivity */
+    background: transparent; /* Remove default button background */
+    font-size: inherit; /* Match text style */
+    font-family: inherit; /* Match text style */
+    color: #B5B5B5;
+}
+
+.tag:focus {
+    outline: 2px solid #888; /* Provide focus styling for accessibility */
+    outline-offset: 2px;
+}
+
+.tag:hover, .tag:active { /* Add hover effect for feedback */
+    background-color: #f0f0f0 !important; /* Use !important to override inline styles */
+    color: #1e1e1e; /* Darken text for contrast */
 }
 
 a.link {
