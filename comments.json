@@ -53380,7 +53380,7 @@
     "id": 85414384,
     "top_level": false,
     "date": "Jan 10 2025 07:55",
-    "likes": 16,
+    "likes": 17,
     "timestamp": 1736513705,
     "body": [
       [
@@ -53427,7 +53427,7 @@
     "parent_children": 44,
     "thread_id": 85405434,
     "thread_children": 44,
-    "ratio_recv": -9,
+    "ratio_recv": -10,
     "ratio_give": -2,
     "grade_level": 11.9,
     "word_count": 223,
@@ -53489,7 +53489,7 @@
     "id": 85654188,
     "top_level": true,
     "date": "Jan 11 2025 14:23",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1736623413,
     "body": [
       [
@@ -53530,7 +53530,7 @@
     "parent_children": null,
     "thread_id": 85654188,
     "thread_children": 6,
-    "ratio_recv": -1,
+    "ratio_recv": -2,
     "ratio_give": null,
     "grade_level": 13.7,
     "word_count": 261,
@@ -53542,5 +53542,180 @@
       "economic inequality",
       "media influence"
     ]
+  },
+  {
+    "post_id": 154629331,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-648",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85784232,
+    "top_level": false,
+    "date": "Jan 12 2025 11:17",
+    "likes": 4,
+    "timestamp": 1736698624,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. I think there\u2019s a general theme of Democratic politicians prioritizing counterproductive issues to appease a small but loud constituency (i.e., \u201cThe Groups\u201d). In the case of tech, particularly social media, I imagine journalists played a role due to their visceral despair over how these tech firms \u201cdisrupted\u201d the news business and media industries at large. Some of it was likely just general \u201cchallenging power.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, it was a mistake because, as you\u2019ve pointed out, we didn\u2019t really achieve anything significant here. At most, we may have slowed some mergers and acquisitions with Lina Khan at the FTC. Our Democratic leaders should reflect on this strategy and the value of sometimes telling certain constituencies to \u201cpound sand.\u201d They represent so few people directly, and even their broader cultural power is waning\u2014particularly with Musk and now Zuck reorienting their social media platforms."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85728503,
+    "parent_children": 2,
+    "thread_id": 85728503,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 11.1,
+    "word_count": 141,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154677457,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e47",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85805052,
+    "top_level": true,
+    "date": "Jan 12 2025 13:16",
+    "likes": 8,
+    "timestamp": 1736705775,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Continuing off of your recent SB article, \u201cMen and women are different\u201d, what do you make of \u201cZuckerberg Says Most Companies Need More \u2018Masculine Energy\u2019\u201d as reported by Bloomberg. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From a transcript, [2] I believe this refers to the following segment starting around 1:28 on YouTube. [3] "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> It's kind of just what I was saying before. I think, for me, it's just I think a lot of the corporate world is pretty culturally neutered. And I just think having, you know, I grew up, I have three sisters, no brothers. I have three daughters, no sons. So I'm like surrounded by girls and women like my whole life. And it's like, so I think, I don't know, there's something, the kind of masculine energy I think is good."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And obviously, you know, society has plenty of that, but I think corporate culture was really like trying to get away from it. And I do think that there's just something, it's like, I don't know, all these forms of energy are good. And I think having a culture that like celebrates the aggression a bit more has its own merits that are really positive. And that has been kind of a positive experience for me. Just having a thing that I can just do with my guy friends and we just beat each other a bit, it's good. It is good. I agree. I don't know, it's good. It is good. I agree. I don't know. It's good."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I do think that if you're a woman going into a company, it probably feels like it's too masculine. It's like there isn't enough of the energy that you may naturally have, and it probably feels like there are all these things that are set up that are biased against you, and that's not good either, because you want women to be able to succeed and have companies that can unlock all the value from having great people, no matter what their background or gender. I think these things can always go a little far. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And I think it's one thing to say we want to be welcoming and make a good environment for everyone, and I think it's another to basically say that masculinity is bad. And I just think we kind of swung culturally to that part of the spectrum, where it's all like, OK, masculinity is toxic. We have to get rid of it completely. It's like, no. Both of these things are good. It's like you want feminine energy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The transcript is slightly off and I lightly modified it to remove Rogan\u2019s small comments in the middle and repeated words while Zuck stutters a bit on this complex topic. As a Rogan podcast, it\u2019s all over the place and rather rambly, so text likely isn\u2019t the best way to communicate his vibe here. Moreover, they address this topic in other parts, including something about us no longer needing hunting to get meat and us lacking that outlet to appreciate male-coded behavior. I worked through the whole podcast and I agree with the Bloomberg reporting that this is one of the vibes he\u2019s communicating in addition to complaining about the Biden administration pressuring them to censor more content, particularly around Covid."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2025-01-10/mark-zuckerberg-slams-biden-administration-on-joe-rogan-s-podcast"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://podscripts.co/podcasts/the-joe-rogan-experience/2255-mark-zuckerberg"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=7k1ehaE0bdU&t=5323s"
+        }
+      ],
+      []
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 85805052,
+    "thread_children": 6,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 7.8,
+    "word_count": 545,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154677457,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e47",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85822411,
+    "top_level": false,
+    "date": "Jan 12 2025 15:03",
+    "likes": 6,
+    "timestamp": 1736712185,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, it's podcast, and The Joe Rogan Show at that. Just a long form, meandering conversations, filling hours. Random space fillers like those will come out while someone works out their response."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Now we could question why such a format is so popular to attract leading CEOs and politicians. Seems many people aren't looking for clear, concise, and specific communication, but instead appreciate the general vibes being sent. Maybe that in someways feels more authentic that a well-rehearsed speech?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85820190,
+    "parent_children": 4,
+    "thread_id": 85805052,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": 4,
+    "grade_level": 7.3,
+    "word_count": 79,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
