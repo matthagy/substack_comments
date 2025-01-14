@@ -53579,7 +53579,13 @@
     "grade_level": 11.1,
     "word_count": 141,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "social media influence",
+      "tech industry"
+    ]
   },
   {
     "post_id": 154677457,
@@ -53591,7 +53597,7 @@
     "id": 85805052,
     "top_level": true,
     "date": "Jan 12 2025 13:16",
-    "likes": 8,
+    "likes": 13,
     "timestamp": 1736705775,
     "body": [
       [
@@ -53668,17 +53674,21 @@
       ],
       []
     ],
-    "total_children": 6,
+    "total_children": 12,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 85805052,
-    "thread_children": 6,
+    "thread_children": 12,
     "ratio_recv": -6,
     "ratio_give": null,
     "grade_level": 7.8,
     "word_count": 545,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "censorship",
+      "tech industry"
+    ]
   },
   {
     "post_id": 154677457,
@@ -53690,7 +53700,7 @@
     "id": 85822411,
     "top_level": false,
     "date": "Jan 12 2025 15:03",
-    "likes": 6,
+    "likes": 13,
     "timestamp": 1736712185,
     "body": [
       [
@@ -53706,15 +53716,132 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 85820190,
-    "parent_children": 4,
+    "parent_children": 7,
     "thread_id": 85805052,
-    "thread_children": 6,
-    "ratio_recv": null,
-    "ratio_give": 4,
+    "thread_children": 12,
+    "ratio_recv": -13,
+    "ratio_give": 8,
     "grade_level": 7.3,
     "word_count": 79,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "news consumption"
+    ]
+  },
+  {
+    "post_id": 154264985,
+    "title": "Don't blame Joe Manchin for child poverty",
+    "canonical_url": "https://www.slowboring.com/p/dont-blame-joe-manchin-for-child",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85921750,
+    "top_level": false,
+    "date": "Jan 13 2025 07:35",
+    "likes": 25,
+    "timestamp": 1736771727,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. In retrospect, I find it rather surprising that similar views were shared by some of the working-class people I met in my youth through the world-expanding experience of working minimum-wage jobs. Yet I know, at the time, the \u201cenabling logic\u201d they presented seemed reasonable enough to me, and even now, I don\u2019t think I could convincingly argue them out of such a position when they had firsthand experience they felt supported their \u201ctough love\u201d stance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s understandable why Manchin could credibly believe this and why we should\u2019ve taken his position seriously, rather than quickly dismissing it with the assumption he was just looking out for the wealthy\u2014particularly if many potential beneficiaries and their social groups may feel similarly."
+        }
+      ]
+    ],
+    "total_children": 36,
+    "parent_id": 85915929,
+    "parent_children": 92,
+    "thread_id": 85915929,
+    "thread_children": 92,
+    "ratio_recv": 18,
+    "ratio_give": -20,
+    "grade_level": 18.8,
+    "word_count": 119,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154264985,
+    "title": "Don't blame Joe Manchin for child poverty",
+    "canonical_url": "https://www.slowboring.com/p/dont-blame-joe-manchin-for-child",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85931531,
+    "top_level": false,
+    "date": "Jan 13 2025 08:49",
+    "likes": 7,
+    "timestamp": 1736776174,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> making votes based on actual evidence"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine we could find at least one position, if not a vote, of every single current and past senator that doesn\u2019t conform to what we, the SB readership, take to be evidence-based policy. Moreover, that certainly doesn\u2019t seem to be what voters value in their elected representatives. At some level, we just have to accept people as they are, including their irrational views, and work with the flawed world as it is if we want to keep making progress toward improving things."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s fine if people want to express whatever negative emotions they feel about the failure of the expanded CTC however they please; and it\u2019s also fine if that isn\u2019t grounded in a solid factual understanding either. But at some point, we have to move beyond that and return to a fact-based understanding of what steps we take from where we currently are to make future progress on initiatives like expanding the CTC."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 85925395,
+    "parent_children": 5,
+    "thread_id": 85915929,
+    "thread_children": 92,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 14.7,
+    "word_count": 161,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154264985,
+    "title": "Don't blame Joe Manchin for child poverty",
+    "canonical_url": "https://www.slowboring.com/p/dont-blame-joe-manchin-for-child",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 85937293,
+    "top_level": false,
+    "date": "Jan 13 2025 09:24",
+    "likes": 5,
+    "timestamp": 1736778275,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree. Just pointing out that Manchin isn\u2019t the type of politician open to this line of persuasion. Others in our coalition certainly are, but we needed a different approach with him, and at some level, we may have just needed to take his beliefs as they are and then work within those constraints. Again, it\u2019s totally fine for us to be frustrated with those constraints, but that alone doesn\u2019t suggest there\u2019s a solution to removing them."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 85935027,
+    "parent_children": 2,
+    "thread_id": 85915929,
+    "thread_children": 92,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.5,
+    "word_count": 78,
     "category": "Uncategorized",
     "tags": []
   }
