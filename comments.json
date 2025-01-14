@@ -53741,7 +53741,7 @@
     "id": 85921750,
     "top_level": false,
     "date": "Jan 13 2025 07:35",
-    "likes": 25,
+    "likes": 28,
     "timestamp": 1736771727,
     "body": [
       [
@@ -53757,17 +53757,21 @@
         }
       ]
     ],
-    "total_children": 36,
+    "total_children": 38,
     "parent_id": 85915929,
-    "parent_children": 92,
+    "parent_children": 95,
     "thread_id": 85915929,
-    "thread_children": 92,
-    "ratio_recv": 18,
+    "thread_children": 95,
+    "ratio_recv": 19,
     "ratio_give": -20,
     "grade_level": 18.8,
     "word_count": 119,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "economic inequality",
+      "identity politics"
+    ]
   },
   {
     "post_id": 154264985,
@@ -53779,7 +53783,7 @@
     "id": 85931531,
     "top_level": false,
     "date": "Jan 13 2025 08:49",
-    "likes": 7,
+    "likes": 9,
     "timestamp": 1736776174,
     "body": [
       [
@@ -53805,13 +53809,16 @@
     "parent_id": 85925395,
     "parent_children": 5,
     "thread_id": 85915929,
-    "thread_children": 92,
-    "ratio_recv": -2,
-    "ratio_give": 2,
+    "thread_children": 95,
+    "ratio_recv": -3,
+    "ratio_give": 4,
     "grade_level": 14.7,
     "word_count": 161,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 154264985,
@@ -53823,7 +53830,7 @@
     "id": 85937293,
     "top_level": false,
     "date": "Jan 13 2025 09:24",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1736778275,
     "body": [
       [
@@ -53837,11 +53844,110 @@
     "parent_id": 85935027,
     "parent_children": 2,
     "thread_id": 85915929,
-    "thread_children": 92,
+    "thread_children": 95,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 8.5,
     "word_count": 78,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "partisan politics"
+    ]
+  },
+  {
+    "post_id": 154777731,
+    "title": "Major data revisions are coming",
+    "canonical_url": "https://www.slowboring.com/p/major-data-revisions-are-coming",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86106454,
+    "top_level": false,
+    "date": "Jan 14 2025 06:43",
+    "likes": 1,
+    "timestamp": 1736855018,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Understandable from my perspective, and obviously, someone has to address those issues, even if I\u2019d prefer it to be someone else. Regardless, we need to fix something here, and I\u2019m confident they\u2019ll handle it in a way at least partially aligned with my values and interests."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 86104475,
+    "parent_children": 6,
+    "thread_id": 86103593,
+    "thread_children": 9,
+    "ratio_recv": 2,
+    "ratio_give": -5,
+    "grade_level": 11.1,
+    "word_count": 46,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154777731,
+    "title": "Major data revisions are coming",
+    "canonical_url": "https://www.slowboring.com/p/major-data-revisions-are-coming",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86107040,
+    "top_level": false,
+    "date": "Jan 14 2025 06:49",
+    "likes": 0,
+    "timestamp": 1736855391,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, we\u2019re in agreement on our predictions. We only differ in our prioritization and possibly our judgment on the possibilities."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 86106698,
+    "parent_children": 4,
+    "thread_id": 86103593,
+    "thread_children": 9,
+    "ratio_recv": 2,
+    "ratio_give": -3,
+    "grade_level": 10.7,
+    "word_count": 20,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154777731,
+    "title": "Major data revisions are coming",
+    "canonical_url": "https://www.slowboring.com/p/major-data-revisions-are-coming",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86108100,
+    "top_level": false,
+    "date": "Jan 14 2025 07:00",
+    "likes": 0,
+    "timestamp": 1736856049,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Well, I think we\u2019ll have to agree to disagree on an expanding set of considerations, notably the narrative."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 86107405,
+    "parent_children": 2,
+    "thread_id": 86103593,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 10.3,
+    "word_count": 18,
     "category": "Uncategorized",
     "tags": []
   }
