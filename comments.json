@@ -53757,11 +53757,11 @@
         }
       ]
     ],
-    "total_children": 38,
+    "total_children": 42,
     "parent_id": 85915929,
-    "parent_children": 95,
+    "parent_children": 99,
     "thread_id": 85915929,
-    "thread_children": 95,
+    "thread_children": 99,
     "ratio_recv": 19,
     "ratio_give": -20,
     "grade_level": 18.8,
@@ -53809,7 +53809,7 @@
     "parent_id": 85925395,
     "parent_children": 5,
     "thread_id": 85915929,
-    "thread_children": 95,
+    "thread_children": 99,
     "ratio_recv": -3,
     "ratio_give": 4,
     "grade_level": 14.7,
@@ -53844,7 +53844,7 @@
     "parent_id": 85935027,
     "parent_children": 2,
     "thread_id": 85915929,
-    "thread_children": 95,
+    "thread_children": 99,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 8.5,
@@ -53865,7 +53865,7 @@
     "id": 86106454,
     "top_level": false,
     "date": "Jan 14 2025 06:43",
-    "likes": 1,
+    "likes": 3,
     "timestamp": 1736855018,
     "body": [
       [
@@ -53875,13 +53875,13 @@
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 12,
     "parent_id": 86104475,
-    "parent_children": 6,
+    "parent_children": 13,
     "thread_id": 86103593,
-    "thread_children": 9,
-    "ratio_recv": 2,
-    "ratio_give": -5,
+    "thread_children": 21,
+    "ratio_recv": 4,
+    "ratio_give": -13,
     "grade_level": 11.1,
     "word_count": 46,
     "category": "Uncategorized",
@@ -53897,7 +53897,7 @@
     "id": 86107040,
     "top_level": false,
     "date": "Jan 14 2025 06:49",
-    "likes": 0,
+    "likes": 3,
     "timestamp": 1736855391,
     "body": [
       [
@@ -53907,13 +53907,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 10,
     "parent_id": 86106698,
-    "parent_children": 4,
+    "parent_children": 11,
     "thread_id": 86103593,
-    "thread_children": 9,
-    "ratio_recv": 2,
-    "ratio_give": -3,
+    "thread_children": 21,
+    "ratio_recv": 1,
+    "ratio_give": -4,
     "grade_level": 10.7,
     "word_count": 20,
     "category": "Uncategorized",
@@ -53929,7 +53929,7 @@
     "id": 86108100,
     "top_level": false,
     "date": "Jan 14 2025 07:00",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1736856049,
     "body": [
       [
@@ -53941,13 +53941,165 @@
     ],
     "total_children": 1,
     "parent_id": 86107405,
-    "parent_children": 2,
+    "parent_children": 9,
     "thread_id": 86103593,
-    "thread_children": 9,
+    "thread_children": 21,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 10.3,
     "word_count": 18,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154777731,
+    "title": "Major data revisions are coming",
+    "canonical_url": "https://www.slowboring.com/p/major-data-revisions-are-coming",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86138839,
+    "top_level": false,
+    "date": "Jan 14 2025 10:15",
+    "likes": 6,
+    "timestamp": 1736867733,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. We\u2019ll need some pain somewhere. Hopefully, we needn\u2019t repeat the Great Depression nor the \u201870s-era inflation and loss of global competitiveness in manufacturing. But the cost of inaction is just too low relative to the cost of action. So we\u2019ll need something that substantially increases the cost of inaction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe a few more years of elevated\u2014but not high by historical standards\u2014inflation? Even just the recent increase in long-term interest rates for government borrowing and mortgages, while the Fed is cutting!, could be enough once we get a year or two of \u201creal\u201d (i.e., inflation-adjusted) falls in broadly owned asset prices such as homes and stocks"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 86133628,
+    "parent_children": 7,
+    "thread_id": 86103593,
+    "thread_children": 21,
+    "ratio_recv": -4,
+    "ratio_give": -2,
+    "grade_level": 8.5,
+    "word_count": 106,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154777731,
+    "title": "Major data revisions are coming",
+    "canonical_url": "https://www.slowboring.com/p/major-data-revisions-are-coming",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86169872,
+    "top_level": false,
+    "date": "Jan 14 2025 12:46",
+    "likes": 1,
+    "timestamp": 1736876792,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed! For example, Hoover in the late 1920s, before FDR came in with a mandate to do something different. A lot of the things FDR and others tried didn\u2019t help\u2014some, like the National Recovery Administration and tariffs, likely hurt\u2014but at least he had the political support to try different approaches, and we eventually figured some things out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even the experimentation was tough, painful, and extremely controversial (the right saw him as a communist, and the left saw him as a fascist). Yet his bold experimentation allowed us to eventually make some progress."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, hopefully, it won\u2019t be as bad as the Great Depression. But I bet, to many people, it will certainly feel that bad. It may even feel like the end of the world for people whose lives are turned upside down. And in a Buddhist sense, they\u2019d certainly be right because they'll become quite different people due to the experience."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 86167920,
+    "parent_children": 2,
+    "thread_id": 86103593,
+    "thread_children": 21,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.5,
+    "word_count": 152,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154846186,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-85a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86221479,
+    "top_level": false,
+    "date": "Jan 14 2025 17:28",
+    "likes": 7,
+    "timestamp": 1736893722,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but they believe this in the same way that religious fundamentalist believe abortion is infanticide. Ie, this isn't a reasoned belief developed from analysis of voter data or any sort of rational argument but a dogma that is the core of their belief system. Hence, we should be question the logic, or at least the incentives, of our Democratic leadership that placed these individuals into roles of influence. Regardless, we'll need to manage these individuals out and replace them effective operatives."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 86220106,
+    "parent_children": 6,
+    "thread_id": 86218217,
+    "thread_children": 32,
+    "ratio_recv": -4,
+    "ratio_give": 6,
+    "grade_level": 12.5,
+    "word_count": 82,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154846186,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-85a",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86226067,
+    "top_level": false,
+    "date": "Jan 14 2025 17:56",
+    "likes": 1,
+    "timestamp": 1736895362,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Fair point. From my perspective, I\u2019d say they are behaving as if they feel the implications of Trump 2.0 are a secondary concern for them, even though he is certainly their ideal opposition in some ways."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I imagine there is little value in us trying to place ourselves in the minds of such dogmatic fundamentalists. At best, we can recognize that they have a radically different worldview, possibly even a different human experience, and hence we\u2019re unlikely to find any common ground in our beliefs, values, and goals. Therefore, we should focus on minimizing their influence and ultimately alienating them from our communities."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 86223989,
+    "parent_children": 3,
+    "thread_id": 86218217,
+    "thread_children": 32,
+    "ratio_recv": 1,
+    "ratio_give": -2,
+    "grade_level": 11.4,
+    "word_count": 104,
     "category": "Uncategorized",
     "tags": []
   }
