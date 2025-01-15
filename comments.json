@@ -53762,8 +53762,8 @@
     "parent_children": 99,
     "thread_id": 85915929,
     "thread_children": 99,
-    "ratio_recv": 19,
-    "ratio_give": -20,
+    "ratio_recv": 21,
+    "ratio_give": -22,
     "grade_level": 18.8,
     "word_count": 119,
     "category": "Uncategorized",
@@ -53865,7 +53865,7 @@
     "id": 86106454,
     "top_level": false,
     "date": "Jan 14 2025 06:43",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1736855018,
     "body": [
       [
@@ -53880,8 +53880,8 @@
     "parent_children": 13,
     "thread_id": 86103593,
     "thread_children": 21,
-    "ratio_recv": 4,
-    "ratio_give": -13,
+    "ratio_recv": 3,
+    "ratio_give": -12,
     "grade_level": 11.1,
     "word_count": 46,
     "category": "Uncategorized",
@@ -53897,7 +53897,7 @@
     "id": 86107040,
     "top_level": false,
     "date": "Jan 14 2025 06:49",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1736855391,
     "body": [
       [
@@ -53912,8 +53912,8 @@
     "parent_children": 11,
     "thread_id": 86103593,
     "thread_children": 21,
-    "ratio_recv": 1,
-    "ratio_give": -4,
+    "ratio_recv": 0,
+    "ratio_give": -3,
     "grade_level": 10.7,
     "word_count": 20,
     "category": "Uncategorized",
@@ -53987,7 +53987,12 @@
     "grade_level": 8.5,
     "word_count": 106,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "economic policy",
+      "financial markets",
+      "inflation"
+    ]
   },
   {
     "post_id": 154777731,
@@ -54031,7 +54036,11 @@
     "grade_level": 9.5,
     "word_count": 152,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "historical analysis",
+      "political polarization"
+    ]
   },
   {
     "post_id": 154846186,
@@ -54043,7 +54052,7 @@
     "id": 86221479,
     "top_level": false,
     "date": "Jan 14 2025 17:28",
-    "likes": 7,
+    "likes": 11,
     "timestamp": 1736893722,
     "body": [
       [
@@ -54053,17 +54062,21 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 6,
     "parent_id": 86220106,
-    "parent_children": 6,
+    "parent_children": 8,
     "thread_id": 86218217,
-    "thread_children": 32,
-    "ratio_recv": -4,
-    "ratio_give": 6,
+    "thread_children": 74,
+    "ratio_recv": -6,
+    "ratio_give": 7,
     "grade_level": 12.5,
     "word_count": 82,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "abortion rights"
+    ]
   },
   {
     "post_id": 154846186,
@@ -54075,7 +54088,7 @@
     "id": 86226067,
     "top_level": false,
     "date": "Jan 14 2025 17:56",
-    "likes": 1,
+    "likes": 3,
     "timestamp": 1736895362,
     "body": [
       [
@@ -54091,16 +54104,20 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 86223989,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 86218217,
-    "thread_children": 32,
+    "thread_children": 74,
     "ratio_recv": 1,
     "ratio_give": -2,
     "grade_level": 11.4,
     "word_count": 104,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "partisan politics",
+      "political polarization",
+      "right-wing politics"
+    ]
   }
 ]
