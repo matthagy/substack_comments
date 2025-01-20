@@ -54130,7 +54130,7 @@
     "id": 86837035,
     "top_level": false,
     "date": "Jan 17 2025 19:27",
-    "likes": 1,
+    "likes": 5,
     "timestamp": 1737160054,
     "body": [
       [
@@ -54142,15 +54142,17 @@
     ],
     "total_children": 1,
     "parent_id": 86817558,
-    "parent_children": 7,
+    "parent_children": 12,
     "thread_id": 86815604,
-    "thread_children": 38,
+    "thread_children": 51,
     "ratio_recv": null,
     "ratio_give": -9,
     "grade_level": 11.8,
     "word_count": 56,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "mental health"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54188,7 +54190,13 @@
     "grade_level": 12.1,
     "word_count": 98,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "partisan politics",
+      "political polarization",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54200,7 +54208,7 @@
     "id": 86848046,
     "top_level": true,
     "date": "Jan 17 2025 20:56",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1737165363,
     "body": [
       [
@@ -54226,7 +54234,11 @@
     "grade_level": 11.8,
     "word_count": 130,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "political polarization",
+      "social media influence"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54286,9 +54298,123 @@
     "thread_id": 86797213,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": -6,
+    "ratio_give": -7,
     "grade_level": 10.7,
     "word_count": 283,
+    "category": "Uncategorized",
+    "tags": [
+      "international relations",
+      "media influence",
+      "partisan politics",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 155021849,
+    "title": "Defeat Racism by Heightening the Contradictions",
+    "canonical_url": "https://www.richardhanania.com/p/defeat-racism-by-heightening-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86855966,
+    "top_level": false,
+    "date": "Jan 17 2025 22:01",
+    "likes": 1,
+    "timestamp": 1737169293,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, physical markers are among the easiest to observe or even manufacture\u2014thankfully, for most of us, this now involves just using clothes, although some still prefer tattoos and elaborate piercings. Moreover, in clothing and tattoos, there is an ever-increasing sophistication, allowing the avant-garde to differentiate themselves from the posers. Ideas and beliefs are, in many ways, better because they actually force us to commit to something, like freedom of x, y, and z. However, even in culture, we can see status games played out in increasingly sophisticated and peculiar sects."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 86820604,
+    "parent_children": 2,
+    "thread_id": 86778636,
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 13.2,
+    "word_count": 90,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 155021849,
+    "title": "Defeat Racism by Heightening the Contradictions",
+    "canonical_url": "https://www.richardhanania.com/p/defeat-racism-by-heightening-the",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 86875016,
+    "top_level": false,
+    "date": "Jan 18 2025 01:37",
+    "likes": 0,
+    "timestamp": 1737182262,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I hope the following is a correct interpretation because I was totally confused, and this is how ChatGPT explained it to me within the context of the article, which I attached:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The comment critiques the populist right\u2019s contradictions by humorously suggesting it needs elitist archetypes (Puritans, Quakers, Cavaliers) to \u201clook down\u201d on its working-class base (Scots-Irish), highlighting the clash between intellectual elitism and populist identity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If so, then I can appreciate the comment. I hope we don\u2019t need to take it too seriously because politicians will still need votes for the foreseeable future, although that could change rapidly with a technological phase shift."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 86779912,
+    "parent_children": 4,
+    "thread_id": 86779912,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 17.8,
+    "word_count": 103,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 155198683,
+    "title": "Why Biden failed",
+    "canonical_url": "https://www.natesilver.net/p/why-biden-failed",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 87294608,
+    "top_level": true,
+    "date": "Jan 20 2025 06:45",
+    "likes": 0,
+    "timestamp": 1737373535,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "How can one access or acquire the underlying data used in the figures, either as the final dataset or as a replicable method for generating it, preferably in a library using a common programming language?"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 87294608,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.9,
+    "word_count": 35,
     "category": "Uncategorized",
     "tags": []
   }
