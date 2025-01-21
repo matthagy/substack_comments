@@ -54339,7 +54339,9 @@
     "grade_level": 13.2,
     "word_count": 90,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "identity politics"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54383,7 +54385,11 @@
     "grade_level": 17.8,
     "word_count": 103,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "political polarization",
+      "populism",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 155198683,
@@ -54416,6 +54422,8 @@
     "grade_level": 16.9,
     "word_count": 35,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "data analysis"
+    ]
   }
 ]
