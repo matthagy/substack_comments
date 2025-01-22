@@ -54298,7 +54298,7 @@
     "thread_id": 86797213,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": -7,
+    "ratio_give": -10,
     "grade_level": 10.7,
     "word_count": 283,
     "category": "Uncategorized",
@@ -54319,7 +54319,7 @@
     "id": 86855966,
     "top_level": false,
     "date": "Jan 17 2025 22:01",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1737169293,
     "body": [
       [
@@ -54335,7 +54335,7 @@
     "thread_id": 86778636,
     "thread_children": 7,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -2,
     "grade_level": 13.2,
     "word_count": 90,
     "category": "Uncategorized",
@@ -54424,6 +54424,47 @@
     "category": "Uncategorized",
     "tags": [
       "data analysis"
+    ]
+  },
+  {
+    "post_id": 155334726,
+    "title": "The Ultimate Guide to Trump's Day 1 Executive Orders",
+    "canonical_url": "https://www.richardhanania.com/p/the-ultimate-guide-to-trumps-day",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 87782155,
+    "top_level": false,
+    "date": "Jan 22 2025 04:27",
+    "likes": 0,
+    "timestamp": 1737538067,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Why wouldn\u2019t we want more of those? Particularly if they\u2019re generally increasing the absolute standard of living for almost everyone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Is the issue some relative status ranking? E.g., that some people would rather be in the top 10% of a horrible world than the bottom 10% of an amazing one. If so, I can\u2019t imagine why any society would want people with that mindset. At most, we can offer everyone an opportunity to keep working on improving their ranking in a generally gradual process. Few, if any, would want rapid changes in relative status, and moreover, you can\u2019t offer that as a system grows in complexity. You basically need quantum-scale precision, like nanometers, for that to work."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 87771306,
+    "parent_children": 2,
+    "thread_id": 87716845,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.0,
+    "word_count": 117,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "social justice"
     ]
   }
 ]
