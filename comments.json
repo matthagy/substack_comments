@@ -54436,7 +54436,7 @@
     "id": 87782155,
     "top_level": false,
     "date": "Jan 22 2025 04:27",
-    "likes": 0,
+    "likes": 3,
     "timestamp": 1737538067,
     "body": [
       [
@@ -54452,13 +54452,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 87771306,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 87716845,
-    "thread_children": 4,
-    "ratio_recv": null,
-    "ratio_give": 0,
+    "thread_children": 9,
+    "ratio_recv": -3,
+    "ratio_give": 3,
     "grade_level": 9.0,
     "word_count": 117,
     "category": "Uncategorized",
