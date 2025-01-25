@@ -54436,7 +54436,7 @@
     "id": 87782155,
     "top_level": false,
     "date": "Jan 22 2025 04:27",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1737538067,
     "body": [
       [
@@ -54456,9 +54456,9 @@
     "parent_id": 87771306,
     "parent_children": 3,
     "thread_id": 87716845,
-    "thread_children": 9,
-    "ratio_recv": -3,
-    "ratio_give": 3,
+    "thread_children": 18,
+    "ratio_recv": -4,
+    "ratio_give": 4,
     "grade_level": 9.0,
     "word_count": 117,
     "category": "Uncategorized",
