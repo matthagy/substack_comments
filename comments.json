@@ -54477,7 +54477,7 @@
     "id": 90616948,
     "top_level": false,
     "date": "Feb 02 2025 19:49",
-    "likes": 0,
+    "likes": 6,
     "timestamp": 1738543791,
     "body": [
       [
@@ -54523,11 +54523,11 @@
     ],
     "total_children": 1,
     "parent_id": 90568987,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 90531655,
-    "thread_children": 12,
+    "thread_children": 22,
     "ratio_recv": null,
-    "ratio_give": -6,
+    "ratio_give": -10,
     "grade_level": 9.4,
     "word_count": 130,
     "category": "Uncategorized",
