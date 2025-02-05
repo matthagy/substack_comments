@@ -54477,7 +54477,7 @@
     "id": 90616948,
     "top_level": false,
     "date": "Feb 02 2025 19:49",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1738543791,
     "body": [
       [
@@ -54525,9 +54525,9 @@
     "parent_id": 90568987,
     "parent_children": 4,
     "thread_id": 90531655,
-    "thread_children": 22,
+    "thread_children": 23,
     "ratio_recv": null,
-    "ratio_give": -10,
+    "ratio_give": -9,
     "grade_level": 9.4,
     "word_count": 130,
     "category": "Uncategorized",
@@ -54536,5 +54536,301 @@
       "media influence",
       "social media influence"
     ]
+  },
+  {
+    "post_id": 156484850,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-df4",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91129142,
+    "top_level": false,
+    "date": "Feb 04 2025 20:33",
+    "likes": 5,
+    "timestamp": 1738719191,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Substack cookies have definitely gotten more complicated over the last two years and it's not obvious what they're doing with all of these. Eg, I can scrape SB comments using an cookie-authenticated HTTPS connection with only a small subset of all of the cookies used in each page load. I'm guessing this is related to common growth and refinement strategies like AB-testing features as well as guarding against bots. (They may even want to discourage scraping stuff like my toy project as well as illicit mirroring of copyright content.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, the tech and design podcast Dithering (w/ John Gruber and Ben Thompson) had a paywalled episode called \"Substack Critique\" in Nov 2024. [1] They released a quick excerpt about Substack's likely product push to create a paid social network with the \"followers\" graph unique to Substack. [2] The full episode considers the business model challenges as well as how these two authors appreciate Substack as content consumers but wouldn't ever use it because they have established self-owned platforms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://dithering.passport.online/member"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/ditheringfm/status/1860006480994533749"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91087086,
+    "parent_children": 102,
+    "thread_id": 91087086,
+    "thread_children": 102,
+    "ratio_recv": null,
+    "ratio_give": -17,
+    "grade_level": 11.6,
+    "word_count": 170,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156484850,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-df4",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91181688,
+    "top_level": false,
+    "date": "Feb 05 2025 03:42",
+    "likes": 0,
+    "timestamp": 1738744943,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree with your sentiments here. Nonetheless, the current approach to homelessness and associated mental health and substance abuse issues is unsustainable in terms of ever growing resource consumption without addressing the issues experienced by other law-abiding residents. People will either vote for alternatives or move away until cities have a fiscal crisis comparable to NYC in the 1970's."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, this benign neglect is cruel to the afflicted individuals themselves in its own way. In the most extreme cases, some people do require institutionalization to avoid unintentional self harm that compounds to ever increasing physiological and psychological suffering and an early death. Even harsh confinement may be a net positive for some individuals."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And lastly, as Scott Alexander repeatedly reminds us, this is a truly hard problem due the diversity of people's situations and their unique history. Even attempting to write laws or directives quickly results in a mountain of complex, nested legalizes that attempts to simplify people down to knowable states and associated directives. At some level we do have to trust the state employees, including managers and leaders, to use their judgement in changing state action. And any change will result in some negative impacts, for some charitable individuals."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 91109593,
+    "parent_children": 3,
+    "thread_id": 91087086,
+    "thread_children": 102,
+    "ratio_recv": 0,
+    "ratio_give": -4,
+    "grade_level": 13.5,
+    "word_count": 202,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156381302,
+    "title": "What to do with sincere but unpopular beliefs?",
+    "canonical_url": "https://www.slowboring.com/p/what-to-do-with-sincere-but-unpopular",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91201732,
+    "top_level": false,
+    "date": "Feb 05 2025 07:11",
+    "likes": 1,
+    "timestamp": 1738757486,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you for another challenging ChatGPT 4o benchmarking example. After 90 seconds it and myself produced the following oddity. Please advise at length on our performance in simplying your views."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Summary (Prioritized and Nested)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. Core Position"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The author refuses to support Kamala Harris, arguing that her \u201cprogressive\u201d/anti-police stance is damaging minority and low-income communities rather than helping them."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The blog laments that the Democratic Party once protected vulnerable groups but now (in the author\u2019s view) caters to affluent city-dwellers pushing the narrative that police are systemically racist."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. Central Arguments Against \u201cPolice Are Racist\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. Flawed Use of Statistics"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The article critiques Radley Balko\u2019s studies for being mostly correlational and for not controlling key variables (e.g., crime rates, victim rates, or socioeconomic factors)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It contends that higher Black\u2013White crime rate differences could explain why policing outcomes differ, not necessarily racism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. Anecdotes vs. Data"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Well-publicized cases like George Floyd and others are considered tragic but do not, in the author\u2019s view, prove systemic racism across all law enforcement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The blog points out that Black officers have been involved in some of these high-profile incidents, further complicating \u201cracism\u201d as the sole cause."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3. Human Error & Threat Response"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The writer emphasizes that humans have an automatic reflex to potential threats, especially in a gun-saturated society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The blog argues that \u201cbetter training\u201d alone can\u2019t fully eliminate tragic split-second mistakes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3. Impact on Policing & Minority Communities"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. Recruitment Crisis"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Police departments struggle to hire and retain officers\u2014money alone is not fixing this."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fewer officers means fewer patrols, which the author believes harms communities with higher crime rates (often minority or low-income)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. Defunding Consequences"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u201cDefund the Police\u201d is said to have backfired, effectively reducing law enforcement staffing without providing viable alternatives\u2014again, hurting vulnerable neighborhoods the most."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "4. Personal Notes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The author references his wife\u2019s long law-enforcement career: she never observed overt racism (e.g., using the n-word) and frequently served minority and low-income communities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The blog highlights personal anecdotes (e.g., wife\u2019s quick thinking in emergencies) to argue that good policing relies on high-caliber officers capable of swift, accurate threat assessment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "5. Conclusions"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The author believes that labeling law enforcement as inherently racist is oversimplified and detrimental, particularly to those most in need of effective policing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some tragic outcomes are seen as an unfortunate part of confronting crime, not clear evidence of systemic racism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The piece ends by warning that continued demonization of police will only shrink the force, raise crime in vulnerable areas, and worsen racial inequalities rather than alleviate them."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 91195350,
+    "parent_children": 5,
+    "thread_id": 91195350,
+    "thread_children": 5,
+    "ratio_recv": 1,
+    "ratio_give": -2,
+    "grade_level": 12.2,
+    "word_count": 417,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
