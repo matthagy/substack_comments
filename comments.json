@@ -54585,11 +54585,11 @@
     ],
     "total_children": 1,
     "parent_id": 91087086,
-    "parent_children": 102,
+    "parent_children": 114,
     "thread_id": 91087086,
-    "thread_children": 102,
+    "thread_children": 114,
     "ratio_recv": null,
-    "ratio_give": -17,
+    "ratio_give": -20,
     "grade_level": 11.6,
     "word_count": 170,
     "category": "Uncategorized",
@@ -54637,7 +54637,7 @@
     "parent_id": 91109593,
     "parent_children": 3,
     "thread_id": 91087086,
-    "thread_children": 102,
+    "thread_children": 114,
     "ratio_recv": 0,
     "ratio_give": -4,
     "grade_level": 13.5,
@@ -54660,7 +54660,7 @@
     "id": 91201732,
     "top_level": false,
     "date": "Feb 05 2025 07:11",
-    "likes": 1,
+    "likes": 9,
     "timestamp": 1738757486,
     "body": [
       [
@@ -54832,13 +54832,13 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 91195350,
-    "parent_children": 5,
+    "parent_children": 14,
     "thread_id": 91195350,
-    "thread_children": 5,
-    "ratio_recv": 1,
-    "ratio_give": -2,
+    "thread_children": 14,
+    "ratio_recv": -7,
+    "ratio_give": 0,
     "grade_level": 12.2,
     "word_count": 417,
     "category": "Uncategorized",
@@ -54846,5 +54846,93 @@
       "Democratic Party",
       "progressivism"
     ]
+  },
+  {
+    "post_id": 156541706,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-9ef",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91362265,
+    "top_level": false,
+    "date": "Feb 05 2025 17:44",
+    "likes": 4,
+    "timestamp": 1738795469,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "You don\u2019t need to use the app. You can just read the archive of older, yet still relevant, Slow Boring articles\u2014or any other Substack you like."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If you\u2019re a real dork like me, you can build your own algorithmic system for prioritizing, ranking, and grouping Substack articles and comments. There\u2019s been, at best, tepid interest in what I\u2019ve previously shared, so I get the impression we may just be frustrated with the actual content of current events rather than craving better algorithms. Hell, I don\u2019t even use my own SB articles backlog explorer tools."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At best, algorithms reflect the chaos of our reality, so we might as well manage our own responses however works best for each of us. Like maybe we can all just relax and read something unrelated to current events. I\u2019ve got a multitude of history recommendations, and Yglesias has shared some fiction he\u2019s recently enjoyed. "
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 91358800,
+    "parent_children": 18,
+    "thread_id": 91358800,
+    "thread_children": 18,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 9.4,
+    "word_count": 149,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156541706,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-9ef",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91368997,
+    "top_level": false,
+    "date": "Feb 05 2025 18:14",
+    "likes": 1,
+    "timestamp": 1738797273,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed that these can be fun projects in and of themselves. And that the resulting custom info feed is particularly appreciated because we understand the process by which we're generating a custom a view. Definitely would be curious to learn more about whatever you or others build and explore with Bluesky."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As an aside, I can recall some fun w/ the Reddit API when in various pranks on certain communities. Eg, finding every recent, trending comment on student loans so that I could reply with a boilerplate argument against forgiveness."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Can even recall some attempts to fuck with \"thefacebook.com\" back when Case, like all other universities, believed we should be building our own. We probably had at least 5 noteworthy attempts, each a bespoke LAM(P|P|P) monstrosity, so some of us figured our time would be better spent sabotaging that outsider crap. Was great that the university IT dept allowed us to create at least 5 email accounts at a time, per a student, and we could always delete old ones to create new ones."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91364685,
+    "parent_children": 4,
+    "thread_id": 91358800,
+    "thread_children": 18,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.6,
+    "word_count": 174,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
