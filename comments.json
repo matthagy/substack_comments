@@ -54593,7 +54593,13 @@
     "grade_level": 11.6,
     "word_count": 170,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "consumer behavior",
+      "media influence",
+      "subscription models",
+      "tech industry"
+    ]
   },
   {
     "post_id": 156484850,
@@ -54637,7 +54643,12 @@
     "grade_level": 13.5,
     "word_count": 202,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "fiscal policy",
+      "homelessness",
+      "mental health",
+      "public safety"
+    ]
   },
   {
     "post_id": 156381302,
@@ -54831,6 +54842,9 @@
     "grade_level": 12.2,
     "word_count": 417,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "progressivism"
+    ]
   }
 ]
