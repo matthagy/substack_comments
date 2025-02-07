@@ -54881,15 +54881,18 @@
     ],
     "total_children": 5,
     "parent_id": 91358800,
-    "parent_children": 36,
+    "parent_children": 37,
     "thread_id": 91358800,
-    "thread_children": 36,
+    "thread_children": 37,
     "ratio_recv": 0,
     "ratio_give": -10,
     "grade_level": 9.4,
     "word_count": 149,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "news consumption"
+    ]
   },
   {
     "post_id": 156541706,
@@ -54927,13 +54930,16 @@
     "parent_id": 91364685,
     "parent_children": 4,
     "thread_id": 91358800,
-    "thread_children": 36,
+    "thread_children": 37,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 9.6,
     "word_count": 174,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "comment moderation",
+      "social media influence"
+    ]
   },
   {
     "post_id": 156522460,
@@ -54983,7 +54989,12 @@
     "grade_level": 11.3,
     "word_count": 299,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "historical analysis",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 156474318,
@@ -55041,13 +55052,17 @@
     "parent_id": 91512070,
     "parent_children": 14,
     "thread_id": 91464500,
-    "thread_children": 115,
+    "thread_children": 126,
     "ratio_recv": 2,
-    "ratio_give": -12,
+    "ratio_give": -13,
     "grade_level": 11.7,
     "word_count": 261,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "education reform",
+      "student debt"
+    ]
   },
   {
     "post_id": 156474318,
@@ -55097,13 +55112,18 @@
     "parent_id": 91525479,
     "parent_children": 3,
     "thread_id": 91464500,
-    "thread_children": 115,
+    "thread_children": 126,
     "ratio_recv": null,
-    "ratio_give": -7,
+    "ratio_give": -8,
     "grade_level": 12.0,
     "word_count": 272,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "partisan politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 156621538,
@@ -55125,17 +55145,20 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 91621383,
-    "thread_children": 2,
-    "ratio_recv": 2,
+    "thread_children": 4,
+    "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 66,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 156621538,
@@ -55147,7 +55170,7 @@
     "id": 91622427,
     "top_level": false,
     "date": "Feb 06 2025 17:24",
-    "likes": 2,
+    "likes": 4,
     "timestamp": 1738880641,
     "body": [
       [
@@ -55169,16 +55192,161 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 91621383,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 91621383,
-    "thread_children": 2,
-    "ratio_recv": null,
-    "ratio_give": 2,
+    "thread_children": 4,
+    "ratio_recv": -3,
+    "ratio_give": 4,
     "grade_level": 10.4,
     "word_count": 191,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior"
+    ]
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91634131,
+    "top_level": false,
+    "date": "Feb 06 2025 18:17",
+    "likes": 9,
+    "timestamp": 1738883871,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and I think it is challenging to square this with these immigrants\u2019 actual desire to be in America despite all the listed drawbacks. Conservatives can easily adopt a zero-sum mentality and focus on protecting citizens\u2019 employment\u2014doubly so given their rejection of economic arguments and empirical evidence that suggests these jobs as existing only due to the flaunting of labor laws and protections."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Liberals, on the other hand, must either accept that framing or take a more paternalistic approach, arguing that it is not in these immigrants\u2019 best interest to allow this, despite their stated desires and actual behavior. The simplest pragmatic argument is that voters don\u2019t like it\u2014whether for faulty economic reasons, respect for the rule of law, xenophobia, racism, etc. I, along with many other SB commentators, can accept that pragmatic argument, but it doesn\u2019t yet seem robust against progressive attacks that we need to \u201cdo better.\u201d"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 91622261,
+    "parent_children": 17,
+    "thread_id": 91622261,
+    "thread_children": 17,
+    "ratio_recv": -6,
+    "ratio_give": -18,
+    "grade_level": 16.1,
+    "word_count": 149,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "immigration issues",
+      "partisan politics",
+      "progressivism"
+    ]
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91705001,
+    "top_level": false,
+    "date": "Feb 07 2025 02:26",
+    "likes": 0,
+    "timestamp": 1738913196,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but all of those restrictions meant to ensure dignified work also create at least the perception of real harm for impacted individuals. When I worked minimum-wage jobs in high school, I sometimes wanted to work more than 40 hours per week. But there was no way McDonald\u2019s was paying overtime to any hourly worker. Management was already exempt, so no one cared if one of them occasionally worked a 20-hour shift as part of a 50-hour week. I once managed to log a 24-hour shift, but I was still hard cut off once I hit 40 later that week."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For me and other teens, this generally just meant less spending money, but for actual adults at the bottom of the economic ladder, it forced them to find second minimum-wage jobs. They understood the constraint, and their complaints about how it complicated their lives were genuine. Thankfully there were other fast food joints on the same highway and they could just walk between locations should they be transport constrained. I doubt they\u2019d appreciate any argument about how they should be investing in their future with education or training\u2014or even just getting some exercise. One woman was literally just working in the kitchen at McDonald\u2019s until the earliest day she could claim Social Security, and we all joined her in celebrating her last day."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine immigrants escaping material poverty and the risks of disease and violence\u2014far beyond anything imaginable in the first world\u2014are never going to be receptive to our paternalistic arguments. At most, they may just see this as another form of corruption and gladly accept any undocumented employment as a way to address their issues. Some of them may even end up featured on Fox News, complaining that the \u201csocialism in America\u201d is comparable to what they fled from\u2014Cuba, Venezuela, CCP China, etc."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 91684730,
+    "parent_children": 3,
+    "thread_id": 91622261,
+    "thread_children": 17,
+    "ratio_recv": 0,
+    "ratio_give": -3,
+    "grade_level": 11.3,
+    "word_count": 305,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "immigration issues",
+      "labor market",
+      "social security",
+      "welfare state"
+    ]
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91705325,
+    "top_level": false,
+    "date": "Feb 07 2025 02:30",
+    "likes": 0,
+    "timestamp": 1738913424,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I definitely appreciate the challenges of employment law when hiring for fast-growing tech companies\u2014and also as an applicant looking to be hired. I\u2019ve long wanted to use three-month trial periods to address the uncertainty of interviews in assessing aptitude and willingness to do the job. Yet I recognize why HR and legal teams see that as risky. Contract-to-hire can be an option, even structured as an internship, but that introduces its own challenges compared to standard W-2 employment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a candidate with increasingly idiosyncratic employment preferences, I\u2019ve attempted to negotiate various bespoke employment contracts, but I have yet to see one actually executed. Larger companies are almost never in a position to create such novel agreements. Even startups find it easier to classify someone as a W-2 employee or, at most, structure a temporary contractor or consultant agreement and then work out the details as the relationship develops."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Part of my financial planning over the next few years involves figuring out what sort of legal vehicle I can create to present myself as a highly legible \u201cservice provider\u201d with exceptional flexibility\u2014allowing firms to purchase my services on terms that would never be acceptable for traditional employment. It could eventually prove to be highly lucrative overtime if I gain broad early experience as an \u201cAI enabled X\u201d for various roles that are at least tangential to my existing employment experience."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91705001,
+    "parent_children": 2,
+    "thread_id": 91622261,
+    "thread_children": 17,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 14.4,
+    "word_count": 229,
+    "category": "Uncategorized",
+    "tags": [
+      "entrepreneurship",
+      "labor market",
+      "tech industry"
+    ]
   }
 ]
