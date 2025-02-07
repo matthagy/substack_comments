@@ -54585,11 +54585,11 @@
     ],
     "total_children": 1,
     "parent_id": 91087086,
-    "parent_children": 114,
+    "parent_children": 116,
     "thread_id": 91087086,
-    "thread_children": 114,
+    "thread_children": 116,
     "ratio_recv": null,
-    "ratio_give": -20,
+    "ratio_give": -21,
     "grade_level": 11.6,
     "word_count": 170,
     "category": "Uncategorized",
@@ -54637,9 +54637,9 @@
     "parent_id": 91109593,
     "parent_children": 3,
     "thread_id": 91087086,
-    "thread_children": 114,
+    "thread_children": 116,
     "ratio_recv": 0,
-    "ratio_give": -4,
+    "ratio_give": -5,
     "grade_level": 13.5,
     "word_count": 202,
     "category": "Uncategorized",
@@ -54834,9 +54834,9 @@
     ],
     "total_children": 3,
     "parent_id": 91195350,
-    "parent_children": 14,
+    "parent_children": 15,
     "thread_id": 91195350,
-    "thread_children": 14,
+    "thread_children": 15,
     "ratio_recv": -7,
     "ratio_give": 0,
     "grade_level": 12.2,
@@ -54857,7 +54857,7 @@
     "id": 91362265,
     "top_level": false,
     "date": "Feb 05 2025 17:44",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1738795469,
     "body": [
       [
@@ -54881,11 +54881,11 @@
     ],
     "total_children": 5,
     "parent_id": 91358800,
-    "parent_children": 18,
+    "parent_children": 36,
     "thread_id": 91358800,
-    "thread_children": 18,
-    "ratio_recv": -2,
-    "ratio_give": 0,
+    "thread_children": 36,
+    "ratio_recv": 0,
+    "ratio_give": -10,
     "grade_level": 9.4,
     "word_count": 149,
     "category": "Uncategorized",
@@ -54901,7 +54901,7 @@
     "id": 91368997,
     "top_level": false,
     "date": "Feb 05 2025 18:14",
-    "likes": 1,
+    "likes": 3,
     "timestamp": 1738797273,
     "body": [
       [
@@ -54927,11 +54927,257 @@
     "parent_id": 91364685,
     "parent_children": 4,
     "thread_id": 91358800,
-    "thread_children": 18,
+    "thread_children": 36,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": -2,
     "grade_level": 9.6,
     "word_count": 174,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156522460,
+    "title": "Trump's Executive Branch Revolution",
+    "canonical_url": "https://www.richardhanania.com/p/trumps-executive-branch-revolution",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91453823,
+    "top_level": false,
+    "date": "Feb 06 2025 04:30",
+    "likes": 1,
+    "timestamp": 1738834225,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree with these views about the risks of upsetting the current order. Yet the same could said of the presidency of FDR, LBJ, and even Teddy Roosevelt. Their administrations, with various degrees of Congressional and Courts support, did radically change the structure and purview of the federal government. Many of those changes are now seen as positive, but at the time they were considered extreme and destabilizing. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "FDR in particular was castigating from the right as embracing Socialism while those on American left branded him a fascist. And many of his administration programs were likely counterproductive, even in the short term. For example, the National Recovery Administration established government mediated cartels to ensure high prices and salaries and thereby fight deflation. Yet the process of structuring specific industries while leaving others to the markets was open at least the appearance of corruption. Moreover, these cartels were highly distortionary and likely harmed economic recoveries. The FDR administration even began to recognize this at the time and quietly wound these down cartels after the NRA was struck down by the courts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm not saying Trump will be celebrated for his bold, novel actions by future generations. Quite the opposite, I imagine he and his administration lack the convictions to work towards outcomes appreciated by the mass majority of voters. Yet that is very much an in-the-moment judgement and history may think differently. Eg, Trump's earlier administration was certainly important in centering our current bipartisan, hawkish stance towards China."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, our current stance of allowing these issues to grow and compound was unsustainable and at least Trump's team is attempting something. It may come down to future Democratic, or even less-MAGA Republican, administration to develop a reasonable and sustainable approach. So we'll see how this evolves over the coming years."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91246784,
+    "parent_children": 19,
+    "thread_id": 91246784,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": -27,
+    "grade_level": 11.3,
+    "word_count": 299,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156474318,
+    "title": "Doomscrolling in the age of Trump",
+    "canonical_url": "https://www.slowboring.com/p/doomscrolling-in-the-age-of-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91549491,
+    "top_level": false,
+    "date": "Feb 06 2025 12:37",
+    "likes": 0,
+    "timestamp": 1738863437,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think the FAFSA is a good example because I my understanding is that all of the relevant law and regulations is already publicly accessible from online sources. Eg, Google returned \"20 U.S. Code \u00a7 1090 - Free Application for Federal Student Aid\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.law.cornell.edu/uscode/text/20/1090"
+        },
+        {
+          "type": "text",
+          "value": " . There are links to assorted \".gov\" sites."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, similar to taxes, a motivated and resourceful individual could figure out nearly everything on their own without any support nor even high-level guideance. At most they might need a phone call (or ideally public support forum ticket) to ask for clarification on sufficiently ambiguous cases."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet why do we even need such complex procedures and regulations in the first places? So much of this was built incrementally where each additional complication claims to help some charitable group of applicants, yet the sum result in mess for even government experts to apply."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, there are possibilities for exploitation and the need for auditing. Eg, I recall a fellow college applicant circa 2003 claiming their family was liquidating assets into undocumented forms like cash and precious metals to better qualify for more financial aid. That could've just been an absurd idea their parents joked with (moreover cash withdraws and gold purchases are tracked). Nonetheless, the possibility exists, and I've heard that strategically timed divorces are a known mechanism to enhancing student financial aid."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But why do we even need such a complex system in the first place to determine student aid on a per-a-student basis? Why not just incentivize educational institutions to be financially efficient and reward those that do so with block grants?"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 91512070,
+    "parent_children": 14,
+    "thread_id": 91464500,
+    "thread_children": 115,
+    "ratio_recv": 2,
+    "ratio_give": -12,
+    "grade_level": 11.7,
+    "word_count": 261,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156474318,
+    "title": "Doomscrolling in the age of Trump",
+    "canonical_url": "https://www.slowboring.com/p/doomscrolling-in-the-age-of-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91556475,
+    "top_level": false,
+    "date": "Feb 06 2025 13:02",
+    "likes": 1,
+    "timestamp": 1738864923,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My understanding is that all state action involves some degree of triage and prioritization\u2014for example, when a district attorney or federal prosecutor decides which cases to pursue at the expense of others due to limited resources. While I may not agree with the specific tradeoffs made regarding Trump or Musk, I do agree with the general principle of prioritizing certain laws and regulations over others to fulfill the core function of a government office."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Democrats have embraced procedural fetishism as an excuse for avoiding decisive action and possibly even to justify existing employment and government contracts. Even critics like Ezra and Yglesias still want to operate within the current framework and rely on changes in the law to achieve state capacity. Yet we repeatedly fail to do so\u2014and for good reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I keep coming back to the dynamism and controversy of the FDR presidency. He and his team truly broke with the status quo. While they generally had congressional support, they certainly didn\u2019t rely on proceduralism, and they openly fought with the courts. Many contemporaries were outraged, if not terrified. But that break with the past was necessary to establish a new consensus."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully, a future Democratic administration can build on the smoldering wreck left by Trump and others\u2014now freed from past constraints. We will be better off with fewer federal workers and fewer union rules constraining future action. Similarly, eliminating federal funding for NGOs that primarily attack Democrats will extricate our leaders from these parasitic organizations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We don\u2019t need to like what Trump is doing to recognize the opportunity he is creating\u2014if we\u2019re willing to capitalize on it in the future."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91525479,
+    "parent_children": 3,
+    "thread_id": 91464500,
+    "thread_children": 115,
+    "ratio_recv": null,
+    "ratio_give": -7,
+    "grade_level": 12.0,
+    "word_count": 272,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91621383,
+    "top_level": true,
+    "date": "Feb 06 2025 17:19",
+    "likes": 0,
+    "timestamp": 1738880358,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Is anyone aware of resources explaining what influences the demand for sports gambling and why well-marketed mobile apps drastically increase it? Moreover, there is certainly variation among individuals, including changes within a single person over time. I just scanned the SB articles on sports gambling and didn\u2019t find anything focused on that. Does anyone know of credible sources or even just salient narratives explaining this phenomenon?"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 91621383,
+    "thread_children": 2,
+    "ratio_recv": 2,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 66,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91622427,
+    "top_level": false,
+    "date": "Feb 06 2025 17:24",
+    "likes": 2,
+    "timestamp": 1738880641,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Personally, I couldn\u2019t stand the passive nature of just picking winners and losers, whether in sports or stocks. I\u2019ll gladly lever up on career risk with novel roles and early-stage companies\u2014that feels more within my control to influence the outcome for myself and my team. I\u2019ve also appreciated risk and volatility in various ways throughout my life as a means of enhancing the \u201cbeing alive\u201d feeling. Similarly, the other risk-seeking individuals I\u2019ve known never seemed to gravitate toward sports gambling or comparable consumption-style betting."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even across multiple Vegas trips with different friends, at different stages of our lives, I can\u2019t think of anyone whose gambling losses (or winnings at times) dominated the cost of the trip. Like, I would gladly hop into the backseat of a stranger\u2019s car in search of something to liven up the trip\u2014or even invite strangers into our hotel room. But if I was hitting up the ATM, I\u2019d better be confident I wasn\u2019t doing so just to lose more money on craps or blackjack."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Has anyone here struggled with gambling problems in one form or another? Or noticed patterns among people they\u2019ve known with this affliction?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91621383,
+    "parent_children": 2,
+    "thread_id": 91621383,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 10.4,
+    "word_count": 191,
     "category": "Uncategorized",
     "tags": []
   }
