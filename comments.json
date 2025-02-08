@@ -54881,9 +54881,9 @@
     ],
     "total_children": 5,
     "parent_id": 91358800,
-    "parent_children": 37,
+    "parent_children": 38,
     "thread_id": 91358800,
-    "thread_children": 37,
+    "thread_children": 38,
     "ratio_recv": 0,
     "ratio_give": -10,
     "grade_level": 9.4,
@@ -54930,7 +54930,7 @@
     "parent_id": 91364685,
     "parent_children": 4,
     "thread_id": 91358800,
-    "thread_children": 37,
+    "thread_children": 38,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 9.6,
@@ -55048,13 +55048,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 91512070,
-    "parent_children": 14,
+    "parent_children": 16,
     "thread_id": 91464500,
-    "thread_children": 126,
-    "ratio_recv": 2,
-    "ratio_give": -13,
+    "thread_children": 130,
+    "ratio_recv": 3,
+    "ratio_give": -14,
     "grade_level": 11.7,
     "word_count": 261,
     "category": "Uncategorized",
@@ -55112,9 +55112,9 @@
     "parent_id": 91525479,
     "parent_children": 3,
     "thread_id": 91464500,
-    "thread_children": 126,
+    "thread_children": 130,
     "ratio_recv": null,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 12.0,
     "word_count": 272,
     "category": "Uncategorized",
@@ -55150,7 +55150,7 @@
     "parent_children": null,
     "thread_id": 91621383,
     "thread_children": 4,
-    "ratio_recv": 4,
+    "ratio_recv": 5,
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 66,
@@ -55170,7 +55170,7 @@
     "id": 91622427,
     "top_level": false,
     "date": "Feb 06 2025 17:24",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1738880641,
     "body": [
       [
@@ -55198,7 +55198,7 @@
     "thread_id": 91621383,
     "thread_children": 4,
     "ratio_recv": -3,
-    "ratio_give": 4,
+    "ratio_give": 5,
     "grade_level": 10.4,
     "word_count": 191,
     "category": "Uncategorized",
@@ -55216,7 +55216,7 @@
     "id": 91634131,
     "top_level": false,
     "date": "Feb 06 2025 18:17",
-    "likes": 9,
+    "likes": 11,
     "timestamp": 1738883871,
     "body": [
       [
@@ -55232,13 +55232,13 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 10,
     "parent_id": 91622261,
-    "parent_children": 17,
+    "parent_children": 24,
     "thread_id": 91622261,
-    "thread_children": 17,
+    "thread_children": 24,
     "ratio_recv": -6,
-    "ratio_give": -18,
+    "ratio_give": -21,
     "grade_level": 16.1,
     "word_count": 149,
     "category": "Uncategorized",
@@ -55260,7 +55260,7 @@
     "id": 91705001,
     "top_level": false,
     "date": "Feb 07 2025 02:26",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1738913196,
     "body": [
       [
@@ -55283,13 +55283,13 @@
       ],
       []
     ],
-    "total_children": 2,
+    "total_children": 7,
     "parent_id": 91684730,
-    "parent_children": 3,
+    "parent_children": 9,
     "thread_id": 91622261,
-    "thread_children": 17,
-    "ratio_recv": 0,
-    "ratio_give": -3,
+    "thread_children": 24,
+    "ratio_recv": 2,
+    "ratio_give": -4,
     "grade_level": 11.3,
     "word_count": 305,
     "category": "Uncategorized",
@@ -55311,7 +55311,7 @@
     "id": 91705325,
     "top_level": false,
     "date": "Feb 07 2025 02:30",
-    "likes": 0,
+    "likes": 3,
     "timestamp": 1738913424,
     "body": [
       [
@@ -55335,11 +55335,11 @@
     ],
     "total_children": 1,
     "parent_id": 91705001,
-    "parent_children": 2,
+    "parent_children": 7,
     "thread_id": 91622261,
-    "thread_children": 17,
+    "thread_children": 24,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 2,
     "grade_level": 14.4,
     "word_count": 229,
     "category": "Uncategorized",
@@ -55348,5 +55348,249 @@
       "labor market",
       "tech industry"
     ]
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91715254,
+    "top_level": false,
+    "date": "Feb 07 2025 04:43",
+    "likes": 0,
+    "timestamp": 1738921437,
+    "body": [
+      [
+        {
+          "type": "url",
+          "value": "https://maps.app.goo.gl/7Jn2t9JGGsfy2d467"
+        },
+        {
+          "type": "text",
+          "value": " from 2003-04. It was rebuilt to modern standards around 2010. Was a corporate-owned location rather than a franchise one at the time, which could explain the rigorous rule following around time cards. Plenty of other less legible rule/law breaking going on there."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Google Earth has some historical satellite imagery and this 2002 view matches the layout as I recall it, "
+        },
+        {
+          "type": "url",
+          "value": "https://earth.google.com/web/search/985+E+Pittsburgh+St,+Greensburg,+PA+15601/@40.30352026,-79.51065958,370.66480057a,208.14854021d,35.00000337y,0h,0.28995198t,0r/data=Cj4iJgokCciXft1QyjlAEcaXft1QyjnAGX2_0hCkEUtAIVsPYKgSREvAKhAIARIKMjAwMi0wOS0wORgBQgIIAToDCgEwQgIIAEoNCP___________wEQAA"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In rebuilding, it was optimized for drive through at the expense of parking for dining in. In scanning through the history, the earliest image of the new layout is 2010 and it appears rather consistent since. I only recall going there a few times during college in 2004-08 just to see if anyone I knew was still there. Believe the last time I went there, there was total staff turnover, although I didn't really enquire. Haven't felt the need to check it out since on limited trips to see family still in the area."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 91705610,
+    "parent_children": 5,
+    "thread_id": 91622261,
+    "thread_children": 24,
+    "ratio_recv": 1,
+    "ratio_give": -1,
+    "grade_level": 8.5,
+    "word_count": 154,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156424171,
+    "title": "Mailbag: The payment system endgame ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-the-payment-system-endgame",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91739914,
+    "top_level": false,
+    "date": "Feb 07 2025 08:11",
+    "likes": 10,
+    "timestamp": 1738933864,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Silicon Valley is so disconnected..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a lot to respond to here, and I\u2019m going to ignore the Musk stuff for now. These are multi-trillion-dollar market cap corporations, and it\u2019s deeply frustrating how easily many people want to dismiss them as lucky fools. So much of their counterintuitive behavior becomes more understandable when we consider the broad historical arc of tech, dating back to semiconductors in the 1950s, if not earlier."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These are highly volatile industries with massive changes to market structure, notably in where value accrues to firms and individuals. Moreover, there is always great uncertainty around how technologies like the internet, social media, streaming, and now generative AI will actually play out. Tech leadership requires a mix of taking high-conviction positions while making rapid adjustments when bets are failing. That can involve drastic changes to their labor force and org structure, as well as numerous product regressions\u2014whether due to failed initiatives or broader shifts in their ecosystem."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I love the excitement of the volatile and uncertain world of tech\u2014both as a customer, a tech worker, and even as a passive user or observer. But it\u2019s understandable why others find this deeply frustrating, if not discomforting or even terrifying. Many of these individuals would benefit from stepping back from the digital world and focusing more on their lived reality."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even we adrenaline junkies need to disconnect at times and exit the digital world entirely. Moreover, it helps to have lived through some of these cycles before and to understand the history of earlier tech insanity. The broad trends have happened before and will happen again. The world will survive, some companies will rise, others will fall, and decades from now, this will just be more boring history\u2014possibly comparable to the rollout of productivity software like spreadsheets in the 1980s and \u201990s."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "(*Edited to remove my ChatGPT spelling and grammar check prefix)"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 91736187,
+    "parent_children": 22,
+    "thread_id": 91728117,
+    "thread_children": 69,
+    "ratio_recv": -4,
+    "ratio_give": 4,
+    "grade_level": 10.9,
+    "word_count": 313,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156424171,
+    "title": "Mailbag: The payment system endgame ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-the-payment-system-endgame",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91757043,
+    "top_level": false,
+    "date": "Feb 07 2025 09:31",
+    "likes": 6,
+    "timestamp": 1738938693,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In my experience, Android\u2014particularly Google Pixel\u2014is great at aggressively managing notifications with fine-grained permissions for both manual and automatic control. I've never owned an iPhone, but even my techie friends seem to struggle more with notification management on that brand. I've heard there's a technical, platform-level reason for this, but I've never looked into it\u2014it could just be BS."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 91739821,
+    "parent_children": 12,
+    "thread_id": 91739821,
+    "thread_children": 12,
+    "ratio_recv": -2,
+    "ratio_give": -22,
+    "grade_level": 12.2,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91856924,
+    "top_level": false,
+    "date": "Feb 07 2025 15:58",
+    "likes": 1,
+    "timestamp": 1738961893,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I and other teens made minimum wage for most of my time there\u2014$5.15/hr, as I just looked up. [1] My last summer in 2004, I earned an extra $0.25/hr, primarily because I often worked the closing shift."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I\u2019ve personally never had a bad experience as either an employee or a customer of small, independent businesses, they account for all the horror stories I\u2019ve heard from friends. As your example suggests, some of their decisions can be just. But there\u2019s way more variance across owners, either because they\u2019re less aware of federal, state, and local laws\u2014or they simply don\u2019t care. At least corporate management tries to follow the most salient laws, which creates some level of consistency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I can see why illegal immigrants might also prefer the flexibility and optionality of under-the-table employment. Even just ensuring all their paperwork is in order can be enough to deter them from seeking jobs with rule-abiding firms\u2014not to mention the tax evasion benefits for both sides of the transaction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.dol.gov/agencies/whd/minimum-wage/history/chart"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 91829177,
+    "parent_children": 3,
+    "thread_id": 91622261,
+    "thread_children": 24,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 8.6,
+    "word_count": 167,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156621538,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-c68",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 91858378,
+    "top_level": false,
+    "date": "Feb 07 2025 16:04",
+    "likes": 0,
+    "timestamp": 1738962292,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an aside, I really liked the management because they actually treated all of us like adults and were direct in explaining why. Yet they were all quite human and could complain with the best of us. For example, I remember spending multiple days deep-cleaning the entire store with our store manager. Her presence was usually sporadic, but around the annual review, all she did was clean every imaginable surface for about 60 hours a week. I was often drafted to help, and we\u2019d clean side by side with minimal conversation\u2014at least after we got our complaining out of the way."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I briefly met the district manager who performed the post-clean inspection. All I remember is that she didn\u2019t wear anything resembling a McDonald\u2019s uniform but instead some kind of business suit and skirt. She also drove a BMW model that stood out from any other I had seen before."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It was a striking contrast to the regional business owners and my family\u2019s tech consulting business. It left an impression on me that I\u2019d now describe as \u201cthe benefit of economies of scale\u201d compared to the horrors of owning all the upside and downside. Then again, in retrospect, she could have just been leasing it and had her personal finances leveraged to the hilt."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 91856924,
+    "parent_children": 2,
+    "thread_id": 91622261,
+    "thread_children": 24,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.7,
+    "word_count": 214,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
