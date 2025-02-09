@@ -55050,9 +55050,9 @@
     ],
     "total_children": 5,
     "parent_id": 91512070,
-    "parent_children": 16,
+    "parent_children": 21,
     "thread_id": 91464500,
-    "thread_children": 130,
+    "thread_children": 136,
     "ratio_recv": 3,
     "ratio_give": -14,
     "grade_level": 11.7,
@@ -55074,7 +55074,7 @@
     "id": 91556475,
     "top_level": false,
     "date": "Feb 06 2025 13:02",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1738864923,
     "body": [
       [
@@ -55108,13 +55108,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 91525479,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 91464500,
-    "thread_children": 130,
-    "ratio_recv": null,
-    "ratio_give": -9,
+    "thread_children": 136,
+    "ratio_recv": -2,
+    "ratio_give": -8,
     "grade_level": 12.0,
     "word_count": 272,
     "category": "Political Controversies and Governance Challenges",
@@ -55453,11 +55453,11 @@
     ],
     "total_children": 3,
     "parent_id": 91736187,
-    "parent_children": 22,
+    "parent_children": 38,
     "thread_id": 91728117,
-    "thread_children": 69,
-    "ratio_recv": -4,
-    "ratio_give": 4,
+    "thread_children": 92,
+    "ratio_recv": -2,
+    "ratio_give": 3,
     "grade_level": 10.9,
     "word_count": 313,
     "category": "Silicon Valley's Tech Hiring and Economic Shifts",
@@ -55477,7 +55477,7 @@
     "id": 91757043,
     "top_level": false,
     "date": "Feb 07 2025 09:31",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1738938693,
     "body": [
       [
@@ -55492,8 +55492,8 @@
     "parent_children": 12,
     "thread_id": 91739821,
     "thread_children": 12,
-    "ratio_recv": -2,
-    "ratio_give": -22,
+    "ratio_recv": -3,
+    "ratio_give": -24,
     "grade_level": 12.2,
     "word_count": 59,
     "category": "Silicon Valley's Tech Hiring and Economic Shifts",
@@ -55606,5 +55606,107 @@
       "consumer behavior",
       "labor market"
     ]
+  },
+  {
+    "post_id": 154340579,
+    "title": "Should Democrats be left-wing economic populists?",
+    "canonical_url": "https://www.slowboring.com/p/should-democrats-be-left-wing-economic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92030992,
+    "top_level": false,
+    "date": "Feb 08 2025 11:55",
+    "likes": 11,
+    "timestamp": 1739033743,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree, but even within your listed examples, I think we can find disagreement among self-labeled pragmatists here in the SB comments. Let\u2019s focus simply on \u201cFix the climate issue without increasing spending.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here, the IRA could be framed as accomplishing this because it roughly decreases the deficit over 10 years while primarily being a \u201cfix climate issues\u201d bill. We could easily get into a 100+ comment discussion about the fairness of that framing, and there certainly are nuances, including reconciliation budget math."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So instead, let\u2019s imagine a hypothetical bill designed toward the aim of \u201cFix the climate issue without increasing spending.\u201d Obviously, SB subscribers would focus on: a) deregulating land use and b) technological improvements. We could even structure this bill as revenue-raising if we add leasing federal land to solar, wind, geothermal, nuclear, and other non-carbon-emitting energy sources\u2014accelerated by our deregulation. Add in natural gas as a carbon-decreasing alternative to coal, and we\u2019re fixing climate change, lowering energy prices, and even raising federal revenue."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet what will ultimately matter is how voters receive both our proposed legislation and its ultimate impact. We could easily imagine such a bill being framed as \u201cbig government overreach\u201d or a \u201csellout to massive corporations.\u201d Maybe Joe Rogan is pissed that the pristine view from his hunting lands will now be sullied by power cables."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I think there is some \u201cconnecting to voters\u201d angle that entails not just policy but also language choices, framing, and fighting for eyeballs in an ever more saturated media environment."
+        }
+      ]
+    ],
+    "total_children": 27,
+    "parent_id": 92011695,
+    "parent_children": 39,
+    "thread_id": 92011695,
+    "thread_children": 39,
+    "ratio_recv": 2,
+    "ratio_give": -27,
+    "grade_level": 12.7,
+    "word_count": 254,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 154340579,
+    "title": "Should Democrats be left-wing economic populists?",
+    "canonical_url": "https://www.slowboring.com/p/should-democrats-be-left-wing-economic",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92035280,
+    "top_level": false,
+    "date": "Feb 08 2025 12:13",
+    "likes": 3,
+    "timestamp": 1739034811,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But is it really bullshit if we're practicing the popularism discipline of talking about what voters like about our policies and accomplishments? Not everything needs a fair and balanced treatment. Particularly when voters have such limited attention. We could always refer them to a 172-page analysis by Brookings, but we'll be lucky if we capture 30 seconds in their TikTok or Instagram Reels feeds. For that brief glimpse of their eyeballs, we should use it productively."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, this will increasingly entail truly personalized media with AI generated content (and ads) created for each individual digital media consumer, aligned with their interest at that moment in time. See Meta's Oc 2023 announcement of \"Generative AI features for ads coming to all advertisers\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.facebook.com/business/news/generative-ai-features-for-ads-coming-to-all-advertisers"
+        },
+        {
+          "type": "text",
+          "value": " . There's probably something newer, and less publicized, from Meta and all other tech-enabled digital media platforms."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92031697,
+    "parent_children": 11,
+    "thread_id": 92011695,
+    "thread_children": 39,
+    "ratio_recv": -2,
+    "ratio_give": -10,
+    "grade_level": 11.1,
+    "word_count": 137,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
