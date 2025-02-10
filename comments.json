@@ -54951,7 +54951,7 @@
     "id": 91453823,
     "top_level": false,
     "date": "Feb 06 2025 04:30",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1738834225,
     "body": [
       [
@@ -54981,11 +54981,11 @@
     ],
     "total_children": 1,
     "parent_id": 91246784,
-    "parent_children": 19,
+    "parent_children": 20,
     "thread_id": 91246784,
-    "thread_children": 19,
+    "thread_children": 20,
     "ratio_recv": null,
-    "ratio_give": -27,
+    "ratio_give": -31,
     "grade_level": 11.3,
     "word_count": 299,
     "category": "Political Controversies and Governance Challenges",
@@ -55411,7 +55411,7 @@
     "id": 91739914,
     "top_level": false,
     "date": "Feb 07 2025 08:11",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1738933864,
     "body": [
       [
@@ -55453,11 +55453,11 @@
     ],
     "total_children": 3,
     "parent_id": 91736187,
-    "parent_children": 38,
+    "parent_children": 39,
     "thread_id": 91728117,
-    "thread_children": 92,
-    "ratio_recv": -2,
-    "ratio_give": 3,
+    "thread_children": 94,
+    "ratio_recv": -3,
+    "ratio_give": 4,
     "grade_level": 10.9,
     "word_count": 313,
     "category": "Silicon Valley's Tech Hiring and Economic Shifts",
@@ -55489,11 +55489,11 @@
     ],
     "total_children": 3,
     "parent_id": 91739821,
-    "parent_children": 12,
+    "parent_children": 14,
     "thread_id": 91739821,
-    "thread_children": 12,
+    "thread_children": 14,
     "ratio_recv": -3,
-    "ratio_give": -24,
+    "ratio_give": -26,
     "grade_level": 12.2,
     "word_count": 59,
     "category": "Silicon Valley's Tech Hiring and Economic Shifts",
@@ -55617,7 +55617,7 @@
     "id": 92030992,
     "top_level": false,
     "date": "Feb 08 2025 11:55",
-    "likes": 11,
+    "likes": 12,
     "timestamp": 1739033743,
     "body": [
       [
@@ -55651,17 +55651,22 @@
         }
       ]
     ],
-    "total_children": 27,
+    "total_children": 28,
     "parent_id": 92011695,
-    "parent_children": 39,
+    "parent_children": 40,
     "thread_id": 92011695,
-    "thread_children": 39,
+    "thread_children": 40,
     "ratio_recv": 2,
-    "ratio_give": -27,
+    "ratio_give": -33,
     "grade_level": 12.7,
     "word_count": 254,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "climate change",
+      "economic policy",
+      "energy policy",
+      "media influence"
+    ]
   },
   {
     "post_id": 154340579,
@@ -55673,7 +55678,7 @@
     "id": 92035280,
     "top_level": false,
     "date": "Feb 08 2025 12:13",
-    "likes": 3,
+    "likes": 6,
     "timestamp": 1739034811,
     "body": [
       [
@@ -55697,16 +55702,715 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 92031697,
-    "parent_children": 11,
+    "parent_children": 12,
     "thread_id": 92011695,
-    "thread_children": 39,
-    "ratio_recv": -2,
-    "ratio_give": -10,
+    "thread_children": 40,
+    "ratio_recv": -5,
+    "ratio_give": -8,
     "grade_level": 11.1,
     "word_count": 137,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI",
+      "media influence",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 156377655,
+    "title": "Why You Shouldn't Worry about AI Taking Jobs",
+    "canonical_url": "https://www.richardhanania.com/p/why-you-shouldnt-worry-about-ai-taking",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92213215,
+    "top_level": true,
+    "date": "Feb 09 2025 09:20",
+    "likes": 1,
+    "timestamp": 1739110835,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m rather obsessed with generative AI and certainly looking to engage with this topic. Since this is a long article, I\u2019ve summarized it with ChatGPT to quickly identify what I want to comment on (I\u2019ll attach it in a follow-up comment). I\u2019ll likely read or at least listen to the whole treatise."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree that mass unemployment is unlikely over the coming decades, but I still believe there will be significant labor market dislocations. For example, many tech companies are already trying to avoid hiring and training new-grad software engineers because even in the best case, they take 3\u20136 months to become productive. If generative AI tools give existing engineers and other tech workers more leverage, we could see a surplus of unemployed software engineering grads\u2014despite it being a recently lucrative career path with ostentatiously good work-life balance and career stability."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019ve already seen similar trends for journalists due to the digitization of written publications in the 2010s. Even the productivity boost from email, spreadsheets, and word processing software in the \u201980s and \u201990s likely contributed to the challenges faced by finance and law professionals, particularly new grads. Generative AI seems poised to cause at least as much disruption, if not more."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree that highly regulated fields like medicine may be slow to adapt, but there has already been a push to de-skill these professions over the past decade or two, with regulated skilled medical technicians taking on tasks traditionally performed by doctors. Some of these roles\u2014such as registered nurses and anesthesiology assistants\u2014can be highly lucrative, with incomes of at least $100K per year and the potential for $200K with regional adjustments and overtime. But what happens if further technological advances, including AI-based coaches and real-time guides, continue to de-skill these professions?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m certain we\u2019ll continue to see \u201cmake-work\u201d jobs. Some exist purely to justify a director\u2019s or mid-level executive\u2019s budget, title, and compensation. In other cases, having a human formally own responsibility is valuable, even if the role only requires 10 hours of real work per week. At the very least, that individual is incentivized to manage their assignments, freeing up their manager\u2019s mental load. Plus, there\u2019s always someone to blame\u2014or fire\u2014if things go wrong. In regulated fields like medicine, law, and finance, the stakes are even higher; the individual could face legal consequences, including jail time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I believe that the next decade will be volatile and exciting for those of us who appreciate some risk."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 92213215,
+    "thread_children": 2,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 11.7,
+    "word_count": 409,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "labor market",
+      "software engineering",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 156377655,
+    "title": "Why You Shouldn't Worry about AI Taking Jobs",
+    "canonical_url": "https://www.richardhanania.com/p/why-you-shouldnt-worry-about-ai-taking",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92213415,
+    "top_level": false,
+    "date": "Feb 09 2025 09:21",
+    "likes": 0,
+    "timestamp": 1739110900,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Formatted: "
+        },
+        {
+          "type": "url",
+          "value": "https://gist.github.com/matthagy/b59bbd8c1cadbf6cb894f29c80b12c1e"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Summary: Why You Shouldn\u2019t Worry About AI Taking Jobs"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Key Takeaway:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The concern that AI will eliminate most jobs is overblown due to persistent human preferences, legal structures, and economic growth dynamics. Even if AI significantly impacts employment, redistribution through the welfare state makes large-scale economic displacement manageable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Core Arguments:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t1.\tHistory Shows Fears of Job Loss Are Unfounded"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tTechnological progress has never led to sustained mass unemployment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tHistorical data (e.g., US unemployment rates) shows job markets adapt despite automation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t2.\tMost of the Economy Already Consists of \u2018Make-Work\u2019"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tMany jobs (healthcare, education, government) exist due to regulations, bureaucracy, and credentialism rather than economic necessity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tAI could replace these inefficiencies, but human labor remains embedded in systems for legal and institutional reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t3.\tHuman Preference for Human Work"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tPeople value human-made products, human interaction, and personal authenticity (e.g., art, service industry, law, and healthcare)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tAutomation might improve efficiency, but consumers and institutions will still demand human involvement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t4.\tLegal and Normative Barriers Slow AI Job Replacement"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tAI outperforms humans in legal analysis and medical diagnostics but isn\u2019t replacing judges, doctors, or pharmacists due to regulatory constraints and liability concerns."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tInstitutions will retain human roles as a form of \u201clawsuit insurance\u201d or compliance with entrenched norms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t5.\tAI Will Drive Economic Growth, Not Widespread Unemployment"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tGreater AI productivity will create a much wealthier society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tHistorical patterns suggest that economic growth leads to more government redistribution, ensuring basic welfare."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t6.\tEven If AI Eliminates Jobs, Redistribution Can Handle It"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tWelfare programs already effectively eliminate absolute poverty."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tEconomic growth will likely expand social safety nets, making job loss a policy issue rather than a survival threat."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t7.\tThe Real Concern is AI Catastrophe, Not Job Loss"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tThe only truly existential risk is AI aligning against human interests, not employment concerns."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t\u2022\tIf humans remain in control, AI-driven economic growth will ultimately benefit society."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Conclusion:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Luddites are wrong\u2014job loss isn\u2019t the real problem. AI\u2019s biggest challenge is existential safety, not employment. Economic adaptation, legal inertia, and societal preferences ensure human work persists, while redistribution will mitigate any major disruptions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 92213215,
+    "parent_children": 2,
+    "thread_id": 92213215,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 13.0,
+    "word_count": 345,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "historical analysis",
+      "welfare state"
+    ]
+  },
+  {
+    "post_id": 156377655,
+    "title": "Why You Shouldn't Worry about AI Taking Jobs",
+    "canonical_url": "https://www.richardhanania.com/p/why-you-shouldnt-worry-about-ai-taking",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92217382,
+    "top_level": false,
+    "date": "Feb 09 2025 09:41",
+    "likes": 1,
+    "timestamp": 1739112075,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "You could say the same about every earlier technological revolution. For example, there have been numerous diatribes arguing that farming and writing were developed primarily to enslave the majority of humans for the benefit of an elite class."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Through a certain lens, those narratives are correct. Increasing levels of technological and cultural sophistication generally lead to greater inequality\u2014both material and social. However, these narratives often overstate the level of agency and planning behind these advances. Moreover, the individuals and social groups that ultimately gain control over these institutions are rarely the same ones who discovered or invented them. And in the end, absolute living standards tend to rise with these advancements."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nick Land is one of the most prominent recent intellectuals to explore patterns of technological disempowerment. I\u2019ve personally never been able to get through his verbose and meandering writing, but credible review articles suggest this is his central thesis. His Accelerationism theory predicts that humans will become increasingly disempowered, eventually being replaced by the technocapitalist system\u2014and that there\u2019s nothing anyone can do to stop it. As an aside, while his ideas seem Marxist in background, he is also regarded as a leading Neoreactionary intellectual."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I think we should focus less on who, if anyone, is actually in control of this process and instead concentrate on how we can react and adapt for our own well-being."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 92209275,
+    "parent_children": 8,
+    "thread_id": 92209275,
+    "thread_children": 8,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 13.0,
+    "word_count": 227,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "economic inequality",
+      "progressivism",
+      "social justice"
+    ]
+  },
+  {
+    "post_id": 156377655,
+    "title": "Why You Shouldn't Worry about AI Taking Jobs",
+    "canonical_url": "https://www.richardhanania.com/p/why-you-shouldnt-worry-about-ai-taking",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92229468,
+    "top_level": false,
+    "date": "Feb 09 2025 10:33",
+    "likes": 1,
+    "timestamp": 1739115232,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We have repeatedly surpassed our limits over the last few thousand years. Again, I\u2019d cite agriculture and writing. We also have religions and other cultural values that have developed over millennia. The Industrial Revolution\u2014actually a series of machine-power revolutions, from steam to internal combustion and electricity\u2014was particularly significant because it drastically increased our productive capacity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Our information revolutions began with the earliest developments of written language, followed by a massive expansion in distribution due to the printing press with movable type. That process was later industrialized with steam-powered printing and distribution via trains and trucks. The early analog electrical technologies of radio and then broadcast TV were even more impactful. And we\u2019re still working through the digital revolution, with the internet, social media, streaming, and now generative AI."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The point is that none of this is under anyone\u2019s control. There have been numerous attempts to regulate technology after its deployment. Some, like the Catholic Church\u2019s control of the printing press, had limited success. The Ottomans exercised even greater control over religious texts for an extended period. Yet no one has ever consistently maintained control, let alone rolled back technological progress."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s understandable that some prefer a simple, technology-minimal life. That too has happened repeatedly throughout history, and we\u2019re all familiar with contemporary Amish communities that strictly limit their technology use. Yet the broad arc of society always moves toward greater technological adoption. Any mass culture that resists this trend is almost guaranteeing its continuous disempowerment\u2014until it becomes entirely irrelevant."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92227044,
+    "parent_children": 3,
+    "thread_id": 92209275,
+    "thread_children": 8,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 12.5,
+    "word_count": 249,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "historical analysis",
+      "media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 156787329,
+    "title": "Democrats need a billionaire strategy",
+    "canonical_url": "https://www.natesilver.net/p/democrats-need-a-billionaire-strategy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92245009,
+    "top_level": false,
+    "date": "Feb 09 2025 11:38",
+    "likes": 8,
+    "timestamp": 1739119128,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Soros had plenty of other trades that built up his wealth and his infamous shorting the British Pound in 92 was a near obvious trade in hindsight. There was no way that the Bank of England could maintain that unsustainable peg with respect to the German Mark. Moreover, Soros certainly can\u2019t be blamed for the UK getting themselves into this mess, and currency speculators like himself are part of the mechanism for correcting these fiscal mistakes."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 92223297,
+    "parent_children": 5,
+    "thread_id": 92223297,
+    "thread_children": 5,
+    "ratio_recv": 4,
+    "ratio_give": -32,
+    "grade_level": 10.8,
+    "word_count": 76,
+    "category": "Uncategorized",
+    "tags": [
+      "financial markets",
+      "fiscal policy",
+      "historical analysis"
+    ]
+  },
+  {
+    "post_id": 156787329,
+    "title": "Democrats need a billionaire strategy",
+    "canonical_url": "https://www.natesilver.net/p/democrats-need-a-billionaire-strategy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92251321,
+    "top_level": false,
+    "date": "Feb 09 2025 12:05",
+    "likes": 6,
+    "timestamp": 1739120700,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I was tepidly in support of Khan before the FTC accumulated an embarrassing track record under her tenure. In retrospect it was foolish to think that simply changing leadership could have a meaningful refocus in regulatory action within just 4 years. The FTC is a deep institution with lifetime staff who have been accumulated to certain procedures, with cases built and prosecuted in a certain way. Hence, there were staff revolts, motivation issues, and departures that only weakened the agency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Secondly, many Khan-era FTC cases were discovered and built carelessly\u2014possibly with the assumption they\u2019d lose in court regardless and they just wanted a track record to justify new laws or a change in jurisprudence under a future, more-liberal SCOTUS. But this was embarrassing for those of us in favor of FTC regulation of anticompetitive behavior, and it even gets into Trumpish \u201cabandon the rule of law\u201d territory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As exhibit A, I\u2019d cite the July 2022 \u201cFTC Seeks to Block Virtual Reality Giant Meta\u2019s Acquisition of Popular App Creator Within\u201d. [1] This was a worthless lawsuit because Meta was essentially acquiring a small, failed startup in order to get more VR talent. There was no competition risk because this was a niche market that \u201cWithin\u201d (the company\u2019s name) was failing to monetize effectively. Hence, in 2023 the courts allowed the merger. There was no point to this lawsuit other than adding another \u201cFTC fails to fight Big Tech\u201d to the list of justifications for changing antitrust laws."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For exhibit B, let\u2019s consider the FTC\u2019s blocking of Microsoft\u2019s acquisition of Activision. [2] This was a far more substantial merger with serious anticompetitive considerations. Unfortunately, the FTC blew the case by focusing on the risk of Microsoft withdrawing Call of Duty from the PlayStation and other platforms. This obvious consideration was proactively addressed by Microsoft's lawyers with a multitude of long term agreements to continue offering Call of Duty everywhere. Microsoft also volunteered to enter into an FTC consent decree to further solidify this arrangement. Unfortunately, the FTC never offered up any other risks and the merger was allowed to go through."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "By contrast, the UK\u2019s Common Market Authority (CMA, their FTC equivalent) focused on Microsoft's stated goal of building a cloud gaming ecosystem. [3] The CMA required Activision to sell their cloud gaming rights to a third party, for which Microsoft acquired a non-exclusive license. This would allow other companies, like Sony, to easily also license these rights for Activision titles for their own cloud gaming platform, should that prove lucrative. Ie, the CMA addressed a real anti-competitive risk whereas the FTC carelessly built a case that they were guaranteed to lose in court."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, the FTC under Khan\u2019s leadership was a grave disappointment. At best it delayed some mergers that will now speed through the Trump FTC. Moreover, it antagonized tech leaders and investors, contributing to their defection to the Republicans\u2014or at least their departure from the Democrats. We made no serious progress towards building mass public support for changing antitrust laws nor jurisprudence. This ended up being just another Biden failure based on appeasing his left flank, but disconnected from any concrete political strategy. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ftc.gov/news-events/news/press-releases/2022/07/ftc-seeks-block-virtual-reality-giant-metas-acquisition-popular-app-creator-within"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2210077-microsoftactivision-blizzard-matter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-09-22/microsoft-s-activision-deal-set-to-get-uk-s-cma-approval"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 92226687,
+    "parent_children": 4,
+    "thread_id": 92226687,
+    "thread_children": 4,
+    "ratio_recv": 1,
+    "ratio_give": -13,
+    "grade_level": 10.9,
+    "word_count": 527,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "business strategy",
+      "economic policy",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 156794715,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-2c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92268183,
+    "top_level": false,
+    "date": "Feb 09 2025 13:16",
+    "likes": 13,
+    "timestamp": 1739124988,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There are plenty of part time roles throughout the economy, including the flexibility-maximizing gig jobs. And if full time employment is going to be linked to benefits, like healthcare, then it'll require some minimal hours\u00d7productivity to be substantial. Lastly, any aspirational career or luncrative career will require periods of work that well exceed 40 hours; particularly when one is getting established."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, the most government could conceivably do is increasingly decouple healthcare and employment. That would all the creation of jobs that wouldn't be sustainable with current benefit costs."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92264810,
+    "parent_children": 9,
+    "thread_id": 92264810,
+    "thread_children": 9,
+    "ratio_recv": -11,
+    "ratio_give": 6,
+    "grade_level": 12.6,
+    "word_count": 89,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "labor market",
+      "social security"
+    ]
+  },
+  {
+    "post_id": 156787329,
+    "title": "Democrats need a billionaire strategy",
+    "canonical_url": "https://www.natesilver.net/p/democrats-need-a-billionaire-strategy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92317754,
+    "top_level": false,
+    "date": "Feb 09 2025 17:03",
+    "likes": 1,
+    "timestamp": 1739138594,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "But, again, they lost cases due to carelessness; not due to thoughtful challenges at the margins of established laws and existing jurisprudence. I could support them actually venturing into gray areas to \u201cheighten the contradictions\u201d of the current status quo. Instead, they just made the FTC look feckless and even called into question their commitment to the rule of law."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, that same mindset of \u201cupsetting a bad status quo\u201d could now apply to numerous Trump, Musk, et al. initiatives. Eg, who is to say that Musk and team isn\u2019t actually committed to uncovering massive fraud and wasteful spending with their Treasury payments analysis? Eg, the rapid, forced return-to-office of federal employees, with allure of rich buyouts for holdouts, could be framed as a serious commitment to making the federal workforce more effective. If we abandon any continuity with the past, then a new administration can run wild in disrupting anything they dislike."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Worst of all, I just don\u2019t see any lasting good coming from Kahn\u2019s FTC. Some of the most promising cases prosecuted by her office were initiated under the Trump administration: A) Google search monopoly and B) Relitigation of Facebook/Meta acquisition of Instagram. The only noteworthy, credible tech case that began under Kahn was the Apple App Store monopoly case."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "All three of those cases could\u2019ve proceeded without Kahn\u2019s ideological commitment and we may have even had stronger bipartisan support for reigning in the excesses of big tech. Instead, Khan\u2019s FTC can be cast as just another Biden era excess easily dismissed."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 92253531,
+    "parent_children": 2,
+    "thread_id": 92226687,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 11.6,
+    "word_count": 254,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "Federal Reserve",
+      "US politics",
+      "business strategy",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 156794715,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-2c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92319308,
+    "top_level": false,
+    "date": "Feb 09 2025 17:10",
+    "likes": 5,
+    "timestamp": 1739139057,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It strikes me that this would be a great opportunity for \u201ctrust, but verify.\u201d For example, requiring perfect accounting of all research funds, including initiatives that mix government research grants with other funding sources. Yet, having worked in FinTech since 2019, I suspect this would likely just make Accenture and Deloitte billions while never producing any truly useful breakdown of where the money is going. There are rumors that Palantir actually has credible solutions for such institutional forensic accounting, but again, that may just be an excuse to enrich Trump\u2019s tech supporters."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92269464,
+    "parent_children": 6,
+    "thread_id": 92267401,
+    "thread_children": 50,
+    "ratio_recv": -1,
+    "ratio_give": -18,
+    "grade_level": 12.3,
+    "word_count": 92,
+    "category": "Uncategorized",
+    "tags": [
+      "financial regulation",
+      "tech industry",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 156794715,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-2c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92331545,
+    "top_level": false,
+    "date": "Feb 09 2025 18:13",
+    "likes": 4,
+    "timestamp": 1739142828,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The \u201cmandatory\u201d aspect is the challenging part. Numerous career paths would be negatively impacted if individuals in them had to take six weeks off\u2014for example, junior writers and new graduates in finance, law, or tech. Progression in these careers is largely driven by experience. Moreover, their compensation packages would have to adjust accordingly to account for more time away from work."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That compensation issue could be addressed by allowing workers to take the vacation time as a cash equivalent. But then we\u2019re just back to the status quo. Additionally, the shift to \u201cunlimited paid time off (PTO)\u201d was largely implemented to mitigate the issue of workers accumulating budgeted PTO, which then had to be bought out\u2014either at the end of the year or when they left the firm."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similar to the shortening of the workweek, flexible employment arrangements already exist for workers who want more time off. Notably, consulting and contract work can be extremely flexible, though at the cost of stable income. And as demonstrated by the issue with fixed PTO cashouts, many people would rather work more and earn more than take additional leisure time."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 92278138,
+    "parent_children": 2,
+    "thread_id": 92264810,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.6,
+    "word_count": 187,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "labor market"
+    ]
   }
 ]

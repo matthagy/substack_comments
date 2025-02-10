@@ -4613,5 +4613,73 @@
     "business strategy",
     "consumer behavior",
     "labor market"
+  ],
+  "92030992": [
+    "climate change",
+    "economic policy",
+    "energy policy",
+    "media influence"
+  ],
+  "92035280": [
+    "generative AI",
+    "media influence",
+    "social media influence"
+  ],
+  "92213215": [
+    "generative AI",
+    "labor market",
+    "software engineering",
+    "tech industry"
+  ],
+  "92213415": [
+    "automation",
+    "historical analysis",
+    "welfare state"
+  ],
+  "92217382": [
+    "automation",
+    "economic inequality",
+    "progressivism",
+    "social justice"
+  ],
+  "92229468": [
+    "generative AI",
+    "historical analysis",
+    "media influence",
+    "tech industry"
+  ],
+  "92245009": [
+    "financial markets",
+    "fiscal policy",
+    "historical analysis"
+  ],
+  "92251321": [
+    "Biden administration",
+    "US politics",
+    "business strategy",
+    "economic policy",
+    "media influence"
+  ],
+  "92268183": [
+    "economic policy",
+    "labor market",
+    "social security"
+  ],
+  "92317754": [
+    "Biden administration",
+    "Federal Reserve",
+    "US politics",
+    "business strategy",
+    "tech industry"
+  ],
+  "92319308": [
+    "financial regulation",
+    "tech industry",
+    "trust in institutions"
+  ],
+  "92331545": [
+    "business strategy",
+    "economic policy",
+    "labor market"
   ]
 }
