@@ -55657,7 +55657,7 @@
     "thread_id": 92011695,
     "thread_children": 40,
     "ratio_recv": 2,
-    "ratio_give": -33,
+    "ratio_give": -35,
     "grade_level": 12.7,
     "word_count": 254,
     "category": "Uncategorized",
@@ -55997,7 +55997,7 @@
     "id": 92217382,
     "top_level": false,
     "date": "Feb 09 2025 09:41",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1739112075,
     "body": [
       [
@@ -56030,8 +56030,8 @@
     "parent_children": 8,
     "thread_id": 92209275,
     "thread_children": 8,
-    "ratio_recv": 0,
-    "ratio_give": -1,
+    "ratio_recv": -1,
+    "ratio_give": 0,
     "grade_level": 13.0,
     "word_count": 227,
     "category": "Uncategorized",
@@ -56107,7 +56107,7 @@
     "id": 92245009,
     "top_level": false,
     "date": "Feb 09 2025 11:38",
-    "likes": 8,
+    "likes": 17,
     "timestamp": 1739119128,
     "body": [
       [
@@ -56119,11 +56119,11 @@
     ],
     "total_children": 3,
     "parent_id": 92223297,
-    "parent_children": 5,
+    "parent_children": 7,
     "thread_id": 92223297,
-    "thread_children": 5,
-    "ratio_recv": 4,
-    "ratio_give": -32,
+    "thread_children": 7,
+    "ratio_recv": -4,
+    "ratio_give": -27,
     "grade_level": 10.8,
     "word_count": 76,
     "category": "Uncategorized",
@@ -56143,7 +56143,7 @@
     "id": 92251321,
     "top_level": false,
     "date": "Feb 09 2025 12:05",
-    "likes": 6,
+    "likes": 8,
     "timestamp": 1739120700,
     "body": [
       [
@@ -56218,8 +56218,8 @@
     "parent_children": 4,
     "thread_id": 92226687,
     "thread_children": 4,
-    "ratio_recv": 1,
-    "ratio_give": -13,
+    "ratio_recv": 3,
+    "ratio_give": -23,
     "grade_level": 10.9,
     "word_count": 527,
     "category": "Uncategorized",
@@ -56241,7 +56241,7 @@
     "id": 92268183,
     "top_level": false,
     "date": "Feb 09 2025 13:16",
-    "likes": 13,
+    "likes": 15,
     "timestamp": 1739124988,
     "body": [
       [
@@ -56262,8 +56262,8 @@
     "parent_children": 9,
     "thread_id": 92264810,
     "thread_children": 9,
-    "ratio_recv": -11,
-    "ratio_give": 6,
+    "ratio_recv": -12,
+    "ratio_give": 7,
     "grade_level": 12.6,
     "word_count": 89,
     "category": "Uncategorized",
@@ -56317,7 +56317,7 @@
     "thread_id": 92226687,
     "thread_children": 4,
     "ratio_recv": null,
-    "ratio_give": -6,
+    "ratio_give": -10,
     "grade_level": 11.6,
     "word_count": 254,
     "category": "Uncategorized",
@@ -56339,7 +56339,7 @@
     "id": 92319308,
     "top_level": false,
     "date": "Feb 09 2025 17:10",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1739139057,
     "body": [
       [
@@ -56351,11 +56351,11 @@
     ],
     "total_children": 2,
     "parent_id": 92269464,
-    "parent_children": 6,
+    "parent_children": 8,
     "thread_id": 92267401,
-    "thread_children": 50,
-    "ratio_recv": -1,
-    "ratio_give": -18,
+    "thread_children": 64,
+    "ratio_recv": 3,
+    "ratio_give": -25,
     "grade_level": 12.3,
     "word_count": 92,
     "category": "Uncategorized",
@@ -56375,7 +56375,7 @@
     "id": 92331545,
     "top_level": false,
     "date": "Feb 09 2025 18:13",
-    "likes": 4,
+    "likes": 6,
     "timestamp": 1739142828,
     "body": [
       [
@@ -56403,7 +56403,7 @@
     "thread_id": 92264810,
     "thread_children": 9,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 10.6,
     "word_count": 187,
     "category": "Uncategorized",
@@ -56411,6 +56411,1864 @@
       "business strategy",
       "economic policy",
       "labor market"
+    ]
+  },
+  {
+    "post_id": 156794715,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-2c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92402767,
+    "top_level": false,
+    "date": "Feb 10 2025 03:46",
+    "likes": 7,
+    "timestamp": 1739177187,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "While I can enjoy a good Kara Swisher rant, she isn\u2019t a \u201cfair and balanced\u201d reporter. She\u2019s been the outsider\u2019s insider in tech for roughly two decades, and her main shtick is validating her audience\u2019s visceral discomfort with tech disruption and its growing influence. Swisher primarily accomplishes this through a mix of personal anecdotes from her limited interactions and some pseudoscientific psychoanalysis. Her podcast with Scott Galloway is great for novel schizorants about tech\u2014at times, they even return to reality long enough to comment on actual events in the news."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But there are far better reporters, authors, and analysts Klein could have chosen to better understand Musk and his peers. Most notably, Walter Isaacson, who published an extensive biography of Musk in 2023 and has written about other tech figures like Steve Jobs. Bloomberg also has a multitude of reporters and opinionists who could weigh in. I prefer Matt Levine\u2019s wit combined with deep analysis\u2014he\u2019s been chronicling Musk since at least 2018. Bloomberg even has the Elon, Inc. podcast, which brings in experts for each mess he creates."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92375871,
+    "parent_children": 4,
+    "thread_id": 92266159,
+    "thread_children": 19,
+    "ratio_recv": -4,
+    "ratio_give": 2,
+    "grade_level": 9.1,
+    "word_count": 178,
+    "category": "Uncategorized",
+    "tags": [
+      "media bias",
+      "media influence",
+      "news consumption",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 156794715,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-2c5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92402879,
+    "top_level": false,
+    "date": "Feb 10 2025 03:48",
+    "likes": 3,
+    "timestamp": 1739177285,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I don\u2019t think there\u2019s much value in deep analysis of Musk and other tech leaders in the Trump cult. The general archetype of tech entrepreneurs, leaders, and investors is some combination of: a) crazy views, b) extensive resources, including a network of idiosyncratic experts, c) obsessive focus when warranted. While these individuals can stake out extreme positions and make elaborate plans, they are all highly adaptable as reality unfolds."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I doubt we can predict what they\u2019ll do\u2014or even what they ultimately value. Even the general trend of wanting to increase their wealth and power can take circuitous routes. For example, Musk\u2019s impulsive purchase of Twitter (possibly influenced by ketamine?) looked increasingly foolish\u2014until he parlayed it into political influence. Now, it looks like a fabulous purchase for Musk and his co-investors, even if the actual asset goes bankrupt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, their political influence will manifest through a series of unusual and unexpected positions and projects. Many will fail and fade into the background. Those that succeed likely won\u2019t do so through an easily predictable path. Whether we attribute their behavior to psychological issues, drug abuse, brilliant strategy, deep expert networks, or random chance\u2014it doesn\u2019t really matter. We should simply expect chaos and volatility and respond to the durable negative outcomes of their influence."
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 92402767,
+    "parent_children": 2,
+    "thread_id": 92266159,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 10.9,
+    "word_count": 213,
+    "category": "Uncategorized",
+    "tags": [
+      "entrepreneurship",
+      "media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 156556072,
+    "title": "Immigration policy should prioritize American interests ",
+    "canonical_url": "https://www.slowboring.com/p/immigration-policy-should-prioritize",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92429151,
+    "top_level": false,
+    "date": "Feb 10 2025 08:02",
+    "likes": 23,
+    "timestamp": 1739192536,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a lot in this comment\u2014chiefly a focus on the media environment, particularly recent changes in the Trump era. I think we can all agree that significant shifts have occurred, including some initiated by Republicans and their allies (Murdoch and Fox News, Musk buying Twitter). There have also been changes that Trump and his allies embraced and adapted to\u2014for example, Trump had a large Twitter following and broad media fame well before his 2016 run."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That said, I want to push back against the doomerism suggesting that Democrats cannot respond and adapt. Personally, I find great solace in revisiting the Democrats\u2019 decades in the political wilderness from 1968 to 1992. At the time, there were similar concerns about whether the party could build a durable coalition capable of winning presidential elections, with only the outsider Carter managing a single, disappointing term. Yet Clinton and Obama ultimately proved the naysayers wrong, and there\u2019s no reason to believe our current challenges won\u2019t be resolved far more quickly."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Our situation is far from hopeless, and it\u2019s encouraging that wonks like Yglesias and Klein are thinking and writing about strategic options. Some messiness is inevitable as Democratic leaders chart a path forward, and internal conflicts over the party\u2019s future leadership, policies, and branding are to be expected. Regardless, we\u2019ll get through this and win again."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I won\u2019t deny that there is massive uncertainty in our path forward, and we should expect plenty of volatility\u2014not just from Musk, Trump, and their allies but also from Democratic leaders, intellectuals, and voters. Nonetheless, we\u2019ll get through this. Before long, today\u2019s political turbulence will be ancient history, remembered only by those directly involved, political hobbyists like us who are following too closely, and historians."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 92424620,
+    "parent_children": 22,
+    "thread_id": 92420542,
+    "thread_children": 72,
+    "ratio_recv": -17,
+    "ratio_give": 10,
+    "grade_level": 11.9,
+    "word_count": 286,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "partisan politics",
+      "political campaigns"
+    ]
+  },
+  {
+    "post_id": 156556072,
+    "title": "Immigration policy should prioritize American interests ",
+    "canonical_url": "https://www.slowboring.com/p/immigration-policy-should-prioritize",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92516437,
+    "top_level": false,
+    "date": "Feb 10 2025 14:03",
+    "likes": 2,
+    "timestamp": 1739214208,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I believe there has been some discussion in SB comments\u2014and possibly articles\u2014over the years about declining emotional well-being despite increasing wealth. However, I\u2019ve never found any of it to suggest a meaningful connection between the two. Moreover, I don\u2019t believe there is much value in measuring emotional well-being across generations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We are fundamentally different people than Americans of the 1950s, let alone the 1920s. Our world is radically different\u2014materially, in our labor, our entertainment, our beliefs and values, and the ideas that shape our emotional reality. Even our definitions of words like \u201canxious\u201d and \u201cdepressed\u201d have shifted\u2014from severe, rare ailments to common experiences we all expect to encounter at times and to varying degrees. Because of this, I think any longitudinal comparison across cohorts is of limited value."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, do people even value emotional and mental well-being as an absolute good? Sure, we all enjoy blowing off steam about stress and frustrations. But how many of us would actually sacrifice material well-being or withdraw from economic, social, or political competition? Some people do, and most of us moderate with age. Yet at some level, I think most people primarily seek to better cope with and manage negative emotions\u2014while continuing to play the exciting games that define our material, social, and political reality."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92467598,
+    "parent_children": 12,
+    "thread_id": 92414929,
+    "thread_children": 193,
+    "ratio_recv": 0,
+    "ratio_give": -9,
+    "grade_level": 12.6,
+    "word_count": 212,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "economic inequality",
+      "mental health"
+    ]
+  },
+  {
+    "post_id": 156881479,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-95b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92566588,
+    "top_level": false,
+    "date": "Feb 10 2025 17:48",
+    "likes": 10,
+    "timestamp": 1739227687,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I am excited about this initiative from Tracing Woodgrains (now also know as Jack Despain Zhou), \"Schools Should Pursue Excellence\". Article includes issue with current education policy and public dissatisfaction. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://www.educationprogress.org/p/schools-should-pursue-excellence"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://www.tracingwoodgrains.com/p/introducing-the-center-for-educational"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 92561620,
+    "parent_children": 21,
+    "thread_id": 92561620,
+    "thread_children": 21,
+    "ratio_recv": -7,
+    "ratio_give": -1,
+    "grade_level": 12.7,
+    "word_count": 30,
+    "category": "Uncategorized",
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
+  },
+  {
+    "post_id": 156881479,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-95b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 92568689,
+    "top_level": true,
+    "date": "Feb 10 2025 17:58",
+    "likes": 5,
+    "timestamp": 1739228316,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Here's Furman's recent accompanying Twitter thread that contains an overview and more charts that were cut from the article, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/jasonfurman/status/1889063031788675264"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 92568689,
+    "thread_children": 2,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 10.7,
+    "word_count": 19,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156947294,
+    "title": "The world should call Trump's bluff on tariffs",
+    "canonical_url": "https://www.slowboring.com/p/the-world-should-call-trumps-bluff",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93169070,
+    "top_level": false,
+    "date": "Feb 13 2025 06:44",
+    "likes": 8,
+    "timestamp": 1739447059,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Aren't there generally custom processing fees for imported goods? And couldn't that be used to focus on de minimis exemption goods from China, possibly with a slow ramp up?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The fee could be collected when the good is shipped to the US and could keep rising on a monthly basis until almost all the goods in question become noneconmical. Moreover, the revenue from these fee could fund more rigorous inspection of the remaining goods through this import channel."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 93167287,
+    "parent_children": 40,
+    "thread_id": 93167287,
+    "thread_children": 40,
+    "ratio_recv": 0,
+    "ratio_give": -47,
+    "grade_level": 9.7,
+    "word_count": 78,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "foreign policy"
+    ]
+  },
+  {
+    "post_id": 157090635,
+    "title": "Twitter or Bluesky? How about neither.",
+    "canonical_url": "https://www.natesilver.net/p/twitter-or-bluesky-how-about-neither",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93313157,
+    "top_level": true,
+    "date": "Feb 13 2025 16:55",
+    "likes": 0,
+    "timestamp": 1739483710,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> So despite constant efforts by Zuckerberg to get newsrooms to publish \u201cnatively\u201d on FB, it was pretty close to a zero-sum game."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think this undersells the conflict between Facebook/Zuck (and also Google) and The Media (or The Indigo Blob in Silver lingo). It\u2019s been a while since I read Ben Smith\u2019s book Traffic (mentioned in the article) and I believe Smith went a little more in depth about the growing animosity about tech influence, in addition to the financial conflict of interest. I do recall there was a time where Facebook and Google wanted more high brow content and Ben Smith was explicitly building BuzzFeed News on the theory that eventually tech platforms would directly pay for this. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Ben Smith: We believed, and you can argue now about whether this was delusional or whether it just didn't turn out that way that places like Facebook and Twitter would ultimately wind up paying for quality content the way say Netflix or Disney pays for quality entertainment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some of this was simple business: why pay for high brow content when users are content with free crap from content farms? But I think it\u2019s under-discussed how the media grew increasingly resentful of tech in the 2010s, chiefly Facebook, as it undercut the traditional news business. That eventually led to full on hostilities, including blaming Facebook for electing Trump, and Zuckerberg even being called to testify before Congress multiple times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall a strong, mutually beneficial, even symbiotic relationship between The Indigo Blob and Tech that likely peaked around Obama\u2019s second election. His administration, and particularly, his campaign team, included multiple techies, notably titans like Facebook co-founder, Chris Hughes. For a while it seemed there was going to be a solid partnership between tech and liberal politics. In such a world I imagine Ben Smith\u2019s hypothesis would\u2019ve materialized with Facebook and other sites paying some digital publishers for high-quality, site-native content."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But the economic destruction of traditional media, and its declining influence, was too much for the relationship to hold. As the resentment grew to full on hostile attacks on Tech\u2014first from niche dissident publications and later even NYT and respectful media\u2014Zuckerberg (and Google) increasingly deprioritized news and traditional media as being notable, differential content. As Silver says in this article, they were \u201ccompeting with dogemaga42069\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And we\u2019re now in an increasingly fragmented ecosystem where even Facebook and Google likely couldn\u2019t financially resurrect the former Indio Blob structure. Everyone has their own algorithmically-constructed, filtered reality and should the platforms attempt to openly bias that, then users will just go elsewhere."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-ben-smith-death-buzzfeed-news"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 93313157,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 13.1,
+    "word_count": 429,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "business strategy",
+      "media influence",
+      "partisan politics",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157090635,
+    "title": "Twitter or Bluesky? How about neither.",
+    "canonical_url": "https://www.natesilver.net/p/twitter-or-bluesky-how-about-neither",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93321281,
+    "top_level": false,
+    "date": "Feb 13 2025 17:32",
+    "likes": 0,
+    "timestamp": 1739485928,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an addendum, while Substack comes off rather positively in Silver\u2019s narrative, I think authors should be a little less trusting of whether their long-term interests are truly aligned. Major personalities like Silver, Yglesias, Andrew Sullivan, and Bari Weiss\u2019s The Free Press will be fine regardless and may even have some negotiating leverage."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But Substack has to grow far beyond just being a paid newsletter platform if it\u2019s ever going to justify its lofty, Covid-era, ZIRP valuation of $650 million, set in March 2021.[1] I imagine Silver invested in their 2023 community round,[2] which is believed to have been a hastily arranged solution after VCs rejected further funding due to the changing investment environment. Here\u2019s a link [3] to a March 2023 comment of mine in Slow Boring that raises the issue, along with some back-and-forth discussion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The concern is that Substack will increasingly pursue platform interests, possibly at the expense of authors and even paid subscribers who expect a certain \u201cexperience.\u201d The tech analyst Ben Thompson has occasionally commented on this potential conflict. He has some credibility as the original digital paid newsletter publisher, having launched Stratechery in 2013 (Substack\u2019s founders cite him as their inspiration)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In March 2022, before Substack\u2019s investment woes, Thompson highlighted how the business model might need to evolve with author-hostile features like compulsory bundles.[4]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I think that one of the strategic mistakes that Substack made early on was in being too publisher friendly, in two regards. The first one is that every individual publisher on Substack adds subscribers to their own Stripe account, instead of a centralized Substack account, and the second one is that Substack failed to gain permission in their publisher terms of service to create a Substack bundle."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More recently, he and his podcast co-host John Gruber (another Web 2.0 winner) commented on the Substack \u201cfollow\u201d feature\u2014which, unlike email subscribers, is not an asset that authors can take with them if they migrate off Substack.[5] They also derisively noted how all Substack sites look the same, which commoditizes less noteworthy authors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet Thompson and Gruber remain net-positive on Substack and are rooting for the team to figure something out. They both value the plethora of content enabled by Substack and applaud its commitment to platform neutrality (i.e., free speech). Thompson repeatedly references his original March 2021 article, Sovereign Writers and Substack,[6] where he acknowledges the conflict of interest between platform and author but still praises Substack for championing writers like Yglesias and Sullivan, who had to go independent after being \u201ccanceled\u201d by their previous publishers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s also easy for me to be a strong Substack fan as a content consumer. I may even appreciate them offering a commoditized product consisting of numerous voices I\u2019d never have found otherwise. But if I were an unknown writer trying to build a career, I\u2019d at least want to go in eyes open about the conflict. Moreover, worse than being exploited through compulsory bundling and other author-hostile behavior, the entire platform could fail financially. Even with ownership of a custom domain and the subscribers email list, few paid readers may want to follow niche voices to another platform. And migrating would likely entail a lot of chaotic work just to salvage some value."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So, as a reader of numerous newsletters, I\u2019m rooting for Substack to find a better way to exploit all you authors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2021/03/30/substack-andreessen-horowitz-newsletter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.axios.com/2023/03/28/substack-community-fundraising-round"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] (paywalled) "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/back-in-the-usa-mailbag-09b/comment/13266758"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2022/substack-launches-app-substack-and-the-four-bens-in-app-purchase-and-the-substack-bundle/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[5] excerpt in "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/ditheringfm/status/1860006480994533749"
+        },
+        {
+          "type": "text",
+          "value": ", paid podcast site "
+        },
+        {
+          "type": "url",
+          "value": "https://dithering.passport.online/member/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[6] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2021/sovereign-writers-and-substack/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93313157,
+    "parent_children": 2,
+    "thread_id": 93313157,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 12.2,
+    "word_count": 571,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "free speech issues",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157099492,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-4a1",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93337983,
+    "top_level": false,
+    "date": "Feb 13 2025 18:56",
+    "likes": 1,
+    "timestamp": 1739490964,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, if Republicans truly are more aligned with Russia/Putin, relative to Democrats, then I think that would be a better narrative than Trump just being for sale to highest bidder."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although corruption may also be another area where Trump/MAGA are in strong alignment with Putin and his oligarchs. Like I don't think the EU would be open to bidding on Trump and moreover his ego is likely to large to cash in on such a hypothetical bribe from them anyways."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 93321697,
+    "parent_children": 6,
+    "thread_id": 93319278,
+    "thread_children": 8,
+    "ratio_recv": 0,
+    "ratio_give": -14,
+    "grade_level": 11.3,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": [
+      "Russia-Ukraine conflict",
+      "US politics",
+      "partisan politics"
+    ]
+  },
+  {
+    "post_id": 157099492,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-4a1",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93339233,
+    "top_level": false,
+    "date": "Feb 13 2025 19:02",
+    "likes": 4,
+    "timestamp": 1739491375,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It's still a good album, as is My Beautiful Dark Twisted Fantasy, and the albums in between. His subsequent work never held my attention, but it could just be me getting older."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 93319523,
+    "parent_children": 9,
+    "thread_id": 93319523,
+    "thread_children": 9,
+    "ratio_recv": -4,
+    "ratio_give": -12,
+    "grade_level": 8.4,
+    "word_count": 32,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 156993780,
+    "title": "Mailbag: Alternate Trump",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-alternate-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93435057,
+    "top_level": false,
+    "date": "Feb 14 2025 08:07",
+    "likes": 38,
+    "timestamp": 1739538478,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think Yglesias himself has to be careful about the explicit lines he draws. For example, bashing public sector unions (or unions in general) could brand him as a Clinton-era dinosaur focused on technocratic economic efficiency through \u201creducing government waste\u201d as a strategic response to Reaganism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "He\u2019s already staked out strong positions on immigration and gender, leading many political \"influencers\" to brand him as \u201cright-wing.\u201d Moreover, he\u2019s already known as an econ-brained wonk, so I don\u2019t think he needs to lean into this specifically."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Instead, it is our responsibility as the SB commenterati to whine and complain about the excesses of public sector unions in deeply nested comment threads."
+        }
+      ]
+    ],
+    "total_children": 16,
+    "parent_id": 93427942,
+    "parent_children": 17,
+    "thread_id": 93423456,
+    "thread_children": 59,
+    "ratio_recv": -18,
+    "ratio_give": 12,
+    "grade_level": 11.8,
+    "word_count": 109,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "labor unions",
+      "political polarization",
+      "right-wing politics"
+    ]
+  },
+  {
+    "post_id": 156993780,
+    "title": "Mailbag: Alternate Trump",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-alternate-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93436747,
+    "top_level": false,
+    "date": "Feb 14 2025 08:16",
+    "likes": 9,
+    "timestamp": 1739539013,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I spent 30 sec on Google and it seems to believe the following is a credible source, \"Oregon math, reading achievement among the nation\u2019s worst, new scores show\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.oregonlive.com/education/2025/01/oregon-math-reading-achievement-among-the-nations-worst-new-scores-show.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, Google is highlighting the following three conclusions"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Oregon's fifth graders have some of the lowest math scores in the country. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* A third of Oregon's fourth graders scored \"below basic\" on the math section of a federal test. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Oregon's students rank 42nd in the country on the National Association of Education Progress (NAEP). "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Spent another 90 sec asking ChatGPT to verify this using a PDF print out of the article. It claims the first is easily supported whereas the 2nd and 3rd are not directly supported by article text. Could be that Google is using additional sources (and I\u2019m too lazy to cross verify) or both AI-enabled systems could be engaging some mix of hallucination and nit picking each other. What an exciting AI-enabled future awaits us all!"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 93433837,
+    "parent_children": 5,
+    "thread_id": 93423456,
+    "thread_children": 59,
+    "ratio_recv": -4,
+    "ratio_give": 3,
+    "grade_level": 10.8,
+    "word_count": 156,
+    "category": "Uncategorized",
+    "tags": [
+      "educational technology",
+      "generative AI",
+      "news consumption"
+    ]
+  },
+  {
+    "post_id": 156993780,
+    "title": "Mailbag: Alternate Trump",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-alternate-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93437819,
+    "top_level": false,
+    "date": "Feb 14 2025 08:22",
+    "likes": 5,
+    "timestamp": 1739539333,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, that sounds plausible too. We\u2019re probably already putting more thought into this than Yglesias himself did when considering strategic arguments for eviscerating public sector unions in a mailbag answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I think there\u2019s value in keeping the high-level ideology flexible and letting individual voters and elected officials at various levels stake out the specific positions relevant to them. With enough flexibility, we can all remain Democrats in good standing and minimize internecine conflicts."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93436484,
+    "parent_children": 4,
+    "thread_id": 93423456,
+    "thread_children": 59,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 12.9,
+    "word_count": 74,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "labor unions"
+    ]
+  },
+  {
+    "post_id": 156993780,
+    "title": "Mailbag: Alternate Trump",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-alternate-trump",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93438506,
+    "top_level": false,
+    "date": "Feb 14 2025 08:25",
+    "likes": 13,
+    "timestamp": 1739539533,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I think Yglesias is fairly honest with us about his goal of influencing the Democratic Party. That may even be important to some of his subscribers."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe he could get away with more in a subscriber-only mailbag answer, but we also don\u2019t need him overthinking it. And, again, I\u2019m confident that we have adequate criticism of public sector unions\u2014particularly teachers and police\u2014among the SB commentators."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93437026,
+    "parent_children": 4,
+    "thread_id": 93423456,
+    "thread_children": 59,
+    "ratio_recv": null,
+    "ratio_give": -7,
+    "grade_level": 9.7,
+    "word_count": 66,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "labor unions"
+    ]
+  },
+  {
+    "post_id": 157164405,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-510",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93578678,
+    "top_level": false,
+    "date": "Feb 14 2025 18:19",
+    "likes": 22,
+    "timestamp": 1739575198,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t follow how Scott Alexander is wrapped up in this. Anyone can review the topics and content of his writing in reverse chronological order, and I\u2019m just not seeing anything relevant, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/archive"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At most he\u2019s previously expressed some criticism of the cultural, academic views of the progressives, but it\u2019s been a rare topic of his writing over the last few years. He is big on the rationalist, effective altruism stuff, but that generally isn\u2019t well aligned with the current MAGA+Tech Republicans. At best he\u2019s in favor of prediction markets, and against prior government bans, yet he remains rather agnostic on crypto. And his concerns about AI risk definitely has him at odds with the Tech people associated with the current administration."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 93569267,
+    "parent_children": 91,
+    "thread_id": 93569267,
+    "thread_children": 91,
+    "ratio_recv": -12,
+    "ratio_give": -32,
+    "grade_level": 12.7,
+    "word_count": 121,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "progressivism",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157164405,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-510",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93581758,
+    "top_level": true,
+    "date": "Feb 14 2025 18:36",
+    "likes": 11,
+    "timestamp": 1739576207,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As NYC resident, I think the best resolution to Adams/Trump corruption scandal is an alternative bribe. Like a gofundme, with Trump as the recipient, paid out once Adams is behind bars. I bet we could raise billions and who's gonna stop us?"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 93581758,
+    "thread_children": 4,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 6.4,
+    "word_count": 42,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "crime and justice",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 157164405,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-510",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93675895,
+    "top_level": false,
+    "date": "Feb 15 2025 08:44",
+    "likes": 6,
+    "timestamp": 1739627081,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, I would say his posts on \"class, art, and architecture\" are consistent with his general curiosity and skepticism about any social dogma\u2014be it associated with the right or the left\u2014as expressed in over a decade of online writing. Scott has stated his sympathy for libertarianism, particularly on social issues, with himself and many of his acquaintances being rather eccentric individuals, deviating from social norms of both the right and the left. But he also has a fair amount of appreciation for the status quo, including existing institutions and social consensus."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, he\u2019s best expressed this tension between appreciating and questioning the status quo when writing on his profession of psychiatry. He\u2019s had numerous articles that call out the absurdity in current regulation and best practices. Most recently the recension of remote psychiatry which causes serious issues for numerous patients of his. See his March 2023 article, \u201cThe Government Is Making Telemedicine Hard And Inconvenient Again.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet even in lambasting absurdity in his profession, Scott shows a fair amount of appreciation for the status quo, including both how we got here and potential harms in making changes. Eg, the risk of prescribing serious psych meds without sufficient due diligence from online pill mills. Moreover, Scott has enjoyed exploring past absurd attempts to reform psychiatry with humorous articles like \u201cBook Review: A Clinical Introduction To Lacanian Psychoanalysis\u201d, which explores this Freud-inspired, jargon-heavy, failed reframing of mental illnesses. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, I think Scott has at most been a consistent skeptic of all dogmas and politics has generally been a fringe topic in his writing. Outside of playful exploration of political thought, he only takes politics seriously when it intersects with an interest of his like psychiatry, AI risk, and prediction markets."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/the-government-is-making-telemedicine"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/book-review-a-clinical-introduction"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 93622765,
+    "parent_children": 5,
+    "thread_id": 93569267,
+    "thread_children": 91,
+    "ratio_recv": -1,
+    "ratio_give": -4,
+    "grade_level": 14.0,
+    "word_count": 294,
+    "category": "Uncategorized",
+    "tags": [
+      "mental health",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 157164405,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-510",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93698347,
+    "top_level": false,
+    "date": "Feb 15 2025 10:35",
+    "likes": 5,
+    "timestamp": 1739633717,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I appreciate that distinction, although I\u2019d still say Scott doesn\u2019t demonstrate any centrist or right-leaning bias. To the extent he has commented on \u201cwoke\u201d issues, I\u2019d say he\u2019s been quite charitable, including recognizing the very real issues addressed by the proponents framing. He was also an early supporter of transgender individuals, himself having trans friends and acquaintances in the eccentricities-supporting rationalist community. That could even be framed as a generalization of Scott\u2019s social libertarianism. Moreover, he\u2019s also castigated rightwing shibboleths as well as poking fun at the rationalist community of which he's a notable member. And lastly, none of this is a major focus of his writing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I don\u2019t think it\u2019s fair to frame him as a Trump/Musk supporter\u2014even a tepid one, or possibly just a critic of leftist excesses\u2014who\u2019s now dealing with the fallout of their actions. For AI risk alone, a major focus of Scott\u2019s dating back to years before ChatGPT put this in the public conversation, he\u2019s almost certainly more aligned with the Biden administration. While Musk has at times expressed concerns about AI risk, his behavior suggests he\u2019s more concerned about his own control and influence over Artificial Super Intelligence, than about the general harms\u2014including human extinction risk."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, see Scott\u2019s July 2023 about Musk\u2019s handling of AI risk in xAI, [1] in which he expresses strong disagreement with their strategy. Or his Sept 2023 review of a Musk biography, [2] in which Scott offers some charity in attempting to answer the question, \u201cMusk creates cognitive dissonance: how can someone be so smart and so dumb at the same time?\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I just think Scott is a valuable voice with substantial influence in SB adjacent areas and possibly even in domains that can be hostile to Democrats. Eg, Crypto and libertarianism. I think it would be a major loss for us\u2014and unfair\u2014to frame him as any type of supporter of the Trump/Musk administration. We\u2019d likely just unnecessarily narrow our tent at particularly inopportune time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/contra-the-xai-alignment-plan"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/book-review-elon-musk"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93684415,
+    "parent_children": 2,
+    "thread_id": 93569267,
+    "thread_children": 91,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.9,
+    "word_count": 332,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "free speech issues",
+      "media influence",
+      "political polarization",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93741270,
+    "top_level": false,
+    "date": "Feb 15 2025 13:48",
+    "likes": 15,
+    "timestamp": 1739645297,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Jack Dorsey is set to hoard a lot, as he has never had kids, has never married, and has only very rarely even dated"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "On the last point, Dorsey has been rumored to have been dating at least a dozen different models over the last few years. Eg, "
+        },
+        {
+          "type": "url",
+          "value": "https://pagesix.com/2021/06/07/twitter-ceo-jack-dorsey-spotted-with-swimsuit-model-flora-carter/"
+        },
+        {
+          "type": "text",
+          "value": ". Or just Google, \u201cJack Dorsey models\u201d and look at the pages of distinct images."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some say he just likes the scene, citing the fact that he was working on becoming a fashion designer before getting wrapped up in founding Twitter. And he also seeks out male celebrities (as confirmed with a different Google search). Infamously, the Square/Block acquisition of streaming platform Tidal was rumored to only serve in getting Jack more time hanging out with its founder, Jay-Z. So I doubt Jack is lacking in his love and social life, and his lack of a spouse and children demonstrates some idiosyncratic preferences."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I was a little too aware of Jack\u2019s eccentricities as a Square employee from 2019-23. I\u2019d say he\u2019s a genuinely good guy, while also being far too self-aware of his own eccentrics and leaning in to them. Many may recall his Rasputin-themed look in congressional testimonies about Twitter, or even the remote testimony with chickens clucking in the background. Those were routine in remote all hands meetings. Moreover, we also knew the chicken-raising cabin was only an hour or two walk from Twitter and Square offices in SF, and he commonly walked it to give himself more time to think. We hoped he had sufficient security\u2014not because we feared he\u2019d be kidnapped and ransomed\u2014but because he\u2019d likely quickly acclimate to his captors views and soon find himself leading some esoteric terrorist group. And he was already spread too thin with both Twitter and Square leadership responsibilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Who knows what Jack will do with his wealth. Off the top of my head, I am guessing Bitcoin advocacy. He\u2019s genuinely passionate about that, while admitting its obscene power consumption and use in scams and crime. Moreover, Jack finds other crypto projects to be a distraction from the one, true digital currency. So we could imagine the future Dorsey Foundation growing into an increasingly totalitarian NGO that forces us all to abandon fiat and lesser crypto tokens. He also has some true progressive bonafides with his complex $1 billion donation as covered in Vox\u2019s Jul 2020 article, \u201cInside Jack Dorsey\u2019s radical experiment for billionaires to give away their money\u201d. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.vox.com/recode/2020/6/11/21287395/jack-dorsey-start-small-billionaire-philanthropy-coronavirus-twitter-square-kaepernick-rihanna"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some might see some contradictions there, but I do think Jack is another techie who is chiefly a social libertarian, possibly a libertine when it comes to drugs and dating. Similar to Soros, Jack may feel conflicted in questioning whether the state and other institutions are a net positive or a net negative in facilitating individual freedom, and the possibility for reform. And he\u2019d likely prefer the freedom of anarchy\u2014with all its chaos and risks\u2014over state-ordered society should he feel it\u2019s overly constraining his or anyone else\u2019s individual life preferences."
+        }
+      ],
+      []
+    ],
+    "total_children": 14,
+    "parent_id": 93732879,
+    "parent_children": 24,
+    "thread_id": 93732879,
+    "thread_children": 24,
+    "ratio_recv": -10,
+    "ratio_give": 4,
+    "grade_level": 10.9,
+    "word_count": 496,
+    "category": "Uncategorized",
+    "tags": [
+      "cryptocurrency",
+      "progressivism",
+      "social media influence",
+      "tech industry",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93748185,
+    "top_level": false,
+    "date": "Feb 15 2025 14:20",
+    "likes": 10,
+    "timestamp": 1739647258,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although we should recall that the \u201cmanufacturing consent\u201d perspective originated in liberal and leftist circles who framed the status quo as artificially sanctifying certain atrocities. Notably, reduced civil rights for women, racial and ethnic minorities, gays and lesbians, atheists and non-Protistant theists, and other idiosyncratic identities. So I imagine we too would be disappointed with whatever contemporary consensus was created if we had more centralized media."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I think this celebration of the past media environment is at best a distraction and at worst can lead to demoralization. Yes, things have changed and it can be useful to understand and appreciate that. But no one has proposed a credible path back to centralized media and various attempts (eg, \u201cdisinformation policing\u201d) only seem to exacerbate mistrust of credible institutions and experts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To some extent Trump was the Republicans answer to their failing media strategy and the decaying Republican brand. While I hope we Democrats can do better, it's a good reminder that individuals and institutions adapt to their changing environments. I had been hearing about the predicted demise of the Republicans since before I could even vote, and that continued despite Dubbya winning two consecutive terms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I\u2019m not concerned about whether Democrats/Progressives/Liberals will adapt, but instead focused on the details of how. Yglesias and Klein have some good ideas in terms of strategy and messaging\u2014hopefully political actors can leverage those for victories. Alternatively, we should fear the \u201cJD Vance\u201d of the left, like a washed up millennial podcast host who keeps recycling Bernisms despite their ever-growing distance from reality. That could actually win a primary!"
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": 93740363,
+    "parent_children": 21,
+    "thread_id": 93731331,
+    "thread_children": 61,
+    "ratio_recv": 1,
+    "ratio_give": -8,
+    "grade_level": 12.5,
+    "word_count": 266,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "media bias",
+      "media influence",
+      "political polarization",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93752892,
+    "top_level": false,
+    "date": "Feb 15 2025 14:43",
+    "likes": 8,
+    "timestamp": 1739648625,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Truly liked Square, notably the kind and capable people, as well as the complexities of payments engineering in moving around half a billion dollars each day through millions of distinct transactions. There were certainly some tensions with Square getting deeper into regulated finance while Bitcoin was being embraced by CashApp and TBD (its literal public name; was some sort of open source Bitcoin project). Yet from that outside, that appears to be managed well enough. And it certainly would be great if Square could cut out the card issuing banks with all their fees and requirements\u2014even if it requires something as absurd as Bitcoin."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Definitely gave me some appreciation for the robustness of the US financial system despite all complexity for idiosyncratic and legacy reasons. Eg, much of the world has faster and cheaper instant payments than the US, but that\u2019s because they developed later and didn\u2019t have to drag around support for settling checks and credit cards via mailing cashier-written bills. Those were increasingly digitized, but the infrastructure developed for electronic settlement of in person debit and credit payments was repurposed for ecommerce, which constrained instant payments to yet new layers such as PayPal, Venmo, CashApp, and Zelle."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Patrick McKenzie has some excellent writing on the intersection of institutions, regulations, and tech in the context of payments, finance, and more in his Bits about Money newsletter, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bitsaboutmoney.com/"
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 93742088,
+    "parent_children": 10,
+    "thread_id": 93732879,
+    "thread_children": 24,
+    "ratio_recv": -2,
+    "ratio_give": 3,
+    "grade_level": 14.4,
+    "word_count": 228,
+    "category": "Uncategorized",
+    "tags": [
+      "cryptocurrency",
+      "financial regulation",
+      "tech industry",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93753848,
+    "top_level": false,
+    "date": "Feb 15 2025 14:48",
+    "likes": 10,
+    "timestamp": 1739648915,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Unrealistic expectations seem to cause problems for partisans all throughout the political spectrum. At times that can lead to demoralization. Alternatively, it can lead to manic obsession in their quixotic pursuits. Both modes of behavior lead to political failure and can be harmful to the afflicted individuals. Worse, they create liabilities for their broader political movements with extremists fueling negative polarization towards their opponents."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 93751589,
+    "parent_children": 3,
+    "thread_id": 93731331,
+    "thread_children": 61,
+    "ratio_recv": -8,
+    "ratio_give": -1,
+    "grade_level": 13.1,
+    "word_count": 65,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "partisan politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93778610,
+    "top_level": false,
+    "date": "Feb 15 2025 16:57",
+    "likes": 5,
+    "timestamp": 1739656676,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That roughly mirrors my experience as a grad student from 2008-13, including three semesters as a teaching assistant. So you have my condolences and I hope you can either find acceptance, even meaning, despite disengaged students and political tribalism. Or leave\u2014no shame in that. I\u2019ve yet to regret leaving for tech immediately after defending\u2014for years I even wished I had just dropped out one or two years into that five year endeavor. At most I may have some advice for handling disengaged students because I too never cared for classes* nor for my own TA responsibilities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, it was easy for me to accept my students' lack of interest and engagement. My approach could best be described as benign neglect. For labs, that required occasionally verifying no one was doing anything too stupid (but I was a theorist so I was likely as ignorant as the undergrads). For office hours, I\u2019d gladly work with students to help them with their coursework, for the allotted time, but they generally had to guide the process because I was at best vaguely aware of course materials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I wouldn\u2019t recommend totally checking out, there may be some value in recognizing the individuality in your students. I actually had some well-engaged undergrads that challenged me to explain certain nuances of statistical mechanics and chemical physics. We both appreciated those interactions and I imagine these individuals are doing well with whatever academic and career path they choose. Other students may have been more focused on different courses or just better preparing for internships and their first job out of school. Moreover, there is variation among individual students over time. Even if someone is too focused on socializing (or worse TikTok) this semester, they may grow bored with that as they finally find some engagement with a specific class, possibly due to the idiosyncrasies of the teacher. Hence, we needn\u2019t be overly concerned with students who are currently disengaged with your current classes\u2014you can still feel gratitude and appreciation for the occasionally engaged ones."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I hope your situation improves\u2014even if it requires some deliberate ambivalence about students, or even leaving."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*As both an undergrad and grad student I spent more time arguing with professors about why I ignored assignments or purposely turned in trash work than it would\u2019ve taken me to do a decent job. As I repeatedly argued, at most this would drop me to a B. At some level I believe both the professors and I enjoyed this\u2014at times I was even rewarded with better grades than I deserved. Notably, a hardass, defense-fund, immigrant professor in undergrad singled me out in announcing to our seminar class that I was getting a B only because my unrelated research was going well. He too may have resented having to teach such generally ungrateful students at the expense of his own serious research endeavors."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 93749042,
+    "parent_children": 27,
+    "thread_id": 93749042,
+    "thread_children": 27,
+    "ratio_recv": -2,
+    "ratio_give": -12,
+    "grade_level": 11.8,
+    "word_count": 478,
+    "category": "Uncategorized",
+    "tags": [
+      "education reform",
+      "higher education",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93782730,
+    "top_level": false,
+    "date": "Feb 15 2025 17:21",
+    "likes": 17,
+    "timestamp": 1739658087,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. If need more copium, we could hope that Musk is at least partially right in that DOGE* is actually defunding some of these NGOs that attack and mislead Democrats. In theory that could weaken their influence in our coalition."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*I'm feeling increasingly resentful in having to refer to this meme-named group of broken toys as if it were a serious political project."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 93749467,
+    "parent_children": 9,
+    "thread_id": 93739900,
+    "thread_children": 34,
+    "ratio_recv": -8,
+    "ratio_give": -3,
+    "grade_level": 10.3,
+    "word_count": 63,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "media influence",
+      "partisan politics",
+      "political polarization",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93784620,
+    "top_level": false,
+    "date": "Feb 15 2025 17:32",
+    "likes": 6,
+    "timestamp": 1739658746,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Funny you should mention that because I remember an incident where Square did remove the tipping screen by default, not deliberately, but due to a bug, and merchants revolted. See \"Workers lost out on hundreds in tips after a payments system glitched\" "
+        },
+        {
+          "type": "url",
+          "value": "https://www.businessinsider.com/square-software-glitch-cost-workers-hundreds-dollars-tips-2021-9"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was already an option to skip the tipping screen and some merchants use that. But after that incident, I doubt Square or any other point-of-sale provider could exert influence away from tipping. Merchants, their workforce, and customers just expected a cost structure that included tipping."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It could be argued that modern POS terminals encouraged tipping, whereas previously this required explicit action on paper receipt or giving cash. Yet I don't think that was deliberate\u2014at most an accident of history where early adopters of modern POS terminals, like boutique coffee shops, had tipping as an expectation. It may even be the mainstreaming of such boutique merchants\u2014at the expense of national brands like Dunken, McD\u2019s, and Starbucks\u2014that drove the expectation of tipping."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 93781142,
+    "parent_children": 3,
+    "thread_id": 93732879,
+    "thread_children": 24,
+    "ratio_recv": -2,
+    "ratio_give": 2,
+    "grade_level": 12.4,
+    "word_count": 163,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "consumer behavior",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93809842,
+    "top_level": false,
+    "date": "Feb 15 2025 20:06",
+    "likes": 4,
+    "timestamp": 1739667971,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, as far as CEOs of publicly traded companies go, I liked Jack\u2014although I was just a low-level employee, it would've been different to have someone like that for a manager. He was always candid, including leaning into concerns employees raised like Bitcoin wasting energy and difficulties with remote work. Moreover, Jack never felt the need to use any overly HR/legal language in either internal or external communication. I was always confident that I knew Jack\u2019s thinking and what he was planning."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, he was increasingly removed from day to day operations and instead more of \u201cChief Shaman\u201d, focused on making a few high conviction bets on big questions like the role of Bitcoin and our commitment to remote work post pandemic. Both insiders and outsiders recognized that our CFO, Amrita Ahuja, was running the company. She was even formally made CFO/COO in Feb 2023."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I can certainly appreciate how many people could view Jack as just another lucky techie who is now empowered to embrace his deepest eccentricities. But he truly did get a lot right in the founding and early leadership of Square. Notably he recognized the challenges in getting a merchant banking account to process credit cards in terms of time and money, and Jack was able to leverage his Twitter fame to raise the massive amounts of capital needed to build a new financial services firm that could own the risk of self-service credit card processing. While that was before my time at Square, I can certainly recognize just how difficult and expensive it was to build a sufficiently certified and capitalized firm that could be trusted with this responsibility."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even later decisions like creating CashApp (initially Square Cash) in 2013 to address the needs of unbanked consumers with a growing number of financial services seems prescient in retrospect. (Particularly it\u2019s an exciting alternative for credit/debit cards from the perspective of a payments processor that intermediates the large transaction fees from card issuing banks.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, he certainly built a powerhouse of a leadership team\u2014eg, the aforementioned Ahuja\u2014throughout all functions. From my perspective, Square was always a high performance organization throughout all teams. For example, HR services were easy to work with in terms of worker needs (eg, requesting Jury Duty leave) and that team was thoughtful in terms of the extra work it created in annual training requirements. Similarly, recruiting, finance, legal and other teams had capable professionals that were always pleasant to work with."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe Jack is now slipping with his fascination with Bitcoin. Or maybe he\u2019ll prove prescient a decade from now should it actually serve as a major currency of exchange. He may even be losing interest with reporting of \u201cJack Dorsey dramatically scales back crypto ambitions for Block\u201d. [1] That could suggest he\u2019s unwinding a failed bet so Block can better focus elsewhere. So who knows. And similar to Musk, I wouldn\u2019t blindly bet against either of these eccentric individuals. They may be wrong, but I\u2019ll want to have my own thoughtful, strong convictions before blindly dismissing them as crazy idiots."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cnbc.com/2024/11/08/jack-dorsey-dramatically-shutters-blocks-tbd-crypto-unit.html"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 93780707,
+    "parent_children": 2,
+    "thread_id": 93732879,
+    "thread_children": 24,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 11.6,
+    "word_count": 510,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "cryptocurrency",
+      "entrepreneurship",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157208040,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-325",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93882961,
+    "top_level": false,
+    "date": "Feb 16 2025 08:29",
+    "likes": 3,
+    "timestamp": 1739712556,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t have a particularly informed opinion about Stripe; just sense a positive vibe from their users in the tech community. Moreover, I primarily think of them in contrast to Adyen, a European-based, modern payments platform that is increasingly finding itself in competition with Stripe as both strive to be a global payments platform. Here\u2019s a paywalled Aug 2023 Stratechery article titled \u201cAdyen Earnings, Adyen\u2019s European Context, Adyen vs. Stripe\u201d that well aligns with my understanding, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2023/adyen-earnings-adyens-european-context-adyen-vs-stripe/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I know Square also has a platform offering, but I don\u2019t appreciate their positioning in terms of payments vs. more general retailer infrastructure. Eg, Stripe vs. Shopify\u2014where Shopify largely uses Stripe (or alternatives like AmazonPay) for payments. I imagine a retailer could use either Square or Shopify as a minimalistic platform, largely to deal with payments and billing. But I believe they\u2019d want to use more of the retail platform because if they were building their own bespoke ecom site or in-person point-of-sale software, they\u2019d just use Adyen or Stripe for payment primitives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And in the US they may even benefit from using a cheaper, legacy payment provider, which includes basically every notable commercial bank. As noted in the aforementioned Stratechery article, US payments processing has been commoditized for decades because there are only three card networks of any significance and no noteworthy state-specific regulations. In contrast, each European country has its own banks, its own payment networks and its own regulations, in addition to EU-level regulations. Hence, Adyen was able to thrive on abstracting away this complexity for multi-country European merchants. Whereas Stripe, similar to Square, took on the regulatory and financial risk of allowing self-serve payments to small merchants and quickly had to add additional value (even just modern APIs and management UIs) to outcompete legacy providers with lower costs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I imagine Yglesias and other Substack authors could comment on the Stripe processing fees of 2.9% + $0.30, [1] which is an addition to Substack\u2019s 10% cut. That fixed cost of $0.30 can quickly add up for low-dollar value transactions and for subscriptions can justify an annual discount on its own. In contrast, Ayden uses \u201cInterchange++ pricing\u201d, [2] where the merchant is exposed to the variable costs of different cards, issued by different banks, which is generally cheaper than the blended cost of Stripe. There are still fixed costs for each payment and moreover the merchant also has to pay the costs associated with refunds and chargebacks. Just at sufficient scale it\u2019s sensible to internalize those costs, including minimizing the risks of refunds and chargebacks by being a trustworthy retailer. Stripe, Adyen, and Square may be passing on some of those costs, but more importantly, they need to drop bad merchants lest the platform fall into conflict with the card networks and card-issuing banks. You certainly don\u2019t wanna mess with Visa or JP Morgan Chase, because, as large, highly-regulated financial institutions, they\u2019ll always be in the right."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://support.substack.com/hc/en-us/articles/360037607131-How-much-does-Substack-cost"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.adyen.com/pricing/"
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 93843116,
+    "parent_children": 3,
+    "thread_id": 93732879,
+    "thread_children": 24,
+    "ratio_recv": -2,
+    "ratio_give": 0,
+    "grade_level": 11.5,
+    "word_count": 486,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "financial markets",
+      "financial regulation",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157261832,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-ba1",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93944703,
+    "top_level": true,
+    "date": "Feb 16 2025 13:06",
+    "likes": 68,
+    "timestamp": 1739729215,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could you elaborate on your recent tweet, \u201cI\u2019ve had fun with a lot of AI products, but Deep Research is the first one that\u2019s meaningfully changing how I work.\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/mattyglesias/status/1891100523912179897"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d particularly be curious about what convinced you to pay $200/month and how the results of your own experimentation led you towards changing your workflow. And how has your work process evolved to incorporate Deep Research?"
+        }
+      ],
+      []
+    ],
+    "total_children": 4,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 93944703,
+    "thread_children": 4,
+    "ratio_recv": -67,
+    "ratio_give": null,
+    "grade_level": 10.6,
+    "word_count": 65,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157261832,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-ba1",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94109539,
+    "top_level": false,
+    "date": "Feb 17 2025 08:31",
+    "likes": 2,
+    "timestamp": 1739799101,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although as an expense, it just subtracts from net revenue, only a portion of which is taxed. I.e., the age-old \u201cthey can just write it off\u201d ignores the very real loss in income, only a portion of which is mitigated by lower taxes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I believe Yglesias has already commented on the preferential tax treatment that his family receives as independent business owners, some of which can be attributed to legislation passed under the previous Trump administration. I\u2019d be disappointed to learn that they\u2019re the type of small business owners who prioritize minimizing taxes above responsible financial management of a lucrative business."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Experimenting with novel tools and work processes is an important part of owning a business and that can include running the numbers to determine the net financial cost. Yet, I imagine Matt, Kate, Ben and the rest of the SB team are primarily limited by time and attention\u2014and experimenting with Generative AI can consume a fair amount of both in my experience.  Actually incorporating it into one\u2019s work process can take up further time and attention as we need to adapt how we think and behave, including some retraining of our intuitive, subconscious mind. That can be frustrating, but I\u2019ve found it valuable in my software engineering work, including coding and writing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I even run most of my SB comments through a simple prompt* because I appreciate the feedback. I assume most SB readers could stand some spelling and grammar mistakes, but I\u2019m finding myself making fewer with the spaced repetition of AI feedback. Moreover, I at times ask for feedback in terms of brevity (obviously skipped for this run-on comment) and word choice. Not only does that improve my future writing, but it also helps clarify and simplify my own thinking outside of writing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, even without ChatGPT-feedback, I imagine I\u2019m mainly looking to communicate a bit about my own experience with Gen AI tools and my excitement to learn from Matt, Kate, Ben, and other members of the SB staff. Would also appreciate hearing from the greater SB community. There may be some tips and tricks we could all appreciate. Lastly, I myself am not yet paying $200/mo for ChatGPT Pro, but I\u2019m hearing great things from both credible sources (Stratechery newsletter [1] and now Matt) as well as way too much chatter on Twitter. I\u2019m less concerned about the money (because I can always downgrade) than spending the time and attention on a exceptionally novel and complex tool, particularly if I don\u2019t yet have a plausible use."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Preface text w/ \u201cFix spelling, grammar, and punctuation in the following without changing the message, tone, or style.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] free article, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2025/deep-research-and-knowledge-value/"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94099657,
+    "parent_children": 3,
+    "thread_id": 93944703,
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 12.4,
+    "word_count": 444,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "generative AI",
+      "software engineering",
+      "tax policy"
+    ]
+  },
+  {
+    "post_id": 157076905,
+    "title": "Happy Presidents' Day! ",
+    "canonical_url": "https://www.slowboring.com/p/happy-presidents-day-0ff",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94116820,
+    "top_level": false,
+    "date": "Feb 17 2025 09:08",
+    "likes": 33,
+    "timestamp": 1739801285,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, the Founding Fathers, including Washington, were all too aware of the risks of a tyrannical ruler, given their recent War of Independence. Moreover, Washington was specifically asked to play the role of first president due to his long, virtuous track record. I recall reading that Washington may have been the only person who could sufficiently sanctify the new Constitution with the unanimous acceptance of the state representatives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More broadly, I also think we should recall that they were drafting a new Constitution to address the early issues discovered with the weaker national government established under the Articles of Confederation, which hadn\u2019t even been in effect for a decade. It is my understanding that this was a general challenge during the Revolutionary War period\u2014finding the balance between anarchy and tyranny to create a government with sufficient state capacity to act, yet with enough checks and balances to avoid a dictator."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some states initially created weak executives, placing power in various committees and congresses in their founding governments shortly after declaring independence. Yet those governments were found to be exceptionally dysfunctional, particularly when it came to organizing and funding militaries to contribute to the war. Some of that was managed by the central Continental Congress, yet many state representatives were paranoid about ceding too much authority to what could become yet another tyrannical ruler."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This created quite the mess when the war ended\u2014notably, the various currencies and bonds issued by different governments and the question of who would defend the newly independent states. Some states quickly ran into issues, such as Shays\u2019 Rebellion in Massachusetts against state taxation. Massachusetts alone struggled to contain the uprising, and there was fear it could grow to destabilize all of New England. Thankfully, private funding by merchants allowed the state to raise a sufficient militia to defeat the rebellion before it turned into an actual civil war."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So the drafters of the Constitution were attempting to balance multiple concerns, influenced by recent experience with weak state and national governments. Moreover, they were operating under the constraints of divided state interests and continued paranoia about ceding authority only to empower a new tyrant. Lastly, time was of the essence\u2014who knew where the next crisis would come from, possibly even renewed hostilities with Britain should they sense vulnerabilities?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "All in all, the Founders did quite well given their constraints. And they were empowered to act with the universally admired Washington offering to sanctify the new government by serving as the first president. He recognized the weight of duty he took on. Moreover, we\u2019d have quickly killed him with a reenactment of the assassination of Julius Caesar had we sensed the rise of a new tyrant. The near contemporary experience of revolutionary France suggests we were quite fortunate all things considered."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 94093240,
+    "parent_children": 19,
+    "thread_id": 94093240,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": -69,
+    "grade_level": 13.5,
+    "word_count": 463,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "historical analysis",
+      "political polarization",
+      "right-wing politics"
+    ]
+  },
+  {
+    "post_id": 157076905,
+    "title": "Happy Presidents' Day! ",
+    "canonical_url": "https://www.slowboring.com/p/happy-presidents-day-0ff",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94159358,
+    "top_level": false,
+    "date": "Feb 17 2025 11:56",
+    "likes": 7,
+    "timestamp": 1739811403,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although I think all developed countries are still figuring out how to balance concentrated economic power with respect to political power. For example, in CCP China, billionaires disappear at times, commonly reemerging months later with a renewed commitment to Xi Jinping Thought. Conversely, in the U.S., billionaires commonly make large political contributions, and one recently bought his way into the administration\u2014Trump\u2019s Crypto & AI Czar, David Sacks, for reference. The narrative around Musk is likely far weirder."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The challenge seems related to the Madisonian insight that only power can check power. In the economic realm, free-market idealists hope for competition among economic actors with minimal rules\u2014although they still want a state actor enforcing those rules with its \u201cmonopoly on violence.\u201d Yet the minimalist rule set seems to lead to consolidated economic monopolies or, at best, oligopolies, with economic actors purchasing political power to defend their interests\u2014defeating even the minimalist constraints on their actions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Conversely, too much state intervention can result in economic stasis and falling behind peers in technological development. Not only does that impact material well-being and lead to resentment among the populace, but it can also diminish military might and make a nation vulnerable to foreign pressure. That seems to be well accepted in the broader narrative of why the USSR collapsed. The contemporary debate on whether Western European countries, notably Germany, are following a novel yet similar path to decline and collapse is far more contentious."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So in some ways, we too are just as ignorant as the Founders in addressing these concerns of industrial society\u2014despite having over two additional centuries of relevant history to draw from."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 94103455,
+    "parent_children": 2,
+    "thread_id": 94092197,
+    "thread_children": 42,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 13.8,
+    "word_count": 270,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "international relations",
+      "political polarization",
+      "trust in institutions"
     ]
   }
 ]
