@@ -58035,7 +58035,7 @@
     "id": 93944703,
     "top_level": true,
     "date": "Feb 16 2025 13:06",
-    "likes": 68,
+    "likes": 69,
     "timestamp": 1739729215,
     "body": [
       [
@@ -58061,7 +58061,7 @@
     "parent_children": null,
     "thread_id": 93944703,
     "thread_children": 4,
-    "ratio_recv": -67,
+    "ratio_recv": -68,
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 65,
@@ -58158,7 +58158,7 @@
     "id": 94116820,
     "top_level": false,
     "date": "Feb 17 2025 09:08",
-    "likes": 33,
+    "likes": 36,
     "timestamp": 1739801285,
     "body": [
       [
@@ -58204,7 +58204,7 @@
     "thread_id": 94093240,
     "thread_children": 19,
     "ratio_recv": null,
-    "ratio_give": -69,
+    "ratio_give": -76,
     "grade_level": 13.5,
     "word_count": 463,
     "category": "Uncategorized",
@@ -58257,9 +58257,9 @@
     "parent_id": 94103455,
     "parent_children": 2,
     "thread_id": 94092197,
-    "thread_children": 42,
+    "thread_children": 44,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -7,
     "grade_level": 13.8,
     "word_count": 270,
     "category": "Uncategorized",
@@ -58269,6 +58269,620 @@
       "international relations",
       "political polarization",
       "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 157064043,
+    "title": "Democrats don't need more \"infrastructure\"",
+    "canonical_url": "https://www.slowboring.com/p/democrats-dont-need-more-infrastructure",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94339501,
+    "top_level": false,
+    "date": "Feb 18 2025 07:08",
+    "likes": 8,
+    "timestamp": 1739880534,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To the extent that a more SB-aligned think tank is needed, is Yglesias the right person to build, lead, and manage it? I recall him expressing some disinterest in those responsibilities\u2014based on his Vox experience\u2014in an SB article or mailbag answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even if he could do it well enough, is that his comparative advantage relative to more writing, research, and targeted networking? I.e., consider the opportunity costs. I imagine there are numerous people in Yglesias' orbit with the r\u00e9sum\u00e9, aptitude, and interest to do that job at least as well as he could. If anything, the abundance agenda coalition likely has an excess of competent leadership, management, and coordination professionals."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 94332945,
+    "parent_children": 5,
+    "thread_id": 94332945,
+    "thread_children": 5,
+    "ratio_recv": 5,
+    "ratio_give": -4,
+    "grade_level": 11.6,
+    "word_count": 110,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy"
+    ]
+  },
+  {
+    "post_id": 157064043,
+    "title": "Democrats don't need more \"infrastructure\"",
+    "canonical_url": "https://www.slowboring.com/p/democrats-dont-need-more-infrastructure",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94354019,
+    "top_level": false,
+    "date": "Feb 18 2025 08:38",
+    "likes": 5,
+    "timestamp": 1739885880,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yglesias could probably turn A Common Sense Democrat Manifesto [1] and associated articles into a short, self-published book fairly easily. Richard Hanania is doing something similar with his Elite Human Capital book, and he makes a strong case for why it\u2019s not worth investing the additional time in a traditionally published book. [2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ben Thompson, however, was the OG in this space with his 2017 free article, Books and Blogs [3], where he explains why he won\u2019t dedicate the time to writing a proper book that collects and organizes key ideas from his paid newsletter. Moreover, Thompson chose to keep his general articles free for marketing purposes and his site has curated topic collections that function similarly to a self-published book made up of prior free newsletter articles."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yglesias could take a similar approach, organizing his manifesto articles as a self-published book and also as a free guide to Yglesias Thought. Both could be useful marketing tools to attract more subscribers and also to influence the Democratic Party. However, a traditionally published book would likely demand too much of his time and attention for the limited additional benefits in terms of both financial returns and influence."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/a-common-sense-democrat-manifesto"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.richardhanania.com/p/announcing-book-on-elite-human-capital"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/books-and-blogs/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 94335681,
+    "parent_children": 5,
+    "thread_id": 94335681,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 13.0,
+    "word_count": 199,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "business strategy",
+      "media influence",
+      "subscription models"
+    ]
+  },
+  {
+    "post_id": 157064043,
+    "title": "Democrats don't need more \"infrastructure\"",
+    "canonical_url": "https://www.slowboring.com/p/democrats-dont-need-more-infrastructure",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94359051,
+    "top_level": false,
+    "date": "Feb 18 2025 09:02",
+    "likes": 13,
+    "timestamp": 1739887349,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d say this article presents a more nuanced framing:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A) Democrats in safe seats represent constituencies that are to the left of the median Democrat, so it isn\u2019t particularly important for them to know or appreciate the difference."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "B) In contrast, Democrats in competitive races generally understand and appreciate some of these differences\u2014perhaps only qualitatively\u2014but they risk attacks from their left flank (including the potential funding of a primary challenger) if they adopt a more electorally optimal position."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, left-leaning influencers and funders who target moderate-leaning Democrats use these biased statistics to justify their actions, with little regard for accuracy."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94333518,
+    "parent_children": 7,
+    "thread_id": 94333518,
+    "thread_children": 7,
+    "ratio_recv": -11,
+    "ratio_give": -3,
+    "grade_level": 18.6,
+    "word_count": 100,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "media bias",
+      "partisan politics",
+      "political campaigns"
+    ]
+  },
+  {
+    "post_id": 157422891,
+    "title": "Tuesday Thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-624",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94478644,
+    "top_level": true,
+    "date": "Feb 18 2025 17:18",
+    "likes": 10,
+    "timestamp": 1739917116,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Once again gonna plug my preferred daily news show, Bloomberg Surveillance, because this morning episode did a great job summarizing all of the Trump/Vance/Europe/Russia chaos with appropriate passion, yet framed in grounded economic analysis, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=P3_gPtO_U-w"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Just the ~5 min opening segment summarizes numerous events with the anchors\u2019 characteristic excitement, brevity, and focus on likely impact through a financial markets lens. Even their first guest, an outside financial strategist, presents his own reasonable narrative on global economic impact with some charm, yet again grounded in cold, calm market positioning."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I am increasingly appreciating this style of reporting as the new Trump administration leans into chaos and controversy. We viewers still know the day-by-day events, reported with adequate excitement and even bewilderment, yet subdued with humor and the anchors\u2019 admissions of uncertainty. All ultimately tied the reality of quantitative impact on markets, including bemused pondering on why markets can remain calm and \u201csee through\u201d yet another unprecedented move by the recent administration."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I highly recommend Surveillance (even just the opening segment) if you\u2019d like to remain engaged with the news without losing your sanity."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 94478644,
+    "thread_children": 5,
+    "ratio_recv": -7,
+    "ratio_give": null,
+    "grade_level": 17.4,
+    "word_count": 181,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "financial markets",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 157217679,
+    "title": "America stopped caring how poor kids do in school",
+    "canonical_url": "https://www.slowboring.com/p/america-stopped-caring-how-poor-kids",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94595916,
+    "top_level": false,
+    "date": "Feb 19 2025 08:17",
+    "likes": 19,
+    "timestamp": 1739971058,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I partially agree as another non-parent that also cares about education. Yet at the margin, it seems reasonable to assume a lower rate of parenthood will reduce concern for education\u2014particularly in the pragmatic framing of how this actually affects one\u2019s own children. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A repeated example from these education reform articles, many progressive activists ostentatiously care about education, but not necessarily in quantitative, outcome-based framing. Some of their policy changes are even counterproductive. While many parents can be similarly misguided (eg, prioritizing religious and cultural values above academics), we\u2019d hope one\u2019s actual children generally ground their educational concerns in more pragmatic politics."
+        }
+      ]
+    ],
+    "total_children": 21,
+    "parent_id": 94585371,
+    "parent_children": 55,
+    "thread_id": 94581263,
+    "thread_children": 115,
+    "ratio_recv": -10,
+    "ratio_give": -11,
+    "grade_level": 15.9,
+    "word_count": 101,
+    "category": "Uncategorized",
+    "tags": [
+      "activism",
+      "education reform",
+      "progressivism",
+      "social justice"
+    ]
+  },
+  {
+    "post_id": 157217679,
+    "title": "America stopped caring how poor kids do in school",
+    "canonical_url": "https://www.slowboring.com/p/america-stopped-caring-how-poor-kids",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94606234,
+    "top_level": false,
+    "date": "Feb 19 2025 09:03",
+    "likes": 5,
+    "timestamp": 1739973814,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t think we even need the socially-contentious genetic framing* to accept the self-evident fact that people differ in their aptitudes and that there are limits to extent education can teach capabilities to each person. Moreover, beyond some basic literacy, numeracy, and civic/historical knowledge, it isn\u2019t useful to frustrate anyone with further instruction when they\u2019re unlikely to pursue related professional or hobbyist interests. In my lay person opinion, I imagine it only builds resentment against school and could promote antisocial behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "An alternative approach is to introduce vocational education options for high school students. My public high school offered such programs (eg, automotive or HVAC technician) in conjunction with a local community college. It also included courses that could be used towards an associate degree for clerical or medical careers. I knew several students that were thrilled to forgo \u201cbullshit\u201d courses to actually study something they were interested in and could allow them to earn more money after graduating."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There was even a related work-study program whereby students could forgo some credit-hours to work at a qualifying employer after sufficient, related vocational courses. With additional part-time work at the same firm, they could build significant professional experience while earning real money (relative to the minimum wage jobs available to teenagers)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "One acquaintance of mine was even able to use this program to become a low-level manager at a new corporate, mega-gas-station (I believe \u201cGo Go\u2019s\u201d, a predecessor to Buckey\u2019s) once he turned 18. With some additional part-time community college he would soon complete some business associate degree and then intended to start on a part-time MBA program\u2014both paid for by the firm. He was genuinely excited about this new, growing business and had developed his own obsessive interests about lame concepts such as corporate accounting."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Although early SB interview guest Kathryn Paige Harden has shown there is strong evidence for genetic influences on academic capabilities in her thoughtful book \u201cThe Genetic Lottery\u201d. That includes gene-correlated aptitude differences in biological siblings\u2014who only share 50% of their genes\u2014as can differ substantially just due to this random shuffling of chromosome pairs. See "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/interview-with-kathryn-paige-harden"
+        }
+      ],
+      []
+    ],
+    "total_children": 8,
+    "parent_id": 94586878,
+    "parent_children": 31,
+    "thread_id": 94586878,
+    "thread_children": 31,
+    "ratio_recv": 2,
+    "ratio_give": -5,
+    "grade_level": 15.4,
+    "word_count": 349,
+    "category": "Uncategorized",
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
+  },
+  {
+    "post_id": 157217679,
+    "title": "America stopped caring how poor kids do in school",
+    "canonical_url": "https://www.slowboring.com/p/america-stopped-caring-how-poor-kids",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94606572,
+    "top_level": false,
+    "date": "Feb 19 2025 09:04",
+    "likes": 3,
+    "timestamp": 1739973899,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Similarly, I knew a guy four years my senior, who was a notorious drinking and academic screwup, who was one of my manager\u2019s a corporate McD\u2019s two years after his high school graduation. Doubt he even did such a vo-tech program, but the real world responsibilities and opportunities of even a BS fast-food job focused him. He also took advantage of employer-provided, part-time community college and was already into the MBA course work. Still liked to drink and could be quite the fun dude, but within reason, and he combined that with a serious focus on what it actually took to run that store."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, I think that for many people, real world education and responsibilities are useful for many teens\u2014both in terms of their post-graduation employment and focusing a young mind on something that actually matters to them."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 94606234,
+    "parent_children": 8,
+    "thread_id": 94586878,
+    "thread_children": 31,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 14.2,
+    "word_count": 140,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "education reform",
+      "entrepreneurship",
+      "higher education"
+    ]
+  },
+  {
+    "post_id": 153269486,
+    "title": "The Full Common Sense Democrat Manifesto",
+    "canonical_url": "https://www.slowboring.com/p/the-full-common-sense-democrat-manifesto",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94717990,
+    "top_level": false,
+    "date": "Feb 19 2025 16:15",
+    "likes": 2,
+    "timestamp": 1739999727,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Possibly, but the future is deeply uncertain\u2014a fact that\u2019s always hard to appreciate during turbulent times. Yet history is filled with fears of collapse or tyranny, most of which failed to materialize."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, this is still just the cult of Trump, and he is poised for a Biden-esque deterioration with age. He has no anointed successor, and it doesn\u2019t appear that anyone can similarly capture the adoration of Republican voters or command the same fealty from Republican politicians. Trump\u2019s decline\u2014whether pre- or post-presidency\u2014will almost certainly involve internecine conflicts and a weaker coalition. Notably, the conflict between the Tech Right and MAGA will escalate into a hot war as members of each faction fight for control of the party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So yes, the next few years will be chaotic, and there are some real tail risks. Yet there\u2019s no value in speculating about how bad these risks could be because they are truly unknowable. Doing so even risks demotivation and distraction, weakening our ability to respond to both the good and the bad\u2014both as individuals and as a competing political coalition."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 94690723,
+    "parent_children": 2,
+    "thread_id": 94690723,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 11.1,
+    "word_count": 179,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "partisan politics",
+      "political polarization",
+      "right-wing politics"
+    ]
+  },
+  {
+    "post_id": 157493332,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-60b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94733712,
+    "top_level": true,
+    "date": "Feb 19 2025 17:22",
+    "likes": 11,
+    "timestamp": 1740003775,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d recommend checking out the three-part docudrama The World Wars, available on Amazon Prime: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/gp/video/detail/B00KA4W5OA/ref=atv_dp_share_cu_r"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s a History Channel production,* and I generally find this docudrama genre overly sensational\u2014at times taking too many creative liberties, often distorting the actually interesting historical narrative. Yet I\u2019m finding this series quite engaging while accurately telling the broad story of the two world wars. Yes, it is U.S.-centric\u2014e.g., framing the Allies\u2019 victory in WWI as \u201cAmerica and its allies\u201d\u2014but it\u2019s fairly subtle. I can even appreciate our U.S.-centric parochialism in this media product, even in the context of a European war."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, this series challenges and expands our contemporary American narrative about the world wars. I imagine that many of us, like myself, mainly see WWI as, at best, a prelude to WWII\u2014or possibly just another long-forgotten European war. Yet the two wars are deeply connected\u2014both through contingent events and notable figures. Chiefly, the Treaty of Versailles both failed to satisfy the victors and imposed draconian conditions on Germany. I believe Europeans appreciate this more so than Americans\u2014due to far greater impact on Europe than the US\u2014and they continue to refer to WWI as \u201cThe Great War\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Notably, this series does an excellent job following Churchill, Hitler, FDR, Patton, MacArthur, Stalin, and Mussolini through both wars. It provides important historical context on how each of these titans of WWII was shaped by their experiences in WWI. We also see the interwar period, including Hitler\u2019s and Mussolini\u2019s rise to power\u2014contextualized by how each of their nations was influenced by the war and its outcomes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, I haven\u2019t noticed any significant distortions of historical facts. If anything, the docudrama format enhances our appreciation of the novel brutality of WWI and how it created the conditions and personalities that led to WWII. That includes following Hitler\u2019s rise from obscurity\u2014how low-level military service provided meaning to this wayward loser, and how Germany\u2019s loss shattered that, creating the passionate psychopath we all know today. Similarly, we see Churchill following a nearly opposite path: the prodigal son of an aristocratic family developing a daring naval strategy as the youngest First Lord of the Admiralty\u2014only to resign in disgrace after this disastrous Gallipoli Campaign he orchestrated."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m roughly half way through the series and am excited to finish it. I\u2019d recommend checking this series out if you\u2019re looking for an engaging distraction from current events."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*More details about the show: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.history.com/shows/the-world-wars"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 94733712,
+    "thread_children": 8,
+    "ratio_recv": -3,
+    "ratio_give": null,
+    "grade_level": 11.9,
+    "word_count": 398,
+    "category": "Uncategorized",
+    "tags": [
+      "historical analysis",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 157493332,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-60b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94737034,
+    "top_level": false,
+    "date": "Feb 19 2025 17:37",
+    "likes": 16,
+    "timestamp": 1740004650,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. I\u2019ve largely come to accept the narrative that Stewart was worse than his targets in the mainstream media because he would always retreat to \u201cI\u2019m just a comedian\u201d while regularly commenting on politics. At times, he\u2019d take a more serious tone\u2014as if to break the fourth wall and drop the act\u2014yet it was still the same mind figuring out how best to communicate his views, whether for entertainment value, advancing policies, or just basic narcissism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More broadly, and with the benefit of hindsight, The Daily Show and The Colbert Report increasingly look like Fox News for millennials. The leading personalities of each developed the same parasocial relationships with their audiences, built on a critique and contempt for mainstream politics and institutions\u2014including \u201cthe media won\u2019t tell you this.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although there is a notable difference: Fox News had a far dumber and more paranoid audience than the politics-as-comedy shows, which allowed for a quicker race to the bottom of barrel tribal politics."
+        }
+      ]
+    ],
+    "total_children": 18,
+    "parent_id": 94729941,
+    "parent_children": 24,
+    "thread_id": 94729941,
+    "thread_children": 24,
+    "ratio_recv": -3,
+    "ratio_give": -10,
+    "grade_level": 15.8,
+    "word_count": 161,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "partisan politics",
+      "political polarization",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 157493332,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-60b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94740578,
+    "top_level": true,
+    "date": "Feb 19 2025 17:53",
+    "likes": 3,
+    "timestamp": 1740005611,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Has Trump finally learned to use a teleprompter, including sticking to the script? His current speech at FII PRIORITY Summit [1] seems to be quite the improvement over his recent campaigning. Notably, he seems to be citing a fair number of actual facts and has fewer \u201cweaves\u201d through random thoughts that go nowhere. Doesn\u2019t seem as fluid and off-the-cuff as how I remember 2016, certainly slower and communicated with less force, so it seems scripted to me."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I watched most of the inauguration and assumed similar above-expectation clarity was due to time constraints forcing him to stick to the script. Yet maybe with age-related deterioration he\u2019s increasingly relying on scripted speeches to avoid embarrassment?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Looks like some crypto & AI event? Is being carried by Bloomberg and also at "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=11CnoIJidr8"
+        }
+      ],
+      []
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 94740578,
+    "thread_children": 5,
+    "ratio_recv": 12,
+    "ratio_give": null,
+    "grade_level": 9.6,
+    "word_count": 129,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "political campaigns"
     ]
   }
 ]
