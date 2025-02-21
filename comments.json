@@ -58532,11 +58532,11 @@
     ],
     "total_children": 21,
     "parent_id": 94585371,
-    "parent_children": 55,
+    "parent_children": 57,
     "thread_id": 94581263,
-    "thread_children": 115,
+    "thread_children": 121,
     "ratio_recv": -10,
-    "ratio_give": -11,
+    "ratio_give": -12,
     "grade_level": 15.9,
     "word_count": 101,
     "category": "Uncategorized",
@@ -58602,7 +58602,7 @@
     "thread_id": 94586878,
     "thread_children": 31,
     "ratio_recv": 2,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 15.4,
     "word_count": 349,
     "category": "Uncategorized",
@@ -58664,7 +58664,7 @@
     "id": 94717990,
     "top_level": false,
     "date": "Feb 19 2025 16:15",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1739999727,
     "body": [
       [
@@ -58692,7 +58692,7 @@
     "thread_id": 94690723,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": 1,
+    "ratio_give": 0,
     "grade_level": 11.1,
     "word_count": 179,
     "category": "Uncategorized",
@@ -58772,7 +58772,7 @@
     "parent_children": null,
     "thread_id": 94733712,
     "thread_children": 8,
-    "ratio_recv": -3,
+    "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 398,
@@ -58792,7 +58792,7 @@
     "id": 94737034,
     "top_level": false,
     "date": "Feb 19 2025 17:37",
-    "likes": 16,
+    "likes": 21,
     "timestamp": 1740004650,
     "body": [
       [
@@ -58816,11 +58816,11 @@
     ],
     "total_children": 18,
     "parent_id": 94729941,
-    "parent_children": 24,
+    "parent_children": 25,
     "thread_id": 94729941,
-    "thread_children": 24,
-    "ratio_recv": -3,
-    "ratio_give": -10,
+    "thread_children": 25,
+    "ratio_recv": 3,
+    "ratio_give": -11,
     "grade_level": 15.8,
     "word_count": 161,
     "category": "Uncategorized",
@@ -58842,7 +58842,7 @@
     "id": 94740578,
     "top_level": true,
     "date": "Feb 19 2025 17:53",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1740005611,
     "body": [
       [
@@ -58869,11 +58869,11 @@
       ],
       []
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 94740578,
-    "thread_children": 5,
+    "thread_children": 6,
     "ratio_recv": 12,
     "ratio_give": null,
     "grade_level": 9.6,
@@ -58883,6 +58883,215 @@
       "US politics",
       "media influence",
       "political campaigns"
+    ]
+  },
+  {
+    "post_id": 157334067,
+    "title": "The path forward for Common Sense Democrats ",
+    "canonical_url": "https://www.slowboring.com/p/the-path-forward-for-common-sense",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94860060,
+    "top_level": false,
+    "date": "Feb 20 2025 09:00",
+    "likes": 13,
+    "timestamp": 1740060006,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe, but I believe the environment in which this conflict will occur has changed substantially since 2020 for a multitude of reasons. Notably, all political actors are increasingly constrained by the time and attention of others\u2014including activists, funders, politicians, influencers, and ultimately the voting public. Even the X/Bluesky divide alone has greatly weakened the impact of 2020-primary-era progressive reach."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Add to that the ever-growing podcast and newsletter ecosystem, and it\u2019s not obvious they can reach a significant number of sympathetic eyes and ears\u2014especially when they may get more distribution through references to their thoughts and actions from critical venues, including Slow Boring and a multitude of publishers that range from the NYT-produced Ezra Klein Show to personalities and politicians on Truth Social."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, many have institutional power and secured, long-term funding through NGOs and universities. Yet will it matter if their message is, at best, used as a foil by individuals and institutions promoting an alternative policy proposal? I.e., the Japanese soldier fighting WWII until the 1970s analogy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe some of us would appreciate a long and vicious fight with these adversaries. Progressive operatives stuck in 2020 thinking may similarly find meaning in that. Yet hopefully, most of us can get that out of our system without taking three needless decades. Like, would US/Japan relationship have been impacted in any way if a few GI\u2019s joined their former adversaries in prolonging the Pacific theater conflict due to their residual enthusiasm for combat?"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94849111,
+    "parent_children": 15,
+    "thread_id": 94834502,
+    "thread_children": 109,
+    "ratio_recv": -10,
+    "ratio_give": -14,
+    "grade_level": 13.1,
+    "word_count": 242,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "political polarization",
+      "progressivism",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 157334067,
+    "title": "The path forward for Common Sense Democrats ",
+    "canonical_url": "https://www.slowboring.com/p/the-path-forward-for-common-sense",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94860713,
+    "top_level": false,
+    "date": "Feb 20 2025 09:03",
+    "likes": 4,
+    "timestamp": 1740060192,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Harris is a former law enforcement professional with a 2009 book entitled \u201cSmart on Crime: A Career Prosecutor's Plan to Make Us Safer\u201d. The left would more easily trust JD Vance as their future standard bearer."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94853426,
+    "parent_children": 11,
+    "thread_id": 94838734,
+    "thread_children": 31,
+    "ratio_recv": 1,
+    "ratio_give": -19,
+    "grade_level": 9.1,
+    "word_count": 36,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "crime and justice",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 157334067,
+    "title": "The path forward for Common Sense Democrats ",
+    "canonical_url": "https://www.slowboring.com/p/the-path-forward-for-common-sense",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94921941,
+    "top_level": false,
+    "date": "Feb 20 2025 12:53",
+    "likes": 4,
+    "timestamp": 1740074006,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I doubt AI job replacement will lead to an expansion of the welfare state\u2014at least in the early stages of this technology rollout\u2014because it\u2019s initially targeting workers in the upper middle class. These displaced workers could likely find some alternative employment that pays better than long-term welfare ever will."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, I imagine every knowledge worker could be a low-level manager overseeing minimum-wage workers at any such business because it mainly requires rule-following and enforcement. Even someone with substandard social skills can engage in the simple management directives needed in such roles. They may even take a passive-aggressive approach, primarily providing feedback over text/email or printing out yet another page of instructions to post in the workplace."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet I don\u2019t think these formerly upper-middle-class workers (or aspirational ones if just at the beginning of their careers) will be satisfied with either unskilled supervision or welfare because of the status implications. There may be some Luddite attempts to limit AI proliferation to protect certain careers (e.g., local government employees or medical professions) as well as new make-work jobs, possibly in NGOs. Yet those will be far more expensive than traditional welfare and will likely be limited in their proliferation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It could be a particularly turbulent time in terms of social, economic, and political strife. The most fitting analog may be the industrialization of agriculture in the late 19th and early 20th centuries. At the time, the vast majority of people were employed in some form of farm labor on small family farms. Yet industrialization radically changed the economic structure such that only large corporate entities could survive, as it required significant fixed-cost investments to produce agricultural products with far less labor and far lower marginal costs. Not only did this crush small family farm profits, but they couldn\u2019t even collect sufficient revenue to cover the annual fixed costs necessary to sustain themselves. And most of these farms had debt, possibly even mortgages on their land, which quickly ruined them as their incomes collapsed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "These workers and their families had to move to cities and seek employment in 1900s-era industrial factories. These were truly hell on earth. Just the visuals of open flames and dark, smoke-filled cavernous facilities met their conception of damnation. And they constantly risked gruesome injuries that could kill or cripple in novel ways\u2014as they were reminded by personally witnessing such regular occurrences. Moreover, they were commonly working 60 to 80 hours a week for subsistence wages, even compared to their recent experience with the sparse living of independent family farms. Fortunately, subsequent technological, political, and social advances greatly improved the worker experience of industrial labor."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully, any future AI-fueled labor market disruptions aren\u2019t as terrifying as that. At a minimum, we\u2019re a far wealthier society. Yet there will be the novel social and political question of how to handle the rapid loss in status of previously upper-middle-class workers. Who knows how that will go."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 94868620,
+    "parent_children": 15,
+    "thread_id": 94834502,
+    "thread_children": 109,
+    "ratio_recv": 2,
+    "ratio_give": -18,
+    "grade_level": 12.0,
+    "word_count": 486,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "economic inequality",
+      "labor market",
+      "political polarization",
+      "social justice"
+    ]
+  },
+  {
+    "post_id": 157334067,
+    "title": "The path forward for Common Sense Democrats ",
+    "canonical_url": "https://www.slowboring.com/p/the-path-forward-for-common-sense",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 94926221,
+    "top_level": false,
+    "date": "Feb 20 2025 13:10",
+    "likes": 2,
+    "timestamp": 1740075039,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I find this similar to drug enforcement advocates who focus on \u201cjust a few\u201d major gangs or cartels dominating various parts of the narcotics supply chain. Should we disrupt one, we\u2019ll quickly find others\u2014possibly even new entrants\u2014filling the gap."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could even imagine an increasingly decentralized supply chain where individuals with a clean-enough criminal record take the risk of laundering firearms from legal dealers to unknown individuals they meet through the internet. Would any state be open to imprisoning first-time offenders for such a crime? If not, many people may take the risk for a quick profit."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similar to drugs, the core problem with illegal firearm possession is demand. In both cases, harsh punishment could reduce that demand, possibly by incarcerating individuals such that they\u2019re unable to purchase either. Yet that is expensive and laborious, and many people find long-term lockups for simple possession of firearms unsavory\u2014even for felons previously convicted of violent crime."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94863994,
+    "parent_children": 4,
+    "thread_id": 94834502,
+    "thread_children": 109,
+    "ratio_recv": 3,
+    "ratio_give": -25,
+    "grade_level": 12.0,
+    "word_count": 154,
+    "category": "Uncategorized",
+    "tags": [
+      "crime and justice",
+      "criminal justice reform",
+      "drug policy",
+      "gun control"
     ]
   }
 ]
