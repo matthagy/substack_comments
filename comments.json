@@ -59450,7 +59450,7 @@
     "parent_children": null,
     "thread_id": 95429851,
     "thread_children": 17,
-    "ratio_recv": 21,
+    "ratio_recv": 24,
     "ratio_give": null,
     "grade_level": 16.2,
     "word_count": 36,
@@ -59467,7 +59467,7 @@
     "id": 95440835,
     "top_level": true,
     "date": "Feb 22 2025 15:15",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1740255319,
     "body": [
       [
@@ -59481,12 +59481,12 @@
         }
       ]
     ],
-    "total_children": 5,
+    "total_children": 6,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 95440835,
-    "thread_children": 5,
-    "ratio_recv": -4,
+    "thread_children": 6,
+    "ratio_recv": -5,
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 12,
@@ -59515,11 +59515,11 @@
     ],
     "total_children": 1,
     "parent_id": 95440835,
-    "parent_children": 5,
+    "parent_children": 6,
     "thread_id": 95440835,
-    "thread_children": 5,
+    "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -5,
     "grade_level": 8.3,
     "word_count": 20,
     "category": "Uncategorized",
@@ -59535,7 +59535,7 @@
     "id": 95481357,
     "top_level": true,
     "date": "Feb 22 2025 18:58",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1740268715,
     "body": [
       [
@@ -59566,7 +59566,7 @@
     "parent_children": null,
     "thread_id": 95481357,
     "thread_children": 2,
-    "ratio_recv": 0,
+    "ratio_recv": -1,
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 117,
@@ -59583,7 +59583,7 @@
     "id": 95535686,
     "top_level": false,
     "date": "Feb 23 2025 02:16",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1740294978,
     "body": [
       [
@@ -59613,11 +59613,481 @@
     "parent_id": 95512042,
     "parent_children": 2,
     "thread_id": 95440835,
-    "thread_children": 5,
+    "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 2,
     "grade_level": 18.3,
     "word_count": 77,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95540334,
+    "top_level": false,
+    "date": "Feb 23 2025 03:20",
+    "likes": 2,
+    "timestamp": 1740298800,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and it was a smart move politically. As an NYC resident, I regularly encounter people who are passionately angry about the \u201cmigrant crisis.\u201d Cause might be too strong a word, but at a minimum, it exacerbated a pre-existing issue with migrants needing support from state and local services by accelerating the growth of that population. Additionally, the partisan slant of this stunt increased the salience of the issue. And of course, Eric Adams assisted by leaning into this as an explanation for budget cuts elsewhere."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reddit.com/r/nyc/"
+        },
+        {
+          "type": "text",
+          "value": " commonly has upvoted comments about the need for better migrant/asylum policy and issues with NY laws that place too much of a burden on NYC, including the right to shelter. My sporadic interactions with that subreddit suggest it\u2019s generally quite liberal, even leftist\u2014as I believe most Reddit communities are. Yet on this issue, they seem increasingly sympathetic to some MAGA talking points."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Touch\u00e9 Abbott and DeSantis."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 95512417,
+    "parent_children": 3,
+    "thread_id": 95430185,
+    "thread_children": 139,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 11.1,
+    "word_count": 153,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95549557,
+    "top_level": false,
+    "date": "Feb 23 2025 05:26",
+    "likes": 33,
+    "timestamp": 1740306377,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> \u201cHe\u2019s not going to make government \u2018more efficient.\u2019\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, and I think Noah largely agrees. At most, there\u2019s a ton of uncertainty about what DOGE* will actually accomplish. Maybe some of it will eventually be seen in a positive light, but I doubt Noah is optimistic."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But Musk is actually being empowered to make serious changes to the federal administrative state, and he has a history of making drastic changes. Moreover, we shouldn\u2019t underestimate his and his team\u2019s ability to disrupt the status quo\u2014a theme I fear runs through these early comments that attempt to downplay his past success."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk is an obsessive and impulsive actor with a history of making massive changes and a track record of managing them well enough to prevent the total collapse of his projects. Moreover, he is willing to pivot rapidly in terms of tactics, narrative, and even goals. Hence, we shouldn\u2019t delude ourselves with hopes that courts or economic disruption will foil Musk and will ultimately lead to his failure. Numerous past critics over the last decade have made similar mistakes in anticipating the demise of his earlier projects, as Noah cites throughout this article."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We don\u2019t have to like Musk or agree with his goals to recognize that he\u2019s a sophisticated actor with a history of making big things happen through novel, risky actions. Instead, we need to seriously consider the possibility that we may end up with a radically different federal administrative state in ways that none of us\u2014not even Musk and his team\u2014can currently imagine. Personally, I find any attempt to downplay that risk comparable to climate change deniers comforting themselves with an unsustainable status quo."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* I\u2019m feeling increasingly resentful about having to refer to this meme-named group of broken toys as if it were a serious political project."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 95545483,
+    "parent_children": 16,
+    "thread_id": 95545483,
+    "thread_children": 16,
+    "ratio_recv": -28,
+    "ratio_give": -23,
+    "grade_level": 11.6,
+    "word_count": 299,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95568909,
+    "top_level": false,
+    "date": "Feb 23 2025 08:18",
+    "likes": 7,
+    "timestamp": 1740316726,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> That Tesla and SpaceX had near-death experiences is a matter of record."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yep, luck works both ways\u2014both good and bad\u2014and Musk, et al. have managed it well enough to keep his projects alive and, at times, thriving."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And Giving him credit for xAi? That is extraordinarily premature."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While much of xAI is still a hot mess, the general consensus seems to be that they\u2019ve built a state-of-the-art model on par with the offerings from OpenAI, Anthropic, Google, and other leading firms. It is noteworthy how quickly they\u2019ve caught, primarily by spending massive amounts of capital. That alone is impressive and it puts them in the race to win considerable market share in some parts of the GenAI product and infrastructure space."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For an extensive overview of the initial impressions of xAI from a diverse range of credible participants see, "
+        },
+        {
+          "type": "url",
+          "value": "https://thezvi.substack.com/p/go-grok-yourself"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95545084,
+    "parent_children": 2,
+    "thread_id": 95543943,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": -18,
+    "grade_level": 8.1,
+    "word_count": 139,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95573567,
+    "top_level": false,
+    "date": "Feb 23 2025 08:45",
+    "likes": 14,
+    "timestamp": 1740318327,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! And Twitter exemplifies the Musk method well. This was an impulsive purchase (possibly on a Ketamine trip?) that he then tried to escape through aggressive litigation based on a flimsy-at-best legal strategy. After being forced to complete the purchase, Musk made rapid, aggressive changes that massively disrupted the business\u2014numerous critics assumed it would quickly fail and be repossessed by its creditors. Yet he and his team stabilized it well enough."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk then parlayed that crap asset into serious political power within the MAGA movement and eventually intertwined himself closely with Trump and his team. He now has the ability to massively disrupt the federal administrative state in ways that none of us can fully appreciate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This demonstrates how Musk and his team operate in aggressive, risky, and capable ways \u2014with rapid adjustments as needed\u2014to win in highly unpredictable outcomes."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 95555788,
+    "parent_children": 7,
+    "thread_id": 95543943,
+    "thread_children": 35,
+    "ratio_recv": -14,
+    "ratio_give": -5,
+    "grade_level": 11.3,
+    "word_count": 140,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95624108,
+    "top_level": false,
+    "date": "Feb 23 2025 12:29",
+    "likes": 3,
+    "timestamp": 1740331799,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> is it actually the case that anyone is downplaying that he is likely to be disruptive, whether for good or ill?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m seeing a lot of attempts to downplay Musk\u2019s past successes, though some of that may be my own bias about the broader public discourse around Musk over the last decade or so. I worry that could mislead some into a false sense of comfort. While I wouldn\u2019t recommend stressing out about DOGE either\u2014because Musk\u2019s projects tend to follow an unpredictable, circuitous route\u2014we should still recognize his and his team\u2019s ability to make large, disruptive changes and manage their way through setbacks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> it was implying that the things he is doing aren't going to work out because he isn't very smart"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think focusing on Musk\u2019s intellect\u2014or lack thereof\u2014is an example of such a distraction-at-best way of looking at the situation. People have been citing his lack of actual business talent or relevant engineering acumen as evidence that Tesla, SpaceX, or Twitter/X would fail for roughly a decade. Musk has some capability, and while categorizing it is fine as an intellectual exercise, it\u2019s not particularly important for appreciating the fact that he and his teams have accomplished massive, disruptive changes in unanticipated ways\u2014due to some team-wide combination of obsession, aptitude, and, at times, self-delusion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My advice: take a playful approach to watching the current Musk fiasco without forming particularly strong opinions about how it\u2019ll play out. Individuals and institutions that could be harmed by these disruptions should definitely take appropriate precautions. For the rest of us, I agree with your \u201cwait and see\u201d categorization of Noah\u2019s advice. Specifically, how Democrats should respond to Trump/Musk will require identifying durable, salient harms experienced by an electorally relevant group of voters. Will take some time for that to materialize."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 95607604,
+    "parent_children": 3,
+    "thread_id": 95545483,
+    "thread_children": 16,
+    "ratio_recv": -3,
+    "ratio_give": -2,
+    "grade_level": 13.0,
+    "word_count": 297,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157752662,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-125",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95634305,
+    "top_level": true,
+    "date": "Feb 23 2025 13:13",
+    "likes": 0,
+    "timestamp": 1740334407,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Do you have any opinions on the \u201cnerd/geek\u201d distinction and how it could matter for discussion of political strategy for Democrats?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, this may be suboptimal terminology, but I think it gets at a distinction between:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* nerds focus on correctness for professional, hobbyist, or general social goodness; possibly due to personality quirks"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* geeks focus more on what are the rules for being a member-in-good standing and proper distinction between insiders/outsiders as well as status within the group"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "No individual person entirely takes on one archetype or the other, and a single person can play different roles at different times, based on what they believe matters at the moment. Lastly, the nerd-like behavior can be applied to refining the membership rules for such aims such as Democratic-political-success or alternatively self-enrichment."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95634305,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 21.4,
+    "word_count": 130,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157752662,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-125",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95634753,
+    "top_level": false,
+    "date": "Feb 23 2025 13:15",
+    "likes": 0,
+    "timestamp": 1740334525,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Note, I spent 5 min with ChatGPT trying to find better, existing terminology, but it was unproductive. ChatGPT's lack of helpfulness suggests this may be a poorly formed question and concept, but it seems interesting enough to me to ask. Definitely open to suggestions for terminology and framing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, while we could find plenty of tangential online articles, I came back to the famous \u201cGeeks, MOPs, and sociopaths in subculture evolution\u201d, [1] which doesn\u2019t even use compatible terminology. Specifically, \u201cnerds\u201d in this question are closer to \u201cgeeks\u201d in the article, whereas \u201cgeeks\u201d in this question are closer to \u201cMOPs\u201d. It also introduces a third \u201csociopath\u201d archetype, which is tangential to the question-framing\u2014either a nerd or a geek could play such a role based and their behavior would be distinguished by their nerd vs geek relation to the group."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll also cite Jess Singal\u2019s \u201cthe Iron Law of Institutions and the left\u201d [2] as possibly related to failure modes when everyone is too focused on their own status or power within the institution relative to the overall impact/power of the institution."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://meaningness.com/geeks-mops-sociopaths"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://medium.com/@jesse.singal/the-iron-law-of-institutions-and-the-left-333c42c246af"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95634305,
+    "parent_children": 2,
+    "thread_id": 95634305,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 13.4,
+    "word_count": 182,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95636446,
+    "top_level": false,
+    "date": "Feb 23 2025 13:22",
+    "likes": 0,
+    "timestamp": 1740334973,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that DOGE is unlikely to work towards improving government efficiency or effectiveness using any metrics that would be appreciated by Noah and his subscriber community, including myself. Yet, I think that is irrelevant to the general concern about Musk, et al. likely having a large, disruptive impact on federal state capacity. Moreover, they may be more focused on breaking certain functions they find displeasing (eg, the CFPB and the EPA) and branding that as \u201cefficiency\u201d for better optics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, they may fail to achieve a reasonable interpretation of their stated aims. Yet, Trump, Musk, and other MAGA-affiliated individuals may be pleased with their outcome nonetheless. Hopefully we can convince enough voters to be angry at their actions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95631904,
+    "parent_children": 2,
+    "thread_id": 95543943,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.1,
+    "word_count": 119,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157752662,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-125",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95638922,
+    "top_level": false,
+    "date": "Feb 23 2025 13:33",
+    "likes": 0,
+    "timestamp": 1740335621,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I have opinions on that article, as demonstrated by the five comments I\u2019ve already posted there. I\u2019d summarize them as follows:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk and his team can likely have a large, disruptive impact on federal state capacity. Attempts to downplay his past successes or diminish his general aptitudes and intelligence are, at best, a distraction. Musk may be an insane, moderately intelligent person with a drug problem, but that hasn\u2019t prevented him and his teams from achieving unexpected success\u2014through unanticipated pathways\u2014in various past endeavors. Moreover, there\u2019s a long history of critics dismissing his past projects with similar narratives, and we shouldn\u2019t repeat that mistake by underestimating the impact DOGE could have in breaking federal state capacity in various ways."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95633011,
+    "parent_children": 14,
+    "thread_id": 95633011,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 13.8,
+    "word_count": 119,
     "category": "Uncategorized",
     "tags": []
   }
