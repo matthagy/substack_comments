@@ -59455,7 +59455,11 @@
     "grade_level": 16.2,
     "word_count": 36,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 157692003,
@@ -59571,7 +59575,12 @@
     "grade_level": 11.2,
     "word_count": 117,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "generative AI",
+      "tech industry",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 157692003,
@@ -59619,7 +59628,10 @@
     "grade_level": 18.3,
     "word_count": 77,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "censorship"
+    ]
   },
   {
     "post_id": 157692003,
@@ -59671,7 +59683,13 @@
     "grade_level": 11.1,
     "word_count": 153,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "identity politics",
+      "immigration issues",
+      "partisan politics",
+      "political polarization"
+    ]
   },
   {
     "post_id": 157728665,
@@ -59733,7 +59751,12 @@
     "grade_level": 11.6,
     "word_count": 299,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "partisan politics",
+      "political polarization",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 157728665,
@@ -59793,7 +59816,11 @@
     "grade_level": 8.1,
     "word_count": 139,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "entrepreneurship",
+      "generative AI",
+      "tech industry"
+    ]
   },
   {
     "post_id": 157728665,
@@ -59837,7 +59864,12 @@
     "grade_level": 11.3,
     "word_count": 140,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "business strategy",
+      "media influence",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 157728665,
@@ -59893,7 +59925,13 @@
     "grade_level": 13.0,
     "word_count": 297,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "business strategy",
+      "media influence",
+      "social media influence",
+      "tech industry"
+    ]
   },
   {
     "post_id": 157752662,
@@ -59949,7 +59987,10 @@
     "grade_level": 21.4,
     "word_count": 130,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics"
+    ]
   },
   {
     "post_id": 157752662,
@@ -60051,7 +60092,13 @@
     "grade_level": 11.1,
     "word_count": 119,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "partisan politics",
+      "political polarization",
+      "right-wing politics",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 157752662,
@@ -60089,6 +60136,10 @@
     "grade_level": 13.8,
     "word_count": 119,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "cryptocurrency",
+      "media bias",
+      "tech industry"
+    ]
   }
 ]
