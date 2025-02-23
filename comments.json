@@ -58792,7 +58792,7 @@
     "id": 94737034,
     "top_level": false,
     "date": "Feb 19 2025 17:37",
-    "likes": 21,
+    "likes": 22,
     "timestamp": 1740004650,
     "body": [
       [
@@ -58816,9 +58816,9 @@
     ],
     "total_children": 18,
     "parent_id": 94729941,
-    "parent_children": 25,
+    "parent_children": 28,
     "thread_id": 94729941,
-    "thread_children": 25,
+    "thread_children": 28,
     "ratio_recv": 3,
     "ratio_give": -11,
     "grade_level": 15.8,
@@ -58925,11 +58925,11 @@
     ],
     "total_children": 2,
     "parent_id": 94849111,
-    "parent_children": 15,
+    "parent_children": 17,
     "thread_id": 94834502,
-    "thread_children": 109,
+    "thread_children": 114,
     "ratio_recv": -10,
-    "ratio_give": -14,
+    "ratio_give": -18,
     "grade_level": 13.1,
     "word_count": 242,
     "category": "Uncategorized",
@@ -58967,7 +58967,7 @@
     "thread_id": 94838734,
     "thread_children": 31,
     "ratio_recv": 1,
-    "ratio_give": -19,
+    "ratio_give": -22,
     "grade_level": 9.1,
     "word_count": 36,
     "category": "Uncategorized",
@@ -58987,7 +58987,7 @@
     "id": 94921941,
     "top_level": false,
     "date": "Feb 20 2025 12:53",
-    "likes": 4,
+    "likes": 6,
     "timestamp": 1740074006,
     "body": [
       [
@@ -59029,11 +59029,11 @@
     ],
     "total_children": 10,
     "parent_id": 94868620,
-    "parent_children": 15,
+    "parent_children": 16,
     "thread_id": 94834502,
-    "thread_children": 109,
-    "ratio_recv": 2,
-    "ratio_give": -18,
+    "thread_children": 114,
+    "ratio_recv": 0,
+    "ratio_give": -19,
     "grade_level": 12.0,
     "word_count": 486,
     "category": "Uncategorized",
@@ -59055,7 +59055,7 @@
     "id": 94926221,
     "top_level": false,
     "date": "Feb 20 2025 13:10",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1740075039,
     "body": [
       [
@@ -59081,9 +59081,9 @@
     "parent_id": 94863994,
     "parent_children": 4,
     "thread_id": 94834502,
-    "thread_children": 109,
-    "ratio_recv": 3,
-    "ratio_give": -25,
+    "thread_children": 114,
+    "ratio_recv": 2,
+    "ratio_give": -27,
     "grade_level": 12.0,
     "word_count": 154,
     "category": "Uncategorized",
@@ -59093,5 +59093,532 @@
       "drug policy",
       "gun control"
     ]
+  },
+  {
+    "post_id": 157464048,
+    "title": "Mailbag: When to ring the alarm? ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95118212,
+    "top_level": false,
+    "date": "Feb 21 2025 09:06",
+    "likes": 25,
+    "timestamp": 1740146819,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Musk wasn\u2019t always a MAGA figure\u2014he was more apolitical and even somewhat Democratic-aligned. He may have gone full Trump regardless, but instead of forcing him to burn his EV bridge for cultural optics, we preemptively snubbed him before he even bought Twitter and fully entrenched himself in that camp. Including him in Biden\u2019s EV push wouldn\u2019t have guaranteed loyalty, but it might have delayed or complicated his shift."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Meanwhile, we got nothing from auto unions or firm management, nor was there a strong reason to expect otherwise. This reflects a broader Biden-era miscalculation\u2014avoiding fights on the left while gaining little in return. The outcome was always uncertain, but we didn\u2019t even attempt a smarter play. Future Democratic leadership will need to think more tactically."
+        }
+      ]
+    ],
+    "total_children": 23,
+    "parent_id": 95114301,
+    "parent_children": 48,
+    "thread_id": 95091200,
+    "thread_children": 111,
+    "ratio_recv": -7,
+    "ratio_give": 6,
+    "grade_level": 10.2,
+    "word_count": 124,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "Democratic Party",
+      "US politics",
+      "labor unions",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 157464048,
+    "title": "Mailbag: When to ring the alarm? ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95121388,
+    "top_level": false,
+    "date": "Feb 21 2025 09:20",
+    "likes": 6,
+    "timestamp": 1740147616,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I imagine many law firms and even governments have long trusted Microsoft for data security and privacy services in document retention\u2014e.g., the cloud-based Office 365 and a plethora of earlier solutions dating back to the 90s. In general, Microsoft has long been a major, trusted vendor for enterprise customers, including corporations and governments, since the earliest days of the PC. This is particularly important when an institution needs to guarantee document and email retention, regardless of rogue staff anywhere in the organization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, Microsoft is quite clear that its AI offerings\u2014including its enterprise chatbot and built-in generative AI features in Office products like Word, Outlook, PowerPoint, and Excel\u2014all run on Microsoft services and infrastructure. I.e., even if they\u2019re using OpenAI models, Microsoft is running the code and sharing nothing with OpenAI. Many firms and governments can simply enable this for an extra $20/user/month, and Microsoft sales staff can incentivize this with reduced pricing and free trial periods."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 95113745,
+    "parent_children": 12,
+    "thread_id": 95094119,
+    "thread_children": 20,
+    "ratio_recv": -4,
+    "ratio_give": -2,
+    "grade_level": 13.2,
+    "word_count": 157,
+    "category": "Uncategorized",
+    "tags": [
+      "digital privacy",
+      "generative AI",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157464048,
+    "title": "Mailbag: When to ring the alarm? ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95147474,
+    "top_level": false,
+    "date": "Feb 21 2025 11:00",
+    "likes": 14,
+    "timestamp": 1740153647,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And? He's largely making this work in the context of EV's and rockets. Would be great if he just kept maniacally focused on succeeding in those areas rather than playing politics. Everyone joining him as an employee (or worse, investor) is an adult making their own decisions. Many likely share in Musk\u2019s obsession and delusions and some have even made their own smaller fortunes by joining him on this ride."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "More generally, we can find this same pattern in business titans ranging from Carnegie and Rockefeller to Gates and Jobs. Many people hated them\u2014particularly those disrupted by their businesses. But there also are some real tangible benefits for society at large from their firms. I could easily accept Musk as just another baron of industry if he had largely kept out of politics\u2014with the exception of those things that directly affect his business. Eg, union-incentives in EVs and ridiculous regulations hobbling rocket launches. I largely agree that these are stupid, particularly when we\u2019re not getting any benefit."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 95119603,
+    "parent_children": 5,
+    "thread_id": 95091200,
+    "thread_children": 111,
+    "ratio_recv": -7,
+    "ratio_give": -4,
+    "grade_level": 9.8,
+    "word_count": 167,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "business strategy",
+      "labor unions",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157464048,
+    "title": "Mailbag: When to ring the alarm? ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95149599,
+    "top_level": false,
+    "date": "Feb 21 2025 11:08",
+    "likes": 15,
+    "timestamp": 1740154120,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Then don't work for him. Many people will join you in the decision. The people joining Musk are at least delusion in some ways similar to him, if not also crazily obsessed."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95148560,
+    "parent_children": 3,
+    "thread_id": 95091200,
+    "thread_children": 111,
+    "ratio_recv": null,
+    "ratio_give": 8,
+    "grade_level": 3.9,
+    "word_count": 32,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157464048,
+    "title": "Mailbag: When to ring the alarm? ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95207771,
+    "top_level": false,
+    "date": "Feb 21 2025 14:52",
+    "likes": 4,
+    "timestamp": 1740167561,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I strongly agree that Khan's impact was net-negative and I'm just gonna copy-paste a past, long, nuanced comment of mine on her tenure from Nate Silver's site. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.natesilver.net/p/democrats-need-a-billionaire-strategy/comment/92251321"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I was tepidly in support of Khan before the FTC accumulated an embarrassing track record under her tenure. In retrospect it was foolish to think that simply changing leadership could have a meaningful refocus in regulatory action within just 4 years. The FTC is a deep institution with lifetime staff who have been accumulated to certain procedures, with cases built and prosecuted in a certain way. Hence, there were staff revolts, motivation issues, and departures that only weakened the agency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Secondly, many Khan-era FTC cases were discovered and built carelessly\u2014possibly with the assumption they\u2019d lose in court regardless and they just wanted a track record to justify new laws or a change in jurisprudence under a future, more-liberal SCOTUS. But this was embarrassing for those of us in favor of FTC regulation of anticompetitive behavior, and it even gets into Trumpish \u201cabandon the rule of law\u201d territory."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As exhibit A, I\u2019d cite the July 2022 \u201cFTC Seeks to Block Virtual Reality Giant Meta\u2019s Acquisition of Popular App Creator Within\u201d. [1] This was a worthless lawsuit because Meta was essentially acquiring a small, failed startup in order to get more VR talent. There was no competition risk because this was a niche market that \u201cWithin\u201d (the company\u2019s name) was failing to monetize effectively. Hence, in 2023 the courts allowed the merger. There was no point to this lawsuit other than adding another \u201cFTC fails to fight Big Tech\u201d to the list of justifications for changing antitrust laws."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For exhibit B, let\u2019s consider the FTC\u2019s blocking of Microsoft\u2019s acquisition of Activision. [2] This was a far more substantial merger with serious anticompetitive considerations. Unfortunately, the FTC blew the case by focusing on the risk of Microsoft withdrawing Call of Duty from the PlayStation and other platforms. This obvious consideration was proactively addressed by Microsoft's lawyers with a multitude of long term agreements to continue offering Call of Duty everywhere. Microsoft also volunteered to enter into an FTC consent decree to further solidify this arrangement. Unfortunately, the FTC never offered up any other risks and the merger was allowed to go through."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "By contrast, the UK\u2019s Common Market Authority (CMA, their FTC equivalent) focused on Microsoft's stated goal of building a cloud gaming ecosystem. [3] The CMA required Activision to sell their cloud gaming rights to a third party, for which Microsoft acquired a non-exclusive license. This would allow other companies, like Sony, to easily also license these rights for Activision titles for their own cloud gaming platform, should that prove lucrative. Ie, the CMA addressed a real anti-competitive risk whereas the FTC carelessly built a case that they were guaranteed to lose in court."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, the FTC under Khan\u2019s leadership was a grave disappointment. At best it delayed some mergers that will now speed through the Trump FTC. Moreover, it antagonized tech leaders and investors, contributing to their defection to the Republicans\u2014or at least their departure from the Democrats. We made no serious progress towards building mass public support for changing antitrust laws nor jurisprudence. This ended up being just another Biden failure based on appeasing his left flank, but disconnected from any concrete political strategy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ftc.gov/news-events/news/press-releases/2022/07/ftc-seeks-block-virtual-reality-giant-metas-acquisition-popular-app-creator-within"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ftc.gov/legal-library/browse/cases-proceedings/2210077-microsoftactivision-blizzard-matter"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2023-09-22/microsoft-s-activision-deal-set-to-get-uk-s-cma-approval"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95172131,
+    "parent_children": 2,
+    "thread_id": 95119319,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 11.0,
+    "word_count": 554,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95429851,
+    "top_level": true,
+    "date": "Feb 22 2025 14:20",
+    "likes": 5,
+    "timestamp": 1740252000,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This seems disappointing, but I'm open to other interpretations, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/PpollingNumbers/status/1892944282459275533"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "NEW - 2028 Democratic Primary Poll"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Harris - 37%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Buttigieg - 11%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Newsom - 9%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 AOC - 7%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Mark Cuban - 7%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Shapiro - 6%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Whitmer - 4%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Beshear - 3%"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Survey USA | 835 voters | 2/16"
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95429851,
+    "thread_children": 17,
+    "ratio_recv": 21,
+    "ratio_give": null,
+    "grade_level": 16.2,
+    "word_count": 36,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95440835,
+    "top_level": true,
+    "date": "Feb 22 2025 15:15",
+    "likes": 6,
+    "timestamp": 1740255319,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Some realtime photos of the congestion pricing demonstration today in Time Square, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/mattchagy/status/1893393918626058568?t=-2D5IO0Nj5KSvMNpkNK6Hg&s=19"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95440835,
+    "thread_children": 5,
+    "ratio_recv": -4,
+    "ratio_give": null,
+    "grade_level": 10.3,
+    "word_count": 12,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95456998,
+    "top_level": false,
+    "date": "Feb 22 2025 16:39",
+    "likes": 2,
+    "timestamp": 1740260380,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Some deranged Trump supporters actually showed up. Might of just been 2? Certainly entertaining and didn't cause any serious disruption "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95440835,
+    "parent_children": 5,
+    "thread_id": 95440835,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 8.3,
+    "word_count": 20,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95481357,
+    "top_level": true,
+    "date": "Feb 22 2025 18:58",
+    "likes": 4,
+    "timestamp": 1740268715,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "FYI, Sam Altman announced the birth of his human child. Congrats, Sam! "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/sama/status/1893423520866033865"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Unlike another AI/tech mogul, this is in the context of a stable marriage as increasingly demonstrates Sam's own humanity and sanity. Whereas a year or two ago, many may have seen Sam as yet another insane, delusion techie or, worse, a new villain, he may soon be our best hope for safe-enough and sufficiently US-interests-aligned AI."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The alternative may be MAGA-edgelord AI or CCP AI, and that will matter as people and institutions increasingly use AI to make sense of our world and even make autonomous decisions on their behalf. So congrats Sam and best of with AI not destabilizing and potentially wrecking our world."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95481357,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 11.2,
+    "word_count": 117,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157692003,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-cb0",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95535686,
+    "top_level": false,
+    "date": "Feb 23 2025 02:16",
+    "likes": 0,
+    "timestamp": 1740294978,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Trump to Halt NY Congestion Pricing by Terminating Approval,  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/articles/2025-02-19/trump-to-halt-ny-congestion-pricing-by-pulling-federal-approval"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Trump administration is moving to block New York City\u2019s congestion pricing program, reversing a federal approval granted last year and setting up a legal showdown over the tolling initiative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The decision quickly sparked a legal challenge by the MTA, which sued the Trump administration in federal court on Wednesday, saying efforts to halt the program are illegal and seeking a judicial order declaring them \u201cnull and void.\u201d"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95512042,
+    "parent_children": 2,
+    "thread_id": 95440835,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 18.3,
+    "word_count": 77,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
