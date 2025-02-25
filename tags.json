@@ -2546,11 +2546,6 @@
     "identity politics",
     "media influence"
   ],
-  "13948416": [
-    "US politics",
-    "climate change",
-    "taxation"
-  ],
   "13948439": [
     "US politics",
     "identity politics",
@@ -2585,9 +2580,6 @@
     "media influence"
   ],
   "13980190": [],
-  "13998571": [
-    "generative AI"
-  ],
   "14010574": [
     "education reform",
     "labor unions",
@@ -2901,6 +2893,11 @@
     "political polarization",
     "social media influence"
   ],
+  "15253266": [
+    "generative AI",
+    "software engineering",
+    "tech industry"
+  ],
   "15255471": [
     "automation",
     "business strategy",
@@ -3149,6 +3146,11 @@
   "40491622": [
     "automation",
     "consumer behavior",
+    "tech industry"
+  ],
+  "40597995": [
+    "automation",
+    "generative AI",
     "tech industry"
   ],
   "40638863": [
@@ -3743,6 +3745,11 @@
     "political polarization",
     "progressivism"
   ],
+  "64119913": [
+    "automation",
+    "generative AI",
+    "tech industry"
+  ],
   "64423160": [
     "US politics",
     "political campaigns",
@@ -3893,6 +3900,11 @@
   ],
   "71681697": [
     "generative AI"
+  ],
+  "71697761": [
+    "automation",
+    "economic policy",
+    "labor market"
   ],
   "73545679": [
     "business strategy",
@@ -5018,5 +5030,66 @@
     "cryptocurrency",
     "media bias",
     "tech industry"
+  ],
+  "95641418": [
+    "media influence",
+    "social media influence",
+    "tech industry"
+  ],
+  "95668028": [
+    "business strategy",
+    "entrepreneurship"
+  ],
+  "95808981": [
+    "activism",
+    "business strategy",
+    "climate change",
+    "economic policy",
+    "energy policy"
+  ],
+  "95810155": [
+    "consumer behavior",
+    "social media influence",
+    "tech industry"
+  ],
+  "95811245": [
+    "automation",
+    "consumer behavior"
+  ],
+  "95902622": [
+    "generative AI",
+    "software engineering"
+  ],
+  "96040406": [
+    "Democratic Party",
+    "US politics",
+    "political campaigns",
+    "populism",
+    "tax policy"
+  ],
+  "96054267": [
+    "economic policy",
+    "financial markets",
+    "generative AI",
+    "international relations",
+    "media influence"
+  ],
+  "96058196": [
+    "US politics",
+    "economic policy",
+    "financial markets"
+  ],
+  "96064071": [
+    "Federal Reserve",
+    "US politics",
+    "debt ceiling",
+    "economic policy",
+    "inflation"
+  ],
+  "96074518": [
+    "educational technology",
+    "higher education",
+    "historical analysis",
+    "news consumption"
   ]
 }

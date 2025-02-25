@@ -30989,11 +30989,7 @@
     "grade_level": 12.5,
     "word_count": 27,
     "category": "Uncategorized",
-    "tags": [
-      "US politics",
-      "climate change",
-      "taxation"
-    ]
+    "tags": []
   },
   {
     "post_id": 110518383,
@@ -31481,9 +31477,7 @@
     "grade_level": 8.5,
     "word_count": 41,
     "category": "Uncategorized",
-    "tags": [
-      "generative AI"
-    ]
+    "tags": []
   },
   {
     "post_id": 110198262,
@@ -35245,6 +35239,92 @@
     ]
   },
   {
+    "post_id": 117304688,
+    "title": "A guide to prompting AI (for what it is worth)",
+    "canonical_url": "https://www.oneusefulthing.org/p/a-guide-to-prompting-ai-for-what",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 15253266,
+    "top_level": true,
+    "date": "Apr 26 2023 10:41",
+    "likes": 0,
+    "timestamp": 1682520118,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The best way to learn is to use AI as your partner and your teacher. Experiment with different types of prompts and see how the AI responds. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I strongly agree with Ethan/Bing\u2019s advice to experiment. Even just hitting the \u201cRegenerate response\u201d button can give quite a different answer. And I believe you\u2019ll find value in gaining some intuition for when there\u2019s significant variance in responses. Eg, I find longer and more specific prompts produce less variation for technical questions, and that has led me to preemptively write longer prompts to more quickly get the desired answer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, providing negative feedback in ChatGPT (via thumbs-down button) when you know the response is wrong or it simply fails to follow directions can commonly give you an alternative response to judge against the original. In my experience the new response is commonly much better."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I think Ethan\u2019s advice to attempt to learn programming with an AI assistant can be applied to developing intuition about LLMs when used with the ChatGPT API. For example, one could extend Ethan\u2019s clipboard-to-chatgpt program [1] to print multiple responses for a given input. I\u2019d particularly recommend trying this with prompts that should produce short outputs. Eg, \u201csuggest a title for this text.\u201d You can then quickly evaluate the variation in responses."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I was surprised by the results for a similar application of the ChatGPT API when I asked it to suggest a title for a group of similar substack comments, repeated five times. In some cases, it produced the same title five times whereas in other cases it gave five very different results. Examples in [2]. This toy project involved clusters of similar comments and I found that more specific, narrower clusters had more reproducible titles, whereas broad clusters across many topics produced a lot of variation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019d recommend other people attempt similar coding exercises with ChatGPT API to gain some intuition for when results vary. (And possibly learn some programming as an additional benefit.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.oneusefulthing.org/i/115107496/coding-in-one-sentence"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_comment_category_hierarchy/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 15253266,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.1,
+    "word_count": 330,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "software engineering",
+      "tech industry"
+    ]
+  },
+  {
     "post_id": 116692659,
     "title": "Every policy objective, all the time, all at once",
     "canonical_url": "https://www.slowboring.com/p/every-policy-objective-all-the-time",
@@ -38086,6 +38166,48 @@
     "tags": [
       "automation",
       "consumer behavior",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 99943100,
+    "title": "Everyone is above average",
+    "canonical_url": "https://www.oneusefulthing.org/p/everyone-is-above-average",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 40597995,
+    "top_level": true,
+    "date": "Sep 24 2023 10:22",
+    "likes": 4,
+    "timestamp": 1695565355,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think we should also recognize that this is a dynamic process: some firms and some workers will adopt and embrace AI augmentation faster than others. Even among those that adopt it, some will do so better than others. Hence, even if AI is an equalizer at some hypothetical equilibrium, in practice it may be a kingmaker due to variation in the speed at which it is embraced and well applied."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And of course, AI is advancing at a breakneck speed such that almost no one can consistently stay on the frontier. Early adopters may even find themselves developing intuitions and habits that are counterproductive for applying subsequent, more advanced tools."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 40597995,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.8,
+    "word_count": 111,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "generative AI",
       "tech industry"
     ]
   },
@@ -45417,6 +45539,54 @@
     ]
   },
   {
+    "post_id": 147224786,
+    "title": "On speaking to AI",
+    "canonical_url": "https://www.oneusefulthing.org/p/on-speaking-to-ai",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 64119913,
+    "top_level": false,
+    "date": "Aug 02 2024 04:47",
+    "likes": 7,
+    "timestamp": 1722588467,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Extending the metaphor, in some cases, a dull knife can be more dangerous than a sharp one because it isn't capable of cutting certain substances. Attempting to force it to do so can risk damaging the substrate or even causing personal injury."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, attempting to apply an underpowered AI model to a sufficiently complex task may nearly guarantee incorrect results. If the user doesn't recognize that risk, and thereby fails to use a more powerful tool or perform the task without AI, then their work product will suffer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I could see some organizations and individuals falling into that failure mode due to overexcitement to apply AI combined with an insufficient understanding of its limitations, as well as discomfort in using more powerful, agentic AIs in which more decision-making is seceded to the computer."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 64015373,
+    "parent_children": 5,
+    "thread_id": 64015373,
+    "thread_children": 5,
+    "ratio_recv": -6,
+    "ratio_give": -37,
+    "grade_level": 14.8,
+    "word_count": 133,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "generative AI",
+      "tech industry"
+    ]
+  },
+  {
     "post_id": 147214873,
     "title": "The politics of weirdness",
     "canonical_url": "https://www.slowboring.com/p/the-politics-of-weirdness",
@@ -47066,6 +47236,48 @@
     "category": "Uncategorized",
     "tags": [
       "generative AI"
+    ]
+  },
+  {
+    "post_id": 149592536,
+    "title": "AI in organizations: Some tactics",
+    "canonical_url": "https://www.oneusefulthing.org/p/ai-in-organizations-some-tactics",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 71697761,
+    "top_level": false,
+    "date": "Oct 07 2024 08:28",
+    "likes": 2,
+    "timestamp": 1728304119,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The same could be said of ever innovation that increased work productivity. Eg, the steam shovel would lead to masses of unemployed construction workers while a few foreman would steer these massive machines. Yet time and time again the productivity gains just lead to higher ambitions for society. Eg, larger construction projects."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even if machines eventually are capable of doing all economically valuable work, it'll be a process of getting from our current economy to get from here to there. Throughout that journey there will be numerous opportunities for individuals, firms, and institutions to capitalize on the new increased productivity. So we should focus on the opportunities in front of us and at most stockpile a diversified portfolio of assets in the event labor eventually does become worthless."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 71361400,
+    "parent_children": 5,
+    "thread_id": 71361400,
+    "thread_children": 5,
+    "ratio_recv": null,
+    "ratio_give": -15,
+    "grade_level": 11.6,
+    "word_count": 128,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "economic policy",
+      "labor market"
     ]
   },
   {
@@ -59104,7 +59316,7 @@
     "id": 95118212,
     "top_level": false,
     "date": "Feb 21 2025 09:06",
-    "likes": 25,
+    "likes": 26,
     "timestamp": 1740146819,
     "body": [
       [
@@ -59120,11 +59332,11 @@
         }
       ]
     ],
-    "total_children": 23,
+    "total_children": 27,
     "parent_id": 95114301,
-    "parent_children": 48,
+    "parent_children": 52,
     "thread_id": 95091200,
-    "thread_children": 111,
+    "thread_children": 135,
     "ratio_recv": -7,
     "ratio_give": 6,
     "grade_level": 10.2,
@@ -59210,9 +59422,9 @@
     "parent_id": 95119603,
     "parent_children": 5,
     "thread_id": 95091200,
-    "thread_children": 111,
-    "ratio_recv": -7,
-    "ratio_give": -4,
+    "thread_children": 135,
+    "ratio_recv": -6,
+    "ratio_give": -5,
     "grade_level": 9.8,
     "word_count": 167,
     "category": "Uncategorized",
@@ -59247,9 +59459,9 @@
     "parent_id": 95148560,
     "parent_children": 3,
     "thread_id": 95091200,
-    "thread_children": 111,
+    "thread_children": 135,
     "ratio_recv": null,
-    "ratio_give": 8,
+    "ratio_give": 7,
     "grade_level": 3.9,
     "word_count": 32,
     "category": "Uncategorized",
@@ -59349,7 +59561,7 @@
     "parent_id": 95172131,
     "parent_children": 2,
     "thread_id": 95119319,
-    "thread_children": 9,
+    "thread_children": 11,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 11.0,
@@ -59450,7 +59662,7 @@
     "parent_children": null,
     "thread_id": 95429851,
     "thread_children": 17,
-    "ratio_recv": 24,
+    "ratio_recv": 25,
     "ratio_give": null,
     "grade_level": 16.2,
     "word_count": 36,
@@ -59677,7 +59889,7 @@
     "parent_id": 95512417,
     "parent_children": 3,
     "thread_id": 95430185,
-    "thread_children": 139,
+    "thread_children": 143,
     "ratio_recv": -1,
     "ratio_give": 1,
     "grade_level": 11.1,
@@ -59701,7 +59913,7 @@
     "id": 95549557,
     "top_level": false,
     "date": "Feb 23 2025 05:26",
-    "likes": 33,
+    "likes": 44,
     "timestamp": 1740306377,
     "body": [
       [
@@ -59743,11 +59955,11 @@
     ],
     "total_children": 4,
     "parent_id": 95545483,
-    "parent_children": 16,
+    "parent_children": 18,
     "thread_id": 95545483,
-    "thread_children": 16,
-    "ratio_recv": -28,
-    "ratio_give": -23,
+    "thread_children": 18,
+    "ratio_recv": -36,
+    "ratio_give": -26,
     "grade_level": 11.6,
     "word_count": 299,
     "category": "Uncategorized",
@@ -59768,7 +59980,7 @@
     "id": 95568909,
     "top_level": false,
     "date": "Feb 23 2025 08:18",
-    "likes": 7,
+    "likes": 12,
     "timestamp": 1740316726,
     "body": [
       [
@@ -59806,13 +60018,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 95545084,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 95543943,
-    "thread_children": 35,
-    "ratio_recv": null,
-    "ratio_give": -18,
+    "thread_children": 71,
+    "ratio_recv": -11,
+    "ratio_give": -21,
     "grade_level": 8.1,
     "word_count": 139,
     "category": "Uncategorized",
@@ -59832,7 +60044,7 @@
     "id": 95573567,
     "top_level": false,
     "date": "Feb 23 2025 08:45",
-    "likes": 14,
+    "likes": 29,
     "timestamp": 1740318327,
     "body": [
       [
@@ -59854,13 +60066,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 95555788,
-    "parent_children": 7,
+    "parent_children": 16,
     "thread_id": 95543943,
-    "thread_children": 35,
-    "ratio_recv": -14,
-    "ratio_give": -5,
+    "thread_children": 71,
+    "ratio_recv": -20,
+    "ratio_give": -2,
     "grade_level": 11.3,
     "word_count": 140,
     "category": "Uncategorized",
@@ -59919,9 +60131,9 @@
     "parent_id": 95607604,
     "parent_children": 3,
     "thread_id": 95545483,
-    "thread_children": 16,
+    "thread_children": 18,
     "ratio_recv": -3,
-    "ratio_give": -2,
+    "ratio_give": -5,
     "grade_level": 13.0,
     "word_count": 297,
     "category": "Uncategorized",
@@ -59943,7 +60155,7 @@
     "id": 95634305,
     "top_level": true,
     "date": "Feb 23 2025 13:13",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1740334407,
     "body": [
       [
@@ -59977,11 +60189,11 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 95634305,
-    "thread_children": 2,
+    "thread_children": 3,
     "ratio_recv": 0,
     "ratio_give": null,
     "grade_level": 21.4,
@@ -60046,11 +60258,11 @@
     ],
     "total_children": 1,
     "parent_id": 95634305,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 95634305,
-    "thread_children": 2,
+    "thread_children": 3,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": -1,
     "grade_level": 13.4,
     "word_count": 182,
     "category": "Uncategorized",
@@ -60066,7 +60278,7 @@
     "id": 95636446,
     "top_level": false,
     "date": "Feb 23 2025 13:22",
-    "likes": 0,
+    "likes": 7,
     "timestamp": 1740334973,
     "body": [
       [
@@ -60082,13 +60294,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 95631904,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 95543943,
-    "thread_children": 35,
-    "ratio_recv": null,
-    "ratio_give": 0,
+    "thread_children": 71,
+    "ratio_recv": -6,
+    "ratio_give": -2,
     "grade_level": 11.1,
     "word_count": 119,
     "category": "Uncategorized",
@@ -60110,7 +60322,7 @@
     "id": 95638922,
     "top_level": false,
     "date": "Feb 23 2025 13:33",
-    "likes": 0,
+    "likes": 13,
     "timestamp": 1740335621,
     "body": [
       [
@@ -60126,13 +60338,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 6,
     "parent_id": 95633011,
-    "parent_children": 14,
+    "parent_children": 103,
     "thread_id": 95633011,
-    "thread_children": 14,
-    "ratio_recv": null,
-    "ratio_give": -9,
+    "thread_children": 103,
+    "ratio_recv": -2,
+    "ratio_give": -18,
     "grade_level": 13.8,
     "word_count": 119,
     "category": "Uncategorized",
@@ -60140,6 +60352,845 @@
       "cryptocurrency",
       "media bias",
       "tech industry"
+    ]
+  },
+  {
+    "post_id": 157752662,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-125",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95641418,
+    "top_level": false,
+    "date": "Feb 23 2025 13:44",
+    "likes": 11,
+    "timestamp": 1740336267,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The 5 comments for additional details, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/#sort=likes&type=all&show=50&page=1&startDate=2021-10-20&endDate=2025-02-24&category=all&search=%22Only+fools+think+Elon+is+incompetent%22&tags=all"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My general frustration with that discussion\u2014and the broader Musk discourse\u2014is that I commonly see people attempting to downplay his aptitude and past successes, possibly as some sort of insult or an attempt to diminish his standing in an imagined ranking. I think that\u2019s at best an irrelevant intellectual exercise, given his track record of having real disruptive impact in unexpected ways. Moreover, these considerations could be a distraction\u2014or worse, they could lead us to underestimate the very real risk that Musk and his team pose to federal state capacity."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95638922,
+    "parent_children": 6,
+    "thread_id": 95633011,
+    "thread_children": 103,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 16.8,
+    "word_count": 95,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157728665,
+    "title": "Only fools think Elon is incompetent",
+    "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95668028,
+    "top_level": false,
+    "date": "Feb 23 2025 15:46",
+    "likes": 0,
+    "timestamp": 1740343568,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but, regardless, Musk and team managed this well enough that it did minimal, if any harm. Notably, he can still raise massive of capital for absurd ideas like impulsively buying Twitter at a massive makeup, without any plan. Moreover, Hyperloop may have some minimal value as proposed in that comment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To me this is just another example of the Musk method: do something crazy and manage it well enough to avoid too much failure, and, at times, get massive upside. Even his failures have minimal downside for him and his teams."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95614252,
+    "parent_children": 2,
+    "thread_id": 95545483,
+    "thread_children": 18,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 8.1,
+    "word_count": 92,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "entrepreneurship"
+    ]
+  },
+  {
+    "post_id": 157547069,
+    "title": "Democrats should stop subsidizing Tesla",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-stop-subsiding-tesla",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95808981,
+    "top_level": false,
+    "date": "Feb 24 2025 08:21",
+    "likes": 10,
+    "timestamp": 1740403306,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I 75% think this comment is a satirical joke with callbacks to legacy, Democratic political failures and misinformation. Yet, I'm going to lazily focus on the following serious point: I think oil and gas industry is past that and has even repositioned their business, notably their investments, to be generic energy firms with increasingly more renewables."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall every O&G multinational trying to rebrand as an energy company back when that was in vogue in 2021-23 or so. I think one of them even has some board member who got their seat as a hostile, activist investor pushing for green energy refocus as part of some climate action / ESG investment plot. Google and ChatGPT pointed me to the following Reuters [1] and Wikipedia [2] sources, summarized as follows:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In 2021, the activist hedge fund Engine No. 1 led a campaign targeting ExxonMobil, aiming to shift the company\u2019s focus toward green energy. Despite holding only a 0.02% stake, Engine No. 1 successfully secured three seats on Exxon\u2019s board of directors, including the election of Kaisa Hietala, a former executive at Neste known for advancing renewable energy initiatives.  \ufffc \ufffc"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ChatGPT also added the following description of a regression in ESG policy, which seems relevant to changing moods, and I'm going assume is correct without even checking the credible sources [3,4]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Similarly, in 2025, Elliott Investment Management acquired a nearly 5% stake in BP and pressured the company to reassess its renewable energy investments. This led BP to abandon its ambitious renewable energy targets and refocus on fossil fuels.  \ufffc"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> These instances reflect a broader trend during 2021-2025, where oil and gas companies rebranded as energy companies and faced pressure from activist investors to adjust their strategies concerning green energy and climate action."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I'm certain these companies will greedily adopt green energy if it's sufficiently lucrative, or even just at the urging of more idiot investors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reuters.com/business/sustainable-business/shareholder-activism-reaches-milestone-exxon-board-vote-nears-end-2021-05-26/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Kaisa_Hietala"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reuters.com/business/energy/bp-ditch-renewables-goals-return-focus-fossil-fuels-2025-02-24/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.library.hbs.edu/working-knowledge/esg-activists-met-the-moment-at-exxon-mobil-but-did-they-succeed"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 95805046,
+    "parent_children": 8,
+    "thread_id": 95791246,
+    "thread_children": 85,
+    "ratio_recv": -6,
+    "ratio_give": 7,
+    "grade_level": 12.1,
+    "word_count": 316,
+    "category": "Uncategorized",
+    "tags": [
+      "activism",
+      "business strategy",
+      "climate change",
+      "economic policy",
+      "energy policy"
+    ]
+  },
+  {
+    "post_id": 157547069,
+    "title": "Democrats should stop subsidizing Tesla",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-stop-subsiding-tesla",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95810155,
+    "top_level": false,
+    "date": "Feb 24 2025 08:27",
+    "likes": 9,
+    "timestamp": 1740403637,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, but on what time scale did households ditch landline phones with everyone having their own mobile phone? Seems to be on the order of a decade or two. Anyone predicting that during the early days of cell phones in the 80s/90s would've been branded as delusional. Similarly, on what time frame did streaming supplant cable/broadcast? This stuff happens fast once the new technology is sufficiently superior to the old way."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 95802412,
+    "parent_children": 7,
+    "thread_id": 95792185,
+    "thread_children": 181,
+    "ratio_recv": -8,
+    "ratio_give": 5,
+    "grade_level": 7.6,
+    "word_count": 71,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 157547069,
+    "title": "Democrats should stop subsidizing Tesla",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-stop-subsiding-tesla",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95811245,
+    "top_level": false,
+    "date": "Feb 24 2025 08:32",
+    "likes": 5,
+    "timestamp": 1740403923,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, but would you take a Waymo just out of curiosity for an in-city SF ride? What about if it was also cheaper and had a lower wait time? Would you one day wait 30 min for a legacy cab and pay three times the price to avoid a Waymo?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The general prediction seems to be that fewer people own cars when self-driving cars make ride hailing services increasingly competitive on terms of pricing and convenience. Particularly for people who are marginal car owners due to living in urban areas. At some point, even suburban households may have fewer cars with extra trips handled by ride hailing. Maybe even car free households if they're confident they can preorder cars for time-critical travel and hail one sufficiently quickly for ad hoc trips."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95806396,
+    "parent_children": 28,
+    "thread_id": 95792185,
+    "thread_children": 181,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.4,
+    "word_count": 131,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "consumer behavior"
+    ]
+  },
+  {
+    "post_id": 157729795,
+    "title": "A new generation of AIs: Claude 3.7 and Grok 3",
+    "canonical_url": "https://www.oneusefulthing.org/p/a-new-generation-of-ais-claude-37",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95902622,
+    "top_level": true,
+    "date": "Feb 24 2025 14:28",
+    "likes": 3,
+    "timestamp": 1740425289,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think we\u2019re getting into serious capability overhang territory from the perspective of moderately engaged users. Deeply engaged users, researchers, and staff at AI firms are likely far ahead in terms of how they\u2019ve adapted their workflows\u2014both at the individual and organizational levels. Yet it could still be a while before their learnings become sufficiently legible for the rest of us to adopt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a software engineer, I primarily use 4o for coding, writing, and research\u2014rarely switching to o1 or o3-mini. When I do, it\u2019s usually just to experiment and mainly learn that I need to provide even more context for AI to help with a large, idiosyncratic problem\u2014often attaching numerous source code files. Almost always, it\u2019s faster for me to break these problems into smaller ones for 4o or even just solve them myself. (Though even my manual coding has been accelerated over the last two years with simple GitHub Copilot autocomplete.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I\u2019ve avoided upgrading to Pro because I could see Deep Research consuming a ton of my time in experimentation without actually needing such functionality. I already have too much quality content to read and explore\u2014no need to commission reports on tangential-at-best professional subjects."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95902622,
+    "thread_children": 2,
+    "ratio_recv": -1,
+    "ratio_give": null,
+    "grade_level": 11.8,
+    "word_count": 197,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "software engineering"
+    ]
+  },
+  {
+    "post_id": 157841191,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-ade",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96040406,
+    "top_level": false,
+    "date": "Feb 25 2025 04:36",
+    "likes": 0,
+    "timestamp": 1740476165,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "People like the rhetoric and vibes of challenging power with messaging that promises to fix injustices in their lives. But in practice, this rarely leads to concrete policy with broad support. E.g., M4A can be marketed to appeal to many voters, but when it comes to the details of policy design, voters reject changing the status quo\u2014no one wants to risk losing their doctor or being denied procedures or medications they believe could help them, let alone paying more in taxes. Similarly, changes to executive compensation, stock buybacks, and taxes on billionaires don\u2019t actually do anything for the broad public\u2014at most, it just feels good to imagine punishing more successful, powerful people when one is struggling."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, populism\u2014on both the left and the right\u2014can be leveraged for great propaganda but rarely translates into effective policy. At best, we can hope for a charismatic leader like Obama, with the good sense and appreciation for the system to work through some pragmatic policies while managing the broader vibes with rhetoric."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even our patron saint FDR mainly created and maintained the permission structure for bold policy experimentation. Some of the initiatives were counterproductive\u2014e.g., tariffs and government-organized private cartels. Others met the moment well, notably banking regulation, deposit guarantees, and Social Security. Moreover, in the depths of the Great Depression, many people simply appreciated that the government was doing something, anything, even if it wasn\u2019t obvious how it would help them. Combine this with FDR\u2019s brilliant messaging and marketing, and we had a broadly popular Democratic administration and Congress that pushed through disruptive change with public support."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95990516,
+    "parent_children": 2,
+    "thread_id": 95956451,
+    "thread_children": 6,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 13.1,
+    "word_count": 264,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "political campaigns",
+      "populism",
+      "tax policy"
+    ]
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96054267,
+    "top_level": false,
+    "date": "Feb 25 2025 06:58",
+    "likes": 3,
+    "timestamp": 1740484713,
+    "body": [
+      [],
+      [
+        {
+          "type": "text",
+          "value": "There are a multitude of articles, podcasts, and video reports on these legal and economic topics on Bloomberg. There is also thoughtful analysis and forecasting on geopolitics and global markets. Moreover, to avoid further marketing my preferred product, I imagine WSJ, FT, and other publications have similar offerings."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A recurring theme in such reporting and analysis is uncertainty and competing narratives. That has been true for the last few years I\u2019ve been paying attention, as well as in earlier contemporary reporting on past events. Even between two Democratic Harvard econ professors\u2014Summers and Furman\u2014there can be substantial differences despite broad agreement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, overly confident predictions without sufficient consideration of uncertainty and alternative theories risk credibility. Fully appreciating this as an individual can require a significant time commitment over multi-year scales in my experience."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And of course, there are numerous AI products that could generate individualized studies of contemporary events through different lenses. Hence, I doubt SB-commissioned articles would be useful beyond recommending further resources and self-study for motivated individuals."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 96050088,
+    "parent_children": 13,
+    "thread_id": 96050088,
+    "thread_children": 13,
+    "ratio_recv": 3,
+    "ratio_give": -21,
+    "grade_level": 13.4,
+    "word_count": 168,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "financial markets",
+      "generative AI",
+      "international relations",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96058196,
+    "top_level": false,
+    "date": "Feb 25 2025 07:25",
+    "likes": 6,
+    "timestamp": 1740486308,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Example from my morning reading, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/news/features/2025-02-24/elon-musk-s-doge-budget-cut-plans-aren-t-convincing-the-bond-market"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Bond Market Isn't Fully Buying"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "What Musk's DOGE Is Selling"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- US Treasury yields offer a scorecard for the White House's cost-cutting vows"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It was a little after midnight on Feb. 3, and Elon Musk was reveling in the first big trophy from his rapid-fire campaign through Washington to slash government spending. He had just engineered, not even two weeks into President Donald Trump's new term, the sudden shuttering of the US Agency for International Development. But then Musk recognized that the ultimate scorekeepers of the success of his small band of cost-cutters were 200 miles away - on Wall Street. There, bond investors had pushed up yields sharply in the run-up to, and aftermath of, Trump's election and were now refusing to bid them back down."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 96054267,
+    "parent_children": 3,
+    "thread_id": 96050088,
+    "thread_children": 13,
+    "ratio_recv": -2,
+    "ratio_give": 3,
+    "grade_level": 12.3,
+    "word_count": 131,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "financial markets"
+    ]
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96064071,
+    "top_level": false,
+    "date": "Feb 25 2025 07:59",
+    "likes": 4,
+    "timestamp": 1740488377,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For completion, ChatGPT summarization that personalizes this to my interests and preferred format, "
+        },
+        {
+          "type": "url",
+          "value": "https://gist.github.com/matthagy/01d48b36872bfa7d433e310ddb6899b7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Summary of \"US Bond Yields Remain High Despite Musk's DOGE Efforts\" (Bloomberg)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Key Takeaway:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Despite Elon Musk's aggressive cost-cutting through the Department of Government Efficiency (DOGE), bond markets remain skeptical. US Treasury yields stay elevated, reflecting doubts about the sustainability and effectiveness of the administration\u2019s deficit-reduction efforts. Investors fear that tax cuts and tariffs could counteract spending cuts, fueling inflation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "---"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1. Bond Markets Are Not Buying DOGE\u2019s Narrative"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Musk\u2019s spending cuts (~$55B claimed, likely far less) have failed to reassure investors."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 10-year Treasury yields remain high (~4.4-4.7%), up from 4.3% pre-election."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Bond markets demand tangible, sustained deficit reduction, not just rhetoric."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2. Limited Impact of Spending Cuts"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- DOGE\u2019s cuts:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - Shuttered USAID and Consumer Financial Protection Bureau."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - Many savings blocked by lawsuits."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Even if DOGE achieves $500B in annual cuts, Trump\u2019s tax cuts and tariffs could erase gains."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Annual deficit is still ~$1.8T, making current cuts too small to matter."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3. Inflation & Federal Reserve\u2019s Role"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Inflation hit 3% in January, pressuring the Fed to keep rates high."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Trump\u2019s tariffs & tax cuts risk further inflation, preventing rate cuts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Higher bond yields = more expensive borrowing, slowing growth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "4. Market Sentiment: Skepticism & Small Signs of Hope"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Investors see Trump\u2019s policies as inflationary, betting on higher long-term rates."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Some treasury outperformance vs. swaps suggests mild optimism about deficit cuts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Bessent (Treasury Secretary) aims for:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - 3% GDP deficit target by 2028."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - 3% economic growth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - 3M barrels/day more oil production to ease inflation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "5. The Bigger Debt Crisis Looming"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Debt-to-GDP now 99%, triple 2001 levels."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Without sustained spending discipline, the US risks a debt spiral."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Bond markets demand hard evidence, not promises\u2014a lesson learned in the Clinton era."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "---"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Conclusion:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk\u2019s cost-cutting blitz through DOGE has not convinced markets. Structural issues\u2014tax cuts, tariffs, and lawsuits\u2014limit its effectiveness, keeping yields high. Unless the administration proves its ability to shrink deficits sustainably, investors will continue demanding higher returns, tightening financial conditions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96058196,
+    "parent_children": 2,
+    "thread_id": 96050088,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 9.2,
+    "word_count": 324,
+    "category": "Uncategorized",
+    "tags": [
+      "Federal Reserve",
+      "US politics",
+      "debt ceiling",
+      "economic policy",
+      "inflation"
+    ]
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96074518,
+    "top_level": false,
+    "date": "Feb 25 2025 08:49",
+    "likes": 1,
+    "timestamp": 1740491364,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. I've come to appreciate the depth and nuances of these and other fields, particularly history, from my one streaming subscription: The Great Courses on Amazon Prime. For $8/mo, get access to 100's of high-quality lecture series from reputable and passionate professors. Each is generally 15 to 40 lectures, each of 30 minutes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As examples, here the 10 most recent series I've watched over the last year or so."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Books That Matter: The Federalist Papers"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The Vietnam War"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- World War I: The Great War"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- A Historian Goes to the Movies: Ancient Rome"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Western Civilization II"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- History of the United States"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The U.S. Constitution Through History"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The Middle East in the 20th Century"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- The Industrial Revolution"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Understanding the New Testament"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For several, I've only watched one or two lectures. Others, notably \"Western Civilization II\" and \"The Industrial Revolution\", I watched multiple times. Even got the audio book for those two for additional consumption on walks. I highly recommend the general offering of The Great Courses for engaging content to help us better appreciate the depth of various topics of interests as well as to build some high level understanding."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96067966,
+    "parent_children": 2,
+    "thread_id": 96050088,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 11.4,
+    "word_count": 188,
+    "category": "Uncategorized",
+    "tags": [
+      "educational technology",
+      "higher education",
+      "historical analysis",
+      "news consumption"
     ]
   }
 ]
