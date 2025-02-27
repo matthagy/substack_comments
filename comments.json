@@ -60344,7 +60344,7 @@
     "thread_id": 95633011,
     "thread_children": 103,
     "ratio_recv": -2,
-    "ratio_give": -18,
+    "ratio_give": -19,
     "grade_level": 13.8,
     "word_count": 119,
     "category": "Uncategorized",
@@ -60541,7 +60541,7 @@
     "parent_id": 95805046,
     "parent_children": 8,
     "thread_id": 95791246,
-    "thread_children": 85,
+    "thread_children": 89,
     "ratio_recv": -6,
     "ratio_give": 7,
     "grade_level": 12.1,
@@ -60579,7 +60579,7 @@
     "parent_id": 95802412,
     "parent_children": 7,
     "thread_id": 95792185,
-    "thread_children": 181,
+    "thread_children": 186,
     "ratio_recv": -8,
     "ratio_give": 5,
     "grade_level": 7.6,
@@ -60621,7 +60621,7 @@
     "parent_id": 95806396,
     "parent_children": 28,
     "thread_id": 95792185,
-    "thread_children": 181,
+    "thread_children": 186,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 9.4,
@@ -60689,7 +60689,7 @@
     "id": 96040406,
     "top_level": false,
     "date": "Feb 25 2025 04:36",
-    "likes": 0,
+    "likes": 3,
     "timestamp": 1740476165,
     "body": [
       [
@@ -60715,9 +60715,9 @@
     "parent_id": 95990516,
     "parent_children": 2,
     "thread_id": 95956451,
-    "thread_children": 6,
+    "thread_children": 8,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -2,
     "grade_level": 13.1,
     "word_count": 264,
     "category": "Uncategorized",
@@ -60739,7 +60739,7 @@
     "id": 96054267,
     "top_level": false,
     "date": "Feb 25 2025 06:58",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1740484713,
     "body": [
       [],
@@ -60768,13 +60768,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 96050088,
-    "parent_children": 13,
+    "parent_children": 42,
     "thread_id": 96050088,
-    "thread_children": 13,
+    "thread_children": 42,
     "ratio_recv": 3,
-    "ratio_give": -21,
+    "ratio_give": -65,
     "grade_level": 13.4,
     "word_count": 168,
     "category": "Uncategorized",
@@ -60796,7 +60796,7 @@
     "id": 96058196,
     "top_level": false,
     "date": "Feb 25 2025 07:25",
-    "likes": 6,
+    "likes": 8,
     "timestamp": 1740486308,
     "body": [
       [
@@ -60834,12 +60834,12 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 3,
     "parent_id": 96054267,
-    "parent_children": 3,
+    "parent_children": 4,
     "thread_id": 96050088,
-    "thread_children": 13,
-    "ratio_recv": -2,
+    "thread_children": 42,
+    "ratio_recv": -1,
     "ratio_give": 3,
     "grade_level": 12.3,
     "word_count": 131,
@@ -60860,7 +60860,7 @@
     "id": 96064071,
     "top_level": false,
     "date": "Feb 25 2025 07:59",
-    "likes": 4,
+    "likes": 7,
     "timestamp": 1740488377,
     "body": [
       [
@@ -61066,13 +61066,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 96058196,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 96050088,
-    "thread_children": 13,
-    "ratio_recv": null,
-    "ratio_give": -2,
+    "thread_children": 42,
+    "ratio_recv": -2,
+    "ratio_give": -1,
     "grade_level": 9.2,
     "word_count": 324,
     "category": "Uncategorized",
@@ -61094,7 +61094,7 @@
     "id": 96074518,
     "top_level": false,
     "date": "Feb 25 2025 08:49",
-    "likes": 1,
+    "likes": 12,
     "timestamp": 1740491364,
     "body": [
       [
@@ -61176,13 +61176,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 96067966,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 96050088,
-    "thread_children": 13,
-    "ratio_recv": null,
-    "ratio_give": -5,
+    "thread_children": 42,
+    "ratio_recv": -12,
+    "ratio_give": -4,
     "grade_level": 11.4,
     "word_count": 188,
     "category": "Uncategorized",
@@ -61192,5 +61192,391 @@
       "historical analysis",
       "news consumption"
     ]
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96091345,
+    "top_level": false,
+    "date": "Feb 25 2025 09:56",
+    "likes": 17,
+    "timestamp": 1740495367,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Tony Stark isn\u2019t real. Even our current narratives around past actual geniuses likely obscure their very real limitations. At most, we get some apocryphal story about Einstein struggling with math as a student or Feynman scoring at below genius level on some IQ test."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I doubt we\u2019re going to break the cult of Musk by debating the nuances of his aptitudes across various dimensions and general intelligence. Moreover, lazy and erroneous attempts to downplay his very real accomplishments only brand us as disingenuous critics who can be easily dismissed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At most, we can focus on the durable harms attributable to Musk and DOGE that are felt by electorally relevant sections of the public as they materialize over the next few months. Then, those individuals can increasingly reject Musk and Trump using whatever narratives resonate with them\u2014e.g., branding Musk as a moron or a genius who fell to hubris. They can use whatever story they want, as long as it justifies a Democratic vote."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 96077661,
+    "parent_children": 25,
+    "thread_id": 96060192,
+    "thread_children": 60,
+    "ratio_recv": -13,
+    "ratio_give": -7,
+    "grade_level": 10.4,
+    "word_count": 164,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157919547,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-df8",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96202359,
+    "top_level": false,
+    "date": "Feb 25 2025 17:16",
+    "likes": 5,
+    "timestamp": 1740521803,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> In February [2010], [Spitzer] faced off with Stephen Colbert on \u201cThe Colbert Report.\u201d After Mr. Colbert recited what he said were the missteps of Ben Bernanke, he asked Mr. Spitzer if he was surprised that Mr. Bernanke had been reappointed chairman of the Federal Reserve, adding, \u201cDoes this give you hope for being re-elected governor of New York?\u201d \u2014 laughter and applause from audience \u2014 \u201cBecause, may I remind you, he screwed everybody.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.nytimes.com/2010/04/08/fashion/08Spitzer.html"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Wish I could find the video. That scene is included in \"Money For Nothing: Inside the Federal Reserve\", a great documentary on the Fed and The Great Financial crisis. Feels more poignant now that I am a NYC resident and recognize the absurdity of our state and local government. Spitzer may actually be due a redemption arch."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 96200335,
+    "parent_children": 10,
+    "thread_id": 96198863,
+    "thread_children": 16,
+    "ratio_recv": -4,
+    "ratio_give": 1,
+    "grade_level": 7.6,
+    "word_count": 128,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157811217,
+    "title": "Misinformation mostly confuses your own side ",
+    "canonical_url": "https://www.slowboring.com/p/misinformation-mostly-confuses-your",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96310380,
+    "top_level": false,
+    "date": "Feb 26 2025 06:54",
+    "likes": 10,
+    "timestamp": 1740570859,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'll concede that the Fed could've raised rates earlier and more aggressily, despite the large uncertainty of both the pandemic trajectory and fiscal policy, and that almost certainly would've suppressed inflation. But that would be accomplished by slower pandemic economic recovery and less subsequent growth."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe voters would've preferred that in some ways, but I would still expect this to harm Democrats and Biden. To the extent voters even understand macroeconomics and monetary policy, the economic pain would almost certainly be directed to the party in power. Including weaponized through misinformation from both the right and the left "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would've been simpler to just pass better designed fiscal policy in the American Recovery Act, in my opinion. Yet I'll further concede there is much uncertainty in such counterfactuals. And maybe we as a party lacked, and continue to lack, a realistic understanding of fiscal policy and macroeconomics as would be needed for such well designed bills."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 96307811,
+    "parent_children": 11,
+    "thread_id": 96307811,
+    "thread_children": 11,
+    "ratio_recv": -9,
+    "ratio_give": 5,
+    "grade_level": 11.9,
+    "word_count": 155,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157811217,
+    "title": "Misinformation mostly confuses your own side ",
+    "canonical_url": "https://www.slowboring.com/p/misinformation-mostly-confuses-your",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96330910,
+    "top_level": false,
+    "date": "Feb 26 2025 08:42",
+    "likes": 10,
+    "timestamp": 1740577375,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> This guy isn\u2019t dumb, he\u2019s an accomplished professional."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So is Musk and numerous other notable people pushing insane ideas on social media. Nate Silver recently published a thoughtful article on this general topic, with him as an example in \"Elon Musk and spiky intelligence\". "
+        },
+        {
+          "type": "url",
+          "value": "https://www.natesilver.net/p/elon-musk-and-spiky-intelligence"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "See also Scott Alexander 2023 review of Musk biography, [2] in which Scott offers some charity in attempting to answer the question, \u201cMusk creates cognitive dissonance: how can someone be so smart and so dumb at the same time?\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://www.astralcodexten.com/p/book-review-elon-musk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And all of us have our own biases in our perception and interpretation of our world\u2014although hopefully less pronounced in terms of absurdities."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96309748,
+    "parent_children": 12,
+    "thread_id": 96308910,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -15,
+    "grade_level": 11.6,
+    "word_count": 106,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157811217,
+    "title": "Misinformation mostly confuses your own side ",
+    "canonical_url": "https://www.slowboring.com/p/misinformation-mostly-confuses-your",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96377349,
+    "top_level": false,
+    "date": "Feb 26 2025 11:40",
+    "likes": 7,
+    "timestamp": 1740588014,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Split it into two independent orgs with separate finances. One for operations and the other for advocacy. Government funds only go to the operational org and, moreover, it needs to make it's spending legible and publicly available for scrutiny. The advocacy org is private and donor funded, it can do whatever it wants."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 96344904,
+    "parent_children": 4,
+    "thread_id": 96312865,
+    "thread_children": 97,
+    "ratio_recv": 1,
+    "ratio_give": -3,
+    "grade_level": 9.7,
+    "word_count": 53,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157620293,
+    "title": "How we\u2019re thinking about covering Donald Trump",
+    "canonical_url": "https://www.slowboring.com/p/how-were-thinking-about-covering",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96561603,
+    "top_level": false,
+    "date": "Feb 27 2025 05:14",
+    "likes": 0,
+    "timestamp": 1740651299,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I agree we can acknowledge both. My concern is around focus and narrative. Over the last decade, I\u2019ve seen numerous critics focus on Musk\u2019s very real weaknesses and personality flaws, then project the failure of his projects\u2014including Tesla, SpaceX, and Twitter\u2014based on those narratives. Moreover, they attempted to convince others of the futility of these projects. They were repeatedly proven wrong."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m concerned that Democrats are falling into this same trap in addressing Musk and DOGE. Musk already has a long track record of personal and professional issues (to say the least), and I doubt highlighting additional, more recent examples will be particularly convincing to anyone. At best, we need to tie his flaws and failings back to real issues experienced by electorally relevant segments of voters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, there\u2019s a very real risk that we\u2019ll fail to do that and instead distract ourselves with our own visceral, obsessive dislike of Musk. We should acknowledge both his personality flaws and our own fascination with them, while recognizing the risk of distraction if we don\u2019t move beyond our personal frame of reference. Many people either don\u2019t care or have different narratives. Hence, defeating Musk through electoral politics will require us to focus on framing that is electorally productive."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96239534,
+    "parent_children": 2,
+    "thread_id": 96060192,
+    "thread_children": 60,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.0,
+    "word_count": 207,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157897543,
+    "title": "Flu and measles are getting worse as vaccination rates fall",
+    "canonical_url": "https://www.slowboring.com/p/flu-and-measles-are-getting-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96579062,
+    "top_level": true,
+    "date": "Feb 27 2025 07:39",
+    "likes": 6,
+    "timestamp": 1740659954,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "IMO, we need a counter-conspiracy theory. For example, what if sowing doubt in vaccines is actually part of a diabolical plot\u2014orchestrated by elites and their media/tech allies\u2014to harm their political opponents, or at least people they find inconvenient for their political aims? I obviously won\u2019t fill in the details here, as that could suggest I myself harbor harmful views or am at least mentally unbalanced."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet, I\u2019ve played with this idea in other private conversations, and it\u2019s at least entertaining as a way to explore the absurdities of conspiracy theories while also being plausibly useful in undermining current antivax conspiracy theories. However, I do believe there\u2019s a real risk that this false narrative could evolve in unpredictable ways\u2014possibly even merging with existing antivax conspiracy theories to further sow doubt."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, I think it would be interesting to playfully explore a \u201cIf we did it\u2026\u201d fictional, counterfactual story about manufacturing antivax conspiracy theories for such sinister ends. Moreover, it could be intellectually engaging to consider how popularizing such a counter-conspiracy theory might diffuse (or alternatively, enhance) existing conspiracy theories. I may try to work this into a mailbag question."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 96579062,
+    "thread_children": 2,
+    "ratio_recv": -6,
+    "ratio_give": null,
+    "grade_level": 16.0,
+    "word_count": 188,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157897543,
+    "title": "Flu and measles are getting worse as vaccination rates fall",
+    "canonical_url": "https://www.slowboring.com/p/flu-and-measles-are-getting-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96584743,
+    "top_level": false,
+    "date": "Feb 27 2025 08:10",
+    "likes": 5,
+    "timestamp": 1740661856,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Uh, possibly. But the outcomes of such crises throughout history are highly unpredictable, and we could end up in even worse situations. E.g., various events in the collapse of Rome (both the Republic and later the Empire) or the rise of Hitler. Moreover, even crises that ultimately led to good, durable change\u2014such as the Great Depression in the U.S. or the American Revolution\u2014were highly uncertain as they played out, with substantial contingency in the outcomes we now appreciate in hindsight."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And of course, we could just keep muddling along for decades despite the real risk of a major crisis. Simply waiting for\u2014or at times hoping for\u2014such a resolution could be counterproductive to actual, incremental improvements, or at the very least, rather frustrating and demotivating."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 96570197,
+    "parent_children": 12,
+    "thread_id": 96570197,
+    "thread_children": 12,
+    "ratio_recv": -3,
+    "ratio_give": -23,
+    "grade_level": 11.4,
+    "word_count": 124,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157897543,
+    "title": "Flu and measles are getting worse as vaccination rates fall",
+    "canonical_url": "https://www.slowboring.com/p/flu-and-measles-are-getting-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96590896,
+    "top_level": false,
+    "date": "Feb 27 2025 08:40",
+    "likes": 0,
+    "timestamp": 1740663627,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! Moreover, everyone wants a narrative structure that absolves them of responsibility for their unhealthy lifestyles. Whether it\u2019s corporate greed, genetics, social forces (all of which are plausible, if not significant, factors), or some unhinged conspiracy theory, there is strong demand for an explanation that removes personal agency."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet I think it can be more liberating to embrace one\u2019s own decisions and their suboptimal outcomes. At times, that can also be just another way of avoiding the issue (I\u2019m all too aware of this as a nicotine addict). Regardless, I\u2019d expect most people to feel better having some sense of control and agency over their fate\u2014even if the truth is more complicated, with structural forces, contingent events, and possibly even innate limitations shaping our outcomes. Moreover, believing in one\u2019s ability to change behavior should also create more opportunities for positive interventions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96567707,
+    "parent_children": 9,
+    "thread_id": 96567707,
+    "thread_children": 9,
+    "ratio_recv": null,
+    "ratio_give": -19,
+    "grade_level": 13.6,
+    "word_count": 141,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]

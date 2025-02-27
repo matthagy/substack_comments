@@ -1772,13 +1772,6 @@
     "US politics",
     "political campaigns"
   ],
-  "11281564": [
-    "Federal Reserve",
-    "financial markets",
-    "inflation",
-    "labor market",
-    "monetary policy"
-  ],
   "11282106": [
     "advertising revenue",
     "drug policy",
@@ -1990,10 +1983,6 @@
     "crime and justice",
     "financial regulation"
   ],
-  "11843203": [
-    "financial markets",
-    "financial regulation"
-  ],
   "11843405": [
     "crime and justice",
     "financial regulation"
@@ -2059,16 +2048,6 @@
     "economic policy",
     "political polarization",
     "tax policy"
-  ],
-  "12070359": [
-    "partisan politics",
-    "populism",
-    "progressivism",
-    "tax policy"
-  ],
-  "12125239": [
-    "comment moderation",
-    "social media influence"
   ],
   "12125550": [
     "business strategy",
@@ -2541,19 +2520,9 @@
     "machine learning",
     "tech industry"
   ],
-  "13947017": [
-    "US politics",
-    "identity politics",
-    "media influence"
-  ],
   "13948439": [
     "US politics",
     "identity politics",
-    "media influence",
-    "social justice"
-  ],
-  "13949388": [
-    "US politics",
     "media influence",
     "social justice"
   ],
@@ -4725,18 +4694,6 @@
     "economic policy",
     "foreign policy"
   ],
-  "93313157": [
-    "US politics",
-    "business strategy",
-    "media influence",
-    "partisan politics",
-    "tech industry"
-  ],
-  "93321281": [
-    "business strategy",
-    "free speech issues",
-    "tech industry"
-  ],
   "93337983": [
     "Russia-Ukraine conflict",
     "US politics",
@@ -5091,5 +5048,45 @@
     "higher education",
     "historical analysis",
     "news consumption"
+  ],
+  "96091345": [
+    "Democratic Party",
+    "public misinformation",
+    "social media influence"
+  ],
+  "96202359": [
+    "Federal Reserve",
+    "US politics",
+    "financial crisis"
+  ],
+  "96310380": [
+    "Biden administration",
+    "Federal Reserve",
+    "fiscal policy",
+    "inflation",
+    "public misinformation"
+  ],
+  "96330910": [
+    "media bias",
+    "media influence",
+    "social media influence"
+  ],
+  "96377349": [
+    "activism"
+  ],
+  "96561603": [
+    "Democratic Party",
+    "US politics",
+    "social media influence"
+  ],
+  "96579062": [
+    "media influence",
+    "public misinformation",
+    "social media influence"
+  ],
+  "96584743": [
+    "economic policy",
+    "historical analysis",
+    "political polarization"
   ]
 }
