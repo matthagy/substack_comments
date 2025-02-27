@@ -20590,13 +20590,7 @@
     "grade_level": 10.1,
     "word_count": 164,
     "category": "Uncategorized",
-    "tags": [
-      "Federal Reserve",
-      "financial markets",
-      "inflation",
-      "labor market",
-      "monetary policy"
-    ]
+    "tags": []
   },
   {
     "post_id": 88818373,
@@ -23609,10 +23603,7 @@
     "grade_level": 8.2,
     "word_count": 62,
     "category": "Uncategorized",
-    "tags": [
-      "financial markets",
-      "financial regulation"
-    ]
+    "tags": []
   },
   {
     "post_id": 95838542,
@@ -24521,12 +24512,7 @@
     "grade_level": 17.2,
     "word_count": 233,
     "category": "Uncategorized",
-    "tags": [
-      "partisan politics",
-      "populism",
-      "progressivism",
-      "tax policy"
-    ]
+    "tags": []
   },
   {
     "post_id": 98334107,
@@ -24570,10 +24556,7 @@
     "grade_level": 8.7,
     "word_count": 138,
     "category": "Uncategorized",
-    "tags": [
-      "comment moderation",
-      "social media influence"
-    ]
+    "tags": []
   },
   {
     "post_id": 98334107,
@@ -30929,11 +30912,7 @@
     "grade_level": 12.6,
     "word_count": 28,
     "category": "Uncategorized",
-    "tags": [
-      "US politics",
-      "identity politics",
-      "media influence"
-    ]
+    "tags": []
   },
   {
     "post_id": 110518383,
@@ -31106,11 +31085,7 @@
     "grade_level": 13.7,
     "word_count": 28,
     "category": "Uncategorized",
-    "tags": [
-      "US politics",
-      "media influence",
-      "social justice"
-    ]
+    "tags": []
   },
   {
     "post_id": 110518383,
@@ -57029,13 +57004,7 @@
     "grade_level": 13.1,
     "word_count": 429,
     "category": "Uncategorized",
-    "tags": [
-      "US politics",
-      "business strategy",
-      "media influence",
-      "partisan politics",
-      "tech industry"
-    ]
+    "tags": []
   },
   {
     "post_id": 157090635,
@@ -57183,11 +57152,7 @@
     "grade_level": 12.2,
     "word_count": 571,
     "category": "Uncategorized",
-    "tags": [
-      "business strategy",
-      "free speech issues",
-      "tech industry"
-    ]
+    "tags": []
   },
   {
     "post_id": 157099492,
@@ -61235,7 +61200,11 @@
     "grade_level": 10.4,
     "word_count": 164,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "public misinformation",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157919547,
@@ -61279,7 +61248,11 @@
     "grade_level": 7.6,
     "word_count": 128,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "US politics",
+      "financial crisis"
+    ]
   },
   {
     "post_id": 157811217,
@@ -61323,7 +61296,13 @@
     "grade_level": 11.9,
     "word_count": 155,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "Federal Reserve",
+      "fiscal policy",
+      "inflation",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 157811217,
@@ -61335,7 +61314,7 @@
     "id": 96330910,
     "top_level": false,
     "date": "Feb 26 2025 08:42",
-    "likes": 10,
+    "likes": 11,
     "timestamp": 1740577375,
     "body": [
       [
@@ -61381,7 +61360,11 @@
     "grade_level": 11.6,
     "word_count": 106,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media bias",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157811217,
@@ -61408,12 +61391,14 @@
     "parent_children": 4,
     "thread_id": 96312865,
     "thread_children": 97,
-    "ratio_recv": 1,
-    "ratio_give": -3,
+    "ratio_recv": 2,
+    "ratio_give": -4,
     "grade_level": 9.7,
     "word_count": 53,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "activism"
+    ]
   },
   {
     "post_id": 157620293,
@@ -61457,7 +61442,11 @@
     "grade_level": 10.0,
     "word_count": 207,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157897543,
@@ -61469,7 +61458,7 @@
     "id": 96579062,
     "top_level": true,
     "date": "Feb 27 2025 07:39",
-    "likes": 6,
+    "likes": 14,
     "timestamp": 1740659954,
     "body": [
       [
@@ -61496,12 +61485,16 @@
     "parent_children": null,
     "thread_id": 96579062,
     "thread_children": 2,
-    "ratio_recv": -6,
+    "ratio_recv": -8,
     "ratio_give": null,
     "grade_level": 16.0,
     "word_count": 188,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157897543,
@@ -61513,7 +61506,7 @@
     "id": 96584743,
     "top_level": false,
     "date": "Feb 27 2025 08:10",
-    "likes": 5,
+    "likes": 15,
     "timestamp": 1740661856,
     "body": [
       [
@@ -61531,15 +61524,19 @@
     ],
     "total_children": 2,
     "parent_id": 96570197,
-    "parent_children": 12,
+    "parent_children": 34,
     "thread_id": 96570197,
-    "thread_children": 12,
-    "ratio_recv": -3,
-    "ratio_give": -23,
+    "thread_children": 34,
+    "ratio_recv": -7,
+    "ratio_give": -47,
     "grade_level": 11.4,
     "word_count": 124,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "historical analysis",
+      "political polarization"
+    ]
   },
   {
     "post_id": 157897543,
@@ -61551,7 +61548,7 @@
     "id": 96590896,
     "top_level": false,
     "date": "Feb 27 2025 08:40",
-    "likes": 0,
+    "likes": 8,
     "timestamp": 1740663627,
     "body": [
       [
@@ -61567,14 +61564,72 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 96567707,
-    "parent_children": 9,
+    "parent_children": 31,
     "thread_id": 96567707,
-    "thread_children": 9,
-    "ratio_recv": null,
-    "ratio_give": -19,
+    "thread_children": 31,
+    "ratio_recv": 4,
+    "ratio_give": -32,
     "grade_level": 13.6,
+    "word_count": 141,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157897543,
+    "title": "Flu and measles are getting worse as vaccination rates fall",
+    "canonical_url": "https://www.slowboring.com/p/flu-and-measles-are-getting-worse",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96628551,
+    "top_level": false,
+    "date": "Feb 27 2025 11:08",
+    "likes": 0,
+    "timestamp": 1740672537,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Counter point, \"Elite misinformation is an underrated problem\" [Jun 2024], "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/elite-misinformation-is-an-underrated"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "AI Summarized as:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The core argument of the article is that elite misinformation\u2014false or misleading claims propagated by mainstream institutions, experts, and media\u2014is a more significant problem than commonly discussed misinformation from fringe sources. Unlike the conventional focus on misinformation spread through social media, elite misinformation shapes public discourse and policy decisions by distorting facts to serve institutional or political goals, often without accountability. Examples include exaggerated maternal mortality statistics, misleading claims about fossil fuel subsidies, and overblown fears about policy changes like net neutrality. The author argues that while these distortions may be well-intentioned, they ultimately undermine credibility, mislead allies more than persuading opponents, and weaken effective policy-making by building arguments on false premises rather than actual solutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That also relates to yesterday's article, \"Misinformation mostly confuses your own side\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/misinformation-mostly-confuses-your"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96569182,
+    "parent_children": 3,
+    "thread_id": 96569182,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 20.2,
     "word_count": 141,
     "category": "Uncategorized",
     "tags": []
