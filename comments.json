@@ -59869,6 +59869,166 @@
     ]
   },
   {
+    "post_id": 157004882,
+    "title": "Monthly Roundup #27: February 2025",
+    "canonical_url": "https://thezvi.substack.com/p/monthly-roundup-27-february-2025",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95542513,
+    "top_level": false,
+    "date": "Feb 23 2025 03:48",
+    "likes": 0,
+    "timestamp": 1740300539,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just buy an Android. It\u2019s a solid platform, and there are a plethora of different hardware choices from numerous vendors. Apple is focused on providing a full-stack user experience that works well for the vast majority of their users\u2014at the cost of user choice and higher prices. Yet on a per-hour-of-usage basis, all smartphones are extremely cheap, and it\u2019s not surprising that so many affluent consumers the world over prefer Apple."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Those of us who are more opinionated can choose Android, which includes the ability to add third-party app stores and direct sideloading. That requires us to own the judgment call about which developers/apps to trust. I remember how poorly these risks worked out for many users in the \u201990s, where downloading software often resulted in viruses, malware, or at least spamware that infected other programs\u2014even built-in OS programs\u2014with ads."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apple\u2019s curated App Store was an important innovation to build trust among users, ensuring they could actually download and install third-party software with the expectation that it wouldn\u2019t harm anything else on the device. While they may at times be exploiting that trust to increase their revenue\u2014commonly at the expense of developers\u2014the ecosystem wouldn\u2019t exist had Apple not created this safe experience for installing third-party software."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 94311346,
+    "parent_children": 7,
+    "thread_id": 94311346,
+    "thread_children": 7,
+    "ratio_recv": 0,
+    "ratio_give": -3,
+    "grade_level": 12.2,
+    "word_count": 206,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157004882,
+    "title": "Monthly Roundup #27: February 2025",
+    "canonical_url": "https://thezvi.substack.com/p/monthly-roundup-27-february-2025",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95544806,
+    "top_level": false,
+    "date": "Feb 23 2025 04:21",
+    "likes": 1,
+    "timestamp": 1740302494,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> billable hours model of law practice, suggesting that corporate counsel will do lots of things in-house they would have farmed out to BigLaw at hourly billing before now"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Tech analyst Ben Thompson has been discussing a related challenge in how AI may disrupt SaaS pricing, which is generally done on a per-user basis\u2014i.e., they sell \u201cseats.\u201d Similar to how billable hours decrease when AI tools reduce the need for human work, AI could also drastically decrease SaaS revenue if firms need fewer people and thereby fewer seat licenses. Thompson has highlighted how vendors are transitioning to charging per solution rather than per user/seat, citing Salesforce\u2019s AI product, which follows that model. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> And, instead of per-seat licenses, we may end up with something more akin to \u2018seat-replacement\u2019 licenses (Salesforce, notably, will charge $2 per call completed by one of its agents)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I could similarly imagine law firms charging per service to preserve their revenue if billable hours fall due to AI-enabled tools. For example, you mention litigation being handled by outside counsel\u2014such firms could charge for \u201ccourt prep\u201d as a substantial line item without referencing billable hours."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, AI tools that increasingly displace such firms for tasks now handled in-house may also shift to per-solution pricing rather than basic subscriptions. This could be necessary if certain solutions require hours of sophisticated models like o3, which entail substantial variable costs. Additionally, the context used by these models (such as human/AI analysis of past court cases the AI believes could be relevant) may also be expensive to access."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In general, there is a ton of uncertainty about how the economics of such AI systems will work out\u2014particularly, where the value will accrue\u2014but ultimately, the consumers of these services just want useful, trustworthy solutions and are willing to pay a certain amount. Any software vendor or AI-enabled law firm that can abstract that away and simply offer a price on a per-service basis could be quite valuable. In the short term, that could involve a lot of human review and escalation to sufficiently knowledgeable and certified people while the firm figures out how best to leverage AI models and proprietary resources like past case analyses. Such firms or vendors would eat those extra costs while they optimize the workflow and pricing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/enterprise-philosophy-and-the-first-wave-of-ai"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 94477322,
+    "parent_children": 3,
+    "thread_id": 94477322,
+    "thread_children": 3,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 13.9,
+    "word_count": 379,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157004882,
+    "title": "Monthly Roundup #27: February 2025",
+    "canonical_url": "https://thezvi.substack.com/p/monthly-roundup-27-february-2025",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95548405,
+    "top_level": false,
+    "date": "Feb 23 2025 05:10",
+    "likes": 0,
+    "timestamp": 1740305434,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The main issue with Apple opening up its ecosystem to third-party app stores is that numerous existing apps will migrate to their own app stores to evade Apple\u2019s opinionated approach to app approval. The immediate user-facing concern will be billing\u2014yes, Apple takes 30% of each payment, but they provide user-friendly features like one-click subscription cancellations and user-favored refunds. Now, users will need to contact support if they want to cancel a subscription or contest a charge."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet there will soon be additional degradation of the user experience as apps request additional permissions that an App Store review wouldn\u2019t allow\u2014e.g., every app requesting geolocation and global contacts permissions. Some apps, particularly those with primarily enterprise customers, won\u2019t be able to get away with that, but every consumer-facing app will increasingly attempt to weasel its way into the user\u2019s device usage."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again\u2014no one has to buy an Apple phone. And while the Android user experience can be disappointing relative to Apple, we likely don\u2019t appreciate how much of that is due to Apple\u2019s opinionated control of the app ecosystem. Some of us appreciate the flexibility and control of Android, but that just means accepting a different set of trade-offs relative to Apple. It\u2019s understandable that most users prefer Apple\u2019s approach, and they will certainly long for the current status quo should regulation degrade that curated user experience."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 95546281,
+    "parent_children": 4,
+    "thread_id": 94311346,
+    "thread_children": 7,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": 13.2,
+    "word_count": 225,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 157728665,
     "title": "Only fools think Elon is incompetent",
     "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
@@ -60405,6 +60565,44 @@
       "business strategy",
       "entrepreneurship"
     ]
+  },
+  {
+    "post_id": 157004882,
+    "title": "Monthly Roundup #27: February 2025",
+    "canonical_url": "https://thezvi.substack.com/p/monthly-roundup-27-february-2025",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95670989,
+    "top_level": false,
+    "date": "Feb 23 2025 16:00",
+    "likes": 0,
+    "timestamp": 1740344439,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that Apple is overplaying its hand and should ease up on some restrictions as well as reduce its take rate. Moreover, it's reasonable to say that Apple has only itself to blame for the EU crackdown. Tech analyst Ben Thompson has written thoughtfully on this topic, and I largely agree with his perspective."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Nonetheless, I don't think we should underestimate the general value most users get from Apple's opinionated management of the user experience. I could see EU users becoming increasingly frustrated if this results in third parties degrading the user experience\u2014or possibly even the exclusion of future Apple functionality from the EU market. For example, the delayed rollout of Apple Intelligence in the EU due to concerns about requirements to support third-party AI apps at a comparable level of integration."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 95551701,
+    "parent_children": 2,
+    "thread_id": 94311346,
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 13.1,
+    "word_count": 133,
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 157547069,
@@ -61255,6 +61453,42 @@
     ]
   },
   {
+    "post_id": 155278650,
+    "title": "Economics Roundup #5",
+    "canonical_url": "https://thezvi.substack.com/p/economics-roundup-5",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96205517,
+    "top_level": false,
+    "date": "Feb 25 2025 17:31",
+    "likes": 3,
+    "timestamp": 1740522665,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "One benefit to Delaware is that it has well understood precedence because there have been so many corp lawsuits litigated and ruled on in that state relative to anywhere else. While corp laws may be similar across states, with fewer rulings, there's more uncertainty in how the law would be applied in Nevada or Texas relative to Delaware. Matt Levine discussed this consideration in Feb 2024, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2024-02-01/texas-tempts-tesla"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 96106186,
+    "parent_children": 4,
+    "thread_id": 96106186,
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": 1,
+    "grade_level": 10.7,
+    "word_count": 66,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 157811217,
     "title": "Misinformation mostly confuses your own side ",
     "canonical_url": "https://www.slowboring.com/p/misinformation-mostly-confuses-your",
@@ -61376,7 +61610,7 @@
     "id": 96377349,
     "top_level": false,
     "date": "Feb 26 2025 11:40",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1740588014,
     "body": [
       [
@@ -61391,8 +61625,8 @@
     "parent_children": 4,
     "thread_id": 96312865,
     "thread_children": 97,
-    "ratio_recv": 2,
-    "ratio_give": -4,
+    "ratio_recv": 1,
+    "ratio_give": -3,
     "grade_level": 9.7,
     "word_count": 53,
     "category": "Substack's Funding and Business Challenges",
@@ -61458,7 +61692,7 @@
     "id": 96579062,
     "top_level": true,
     "date": "Feb 27 2025 07:39",
-    "likes": 18,
+    "likes": 19,
     "timestamp": 1740659954,
     "body": [
       [
@@ -61485,7 +61719,7 @@
     "parent_children": null,
     "thread_id": 96579062,
     "thread_children": 5,
-    "ratio_recv": -10,
+    "ratio_recv": -11,
     "ratio_give": null,
     "grade_level": 16.0,
     "word_count": 188,
@@ -61506,7 +61740,7 @@
     "id": 96584743,
     "top_level": false,
     "date": "Feb 27 2025 08:10",
-    "likes": 21,
+    "likes": 23,
     "timestamp": 1740661856,
     "body": [
       [
@@ -61524,11 +61758,11 @@
     ],
     "total_children": 2,
     "parent_id": 96570197,
-    "parent_children": 54,
+    "parent_children": 58,
     "thread_id": 96570197,
-    "thread_children": 54,
-    "ratio_recv": -9,
-    "ratio_give": -68,
+    "thread_children": 58,
+    "ratio_recv": -11,
+    "ratio_give": -78,
     "grade_level": 11.4,
     "word_count": 124,
     "category": "Navigating Political Polarization and Activism",
@@ -61548,7 +61782,7 @@
     "id": 96590896,
     "top_level": false,
     "date": "Feb 27 2025 08:40",
-    "likes": 15,
+    "likes": 17,
     "timestamp": 1740663627,
     "body": [
       [
@@ -61564,13 +61798,13 @@
         }
       ]
     ],
-    "total_children": 6,
+    "total_children": 9,
     "parent_id": 96567707,
-    "parent_children": 95,
+    "parent_children": 100,
     "thread_id": 96567707,
-    "thread_children": 95,
-    "ratio_recv": 13,
-    "ratio_give": -46,
+    "thread_children": 100,
+    "ratio_recv": 15,
+    "ratio_give": -48,
     "grade_level": 13.6,
     "word_count": 141,
     "category": "Diverse Discussions on Technology, Responsibility, and Social Issues",
@@ -61586,7 +61820,7 @@
     "id": 96628551,
     "top_level": false,
     "date": "Feb 27 2025 11:08",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1740672537,
     "body": [
       [
@@ -61627,8 +61861,8 @@
     "parent_children": 4,
     "thread_id": 96569182,
     "thread_children": 4,
-    "ratio_recv": -2,
-    "ratio_give": -11,
+    "ratio_recv": -3,
+    "ratio_give": -10,
     "grade_level": 20.2,
     "word_count": 141,
     "category": "Impact of Misinformation and Media Dynamics",
@@ -61682,6 +61916,414 @@
     "ratio_give": -1,
     "grade_level": 14.3,
     "word_count": 222,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96840494,
+    "top_level": false,
+    "date": "Feb 28 2025 08:42",
+    "likes": 5,
+    "timestamp": 1740750167,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Although it\u2019s questionable whether a weapons cache is more of an asset or a liability in such scenarios, as it would obviously be a target for more capable actors\u2014both to seize these resources and to neutralize a potential rival threat."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ve often encountered a comparable concern among passionate AI existential risk advocates (commonly affiliated with Effective Altruism) over the last decade. I\u2019ve countered that, if they truly believed in their predictions, their behavior would resemble what\u2019s depicted in the music video Party Like Tomorrow Is The End of the World (Explicit) by Steel Panther: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=roRcksH2_HQ"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Disclaimer: This video contains gratuitous drug use, abundant nudity, simulated sex acts, and numerous other risky behaviors. It opens with reckless firearm use."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 96819771,
+    "parent_children": 52,
+    "thread_id": 96819771,
+    "thread_children": 52,
+    "ratio_recv": -2,
+    "ratio_give": -28,
+    "grade_level": 16.0,
+    "word_count": 118,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96842006,
+    "top_level": false,
+    "date": "Feb 28 2025 08:49",
+    "likes": 4,
+    "timestamp": 1740750554,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, Republicans have a long history of thoughtful public relations and marketing to balance diverse, even contradictory, interests. Although, everyone seems to love tax cuts and stimulus checks, regardless of the long-term risks we all take on with reckless fiscal policy. Maybe too many of us just don\u2019t see much value in planning beyond a year or so."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96839988,
+    "parent_children": 4,
+    "thread_id": 96826123,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.8,
+    "word_count": 58,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96842920,
+    "top_level": false,
+    "date": "Feb 28 2025 08:53",
+    "likes": 10,
+    "timestamp": 1740750798,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Conversely, even the dumbest president still earns $400K per year and receives numerous other material benefits. There\u2019s also the related Sheryl Sandberg quote about balancing relative status versus achieving remarkable financial and professional success: \u201cIf you\u2019re offered a seat on a rocket ship, don\u2019t ask what seat! Just get on.\u201d"
+        }
+      ]
+    ],
+    "total_children": 13,
+    "parent_id": 96818128,
+    "parent_children": 14,
+    "thread_id": 96818128,
+    "thread_children": 14,
+    "ratio_recv": 13,
+    "ratio_give": -13,
+    "grade_level": 11.0,
+    "word_count": 50,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96848025,
+    "top_level": false,
+    "date": "Feb 28 2025 09:15",
+    "likes": 1,
+    "timestamp": 1740752141,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just divide the unions across individual charter schools such that each is incentivized to work with management to keep their institution running, similar to private unions. Early defectors can be rewarded with more generous compensation in the charter schools relative to their peers at legacy institutions. Even generic school choice could be a useful movement to fragmenting and scattering these unions and their associated political power."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 96817805,
+    "parent_children": 10,
+    "thread_id": 96817805,
+    "thread_children": 10,
+    "ratio_recv": 1,
+    "ratio_give": -13,
+    "grade_level": 13.1,
+    "word_count": 66,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96848961,
+    "top_level": false,
+    "date": "Feb 28 2025 09:19",
+    "likes": 1,
+    "timestamp": 1740752376,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly! I think both metaphors work well together for individuals who transitioned from Yahoo to Facebook during the period of volatility and uncertainty that Sandberg\u2019s quote references. There\u2019s definitely a lot of value in recognizing when one is in a failing firm or industry and jumping early. Even just a lifeboat is better than going under!"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 96845092,
+    "parent_children": 7,
+    "thread_id": 96818128,
+    "thread_children": 14,
+    "ratio_recv": 9,
+    "ratio_give": -22,
+    "grade_level": 11.8,
+    "word_count": 56,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96859007,
+    "top_level": false,
+    "date": "Feb 28 2025 09:58",
+    "likes": 3,
+    "timestamp": 1740754729,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Particularly because, to my knowledge, Elon has never ridden on any of his rockets. Even Bezos and that Virgin guy did that. This would suggest Elon is something of a coward."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Relatedly, I recall some \u201cedgelord\u201d jokes\u2014ones I hope Elon would appreciate\u2014back when he was getting started and many in tech saw him as just another Jobs impersonator (there were plenty of those embarrassing the industry with their poser behavior at that time). Something like: \u201cIt\u2019s disappointing that yet another of Elon\u2019s rockets blew up on the launch pad. Hopefully, he doesn\u2019t run out of funding before he gets a chance to be on the last failure to launch.\u201d"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96856034,
+    "parent_children": 2,
+    "thread_id": 96818128,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.2,
+    "word_count": 110,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96865128,
+    "top_level": false,
+    "date": "Feb 28 2025 10:21",
+    "likes": 2,
+    "timestamp": 1740756119,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Well yeah, that\u2019s self-evident. Sandberg was commenting on people focusing too much on their own title and career advancement planning\u2014a common failure mode from her perspective\u2014rather than identifying promising teams and industries. E.g., finance offers a seemingly legible career path for ambitious young people, but the specifics of one\u2019s specialization and firm matter for long-term success. Early optimization can lead to a dead end."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Sandberg herself demonstrated this with her decision to join Facebook in 2008, a time when many feared it was just the reignition of the tech bubble. Recall that it was led by a 23-year-old college dropout with various personality flaws. Sandberg put a lot of thought into this career move because it meant quitting her lucrative Google executive job. Specifically, Facebook didn\u2019t IPO until 2012, and many questioned its financial sustainability, whereas Google had IPO\u2019d in 2004 and was already seen as highly successful by 2008. It worked out quite well for her, but it required taking a calculated risk and focusing more on whether it was an actual rocket and less on whether she\u2019d one day be CEO of the rocket."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96859820,
+    "parent_children": 3,
+    "thread_id": 96818128,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 10.2,
+    "word_count": 186,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96871944,
+    "top_level": false,
+    "date": "Feb 28 2025 10:46",
+    "likes": 0,
+    "timestamp": 1740757582,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although we could leverage that differentiation for the benefit of both students and teachers as well as for the voters. A charter magnet school that focused on teaching advanced students would require relatively advanced teachers in terms of demonstrated competency with niche topics as well as education experience. In contrast, general education charter schools could use more commodified labor, including new teachers. Would allow teachers to choose whether they want to invest in advanced topics in addition to teaching experience. Would also encourage more ambitious and capable individuals into teaching due to the more lucrative opportunities of advanced instruction."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96866016,
+    "parent_children": 3,
+    "thread_id": 96817805,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 13.5,
+    "word_count": 100,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96949488,
+    "top_level": false,
+    "date": "Feb 28 2025 15:09",
+    "likes": 0,
+    "timestamp": 1740773394,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. While I haven\u2019t read the book, I\u2019ve consumed far more crypto content\u2014particularly around SBF/FTX\u2014than I need, and that all checks out. Yet I don\u2019t think overindulgence, hedonism, and reckless risk-taking necessarily require a belief that \u201cthe end of times is near.\u201d E.g., Wall Street in the \u201980s, as well as many people\u2019s 20s\u2014particularly my cohort of elder millennials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think the R-rated documentary Enron: The Smartest Guys in the Room does an excellent job depicting the hedonism and reckless risk-taking within this absurdly fraudulent firm. I\u2019ve watched it multiple times over the years, and I still can\u2019t fully explain how such a ridiculous culture was constructed and maintained. But it certainly seems to involve a fair amount of collective delusion\u2014almost more of a cult than a company. That includes an absurdly dedicated fanbase of investors who got wiped out, as did employee retirement accounts that were heavily invested in ENE stock. Free on YouTube at: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=7tx9B53s5XU"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96939631,
+    "parent_children": 2,
+    "thread_id": 96819771,
+    "thread_children": 52,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.9,
+    "word_count": 156,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96953244,
+    "top_level": false,
+    "date": "Feb 28 2025 15:22",
+    "likes": 0,
+    "timestamp": 1740774125,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Moreover, militants in these conflicts all voice a strong conviction of \u201cbetter to die fighting than to live under tyranny.\u201d That applies to the U.S. Founding Fathers, the Vietcong, the Taliban, and La R\u00e9sistance in Nazi-occupied France. The same logic could apply to contemporary Ukrainians resisting a far larger Russian military, though they currently have a government and organized military. People in such situations obviously want as much military gear as possible, including consumer-grade firearms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Still, it\u2019s quite hard to plan how you\u2019d actually prepare for such a scenario. E.g., in a MAGA takeover of the U.S., I probably wouldn\u2019t want to be a well-known liberal firearms enthusiast and prepper influencer. Even just being a responsible gun owner should involve purchasing firearms from licensed dealers with auditable paper trails. In theory, even DOGE people could figure that one out if all they\u2019re doing is requesting a spreadsheet, cross-referencing DMV and voter registrations for addresses, and then dispatching police."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In my opinion, it\u2019s quite absurd to plan for this well in advance. Although, obviously, I hope my future self could figure it out well enough should such a tragedy occur."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 96911939,
+    "parent_children": 3,
+    "thread_id": 96819771,
+    "thread_children": 52,
+    "ratio_recv": 0,
+    "ratio_give": -6,
+    "grade_level": 9.5,
+    "word_count": 190,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157771304,
+    "title": "Mailbag: More philosophical than usual ",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96958724,
+    "top_level": false,
+    "date": "Feb 28 2025 15:40",
+    "likes": 0,
+    "timestamp": 1740775214,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly! Align management and staff to ensure they work together to create a high-performing institution. If they believe they need more funding, they can jointly make their case to politicians and voters\u2014framing negotiations around cost and value relative to other schools in their tax base. Maybe some schools truly need higher per-student funding, but that has to be justified in terms of real, tangible value. And it will always be simpler for each school to improve its in-house cost efficiency first."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It will certainly be easier to manage out needless administrators and avoid worthless consultants when it directly affects the compensation of both management and staff."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96955307,
+    "parent_children": 2,
+    "thread_id": 96817805,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 11.6,
+    "word_count": 106,
     "category": "Uncategorized",
     "tags": []
   }
