@@ -60038,7 +60038,7 @@
     "id": 95549557,
     "top_level": false,
     "date": "Feb 23 2025 05:26",
-    "likes": 44,
+    "likes": 52,
     "timestamp": 1740306377,
     "body": [
       [
@@ -60080,11 +60080,11 @@
     ],
     "total_children": 4,
     "parent_id": 95545483,
-    "parent_children": 18,
+    "parent_children": 20,
     "thread_id": 95545483,
-    "thread_children": 18,
-    "ratio_recv": -36,
-    "ratio_give": -26,
+    "thread_children": 20,
+    "ratio_recv": -43,
+    "ratio_give": -29,
     "grade_level": 11.6,
     "word_count": 299,
     "category": "Elon Musk's Impact on Politics and Technology",
@@ -60105,7 +60105,7 @@
     "id": 95568909,
     "top_level": false,
     "date": "Feb 23 2025 08:18",
-    "likes": 12,
+    "likes": 17,
     "timestamp": 1740316726,
     "body": [
       [
@@ -60147,9 +60147,9 @@
     "parent_id": 95545084,
     "parent_children": 3,
     "thread_id": 95543943,
-    "thread_children": 71,
-    "ratio_recv": -11,
-    "ratio_give": -21,
+    "thread_children": 88,
+    "ratio_recv": -15,
+    "ratio_give": -26,
     "grade_level": 8.1,
     "word_count": 139,
     "category": "Impacts and Challenges of Generative AI",
@@ -60169,7 +60169,7 @@
     "id": 95573567,
     "top_level": false,
     "date": "Feb 23 2025 08:45",
-    "likes": 29,
+    "likes": 40,
     "timestamp": 1740318327,
     "body": [
       [
@@ -60195,9 +60195,9 @@
     "parent_id": 95555788,
     "parent_children": 16,
     "thread_id": 95543943,
-    "thread_children": 71,
-    "ratio_recv": -20,
-    "ratio_give": -2,
+    "thread_children": 88,
+    "ratio_recv": -25,
+    "ratio_give": -1,
     "grade_level": 11.3,
     "word_count": 140,
     "category": "Elon Musk's Impact on Politics and Technology",
@@ -60218,7 +60218,7 @@
     "id": 95624108,
     "top_level": false,
     "date": "Feb 23 2025 12:29",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1740331799,
     "body": [
       [
@@ -60256,9 +60256,9 @@
     "parent_id": 95607604,
     "parent_children": 3,
     "thread_id": 95545483,
-    "thread_children": 18,
-    "ratio_recv": -3,
-    "ratio_give": -5,
+    "thread_children": 20,
+    "ratio_recv": -5,
+    "ratio_give": -4,
     "grade_level": 13.0,
     "word_count": 297,
     "category": "Elon Musk's Impact on Politics and Technology",
@@ -60403,7 +60403,7 @@
     "id": 95636446,
     "top_level": false,
     "date": "Feb 23 2025 13:22",
-    "likes": 7,
+    "likes": 12,
     "timestamp": 1740334973,
     "body": [
       [
@@ -60423,9 +60423,9 @@
     "parent_id": 95631904,
     "parent_children": 4,
     "thread_id": 95543943,
-    "thread_children": 71,
-    "ratio_recv": -6,
-    "ratio_give": -2,
+    "thread_children": 88,
+    "ratio_recv": -9,
+    "ratio_give": -3,
     "grade_level": 11.1,
     "word_count": 119,
     "category": "Elon Musk's Impact on Politics and Technology",
@@ -60535,7 +60535,7 @@
     "id": 95668028,
     "top_level": false,
     "date": "Feb 23 2025 15:46",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1740343568,
     "body": [
       [
@@ -60555,9 +60555,9 @@
     "parent_id": 95614252,
     "parent_children": 2,
     "thread_id": 95545483,
-    "thread_children": 18,
+    "thread_children": 20,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -2,
     "grade_level": 8.1,
     "word_count": 92,
     "category": "Uncategorized",
@@ -61762,7 +61762,7 @@
     "thread_id": 96570197,
     "thread_children": 58,
     "ratio_recv": -11,
-    "ratio_give": -79,
+    "ratio_give": -80,
     "grade_level": 11.4,
     "word_count": 124,
     "category": "Navigating Political Polarization and Activism",
@@ -61782,7 +61782,7 @@
     "id": 96590896,
     "top_level": false,
     "date": "Feb 27 2025 08:40",
-    "likes": 17,
+    "likes": 18,
     "timestamp": 1740663627,
     "body": [
       [
@@ -61800,11 +61800,11 @@
     ],
     "total_children": 9,
     "parent_id": 96567707,
-    "parent_children": 100,
+    "parent_children": 101,
     "thread_id": 96567707,
-    "thread_children": 100,
-    "ratio_recv": 15,
-    "ratio_give": -48,
+    "thread_children": 101,
+    "ratio_recv": 14,
+    "ratio_give": -47,
     "grade_level": 13.6,
     "word_count": 141,
     "category": "Diverse Discussions on Technology, Responsibility, and Social Issues",
@@ -61912,7 +61912,7 @@
     "parent_children": 3,
     "thread_id": 96579062,
     "thread_children": 5,
-    "ratio_recv": 1,
+    "ratio_recv": 2,
     "ratio_give": -1,
     "grade_level": 14.3,
     "word_count": 222,
@@ -61957,11 +61957,11 @@
     ],
     "total_children": 11,
     "parent_id": 96819771,
-    "parent_children": 52,
+    "parent_children": 53,
     "thread_id": 96819771,
-    "thread_children": 52,
+    "thread_children": 53,
     "ratio_recv": -2,
-    "ratio_give": -31,
+    "ratio_give": -33,
     "grade_level": 16.0,
     "word_count": 118,
     "category": "Uncategorized",
@@ -61993,7 +61993,7 @@
     "thread_id": 96826123,
     "thread_children": 16,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 10.8,
     "word_count": 58,
     "category": "Uncategorized",
@@ -62024,8 +62024,8 @@
     "parent_children": 14,
     "thread_id": 96818128,
     "thread_children": 14,
-    "ratio_recv": 12,
-    "ratio_give": -15,
+    "ratio_recv": 14,
+    "ratio_give": -17,
     "grade_level": 11.0,
     "word_count": 50,
     "category": "Uncategorized",
@@ -62056,7 +62056,7 @@
     "parent_children": 12,
     "thread_id": 96817805,
     "thread_children": 12,
-    "ratio_recv": 1,
+    "ratio_recv": 3,
     "ratio_give": -14,
     "grade_level": 13.1,
     "word_count": 66,
@@ -62089,7 +62089,7 @@
     "thread_id": 96818128,
     "thread_children": 14,
     "ratio_recv": 9,
-    "ratio_give": -22,
+    "ratio_give": -24,
     "grade_level": 11.8,
     "word_count": 56,
     "category": "Uncategorized",
@@ -62143,7 +62143,7 @@
     "id": 96865128,
     "top_level": false,
     "date": "Feb 28 2025 10:21",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1740756119,
     "body": [
       [
@@ -62165,7 +62165,7 @@
     "thread_id": 96818128,
     "thread_children": 14,
     "ratio_recv": null,
-    "ratio_give": -8,
+    "ratio_give": -7,
     "grade_level": 10.2,
     "word_count": 186,
     "category": "Uncategorized",
@@ -62197,7 +62197,7 @@
     "thread_id": 96817805,
     "thread_children": 12,
     "ratio_recv": null,
-    "ratio_give": -2,
+    "ratio_give": -4,
     "grade_level": 13.5,
     "word_count": 100,
     "category": "Uncategorized",
@@ -62237,7 +62237,7 @@
     "parent_id": 96939631,
     "parent_children": 2,
     "thread_id": 96819771,
-    "thread_children": 52,
+    "thread_children": 53,
     "ratio_recv": null,
     "ratio_give": -1,
     "grade_level": 10.9,
@@ -62281,7 +62281,7 @@
     "parent_id": 96911939,
     "parent_children": 3,
     "thread_id": 96819771,
-    "thread_children": 52,
+    "thread_children": 53,
     "ratio_recv": 0,
     "ratio_give": -7,
     "grade_level": 9.5,
@@ -62324,6 +62324,240 @@
     "ratio_give": -1,
     "grade_level": 11.6,
     "word_count": 106,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158181492,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ef2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97213387,
+    "top_level": false,
+    "date": "Mar 01 2025 14:29",
+    "likes": 16,
+    "timestamp": 1740857370,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It might be helpful to really focus on SB's differentiation. Obviously the mass majority of SB readership is alarmed, or at least concerned. Moreover, many of us are finding it challenging to avoid more unnecessary content raising the alarm. Eg, I don't need to know the nuances of Zelensky meeting, yet I've already consumed more than is optimal for my needs through Bloomberg alone. If anyone isn't alarmed, Yglesias isn't the one to convince them of anything."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 97204152,
+    "parent_children": 65,
+    "thread_id": 97204152,
+    "thread_children": 65,
+    "ratio_recv": -8,
+    "ratio_give": -21,
+    "grade_level": 8.1,
+    "word_count": 77,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158181492,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ef2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97243244,
+    "top_level": false,
+    "date": "Mar 01 2025 16:48",
+    "likes": 11,
+    "timestamp": 1740865695,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed! IMO, they seem more focused on degrading state capacity they dislike than on building or maintaining the capacity necessary for an authoritarian regime."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "In some ways, that\u2019s reassuring because it reduces the risk that they can\u2019t be voted out of power. Yet I can also imagine four years of this ensuring that state capacity is so disrupted that various Democratic goals become far more challenging. Even just rebuilding the CFPB, USAID, and the IRS could be a daunting task\u2014especially if the courts are leveraged to frustrate the process for an increasingly \u201claw-respecting\u201d Democratic Party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And we\u2019ll need to be thoughtful about how the reimplementation of functionality is perceived. E.g., it would be a disaster if the most salient impact was millions of people getting letters from the IRS demanding corrections for tax mistakes."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 97208447,
+    "parent_children": 13,
+    "thread_id": 97204152,
+    "thread_children": 65,
+    "ratio_recv": -5,
+    "ratio_give": -15,
+    "grade_level": 12.0,
+    "word_count": 134,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158181492,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ef2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97250485,
+    "top_level": false,
+    "date": "Mar 01 2025 17:22",
+    "likes": 2,
+    "timestamp": 1740867737,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Who is the enemy in this case, and could there be any collateral damage? E.g., I\u2019ve been thinking about the SB article on state-level Democrats penalizing Tesla to get back at Musk. Yet from some in the tech community\u2019s perspective, Musk has long threatened to abandon Tesla\u2014and he appears to be doing so."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So are we just picking a fight with a lot of ruthless and capable Tesla executives and investors in the hope of penalizing Musk\u2019s most legible form of wealth while he moves on to focus on other investments?"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 97247314,
+    "parent_children": 5,
+    "thread_id": 97204152,
+    "thread_children": 65,
+    "ratio_recv": 1,
+    "ratio_give": -4,
+    "grade_level": 11.0,
+    "word_count": 91,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158181492,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ef2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97251069,
+    "top_level": false,
+    "date": "Mar 01 2025 17:25",
+    "likes": 3,
+    "timestamp": 1740867901,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "For context, Musk promised to develop AI outside of Tesla unless his previous massive compensation package was restored and he also received a new, generous contract. Tesla\u2019s board and investors have been extremely cooperative in helping him restore his previous package\u2014which was ruled invalid by a Delaware judge well after the fact. (Many consider this legal intervention a scandalous betrayal of the rule of law.) That includes holding a second shareholder vote and reincorporating Tesla in Texas. There is still pending litigation, and it seems this will eventually be appealed to the Delaware Supreme Court and, if necessary, SCOTUS."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m less aware of negotiations for a new compensation package\u2014he may have already secured one\u2014but regardless, Musk already has his new xAI company, so he\u2019s well on his way to executing his threat. There were even credible allegations that he diverted scarce, new Nvidia GPU shipments from Tesla to xAI. I.e., everyone wants these chips, and he may have intervened to let xAI jump ahead of Tesla\u2019s earlier orders."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97250485,
+    "parent_children": 4,
+    "thread_id": 97204152,
+    "thread_children": 65,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 11.5,
+    "word_count": 168,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158181492,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ef2",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97252874,
+    "top_level": false,
+    "date": "Mar 01 2025 17:33",
+    "likes": 3,
+    "timestamp": 1740868406,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, if it works, great. But if all this does is create additional capable enemies\u2014or motivate existing ones to invest even further in conflict with Democrats\u2014then we may just be escalating an increasingly political fight. I get the urge to hurt Musk, but I don\u2019t want this insane individual to distract from actually winning and making productive changes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Plus, Musk has a complex array of assets and business relationships, including the ability to raise massive amounts of new capital from loyal investors across the spectrum\u2014retail gamblers, tech-ring billionaires, and sovereign wealth funds\u2014so it\u2019s hard to know what would actually be painful from his perspective. We can likely count on his insanity leading to his own downfall. Like, maybe he\u2019ll try to manually land one of his rockets in an absurd location\u2014with himself on board\u2014and instead just cause the collapse of another German republic."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97250966,
+    "parent_children": 2,
+    "thread_id": 97204152,
+    "thread_children": 65,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 12.6,
+    "word_count": 143,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158158262,
+    "title": "America is ruled by gangsters now",
+    "canonical_url": "https://www.noahpinion.blog/p/america-is-ruled-by-gangsters-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97365109,
+    "top_level": false,
+    "date": "Mar 02 2025 08:12",
+    "likes": 0,
+    "timestamp": 1740921131,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Does it matter? I.e., is the most important thing right now something about Elon\u2019s history and how we could use that to project forward?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Because, IMO, if we had attempted that anytime in the last 10 years, I imagine we would\u2019ve made similar predictions about him hitting his peak. Moreover, I think it\u2019s likely he peaked long ago, and I could lazily throw out some bad Elon-themed jokes that are all too prevalent on Twitter/X at the moment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The best approach is to laugh at him first, recognize that there are some real, novel risks here, and then move on to something more tangibly useful in our own lives. If that happens to intersect with Elon-related issues, then we can each focus on him in a nuanced way. E.g., if you were considering a work or investment opportunity from him or one of his many competitors within your area of expertise. Personally, I\u2019m going to avoid anything like that for a while."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97332889,
+    "parent_children": 10,
+    "thread_id": 97332889,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -51,
+    "grade_level": 8.8,
+    "word_count": 162,
     "category": "Uncategorized",
     "tags": []
   }
