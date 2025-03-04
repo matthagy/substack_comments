@@ -62455,7 +62455,7 @@
     "thread_id": 97204152,
     "thread_children": 73,
     "ratio_recv": -6,
-    "ratio_give": -22,
+    "ratio_give": -25,
     "grade_level": 8.1,
     "word_count": 77,
     "category": "Uncategorized",
@@ -62710,7 +62710,7 @@
     "id": 97450187,
     "top_level": false,
     "date": "Mar 02 2025 14:14",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1740942854,
     "body": [
       [
@@ -62730,9 +62730,9 @@
     "parent_id": 97435615,
     "parent_children": 8,
     "thread_id": 97433420,
-    "thread_children": 63,
+    "thread_children": 73,
     "ratio_recv": null,
-    "ratio_give": -31,
+    "ratio_give": -32,
     "grade_level": 9.4,
     "word_count": 108,
     "category": "Uncategorized",
@@ -62764,13 +62764,13 @@
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 8,
     "parent_id": 97442215,
-    "parent_children": 8,
+    "parent_children": 10,
     "thread_id": 97433420,
-    "thread_children": 63,
-    "ratio_recv": 14,
-    "ratio_give": -25,
+    "thread_children": 73,
+    "ratio_recv": 15,
+    "ratio_give": -26,
     "grade_level": 10.2,
     "word_count": 107,
     "category": "Uncategorized",
@@ -62804,11 +62804,11 @@
     ],
     "total_children": 1,
     "parent_id": 97456058,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 97433420,
-    "thread_children": 63,
+    "thread_children": 73,
     "ratio_recv": null,
-    "ratio_give": -12,
+    "ratio_give": -13,
     "grade_level": 10.4,
     "word_count": 55,
     "category": "Uncategorized",
@@ -62824,7 +62824,7 @@
     "id": 97513757,
     "top_level": false,
     "date": "Mar 02 2025 19:08",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1740960512,
     "body": [
       [
@@ -62845,8 +62845,8 @@
     "parent_children": 3,
     "thread_id": 97436031,
     "thread_children": 4,
-    "ratio_recv": -1,
-    "ratio_give": -2,
+    "ratio_recv": -2,
+    "ratio_give": -3,
     "grade_level": 12.9,
     "word_count": 172,
     "category": "Uncategorized",
@@ -62862,7 +62862,7 @@
     "id": 97516564,
     "top_level": false,
     "date": "Mar 02 2025 19:22",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1740961377,
     "body": [
       [
@@ -62884,15 +62884,97 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 97438431,
-    "parent_children": 11,
+    "parent_children": 12,
     "thread_id": 97438431,
-    "thread_children": 11,
-    "ratio_recv": null,
-    "ratio_give": -18,
+    "thread_children": 12,
+    "ratio_recv": -5,
+    "ratio_give": -16,
     "grade_level": 10.4,
     "word_count": 220,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158128233,
+    "title": "Cutting health care \u201cwaste\u201d is hard",
+    "canonical_url": "https://www.slowboring.com/p/cutting-health-care-waste-is-hard",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97990951,
+    "top_level": false,
+    "date": "Mar 04 2025 15:00",
+    "likes": 0,
+    "timestamp": 1741118439,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Why can't we just make smaller and simpler hospitals with fewer staff? I have a family member that is aware of these hospital network tradeoffs and how they do cause tensions among staff and patients, but at the end of the day we gotta find some solution that is sustainable. Particularly because too many n-th rank hospitals have more capacity than they need."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even just too much space can be a problem, but it's an even bigger problem if each one also feels the need to fill out that space with more new expensive gear, and more staff. Instead, you could just drive 60 min each way and accept that some emergencies couldn't be treated sufficiently quickly. Eg, not every hospital needs the latest in every diagnostic capabilities and every specialist in treatment. Eg, just do the best with 2000's era capabilities if that's all that is available."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97932513,
+    "parent_children": 2,
+    "thread_id": 97873764,
+    "thread_children": 31,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.2,
+    "word_count": 148,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158128233,
+    "title": "Cutting health care \u201cwaste\u201d is hard",
+    "canonical_url": "https://www.slowboring.com/p/cutting-health-care-waste-is-hard",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97997946,
+    "top_level": false,
+    "date": "Mar 04 2025 15:27",
+    "likes": 0,
+    "timestamp": 1741120064,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! Or at least he\u2019s doing the opposite of what a reasonable person would do. E.g., taking an interesting yet weird idea and making it more offensive and controversial\u2014maybe even trying to optimize for brevity. Whereas a normal person would take their interesting and weird idea and try to make it actually explainable\u2014and then, hopefully, make it happen for real."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Musk may think he and his team are clever enough to somehow keep making things work well enough in certain ways. But his actions and behavior increasingly frustrate and confuse many. Sometimes it feels like he\u2019s just messing with things just to be offensive and to make things worse for everyone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, we should stop paying too much attention to him\u2014let alone trying to make sense of his actions and language. Or at least, we should give it enough time for the results to be legible to people in the real world. We could then even find some previous statement of his that suggests he was intentionally trying to cause that specific harm to those electorally-significant people."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97914789,
+    "parent_children": 2,
+    "thread_id": 97873764,
+    "thread_children": 31,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 9.8,
+    "word_count": 177,
     "category": "Uncategorized",
     "tags": []
   }
