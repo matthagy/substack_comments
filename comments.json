@@ -56938,7 +56938,7 @@
     "id": 93313157,
     "top_level": true,
     "date": "Feb 13 2025 16:55",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1739483710,
     "body": [
       [
@@ -56999,7 +56999,7 @@
     "parent_children": null,
     "thread_id": 93313157,
     "thread_children": 2,
-    "ratio_recv": 0,
+    "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 429,
@@ -57016,7 +57016,7 @@
     "id": 93321281,
     "top_level": false,
     "date": "Feb 13 2025 17:32",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1739485928,
     "body": [
       [
@@ -57148,9 +57148,41 @@
     "thread_id": 93313157,
     "thread_children": 2,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 12.2,
     "word_count": 571,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157090635,
+    "title": "Twitter or Bluesky? How about neither.",
+    "canonical_url": "https://www.natesilver.net/p/twitter-or-bluesky-how-about-neither",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93326034,
+    "top_level": false,
+    "date": "Feb 13 2025 17:55",
+    "likes": 7,
+    "timestamp": 1739487306,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'd much prefer articles like the present one rather than a part 3 Harris/Biden rant. I believe Silver was quite upfront about him just needing to get that rage out of his system with those long, line-by-line rebuttals. If he's over it, then I'd like more content like this article."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93286631,
+    "parent_children": 2,
+    "thread_id": 93286631,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": 4,
+    "grade_level": 6.3,
+    "word_count": 50,
     "category": "Uncategorized",
     "tags": []
   },
@@ -57225,6 +57257,44 @@
     "ratio_give": -12,
     "grade_level": 8.4,
     "word_count": 32,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 157090635,
+    "title": "Twitter or Bluesky? How about neither.",
+    "canonical_url": "https://www.natesilver.net/p/twitter-or-bluesky-how-about-neither",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 93340907,
+    "top_level": false,
+    "date": "Feb 13 2025 19:11",
+    "likes": 3,
+    "timestamp": 1739491919,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'm confident that Nate is more than capable of writing these long articles on his own without ChatGPT. It would take more effort (or an editor) to cut them down. (As an exercise, you can print the article to PDF, upload it to ChatGPT, and experiment with how it would edit the article towards various styling objectives.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I believe he's framing these musings and lived-experience reflections as being \"old school\" blog posts. Like 2000s, Blogosphere era styling. Some of us can appreciate that, possibly for nostalgic reasons alone, others may hate that styling, and at least it's novel."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 93330715,
+    "parent_children": 2,
+    "thread_id": 93303928,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 9.7,
+    "word_count": 99,
     "category": "Uncategorized",
     "tags": []
   },
@@ -61920,6 +61990,38 @@
     "tags": []
   },
   {
+    "post_id": 157917425,
+    "title": "Elon Musk and spiky intelligence",
+    "canonical_url": "https://www.natesilver.net/p/elon-musk-and-spiky-intelligence",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96742706,
+    "top_level": false,
+    "date": "Feb 27 2025 19:32",
+    "likes": 3,
+    "timestamp": 1740702727,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I think this is useful terminology for understanding the Nate Silver framing of these group differences and conflicts. Notably, embracing risk and volatility vs. a more stable, structured, and consensus driven approach. I don't think this article over used the concepts and I'd expect some such analysis from Silver."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96224452,
+    "parent_children": 4,
+    "thread_id": 96224452,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -31,
+    "grade_level": 8.2,
+    "word_count": 50,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
     "post_id": 157771304,
     "title": "Mailbag: More philosophical than usual ",
     "canonical_url": "https://www.slowboring.com/p/mailbag-more-philosophical-than-usual",
@@ -62349,11 +62451,11 @@
     ],
     "total_children": 2,
     "parent_id": 97204152,
-    "parent_children": 65,
+    "parent_children": 73,
     "thread_id": 97204152,
-    "thread_children": 65,
-    "ratio_recv": -8,
-    "ratio_give": -21,
+    "thread_children": 73,
+    "ratio_recv": -6,
+    "ratio_give": -22,
     "grade_level": 8.1,
     "word_count": 77,
     "category": "Uncategorized",
@@ -62369,7 +62471,7 @@
     "id": 97243244,
     "top_level": false,
     "date": "Mar 01 2025 16:48",
-    "likes": 11,
+    "likes": 14,
     "timestamp": 1740865695,
     "body": [
       [
@@ -62391,13 +62493,13 @@
         }
       ]
     ],
-    "total_children": 10,
+    "total_children": 12,
     "parent_id": 97208447,
-    "parent_children": 13,
+    "parent_children": 15,
     "thread_id": 97204152,
-    "thread_children": 65,
-    "ratio_recv": -5,
-    "ratio_give": -15,
+    "thread_children": 73,
+    "ratio_recv": -7,
+    "ratio_give": -13,
     "grade_level": 12.0,
     "word_count": 134,
     "category": "Uncategorized",
@@ -62413,7 +62515,7 @@
     "id": 97250485,
     "top_level": false,
     "date": "Mar 01 2025 17:22",
-    "likes": 2,
+    "likes": 4,
     "timestamp": 1740867737,
     "body": [
       [
@@ -62433,9 +62535,9 @@
     "parent_id": 97247314,
     "parent_children": 5,
     "thread_id": 97204152,
-    "thread_children": 65,
-    "ratio_recv": 1,
-    "ratio_give": -4,
+    "thread_children": 73,
+    "ratio_recv": 0,
+    "ratio_give": -3,
     "grade_level": 11.0,
     "word_count": 91,
     "category": "Uncategorized",
@@ -62451,7 +62553,7 @@
     "id": 97251069,
     "top_level": false,
     "date": "Mar 01 2025 17:25",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1740867901,
     "body": [
       [
@@ -62471,9 +62573,9 @@
     "parent_id": 97250485,
     "parent_children": 4,
     "thread_id": 97204152,
-    "thread_children": 65,
+    "thread_children": 73,
     "ratio_recv": null,
-    "ratio_give": 1,
+    "ratio_give": 0,
     "grade_level": 11.5,
     "word_count": 168,
     "category": "Uncategorized",
@@ -62489,7 +62591,7 @@
     "id": 97252874,
     "top_level": false,
     "date": "Mar 01 2025 17:33",
-    "likes": 3,
+    "likes": 5,
     "timestamp": 1740868406,
     "body": [
       [
@@ -62509,9 +62611,9 @@
     "parent_id": 97250966,
     "parent_children": 2,
     "thread_id": 97204152,
-    "thread_children": 65,
+    "thread_children": 73,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 2,
     "grade_level": 12.6,
     "word_count": 143,
     "category": "Uncategorized",
@@ -62558,6 +62660,239 @@
     "ratio_give": -51,
     "grade_level": 8.8,
     "word_count": 162,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97436168,
+    "top_level": true,
+    "date": "Mar 02 2025 13:14",
+    "likes": 3,
+    "timestamp": 1740939274,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Light, PG-rated entertainment for anyone looking for a reminder of how silly politics can be\u2014from a diverse range of perspectives: \u201cCasually Explained: The Political Compass\u201d "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=pGEWPY3nqHw"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 97436168,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.6,
+    "word_count": 25,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97450187,
+    "top_level": false,
+    "date": "Mar 02 2025 14:14",
+    "likes": 10,
+    "timestamp": 1740942854,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I think we at least need to assign Trump a fair amount of narcissism\u2014i.e., he only cares about global and domestic events through a highly self-centered frame in which he is the main character. Otherwise, he could probably just sit back, let others handle things well enough, and focus on golfing and collecting bribes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "IMO, he sure is putting in a lot of effort for someone supposedly driven purely by greed and the desires of his closest friends. And of course, some of this could come down to faults in his intelligence and morals\u2014which makes Eric P\u2019s anti-Western framing feel all the more salient from my perspective."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97435615,
+    "parent_children": 8,
+    "thread_id": 97433420,
+    "thread_children": 63,
+    "ratio_recv": null,
+    "ratio_give": -31,
+    "grade_level": 9.4,
+    "word_count": 108,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97451919,
+    "top_level": false,
+    "date": "Mar 02 2025 14:22",
+    "likes": 2,
+    "timestamp": 1740943331,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I think Trump just wants to be able to say he ended \u201cBiden\u2019s War\u201d and is looking for the quickest way to add to his list of accomplishments. I don\u2019t think he cares much about the specifics and is fine with leaving Putin to deal with some less salient but still annoying problem for a few decades."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Otherwise, he would push for a deal strong enough to protect both Ukrainian and Russian interests\u2014though with a strong pro-Putin bias in the details. I.e., something that would require the West to sanction Ukraine if any future incidents of violence could be attributed to pro-Ukraine factions in the area."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 97442215,
+    "parent_children": 8,
+    "thread_id": 97433420,
+    "thread_children": 63,
+    "ratio_recv": 14,
+    "ratio_give": -25,
+    "grade_level": 10.2,
+    "word_count": 107,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97465883,
+    "top_level": false,
+    "date": "Mar 02 2025 15:24",
+    "likes": 4,
+    "timestamp": 1740947085,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, just saying that I don't think Trump will mind if hostilities continue in a way that is counterproductive to Putin's interests. Definitely an improvement from Putin's perspective."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "IMO, we're in broad agreement w/ the framing of his anti-west mindset as long as it's taken as a rather shallow disposition rather than a thoughtful, ideology."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97456058,
+    "parent_children": 2,
+    "thread_id": 97433420,
+    "thread_children": 63,
+    "ratio_recv": null,
+    "ratio_give": -12,
+    "grade_level": 10.4,
+    "word_count": 55,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97513757,
+    "top_level": false,
+    "date": "Mar 02 2025 19:08",
+    "likes": 1,
+    "timestamp": 1740960512,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Largely agree in theory. For political strategy purposes, I believe \u201cDeregulation\u201d is the appropriate top-level branding for a slightly more sophisticated platform that can still include some reform components. I like this approach because it addresses Democrats\u2019 recent problem of being overly nuanced and complicated in policy proposals, which in practice often leads to ever more complex regulations. Hence, in the face of reasonable doubt, I think we should lean toward less regulation and assume we can address problems in the future if there is sufficient ambiguity among our trusted experts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "E.g., we all agree that net carbon reduction is a solid high-level goal for addressing climate change, and at the margin, natural gas displacing coal is a positive step. It\u2019s also an important complement while working toward a reliable mix of non-carbon-emitting energy sources and energy storage solutions. Ipso facto, we should be strong advocates of all things natural gas for the foreseeable future. Should the balance shift in the future, we can work on reforming natural gas concerns as needed."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 97505645,
+    "parent_children": 3,
+    "thread_id": 97436031,
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": -2,
+    "grade_level": 12.9,
+    "word_count": 172,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158209845,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-538",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97516564,
+    "top_level": false,
+    "date": "Mar 02 2025 19:22",
+    "likes": 3,
+    "timestamp": 1740961377,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Where would they show these ads for meaningful impact? E.g., I imagine they\u2019d be redundant on MSNBC and counterproductive on Fox News. Of course, we could envision a highly sophisticated Facebook/Instagram strategy if we have various voter cohorts we want to target, with specific messaging for each. Nonetheless, we\u2019d still be operating within the same framework: \u201cWhy would this group of people care about this issue, and how do we explain it in terms they\u2019d appreciate?\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We\u2019ll also need a measurable signal to verify effectiveness, which is fairly trivial in online advertising. There are already numerous marketing campaigns along the lines of \u201cTrump\u2019s Most Committed Skeptics\u201d that simply measure the number of likes and follows. That\u2019s probably the simplest starting point from an ad-tech perspective. Moreover, we could likely focus on identifying which political influencers are most effective from a Democratic strategy standpoint based on these simple metrics\u2014then just buy more ad variants with continuous optimization."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The above is AdTech 1.0 circa the 2010s, and I get the impression it has grown increasingly sophisticated, long before the recent AI-driven excitement. Hence, I\u2019d hope there are already Democratic marketing strategists who can explain how they\u2019re currently approaching this and what they could do with more funding. That said, they may just be marketing themselves, so we\u2019d need a critical review process."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 97438431,
+    "parent_children": 11,
+    "thread_id": 97438431,
+    "thread_children": 11,
+    "ratio_recv": null,
+    "ratio_give": -18,
+    "grade_level": 10.4,
+    "word_count": 220,
     "category": "Uncategorized",
     "tags": []
   }
