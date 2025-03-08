@@ -247,12 +247,7 @@
     "grade_level": 8.9,
     "word_count": 245,
     "category": "Uncategorized",
-    "tags": [
-      "business strategy",
-      "climate change",
-      "economic policy",
-      "energy policy"
-    ]
+    "tags": []
   },
   {
     "post_id": 44832459,
@@ -3484,10 +3479,7 @@
     "grade_level": 8.5,
     "word_count": 78,
     "category": "Uncategorized",
-    "tags": [
-      "activism",
-      "gun control"
-    ]
+    "tags": []
   },
   {
     "post_id": 56724202,
@@ -3701,11 +3693,7 @@
     "grade_level": 10.2,
     "word_count": 59,
     "category": "Uncategorized",
-    "tags": [
-      "US politics",
-      "education reform",
-      "higher education"
-    ]
+    "tags": []
   },
   {
     "post_id": 57548064,
@@ -4931,10 +4919,7 @@
     "grade_level": 14.3,
     "word_count": 156,
     "category": "Uncategorized",
-    "tags": [
-      "economic inequality",
-      "economic policy"
-    ]
+    "tags": []
   },
   {
     "post_id": 58893445,
@@ -32333,12 +32318,7 @@
     "grade_level": 8.4,
     "word_count": 162,
     "category": "Uncategorized",
-    "tags": [
-      "advertising revenue",
-      "business strategy",
-      "machine learning",
-      "tech industry"
-    ]
+    "tags": []
   },
   {
     "post_id": 110841665,
@@ -35230,11 +35210,7 @@
     "grade_level": 10.1,
     "word_count": 330,
     "category": "Uncategorized",
-    "tags": [
-      "generative AI",
-      "software engineering",
-      "tech industry"
-    ]
+    "tags": []
   },
   {
     "post_id": 116692659,
@@ -54718,12 +54694,7 @@
     "grade_level": 13.5,
     "word_count": 202,
     "category": "Uncategorized",
-    "tags": [
-      "fiscal policy",
-      "homelessness",
-      "mental health",
-      "public safety"
-    ]
+    "tags": []
   },
   {
     "post_id": 156381302,
@@ -61888,11 +61859,7 @@
     "grade_level": 14.3,
     "word_count": 222,
     "category": "Uncategorized",
-    "tags": [
-      "media influence",
-      "public misinformation",
-      "social media influence"
-    ]
+    "tags": []
   },
   {
     "post_id": 157917425,
@@ -62234,10 +62201,7 @@
     "grade_level": 13.5,
     "word_count": 100,
     "category": "Uncategorized",
-    "tags": [
-      "education inequality",
-      "education reform"
-    ]
+    "tags": []
   },
   {
     "post_id": 157771304,
@@ -62323,7 +62287,12 @@
     "grade_level": 9.5,
     "word_count": 190,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Russia-Ukraine conflict",
+      "US politics",
+      "gun rights",
+      "political polarization"
+    ]
   },
   {
     "post_id": 157771304,
@@ -62997,7 +62966,11 @@
     "grade_level": 12.3,
     "word_count": 52,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "taxation"
+    ]
   },
   {
     "post_id": 158317877,
@@ -63372,7 +63345,10 @@
     "grade_level": 14.2,
     "word_count": 249,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "identity politics",
+      "social justice"
+    ]
   },
   {
     "post_id": 158615773,
@@ -63422,7 +63398,10 @@
     "grade_level": 9.4,
     "word_count": 413,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "identity politics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 158615773,
@@ -63460,7 +63439,10 @@
     "grade_level": 5.9,
     "word_count": 38,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "identity politics",
+      "social justice"
+    ]
   },
   {
     "post_id": 158615773,
@@ -63499,7 +63481,10 @@
     "grade_level": 8.7,
     "word_count": 40,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 158615773,
