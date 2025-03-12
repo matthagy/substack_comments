@@ -62576,13 +62576,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 10,
     "parent_id": 97332889,
-    "parent_children": 10,
+    "parent_children": 34,
     "thread_id": 97332889,
-    "thread_children": 10,
-    "ratio_recv": null,
-    "ratio_give": -51,
+    "thread_children": 34,
+    "ratio_recv": 1,
+    "ratio_give": -124,
     "grade_level": 8.8,
     "word_count": 162,
     "category": "Uncategorized",
@@ -62628,6 +62628,118 @@
       "media influence",
       "political polarization"
     ]
+  },
+  {
+    "post_id": 158158262,
+    "title": "America is ruled by gangsters now",
+    "canonical_url": "https://www.noahpinion.blog/p/america-is-ruled-by-gangsters-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97445937,
+    "top_level": false,
+    "date": "Mar 02 2025 13:55",
+    "likes": 0,
+    "timestamp": 1740941727,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep, thankfully, Tesla is the most legible actor in this web of entities tied to Musk\u2014with a large, diverse set of investors, staff, and other stakeholders\u2014from which Elon is thankfully becoming increasingly absent."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I see it as the BYD (China EV) platform manufacturer of the U.S., capable of leveraging branding from the Big Three American automakers. E.g., just slap a Ford logo on a sufficiently commoditized EV. It\u2019ll be useful for all four corporations to be increasingly cost-effective enough for someone to make this happen."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There\u2019s a lot of interesting discussion on Bloomberg TV along these lines, but personally, I don\u2019t feel the need to go short on any of them."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 97439276,
+    "parent_children": 9,
+    "thread_id": 97332889,
+    "thread_children": 34,
+    "ratio_recv": 1,
+    "ratio_give": -1,
+    "grade_level": 10.6,
+    "word_count": 112,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158158262,
+    "title": "America is ruled by gangsters now",
+    "canonical_url": "https://www.noahpinion.blog/p/america-is-ruled-by-gangsters-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97448170,
+    "top_level": false,
+    "date": "Mar 02 2025 14:05",
+    "likes": 0,
+    "timestamp": 1740942320,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To use a rather crude analogy, Musk is treating it like just another one of his children. There are certainly more thoughtful discussions of this complex institutional concern in other venues. For efficiency, I\u2019ll just quote my most salient contributions from another discussion on explicitly attacking Tesla."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Who is the enemy in this case, and could there be any collateral damage? E.g., I\u2019ve been thinking about the SB article on state-level Democrats penalizing Tesla to get back at Musk. Yet from some in the tech community\u2019s perspective, Musk has long threatened to abandon Tesla\u2014and he appears to be doing so."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> So are we just picking a fight with a lot of ruthless and capable Tesla executives and investors in the hope of penalizing Musk\u2019s most legible form of wealth while he moves on to focus on other investments?"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/saturday-thread-ef2/comment/97250485"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> For context, Musk promised to develop AI outside of Tesla unless his previous massive compensation package was restored and he also received a new, generous contract. Tesla\u2019s board and investors have been extremely cooperative in helping him restore his previous package\u2014which was ruled invalid by a Delaware judge well after the fact. (Many consider this legal intervention a scandalous betrayal of the rule of law.) That includes holding a second shareholder vote and reincorporating Tesla in Texas. There is still pending litigation, and it seems this will eventually be appealed to the Delaware Supreme Court and, if necessary, SCOTUS."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I\u2019m less aware of negotiations for a new compensation package\u2014he may have already secured one\u2014but regardless, Musk already has his new xAI company, so he\u2019s well on his way to executing his threat. There were even credible allegations that he diverted scarce, new Nvidia GPU shipments from Tesla to xAI. I.e., everyone wants these chips, and he may have intervened to let xAI jump ahead of Tesla\u2019s earlier orders."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/saturday-thread-ef2/comment/97251069"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 97445937,
+    "parent_children": 8,
+    "thread_id": 97332889,
+    "thread_children": 34,
+    "ratio_recv": 1,
+    "ratio_give": 0,
+    "grade_level": 11.2,
+    "word_count": 306,
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 158209845,
@@ -62849,6 +62961,56 @@
       "political campaigns",
       "social media influence"
     ]
+  },
+  {
+    "post_id": 158158262,
+    "title": "America is ruled by gangsters now",
+    "canonical_url": "https://www.noahpinion.blog/p/america-is-ruled-by-gangsters-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 97554640,
+    "top_level": false,
+    "date": "Mar 02 2025 22:46",
+    "likes": 0,
+    "timestamp": 1740973613,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, Musk is insane, so we probably don\u2019t need to overthink his relationship with Tesla or how it fits into a broader narrative that is still evolving and rather volatile. I\u2019ll just say that I\u2019m fairly confident Tesla can continue without him and even function well despite some hostility between them. They may even appreciate that for branding value alone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, even if Tesla ran into extreme financial trouble\u2014like bankruptcy\u2014I\u2019m fairly confident someone would buy its assets and continue operating it in a way largely aligned with U.S. EV success. We could probably just count on private equity or some new stock issuance to keep it running well enough to pump out an ever-growing number of sophisticated EVs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I agree we need a BYD solution, and it almost certainly involves Tesla. No one else comes close to large-scale, highly efficient auto manufacturing in America or other non-China markets. Additionally, I think we can be increasingly confident in the rollout of self-driving cars over the next few years, as well as their role in commoditizing consumer vehicles, comparable to BYD. TBD on whether Tesla AI is helpful there, but at least Waymo can function well in an ever-growing number of markets. So even a Waymo AI running on an unbranded Tesla body could provide the American Commodified EV."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, some people will still need\u2014or at least want\u2014a hybrid human/AI-driven car, and they could buy a Tesla, a Hyundai, a Toyota, or any of those vehicles with sufficient cosmetic work to carry the branding of Ford, GM, or Stellantis."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 97536666,
+    "parent_children": 4,
+    "thread_id": 97332889,
+    "thread_children": 34,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 12.4,
+    "word_count": 257,
+    "category": "Uncategorized",
+    "tags": []
   },
   {
     "post_id": 158128233,
@@ -63142,7 +63304,7 @@
     "id": 98748805,
     "top_level": false,
     "date": "Mar 07 2025 12:11",
-    "likes": 6,
+    "likes": 7,
     "timestamp": 1741367518,
     "body": [
       [
@@ -63206,9 +63368,9 @@
     "parent_id": 98740489,
     "parent_children": 3,
     "thread_id": 98669558,
-    "thread_children": 65,
+    "thread_children": 68,
     "ratio_recv": -2,
-    "ratio_give": -9,
+    "ratio_give": -12,
     "grade_level": 8.0,
     "word_count": 90,
     "category": "Uncategorized",
@@ -63228,7 +63390,7 @@
     "id": 98797258,
     "top_level": false,
     "date": "Mar 07 2025 15:32",
-    "likes": 4,
+    "likes": 5,
     "timestamp": 1741379567,
     "body": [
       [
@@ -63248,9 +63410,9 @@
     "parent_id": 98763128,
     "parent_children": 2,
     "thread_id": 98669558,
-    "thread_children": 65,
+    "thread_children": 68,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 6.6,
     "word_count": 58,
     "category": "Uncategorized",
@@ -63288,11 +63450,11 @@
     ],
     "total_children": 1,
     "parent_id": 98707712,
-    "parent_children": 23,
+    "parent_children": 24,
     "thread_id": 98669558,
-    "thread_children": 65,
+    "thread_children": 68,
     "ratio_recv": null,
-    "ratio_give": -15,
+    "ratio_give": -16,
     "grade_level": 6.1,
     "word_count": 80,
     "category": "Uncategorized",
@@ -63337,11 +63499,11 @@
     ],
     "total_children": 2,
     "parent_id": 98818200,
-    "parent_children": 56,
+    "parent_children": 67,
     "thread_id": 98818200,
-    "thread_children": 56,
+    "thread_children": 67,
     "ratio_recv": 0,
-    "ratio_give": -22,
+    "ratio_give": -23,
     "grade_level": 14.2,
     "word_count": 249,
     "category": "Uncategorized",
@@ -63392,7 +63554,7 @@
     "parent_id": 98904954,
     "parent_children": 2,
     "thread_id": 98818200,
-    "thread_children": 56,
+    "thread_children": 67,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 9.4,
@@ -63433,7 +63595,7 @@
     "parent_id": 98884430,
     "parent_children": 5,
     "thread_id": 98818200,
-    "thread_children": 56,
+    "thread_children": 67,
     "ratio_recv": 0,
     "ratio_give": -2,
     "grade_level": 5.9,
@@ -63454,7 +63616,7 @@
     "id": 98923823,
     "top_level": false,
     "date": "Mar 08 2025 07:35",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1741437359,
     "body": [
       [
@@ -63548,11 +63710,1347 @@
     "parent_id": 98941539,
     "parent_children": 3,
     "thread_id": 98818200,
-    "thread_children": 56,
+    "thread_children": 67,
     "ratio_recv": 1,
     "ratio_give": -1,
     "grade_level": 16.2,
     "word_count": 90,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99004193,
+    "top_level": true,
+    "date": "Mar 08 2025 13:54",
+    "likes": 6,
+    "timestamp": 1741460063,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I regret to inform us that Elon Musk doesn't sound as crazy as we might expect in his long form interview w/ Joe Rogan. "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/sSOxPJD-VNo?si=J_NvrG91mtmSU3Sg"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm still listening and processing this in my human mind. Yet it sounds like a plausible, if conspiratorial, connection between ideas. I'll need some actual AI Deep Research to make sense of this because there are lot of ideas here that he's connecting, in real time, rather reasonably. It is sensational, but not necessarily totally wrong."
+        }
+      ]
+    ],
+    "total_children": 17,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": 14,
+    "ratio_give": null,
+    "grade_level": 8.4,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99008296,
+    "top_level": false,
+    "date": "Mar 08 2025 14:14",
+    "likes": 4,
+    "timestamp": 1741461288,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Tech Crunch is the only free and credible source about the tech industry that isn't just paid content (ie, marketing of products by the vendor) or just designed to reaffirm beliefs of readers (and show ads or sell subscriptions and merchandise)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That is just my own vibes and something I've also heard Ben Thompson rant about for too long on his shows. I guess we could through in an AI explanation for why that may be the case (or just read it's Wikipedia page[1]). But if I wasn't using paid subscriptions like Bloomberg or Stratechery for tech news, then I'd start w/ Tech Crunch. Personally, I haven't read an article on TC in years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/TechCrunch"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 98995756,
+    "parent_children": 12,
+    "thread_id": 98994319,
+    "thread_children": 33,
+    "ratio_recv": -2,
+    "ratio_give": -7,
+    "grade_level": 8.7,
+    "word_count": 115,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99010474,
+    "top_level": false,
+    "date": "Mar 08 2025 14:26",
+    "likes": 5,
+    "timestamp": 1741461961,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> we had these massive protests and/or riots that supposedly meant something [...], and everybody just moved on like nothing happened"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ah, we might\u2019ve just needed some activities after being all angsty following necessary isolation to slow the spread of a dangerous virus. It meant something then, beyond the exercise, but we can move on from an event that happened nearly five years ago. Like, Damn, we still had that Trump 1.0 guy in office back then."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 99000769,
+    "parent_children": 13,
+    "thread_id": 98992539,
+    "thread_children": 35,
+    "ratio_recv": -2,
+    "ratio_give": -5,
+    "grade_level": 6.8,
+    "word_count": 75,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99011041,
+    "top_level": false,
+    "date": "Mar 08 2025 14:28",
+    "likes": 1,
+    "timestamp": 1741462129,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but it is still useful for the narrative structure. Guess a good reminder for us to put facts into context when reading or even reporting the news."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence why I now always ask some AI to put a particularly interesting article into context when I find myself thinking too much about it. (Or we could just start w/ appropriately biased and structured reporting for our own, personal and professional interests)"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 98999933,
+    "parent_children": 2,
+    "thread_id": 98992539,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 9.1,
+    "word_count": 71,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99015291,
+    "top_level": false,
+    "date": "Mar 08 2025 14:50",
+    "likes": 1,
+    "timestamp": 1741463435,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good point! I guess we can all agree to \"let sleeping dogs lie\" or some other metaphor for not overthinking the past\u2014be it our past perceptions, feelings, and even figuring out the nuances of the facts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We got a lot more work to do to prepare for 2026 and we needn\u2019t distract ourselves here now, in Mar 2025, with events that happened in May 2020. Particularly so, if it\u2019s conservative influencers bring us the distractions!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99013002,
+    "parent_children": 2,
+    "thread_id": 98992539,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 9.5,
+    "word_count": 75,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99016227,
+    "top_level": false,
+    "date": "Mar 08 2025 14:55",
+    "likes": 1,
+    "timestamp": 1741463714,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, all I got was, \""
+        },
+        {
+          "type": "url",
+          "value": "https://open.spotify.com"
+        },
+        {
+          "type": "text",
+          "value": " wants to open this application\" and I closed it because I didn't wanna risk a client side injection attack."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My AI suggest that you may have ment the following, \u201cCheck out Concerto, Op. 38: II. Choral - Interludium by Walter Braunfels. It\u2019s on the album Braunfels: Konzert und andere Welt-Ersteinspielungen (2012).\u201d"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 99000968,
+    "parent_children": 7,
+    "thread_id": 99000968,
+    "thread_children": 7,
+    "ratio_recv": 1,
+    "ratio_give": 0,
+    "grade_level": 7.5,
+    "word_count": 55,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99022394,
+    "top_level": true,
+    "date": "Mar 08 2025 15:26",
+    "likes": 3,
+    "timestamp": 1741465619,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Towards the aim of fun and harmless distractions, would anyone else be interested in another SB comment data analysis exercise? [1] I\u2019m hoping to make this one simple for all of us\u2014including avoiding AI assistance\u2014and possibly even teach some basic software engineering practices on open source tooling. Anyone who wants to follow along or join in can use this thread. I\u2019m fine talking to myself for today as well."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thinking cohort analysis. For each month/year of SB existence, when did a user first post a comment defining their \u201cjoin cohort\u201d. We could then analyze each 2025 month in terms of comments from each \u201cjoin cohort\u201d. Eg, 5% from Nov 2020, 1.2% from Dec 2020, and so on up to present months for all ~50 months."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m personally looking to generate a table with columns of \u201cJoin Cohort, Commenting Month, Unique User Count\u201d, whereby count anonymizes the identities of individual users. Such anonymization is extremely important for such sensitive data. (See discussions in past threads in the link below.) It also makes the problem more tractable because we\u2019ve had ~529k comments on SB by my estimation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] The following link may appear dangerous, or at least weird, but if you\u2019re familiar with private browsing you could open it there. Could even use Dev Tools to verify that it is a benign website (it better be for a fixed $4/mo and low client side resource utilization.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My comments sharing SB data analysis projects over the years and our past, shared discussions from links there within, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/#sort=old&type=all&show=50&page=1&startDate=2021-10-20&endDate=2025-03-09&category=all&search=github+matthagy&tags=all"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 99022394,
+    "thread_children": 3,
+    "ratio_recv": -2,
+    "ratio_give": null,
+    "grade_level": 8.3,
+    "word_count": 253,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99035147,
+    "top_level": false,
+    "date": "Mar 08 2025 16:34",
+    "likes": 1,
+    "timestamp": 1741469684,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To begin, let's generate some simple tabular data for analysis as shown in "
+        },
+        {
+          "type": "url",
+          "value": "https://gist.github.com/matthagy/3bb1d96c81a3d5ca1ea8859537591abb"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That defines a table of \"Slow Boring Monthly Join & Commenting User Cohorts Counts\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "With columns: commenting_cohort,join_cohort,comment_count,unique_users"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here are the first few rows:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "commenting_cohort,join_cohort,comment_count,unique_users"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020-11,2020-11,4840,966"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020-12,2020-11,5415,519"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020-12,2020-12,2435,620"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-01,2020-11,6682,484"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-01,2020-12,3513,348"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-01,2021-01,1733,638"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-02,2020-11,4464,338"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-02,2020-12,2282,215"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-02,2021-01,764,162"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021-02,2021-02,521,212"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here we see the number of comments for each \"commenting_cohort\", broken down by \"join_cohort\". For each pair of those two columns, we see the total number of comments as well as the number from each join cohort"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For the first month of SB's existence 2020-11 (Nov 2020) we have only 1 row because all commenting users joined in that month. For that month we have 4840 comments and 966 unique users."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For comments in Dec 2020, we have two commenting cohorts, those that joined that month as well as the previous month:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020-12,2020-11,5415,519"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020-12,2020-12,2435,620"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There we a total of 5415 + 2435 comments for 7850 comments. The unique users are 519 + 620 =  1139."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The trend continues with each commenting month adding a new join cohort and include users from all potential join cohorts."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 99022394,
+    "parent_children": 3,
+    "thread_id": 99022394,
+    "thread_children": 3,
+    "ratio_recv": 0,
+    "ratio_give": -2,
+    "grade_level": 13.7,
+    "word_count": 178,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99036372,
+    "top_level": false,
+    "date": "Mar 08 2025 16:41",
+    "likes": 3,
+    "timestamp": 1741470072,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good question! I don't yet have a personal tl;dr and I imagine the social one has been in development for the last week or so. Guessing that impact will become more knowable over the coming month or two."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Just seems like stuff we should be aware of because I believe that this Rogan guy is quite popular. He's got 19.5M subs on YouTube alone and this 8 day old video already has 11M views, 320k likes, and 70.5k comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So if Musk and Rogan can construct a convincing, plausible narrative that justifies some actions taken in the Trump admin so far then we should be thinking through response beyond just, \"screw those lame nobodies\""
+        }
+      ]
+    ],
+    "total_children": 12,
+    "parent_id": 99023220,
+    "parent_children": 16,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": 0,
+    "ratio_give": -17,
+    "grade_level": 7.2,
+    "word_count": 114,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99043462,
+    "top_level": false,
+    "date": "Mar 08 2025 17:20",
+    "likes": 2,
+    "timestamp": 1741472439,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Nothing yet unfortunately, I'm only 1:33 out of 3:11, across 3 sessions. I can't stand these long form shows."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Will likely need to listen to finish it on a long walk tomorrow. Moreover, I'll probably want a second listen over the coming week to let it sink in. Then finally, I'll need to find some credible analysis of salient details, backed by a transcript, in order for me to take anything seriously. Guessing something like, \"Musk alleges usage of SS system to make fraudulent payments to illegal aliens - Rogan blown away - The two conspire at length\". Underlying facts may be correct and, if true, would, in theory, allow them to cut some SS and SSI expenses without congressional action."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That is the approach that I had to take in Jan 2025 in order to reason through Bloomberg's reporting of \"Zuckerberg Says Most Companies Need More 'Masculine Energy'\". There was certainly more to it, and Zuck was much less fluid than Musk, yet quite the improvement over his earlier congressional robotic testimony. For details, see my Jan 12 2025 comment, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/sunday-thread-mailbag-e47/comment/85805052"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 99042087,
+    "parent_children": 11,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": 2,
+    "ratio_give": -1,
+    "grade_level": 9.1,
+    "word_count": 179,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99044465,
+    "top_level": false,
+    "date": "Mar 08 2025 17:26",
+    "likes": 1,
+    "timestamp": 1741472784,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I consider any link that opens Spotify an injection of some needless noise :)"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99043078,
+    "parent_children": 2,
+    "thread_id": 99000968,
+    "thread_children": 7,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 7.6,
+    "word_count": 14,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99045145,
+    "top_level": false,
+    "date": "Mar 08 2025 17:29",
+    "likes": 2,
+    "timestamp": 1741472998,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Read the original comment, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/saturday-thread-ce6/comment/99004193"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Just stating that he doesn't sound like a Trumpian weave and the underlying facts I heard in the first 30m sounded plausible. The comment you're replying to summarizes as much sense I can make of it for now. Just recognizing there is a narrative that we should prepare, including guarding against defending any \"unauthorized payment to illegal aliens\". Great chance for to flip the narrative an ask Musk to \"find those aliens, if you can, and cut out those fraudulent payments\"."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 99044457,
+    "parent_children": 4,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 9.2,
+    "word_count": 85,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99051259,
+    "top_level": false,
+    "date": "Mar 08 2025 18:05",
+    "likes": 1,
+    "timestamp": 1741475143,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Understanble. For now just gonna focus on the narrative to prepare for what may become salient. Then can fact check as needed, but primarily wanna focus on actual impact."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99047309,
+    "parent_children": 2,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 8.9,
+    "word_count": 29,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99060311,
+    "top_level": false,
+    "date": "Mar 08 2025 19:00",
+    "likes": 1,
+    "timestamp": 1741478448,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thinking quarterly will be more insightful for now, "
+        },
+        {
+          "type": "url",
+          "value": "https://gist.github.com/matthagy/97ea545b7779d0173a8d7218e43407b6"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We now see the first three rows as"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "commenting_cohort,join_cohort,comment_count,unique_users"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020Q4,2020Q4,12690,2105"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021Q1,2020Q4,23015,1861"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021Q1,2021Q1,4936,1366"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Where each years has the four standard quarters. Moreover, to motivate some analysis, I found some simple stats by focusing on our current commenting quarter, \"2025Q1\" and then looking at cohorts, aggregated by join year."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "join_cohort,comment_count,unique_users,comments_per_user"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2020,11681,507,23.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2021,10400,502,20.7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2022,7094,346,20.5"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2023,3910,341,11.5"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2024,5506,501,11.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- 2025,989,331,3.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Shows that the early joining users are still quite active. Moreover, the pandemic years of 2020-22, continue going strong. Looking forward to our newest members upping their game. Although there could be some Survivorship Bias in the older cohorts."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99035147,
+    "parent_children": 2,
+    "thread_id": 99022394,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.0,
+    "word_count": 101,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158658110,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-ce6",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99079058,
+    "top_level": false,
+    "date": "Mar 08 2025 20:58",
+    "likes": 1,
+    "timestamp": 1741485531,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, agreed\u2014I don\u2019t know anything about how the system currently works or is even supposed to work. Just that if the federal government could demonstrate that benefits are likely being paid to dead people or illegal immigrants, then Musk and team would have credible evidence of fraudulent benefits and good cause to terminate them until proof of both life and citizenship. Just denying suspect claims alone could be useful if the majority of these can\u2019t be proven accurate."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Basically, the logic sounds plausible and would provide the Trump admin with both: a) an opportunity to claim fraud and b) a chance to cut spending. And these could be large spending cuts if the US can decrease mandatory spending without the need for congressional action. The US taxpayers at large would certainly appreciate this. Moreover, on the illegal immigrant issue, this would actually accomplish the fabled \u201cself deportation\u201d."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, that is all assuming any of this works. Just think we Democrats should all be on the lookout for action along these lines and be preparing our own narratives. We may want to avoid impulsive attacks on these actions\u2014even for charitable causes\u2014if the voters come to accept the Musk and Rogan narrative. Instead, we should focus on issues that actually hurt electorally significant groups of voters."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 99067492,
+    "parent_children": 5,
+    "thread_id": 99004193,
+    "thread_children": 17,
+    "ratio_recv": 9,
+    "ratio_give": -3,
+    "grade_level": 10.9,
+    "word_count": 214,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158516426,
+    "title": "Democrats should take their opposition to Trump's tariffs seriously ",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-take-their-opposition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99349037,
+    "top_level": false,
+    "date": "Mar 10 2025 06:21",
+    "likes": 3,
+    "timestamp": 1741602094,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Might they be 2 sides of the same coin?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, how much abundance would we now have, had our growth rate had be 0.1% slower over the last century?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Please no AI because that one is far to easy for even an 90s era calculator. At least do an MC of projected outcomes across a range of likelihoods."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 99348430,
+    "parent_children": 9,
+    "thread_id": 99347781,
+    "thread_children": 59,
+    "ratio_recv": 7,
+    "ratio_give": -3,
+    "grade_level": 3.1,
+    "word_count": 58,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158516426,
+    "title": "Democrats should take their opposition to Trump's tariffs seriously ",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-take-their-opposition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99349206,
+    "top_level": false,
+    "date": "Mar 10 2025 06:23",
+    "likes": 2,
+    "timestamp": 1741602195,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "How would you revoke a license? Like if I didn't want any MSNBC for at least 30 days, what would I do personally to ensure it's not just for me?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99348223,
+    "parent_children": 8,
+    "thread_id": 99348223,
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 4.4,
+    "word_count": 30,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158516426,
+    "title": "Democrats should take their opposition to Trump's tariffs seriously ",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-take-their-opposition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99356836,
+    "top_level": false,
+    "date": "Mar 10 2025 07:29",
+    "likes": 3,
+    "timestamp": 1741606147,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "To some extent, aren't we threading that needle, with just some recent over corrections? And now we're all attempting to do something of a better jobs by listening to registered voters, while Trump acts?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99353989,
+    "parent_children": 2,
+    "thread_id": 99350369,
+    "thread_children": 19,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 8.7,
+    "word_count": 34,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158516426,
+    "title": "Democrats should take their opposition to Trump's tariffs seriously ",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-take-their-opposition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99357343,
+    "top_level": false,
+    "date": "Mar 10 2025 07:32",
+    "likes": 2,
+    "timestamp": 1741606377,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "What data are you citing for that one? Particularly because that Star Trek reference sounds dated as hell, just off the top of my head?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "You got at least a flavored ad you've seen from a recent politician on YouTube?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99350422,
+    "parent_children": 6,
+    "thread_id": 99347781,
+    "thread_children": 59,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 6.1,
+    "word_count": 40,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158516426,
+    "title": "Democrats should take their opposition to Trump's tariffs seriously ",
+    "canonical_url": "https://www.slowboring.com/p/democrats-should-take-their-opposition",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99438879,
+    "top_level": false,
+    "date": "Mar 10 2025 13:26",
+    "likes": 1,
+    "timestamp": 1741627565,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes! Could that explain goods inflation while services exploded in price? Sounds plausible and I'll research it sometime in the future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Currently, I'm far more excited about the opportunity to flip that dynamic. Even false starts will be exciting as they could suggest the collapse of some legacy solutions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99373220,
+    "parent_children": 2,
+    "thread_id": 99350989,
+    "thread_children": 29,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 8.1,
+    "word_count": 49,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99890412,
+    "top_level": false,
+    "date": "Mar 12 2025 08:52",
+    "likes": 1,
+    "timestamp": 1741783955,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe: Start using GenAI in your current work and find a firm that well leverages it across all functions and thereby learn its strengths and weaknesses? I'm fairly confident a quick chat with your currently preferred intelligence vendor could provide individualized advice for each person."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Not AI proofread due to assorted vendor management considerations of my own"
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 99865340,
+    "parent_children": 33,
+    "thread_id": 99865340,
+    "thread_children": 33,
+    "ratio_recv": 5,
+    "ratio_give": -73,
+    "grade_level": 10.7,
+    "word_count": 57,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99891155,
+    "top_level": false,
+    "date": "Mar 12 2025 08:56",
+    "likes": 6,
+    "timestamp": 1741784162,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Are you offering to teach them? If so, please list your qualifications. Notably, itemized relevant experience would be useful"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 99878917,
+    "parent_children": 6,
+    "thread_id": 99866479,
+    "thread_children": 60,
+    "ratio_recv": 0,
+    "ratio_give": 3,
+    "grade_level": 6.9,
+    "word_count": 19,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99895851,
+    "top_level": false,
+    "date": "Mar 12 2025 09:16",
+    "likes": 2,
+    "timestamp": 1741785366,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, guess your profession is safe"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Definitely seems extremely useful for empowering experienced tech workers for enhancing skills used in making things that work. Ie, building and operating digital systems that effectively and efficiently deploy resources to solving problems."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, We in tech could've built Uber with far fewer tech workers. Would've still needed the same number drivers though"
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 99891518,
+    "parent_children": 10,
+    "thread_id": 99865340,
+    "thread_children": 33,
+    "ratio_recv": 1,
+    "ratio_give": -4,
+    "grade_level": 10.2,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99897382,
+    "top_level": false,
+    "date": "Mar 12 2025 09:22",
+    "likes": 1,
+    "timestamp": 1741785762,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! We can now do the opposite with far more humans capable of providing onsite instruction. Moreover, motivated students needn't buy outside tutors. That would be a massive, real increase in educational productivity"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 99870048,
+    "parent_children": 11,
+    "thread_id": 99870048,
+    "thread_children": 11,
+    "ratio_recv": -1,
+    "ratio_give": -14,
+    "grade_level": 11.1,
+    "word_count": 33,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99898804,
+    "top_level": false,
+    "date": "Mar 12 2025 09:28",
+    "likes": 0,
+    "timestamp": 1741786107,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Well yeah, can't get promoted until you got someone else who can do your own job sufficiently well. Eg, I'm increasingly relying on established institutions to manage numerous challenges for me while I figure out how these roles function."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe one day the only job left will be allocating our limited time and attention to find the highest impact deployment of our real resources. Eg, TikTok Investing to finally eliminate Bitcoin & Meme Stocks"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99896498,
+    "parent_children": 6,
+    "thread_id": 99865340,
+    "thread_children": 33,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.4,
+    "word_count": 73,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99916108,
+    "top_level": false,
+    "date": "Mar 12 2025 10:34",
+    "likes": 0,
+    "timestamp": 1741790046,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't think we need to do anything policy wise. Just let people get disrupted and find new jobs: ie, same as in manufacturing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, the lower aggregate demand will help with inflation. Moreover, I just don't believe the quantity nor the geographical distribution will matter that much. Like, how many of the impacted people were already voting Republican and are also amenable to voting Democrat?"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 99898368,
+    "parent_children": 15,
+    "thread_id": 99865340,
+    "thread_children": 33,
+    "ratio_recv": 3,
+    "ratio_give": -7,
+    "grade_level": 8.5,
+    "word_count": 67,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99916680,
+    "top_level": false,
+    "date": "Mar 12 2025 10:36",
+    "likes": 0,
+    "timestamp": 1741790165,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We could just not do the whole SALT cap repeal that some Democrats are excited about. Instead, we can just let the Republicans own their policies of tax cuts and irresponsible fiscal policy."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99911467,
+    "parent_children": 2,
+    "thread_id": 99865340,
+    "thread_children": 33,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 8.5,
+    "word_count": 33,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99917548,
+    "top_level": false,
+    "date": "Mar 12 2025 10:39",
+    "likes": 1,
+    "timestamp": 1741790343,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think it's both actually. In that in both cases, fewer entry level people were needed and existing staff was empowered to do more. We could imagine the same thing again with other roles impacted by Gen AI."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99903491,
+    "parent_children": 2,
+    "thread_id": 99869855,
+    "thread_children": 30,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 5.9,
+    "word_count": 38,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158644075,
+    "title": "It's time to take AI job loss seriously ",
+    "canonical_url": "https://www.slowboring.com/p/its-time-to-take-ai-job-loss-seriously",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 99918073,
+    "top_level": false,
+    "date": "Mar 12 2025 10:41",
+    "likes": 0,
+    "timestamp": 1741790466,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Useful to know when to terminate a thread in postprocessing analysis. Although body token count alone is generally sufficient."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 99911676,
+    "parent_children": 2,
+    "thread_id": 99866479,
+    "thread_children": 60,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 9.6,
+    "word_count": 20,
     "category": "Uncategorized",
     "tags": []
   }
