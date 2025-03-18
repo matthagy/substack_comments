@@ -16,10 +16,6 @@
     "economic policy",
     "taxation"
   ],
-  "3901854": [
-    "education reform",
-    "labor market"
-  ],
   "3915524": [
     "automation",
     "generative AI",
@@ -407,12 +403,6 @@
     "climate change",
     "energy policy"
   ],
-  "7121284": [
-    "economic policy",
-    "energy policy",
-    "public misinformation",
-    "tax policy"
-  ],
   "7126264": [
     "Democratic Party",
     "US politics",
@@ -459,19 +449,6 @@
     "identity politics",
     "progressivism"
   ],
-  "7273084": [
-    "Federal Reserve",
-    "economic policy",
-    "inflation",
-    "monetary policy"
-  ],
-  "7273458": [
-    "economic policy",
-    "financial crisis",
-    "financial markets",
-    "international relations",
-    "monetary policy"
-  ],
   "7280853": [
     "abortion rights",
     "human rights"
@@ -492,11 +469,6 @@
     "Federal Reserve",
     "inflation",
     "monetary policy"
-  ],
-  "7327423": [
-    "business strategy",
-    "economic policy",
-    "taxation"
   ],
   "7379950": [
     "Democratic Party",
@@ -1078,10 +1050,6 @@
   "10473463": [
     "business strategy"
   ],
-  "10473656": [
-    "US politics",
-    "debt ceiling"
-  ],
   "10481051": [
     "Democratic Party",
     "activism",
@@ -1098,10 +1066,6 @@
     "partisan politics",
     "political polarization",
     "right-wing politics"
-  ],
-  "10485238": [
-    "data analysis",
-    "economic inequality"
   ],
   "10504818": [
     "US politics",
@@ -1925,25 +1889,12 @@
     "historical analysis",
     "human rights"
   ],
-  "11871190": [
-    "Federal Reserve",
-    "monetary policy",
-    "pandemic response"
-  ],
   "11887546": [
     "Biden administration",
     "US politics",
     "debt ceiling",
     "economic policy",
     "financial markets"
-  ],
-  "11917541": [
-    "news consumption",
-    "social media influence"
-  ],
-  "11968582": [
-    "climate change",
-    "environmental impact"
   ],
   "12000723": [
     "consumer behavior",
@@ -2063,9 +2014,6 @@
     "media bias",
     "partisan politics",
     "political polarization"
-  ],
-  "12467863": [
-    "content moderation"
   ],
   "12467995": [
     "generative AI",
@@ -2412,20 +2360,9 @@
     "taxation"
   ],
   "13940935": [],
-  "13945738": [
-    "US politics",
-    "international relations",
-    "social justice"
-  ],
   "13945878": [
     "machine learning",
     "tech industry"
-  ],
-  "13948439": [
-    "US politics",
-    "identity politics",
-    "media influence",
-    "social justice"
   ],
   "13961047": [
     "US politics",
@@ -2633,7 +2570,6 @@
     "public misinformation",
     "social media influence"
   ],
-  "14480060": [],
   "14497862": [],
   "14531697": [
     "immigration issues",
@@ -3387,11 +3323,6 @@
   "54240236": [
     "economic policy",
     "financial regulation"
-  ],
-  "54605776": [
-    "economic inequality",
-    "education inequality",
-    "social justice"
   ],
   "55610713": [],
   "55942021": [
@@ -4244,13 +4175,6 @@
     "media influence",
     "public misinformation"
   ],
-  "85391309": [
-    "censorship",
-    "content moderation",
-    "free speech issues",
-    "media influence",
-    "social media influence"
-  ],
   "85414384": [
     "automation",
     "economic policy",
@@ -4302,11 +4226,6 @@
     "economic policy",
     "financial markets",
     "inflation"
-  ],
-  "86169872": [
-    "economic policy",
-    "historical analysis",
-    "political polarization"
   ],
   "86221479": [
     "Democratic Party",
@@ -4415,23 +4334,11 @@
     "media influence",
     "social media influence"
   ],
-  "92213215": [
-    "generative AI",
-    "labor market",
-    "software engineering",
-    "tech industry"
-  ],
   "92217382": [
     "automation",
     "economic inequality",
     "progressivism",
     "social justice"
-  ],
-  "92229468": [
-    "generative AI",
-    "historical analysis",
-    "media influence",
-    "tech industry"
   ],
   "92245009": [
     "financial markets",
@@ -4498,13 +4405,6 @@
     "economic policy",
     "foreign policy"
   ],
-  "93313157": [
-    "US politics",
-    "business strategy",
-    "media influence",
-    "partisan politics",
-    "tech industry"
-  ],
   "93321281": [
     "business strategy",
     "free speech issues",
@@ -4514,11 +4414,6 @@
     "Biden administration",
     "US politics",
     "media influence"
-  ],
-  "93337983": [
-    "Russia-Ukraine conflict",
-    "US politics",
-    "partisan politics"
   ],
   "93340907": [
     "generative AI",
@@ -4961,12 +4856,6 @@
     "business strategy",
     "tech industry"
   ],
-  "96953244": [
-    "Russia-Ukraine conflict",
-    "US politics",
-    "gun rights",
-    "political polarization"
-  ],
   "97213387": [
     "media influence",
     "news consumption"
@@ -4994,7 +4883,6 @@
     "US politics",
     "tech industry"
   ],
-  "97365109": [],
   "97436168": [
     "US politics",
     "media influence",
@@ -5034,11 +4922,6 @@
     "media bias",
     "public misinformation",
     "social media influence"
-  ],
-  "98441309": [
-    "business strategy",
-    "economic policy",
-    "taxation"
   ],
   "98507309": [
     "identity politics",
@@ -5083,5 +4966,112 @@
     "US politics",
     "partisan politics"
   ],
-  "98926692": []
+  "99004193": [
+    "generative AI",
+    "media influence",
+    "social media influence"
+  ],
+  "99008296": [
+    "media influence",
+    "news consumption",
+    "subscription models",
+    "tech industry"
+  ],
+  "99010474": [
+    "US politics",
+    "activism",
+    "pandemic response"
+  ],
+  "99011041": [
+    "media bias",
+    "media influence",
+    "news consumption"
+  ],
+  "99015291": [
+    "media influence",
+    "news consumption",
+    "partisan politics",
+    "political polarization",
+    "social media influence"
+  ],
+  "99016227": [
+    "digital privacy"
+  ],
+  "99022394": [
+    "data analysis",
+    "digital privacy",
+    "software engineering"
+  ],
+  "99036372": [
+    "US politics",
+    "media influence",
+    "news consumption",
+    "political polarization",
+    "social media influence"
+  ],
+  "99043462": [],
+  "99045145": [
+    "immigration issues",
+    "public misinformation"
+  ],
+  "99060311": [
+    "data analysis"
+  ],
+  "99079058": [
+    "Democratic Party",
+    "US politics",
+    "immigration issues",
+    "public misinformation",
+    "social security"
+  ],
+  "99349037": [
+    "data analysis",
+    "economic policy"
+  ],
+  "99356836": [
+    "US politics",
+    "partisan politics"
+  ],
+  "99357343": [],
+  "99438879": [
+    "economic policy",
+    "inflation"
+  ],
+  "99890412": [
+    "business strategy",
+    "generative AI"
+  ],
+  "99895851": [
+    "automation",
+    "tech industry"
+  ],
+  "99897382": [
+    "education reform",
+    "educational technology"
+  ],
+  "99917548": [
+    "automation",
+    "generative AI",
+    "labor market"
+  ],
+  "100999197": [
+    "historical analysis",
+    "tech industry"
+  ],
+  "101000549": [
+    "US politics",
+    "partisan politics",
+    "political polarization"
+  ],
+  "101001744": [],
+  "101399798": [
+    "Democratic Party",
+    "media bias",
+    "social media influence"
+  ],
+  "101400588": [
+    "media bias",
+    "media influence",
+    "public misinformation"
+  ]
 }
