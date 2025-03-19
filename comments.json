@@ -65155,7 +65155,7 @@
     "id": 101399798,
     "top_level": false,
     "date": "Mar 18 2025 07:20",
-    "likes": 3,
+    "likes": 7,
     "timestamp": 1742296842,
     "body": [
       [
@@ -65167,11 +65167,11 @@
     ],
     "total_children": 1,
     "parent_id": 101391392,
-    "parent_children": 3,
+    "parent_children": 25,
     "thread_id": 101391392,
-    "thread_children": 3,
+    "thread_children": 25,
     "ratio_recv": null,
-    "ratio_give": -35,
+    "ratio_give": -148,
     "grade_level": 6.8,
     "word_count": 36,
     "category": "Uncategorized",
@@ -65191,7 +65191,7 @@
     "id": 101400588,
     "top_level": false,
     "date": "Mar 18 2025 07:26",
-    "likes": 2,
+    "likes": 5,
     "timestamp": 1742297160,
     "body": [
       [
@@ -65205,9 +65205,9 @@
     "parent_id": 101397184,
     "parent_children": 2,
     "thread_id": 101391959,
-    "thread_children": 19,
+    "thread_children": 114,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 11.5,
     "word_count": 45,
     "category": "Uncategorized",
@@ -65227,7 +65227,7 @@
     "id": 101401236,
     "top_level": false,
     "date": "Mar 18 2025 07:30",
-    "likes": 0,
+    "likes": 4,
     "timestamp": 1742297408,
     "body": [
       [
@@ -65243,13 +65243,13 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 15,
     "parent_id": 101400326,
-    "parent_children": 7,
+    "parent_children": 23,
     "thread_id": 101391959,
-    "thread_children": 19,
+    "thread_children": 114,
     "ratio_recv": 3,
-    "ratio_give": -2,
+    "ratio_give": -5,
     "grade_level": 6.3,
     "word_count": 55,
     "category": "Uncategorized",
@@ -65265,7 +65265,7 @@
     "id": 101402481,
     "top_level": false,
     "date": "Mar 18 2025 07:38",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1742297915,
     "body": [
       [
@@ -65287,15 +65287,261 @@
         }
       ]
     ],
-    "total_children": 2,
+    "total_children": 12,
     "parent_id": 101401754,
-    "parent_children": 3,
+    "parent_children": 13,
     "thread_id": 101391959,
-    "thread_children": 19,
-    "ratio_recv": 0,
-    "ratio_give": -3,
+    "thread_children": 114,
+    "ratio_recv": 5,
+    "ratio_give": -5,
     "grade_level": 10.2,
     "word_count": 73,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158988051,
+    "title": "The stock market won't save us",
+    "canonical_url": "https://www.slowboring.com/p/the-stock-market-wont-save-us",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101409011,
+    "top_level": false,
+    "date": "Mar 18 2025 08:17",
+    "likes": 1,
+    "timestamp": 1742300232,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you for sharing your investment thesis on TSLA. How much of your personal balance sheet are you placing into short positions? And what sort of instrument are you using?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, the Google search \"how to short tsla\" suggest a few different financial instruments, including \"GraniteShares 2x Short TSLA Daily ETF\", "
+        },
+        {
+          "type": "url",
+          "value": "https://graniteshares.com/institutional/us/en-us/etfs/tsdd/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I'm a passive investor and guessing that I only have it in index funds, with small net-long allocations. Not interested in figuring out my allocation at the moment, let alone hedging that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, guessing that it could even be argued it's correlation with other stocks could make me net short or something weirder with different time scales. Regardless, I'm lazy and don't want to figure out my exposure given different assumptions."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 101404619,
+    "parent_children": 11,
+    "thread_id": 101391959,
+    "thread_children": 114,
+    "ratio_recv": 4,
+    "ratio_give": -6,
+    "grade_level": 10.2,
+    "word_count": 123,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158988051,
+    "title": "The stock market won't save us",
+    "canonical_url": "https://www.slowboring.com/p/the-stock-market-wont-save-us",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101415744,
+    "top_level": false,
+    "date": "Mar 18 2025 08:51",
+    "likes": 1,
+    "timestamp": 1742302289,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Cool. Sounds reasonable to me."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "My best, lazy guess is that TSLA become the BYD for US EV's in that they'll provide the platform that is customized with various branding. Eg, will allow GM to easily and cost efficiently offer their own brands on the Tesla EV platforms that are styled in the way appreciated by their customers to leverage the legacy brand value. There can still be the Tesla branding for consumers that appreciate that, but their main value add will be manufacturing, R&D, and supply chain logistics. This would be similar to TSMC's role in semis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Part of my general hypothesis with all goods production and distribution will become increasingly automated over time to avoid tariffs and legacy firms burdened with outdated assets and liabilities likes debt and union contracts. Could take decades and the dynamics will vary a lot by industry and actors. Eg, guessing GM and other legacy US autos will still be making ICE vehicles for decades to come."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 101410288,
+    "parent_children": 3,
+    "thread_id": 101391959,
+    "thread_children": 114,
+    "ratio_recv": 3,
+    "ratio_give": -1,
+    "grade_level": 10.1,
+    "word_count": 164,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158988051,
+    "title": "The stock market won't save us",
+    "canonical_url": "https://www.slowboring.com/p/the-stock-market-wont-save-us",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101420945,
+    "top_level": false,
+    "date": "Mar 18 2025 09:15",
+    "likes": 13,
+    "timestamp": 1742303704,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, Matt Levine has been documenting numerous shareholder lawsuits alone these lines in his \"Everything Everywhere Is Securities Fraud\" theory, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bloomberg.com/opinion/articles/2019-06-26/everything-everywhere-is-securities-fraud"
+        },
+        {
+          "type": "text",
+          "value": " . He must have covered over a 100 such instances, including Musk's 2018 security fraud over tweet."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Could probably Google or ChatGPT specific cases alone those lines, but the details come down to specific courts, specific SEC officers, and other nuances. Regardless, there are serious concerns with corporate officers taking such actions."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 101418710,
+    "parent_children": 10,
+    "thread_id": 101391959,
+    "thread_children": 114,
+    "ratio_recv": -2,
+    "ratio_give": -8,
+    "grade_level": 11.4,
+    "word_count": 71,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158988051,
+    "title": "The stock market won't save us",
+    "canonical_url": "https://www.slowboring.com/p/the-stock-market-wont-save-us",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101441513,
+    "top_level": false,
+    "date": "Mar 18 2025 10:36",
+    "likes": 5,
+    "timestamp": 1742308600,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, I'm fine with everyone sharing investment beliefs, but there is a difference between having an opinion and actually putting money on the line. And plenty of sophisticated investors have lost on the thesis that TSLA is over valued over the last decade. I'm also not betting one way or the other."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover I want to remind all of us, including myself, that Musk and team have been doubted repeatedly. I don't wanna delude myself into believing that now is the time they'll fail. Musk and associates are sophisticated actors also, with a long history of making things work well enough, in spite of their obvious challenges."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I myself would want to be an informed, actively involved participant to have an actual serious opinion. Otherwise, it's too easy to have superficial views."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 101437453,
+    "parent_children": 3,
+    "thread_id": 101391959,
+    "thread_children": 114,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.7,
+    "word_count": 132,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 158988051,
+    "title": "The stock market won't save us",
+    "canonical_url": "https://www.slowboring.com/p/the-stock-market-wont-save-us",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101506720,
+    "top_level": false,
+    "date": "Mar 18 2025 14:44",
+    "likes": 4,
+    "timestamp": 1742323491,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, would just be another one to add to the list, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/List_of_lawsuits_involving_Tesla,_Inc"
+        },
+        {
+          "type": "text",
+          "value": "."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> This is a partial list of lawsuits involving Tesla, Inc, the American automotive and energy company, since 2008; as of August 2023, Tesla is party to over 1,750 lawsuits, and as of September 2021, it is party to 200 in China alone. A significant number of the cases notably derive from the actions of the company's CEO, Elon Musk, who is also party to many of his own lawsuits. TSLAQ, a loose collective of anonymous short-sellers and skeptics of Tesla and Elon Musk, regularly discusses and shares news of these lawsuits on Twitter and elsewhere."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I want to once again remind everyone that Musk has been a volatile and impulsive individual for at least a decade. Numerous people before us have predicted his downfall and currently I'm more concerned with him distracting us while his associated staff actually restructure the federal administrative state."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Forget Musk and forget the details of DOGE. Instead, we should pay attention to the negative impacts experienced by voters as can be blamed on the Trump administration. Particularly, voters in swing states and swing voters. It'll take some time, so we can just laugh at Musk and team until then."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 101445716,
+    "parent_children": 5,
+    "thread_id": 101391959,
+    "thread_children": 114,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 10.1,
+    "word_count": 205,
     "category": "Uncategorized",
     "tags": []
   }
