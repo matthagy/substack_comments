@@ -247,7 +247,12 @@
     "grade_level": 8.9,
     "word_count": 245,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "climate change",
+      "economic policy",
+      "energy policy"
+    ]
   },
   {
     "post_id": 44832459,
@@ -305,7 +310,10 @@
     "grade_level": 10.7,
     "word_count": 132,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "education reform",
+      "labor market"
+    ]
   },
   {
     "post_id": 45150536,
@@ -946,7 +954,10 @@
     "grade_level": 11.1,
     "word_count": 136,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "economic policy"
+    ]
   },
   {
     "post_id": 44807069,
@@ -1784,7 +1795,12 @@
     "grade_level": 12.2,
     "word_count": 58,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Russia-Ukraine conflict",
+      "energy policy",
+      "foreign policy",
+      "international relations"
+    ]
   },
   {
     "post_id": 49971717,
@@ -3476,7 +3492,10 @@
     "grade_level": 8.5,
     "word_count": 78,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "activism",
+      "gun control"
+    ]
   },
   {
     "post_id": 56724202,
@@ -3690,7 +3709,11 @@
     "grade_level": 10.2,
     "word_count": 59,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "education reform",
+      "higher education"
+    ]
   },
   {
     "post_id": 57548064,
@@ -4916,7 +4939,10 @@
     "grade_level": 14.3,
     "word_count": 156,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "economic policy"
+    ]
   },
   {
     "post_id": 58893445,
@@ -5010,7 +5036,12 @@
     "grade_level": 12.1,
     "word_count": 176,
     "category": "Navigating Fiscal Policy and Political Challenges",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "energy policy",
+      "public misinformation",
+      "tax policy"
+    ]
   },
   {
     "post_id": 58893445,
@@ -5060,7 +5091,13 @@
     "grade_level": 11.9,
     "word_count": 330,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "Russia-Ukraine conflict",
+      "US politics",
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 58893445,
@@ -5319,7 +5356,10 @@
     "grade_level": 10.1,
     "word_count": 70,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "energy policy"
+    ]
   },
   {
     "post_id": 59737189,
@@ -5614,7 +5654,12 @@
     "grade_level": 9.3,
     "word_count": 37,
     "category": "US Inflation and Economic Policy Responses",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "economic policy",
+      "inflation",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 59737189,
@@ -5694,7 +5739,13 @@
     "grade_level": 11.2,
     "word_count": 255,
     "category": "US Inflation and Economic Policy Responses",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "financial crisis",
+      "financial markets",
+      "international relations",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 59518168,
@@ -6015,7 +6066,11 @@
     "grade_level": 9.9,
     "word_count": 206,
     "category": "Financial Scandals and Regulatory Discussions",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "taxation"
+    ]
   },
   {
     "post_id": 59616580,
@@ -7107,7 +7162,10 @@
     "grade_level": 16.8,
     "word_count": 63,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 62667855,
@@ -10027,7 +10085,11 @@
     "grade_level": 12.3,
     "word_count": 231,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "financial markets",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 78751941,
@@ -11101,7 +11163,10 @@
     "grade_level": 5.9,
     "word_count": 51,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "taxation",
+      "welfare state"
+    ]
   },
   {
     "post_id": 81372927,
@@ -12728,7 +12793,10 @@
     "grade_level": 16.2,
     "word_count": 99,
     "category": "Financial Scandals and Regulatory Discussions",
-    "tags": []
+    "tags": [
+      "US politics",
+      "debt ceiling"
+    ]
   },
   {
     "post_id": 83900508,
@@ -12965,7 +13033,10 @@
     "grade_level": 4.8,
     "word_count": 30,
     "category": "Analysis of User Participation and Comment Metrics",
-    "tags": []
+    "tags": [
+      "data analysis",
+      "economic inequality"
+    ]
   },
   {
     "post_id": 84371323,
@@ -15213,7 +15284,10 @@
     "grade_level": 9.2,
     "word_count": 55,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI",
+      "software engineering"
+    ]
   },
   {
     "post_id": 87852296,
@@ -17337,7 +17411,10 @@
     "grade_level": 8.1,
     "word_count": 55,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media bias",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 89196577,
@@ -18643,7 +18720,12 @@
     "grade_level": 8.0,
     "word_count": 274,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "economic policy",
+      "financial crisis",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 90018342,
@@ -19360,7 +19442,11 @@
     "grade_level": 9.4,
     "word_count": 219,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice",
+      "financial crisis",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 89799685,
@@ -19432,7 +19518,13 @@
     "grade_level": 9.2,
     "word_count": 227,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "crime and justice",
+      "financial crisis",
+      "financial regulation",
+      "public misinformation",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 90417774,
@@ -20296,7 +20388,12 @@
     "grade_level": 19.7,
     "word_count": 84,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "inflation",
+      "labor market",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 90873639,
@@ -20328,7 +20425,12 @@
     "grade_level": 14.2,
     "word_count": 75,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "inflation",
+      "labor market",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 90872624,
@@ -20488,7 +20590,13 @@
     "grade_level": 10.1,
     "word_count": 164,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "financial markets",
+      "inflation",
+      "labor market",
+      "monetary policy"
+    ]
   },
   {
     "post_id": 88818373,
@@ -23501,7 +23609,10 @@
     "grade_level": 8.2,
     "word_count": 62,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "financial markets",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 95838542,
@@ -24007,7 +24118,11 @@
     "grade_level": 10.4,
     "word_count": 191,
     "category": "US Inflation and Economic Policy Responses",
-    "tags": []
+    "tags": [
+      "Federal Reserve",
+      "monetary policy",
+      "pandemic response"
+    ]
   },
   {
     "post_id": 96085279,
@@ -24201,7 +24316,10 @@
     "grade_level": 7.8,
     "word_count": 88,
     "category": "The Future of Subscription and Digital Media",
-    "tags": []
+    "tags": [
+      "news consumption",
+      "social media influence"
+    ]
   },
   {
     "post_id": 95825718,
@@ -24245,7 +24363,10 @@
     "grade_level": 11.4,
     "word_count": 106,
     "category": "Navigating Political Polarization and Activism",
-    "tags": []
+    "tags": [
+      "climate change",
+      "environmental impact"
+    ]
   },
   {
     "post_id": 95081668,
@@ -24400,7 +24521,12 @@
     "grade_level": 17.2,
     "word_count": 233,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "partisan politics",
+      "populism",
+      "progressivism",
+      "tax policy"
+    ]
   },
   {
     "post_id": 98334107,
@@ -24444,7 +24570,10 @@
     "grade_level": 8.7,
     "word_count": 138,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "comment moderation",
+      "social media influence"
+    ]
   },
   {
     "post_id": 98334107,
@@ -24508,7 +24637,12 @@
     "grade_level": 11.0,
     "word_count": 276,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "comment moderation",
+      "content moderation",
+      "software engineering"
+    ]
   },
   {
     "post_id": 97776248,
@@ -25827,7 +25961,9 @@
     "grade_level": 10.9,
     "word_count": 82,
     "category": "AI-Driven Analysis of Substack Comments",
-    "tags": []
+    "tags": [
+      "content moderation"
+    ]
   },
   {
     "post_id": 99938639,
@@ -30652,7 +30788,11 @@
     "grade_level": 14.8,
     "word_count": 27,
     "category": "Analyzing Political Preferences and Policy Debates",
-    "tags": []
+    "tags": [
+      "US politics",
+      "international relations",
+      "social justice"
+    ]
   },
   {
     "post_id": 110518383,
@@ -30789,7 +30929,11 @@
     "grade_level": 12.6,
     "word_count": 28,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "identity politics",
+      "media influence"
+    ]
   },
   {
     "post_id": 110518383,
@@ -30845,7 +30989,11 @@
     "grade_level": 12.5,
     "word_count": 27,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "climate change",
+      "taxation"
+    ]
   },
   {
     "post_id": 110518383,
@@ -30901,7 +31049,12 @@
     "grade_level": 13.5,
     "word_count": 25,
     "category": "Analyzing Political Preferences and Policy Debates",
-    "tags": []
+    "tags": [
+      "US politics",
+      "identity politics",
+      "media influence",
+      "social justice"
+    ]
   },
   {
     "post_id": 110518383,
@@ -30957,7 +31110,11 @@
     "grade_level": 13.7,
     "word_count": 28,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "media influence",
+      "social justice"
+    ]
   },
   {
     "post_id": 110518383,
@@ -31324,7 +31481,9 @@
     "grade_level": 8.5,
     "word_count": 41,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI"
+    ]
   },
   {
     "post_id": 110198262,
@@ -32268,7 +32427,12 @@
     "grade_level": 8.4,
     "word_count": 162,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "advertising revenue",
+      "business strategy",
+      "machine learning",
+      "tech industry"
+    ]
   },
   {
     "post_id": 110841665,
@@ -35160,7 +35324,11 @@
     "grade_level": 10.1,
     "word_count": 330,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI",
+      "software engineering",
+      "tech industry"
+    ]
   },
   {
     "post_id": 116692659,
@@ -39623,7 +39791,11 @@
     "grade_level": 15.1,
     "word_count": 146,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "economic policy",
+      "inflation"
+    ]
   },
   {
     "post_id": 139360227,
@@ -40698,7 +40870,12 @@
     "grade_level": 8.9,
     "word_count": 58,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "immigration issues",
+      "media influence",
+      "political campaigns"
+    ]
   },
   {
     "post_id": 140960236,
@@ -41054,7 +41231,11 @@
     "grade_level": 10.0,
     "word_count": 52,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "consumer behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 141208290,
@@ -42764,7 +42945,12 @@
     "grade_level": 13.1,
     "word_count": 111,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "economic inequality",
+      "media influence",
+      "social justice"
+    ]
   },
   {
     "post_id": 143337367,
@@ -43123,7 +43309,11 @@
     "grade_level": 11.9,
     "word_count": 32,
     "category": "Evaluating the Role and Impact of Elite Education",
-    "tags": []
+    "tags": [
+      "economic inequality",
+      "education inequality",
+      "social justice"
+    ]
   },
   {
     "post_id": 144036233,
@@ -47050,7 +47240,9 @@
     "grade_level": 11.0,
     "word_count": 101,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "generative AI"
+    ]
   },
   {
     "post_id": 149592536,
@@ -50147,7 +50339,13 @@
     "grade_level": 11.2,
     "word_count": 79,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 152801948,
@@ -51983,7 +52181,13 @@
     "grade_level": 17.0,
     "word_count": 224,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "media influence",
+      "news consumption",
+      "subscription models",
+      "tech industry"
+    ]
   },
   {
     "post_id": 153527508,
@@ -53376,7 +53580,13 @@
     "grade_level": 16.0,
     "word_count": 372,
     "category": "The Future of Subscription and Digital Media",
-    "tags": []
+    "tags": [
+      "censorship",
+      "content moderation",
+      "free speech issues",
+      "media influence",
+      "social media influence"
+    ]
   },
   {
     "post_id": 154227515,
@@ -54044,7 +54254,11 @@
     "grade_level": 9.5,
     "word_count": 152,
     "category": "Navigating Political Polarization and Activism",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "historical analysis",
+      "political polarization"
+    ]
   },
   {
     "post_id": 154846186,
@@ -54194,7 +54408,13 @@
     "grade_level": 12.1,
     "word_count": 98,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "partisan politics",
+      "political polarization",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54300,7 +54520,12 @@
     "grade_level": 10.7,
     "word_count": 283,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "international relations",
+      "media influence",
+      "partisan politics",
+      "public misinformation"
+    ]
   },
   {
     "post_id": 155021849,
@@ -54378,7 +54603,11 @@
     "grade_level": 17.8,
     "word_count": 103,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "political polarization",
+      "populism",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 155198683,
@@ -54411,7 +54640,9 @@
     "grade_level": 16.9,
     "word_count": 35,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "data analysis"
+    ]
   },
   {
     "post_id": 155334726,
@@ -54630,7 +54861,12 @@
     "grade_level": 13.5,
     "word_count": 202,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "fiscal policy",
+      "homelessness",
+      "mental health",
+      "public safety"
+    ]
   },
   {
     "post_id": 156381302,
@@ -55040,7 +55276,11 @@
     "grade_level": 11.7,
     "word_count": 261,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "economic policy",
+      "education reform",
+      "student debt"
+    ]
   },
   {
     "post_id": 156474318,
@@ -55133,7 +55373,10 @@
     "grade_level": 10.9,
     "word_count": 66,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "media influence"
+    ]
   },
   {
     "post_id": 156621538,
@@ -55576,7 +55819,11 @@
     "grade_level": 9.7,
     "word_count": 214,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "consumer behavior",
+      "labor market"
+    ]
   },
   {
     "post_id": 154340579,
@@ -55749,7 +55996,12 @@
     "grade_level": 11.7,
     "word_count": 409,
     "category": "Technology Workforce Dynamics and Emerging Trends",
-    "tags": []
+    "tags": [
+      "generative AI",
+      "labor market",
+      "software engineering",
+      "tech industry"
+    ]
   },
   {
     "post_id": 156377655,
@@ -55947,7 +56199,11 @@
     "grade_level": 13.0,
     "word_count": 345,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "historical analysis",
+      "welfare state"
+    ]
   },
   {
     "post_id": 156377655,
@@ -56052,7 +56308,12 @@
     "grade_level": 12.5,
     "word_count": 249,
     "category": "Diverse Discussions on Technology, Responsibility, and Social Issues",
-    "tags": []
+    "tags": [
+      "generative AI",
+      "historical analysis",
+      "media influence",
+      "tech industry"
+    ]
   },
   {
     "post_id": 156787329,
@@ -56774,7 +57035,13 @@
     "grade_level": 13.1,
     "word_count": 429,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "business strategy",
+      "media influence",
+      "partisan politics",
+      "tech industry"
+    ]
   },
   {
     "post_id": 157090635,
@@ -57000,7 +57267,11 @@
     "grade_level": 11.3,
     "word_count": 80,
     "category": "Navigating Political Strategy and Media Influence in U.S. Politics",
-    "tags": []
+    "tags": [
+      "Russia-Ukraine conflict",
+      "US politics",
+      "partisan politics"
+    ]
   },
   {
     "post_id": 157099492,
@@ -59758,7 +60029,11 @@
     "grade_level": 12.2,
     "word_count": 206,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "tech industry",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 157004882,
@@ -59879,7 +60154,12 @@
     "grade_level": 13.2,
     "word_count": 225,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "censorship",
+      "consumer behavior",
+      "digital privacy",
+      "tech industry"
+    ]
   },
   {
     "post_id": 157728665,
@@ -60455,7 +60735,10 @@
     "grade_level": 13.1,
     "word_count": 133,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "consumer behavior",
+      "tech industry"
+    ]
   },
   {
     "post_id": 157547069,
@@ -61531,7 +61814,11 @@
     "grade_level": 10.0,
     "word_count": 207,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157897543,
@@ -61775,7 +62062,11 @@
     "grade_level": 14.3,
     "word_count": 222,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence",
+      "public misinformation",
+      "social media influence"
+    ]
   },
   {
     "post_id": 157917425,
@@ -62117,7 +62408,10 @@
     "grade_level": 13.5,
     "word_count": 100,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "education inequality",
+      "education reform"
+    ]
   },
   {
     "post_id": 157771304,
@@ -62159,7 +62453,11 @@
     "grade_level": 10.9,
     "word_count": 156,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "cryptocurrency",
+      "economic policy",
+      "financial crisis"
+    ]
   },
   {
     "post_id": 157771304,
@@ -62203,7 +62501,12 @@
     "grade_level": 9.5,
     "word_count": 190,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Russia-Ukraine conflict",
+      "US politics",
+      "gun rights",
+      "political polarization"
+    ]
   },
   {
     "post_id": 157771304,
@@ -62241,7 +62544,10 @@
     "grade_level": 11.6,
     "word_count": 106,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "education reform",
+      "fiscal policy"
+    ]
   },
   {
     "post_id": 158181492,
@@ -62582,7 +62888,11 @@
     "grade_level": 10.6,
     "word_count": 112,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "financial markets",
+      "tech industry"
+    ]
   },
   {
     "post_id": 158158262,
@@ -62650,7 +62960,13 @@
     "grade_level": 11.2,
     "word_count": 306,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "business strategy",
+      "generative AI",
+      "tech industry"
+    ]
   },
   {
     "post_id": 158209845,
@@ -62921,7 +63237,12 @@
     "grade_level": 12.4,
     "word_count": 257,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "business strategy",
+      "economic policy",
+      "tech industry"
+    ]
   },
   {
     "post_id": 158128233,
@@ -63039,7 +63360,11 @@
     "grade_level": 12.3,
     "word_count": 52,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "taxation"
+    ]
   },
   {
     "post_id": 158317877,
@@ -63112,7 +63437,10 @@
     "grade_level": 12.3,
     "word_count": 85,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "foreign policy",
+      "international relations"
+    ]
   },
   {
     "post_id": 158317877,
@@ -63623,7 +63951,13 @@
     "grade_level": 16.2,
     "word_count": 90,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "identity politics",
+      "partisan politics",
+      "social justice"
+    ]
   },
   {
     "post_id": 158658110,
@@ -64124,7 +64458,9 @@
     "grade_level": 13.7,
     "word_count": 178,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "data analysis"
+    ]
   },
   {
     "post_id": 158658110,
@@ -64889,7 +65225,11 @@
     "grade_level": 10.4,
     "word_count": 73,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "financial markets",
+      "trust in institutions"
+    ]
   },
   {
     "post_id": 158644075,
@@ -64927,7 +65267,10 @@
     "grade_level": 8.5,
     "word_count": 67,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "inflation"
+    ]
   },
   {
     "post_id": 158644075,
@@ -65253,7 +65596,11 @@
     "grade_level": 6.3,
     "word_count": 55,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "entrepreneurship",
+      "financial markets"
+    ]
   },
   {
     "post_id": 158988051,
@@ -65297,7 +65644,11 @@
     "grade_level": 10.2,
     "word_count": 73,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "right-wing politics"
+    ]
   },
   {
     "post_id": 158988051,
@@ -65351,7 +65702,9 @@
     "grade_level": 10.2,
     "word_count": 123,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "financial markets"
+    ]
   },
   {
     "post_id": 158988051,
@@ -65395,7 +65748,11 @@
     "grade_level": 10.1,
     "word_count": 164,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "business strategy",
+      "tech industry"
+    ]
   },
   {
     "post_id": 158988051,
@@ -65441,7 +65798,11 @@
     "grade_level": 11.4,
     "word_count": 71,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "business strategy",
+      "financial regulation"
+    ]
   },
   {
     "post_id": 158988051,
@@ -65543,6 +65904,10 @@
     "grade_level": 10.1,
     "word_count": 205,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "media influence",
+      "partisan politics"
+    ]
   }
 ]
