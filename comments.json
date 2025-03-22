@@ -65498,7 +65498,7 @@
     "id": 101399798,
     "top_level": false,
     "date": "Mar 18 2025 07:20",
-    "likes": 7,
+    "likes": 9,
     "timestamp": 1742296842,
     "body": [
       [
@@ -65510,11 +65510,11 @@
     ],
     "total_children": 1,
     "parent_id": 101391392,
-    "parent_children": 25,
+    "parent_children": 26,
     "thread_id": 101391392,
-    "thread_children": 25,
+    "thread_children": 26,
     "ratio_recv": null,
-    "ratio_give": -148,
+    "ratio_give": -158,
     "grade_level": 6.8,
     "word_count": 36,
     "category": "Uncategorized",
@@ -65534,7 +65534,7 @@
     "id": 101400588,
     "top_level": false,
     "date": "Mar 18 2025 07:26",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1742297160,
     "body": [
       [
@@ -65548,7 +65548,7 @@
     "parent_id": 101397184,
     "parent_children": 2,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 11.5,
@@ -65590,7 +65590,7 @@
     "parent_id": 101400326,
     "parent_children": 23,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": 3,
     "ratio_give": -5,
     "grade_level": 6.3,
@@ -65638,7 +65638,7 @@
     "parent_id": 101401754,
     "parent_children": 13,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": 5,
     "ratio_give": -5,
     "grade_level": 10.2,
@@ -65696,7 +65696,7 @@
     "parent_id": 101404619,
     "parent_children": 11,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": 4,
     "ratio_give": -6,
     "grade_level": 10.2,
@@ -65742,7 +65742,7 @@
     "parent_id": 101410288,
     "parent_children": 3,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": 3,
     "ratio_give": -1,
     "grade_level": 10.1,
@@ -65764,7 +65764,7 @@
     "id": 101420945,
     "top_level": false,
     "date": "Mar 18 2025 09:15",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1742303704,
     "body": [
       [
@@ -65792,9 +65792,9 @@
     "parent_id": 101418710,
     "parent_children": 10,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": -2,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 11.4,
     "word_count": 71,
     "category": "Uncategorized",
@@ -65840,7 +65840,7 @@
     "parent_id": 101437453,
     "parent_children": 3,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 9.7,
@@ -65858,7 +65858,7 @@
     "id": 101506720,
     "top_level": false,
     "date": "Mar 18 2025 14:44",
-    "likes": 4,
+    "likes": 6,
     "timestamp": 1742323491,
     "body": [
       [
@@ -65898,9 +65898,9 @@
     "parent_id": 101445716,
     "parent_children": 5,
     "thread_id": 101391959,
-    "thread_children": 114,
+    "thread_children": 121,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -3,
     "grade_level": 10.1,
     "word_count": 205,
     "category": "Uncategorized",
@@ -65909,5 +65909,433 @@
       "media influence",
       "partisan politics"
     ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101939116,
+    "top_level": false,
+    "date": "Mar 20 2025 07:41",
+    "likes": 10,
+    "timestamp": 1742470896,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Super like. Moreover, from personal experience, I believe the number of influential individuals is actually quite small. Historically, they had a large influence due to our preferred media publications and their vitality on Twitter and other social media platforms. Yet their influence is waning due to Musk's purchase of Twitter and the general fragmentation of media (eg, growing influence of Substack and TikTok)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, I believe we can isolate these individuals and their institutions and degrade their influence. It could even be useful to pick fights with them and increasingly mainstream, moderate Democrats. Even better would be to turn them against each other as they fight for a dwindling supply of eyeballs and funding. That could starve these institutions and individuals of impact and eventually free us from this scourge. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I personally think the student debt forgiveness conflict could be useful to this end because it is a place where the Bernie-Warren faction has been willing to explore Trump-ian executive action with novel interpretations of congressional bills and forging constitutional separation of powers. We could hypothesize that many of these individuals and their social networks are disproportionately burdened by student debt relative to their earning power. Hence, I imagine they\u2019ll defend this issue to absurd lengths while the mainstream Democrats become an increasingly law-respecting party. That includes rejecting reasonable compromise bills to forgive some debt for borrowers while rejecting the reckless debt of overly educated, underemployed extremists who have infected our staffing pool."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 101931564,
+    "parent_children": 4,
+    "thread_id": 101931564,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -25,
+    "grade_level": 13.1,
+    "word_count": 243,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "political polarization",
+      "student debt"
+    ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101943307,
+    "top_level": false,
+    "date": "Mar 20 2025 08:04",
+    "likes": 45,
+    "timestamp": 1742472281,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Voters care about the results. Eg, how despite passing these bills, rollout of programs like rural broadband and EV charging stations, has been hobbled by regulations and red tape. Conversely, an abundant-themed approach would have included regulatory carve outs to quickly deploy these initiatives. Moreover, we'd need some pragmatic staffers in our administration; not the Bernie-Warren leaning one we got. We could even imagine a pragmatic solution where we just used Starlink terminals and Tesla chargers to quickly deploy something. Instead, we prioritized the process, including handouts for union labor, aligned NGOs, and other special interests. "
+        }
+      ]
+    ],
+    "total_children": 31,
+    "parent_id": 101942091,
+    "parent_children": 43,
+    "thread_id": 101929577,
+    "thread_children": 116,
+    "ratio_recv": -20,
+    "ratio_give": 29,
+    "grade_level": 10.7,
+    "word_count": 96,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101948074,
+    "top_level": false,
+    "date": "Mar 20 2025 08:27",
+    "likes": 14,
+    "timestamp": 1742473660,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. No idea how much semi fabs build out in Arizona moved the needle. Maybe it did, yet it wasn't enough by itself."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "What Yglesias is getting here is an \"all of the above\" abundance approach. That includes rebranding Democrats from a party of \"rule enforcer wannabes and busybodies\" into a ruthlessly efficient party of executing broadly popular government initiatives. That includes industrial policy for domestic manufacturing as well as enforcing our borders."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We can still have our liberal tendencies, we just have to be strategic in where we pick fights with the masses. Some of this can just be framed as social libertarianism. Eg, gay men have the right to get married, grow weed, and purchase assault rifles for self defense."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Others can be downplaying contentious issues or at least focusing on the most charitable cases. Eg, rather than supporting gender reassignment surgeries for illegal immigrants, we can support policies that allow adults to take ownership of their healthcare decisions, and within boundaries that of their children. Could include allowing hormonal supplement choices whether it be a trans man better projecting their identity or a middled aged cis man who wants to look good at the pool."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 101944096,
+    "parent_children": 8,
+    "thread_id": 101929577,
+    "thread_children": 116,
+    "ratio_recv": -9,
+    "ratio_give": 5,
+    "grade_level": 10.3,
+    "word_count": 198,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "immigration issues",
+      "political polarization",
+      "progressivism"
+    ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 101967467,
+    "top_level": false,
+    "date": "Mar 20 2025 09:50",
+    "likes": 13,
+    "timestamp": 1742478626,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but I believe a lot of this is driven by NGOs, staffers, and other stakeholders that have a much larger influence than the votes that they drive. If anything, their influence is contributing to branding Democrats as out of touch and even elitists. There may also be issues with fundraising from both small dollar and institutions that value some of these idiosyncratic or special interest priorities. Nonetheless, the voters themselves are more pragmatic or at least driven by general vibes than any specific issues."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 101956147,
+    "parent_children": 10,
+    "thread_id": 101929577,
+    "thread_children": 116,
+    "ratio_recv": -7,
+    "ratio_give": -12,
+    "grade_level": 10.4,
+    "word_count": 85,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "media influence",
+      "partisan politics",
+      "political polarization",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102027345,
+    "top_level": false,
+    "date": "Mar 20 2025 13:24",
+    "likes": 4,
+    "timestamp": 1742491479,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Largely agree. I'd just argue that we're in the process of the adaption from the suboptimal strategy you've explained. Personally, I always try to think in terms of relative dates and recall that:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 5 months since we lost to Trump 2.0 [Nov 2024]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 8 months since Biden withdrew after disastrous debate and in-party fighting [Jul 2024]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 27 months since 2022 midterms [Nov 2022]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* 29 months since IRA passed [Aug 2022] following in party fighting over Build Back Better"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I recall the Manchin/progressive fight for the IRA as being a high water mark of this conflict in recent memory. Moreover, we Democrats had a fairly strong midterms due to the SCOTUS repeal of abortion rights. Yglesias has already written on how that delayed the standard midterm moderation and I'm too lazy to search for specific articles."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I think we'll need at least a year or so for our party to process the loss and we won't really know until the 2026 midterms. I see Klein and Thompson (as well as Yglesias and others) as part of the process of reconfiguring our party and I just expect this process to be a little messy. It is promising to see our lackluster the criticism of Abundance has been since the publication of the book. Moreover, I'm glad to see Slow Boring leaning into the conflict whereas Klein/Thompson present a more value-neutral framing."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 102015271,
+    "parent_children": 2,
+    "thread_id": 101929577,
+    "thread_children": 116,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 10.8,
+    "word_count": 229,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "abortion rights",
+      "partisan politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 159295930,
+    "title": "What abundance means to me",
+    "canonical_url": "https://www.slowboring.com/p/what-abundance-means-to-me",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102031728,
+    "top_level": false,
+    "date": "Mar 20 2025 13:42",
+    "likes": 3,
+    "timestamp": 1742492526,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "In my experience, this is pretty simple:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Has the health insurance firm seen and processed the bill? If not, send the bill to them. That can insurance to choosing to cover $0. Ensure you can match the bill 1-to-1 in their portal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- If a claim remains, ask the provider when you consented to this procedure, despite it not being covered by insurance. In some cases, we may have knowingly consented to a billable service before it was performed, including being informed it may not be covered by insurance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "- Nonetheless, just the process of asking the provider, or better the billing third party, to document this can be enough to frustrate the process and force withdrawal or heavy down negotiating."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A key part is taking your time. All assets depreciate over time, including such a billable asset. Insurance is a key partner in the fight against provider fraud and up-charging. They are ruthlessly efficient at slow rolling such unscrupulous providers. For large players, that includes both falling back to their pre-negotiated agreements, which includes respecting patient maximum out of pocket charges. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Most predatory behavior occurs within small providers, who may be subcontracted out through such larger providers. Yet these small offices themselves are not particularly financially stable with their own recurring expenses of rent, utilities, servicing costs, and fixed staff costs. A cold, calculating insurer can easily wear them down and close claims for pennies on the dollar."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 101976880,
+    "parent_children": 4,
+    "thread_id": 101929577,
+    "thread_children": 116,
+    "ratio_recv": -3,
+    "ratio_give": -2,
+    "grade_level": 8.3,
+    "word_count": 237,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior"
+    ]
+  },
+  {
+    "post_id": 159358643,
+    "title": "Mailbag: An AI take on AI-proofing your job",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-an-ai-take-on-ai-proofing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102208696,
+    "top_level": false,
+    "date": "Mar 21 2025 08:03",
+    "likes": 8,
+    "timestamp": 1742558639,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'm an elder millennial (1986) and my experience was:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Preschool & Elementary - Almost all female teachers. I recall only a male vice principal and a male gym coach"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Middle school - Pretty even mix of sexes across teachers and leadership. Maybe biased towards female"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* High school - Depended on course work and there was a lot of variation. My focus on chemistry & computer sci had the same two female teachers for 3 to 4 courses each. Still plenty of male teachers and a mix of sexes in leadership"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I do recall that there was some limited, active interest in providing strong male role models for boys. That included teachers, coaches, and leadership of extracurriculars (eg, non-school swim teams & boy scouts). I personally didn\u2019t think much about it because I had female teachers and coaches that were hardasses in the male-coded model."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That included a female head coach of a swim team that led the team to multiple regional championships over the years and was competitive at the state level in some events. She\u2019d gladly sacrifice us children to grueling workouts (eg. hypoxic training and planned overtraining tapers) and she was ruthless in driving us through the pain."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hence, the whole male/female representation issue for role models seemed outdated to myself and fellow teens in the 90\u2019s and early 2000\u2019s."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 102199370,
+    "parent_children": 12,
+    "thread_id": 102199370,
+    "thread_children": 12,
+    "ratio_recv": -7,
+    "ratio_give": 1,
+    "grade_level": 9.8,
+    "word_count": 216,
+    "category": "Uncategorized",
+    "tags": [
+      "education inequality",
+      "identity politics",
+      "social justice"
+    ]
+  },
+  {
+    "post_id": 159358643,
+    "title": "Mailbag: An AI take on AI-proofing your job",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-an-ai-take-on-ai-proofing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102262796,
+    "top_level": false,
+    "date": "Mar 21 2025 11:33",
+    "likes": 2,
+    "timestamp": 1742571204,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hasn't that always been the case w/ the Flu vaccine? Particularly because Flu, like Covid, is regularly evolving and recombining such that different strains are dominant, at different points in time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are some novel differences of the mRNA style vaccines, but I don't believe these present notable differences relative to other styles of vaccines. (Been a few years since I was aware of the different types of Covid vaccines and their pros/cons. Zero interest in getting back up to speed now.)"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 102256571,
+    "parent_children": 5,
+    "thread_id": 102198881,
+    "thread_children": 41,
+    "ratio_recv": -1,
+    "ratio_give": 0,
+    "grade_level": 8.5,
+    "word_count": 82,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
