@@ -65948,7 +65948,7 @@
     "thread_id": 101931564,
     "thread_children": 4,
     "ratio_recv": null,
-    "ratio_give": -25,
+    "ratio_give": -26,
     "grade_level": 13.1,
     "word_count": 243,
     "category": "Uncategorized",
@@ -65980,13 +65980,13 @@
         }
       ]
     ],
-    "total_children": 31,
+    "total_children": 32,
     "parent_id": 101942091,
-    "parent_children": 43,
+    "parent_children": 44,
     "thread_id": 101929577,
-    "thread_children": 116,
+    "thread_children": 119,
     "ratio_recv": -20,
-    "ratio_give": 29,
+    "ratio_give": 28,
     "grade_level": 10.7,
     "word_count": 96,
     "category": "Uncategorized",
@@ -66038,7 +66038,7 @@
     "parent_id": 101944096,
     "parent_children": 8,
     "thread_id": 101929577,
-    "thread_children": 116,
+    "thread_children": 119,
     "ratio_recv": -9,
     "ratio_give": 5,
     "grade_level": 10.3,
@@ -66072,11 +66072,11 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 5,
     "parent_id": 101956147,
-    "parent_children": 10,
+    "parent_children": 11,
     "thread_id": 101929577,
-    "thread_children": 116,
+    "thread_children": 119,
     "ratio_recv": -7,
     "ratio_give": -12,
     "grade_level": 10.4,
@@ -66148,9 +66148,9 @@
     ],
     "total_children": 1,
     "parent_id": 102015271,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 101929577,
-    "thread_children": 116,
+    "thread_children": 119,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.8,
@@ -66218,7 +66218,7 @@
     "parent_id": 101976880,
     "parent_children": 4,
     "thread_id": 101929577,
-    "thread_children": 116,
+    "thread_children": 119,
     "ratio_recv": -3,
     "ratio_give": -2,
     "grade_level": 8.3,
@@ -66290,7 +66290,7 @@
     "thread_id": 102199370,
     "thread_children": 12,
     "ratio_recv": -7,
-    "ratio_give": 1,
+    "ratio_give": 0,
     "grade_level": 9.8,
     "word_count": 216,
     "category": "Uncategorized",
@@ -66330,12 +66330,427 @@
     "parent_id": 102256571,
     "parent_children": 5,
     "thread_id": 102198881,
-    "thread_children": 41,
+    "thread_children": 44,
     "ratio_recv": -1,
     "ratio_give": 0,
     "grade_level": 8.5,
     "word_count": 82,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 159627049,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-18f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102584907,
+    "top_level": false,
+    "date": "Mar 22 2025 17:08",
+    "likes": 8,
+    "timestamp": 1742677705,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, this is an All In podcast interview w/ Chamath Palihapitiya. (They sure upgraded their set since their previous outlandish interviews of Musk, Trump, and others over the years.) I did a Google search and only outrage-heavy sites are carrying this story."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I want to once again remind the SB audience to avoid short duration distractions. Eg, all the insane things Musk has been saying over the last few months. So much of this stuff has a 24-72 hour shelf life and we all then forget it. We should always recall that there are numerous provocateurs and grifters associated with the Trump admin who thrive off this attention. Moreover, this intersects well with Bannon\u2019s \u201cFlood the Zone\u201d strategy of polluting the discourse with numerous, short-lived outrage bait stories."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We need to wait for actual durable harms from the Trump administration as experienced by electorally significant voting blocks. There sure seems to be a multitude of opportunities with their rhetoric and early actions. Yet I don\u2019t think we yet have something to build a stable narrative around."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If anything, getting all this chaos and short-lived pain out of the way early in the administration may leave them less vulnerable to mid term backlash should little of this amount to durable, harm to voters. Eg, the market chaos around tariffs, trade wars, and dubious fiscal/macroeconomic ideas. It would suck if we Democrats are too stuck on associated niche issues and aren\u2019t able to coalesce around an actual narrative that resonates with voters to significantly improve our congressional wins."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We should just laugh at these clowns and then forget about it."
+        }
+      ]
+    ],
+    "total_children": 25,
+    "parent_id": 102537879,
+    "parent_children": 32,
+    "thread_id": 102537879,
+    "thread_children": 32,
+    "ratio_recv": 12,
+    "ratio_give": -38,
+    "grade_level": 9.1,
+    "word_count": 268,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "partisan politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 159627049,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-18f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102587180,
+    "top_level": false,
+    "date": "Mar 22 2025 17:20",
+    "likes": 2,
+    "timestamp": 1742678446,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The clip is from this All In podcast interview, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=182ckTL2KBA"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The host are Chamath Palihapitiya and David Friedberg, and they interview Howard Lutnick, who provides that clip."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 102585783,
+    "parent_children": 3,
+    "thread_id": 102537879,
+    "thread_children": 32,
+    "ratio_recv": -1,
+    "ratio_give": 2,
+    "grade_level": 11.1,
+    "word_count": 26,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 159627049,
+    "title": "Saturday thread",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-18f",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 102603204,
+    "top_level": false,
+    "date": "Mar 22 2025 18:47",
+    "likes": 8,
+    "timestamp": 1742683658,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It was just a outrage bait sound bite as part of some story about fighting SS fraud. They haven't actually done anything yet. Moreover, if they could find fraud with limited collateral damage, then this would likely be a win for the Trump admin. Regardless, let's wait until they actually do something that durably effects voters."
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 102593709,
+    "parent_children": 12,
+    "thread_id": 102537879,
+    "thread_children": 32,
+    "ratio_recv": 1,
+    "ratio_give": -12,
+    "grade_level": 6.4,
+    "word_count": 56,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "public misinformation",
+      "social security"
+    ]
+  },
+  {
+    "post_id": 159748110,
+    "title": "How Democrats lost their edge on education",
+    "canonical_url": "https://www.slowboring.com/p/how-democrats-lost-their-edge-on",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 103483826,
+    "top_level": false,
+    "date": "Mar 26 2025 08:00",
+    "likes": 10,
+    "timestamp": 1742990437,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, here a source on the ADA requests that Google found immediately, "
+        },
+        {
+          "type": "url",
+          "value": "https://go.boarddocs.com/vsba/fairfax/Board.nsf/files/BVEL8V550134/%24file/Brabrand%20Briefing%20-%20November%2013%2C%202020.pdf"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It's a PDF titled \"Update on ADA Accommodation Requests as of 11/11/20\" as issued by \"Fairfax County PUBLIC SCHOOLS\".*"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The documents open with"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The HR Team continues to receive and process ADA accommodation requests. Requests will continue to be prioritized based on the employee\u2019s anticipated return date in relation to student groups. For Group 5, we have 10 remaining unresolved requests, most of which were recent submissions. Schools have been authorized to hire substitutes for each of these situations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> As of November 11, the overall completion rate is 68%. This past week 66 new ADA requests were received."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Does suggest ADA accommodation requests were a genuine issue that frustrated school reopening in Fairfax County, as stated in the original comment. The validity of these requests, including whether they were fraudulently filed to enhanced union leverage, is likely a far more contentious issues where each of us must use their own judgement. I'm not interesting in researching that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " *The BoardDocs sites appears to be a legitimate vendor used by that public school district to host their documents. Google describes it as:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> cloud-based board management software designed for small and mid-sized municipalities, schools, and governments, offering features like meeting agenda management, policy management, document management, and voting. "
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 103480618,
+    "parent_children": 3,
+    "thread_id": 103470840,
+    "thread_children": 12,
+    "ratio_recv": -5,
+    "ratio_give": 4,
+    "grade_level": 11.5,
+    "word_count": 217,
+    "category": "Uncategorized",
+    "tags": [
+      "education reform",
+      "labor unions"
+    ]
+  },
+  {
+    "post_id": 159748110,
+    "title": "How Democrats lost their edge on education",
+    "canonical_url": "https://www.slowboring.com/p/how-democrats-lost-their-edge-on",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 103487684,
+    "top_level": false,
+    "date": "Mar 26 2025 08:18",
+    "likes": 8,
+    "timestamp": 1742991534,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "There is almost certainly a ton of variance across public schools as well as charter schools. Everyone will be animated by their personal, lived experience. Moreover, everyone can find an anecdote that supports their position, no matter how absurd. Hence the need to rely on aggregate data."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I do appreciate you sharing your perspective, including how it leaves you cross-pressured, we have to remember that there are numerous other lived realities that motivate different beliefs about how education should be managed. Eg, parents who find their students to be \u201cindoctrinated\u201d by activist educators. And unfortunately, as covered in this article, few politicians of either party feel compelled to make education work at scale."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "While I\u2019m certain many SB commentators will dislike a technological solution, I\u2019ve been hearing positive experiences from education-obsessed parents in using ChatGPT and other AI products in enhancing their children\u2019s learning. Eg, I think the author and analyst Byrne Hobart has talked a bit about his family's experience in incorporating this in their children\u2019s homeschooling. This is the first thing I found with a quick search and I believe he mainly commented about this in podcasts and paywalled articles, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/ByrneHobart/status/1784990582990835799"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It makes sense that an AI chatbot with appropriate guardrails could be particularly useful in guiding parents and even just helping motivated students explore a subject. It\u2019s great that this solution is cheap and scalable such that anyone\u2014child or adult\u2014can satisfy their curiosity. Moreover, it would be great if this started to displace the garbage content on Tik Tok and Youtube that currently captivates everyone."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 103472264,
+    "parent_children": 7,
+    "thread_id": 103472264,
+    "thread_children": 7,
+    "ratio_recv": -8,
+    "ratio_give": -5,
+    "grade_level": 12.9,
+    "word_count": 258,
+    "category": "Uncategorized",
+    "tags": [
+      "education reform",
+      "educational technology",
+      "generative AI",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 159748110,
+    "title": "How Democrats lost their edge on education",
+    "canonical_url": "https://www.slowboring.com/p/how-democrats-lost-their-edge-on",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 103494273,
+    "top_level": false,
+    "date": "Mar 26 2025 08:48",
+    "likes": 7,
+    "timestamp": 1742993338,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> The obsession with relative movement in the distribution only took hold when the meritocratic model became the only model for American success, and that only happened after neoliberalism dismantled the labor movement as a source of broad prosperity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Freddie, I\u2019ve enjoyed your writing over the years, including your Marxist-informed perspective on political and economic issues. Yet I\u2019ve found other Marxists authors and research to better explain the collapse of the labor movement due to technology-driven changes in our means of production. Notably, Daniel Bell\u2019s 1973 work, The Coming of Post-Industrial Society. While I\u2019ve only read reviews and derivative work, I believe he and other 70s-era Marxists correctly identified how manufacturing and the developed-world economy at large was becoming less manual labor intensive. Moreover, more value was generated, or at least captured, by increasingly differentiated knowledge work such as finance, marketing, R&D, engineering, etc."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To the extent these workers have shared class interests, they are at most related to tax cuts and deregulation. Moreover, these knowledge workers are in intense competition with each other. Eg, the management of both Coke and CEO would both like fewer constraints on their businesses, yet each wants to win market share from the other. Even non-management knowledge workers see their unique differentiation with respect to similar workers as a competitive advantage and are cross-pressured between their shared class interests and competition. For example, I\u2019ve seen numerous attempts to unionize or otherwise organize tech workers such as software engineers collapse because we our shared interests are also largely shared with management and shareholders\u2014whereas there is also conflict between how we should each be rewarded relative to other superficially similar workers."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 103476900,
+    "parent_children": 9,
+    "thread_id": 103476900,
+    "thread_children": 9,
+    "ratio_recv": -2,
+    "ratio_give": -12,
+    "grade_level": 15.4,
+    "word_count": 274,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "economic policy",
+      "labor market",
+      "labor unions",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 159820098,
+    "title": "Trump's war on science",
+    "canonical_url": "https://www.slowboring.com/p/trumps-war-on-science",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 103749013,
+    "top_level": false,
+    "date": "Mar 27 2025 07:03",
+    "likes": 30,
+    "timestamp": 1743073435,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I knew two climate scientists grad students who were quite dismissive of the pop sci narrative and the science celebrities grifting off of apocalyptic narratives. They absolutely believed in climate change as a serious issue, but as experts in statistical modeling they also recognized that there are a lot of simplifying assumptions in every model as well as uncertainty in extrapolations to the future. Moreover, they were offended by scientists-turned-celebrity figures in the media who eliminated all rigor and nuances in their public speaking. If anything, those pop sci individuals did a poor job representing the expertise and challenges of climate science."
+        }
+      ],
+      []
+    ],
+    "total_children": 4,
+    "parent_id": 103746849,
+    "parent_children": 16,
+    "thread_id": 103742733,
+    "thread_children": 21,
+    "ratio_recv": -23,
+    "ratio_give": 10,
+    "grade_level": 15.6,
+    "word_count": 102,
+    "category": "Uncategorized",
+    "tags": [
+      "climate change",
+      "media influence",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 159820098,
+    "title": "Trump's war on science",
+    "canonical_url": "https://www.slowboring.com/p/trumps-war-on-science",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 103751015,
+    "top_level": false,
+    "date": "Mar 27 2025 07:16",
+    "likes": 12,
+    "timestamp": 1743074204,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t wanna assume Trump, Musk, et al. have much in the way of foresight or strategic thinking, but if we offer them this charity then we could see them attempting to engineer a recession where the increased unemployment is concentrated among committed Democrats and blue states. That would include their defunding of scientific research and universities in general as well as NGOs. The impacted individuals would cut back on consumption, suppressing aggregate demand, and thereby putting downward pressure on inflation. Ultimately that could allow the Fed to cut interest rates. From the perspective of Republican leaning constituencies and some swing voters, this could be a net positive with prices stabilizing and borrowing costs for mortgages and car loans falling\u2014without elevated unemployment among these groups."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, I doubt the administration is engaged in, or even capable of, conceiving and executing such a plan."
+        }
+      ],
+      []
+    ],
+    "total_children": 5,
+    "parent_id": 103747084,
+    "parent_children": 7,
+    "thread_id": 103747084,
+    "thread_children": 7,
+    "ratio_recv": 5,
+    "ratio_give": 3,
+    "grade_level": 12.4,
+    "word_count": 143,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "Federal Reserve",
+      "US politics",
+      "economic policy",
+      "political polarization"
+    ]
   }
 ]
