@@ -66681,7 +66681,7 @@
     "id": 103749013,
     "top_level": false,
     "date": "Mar 27 2025 07:03",
-    "likes": 35,
+    "likes": 36,
     "timestamp": 1743073435,
     "body": [
       [
@@ -66697,7 +66697,7 @@
     "parent_children": 16,
     "thread_id": 103742733,
     "thread_children": 22,
-    "ratio_recv": -25,
+    "ratio_recv": -26,
     "ratio_give": 12,
     "grade_level": 15.6,
     "word_count": 102,
@@ -66740,7 +66740,7 @@
     "parent_children": 7,
     "thread_id": 103747084,
     "thread_children": 7,
-    "ratio_recv": 6,
+    "ratio_recv": 7,
     "ratio_give": 3,
     "grade_level": 12.4,
     "word_count": 143,
@@ -66931,6 +66931,726 @@
       "US politics",
       "generative AI",
       "political polarization",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 160196204,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-29d",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104603868,
+    "top_level": false,
+    "date": "Mar 30 2025 13:52",
+    "likes": 14,
+    "timestamp": 1743357136,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I agree that the rise of the internet was key to this, yet this was a continuation of the general fragmentation of our media ecosystem. Eg, cable news and the rise of both Fox News and CNN. Moreover, this could be seen as a revision to the media environment that predated the postwar era of centralized broadcast TV with three channels. Eg, \u201cbetween 1910 and 1930 the average household purchased 3.1 different newspapers a day.\u201d [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s my understanding that the American media ecosystem was highly fragmented until the early 20th century and even then there were a multitude of unique local and regional publications. It was truly broadcast TV with its massive fixed costs that drove national centralization. Moreover, that met the American mood of the postwar era where we had all collectively survived the Great Depression and WWII together. Not surprising that this couldn\u2019t last in our large, highly diverse, pluralistic country."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/never-ending-niches/"
+        },
+        {
+          "type": "text",
+          "value": ", citing a fact from Robert Gordon\u2019s book The Rise and Fall of American Growth. See the graph in that article labeled \"Book Publications, Newspaper Circulation, and Periodical Circulation Per Household, by Decade\""
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 104593407,
+    "parent_children": 59,
+    "thread_id": 104593407,
+    "thread_children": 59,
+    "ratio_recv": -13,
+    "ratio_give": -53,
+    "grade_level": 9.9,
+    "word_count": 187,
+    "category": "Uncategorized",
+    "tags": [
+      "media bias",
+      "media influence",
+      "news consumption"
+    ]
+  },
+  {
+    "post_id": 160196204,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-29d",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104633009,
+    "top_level": false,
+    "date": "Mar 30 2025 16:02",
+    "likes": 19,
+    "timestamp": 1743364942,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As a highly excitable person, I\u2019ve found solace in navigating turbulent times by reflecting on past chaos in human history\u2014especially how uncertain and unknowable the outcome was until it actually materialized."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Take, for example, the Great Depression and the election of FDR. While we now think of FDR as the hero who tackled the economic collapse and laid the groundwork for long-term solutions, that narrative only became clear in hindsight. At the time, many on both the right and the left were terrified by the expanding executive power\u2014ostensibly to fix the crisis. The right feared a communist takeover, while the left saw a rising fascist dictator, echoing recent events in Italy and Germany. Meanwhile, a plurality of Americans were just guardedly optimistic that someone was trying something\u2014anything\u2014to ease their economic pain and hardship."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We truly don\u2019t know how Trump 2.0 will play out, and our minds can easily spiral into speculation. While I\u2019m confident he won\u2019t one day be revered like FDR or Lincoln, the full extent of the damage from his administration is, for now, unknowable. He could even drop dead of a heart attack tomorrow and be replaced by the deeply unpopular JD Vance, who might do little more than await his Democratic successor in 2028."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I\u2019d recommend checking out books, videos, podcasts, etc., on past turbulent times\u2014not just as a distraction from the present, but as a way to understand how uncertain the future always is."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 104597622,
+    "parent_children": 17,
+    "thread_id": 104597622,
+    "thread_children": 17,
+    "ratio_recv": -15,
+    "ratio_give": -20,
+    "grade_level": 9.9,
+    "word_count": 240,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic policy",
+      "historical analysis",
+      "partisan politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 160196204,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-29d",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104640905,
+    "top_level": false,
+    "date": "Mar 30 2025 16:37",
+    "likes": 5,
+    "timestamp": 1743367072,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ugh. Our Democratic/liberal elites do have a perceived credibility issue among a large portion of the electorate. Some of that stems from blatant lying and absurd conspiracy theories. But some of it is just people capitalizing on our own mistakes. Worse, our efforts to fix this through misinformation policing have only deepened the credibility problem."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We need to take our perception and branding issues seriously\u2014starting with meeting voters where they are. For example, why didn\u2019t Harris go on Rogan? We can go on and on about strategic \u201cSister Souljah\u201d moments, or hippie-punching, or billionaire-bashing, but maybe we could just talk\u2014casually\u2014about what American voters actually care about. That could include arguing with Rogan about whatever conspiracy trip he\u2019s on, without falling back on guarded talking points. And eventually steering the conversation back to reality and why Democrats are better than Trump/MAGA, in a way Rogan and his audience will actually respect."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could even call out elite failures while still recognizing that our institutions generally work well. For example, yeah\u2014some mistakes were made during COVID. But millions actually died, and we were trying to minimize additional suffering and death while dealing with uncertainty and chaos. We got through it. We can now reflect on and act on institutional reform without blindly attacking or defending everything."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This seems straightforward to me. Like just send Yglesias back on Rogan. Matt can thank him for his effective fat-shaming, [1] then argue about some BS nutritional stuff, talk through different strength training regimes, and eventually see what Rogan thinks about cutting healthcare for the poor and elderly to cut the taxes of the Davos-going class."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Believe this was a genuine Tweet, since deleted. Only found this screenshot. "
+        },
+        {
+          "type": "url",
+          "value": "https://ifunny.co/picture/matthew-yglesias-i-ve-lost-about-50-pounds-since-rogan-Qi6orBqH9"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 104633731,
+    "parent_children": 5,
+    "thread_id": 104599689,
+    "thread_children": 8,
+    "ratio_recv": -5,
+    "ratio_give": 2,
+    "grade_level": 9.1,
+    "word_count": 283,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "media influence",
+      "political campaigns",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104767889,
+    "top_level": false,
+    "date": "Mar 31 2025 07:44",
+    "likes": 27,
+    "timestamp": 1743421487,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> couldn\u2019t that have been conditional on them firing their top leadership?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "No. Reusing my past explanation about why bailout terms (TARP funding) had to be figured out quickly and favorable to bank leadership and shareholders, with few conditions. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/bring-back-the-revolving-door/comment/65209354"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many of the executives would've rejected the funding if such conditions were attached. Notably, Paulson and Bernanke wanted every bank to take funds, even those in a relatively strong financial position, so that counterparties wouldn\u2019t interpret some banks as being at higher risk of insolvency. That would've caused depositors (particularly institutions) to withdraw funds from perceived weak banks. So TARP funding was structured on particularly favorable terms. The CEOs recognized the logic of collective action, saw the chance for cheap funding on good terms, and they all agreed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The collapse of Lehman is insightful to what could\u2019ve happened. Paulson tried to engineer some acquisitions, but CEO Dick Fuld kept pushing acquirers for better terms. He really lived up to his name! He waited too long and eventually only Barclays was still at the table.. Fuld reluctantly agreed to tough terms, but the British government blocked the deal; and for good reasons."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Many more vulnerable banks would\u2019ve gone the way of Lehman if the Federal Gov attempted to push harsh terms for accepting TARP."
+        }
+      ]
+    ],
+    "total_children": 35,
+    "parent_id": 104760231,
+    "parent_children": 49,
+    "thread_id": 104760231,
+    "thread_children": 49,
+    "ratio_recv": -19,
+    "ratio_give": 10,
+    "grade_level": 9.6,
+    "word_count": 211,
+    "category": "Uncategorized",
+    "tags": [
+      "Federal Reserve",
+      "US politics",
+      "economic policy",
+      "financial crisis"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104769194,
+    "top_level": false,
+    "date": "Mar 31 2025 07:52",
+    "likes": 13,
+    "timestamp": 1743421959,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "My rough recollection is JP Morgan Chase was in the strongest position among all banks and financial institutions throughout the crisis and came out in a relatively stronger position than before. Because I'm lazy, here's ChatGPT's fact check..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, your comment is factually correct."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Key facts:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 JPMorgan Chase was widely seen as one of the strongest major U.S. banks during the 2008 financial crisis."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 It avoided many of the worst mortgage-backed securities exposures that crippled other banks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 Under Jamie Dimon\u2019s leadership, JPMorgan acquired Bear Stearns (with government assistance) and later Washington Mutual, further strengthening its market position."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2022 By most accounts, the bank emerged from the crisis relatively stronger compared to peers like Citigroup, Bank of America, and Lehman Brothers (which failed)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So your recollection is accurate: JPMorgan Chase was seen as one of the best-positioned large banks during and after the crisis."
+        }
+      ]
+    ],
+    "total_children": 14,
+    "parent_id": 104762069,
+    "parent_children": 15,
+    "thread_id": 104756629,
+    "thread_children": 45,
+    "ratio_recv": 2,
+    "ratio_give": 9,
+    "grade_level": 10.6,
+    "word_count": 142,
+    "category": "Uncategorized",
+    "tags": [
+      "financial crisis",
+      "financial markets"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104776460,
+    "top_level": false,
+    "date": "Mar 31 2025 08:31",
+    "likes": 11,
+    "timestamp": 1743424287,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "It\u2019s easy to say that now, after the fact, in talking through hypotheticals. In the moment of unpredictable financial chaos, it\u2019s a lot harder to ponder that, let alone engineer something that would justly penalize the financial institutions while minimizing collateral damage. Moreover, it may not even be apparent which firms and leadership were reckless actors and which were victims. And of course there is the legality of such action (ie, the Takings Clause of the Constitution) and long term ramifications of a government that acted recklessly to capriciously penalize perceived scapegoats."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll also add that this was a position among the proto-Tea-Party Republicans that opposed the TARP funding bill put forward by W Bush and his Treasury Secretary Paulson with input from their Republican Fed Chair Bernanke. As a Reason 2014 article explains, these Republicans were responding to rising populist sentiments within their party with the 2008 elections just a month away. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Karl Rove explained that Republicans literally feared for their political futures over this one vote."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Some of the grassroots fervor is evidenced in the 60,000+ signatures collected at NoWallStreetBailout.com in the fall of 2008. A sampling of the petition signers' comments sounds a lot like the eventual tea party movement:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"No Wall Street or auto bailouts! Maybe Americans should boycott paying 2008 federal income tax\u2014no income tax revenue, no bailout.\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">> \"This bailout could end up breaking the spirit that underlies the true American way. The key word is \"RESPONSIBILITY!\" WHERE IS IT?!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If it wasn\u2019t for Pelosi\u2019s leadership and pragmatic approach to a highly technocratic financial crisis, then our global financial system would\u2019ve melted down while Republican politicians worried about appeasing their increasingly ornery populist base."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://reason.com/2014/10/03/the-birth-of-the-tea-party-movement-bega/"
+        }
+      ],
+      []
+    ],
+    "total_children": 20,
+    "parent_id": 104773161,
+    "parent_children": 22,
+    "thread_id": 104760231,
+    "thread_children": 49,
+    "ratio_recv": -7,
+    "ratio_give": 3,
+    "grade_level": 10.6,
+    "word_count": 281,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "financial crisis",
+      "partisan politics",
+      "political polarization",
+      "populism"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104780315,
+    "top_level": false,
+    "date": "Mar 31 2025 08:49",
+    "likes": 7,
+    "timestamp": 1743425369,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, there was a lot of anger at the financial and political elite involved. Yet that doesn\u2019t imply that there were specific villains to single out and penalize. Moreover, the populist outrage was encouraged by sloppy and biased political commentary and activists. Eg, John Steward and Glenn Beck as well as Occupy Wall Street and the Tea Party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We humans have a natural bias to personalize such disasters and are easily taken in by such narratives of evil elites conspiring to enrich themselves at our expense. Unfortunately, the reality was far messier and even reckless actors were first and foremost deluding themselves and their compatriots. There were no chief villains nor any master plan."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, we can argue through the nuances of the evolution of financial regulation and the decisions by key actors in private and public institutions. Yet that is highly technocratic, open to interpretation and judgment calls, and not at all emotionally satisfying. But even worse would be to give into to populist outrage and lash out at the institutions core to our material prosperity."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As mentioned in this article, 2010 Dodd Frank\u2014a massive restructuring of financial regulation\u2014was the long term solution to prevent future incidents and the financial sector certainly perceived it as punishment. It has made much of finance, particularly banking, far less profitable by reigning in risk taking. Bankers, notably Jamie Dimon of JP Morgan Chase, have been complaining relentlessly about their new constraints. And this all worked in allowing the global financial system to survive both the pandemic and the highest interest rates since the GFC."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Too bad only WSJ, FT, and Bloomberg well communicated the implications of Dodd Frank to their informed audiences. Maybe Bernie (or at least Warren) could have celebrated this punishment? Nope, that isn\u2019t aligned with their everything-sucks world view nor advantageous for their political marketing and fundraising projects. Maybe we could claim Dodd Frank was a conspiracy by Big Tech w/ their Big Law allies to supplant Finance as the rulers of our world? Add some aliens and maybe at least Rogan will popularize this."
+        }
+      ],
+      []
+    ],
+    "total_children": 8,
+    "parent_id": 104773271,
+    "parent_children": 10,
+    "thread_id": 104760231,
+    "thread_children": 49,
+    "ratio_recv": -4,
+    "ratio_give": -6,
+    "grade_level": 10.4,
+    "word_count": 346,
+    "category": "Uncategorized",
+    "tags": [
+      "financial crisis",
+      "financial regulation",
+      "media bias",
+      "political campaigns",
+      "populism"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104782329,
+    "top_level": false,
+    "date": "Mar 31 2025 08:58",
+    "likes": 10,
+    "timestamp": 1743425908,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Would you prefer I share misinformation based upon my vague recollection of events that happened over 15 years ago? What we might call an Human Hallucination?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I could've requested credible sources, browsed them, and included those to increase the accuracy and legitimacy. Maybe I could even leave out the disclaimer of AI assistance. Just thinking it's useful to provide those AI-source statements, which match my understanding, and provide details on JPM's trajectory through this event."
+        }
+      ]
+    ],
+    "total_children": 9,
+    "parent_id": 104778377,
+    "parent_children": 13,
+    "thread_id": 104756629,
+    "thread_children": 45,
+    "ratio_recv": -3,
+    "ratio_give": -5,
+    "grade_level": 9.1,
+    "word_count": 75,
+    "category": "Uncategorized",
+    "tags": [
+      "news consumption",
+      "public misinformation",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 160287914,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-1af",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 104946825,
+    "top_level": false,
+    "date": "Mar 31 2025 19:36",
+    "likes": 0,
+    "timestamp": 1743464168,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Unions are commonly defeated through divide and conquer tactics. That is common knowledge among labor organizers and corp management. Seems reasonable to me for politicians to practice this also. Maybe Republicans can frustrate and constrain teacher unions while democrats reign in police unions?"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 104913717,
+    "parent_children": 5,
+    "thread_id": 104912210,
+    "thread_children": 8,
+    "ratio_recv": 2,
+    "ratio_give": -18,
+    "grade_level": 7.5,
+    "word_count": 43,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "education reform",
+      "labor unions",
+      "partisan politics"
+    ]
+  },
+  {
+    "post_id": 159998055,
+    "title": "The founding myth of progressive economics ",
+    "canonical_url": "https://www.slowboring.com/p/the-founding-myth-of-progressive",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105023356,
+    "top_level": false,
+    "date": "Apr 01 2025 04:54",
+    "likes": 0,
+    "timestamp": 1743497640,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> \u2026 I wonder whether such a cost would have been worth it to avoid the moral hazard problems in the sector and reassure the public at large that there isn't a privileged class of people immune from the consequences of their actions even when those actions aren't quite criminal."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Can we really say with a straight face that the huge rise of populism between 2009 and today has carried no costs?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At the minimum this is deeply uncertain and unknowable. Moreover, it could be that the very real economic pain of The Great Recession catalyzed the growing populism we experienced. An even deeper\u2014recession resulting from our intentional harm of the financial system and associated entities\u2014may have resulted in even strong popular resentment of our political and financial elites."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We may have just appeared to be the dumbest technocrats the world had ever seen had we ignored the global ramifications throughout the 1930\u2019s of The Great Depression and knowingly engineered another one. Doubly so because Fed Chair Ben Bernanke\u2019s academic work focused on studying the The Great Depression and he believes that The US Federal Reserve deserves the lion share of the blame for their insufficient support and stabilization of the financial system when the meltdown began."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For all of Bernanke\u2019s faults, he was singularly well prepared to communicate just how bad things could get should we repeat the advice of Hoover\u2019s Treasury Secretary, Andrew Mellon"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Liquidate labor, liquidate stocks, liquidate farmers, liquidate real estate. It will purge the rottenness out of the system. High costs of living and high living will come down. People will work harder, live a more moral life. Values will be adjusted, and enterprising people will pick up the wrecks from less competent people."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://www.goodreads.com/quotes/11687514-liquidate-labor-liquidate-stocks-liquidate-farmers-liquidate-real-estate-it"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 104800555,
+    "parent_children": 2,
+    "thread_id": 104760231,
+    "thread_children": 49,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 12.6,
+    "word_count": 287,
+    "category": "Uncategorized",
+    "tags": [
+      "Federal Reserve",
+      "economic policy",
+      "financial crisis",
+      "historical analysis",
+      "populism"
+    ]
+  },
+  {
+    "post_id": 160062124,
+    "title": "Tariffs only \"work\" if they make prices higher",
+    "canonical_url": "https://www.slowboring.com/p/tariffs-only-work-if-they-make-prices",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105048170,
+    "top_level": false,
+    "date": "Apr 01 2025 08:04",
+    "likes": 11,
+    "timestamp": 1743509072,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep! See the late 19th and early 20th century US history, notably when agriculture got significant economies of scale through ever increasing industrialization, and millions fled to the hell-on-earth of contemporary manufacturing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We're almost certainly in for a volatile time if AI lives up to just a fraction of its promises."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105040648,
+    "parent_children": 2,
+    "thread_id": 105033108,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 14.4,
+    "word_count": 51,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "generative AI",
+      "historical analysis",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 160062124,
+    "title": "Tariffs only \"work\" if they make prices higher",
+    "canonical_url": "https://www.slowboring.com/p/tariffs-only-work-if-they-make-prices",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105072026,
+    "top_level": false,
+    "date": "Apr 01 2025 09:44",
+    "likes": 12,
+    "timestamp": 1743515074,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I largely agree that Trump succeeded in spite of his poor business acumen, and financially, he would\u2019ve been better off just letting someone else manage his inherited real estate empire."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet we\u2019ve got to admit that he did build a major personal brand through his various ventures and was among the most well-known people the world over even before his political career. Moreover, in the process, he developed the public communication skills\u2014both legacy mass media and modern social media\u2014to launch a presidential campaign and eke out a win. Trump truly had some insight about the public mood and how to best exploit that for personal, political gain. He even survived his apparent political suicide of Jan 6th and is once again the most powerful person in the world."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Few other people could transform such a privileged starting position of wealth and connections into the power that Trump currently wields. And of course, subsequent scams (e.g., Truth Social, Trump Coin, and transparent bribery) replenished his personal wealth. So Trump truly does have some innate aptitudes, media talents developed over half a century of self-promotion, and a combination of risk-taking and good fortune to accomplish what he has."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We can give Trump that while recognizing he is lacking in morals and quite ignorant in how to use the political process for his stated geopolitical and economic goals. His actions aren\u2019t even aligned with amassing more wealth and power for himself. So all of us on planet Earth\u2014including Trump himself\u2014are victims of his talents and success."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 105036080,
+    "parent_children": 5,
+    "thread_id": 105031527,
+    "thread_children": 66,
+    "ratio_recv": -8,
+    "ratio_give": -29,
+    "grade_level": 11.6,
+    "word_count": 254,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "partisan politics",
+      "political campaigns",
       "social media influence"
     ]
   }
