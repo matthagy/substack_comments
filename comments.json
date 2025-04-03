@@ -67162,11 +67162,11 @@
     ],
     "total_children": 35,
     "parent_id": 104760231,
-    "parent_children": 49,
+    "parent_children": 50,
     "thread_id": 104760231,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": -19,
-    "ratio_give": 10,
+    "ratio_give": 9,
     "grade_level": 9.6,
     "word_count": 211,
     "category": "Uncategorized",
@@ -67325,7 +67325,7 @@
     "parent_id": 104773161,
     "parent_children": 22,
     "thread_id": 104760231,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": -7,
     "ratio_give": 3,
     "grade_level": 10.6,
@@ -67349,7 +67349,7 @@
     "id": 104780315,
     "top_level": false,
     "date": "Mar 31 2025 08:49",
-    "likes": 7,
+    "likes": 8,
     "timestamp": 1743425369,
     "body": [
       [
@@ -67388,8 +67388,8 @@
     "parent_id": 104773271,
     "parent_children": 10,
     "thread_id": 104760231,
-    "thread_children": 49,
-    "ratio_recv": -4,
+    "thread_children": 50,
+    "ratio_recv": -5,
     "ratio_give": -6,
     "grade_level": 10.4,
     "word_count": 346,
@@ -67541,7 +67541,7 @@
     "parent_id": 104800555,
     "parent_children": 2,
     "thread_id": 104760231,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 12.6,
@@ -67565,7 +67565,7 @@
     "id": 105048170,
     "top_level": false,
     "date": "Apr 01 2025 08:04",
-    "likes": 11,
+    "likes": 12,
     "timestamp": 1743509072,
     "body": [
       [
@@ -67641,8 +67641,8 @@
     "parent_children": 5,
     "thread_id": 105031527,
     "thread_children": 66,
-    "ratio_recv": -8,
-    "ratio_give": -29,
+    "ratio_recv": -7,
+    "ratio_give": -31,
     "grade_level": 11.6,
     "word_count": 254,
     "category": "Uncategorized",
@@ -67652,6 +67652,851 @@
       "partisan politics",
       "political campaigns",
       "social media influence"
+    ]
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105325478,
+    "top_level": false,
+    "date": "Apr 02 2025 06:50",
+    "likes": 0,
+    "timestamp": 1743591004,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, a lot of people in private employment could be sued over their failure to well manage some portion of that, and for far more than just their cut. Maybe this even has the potential to neutralize orders of magnitude more threats from a liability management perspective? After all, in theory, anyone can file a civil suit for anything. Just a question of how quickly proceedings reach a terminal state."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105324499,
+    "parent_children": 20,
+    "thread_id": 105323456,
+    "thread_children": 35,
+    "ratio_recv": null,
+    "ratio_give": -12,
+    "grade_level": 8.9,
+    "word_count": 70,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105336064,
+    "top_level": false,
+    "date": "Apr 02 2025 07:52",
+    "likes": 0,
+    "timestamp": 1743594765,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, could be the opposite. Like heavily booked, yet still in financial distress due to the fixed costs of keeping the business running. Either way, would be challenging from a customer perspective."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would be cool there was an Uber for Stump Grinding whereby the economics are concentrated in variable costs and the uncertainty of deliverability to completion is largely managed through deterministic calculations applied to comparable historical situations. Ie, let someone else own the variability and uncertainty."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe Amazon and some startups have attempted this over the years for things like plumbers and electricians. No one has yet been able to make this work, yet. But with the magic of Machine Learning (my mistake, GenAI)..."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 105332750,
+    "parent_children": 10,
+    "thread_id": 105323861,
+    "thread_children": 72,
+    "ratio_recv": 3,
+    "ratio_give": -2,
+    "grade_level": 8.9,
+    "word_count": 116,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "entrepreneurship",
+      "historical analysis",
+      "machine learning"
+    ]
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105339692,
+    "top_level": false,
+    "date": "Apr 02 2025 08:10",
+    "likes": 2,
+    "timestamp": 1743595828,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Sources below. Was disappointing that 3min of Googling couldn't find something credible. Thankfully ChatGPT got several in ~30 secs. Even then, needed another ~60 sec to format the multitude of sources it used into the following text. Moreover, it didn't output a plaintext cell as instructed, so we have superfluous formatting that I am not going to manually correct."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "-----BEGIN ChatGPT OUTPUT-----"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Amazon has encountered significant issues in intermediating contractors such as plumbers and electricians through its Home Services platform. Several credible sources highlight these failures:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t1.\tAllegations of Misrepresentation"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A 2019 class-action lawsuit accused Amazon of misrepresenting service providers as licensed professionals when, in fact, some were not. The lawsuit argues that Amazon failed to ensure proper credentials, leading to unlicensed work being performed without required permits or inspections.[\u00b9]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t2.\tCustomer Complaints on Quality"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Verified customer reviews on Amazon report poor service outcomes. One notable example includes a technician arriving late, performing a sloppy installation, and causing a leak days later. This suggests inconsistent vetting of contractor skill and professionalism.[\u00b2]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\t3.\tIndustry Skepticism"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Professionals in forums like Reddit express concern over Amazon\u2019s ability to enforce licensing and quality standards. Some believe that the platform cannot guarantee qualified labor, especially in fields with strict regional regulations.[\u00b3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2e3b"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Sources"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[\u00b9] Lawsuit Targets Amazon Home Services\u2019 Alleged Labor, Consumer, Unfair Competition Violations \u2014 "
+        },
+        {
+          "type": "url",
+          "value": "https://www.classaction.org/news/lawsuit-targets-amazon-home-services-alleged-labor-consumer-unfair-competition-violations"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[\u00b2] Customer Reviews for Amazon Local Services: TV Wall Mounting Service \u2014 "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/localservices/localreviews/B01BKYZ644/ref=vas_acr_B01BKYZ644"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[\u00b3] Reddit: Will Amazon take over your plumbing universe? \u2014 "
+        },
+        {
+          "type": "url",
+          "value": "https://www.reddit.com/r/Plumbing/comments/6o2foj/will_amazon_take_over_your_plumbing_universe/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105336064,
+    "parent_children": 8,
+    "thread_id": 105323861,
+    "thread_children": 72,
+    "ratio_recv": null,
+    "ratio_give": 2,
+    "grade_level": 13.5,
+    "word_count": 239,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105358530,
+    "top_level": false,
+    "date": "Apr 02 2025 09:27",
+    "likes": 0,
+    "timestamp": 1743600432,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thanks for sharing!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We could hypothesize on the economics based on different assumptions. Eg, are the tools bought on credit? Could they even have a small business loan or just revolving lines of credit to ease over fluctuations in demand as well as lag in invoice payments? Also no idea what the deprecation schedule looks like for the physical assets as well as regular maintenances expenses."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Nothing about it seemed like it would be improved by adding software or Jeff Bezos to the mix."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Not even email-based booking? Possibly a calendar of open availability? I believe Amazon WorkMail and assorted AWS services could be used for that as could Google Workspace."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I believe there are also vendors that are specialized to servicing firms like Doctors and Dentists because I've dealt with portals of varied qualities over the year. I'd certainly prefer Google's solution relative to the specialized ones. Maybe even some 90s era Microsoft or Oracle solution would still beat modern, boutique solutions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm hopeful that private equity roll ups eventually modernize their tech stack as well as better economize on admin staffing costs."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 105354377,
+    "parent_children": 6,
+    "thread_id": 105323861,
+    "thread_children": 72,
+    "ratio_recv": 2,
+    "ratio_give": -3,
+    "grade_level": 7.6,
+    "word_count": 185,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "entrepreneurship",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105363008,
+    "top_level": false,
+    "date": "Apr 02 2025 09:43",
+    "likes": 1,
+    "timestamp": 1743601410,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I've appreciated the following as demonstrated by 3 purchases: Amazon Basics 2-Ply Flex-Sheets Paper Towels, 12 Basics Rolls = 32 Regular Rolls, Everyday Value with 150 Sheets per Roll"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Something possibly affiliate link like: "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/Amazon-Basics-Ply-Paper-Towel/dp/B09BWFX1L6?th=1"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Not an affiliate link: "
+        },
+        {
+          "type": "url",
+          "value": "https://letmegooglethat.com/?q=Amazon+Basics+2-Ply+Flex-Sheets+Paper+Towels%2C+12+Basics+Rolls+%3D+32+Regular+Rolls%2C+Everyday+Value+with+150+Sheets+per+Roll"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 105346632,
+    "parent_children": 4,
+    "thread_id": 105323861,
+    "thread_children": 72,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 20.1,
+    "word_count": 37,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 160124763,
+    "title": "The underrated power of not doing things",
+    "canonical_url": "https://www.slowboring.com/p/the-underrated-power-of-not-doing",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105484214,
+    "top_level": false,
+    "date": "Apr 02 2025 16:49",
+    "likes": 0,
+    "timestamp": 1743626982,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "A lot of this is all do able w/ just Google calendar and email/text/hone, if the customer cooperates, as detailed below."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Maybe they like to batch their jobs by location"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, you can publicly mark a week on GCal as \"in SF area\" as well as block out specific blocks your already booked for, including your chosen travel time."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If some attempts to book that through either suggesting an event or sending an email, you can quickly provide instructions; possibly just link to 1 page website or PDF. If the customer is uncooperative, then you can propose an extremely high price--paid in advance--to get that done. Eg, \"you can book the whole week for $82k, attached is a proposed invoice with wire instructions, including itemized additional services you can purchase throughout that week.\" And, just like texting or something, you could even figure this out in a frustrating phone call."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If they need to see the property to provide an estimate in advance that complicates things. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Totally fine. Your instructions can say something like, \"send some photos or a 60s video if you wanna book a full days work. we recommend first time users book an initial, 30m consultation where we'll collect the necessary info and even provide some in person discussion about next steps\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "----"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The reason I bring this up, is because I've dealt with a multitude of different recruiting solution--as a candidate, as a member as a hiring team, and as a hiring manager. Some software is great--in context--and can allow for better division of labor and collaboration. Other times, you can just email, text, LinkedIn DM, etc. Totally fine to improvise, and say--on the phone: \"You'll get an auto email with instructions for scheduling the onsite shortly. Feel free to email your recruiter or myself if anything comes up. My personal phone number is XXX-XXX-XXXX ... Very excited to meet you in person!\"."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I'd like to think that the tech enablement would be the least of my challenges if I had to setup one of these businesses. I could likely even execute a 10 page manual for phone escalations and collecting initial recon, with only 1 or 2 supervised trials. I could even enjoy arguing with a SaaS vendor (possibly AWS, GCP, or OpenAI) who wants to better automate some of this work--would be great if they actually could!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I definitely would need some time to become properly certified to operate the machinery. Buying/leasing/renting it, possibly using a complex financial instrument, might be the most fun and interesting part from my perspective."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ie, I should not be founding a business in stump removal and associated services."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105457944,
+    "parent_children": 2,
+    "thread_id": 105323861,
+    "thread_children": 72,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 10.3,
+    "word_count": 439,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "business strategy",
+      "entrepreneurship",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105517174,
+    "top_level": false,
+    "date": "Apr 02 2025 19:08",
+    "likes": 1,
+    "timestamp": 1743635309,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Sounds like a vicious cycle..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Wonder who got Elon all spun up? Eg, maybe Hunter Biden, Ayn Rand, Peter Thiel, Steve Jobs, [insert religious or political figure of your choice], etc."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105494909,
+    "parent_children": 2,
+    "thread_id": 105492080,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -19,
+    "grade_level": 4.9,
+    "word_count": 31,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "US politics"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105519629,
+    "top_level": false,
+    "date": "Apr 02 2025 19:19",
+    "likes": 1,
+    "timestamp": 1743635991,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Or maybe they could just avoid all intoxicating substances for a while and just focus on getting more exercise to promote \"healthy natural sleep\". [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Believe that is the Zuckerberg approach and it appears to be working well enough with respect to other notable tech figures. Moreover, Zuck seems to get enjoyment out of his side project of \"Mark's Meats\" so maybe he could add a detox clinic as another side gig on his private island. He could even employ these fellow techies to hunt and process animals--and many people would pay a premium for a steak with produced by Elon Musk, Sheryl Sandberg, Tim Cook, etc. (No, this isn't cannibalism or even lab-grown meat. They actually need to do the work.)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Fight Club Insomnia scene - "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=8pDY_9u5Sn0&t=112s"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 105498787,
+    "parent_children": 5,
+    "thread_id": 105492080,
+    "thread_children": 27,
+    "ratio_recv": 2,
+    "ratio_give": -14,
+    "grade_level": 8.0,
+    "word_count": 127,
+    "category": "Uncategorized",
+    "tags": [
+      "entrepreneurship",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105521929,
+    "top_level": false,
+    "date": "Apr 02 2025 19:30",
+    "likes": 0,
+    "timestamp": 1743636642,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "NASDAQ prices-to-earnings has been far too high since at least 2018-20, IMO. [1] Like 20 is reasonable with low enough interest rates, but at 4+% fed funds rate, I believe we'd expect lower, unless we're making absurd assumptions. Particularly because the higher rate risks began pre-pandemic with Trump's tax cuts. (Or maybe too many participants are measuring it in units of Bitcoins or Rubbles or something?) Moreover, I doubt we'll get those lower rates until we at least hold PE<20 for 2+ years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Not investment advice. Just thinking it's funny to think that NASDAQ is a meaningful measure when it's been so absurd for the last 30 years, with a multitude of different narratives. Hence, my silly, lazy thesis above."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.macrotrends.net/stocks/charts/NDAQ/nasdaq/pe-ratio"
+        }
+      ]
+    ],
+    "total_children": 10,
+    "parent_id": 105495433,
+    "parent_children": 21,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": 8,
+    "ratio_give": -26,
+    "grade_level": 6.8,
+    "word_count": 121,
+    "category": "Uncategorized",
+    "tags": [
+      "Federal Reserve",
+      "cryptocurrency",
+      "economic policy",
+      "financial markets",
+      "tax policy"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105523709,
+    "top_level": false,
+    "date": "Apr 02 2025 19:38",
+    "likes": 0,
+    "timestamp": 1743637114,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Sounds like you bought some put options recently. Hope your not selling them and just marketing them on SB."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I will attest that I do not currently own any conventional short instruments, including, but not limited to, put option contracts on exchange traded securities. Even attempting to explain the closest part of my balance sheet that could be considered a shorting instruments would be something of a creative writing exercise with plausible connections to reality."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 105504200,
+    "parent_children": 7,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": 6,
+    "ratio_give": -16,
+    "grade_level": 10.6,
+    "word_count": 75,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105527323,
+    "top_level": false,
+    "date": "Apr 02 2025 19:55",
+    "likes": 0,
+    "timestamp": 1743638130,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Uh, yes, that would go very well from our perspective, right?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fine if you support Trump or something, but I assume you're not planning on aggressively draw down on any stock-based assets in the next few years. I would guess that you, like most of the SB audience, aspire to be net buyers of stocks for the next decade or two. [1] Hence, we'd all want cheaper stocks for the foreseeable future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] \"What we learned from the Slow Boring reader survey"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\" Jul 2024 "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/what-we-learned-from-the-slow-boring"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">  Fully a third of the audience is in the crucial 35-44 age bracket (like me), with 25 percent in the younger bracket and 15 percent in the slightly older bracket."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 105526188,
+    "parent_children": 9,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": 3,
+    "ratio_give": -8,
+    "grade_level": 8.6,
+    "word_count": 114,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "financial markets"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105528645,
+    "top_level": false,
+    "date": "Apr 02 2025 20:02",
+    "likes": 4,
+    "timestamp": 1743638521,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Same. I'm also just joking around."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, it's funny we are all acting like we understand any of this BS going on. Yeah, the market is trying to price it, but there sure are a multitude of different narratives among sophisticated guest in financial media. We could choose any narrative that feels right or just sounds funny. Maybe even combine some in novel ways--without attempting to engineer a trade."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I can definitely recall this in 2021-22 and moreover have found documentaries with historical footage that match my vague recollection of 2008-11 and 1996-2004. Definitely a lot of speculation that proved incorrect or at least mistimed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So we can all joke around, but I hope we all recognize our collective ignorance here."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 105526313,
+    "parent_children": 5,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": -4,
+    "ratio_give": -2,
+    "grade_level": 8.0,
+    "word_count": 121,
+    "category": "Uncategorized",
+    "tags": [
+      "financial markets",
+      "historical analysis",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105530446,
+    "top_level": false,
+    "date": "Apr 02 2025 20:11",
+    "likes": 0,
+    "timestamp": 1743639090,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Why? It's just hypothetical value if you weren't planning to sell for the foreseeable future. Moreover, if you're planning to buy, well, \"stocks are on sale\". Like seriously, just look at like 2019-22 or 1997-2002 or 2007 to 2011 or even earlier stock market insanity periods."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe most retirement online sites include all sorts of simulation-like tools and there are probably even some free ones online. Might even take the edge off to joke around with just how bad would things have to get for this to truly suck. Like would 2 Great Recessions in a row be enough? Imagine market concerns would be the least of all of our concerns in such a scenario. Even Bezos and Zuck might be selling properties and drastically cutting living expenses through that."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 105528585,
+    "parent_children": 6,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": 0,
+    "ratio_give": -3,
+    "grade_level": 7.3,
+    "word_count": 131,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "financial crisis",
+      "financial markets"
+    ]
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105544671,
+    "top_level": false,
+    "date": "Apr 02 2025 21:22",
+    "likes": 0,
+    "timestamp": 1743643372,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, are we explicitly agreeing or disagreeing here? Like, maybe we've both been working from the same model reality and expectations, at a minimum?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although, I generally think of macro as: uh, it'll probably make sense a decade from now. Or at least we'll have 2 or 3 reasonable enough narratives that agree on a few core facts."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 105540445,
+    "parent_children": 3,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": 2,
+    "ratio_give": 0,
+    "grade_level": 6.6,
+    "word_count": 58,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 160452983,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-54b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105597334,
+    "top_level": false,
+    "date": "Apr 03 2025 04:16",
+    "likes": 0,
+    "timestamp": 1743668165,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, that is a good reason to participate in this thread."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, I\u2019m frustrated with our collective attempts to extrapolate markets beyond three months (maybe even three days) in economic projections, just to better match our intuitive sense of the situation."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105578745,
+    "parent_children": 2,
+    "thread_id": 105495433,
+    "thread_children": 21,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 12.5,
+    "word_count": 41,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "financial markets"
     ]
   }
 ]
