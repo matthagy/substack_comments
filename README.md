@@ -18,3 +18,11 @@ python3 -m http.server
 ```
 
 Then visit the given URL in your browser. Eg `http://[::]:8000/`
+
+Moreover, you're own UI could build up to something like the following:
+![clipboard](https://github.com/user-attachments/assets/b3f0a38f-e829-494d-bcd8-bb59fb594f5f)
+
+Tags and categories can make far more bespoke graphs as long as the definitions are sufficiently consistent as demonstrated in:
+![clipboard1](https://github.com/user-attachments/assets/08181f8a-c1fc-4d7c-9dd7-0d6574d2f608)
+
+From `find_hagy_coment_tags.ipynb`
