@@ -67678,7 +67678,7 @@
     "parent_id": 105324499,
     "parent_children": 20,
     "thread_id": 105323456,
-    "thread_children": 35,
+    "thread_children": 36,
     "ratio_recv": null,
     "ratio_give": -12,
     "grade_level": 8.9,
@@ -67722,7 +67722,7 @@
     "parent_id": 105332750,
     "parent_children": 10,
     "thread_id": 105323861,
-    "thread_children": 72,
+    "thread_children": 73,
     "ratio_recv": 3,
     "ratio_give": -2,
     "grade_level": 8.9,
@@ -67849,7 +67849,7 @@
     "parent_id": 105336064,
     "parent_children": 8,
     "thread_id": 105323861,
-    "thread_children": 72,
+    "thread_children": 73,
     "ratio_recv": null,
     "ratio_give": 2,
     "grade_level": 13.5,
@@ -67914,7 +67914,7 @@
     "parent_id": 105354377,
     "parent_children": 6,
     "thread_id": 105323861,
-    "thread_children": 72,
+    "thread_children": 73,
     "ratio_recv": 2,
     "ratio_give": -3,
     "grade_level": 7.6,
@@ -67972,7 +67972,7 @@
     "parent_id": 105346632,
     "parent_children": 4,
     "thread_id": 105323861,
-    "thread_children": 72,
+    "thread_children": 73,
     "ratio_recv": null,
     "ratio_give": -8,
     "grade_level": 20.1,
@@ -68064,7 +68064,7 @@
     "parent_id": 105457944,
     "parent_children": 2,
     "thread_id": 105323861,
-    "thread_children": 72,
+    "thread_children": 73,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.3,
@@ -68087,7 +68087,7 @@
     "id": 105517174,
     "top_level": false,
     "date": "Apr 02 2025 19:08",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1743635309,
     "body": [
       [
@@ -68109,7 +68109,7 @@
     "thread_id": 105492080,
     "thread_children": 27,
     "ratio_recv": null,
-    "ratio_give": -19,
+    "ratio_give": -20,
     "grade_level": 4.9,
     "word_count": 31,
     "category": "Uncategorized",
@@ -68160,7 +68160,7 @@
     "thread_id": 105492080,
     "thread_children": 27,
     "ratio_recv": 2,
-    "ratio_give": -14,
+    "ratio_give": -16,
     "grade_level": 8.0,
     "word_count": 127,
     "category": "Uncategorized",
@@ -68210,8 +68210,8 @@
     "parent_children": 21,
     "thread_id": 105495433,
     "thread_children": 21,
-    "ratio_recv": 8,
-    "ratio_give": -26,
+    "ratio_recv": 9,
+    "ratio_give": -28,
     "grade_level": 6.8,
     "word_count": 121,
     "category": "Uncategorized",
@@ -68255,7 +68255,7 @@
     "thread_id": 105495433,
     "thread_children": 21,
     "ratio_recv": 6,
-    "ratio_give": -16,
+    "ratio_give": -17,
     "grade_level": 10.6,
     "word_count": 75,
     "category": "Uncategorized",
@@ -68315,7 +68315,7 @@
     "thread_id": 105495433,
     "thread_children": 21,
     "ratio_recv": 3,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 8.6,
     "word_count": 114,
     "category": "Uncategorized",
@@ -68409,7 +68409,7 @@
     "parent_children": 6,
     "thread_id": 105495433,
     "thread_children": 21,
-    "ratio_recv": 0,
+    "ratio_recv": 1,
     "ratio_give": -3,
     "grade_level": 7.3,
     "word_count": 131,
@@ -68490,13 +68490,286 @@
     "thread_id": 105495433,
     "thread_children": 21,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": -1,
     "grade_level": 12.5,
     "word_count": 41,
     "category": "Uncategorized",
     "tags": [
       "economic policy",
       "financial markets"
+    ]
+  },
+  {
+    "post_id": 160360925,
+    "title": "YIMBYism as industrial policy",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-as-industrial-policy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105674102,
+    "top_level": false,
+    "date": "Apr 03 2025 11:01",
+    "likes": 5,
+    "timestamp": 1743692506,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, I'd guess both Walmart and auto dealers associations have been through periods of decreasing consumer spending in real terms since they're founding. They likely even have people on staff who can recall previous instances. Moreover, they may even see some competitive edge to outcompeting less experienced, or less well positioned, alternatives."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, in a declining spending environment, who wins: Dollar General, Walmart, Target, Whole Foods, [a previous yet unheard of retailer]? Truly is uncertain, but of all of the participants, institutionally Walmart may be most confident in their ability to capture a growing percentage of consumer spending. And what happens when consumer spending begins to grow again in real terms?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Not saying Walmart of anyone else wants this, but they may prefer to focus on winning relative consumer spend rather than fighting with the Trump administration and the courts."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105628565,
+    "parent_children": 4,
+    "thread_id": 105608987,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -15,
+    "grade_level": 12.3,
+    "word_count": 140,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "consumer behavior",
+      "economic policy"
+    ]
+  },
+  {
+    "post_id": 160360925,
+    "title": "YIMBYism as industrial policy",
+    "canonical_url": "https://www.slowboring.com/p/yimbyism-as-industrial-policy",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105677905,
+    "top_level": false,
+    "date": "Apr 03 2025 11:14",
+    "likes": 1,
+    "timestamp": 1743693271,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "That's fine, and I can speak from experience. But where are you parking it? BitCoin, Checking Account, Savings Account, Federal Money Market Mutual Fund, Federal Bills/Bonds, Muni Debt, etc?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "All of those have different properties that are also impacted by all the crazy stuff going on. Eg, anyone remember Silicon Valley Bank or any of the other regional failures? What about ~2008 money market meltdowns?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, what happens if long term interest rates fall vs rise? What about short term ones, those can move rapidly if necessary. Even just figuring out the tax implications of different forms of income can be frustrating--in theory, could even end up with an asset parked at the IRS in terms of capital gains tax credits or AMT credits."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fine if you're confident. But there's always more complexity and granularity as well as general alignment/correlation with narratives and intuition. And at some level, does it really matter that much, relative to other considerations? Like if the markets have two or so years of -10% performance, would you expect to be deploying the cash or still drawing down on savings?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Disclaimer: Everyone should aspire to 6mo of cash savings to cover their costs should things go poorly, regardless of all of the above considerations."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105627561,
+    "parent_children": 4,
+    "thread_id": 105608987,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 9.1,
+    "word_count": 208,
+    "category": "Uncategorized",
+    "tags": [
+      "financial markets",
+      "monetary policy",
+      "taxation"
+    ]
+  },
+  {
+    "post_id": 160533292,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-1ca",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105818219,
+    "top_level": false,
+    "date": "Apr 03 2025 20:21",
+    "likes": 3,
+    "timestamp": 1743726063,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could we just blame SCOTUS for overturning Roe and thereby strengthening Dem midterms, thereby preventing the natural post-midterm, executive moderation? Believe Yglesias pointed out this key fact shortly after 2022 results."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Like if Repubs had a strong mid term, then that would be quantitative feedback that Biden had to moderate or at least get out of the way before the 2024 election. Even Dems Congressional Leadership would be seriously challenging him, in late 2022, not mid 2024, if this was so quantitatively obvious."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Don't need to overthink it, but we certainly felt that we could build off the 2022 midterm strength, by leaning into traditional D priorities, notably Abortion and other medical services. Instead, that faded, and moreover, the presidential election is known to add additional, less-engaged voter cohorts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So, while Yglesias was cautioning Biden and Dems to moderate and not over extrapolate from 2022 election, it's understandable why this wasn't the dominant narrative. Moreover, we are all definitely recognizing the need to win 2026 and 28, but it is challenging to coalesce around a shared vision of how when Trump, Musk, et al are introducing some much real, rapid changes to the world. Hopefully some durable harms will coalesce among voters' vibes in early 2026, so that we can build consensus, Dem strategy. "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105798179,
+    "parent_children": 3,
+    "thread_id": 105778285,
+    "thread_children": 71,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 12.6,
+    "word_count": 214,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "Democratic Party",
+      "US politics",
+      "abortion rights",
+      "political campaigns"
+    ]
+  },
+  {
+    "post_id": 160533292,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-1ca",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105829056,
+    "top_level": false,
+    "date": "Apr 03 2025 21:14",
+    "likes": 2,
+    "timestamp": 1743729250,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "IMO, HN is a great place to figure out what people with too much time on their hands think. That is useful! Even occasionally some real gems among links and comments."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, sometime around mid 2010's it turned from an optimistic place to a pessimistic one, and that sign change alone is enough to recognize their predictions can generally be summarized as: well the world certainly isn't going to get better, hope we can at least sustain, if not get back to, better times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I'd limit my consumption to 2hr/month. Similar to some subreddits over the years, all of reddit in my opinion now, many communities decay over time in terms of \"what model of reality are we reinforcing\". Some simply become echo chambers. Regardless, pessimism should never be the dominant mood in any community with an eye on the future."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And at least Twitter has always been entertaining, even if you commonly gotta mentally reverse some semantic signs if you wanna consume more than 1hr/week."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 105788831,
+    "parent_children": 41,
+    "thread_id": 105774457,
+    "thread_children": 96,
+    "ratio_recv": -2,
+    "ratio_give": -7,
+    "grade_level": 9.4,
+    "word_count": 167,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "news consumption",
+      "public misinformation",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 160533292,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-1ca",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 105846389,
+    "top_level": false,
+    "date": "Apr 03 2025 22:47",
+    "likes": 1,
+    "timestamp": 1743734852,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly, and because no MLM is perfectly stable, it depends whether it is growing or decaying in value over time. I'll admit that is a subject judgment call! But personally, I saw too much of this being instantiated in terms of say tech to solve the \"why does the world keep getting worse\" problem. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I personally don't trust the general vibes and am getting increasingly good at instead finding, developing, and promoting the \"community with vibes of HN 2006-2014\". Could probably even AI gen some of this, at some times."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although, to follow up on the \"well-respected community of thousands of different software developers, from all over the world, have come to roughly the same conclusion is- they're too pessimistic'\", let us all remember that this is a biased sample. After all, they have the time to spend, dare I say contra-invest, in HN. Moreover, we can always further subdivide that community into sufficiently respected voices and sufficiently, \"ah, you could probably just reverse them on average\" archetypes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, this is all quite subjective!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 105836702,
+    "parent_children": 3,
+    "thread_id": 105774457,
+    "thread_children": 96,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 10.9,
+    "word_count": 175,
+    "category": "Uncategorized",
+    "tags": [
+      "media bias",
+      "social media influence",
+      "tech industry"
     ]
   }
 ]
