@@ -69444,7 +69444,7 @@
     "id": 111370766,
     "top_level": false,
     "date": "Apr 23 2025 06:46",
-    "likes": 8,
+    "likes": 9,
     "timestamp": 1745405197,
     "body": [
       [
@@ -69478,7 +69478,7 @@
     "thread_id": 111367489,
     "thread_children": 20,
     "ratio_recv": null,
-    "ratio_give": -6,
+    "ratio_give": -5,
     "grade_level": 11.9,
     "word_count": 286,
     "category": "Uncategorized",
@@ -69509,9 +69509,9 @@
     ],
     "total_children": 3,
     "parent_id": 111368516,
-    "parent_children": 10,
+    "parent_children": 11,
     "thread_id": 111367663,
-    "thread_children": 17,
+    "thread_children": 19,
     "ratio_recv": 1,
     "ratio_give": -22,
     "grade_level": 10.3,
@@ -69553,5 +69553,560 @@
     "word_count": 24,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 111959113,
+    "top_level": false,
+    "date": "Apr 25 2025 08:16",
+    "likes": 9,
+    "timestamp": 1745583385,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I strongly endorse this comment, save for the \"It's worse today\" in the following:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> It's worse today, because social media has made the bar for \"populist and exciting-sounding\" extremely low"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'd argue that social media amplification peaked sometime in the late 2010's and early 2020's. The failure of SnapChat to compete with Instagram and the success of TikTok to bootstrap a mediocre social media channel by spending a fortune on Meta ads is the apex/nadir of the trend IMO. I worked in AdTech from 2013 to 2019 and this matches my rough understanding (see Ben Thompson's huge body of work on Aggregation Theory in his Stratechery public as well as his subsequent disinterest and generalization. See also Meta\u2019s market cap over time)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We are entering an increasingly fragmented online media ecosystem. That includes YouTube shorts as well as Instagram Reels (or maybe some other label?) holding strong against TikTok for established cohorts. I could cite a few different sources for this one, but I don't trust the authenticity of reporting on Marketing Technology because we are all too good at Search Engine Optimization and related skills. Won't even waste my time w/ ChatGPT, Gemini, Grok, etc. We could also add the privatization of Twitter/X as well as the mediocre success of Meta Threads and whatever BlueSky is becoming (see also Mastodon and Subreddits)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Substack in general and Slow Boring in specific are interesting success stories. Notably, the marketing/media tech professional in me is fascinated by Bari Weiss's success with The Free Press (a reorg, restructure, and rebrand of her Common Sense project). But even more interesting is all the Gen AI stuff, which was gaining interest in Ad Tech circa 2014."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We already knew we could measure and rank Tweet-like content with basic semantic vectors (even just word/term frequencies*) and the value in bucketing media consumers into various cohorts. Eg, affluent educated young professionals, ie. Yuppies. Even Markov Chain-like text generation, with biased sampling, seemed useful enough for marketing campaigns. So all of this going mainstream and increasingly becoming the lens through which most people build their model of reality could totally reverse the social media amplification effect. Instead, we'll all be in a social media bubble of one; save for the content we pay for and ads we consume."
+        }
+      ]
+    ],
+    "total_children": 15,
+    "parent_id": 111947109,
+    "parent_children": 33,
+    "thread_id": 111947109,
+    "thread_children": 33,
+    "ratio_recv": -1,
+    "ratio_give": -55,
+    "grade_level": 11.5,
+    "word_count": 380,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "generative AI",
+      "media influence",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 111959393,
+    "top_level": false,
+    "date": "Apr 25 2025 08:17",
+    "likes": 6,
+    "timestamp": 1745583462,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "* Elaborating on word/term frequencies: Here are some of our SB article article/comment experiments that I lazily put together before ChatGPT. I just used OpenAI text embeddings now for such projects (w/ 4o summarization) and could\u2019ve used earlier approaches like Word2Vec."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "May 24, 2022 - "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/tuesday-thread-e15/comment/6748702"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Off topic: Put together a small site for exploring Slow Boring articles by categories and sorting by metrics (e.g., likes and comments). Finding it useful for working through the large archive of articles from before I subscribed. You can use this tool at "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/slowboring_article_clusters/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " Note that the categories are imperfect because they\u2019re constructed algorithmically by grouping together articles with similar word frequencies. Therefore some of the constructed categories are too generic, but others actually turn out to be useful. E.g., the climate change and energy category. It might even be that some of Yglesias\u2019s writing defies na\u00efve categorization with some articles touching on multiple topics."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Dec 23 2022 - "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/tuesday-thread-e15/comment/6748702"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Good idea. Re-computed the relationship between comment term frequency and number of likes. Plot with top 15 and bottom 15, "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report#key-terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Top 5 Terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* miserable 4.62"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* demonstrate 3.60"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* trusted 3.47"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* baltimore 3.25"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* beings 3.19"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Bottom 5 Terms"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* consciousness -1.99"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* gen -2.00"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* connect -2.00"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* sectors -2.10"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* red states -2.30"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Housing related terms aren\u2019t among the top nor bottom."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing costs 2.01"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* houses 0.36"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* house 0.34"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing -0.12"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* housing prices -0.15"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* affordable housing -0.55"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Planning to do some more analysis of Slow Boring comments (and other Substacks) over the holidays and will share updated results next week. Notably, looking to quantify which communities have the most sophisticated comments using the Flesh-Kincaid grade-level test. Preliminary results (in that link) show SB commentators having the highest average grade level."
+        }
+      ],
+      []
+    ],
+    "total_children": 4,
+    "parent_id": 111959113,
+    "parent_children": 15,
+    "thread_id": 111947109,
+    "thread_children": 33,
+    "ratio_recv": -5,
+    "ratio_give": -3,
+    "grade_level": 6.7,
+    "word_count": 274,
+    "category": "Uncategorized",
+    "tags": [
+      "content moderation",
+      "data analysis",
+      "news consumption"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 111961439,
+    "top_level": false,
+    "date": "Apr 25 2025 08:26",
+    "likes": 7,
+    "timestamp": 1745584005,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> I've seen this clip making the rounds, but, what was so flummoxing about the question? [...] Would the above answer have been forthcoming will all the reasons as to her long support of Biden? I'd guess not. But that's the kind of answer she should have given."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Uh, because that would require Warren to admit recently lying about the competency of our recent president and Democratic candidate for re-election? I imagine this would be useful from some Democratic martyrs: ideally Bernie, although Warren is fine by my estimation. Yet that will require someone to actually withdraw from politics and we already sacrificed Pelosi and some other dinosaurs. Notably Biden himself."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Warren should just commit to messing w/ Bernie until both of them are retired. I'd even donate to that mission. Like they could just debate whether or not a Woman could ever be elected president on increasingly marginal venues and collecting donations from delusional supporters at in person experience events."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 111954341,
+    "parent_children": 11,
+    "thread_id": 111941373,
+    "thread_children": 49,
+    "ratio_recv": 17,
+    "ratio_give": 1,
+    "grade_level": 7.8,
+    "word_count": 159,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "partisan politics",
+      "political campaigns"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 111962987,
+    "top_level": false,
+    "date": "Apr 25 2025 08:33",
+    "likes": 9,
+    "timestamp": 1745584411,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I don't even get why this has to be gendered at all. Even when workplaces were male dominated, it was well known that some men were just bull shitters trying to justify their salary, title, and social prestige. Moreover, nowadays, a lot of the BS doesn't even have human owners--just automated training and bureaucracy that employees are compelled to work through. Lastly, capital owners should be incentivized to managing down such BS and hopefully the next year or two of economic uncertainty will be a great chance to eliminate such wasteful economic activity."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 111939384,
+    "parent_children": 37,
+    "thread_id": 111939384,
+    "thread_children": 37,
+    "ratio_recv": null,
+    "ratio_give": -24,
+    "grade_level": 11.2,
+    "word_count": 93,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "economic policy",
+      "labor market"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112010719,
+    "top_level": false,
+    "date": "Apr 25 2025 11:31",
+    "likes": 4,
+    "timestamp": 1745595089,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> ByteDance Ltd. acquired Musical.ly Inc. on November 10, 2017, and merged it into TikTok on August 2, 2018. At the same time, Musical.ly Inc. changed its name to TikTok Inc."
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Musical.ly"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The ad spend is more speculative because neither destination platforms nor TikTok want to elaborate on the scale of these campaigns. I recall hearing ~2019 that TikTok was the most aggressive spender for app install among companies (this is normally dominated by play to win gambling games). Moreover, they were believed to be a major source revenue for various Meta advertising verticals. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Here's something I found w/ a quick Google search, but again--we shouldn't trust well marketed content (including search engine optimized) about the marketing industry. "
+        },
+        {
+          "type": "url",
+          "value": "https://www.readmargins.com/p/tiktok-the-facebook-competitor"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Advertising analytics are notoriously opaque and spend numbers generally kept quiet, so we only have incomplete data and various adtech proprietary metrics to try and glean insights from. We do know that armed with cash, ByteDance undertook an advertising campaign that was reported by the Wall Street Journal to be more than $1 billion dollars in 2018. That breaks down to nearly $3 million dollars in advertising daily. This included nearly $300 million on Google advertisements for TikTok in 2018. There were so many ads that you could find threads on Reddit and other places on how to get rid of the TikTok ads users were seeing (and a lot of offline ads too). "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> While ByteDance\u2019s ad spending was across numerous platforms, as noted by this graphic from Apptopia in 2018, the majority of its spend was on Facebook. The initial focus on Facebook was logical; Facebook had helped to pioneer the app install ad, and the amount of time their users spent on mobile made them the top choice for app install ads in 2018, with AppFlyer\u2019s Performance Index in 2018 ranking Facebook app install ads #1 in almost all of their categories. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> According to data from the ad and apps analytics company Sensor Tower, TikTok quickly rose to be the #1 share of voice in their measurement analytics of Facebook Ads in Q1 and Q2 of 2018. Reuters reported that \u201cnearly 22% of all ads seen by U.S. Apple device users on Facebook ad network came from TikTok and its Chinese counterpart Douyin\u201d while Bloomberg noted in 2019 \u201c13 percent of all the ads seen by users of Facebook\u2019s Android app were for TikTok.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That Substack article at least has citations to credible sources so I think that the best we'll find about their aggressive use of ad spend to build an app install base."
+        }
+      ],
+      []
+    ],
+    "total_children": 8,
+    "parent_id": 112007016,
+    "parent_children": 10,
+    "thread_id": 111947109,
+    "thread_children": 33,
+    "ratio_recv": 0,
+    "ratio_give": -4,
+    "grade_level": 11.3,
+    "word_count": 423,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "media influence",
+      "news consumption",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112024300,
+    "top_level": false,
+    "date": "Apr 25 2025 12:16",
+    "likes": 2,
+    "timestamp": 1745597761,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The 121 articles of appropriate length that existed at that point in time. Milan and I then experimented a bit w/ ML methods like clustering and data labeling, and we decided that this toy site good enough for now. I believe he found higher leverage uses of his time at SB as well as more impactful data science like stuff post SB. Eg, Milan ran a well designed survey across SB readership in Jul 2024 "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/what-we-learned-from-the-slow-boring"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I subsequently created an OpenAI-powered SB article categorization and summarization tool in Dec 2024 w/ all 1.1k articles at that point in time. "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/sb_article_categories/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I shared that a few times because I thought it was cool, but community reception was lukewarm at best. [1] Moreover, I don't even use that tool anymore because it's easier to just search w/ Google, Bing, ChatGPT, or builtin Substack search when I want a \"What has Matt Yglesias said about X\" query."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/#sort=likes&type=all&show=50&page=1&startDate=2021-10-20&endDate=2025-04-24&category=all&search=matthagy.github.io%2Fsb_article_categories&tags=all"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 112003985,
+    "parent_children": 3,
+    "thread_id": 111947109,
+    "thread_children": 33,
+    "ratio_recv": -2,
+    "ratio_give": 1,
+    "grade_level": 9.5,
+    "word_count": 153,
+    "category": "Uncategorized",
+    "tags": [
+      "data analysis",
+      "generative AI",
+      "machine learning"
+    ]
+  },
+  {
+    "post_id": 161969171,
+    "title": "Mailbag: Negativity has consequences",
+    "canonical_url": "https://www.slowboring.com/p/mailbag-negativity-has-consequences",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112025386,
+    "top_level": false,
+    "date": "Apr 25 2025 12:19",
+    "likes": 1,
+    "timestamp": 1745597981,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed, I'm not arguing otherwise. Just pointing out that financial engineering was their chief strength in that they bought Musical.ly and then invested heavily in promotion through ads. They already had solid tech from ByteDance, but I don't believe that the tech itself was all that impressive with respect to Instagram or even SnapChat."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, their product design was impressive and they invested heavily in building a user base. Moreover, Meta failed to do so w/ Threads, but also invested heavily in short form, targeted video w/ Instagram Reels. Same w/ Alphabet/Youtube Shorts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Ie, all large tech companies have impressive tech (you can rent comparable from AWS, GCP, Azure, Oracle, etc) but you need deep pockets and long time scales, as well as some luck, to actually build a durable consumer destination site."
+        }
+      ]
+    ],
+    "total_children": 6,
+    "parent_id": 112019474,
+    "parent_children": 7,
+    "thread_id": 111947109,
+    "thread_children": 33,
+    "ratio_recv": 2,
+    "ratio_give": -3,
+    "grade_level": 8.6,
+    "word_count": 133,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "business strategy",
+      "consumer behavior",
+      "tech industry"
+    ]
   }
 ]
