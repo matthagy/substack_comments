@@ -69896,9 +69896,9 @@
     ],
     "total_children": 1,
     "parent_id": 111939384,
-    "parent_children": 37,
+    "parent_children": 38,
     "thread_id": 111939384,
-    "thread_children": 37,
+    "thread_children": 38,
     "ratio_recv": null,
     "ratio_give": -24,
     "grade_level": 11.2,
@@ -70107,6 +70107,153 @@
       "business strategy",
       "consumer behavior",
       "tech industry"
+    ]
+  },
+  {
+    "post_id": 162269713,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-680",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112555089,
+    "top_level": false,
+    "date": "Apr 27 2025 14:42",
+    "likes": 13,
+    "timestamp": 1745779356,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I believe this is already common knowledge among eduction-centric parents and they're experimenting with their own enforcement. Some families basically ban all electronics, others heavily regulate internet-enabled devices, and most have some intermediate approach towards managing the pros and cons of screens and the internet. Eg, there are locked down IPads and IPhones for kids where parents can regulate hours of operations, allowed apps, and even allowed websites. Think corp IT on steroids."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Now we just need to wait for this to become increasingly common knowledge, including differential success among individuals with respect to this new dimension of raising kids."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 112540068,
+    "parent_children": 25,
+    "thread_id": 112539613,
+    "thread_children": 67,
+    "ratio_recv": null,
+    "ratio_give": -22,
+    "grade_level": 12.3,
+    "word_count": 100,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "content moderation",
+      "digital privacy",
+      "educational technology"
+    ]
+  },
+  {
+    "post_id": 162269713,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-680",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112559948,
+    "top_level": false,
+    "date": "Apr 27 2025 15:03",
+    "likes": 1,
+    "timestamp": 1745780616,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> and as long as we are getting such different visions of \"truth\" I see no path forward to greater understanding and common solutions"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We can have 80% of the public living in la la land and as long as their realities are disjoint the remaining 20% can work out something reasonable together. I think our biggest problems were the highly polarized Fox News vs. MSNBC/Twitter years and those ended during the pandemic. The fragmentation of social media, including the rise of AI generated content, is generally a good thing to combatting our recent troubles with digital echo chambers. The question is our path forward."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Currently the Republicans are making this work well enough by coordinating around the cult of Trump. He has \"tremendous\" talents in media and even owns a Trump-branded social network, in addition to being buddies w/ the owner of Twitter/X. Combined with the continued decline of cable and print publications and his cult like following, Trump is able to control the Republican party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The question for Democrats is what can we do over the next 2 to 4 years to build our own consensus reality with sufficiently strong support. We'll almost certainly win back the House in the midterms. Just hopefully we do this with more than thermostatic backlash to Trump and Republicans so that we have something durable to work with."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 112533030,
+    "parent_children": 14,
+    "thread_id": 112533030,
+    "thread_children": 14,
+    "ratio_recv": 0,
+    "ratio_give": -15,
+    "grade_level": 10.1,
+    "word_count": 225,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "partisan politics",
+      "political polarization",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162269713,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-680",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112575672,
+    "top_level": false,
+    "date": "Apr 27 2025 16:16",
+    "likes": 1,
+    "timestamp": 1745785008,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We're working on it. (I'm personally lazily deciding who to support in NYC 2026 Democratic primary and screwing around on Substack, X, LinkedIn, and other media channels)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Pete Buttigieg seems to be doing well on the domination of all things media front, including podcasts, cable TV, Substack, Instagram, Facebook, X, and likely everything else. He may steal Reagan's \"The Great Communicator\" title."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully our 2026 primary can be as simple as, \"Are you with Pete or against him?\" And we can increasingly marginalize everyone on the against side with an every growing array of highly-differentiated, anti-establishment leftist political influencers. Pete doesn't even need to ever run for president. He can just put his brand behind the most appropriate 2028 candidate."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 112564713,
+    "parent_children": 2,
+    "thread_id": 112533030,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.3,
+    "word_count": 120,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "political campaigns",
+      "social media influence"
     ]
   }
 ]
