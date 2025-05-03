@@ -5031,6 +5031,10 @@
     "political polarization",
     "public misinformation"
   ],
+  "95552641": [
+    "generative AI",
+    "social media influence"
+  ],
   "95568909": [
     "entrepreneurship",
     "generative AI",
@@ -5187,6 +5191,13 @@
     "media influence",
     "public misinformation",
     "social media influence"
+  ],
+  "96719317": [
+    "advertising revenue",
+    "digital privacy",
+    "media influence",
+    "news consumption",
+    "tech industry"
   ],
   "96742706": [
     "data analysis",
@@ -5931,5 +5942,122 @@
     "Democratic Party",
     "political campaigns",
     "social media influence"
+  ],
+  "112710208": [
+    "Democratic Party",
+    "generative AI",
+    "media influence",
+    "political polarization",
+    "social media influence"
+  ],
+  "112740201": [
+    "business strategy",
+    "media influence",
+    "tech industry"
+  ],
+  "112993070": [
+    "economic inequality",
+    "economic policy",
+    "labor market",
+    "welfare state"
+  ],
+  "112994897": [
+    "economic inequality",
+    "historical analysis"
+  ],
+  "112996228": [
+    "immigration issues",
+    "welfare state"
+  ],
+  "113005795": [
+    "US politics",
+    "immigration issues",
+    "right-wing politics",
+    "taxation"
+  ],
+  "113018395": [
+    "economic policy",
+    "immigration issues",
+    "labor market",
+    "political campaigns",
+    "tax policy"
+  ],
+  "113029087": [
+    "political campaigns",
+    "social media influence",
+    "tech industry"
+  ],
+  "113075641": [
+    "Democratic Party",
+    "entrepreneurship",
+    "political campaigns",
+    "populism",
+    "social media influence"
+  ],
+  "113230821": [
+    "immigration issues",
+    "media influence",
+    "political polarization",
+    "public misinformation"
+  ],
+  "113555430": [
+    "historical analysis",
+    "media influence",
+    "tech industry"
+  ],
+  "113560808": [
+    "media influence",
+    "news consumption",
+    "public misinformation"
+  ],
+  "113565021": [
+    "automation",
+    "business strategy",
+    "generative AI",
+    "media influence",
+    "tech industry"
+  ],
+  "113573459": [
+    "US politics",
+    "censorship",
+    "free speech issues",
+    "partisan politics"
+  ],
+  "113593422": [
+    "comment moderation",
+    "content moderation",
+    "digital privacy"
+  ],
+  "113619954": [
+    "digital privacy",
+    "social media influence",
+    "tech industry"
+  ],
+  "113627563": [
+    "comment moderation",
+    "news consumption",
+    "social media influence"
+  ],
+  "113629668": [
+    "US politics",
+    "free speech issues",
+    "tech industry"
+  ],
+  "113709482": [
+    "content moderation",
+    "mental health",
+    "news consumption",
+    "social media influence"
+  ],
+  "113722984": [
+    "censorship",
+    "media influence"
+  ],
+  "113722997": [
+    "data analysis",
+    "social media influence"
+  ],
+  "114014758": [
+    "media influence"
   ]
 }

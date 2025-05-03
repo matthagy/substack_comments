@@ -60229,6 +60229,47 @@
     ]
   },
   {
+    "post_id": 157437135,
+    "title": "Why Conservatives Love Andrew Tate",
+    "canonical_url": "https://www.richardhanania.com/p/why-conservatives-love-andrew-tate",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 95552641,
+    "top_level": true,
+    "date": "Feb 23 2025 06:04",
+    "likes": 0,
+    "timestamp": 1740308689,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "As an aside: Claire's distaste for AI art, including one that Richard investigated considerable thought, effort and time into, suggests many of us may already dislike AI art as we perceive it as lazy and thoughtless. Many AI art projects are! Particularly those polluting social media."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe we need some proof-of-toil to better appreciate AI art that does have a thoughtful message. Maybe there's already some Hanania-aligned AI artist who has live streamed some of their work process?"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 95552641,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 7.0,
+    "word_count": 78,
+    "category": "Uncategorized",
+    "tags": [
+      "generative AI",
+      "social media influence"
+    ]
+  },
+  {
     "post_id": 157728665,
     "title": "Only fools think Elon is incompetent",
     "canonical_url": "https://www.noahpinion.blog/p/only-fools-think-elon-is-incompetent",
@@ -62066,6 +62107,64 @@
       "media influence",
       "public misinformation",
       "social media influence"
+    ]
+  },
+  {
+    "post_id": 157976302,
+    "title": "Can Bezos Bring Elite Human Capital to Free Markets?",
+    "canonical_url": "https://www.richardhanania.com/p/can-bezos-bring-elite-human-capital",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 96719317,
+    "top_level": false,
+    "date": "Feb 27 2025 17:30",
+    "likes": 2,
+    "timestamp": 1740695419,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Tech, particularly those of us in ad tech, has been discussing and debating the evolution of the publishing industry for two decades now. The key insight is that traditional publishers lost their key revenue streams from advertising, including classified ads, as more of this business moved online. Even national publications and TV news lost substantial revenue as major advertisers moved spend online."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For anyone looking to read about this, I'd recommend Ben Thompson\u2019s analysis of how the local newspaper market developed and was subsequently disrupted in \u201cThe Local News Business Model\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2017/the-local-news-business-model/"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*Edited to fix typos"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 96635578,
+    "parent_children": 2,
+    "thread_id": 96608037,
+    "thread_children": 3,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 13.8,
+    "word_count": 96,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "digital privacy",
+      "media influence",
+      "news consumption",
+      "tech industry"
     ]
   },
   {
@@ -69254,7 +69353,7 @@
     "id": 111076365,
     "top_level": false,
     "date": "Apr 22 2025 06:50",
-    "likes": 12,
+    "likes": 17,
     "timestamp": 1745319013,
     "body": [
       [
@@ -69288,8 +69387,8 @@
     "parent_children": 6,
     "thread_id": 111067106,
     "thread_children": 6,
-    "ratio_recv": -5,
-    "ratio_give": -52,
+    "ratio_recv": -6,
+    "ratio_give": -61,
     "grade_level": 6.4,
     "word_count": 182,
     "category": "Uncategorized",
@@ -69331,7 +69430,7 @@
     "thread_id": 111067106,
     "thread_children": 6,
     "ratio_recv": null,
-    "ratio_give": -12,
+    "ratio_give": -17,
     "grade_level": 8.7,
     "word_count": 40,
     "category": "Uncategorized",
@@ -70119,7 +70218,7 @@
     "id": 112555089,
     "top_level": false,
     "date": "Apr 27 2025 14:42",
-    "likes": 13,
+    "likes": 14,
     "timestamp": 1745779356,
     "body": [
       [
@@ -70137,11 +70236,11 @@
     ],
     "total_children": 1,
     "parent_id": 112540068,
-    "parent_children": 25,
+    "parent_children": 27,
     "thread_id": 112539613,
-    "thread_children": 67,
+    "thread_children": 73,
     "ratio_recv": null,
-    "ratio_give": -22,
+    "ratio_give": -25,
     "grade_level": 12.3,
     "word_count": 100,
     "category": "Uncategorized",
@@ -70196,7 +70295,7 @@
     "thread_id": 112533030,
     "thread_children": 14,
     "ratio_recv": 0,
-    "ratio_give": -15,
+    "ratio_give": -16,
     "grade_level": 10.1,
     "word_count": 225,
     "category": "Uncategorized",
@@ -70255,5 +70354,1176 @@
       "political campaigns",
       "social media influence"
     ]
+  },
+  {
+    "post_id": 162008948,
+    "title": "What's the plan to win the Senate?",
+    "canonical_url": "https://www.slowboring.com/p/whats-the-plan-to-win-the-senate",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112710208,
+    "top_level": false,
+    "date": "Apr 28 2025 07:34",
+    "likes": 4,
+    "timestamp": 1745840066,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Divide and conquer should work well enough to scatter the leftist political influencers as long as there is a strong enough center. The center can evolve as well, particularly if that generates more leftist infighting."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We may even want to strategically fund and promote particularly potent, new voices that attack the eatablished Bernie, Biden, Warren synthesis. Moreover our ever more fragmented media ecosystem, algorithmic bias, and generative AI all seem likely to disproportionately harm these fractions. Notably their revenue and cost structures."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We shouldn't blindly hope this works. Yet we have a multitude of options for managing these threats as well beneficial structural changes in the tech and media ecosystem as well as helpful labor market dislocations. I'm personally quite optimistic!"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 112698758,
+    "parent_children": 25,
+    "thread_id": 112698758,
+    "thread_children": 25,
+    "ratio_recv": -4,
+    "ratio_give": -39,
+    "grade_level": 10.4,
+    "word_count": 121,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "generative AI",
+      "media influence",
+      "political polarization",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162008948,
+    "title": "What's the plan to win the Senate?",
+    "canonical_url": "https://www.slowboring.com/p/whats-the-plan-to-win-the-senate",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112740201,
+    "top_level": false,
+    "date": "Apr 28 2025 09:48",
+    "likes": 5,
+    "timestamp": 1745848084,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Bezos has been out of $AMZN for nearly 4 years. [1] Think he still has some emeritus chairman role or something inconsequential. At most his ~10% holding of $AMZN and associated voting power is what matters."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even good that he left before transforming his public image--similar to Gates and dissimilar to Musk. The public may actually like him more if Bezos is just a Bond villain who competes w/ Musk to dominate space and online media, while being vaguely associated w/ selling books to fellow nerds three decades ago."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] May 26 2021 - Jeff Bezos to formally step down as Amazon CEO on July 5, Andy Jassy to take over - "
+        },
+        {
+          "type": "url",
+          "value": "https://www.cnbc.com/2021/05/26/jeff-bezos-to-formally-step-down-as-amazon-ceo-on-july-5.html"
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 112731718,
+    "parent_children": 4,
+    "thread_id": 112704611,
+    "thread_children": 6,
+    "ratio_recv": -5,
+    "ratio_give": 3,
+    "grade_level": 9.2,
+    "word_count": 110,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112993070,
+    "top_level": false,
+    "date": "Apr 29 2025 07:25",
+    "likes": 1,
+    "timestamp": 1745925944,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, that is a good reason to create busy work during a deep and long recession. We have at least 400 bps of labor force to shed before we're close to that territory IMO, "
+        },
+        {
+          "type": "url",
+          "value": "https://fred.stlouisfed.org/series/UNRATE"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, we can still put some thought into what we're subsidizing. Maybe some people should just get $500/mo stipend indefinitely with the understanding they can either live well enough on that or they'll figure out their own lifestyle improvement plan. I'm increasingly confident Walmart, Amazon, McDonald's and multidue of increasingly efficient private real estate vehicles can eventually make that work for the mass majority of US residents."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 112988594,
+    "parent_children": 4,
+    "thread_id": 112985472,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 13.2,
+    "word_count": 101,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "economic policy",
+      "labor market",
+      "welfare state"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112994897,
+    "top_level": false,
+    "date": "Apr 29 2025 07:35",
+    "likes": 4,
+    "timestamp": 1745926528,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Does that 50% reference the global human and sentient being population or some more localized one? Even then, does it exhaustively consider all human residents within the boundaries of the empire or nation?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm guessing these benefits differentially accrued to regional, class, race, ethnicity, caste, religious groups within the global order. Moreover, I think all technologies increase inequality along some dimensions while giving us the opportunities to minimize or eliminate others. That goes all the way back to the discovery and development of language, writing, agriculture, and increasingly sophisticated and large human institutions IMO."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 112988129,
+    "parent_children": 2,
+    "thread_id": 112984295,
+    "thread_children": 25,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 14.2,
+    "word_count": 94,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "historical analysis"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 112996228,
+    "top_level": false,
+    "date": "Apr 29 2025 07:42",
+    "likes": 1,
+    "timestamp": 1745926973,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": ">  there's one very high-hanging fruit reform, open borders, which consists in exactly that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I don't think we need to overly indulge any of our libertarian values. For as the esteemed Milton Friedman reminds us [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> You cannot simultaneously have free immigration and a welfare state. ... I am in favor of the unilateral reduction of tariffs, but the movement of goods is a substitute for the movement of people. As long as you have a welfare state, I do not believe you can have a unilateral open immigration. I would like to see a world in which you could have open immigration, but stop kidding yourselves. On the other hand, the welfare state does not prevent unilateral free trade. I believe that they are in different categories."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1]  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.goodreads.com/quotes/8625101-you-cannot-simultaneously-have-free-immigration-and-a-welfare-state"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      []
+    ],
+    "total_children": 9,
+    "parent_id": 112990653,
+    "parent_children": 10,
+    "thread_id": 112990653,
+    "thread_children": 10,
+    "ratio_recv": 3,
+    "ratio_give": 1,
+    "grade_level": 8.4,
+    "word_count": 128,
+    "category": "Uncategorized",
+    "tags": [
+      "immigration issues",
+      "welfare state"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113005795,
+    "top_level": false,
+    "date": "Apr 29 2025 08:28",
+    "likes": 1,
+    "timestamp": 1745929724,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Moreover, I proposed an \"immigrant tax\" in Dec 2024 to ensure they always \"feel\" like a net positive contribution to our economic system, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/the-new-politics-of-evasion/comment/80170608"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We should add a flat surtax on immigrant income to embrace the Trumpian \"make outsiders pay\". This would serve 2 purposes:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "1) Satisfy the visceral insider/outsider divide that Trump exploits by treating them financially worse"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2) Make unskilled immigration less financially beneficial and thereby decrease the supply of people seeking these opportunities"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would have less of an effect on highly skilled immigration that can already make far more money in the US than elsewhere; including in the EU. Even an extra 20 percentage points of tax (such that top marginal federal rates exceed 50%) would still have many skilled workers better off in the US. We could alternatively tax immigrant remittance to select against people that primarily want to send money home rather than build their life here."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Would be particularly useful in the context of addressing the growing fiscal burden of Social Security and Medicare. Rather than raise taxes or cut benefits, we can instead just better exploit immigrants. Would make future blanket immigrant crackdowns painful, particularly high-skilled ones, when we can get fewer foreigners at the margin just by increasing the tax rate."
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 113003491,
+    "parent_children": 6,
+    "thread_id": 112990653,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": -3,
+    "grade_level": 15.0,
+    "word_count": 209,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "immigration issues",
+      "right-wing politics",
+      "taxation"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113018395,
+    "top_level": false,
+    "date": "Apr 29 2025 09:19",
+    "likes": 0,
+    "timestamp": 1745932793,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, there are different tradeoffs regardless. I just think that when it comes to unskilled labor, most of the immigrant edge comes from flouting regulations like minimum wage, OSHA, and subjective working conditions. Believe we can figure that out through some combination of deregulation and tightening labor markets without immigrants, although I'm still cool with commodity immigrants w.r.t. their labor value if we can convince or deceive the masses."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet skilled immigration is too important to just \"let the chips fall where they may\". Instead, we need explicit policy that address the labor market needs and political realities. Hence, why I support a flat tax on immigrant income with rates dictated by a combination of fiscal needs and xenophobia among the electorate. If we gotta restrict foreigns to appease some ornery voters, might as well optimize for economic and tax revenue contributions."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113007549,
+    "parent_children": 2,
+    "thread_id": 112990653,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.2,
+    "word_count": 142,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "immigration issues",
+      "labor market",
+      "political campaigns",
+      "tax policy"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113029087,
+    "top_level": false,
+    "date": "Apr 29 2025 09:59",
+    "likes": 16,
+    "timestamp": 1745935185,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, goes both ways. We in tech got extremely good and measurement and targeting in the context of algorithmic feeds and ads. Moreover, it was well known that numerous techies migrated to politics after making their fortunes between roughly 2010 and 2016. I recall some particularly notable Facebook alumnus and their professional networks thinking they could \"social media\" for good, using their own funding."
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 113008805,
+    "parent_children": 10,
+    "thread_id": 112983583,
+    "thread_children": 65,
+    "ratio_recv": -8,
+    "ratio_give": -19,
+    "grade_level": 9.5,
+    "word_count": 64,
+    "category": "Uncategorized",
+    "tags": [
+      "political campaigns",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162091734,
+    "title": "Econ 101 is underrated",
+    "canonical_url": "https://www.slowboring.com/p/econ-101-is-underrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113075641,
+    "top_level": false,
+    "date": "Apr 29 2025 12:34",
+    "likes": 2,
+    "timestamp": 1745944470,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Eh, I was mainly thinking of Chris Hughes and compatriots (eg, Dustin Moskovitz). From "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Chris_Hughes"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Christopher Hughes (born November 26, 1983) is an American entrepreneur and author who co-founded and served as spokesman for the online social directory and networking site Facebook until 2007. He was the publisher and editor-in-chief of The New Republic from 2012 to 2016."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Hughes co-founded the Economic Security Project (ESP) in 2016. In 2018, he published Fair Shot: Rethinking Inequality and How We Earn and in 2025 he published Marketcrafters: The 100-year Struggle to Shape the American Economy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> After leaving Facebook, Hughes volunteered for Barack Obama's 2008 presidential campaign."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Hughes endorsed Democratic candidate Hillary Clinton in the run-up for the 2016 U.S. presidential election."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\"Hughes volunteered for Barack Obama's 2008 presidential campaign\" rather undersells his involvement because I believe Hughes led Obama's highly successful digital outreach campaigns. In my understanding, Hughes was instrumental in building the bridge between liberal techies and Democratic politicians; a bridge that Zuck himself struggled to cross and is now walking back from."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And there were a multitude of lesser techies who were a) flush with cash, b) had deep expertise in algorithmic feeds as well as in digital ad targeting/measurement tools, c) and optimistic about digital communities who infiltrated various parts of the Democratic establishment and associated institutions. Notably, I saw first hand how well some of them helped Bernie gain a foothold, including cynical usage of populistic language in viral tweets, articles, reddit posts, and ad campaigns to collect devoted followers and donations."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 113067919,
+    "parent_children": 5,
+    "thread_id": 112983583,
+    "thread_children": 65,
+    "ratio_recv": -2,
+    "ratio_give": -1,
+    "grade_level": 13.4,
+    "word_count": 253,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "entrepreneurship",
+      "political campaigns",
+      "populism",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162488915,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-d1d",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113230821,
+    "top_level": false,
+    "date": "Apr 30 2025 00:53",
+    "likes": 0,
+    "timestamp": 1745988813,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, that probably reflects the views of their newly-converted, conservative immigrant voters. After all, they likely view themselves as some of the \"good ones\" and fear being burdened with the \"bad foreigners\". Believe this is a recurring theme throughout American history with each wave of immigrants being assimilated into our culture, including some into our xenophobic cohorts."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This is poignantly presented in Fox New's May 2024 interview w/ a Turkish dude who's illegally crossing the US's souther border and expressing deep concerns about the insecurity of our border, "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/fmTdHoziVy4?si=OBHZhVAOS25LmHmd&t=147"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In fact, American people is right, completely true. Who comes into this country? They don't know. Okay, I'm good, but how if they're not good? How if they're killers, psychopath, else? No guarantee of that. Like, no security, no security check, no background check."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 113153126,
+    "parent_children": 3,
+    "thread_id": 113151921,
+    "thread_children": 5,
+    "ratio_recv": 0,
+    "ratio_give": -14,
+    "grade_level": 8.4,
+    "word_count": 132,
+    "category": "Uncategorized",
+    "tags": [
+      "immigration issues",
+      "media influence",
+      "political polarization",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113555430,
+    "top_level": true,
+    "date": "May 01 2025 07:11",
+    "likes": 1,
+    "timestamp": 1746097892,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> If you look at the early rhetoric out of companies like Facebook and Twitter, there was so much optimism about the mission of \u201cconnecting the world,\u201d and not only from founders and people with money at stake."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Don't forget Google and Wikipedia as the OGs in this internet mission based branding. And they were largely competing with similarly mission based Yahoo and a multitude of other online \"info organizers\", including \"evil\" Microsoft offerings. In retrospect, only Microsoft, Dell, Intel, and Sun/Oracle made anything work financially in Web 1.0. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Amazon and Google survived and thrived well enough to open the door to those aforementioned Web 2.0 projects. We should also add Reddit, Yelp, and some other social/mobile/local firms. Or just watch HBO Silicon Valley; was far too real for those of us that finally joined the bubble in the 2010's."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 113555430,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 9.9,
+    "word_count": 139,
+    "category": "Uncategorized",
+    "tags": [
+      "historical analysis",
+      "media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113560808,
+    "top_level": false,
+    "date": "May 01 2025 07:42",
+    "likes": 5,
+    "timestamp": 1746099737,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, maybe you should review your Substack subscriptions and cancel some of them?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly for any Instagram/SnapChat/X/Threads/BlueSky accounts you're following, even if you're just overly animated by quote retweets (or quote reposts?). Definitely get off Reddit-like echo chambers, including disengaging or properly repositioning yourself in any private group chats or negatively biased in personal networks."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At some level we can use our own algorithms, or just use different Google/ChatGPT search queries and prompts. But chiefly we gotta remember our own agency, dare I say our own complicity, in our insufficiently aligned info consumption."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As for other people, well f-them. If they wanna dig their own echo chamber then they can lie in it for however long it takes for them to realign their media consumption habits as well as any other behavioral problems they've developed along the way. Probably should start w/ financial planning in a vocational and lifestyle sense."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113548570,
+    "parent_children": 49,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.6,
+    "word_count": 150,
+    "category": "Uncategorized",
+    "tags": [
+      "media influence",
+      "news consumption",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113565021,
+    "top_level": false,
+    "date": "May 01 2025 08:03",
+    "likes": 2,
+    "timestamp": 1746100992,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> And many users will look for other ways to pass the time that feel less fake"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, they can just directly chat w/ the AI bots; using either text, voice, or even camera-based video feeds. These new multimodal agents are extremely impressive and could easily become highly addictive, paid consumption channels. Eg, how do you know your OnlyFan subscriptions are with a real person if you haven't at least verified this through some in person interactions?*"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even more interesting--what could I do w/ an AI agent customer? Eg, could it deal w/ all the messiness of a real estate transaction and just get me a clear, concise, and correct contract for $20 total? May be great if potential counter parties are spending $200/hr for some of their interactions because my side could just ware them down."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Similarly, what if I was financially invested in one OF (or Substack) network, how could I use AI agents to recruit talent from other networks? Well known pattern in media and tech whereby customers and investors engage w/ one service provider w/ the intent of copying methods or poaching talent. See NYT and Vox examples."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm vaguely aware of at least two projects working on this w/ AI for tech recruiting and investing, although to me this just seem like extensions of some early durable professional networks we've been building and reformulating over the years. Would be impressive if this worked well enough that buyers didn't even care about whether or not their labor purchases were completed by a legal, individual person, a firm, or just a totally autonomous AI agent. Although I fear this would just a silly, yet expensive, game between various entities looking for arbitrage opportunities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*I have far too many bad jokes about that one; including going back the the early 2000's internet pornography and craigslist service providers days. Moreover, those jokes were just opening segments to worse ones about something you might plan and practice in Rainbow Six. Eg, \"How would you hire and recruit collaborators for that one w/ minimal culpability?\""
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113550266,
+    "parent_children": 15,
+    "thread_id": 113550266,
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": -33,
+    "grade_level": 11.0,
+    "word_count": 343,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "business strategy",
+      "generative AI",
+      "media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113573459,
+    "top_level": false,
+    "date": "May 01 2025 08:39",
+    "likes": 4,
+    "timestamp": 1746103176,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Scanned this and it appears to be a reasonable enough narrative from my perspective. Moreover, I verified that ChatGPT 4o can work it into a clearer and more concise narrative if anyone would like to develop a more marketable media product along these lines."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But regardless, do we really need the government to do anything here? Like aren't we in the same territory of book banning and even speech codes. Couldn't private institutions, and some limited local and regional governments, handle that well enough for all practical purposes without the risk of Trump putting the Federal Government, including The Courts and Law Enforcement, against his enemies?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "After all he seems to be doing plenty fine on those lines without any liberal-ish/progresive-ish/left-ish permission structure."
+        }
+      ]
+    ],
+    "total_children": 11,
+    "parent_id": 113568075,
+    "parent_children": 12,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": 2,
+    "ratio_give": -8,
+    "grade_level": 11.3,
+    "word_count": 123,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "censorship",
+      "free speech issues",
+      "partisan politics"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113593422,
+    "top_level": false,
+    "date": "May 01 2025 09:57",
+    "likes": 1,
+    "timestamp": 1746107845,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, I largely agree. Just think \"2\" can be handled by parental control of provided computing devices, including phones, tablets, and laptops. Ie, seems similar to gatekeeping porn, which adds requirements many adults are uncomfortable with. See past SB discussions on the topic over the years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If a kid really wants to get library card to use that institutes locked down internet, then good for them. Anything else requires recurring payments, which entails a real bank-like account, and ultimately someone 18 or over. (Even child checking accounts need an adult and prepaid debit or money order instruments are almost always rejected for recurring payments)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, some social networks (like LinkedIn and GitHub) already have Real ID-like verification integrations as well as employer integrations. Similarly, if Meta wants to create yet another social network for 18+, then they can do that. My understanding is that FB groups have had features to support that since at least 2011 or so, primarily w/ private/restricted groups whereby the admin has to approve membership."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If parents want their kids off Meta properties, TikTok, X, SnapChat, OnlyFans, etc, then they can just appropriately control their computing access. Eg, a heavily locked down iPhone/Android or a similarly restricted tablet or computer. Should they want to give their kid unrestricted internet access, then they might aw well throw in a 12 pack of Miller Highlife and some Camel Crush cigarettes. (Or maybe a single IPA and a vape w/ Pod Juice mint)"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113576185,
+    "parent_children": 2,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 10.6,
+    "word_count": 244,
+    "category": "Uncategorized",
+    "tags": [
+      "comment moderation",
+      "content moderation",
+      "digital privacy"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113619954,
+    "top_level": false,
+    "date": "May 01 2025 11:26",
+    "likes": 1,
+    "timestamp": 1746113194,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I purposely never had a real Facebook account until Dec 2013, when I needed one for professional reasons; startup private group chat. As expected, I was retroactively added to a multitude of networks from my past. Thankfully no one wanted to link to any of the fraudulent FB accounts I and others created to mess w/ this Harvard project that competed with our university colleagues, including Google+."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I've similarly moved in and out of various personal and professional networks with limited concern for how well this was reflected in social media and other electronic databases. Definitely take legal and financial identification seriously; even have permanent government grade id monitoring, resulting from an asinine data breach related to US government supercomputer cluster access as a grad student."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, we all gotta keep evolving our relationship to various networks and institutions as the world around us changes, including technology driven restructuring of our economy and society.  That goes beyond computing, media, and communication to include things like ever more advanced birth control method, and alternatively more advanced ways to create new, organic humans. Eg, Elon's infamous IVF experiments to grow his genetic lineage."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113572714,
+    "parent_children": 16,
+    "thread_id": 113548098,
+    "thread_children": 73,
+    "ratio_recv": null,
+    "ratio_give": -35,
+    "grade_level": 15.0,
+    "word_count": 191,
+    "category": "Uncategorized",
+    "tags": [
+      "digital privacy",
+      "social media influence",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113627563,
+    "top_level": false,
+    "date": "May 01 2025 11:52",
+    "likes": 3,
+    "timestamp": 1746114744,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, Substack engagement can be moderated by just waiting a few hours and then finding the interesting things to like, and possibly reply to. Moreover, try downloading a PDF print out of a 500+ comment discussion one day, and then giving it to ChatGPT Desktop, Gemini, Claude etc to summarize down to a 3 paragraphs. You'll find most days' discussions aren't that uniquely interesting; commonly just the same archetypes, possibly even the same users, discussing similar themes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet no problem w/ spending 10+ hours on Substack some days if you really don't got anything else better to do. Definitely cheaper than sports gambling or private investment opportunities. Even occasionally a good sign to be bored due to lack of pressing, urgent issues. Can always just go for a walk or clean something, while listening to music or podcasts, if you need a break or feel guilt about overly indulgent social media engagement."
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 113593731,
+    "parent_children": 11,
+    "thread_id": 113548098,
+    "thread_children": 73,
+    "ratio_recv": 6,
+    "ratio_give": -11,
+    "grade_level": 10.6,
+    "word_count": 152,
+    "category": "Uncategorized",
+    "tags": [
+      "comment moderation",
+      "news consumption",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113629668,
+    "top_level": false,
+    "date": "May 01 2025 11:59",
+    "likes": 0,
+    "timestamp": 1746115172,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I guess Europe can, and already does that. Guessing they're still just licensing US or SEA technology to do so. Could probably even just outsource it to the broader Truth Social, Trump Media org (which has cloud computing ambitions*), X AI, or just the CCP."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As for America, I'm confident the first amendment will safe guard us from such horrific outcomes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Dec 2021 - Donald Trump's new site wants to take on AWS as well as Facebook, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.techradar.com/news/donald-trumps-new-site-wants-to-take-on-aws-as-well-as-facebook"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113627669,
+    "parent_children": 8,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": null,
+    "ratio_give": -6,
+    "grade_level": 6.9,
+    "word_count": 76,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "free speech issues",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113672635,
+    "top_level": false,
+    "date": "May 01 2025 14:34",
+    "likes": 0,
+    "timestamp": 1746124463,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly! They should vape, use Zyn, or some other less harmful nicotine alternative."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 113665493,
+    "parent_children": 3,
+    "thread_id": 113548098,
+    "thread_children": 73,
+    "ratio_recv": 0,
+    "ratio_give": -2,
+    "grade_level": 8.4,
+    "word_count": 13,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113709482,
+    "top_level": false,
+    "date": "May 01 2025 16:53",
+    "likes": 1,
+    "timestamp": 1746132812,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, the likes generally make it easy to find decent comments. And with a custom UI, you can even order by stuff like \"ratio given\" and \"ratio received\" to find some gems deep in a thread. Can do even better w/ text embedding vectors for more sophisticated searching. And of course your ChatGPT prompt could instruct it to find novel insights that stand out from our common archetypes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But again, no problem w/ browsing out of fun. Some days I spend 2+hr in SB comments when I'm bored or mentally working through something at work. I'm just pointing out that our perceived sense of urgency in our realtime discussion is rather manufactured. Hence, no big deal if any of us forget about SB articles and discussion for a few days or weeks. I believe that can help break the addiction; assuming we can each find something more engaging elsewhere in our lives."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 113654807,
+    "parent_children": 4,
+    "thread_id": 113548098,
+    "thread_children": 73,
+    "ratio_recv": -1,
+    "ratio_give": -8,
+    "grade_level": 7.5,
+    "word_count": 152,
+    "category": "Uncategorized",
+    "tags": [
+      "content moderation",
+      "mental health",
+      "news consumption",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113722984,
+    "top_level": false,
+    "date": "May 01 2025 17:47",
+    "likes": 0,
+    "timestamp": 1746136067,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, even before computers, editors would write guidelines and distribute them to their staff to inform these humans about how best to write on behalf of the editor and the publication they represented."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "That would include front line staff screening letters for inclusion in \"letters to the editors\". If NYT received 10,000 letters, then the editors may only have time to review a minuscule fraction. So frontline staff need some criteria to filter these letters up the review chain. Moreover, the editors may want to tabulate the general concerns expressed in these letters. Eg, thousands of letters were in favor of Nixon resigning whereas only a handful supported his continued presidency. Hence, the need for well directed and aligned human staff to augment the editors in these pre-modern-computing media institutions."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 113661849,
+    "parent_children": 5,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": 0,
+    "ratio_give": -1,
+    "grade_level": 10.5,
+    "word_count": 130,
+    "category": "Uncategorized",
+    "tags": [
+      "censorship",
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 162328487,
+    "title": "Social media makes people sad",
+    "canonical_url": "https://www.slowboring.com/p/social-media-makes-people-sad",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 113722997,
+    "top_level": false,
+    "date": "May 01 2025 17:47",
+    "likes": 0,
+    "timestamp": 1746136071,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'll also add that many algorithms are quite simple and easily amenable to human review and tweaking. Eg, the \"Flesh-Kincaid grade-level test\" that we used in winter 2022 to prove that SB had the most intelligent comments among other notable Substack communities, including commonsense (now The Free Press), noahpinion, and freddiedeboer. [1] We could easily use that criteria to filter out low-quality comments. See also the \"Key terms\" analysis in that report about predicting likes in terms of words used in a comment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even just sorting by likes, vs newest, vs oldest is another algorithm; and one that we all commonly value. Adding in stuff like grade letter analysis, semantic analysis through statistical modeling, and more just gives the users and site owners more tools to improve our subjective experience."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/newsletter_stats/report"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 113722984,
+    "parent_children": 2,
+    "thread_id": 113547316,
+    "thread_children": 66,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 11.8,
+    "word_count": 131,
+    "category": "Uncategorized",
+    "tags": [
+      "data analysis",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 162722299,
+    "title": "Friday thread",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-8a7",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114014758,
+    "top_level": true,
+    "date": "May 02 2025 18:24",
+    "likes": 3,
+    "timestamp": 1746224660,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Definitely checkout Danny McBride's role in East Bound and Down for at least season 1. Intro in"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": " "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=l6X-dajKOWM"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even that intro alone has some great, offensive, humorous considerations around fitting in w/ different groups in different cities. I've now gotten to live in Atlanta, SF, and NYC and can increasingly appreciate the differences. Great when his journey goes global!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I personally watched the 1st season from a pirated bootleg, in a Colombian hostile, while recovering from hangovers, w/ guests from all over the world in 2011. I'd commonly reminded everything that this was a pretty good depiction of Americans! I recall lightly offending some Germans and Brits w/ various comparative differences I suggested. Yet at the time, this is what I'd expect from an Atlanta Braves young star as I was a grad student at Georgia Tech. We sure had some great cultural exchange discussions centered around that show!"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 114014758,
+    "thread_children": 2,
+    "ratio_recv": 0,
+    "ratio_give": null,
+    "grade_level": 8.5,
+    "word_count": 148,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
