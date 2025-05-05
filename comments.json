@@ -71574,9 +71574,9 @@
     "parent_id": 114450685,
     "parent_children": 12,
     "thread_id": 114430144,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": 2,
-    "ratio_give": -6,
+    "ratio_give": -7,
     "grade_level": 11.2,
     "word_count": 182,
     "category": "Uncategorized",
@@ -71628,7 +71628,7 @@
     "parent_id": 114459187,
     "parent_children": 4,
     "thread_id": 114430144,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": -1,
     "ratio_give": -2,
     "grade_level": 12.6,
@@ -71677,7 +71677,7 @@
     "parent_id": 114477959,
     "parent_children": 2,
     "thread_id": 114430144,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": null,
     "ratio_give": 1,
     "grade_level": 8.5,
@@ -71713,7 +71713,7 @@
     "parent_id": 114477830,
     "parent_children": 4,
     "thread_id": 114430144,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": 1,
     "ratio_give": -2,
     "grade_level": 10.3,
@@ -71761,7 +71761,7 @@
     "parent_id": 114521135,
     "parent_children": 2,
     "thread_id": 114430144,
-    "thread_children": 49,
+    "thread_children": 50,
     "ratio_recv": null,
     "ratio_give": -2,
     "grade_level": 10.9,
@@ -71771,5 +71771,43 @@
       "social media influence",
       "tech industry"
     ]
+  },
+  {
+    "post_id": 162608649,
+    "title": "The most disturbing aspect of Trump\u2019s first 100 days",
+    "canonical_url": "https://www.slowboring.com/p/the-most-disturbing-aspect-of-trumps",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114617507,
+    "top_level": false,
+    "date": "May 05 2025 08:27",
+    "likes": 0,
+    "timestamp": 1746448025,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Which Dem politicians from the last cohort have most recently demonstrated their commitment to this narrative? All I got is Bidens and Pelosis. I recall Schumer making an important judgement call, but as far as I know, he's still in office."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I'm personally thinking Lina Khan and Gary Gensler will have to lead the corporate renegotiation, likely working w/ David Sachs. I could see those three coming up w/ a new \"Contract w/ The Global Investing Community in American Assets\". We'll need Lael Brainard and Summers to sanctify this from an academic perspective. JPow and the rest of the rest Fed can just largely ignore this for at least a year or two, regardless of what Trump says, as long as it's reasonably aligned w/ this new contract. May take a decade or two for that to be ancient history. Like just another chapter in the Global Financial Crisis and another Tooze book."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 114600940,
+    "parent_children": 2,
+    "thread_id": 114596364,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -13,
+    "grade_level": 7.6,
+    "word_count": 153,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
