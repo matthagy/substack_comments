@@ -70948,7 +70948,7 @@
     "id": 113560808,
     "top_level": false,
     "date": "May 01 2025 07:42",
-    "likes": 5,
+    "likes": 6,
     "timestamp": 1746099737,
     "body": [
       [
@@ -70982,7 +70982,7 @@
     "thread_id": 113547316,
     "thread_children": 66,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 10.6,
     "word_count": 150,
     "category": "Uncategorized",
@@ -71197,11 +71197,11 @@
     ],
     "total_children": 1,
     "parent_id": 113572714,
-    "parent_children": 16,
+    "parent_children": 17,
     "thread_id": 113548098,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": null,
-    "ratio_give": -35,
+    "ratio_give": -37,
     "grade_level": 15.0,
     "word_count": 191,
     "category": "Uncategorized",
@@ -71241,7 +71241,7 @@
     "parent_id": 113593731,
     "parent_children": 11,
     "thread_id": 113548098,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": 6,
     "ratio_give": -11,
     "grade_level": 10.6,
@@ -71329,7 +71329,7 @@
     "parent_id": 113665493,
     "parent_children": 3,
     "thread_id": 113548098,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": 0,
     "ratio_give": -2,
     "grade_level": 8.4,
@@ -71367,7 +71367,7 @@
     "parent_id": 113654807,
     "parent_children": 4,
     "thread_id": 113548098,
-    "thread_children": 73,
+    "thread_children": 76,
     "ratio_recv": -1,
     "ratio_give": -8,
     "grade_level": 7.5,
@@ -71482,7 +71482,7 @@
     "id": 114014758,
     "top_level": true,
     "date": "May 02 2025 18:24",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1746224660,
     "body": [
       [
@@ -71519,11 +71519,257 @@
     "parent_children": null,
     "thread_id": 114014758,
     "thread_children": 2,
-    "ratio_recv": 0,
+    "ratio_recv": 1,
     "ratio_give": null,
     "grade_level": 8.5,
     "word_count": 148,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "media influence"
+    ]
+  },
+  {
+    "post_id": 162828875,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-f9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114458374,
+    "top_level": false,
+    "date": "May 04 2025 15:07",
+    "likes": 1,
+    "timestamp": 1746385645,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ugh, were Biden or Clyburn particularly good voter sentiment measurement experts in 2020? Like they could even read a spreadsheet of voter preferences; let alone determine the manufactured bias of the questionnaires from dubious sources?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Aside: Note that this was an actual, thoughtful joke in 2016 ad tech when we all speculated on whether the Russians, Thiel, Chineses, Soros, Iranians, Clintons, Gates, Tump, etc where the true victims of certain misinformation attacks. After all, how could the candidate with the most money lose if not for some bugs in their information supply chain networks?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, we eventually realized that voters picked up on this early with their obsession in digital communication security.* Maybe Snowden did too good of a job marketing VPNs and whatnot? I personally blamed that third-party, socialist traitor celebrity Bernie and his tech allies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* NYT did an excellent job of raising the salience of email security vendors and subsequently redirected any journalistic integrity failings into a strong investment thesis centered on just how powerful Meta ad networks could be, in theory. Details in this Oct 2020 tech analyst article, "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2020/twitter-responsibility-and-accountability/"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 114450685,
+    "parent_children": 12,
+    "thread_id": 114430144,
+    "thread_children": 49,
+    "ratio_recv": 2,
+    "ratio_give": -6,
+    "grade_level": 11.2,
+    "word_count": 182,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "US politics",
+      "digital privacy",
+      "media influence",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 162828875,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-f9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114476288,
+    "top_level": false,
+    "date": "May 04 2025 16:30",
+    "likes": 1,
+    "timestamp": 1746390629,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Maybe. But isn't the world changing fairly regularly and is it not possible that past performance may not be indicative of future performance in such a rapidly evolving political and information ecosystem?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And that was the whole point of better technology to measure and target marketing campaigns. At some level this works, possibly just to install even more addictive, pay-and-play-to-win apps, but it actually requires some degree of analytical expertise to use the methods correctly. And you really could use it to target and misinform certain high-impact cohorts; although even \"misinform\" and \"impact\" does apply a degree of judgment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Like I and other tech colleagues joked about marketing to our current and prospective investors, but it seemed the investor relations industry was already way ahead of us. Eg, from my own professional experience, we paid an obscene amount of money for this ad, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=kUTnJMMM28w"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 114459187,
+    "parent_children": 4,
+    "thread_id": 114430144,
+    "thread_children": 49,
+    "ratio_recv": -1,
+    "ratio_give": -2,
+    "grade_level": 12.6,
+    "word_count": 143,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "data analysis",
+      "media influence",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 162828875,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-f9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114480452,
+    "top_level": false,
+    "date": "May 04 2025 16:49",
+    "likes": 1,
+    "timestamp": 1746391742,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, you absolutely have to pay. I was too aware of that one and not gonna try to find it in an SEC filling to get the right order of magnitude. You could ChatGPT it to get the general cost structure."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Again, we were a marketing technology corp, so we'd absolutely talk about this in terms of an ad campaign; and not just jokingly. After all, we could've easily bought high impact, targeted impressions on any of a hundred of platforms using our own tech stack, and we were methodical in this expensive, external campaign."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, you gotta get all of your marketing talent into this single location, at a single point in time. Airfare and hotels alone gotta be around 6 figures or something. Not to mention opportunity costs!"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 114477959,
+    "parent_children": 2,
+    "thread_id": 114430144,
+    "thread_children": 49,
+    "ratio_recv": null,
+    "ratio_give": 1,
+    "grade_level": 8.5,
+    "word_count": 130,
+    "category": "Uncategorized",
+    "tags": [
+      "advertising revenue",
+      "business strategy",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 162828875,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-f9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114517773,
+    "top_level": false,
+    "date": "May 04 2025 19:52",
+    "likes": 1,
+    "timestamp": 1746402721,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And SCOTUS overturning Row vs. Wage gave the Democrats an abnormal boost in 2022, which as Yglesias explained at the time, decreased the natural midterm moderation following the electoral success of the opposition success in congress."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 114477830,
+    "parent_children": 4,
+    "thread_id": 114430144,
+    "thread_children": 49,
+    "ratio_recv": 1,
+    "ratio_give": -2,
+    "grade_level": 10.3,
+    "word_count": 36,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "abortion rights"
+    ]
+  },
+  {
+    "post_id": 162828875,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-f9b",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114528725,
+    "top_level": false,
+    "date": "May 04 2025 20:52",
+    "likes": 0,
+    "timestamp": 1746406364,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Could you elaborate on that one? I could personally think of a few different interpretations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, I'm increasingly using ChatGPT less in my non-professional life because it, has become a more effective and efficient tool. (Google Gemini too, particularly on a Pixel phone) Hence, I'm mainly just focusing on marketing it's current and prospective capabilities as well as analogs w/ well known social media and marketing technologies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Although you may have something totally different in mind with your comment and I'm certainly curious."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 114521135,
+    "parent_children": 2,
+    "thread_id": 114430144,
+    "thread_children": 49,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 10.9,
+    "word_count": 83,
+    "category": "Uncategorized",
+    "tags": [
+      "social media influence",
+      "tech industry"
+    ]
   }
 ]
