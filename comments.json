@@ -71576,7 +71576,7 @@
     "thread_id": 114430144,
     "thread_children": 50,
     "ratio_recv": 2,
-    "ratio_give": -7,
+    "ratio_give": -8,
     "grade_level": 11.2,
     "word_count": 182,
     "category": "Uncategorized",
@@ -71715,7 +71715,7 @@
     "thread_id": 114430144,
     "thread_children": 50,
     "ratio_recv": 1,
-    "ratio_give": -2,
+    "ratio_give": -3,
     "grade_level": 10.3,
     "word_count": 36,
     "category": "Uncategorized",
@@ -71800,14 +71800,159 @@
     ],
     "total_children": 1,
     "parent_id": 114600940,
-    "parent_children": 2,
+    "parent_children": 25,
     "thread_id": 114596364,
-    "thread_children": 10,
+    "thread_children": 74,
     "ratio_recv": null,
-    "ratio_give": -13,
+    "ratio_give": -54,
     "grade_level": 7.6,
     "word_count": 153,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Biden administration",
+      "Democratic Party",
+      "Federal Reserve",
+      "US politics",
+      "financial crisis"
+    ]
+  },
+  {
+    "post_id": 162913325,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-224",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 114795600,
+    "top_level": false,
+    "date": "May 05 2025 19:56",
+    "likes": 2,
+    "timestamp": 1746489401,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Ah, probably best that Bush/Gore took that one for all of us. It was embarrassing enough that a few of us teens in 2000 or so may have helped our parents be at ease with either of these candidates, from the perspective of a community of cool anarcho-capitalists, using the 99's hit song, \"Testify (Official HD Video) Rage Against The Machine\", "
+        },
+        {
+          "type": "url",
+          "value": "https://music.youtube.com/watch?v=Q3dvbM6Pias&si=t2cVCiUGylRiVBwS"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Video opens w/ a lovely montage of the Bush/Gore Chimera described as"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> He appears as two but speaks as one!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And who can forget the chorus!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Who controls the past now controls the future"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Who controls the present now controls the past"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Who controls the past now controls the future"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Who controls the present now?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I believe one of the adults informed us that we should consider reading Orwell's 1984 or at least watch Pirates of Silicon Valley again. At least RAGE was less on the nose about their explicit branding expertise than like Limp Bizkit or Marilyn Manson"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 114755710,
+    "parent_children": 5,
+    "thread_id": 114754439,
+    "thread_children": 27,
+    "ratio_recv": 1,
+    "ratio_give": -7,
+    "grade_level": 11.3,
+    "word_count": 160,
+    "category": "Uncategorized",
+    "tags": [
+      "historical analysis",
+      "media influence",
+      "political campaigns",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 163003374,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e79",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115150658,
+    "top_level": false,
+    "date": "May 07 2025 04:55",
+    "likes": 0,
+    "timestamp": 1746608149,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "[March 25, 2014, 2:46 am] by *Mission Local Staff* \"Questions Raised About the Fatal Police Shooting of Longtime Resident\", "
+        },
+        {
+          "type": "url",
+          "value": "https://missionlocal.org/2014/03/questions-raised-about-the-fatal-police-shooting-of-longtime-resident/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I lived in the vicinity, heard the shot and sirens, and was subsequently questioned, including by both the police and some sort of defense/activist group. Thankfully, I don't recall any useful details anymore. Cool that there's a wiki writeup now, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Killing_of_Alex_Nieto"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115042784,
+    "parent_children": 2,
+    "thread_id": 115040850,
+    "thread_children": 8,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 9.8,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": [
+      "activism",
+      "crime and justice",
+      "public safety"
+    ]
   }
 ]
