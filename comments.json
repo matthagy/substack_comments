@@ -71804,7 +71804,7 @@
     "thread_id": 114596364,
     "thread_children": 74,
     "ratio_recv": null,
-    "ratio_give": -54,
+    "ratio_give": -56,
     "grade_level": 7.6,
     "word_count": 153,
     "category": "Uncategorized",
@@ -71953,6 +71953,42 @@
       "activism",
       "crime and justice",
       "public safety"
+    ]
+  },
+  {
+    "post_id": 162793856,
+    "title": "What cities can learn from Disney World",
+    "canonical_url": "https://www.slowboring.com/p/what-cities-can-learn-from-disney",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115174002,
+    "top_level": false,
+    "date": "May 07 2025 07:51",
+    "likes": 0,
+    "timestamp": 1746618716,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "And a brilliant measurement mechanism in social media mentions of student loan debt, including time, region, and cohort specificity. Eg, where in 2016 and then in 2024 where the complaints loudest and hardest to block. Who spent the most marketing those narratives on Reddit in 2014 and 2010. Could probably even link this to some 50s era marketing projects."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115160787,
+    "parent_children": 4,
+    "thread_id": 115160787,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -19,
+    "grade_level": 7.9,
+    "word_count": 59,
+    "category": "Uncategorized",
+    "tags": [
+      "data analysis",
+      "social media influence",
+      "student debt"
     ]
   }
 ]
