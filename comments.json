@@ -71939,13 +71939,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 115042784,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 115040850,
-    "thread_children": 8,
-    "ratio_recv": null,
-    "ratio_give": -5,
+    "thread_children": 12,
+    "ratio_recv": 0,
+    "ratio_give": -8,
     "grade_level": 9.8,
     "word_count": 59,
     "category": "Uncategorized",
@@ -71965,7 +71965,7 @@
     "id": 115174002,
     "top_level": false,
     "date": "May 07 2025 07:51",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1746618716,
     "body": [
       [
@@ -71975,13 +71975,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 115160787,
-    "parent_children": 4,
+    "parent_children": 23,
     "thread_id": 115160787,
-    "thread_children": 4,
-    "ratio_recv": null,
-    "ratio_give": -19,
+    "thread_children": 23,
+    "ratio_recv": -1,
+    "ratio_give": -93,
     "grade_level": 7.9,
     "word_count": 59,
     "category": "Uncategorized",
@@ -71990,5 +71990,463 @@
       "social media influence",
       "student debt"
     ]
+  },
+  {
+    "post_id": 162793856,
+    "title": "What cities can learn from Disney World",
+    "canonical_url": "https://www.slowboring.com/p/what-cities-can-learn-from-disney",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115283971,
+    "top_level": false,
+    "date": "May 07 2025 14:35",
+    "likes": 0,
+    "timestamp": 1746642951,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just remembered the obvious 2016 solution, r/SandersForPresident. Seems to still have 503.7K+ followers. Hopefully that's nothing but Russian bots by now. Even the associated Twitter users have long moved on from that concern"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115174002,
+    "parent_children": 2,
+    "thread_id": 115160787,
+    "thread_children": 23,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 7.7,
+    "word_count": 33,
+    "category": "Uncategorized",
+    "tags": [
+      "Russia-Ukraine conflict",
+      "US politics",
+      "public misinformation"
+    ]
+  },
+  {
+    "post_id": 163003374,
+    "title": "Tuesday thread",
+    "canonical_url": "https://www.slowboring.com/p/tuesday-thread-e79",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115289478,
+    "top_level": false,
+    "date": "May 07 2025 14:56",
+    "likes": 0,
+    "timestamp": 1746644200,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "*Correction: It was [March 16, 2014, 8:02 am] by *Erica Hellerstein* \"Shooting at 26th and Folsom\", "
+        },
+        {
+          "type": "url",
+          "value": "https://missionlocal.org/2014/03/shooting-at-26th-and-folsom/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Rather crazy how close in time those two incidents were. Moreover, I can't seem to find the details for this one, despite the fact that the defense/activists group contacted me for years after the incident, including visiting me after years later after I had moved to another apartment."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Wondering if they were trying to construct a pattern of evidence to conspire against the police officers charged in the Mar 25th trial? I even joking suggested that one to the first person who visited me in my original apartment to ask about the incident, because I had already told the police everything that I could remember. Yet this asshole was quite aggressive in looking for any other \"clues\" to help out their client. I kept laughing and saying \"just use the police report, unless they wanted to commit fraud or something.\""
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115150658,
+    "parent_children": 2,
+    "thread_id": 115040850,
+    "thread_children": 12,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 12.3,
+    "word_count": 156,
+    "category": "Uncategorized",
+    "tags": [
+      "activism",
+      "crime and justice",
+      "public safety"
+    ]
+  },
+  {
+    "post_id": 163086047,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-f4e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115363852,
+    "top_level": false,
+    "date": "May 07 2025 20:07",
+    "likes": 1,
+    "timestamp": 1746662853,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Same. I'm using Twitter and don't wanna just copy and paste a lot of BS into yet another network. Maybe we all just give it a few days and think of it like:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Wow, what were professors in accounting thinking when students showed them how Excel works? Like in the 1980's or something? Hope they weren't thinking about their own private investments in like f-ing text books or earlier competitors (VisiCalc 79). Likely not, because Tenure was all they thought about and then internal status competitions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> If they were thinking about how to us Excel, even how to teach it, that would be great! Even fine if they wanted to consult on it or sell their own \"fill in the blank\" spreadsheet. Probably couldn't sell that to Walmart (unless it ran on a 1975 IBM mainframe or equivalent minicomputer), but some small business owner somewhere might want."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Even just a mail order antique shop, working from their own attic. Maybe themselves or a friend who could afford the large capital outlaw of an actual PC (Apple Macintosh, 85). That was very expensive US$2,495 (equivalent to $7,600 in 2024). Better appreciate CapEx vs OpEx and cash flow expectations over the next few years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Definitely wouldn't be selling it to that VP hedge fund guy having a midlife crisis trying to raise a measly $1m in 1994; at least not for a while. (Remember we're in the 80's) And he probably wanted his own bespoke Excel model anyways, not a template that you just fill in. Could explain his capital raising challenges and weird capital structure. He probably should've just bought your template and just kept converting emails into faxes and phones calls to all these existing mail order book stores. Even direct to publishers if you wanted like 100 in expectation of future sales."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Maybe all those Microsoft employees in Seattle could explain how their internal bookstore was populated. Definitely wasn't one at a time unless you were convinced no one else would want one because otherwise shipping cost would be equivalent to each book. And you worked with many of them on the other direction. Like boy did it suck when the publishers themselves couldn't convert your internal Word docs into something you could package w/ a stack of floppy disks (later a single CD) for sale to consumers through a multitude of different channels."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Would you license a PDF converter or equiv from whomever for that one? Anyone you could steal this one from? Even Apple, again? Probably just build it at Microsoft to solve another f-ing software integration issue again. Then you'd just give it, along w/ Word, to Intel and all of your suppliers and distributors and other difficult to work with counterparties like Walmart and garage-based competitors. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "^ The above is some silly exercise many people were preparing in the mid 2000's so they get a **real job** in finance, including something about backwards looking models or history or something. Too bad they weren't forward looking enough (or lazy enough) to just be wasting time in some poorly paid research program when the GFC got real enough to wipe out some financial firms. No one wanted to be making and licensing spreadsheet templates then, particularly if they were lazy enough to buy these for course completion cheat sheet or something in the 2000's."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Anyways, not gonna copy and paste the equivalent 30 tweet silliness that are just marketing stuff on X or whatever. Not gonna paste in the Google Search results for the details above; you all know how to do that or ChatGPT it or not care. I actually need these SB messages to measure community semantic stuff and I don't wanna constructively became an easy to identify SPAM message or whatnot."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115340018,
+    "parent_children": 3,
+    "thread_id": 115325686,
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": -41,
+    "grade_level": 8.6,
+    "word_count": 626,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 163086047,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-f4e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115373390,
+    "top_level": false,
+    "date": "May 07 2025 20:55",
+    "likes": 1,
+    "timestamp": 1746665731,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Does it work though? Like is it incentivizing all stakeholders, including the student themselves, to improve performance? Even lazy students just become a motivational issue if someone cares enough to make the student care. Like an increasingly strict teacher, parent, or other disciplinarian."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Has everyone learned that none of this matters and if so why? If so, then I guess the war against testing succeeded in delegitimizing tests in the eyes of everyone."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Maybe we just gotta add back some legible and direct incentives. Even just disincentivize alternatives to a comfortable life as an ignorant idiot if we can't think of anything else."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 115371330,
+    "parent_children": 4,
+    "thread_id": 115338466,
+    "thread_children": 10,
+    "ratio_recv": 1,
+    "ratio_give": 0,
+    "grade_level": 8.3,
+    "word_count": 103,
+    "category": "Uncategorized",
+    "tags": [
+      "education reform"
+    ]
+  },
+  {
+    "post_id": 163086047,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-f4e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115377697,
+    "top_level": false,
+    "date": "May 07 2025 21:17",
+    "likes": 0,
+    "timestamp": 1746667052,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Okay. Well, that might be happening regardless, with four years of Trump and whatever corrupt deals he\u2019s trying to put together. Eg, We could end up with millions more unemployed, and that might teach a hell of a lesson to someone. Particularly if those millions of people have kids they can\u2019t provide for as well due to layoffs at their failing employer."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully, at least someone remembers the core lesson of Occupy Wall Street: if you\u2019re going to put together a large event, you\u2019d better have a plan for what you want to accomplish\u2014even if it\u2019s just having a lot of fun. It would suck if all you get is increasingly aggressive NPCs who just keep telling you to f-off."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Some of them may even know enough to have an increasingly difficult and disappointing conversation about \u201chow things are really going for you as well.\u201d As a lazy and bored NPC, I think I may have even began to finally learn something about macroeconomics after some repeated interactions."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hopefully JPow and associated don't forget how macro works and need OWS 2.0 to teach us all again."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115374699,
+    "parent_children": 2,
+    "thread_id": 115338466,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 9.0,
+    "word_count": 186,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "economic inequality",
+      "economic policy"
+    ]
+  },
+  {
+    "post_id": 163086047,
+    "title": "Wednesday thread",
+    "canonical_url": "https://www.slowboring.com/p/wednesday-thread-f4e",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115383402,
+    "top_level": false,
+    "date": "May 07 2025 21:48",
+    "likes": 0,
+    "timestamp": 1746668881,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "The best is when we generate these new titles using computers. Like [oppositional defiant disorder] could be any three words, from a list of like 20, in any order. I think there are large number of permutations/combinations or something. With that we can generate a bunch of draft tweets using the template"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> \"[yet another randomized noun combination] laundered as political ideology\""
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "If we tweeted every one of them, we could even rank them in terms of likes. Could even develop a smart, step-by-step survey for better measurements. Something like:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">of the 5 nouns, which would you find to be the funniest representation of our political system."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> A. oppositional defiant disorder, laundered as political ideology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> B. yet another OWS inspired NGO, laundered as political ideology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> C. yet another plan to help people burdened by poor vocational and educational planning, laundered as political ideology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> D. one clever trick to get all of our student debt forgiven in 2016, laundered as political ideology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> E. don't we all just hate how all of these [random_choice_of(\"leftists\", \"Bernie Supporters\", \"Trump Supporters\", \"Warrenite Technocrats\", \"neoliberals\", \"racists\", \"sexists\", \"Europeans\")] are getting so good at \"laundering as political ideology\", laundered as political ideology"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And obviously E will be different for each survey; ie, each time you look at the webpage, you'll get a different choice in that templated survey option. That will be useful for when we determine which PAC we should use when emailing the survey test subject with requests for donations. We can even populate an email subject line w/ the template \"[your enemies] are out raising us this week. Will you help us defeat them, again!\""
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 115336185,
+    "parent_children": 4,
+    "thread_id": 115331445,
+    "thread_children": 55,
+    "ratio_recv": null,
+    "ratio_give": -26,
+    "grade_level": 12.0,
+    "word_count": 270,
+    "category": "Uncategorized",
+    "tags": [
+      "political polarization",
+      "public misinformation",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 163088081,
+    "title": "Thursday thread",
+    "canonical_url": "https://www.slowboring.com/p/thursday-thread-1cc",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 115651715,
+    "top_level": false,
+    "date": "May 08 2025 20:35",
+    "likes": 3,
+    "timestamp": 1746750925,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Good reporting on Twitter today, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/EudaimoniaEsq/status/1920553343065182296"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The editors for the Wikipedia page for Pope Leo XIV are freaking out about how to not say he\u2019s American. Go look. Go look at the \u201cTalk\u201d page. Hilarious and amazing"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Talk Page: "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Talk:Pope_Leo_XIV"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Highlights"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The first search result for \"United States\", it is deep in some thread, misspelling indicates it was likely written quickly as part of a heated debate"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> You misunderstand that fact. It is not degrading to be considered Black. It is a fact, if that is how one is treated. Furthermore, tbe One Drop Rule was invented, alongside race, and racism to try to justify slavery, and increase the number of enslaved people. You seem focused on the Pope's personal background and how he is treated. That is how this became relevant. In the United States, he would be considered a Black person"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "2nd result, again it's also a reply in a thread"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> He has lived and voted in the United States numerous times. Saying American-born would lack context."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "3rd one"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I second that he is American and that we explicitly mean, in English, someone is from the United States of America by this and that it\u2019s not wrong or confusing to say this."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are currently 42 results for \"United States\" and 109 for \"American\". I'm obviously not going to copy all of them here for posterity. Believe the Talk Page link will be a much better archive"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 115604675,
+    "parent_children": 7,
+    "thread_id": 115604675,
+    "thread_children": 7,
+    "ratio_recv": -1,
+    "ratio_give": -26,
+    "grade_level": 7.5,
+    "word_count": 237,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
