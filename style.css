@@ -45,6 +45,12 @@ h1 {
     font-size: 15px;
 }
 
+#terminal-advice {
+    margin-top: 20px;
+    margin-bottom: 90px;
+    font-size: 12px;
+}
+
 #controls {
     margin-bottom: 20px;
     border: 1px solid #444444;
@@ -79,13 +85,16 @@ select {
         padding: 1em; /* Add breathing room */
         overflow: hidden; /* Prevent elements from spilling out */
     }
+
     input, select {
         max-width: 100%; /* Use full width of the container */
     }
+
     #search {
         min-width: 20em;
         width: 100%; /* Make it responsive */
     }
+
     #category {
         max-width: 20em;
     }

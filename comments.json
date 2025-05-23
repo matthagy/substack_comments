@@ -72228,5 +72228,129 @@
       "business strategy",
       "economic policy"
     ]
+  },
+  {
+    "post_id": 163892157,
+    "title": "Where should new cities go?",
+    "canonical_url": "https://www.slowboring.com/p/where-should-new-cities-go",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 119073304,
+    "top_level": false,
+    "date": "May 21 2025 16:42",
+    "likes": 0,
+    "timestamp": 1747860146,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Probably lower than in 2004-08 and it was boring low back then. Like ATL would've laughed at our understanding of crime in our back in time loop concurrently."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 118931060,
+    "parent_children": 13,
+    "thread_id": 118916363,
+    "thread_children": 88,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 6.4,
+    "word_count": 28,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164078281,
+    "title": "ChatGPT is shockingly bad at poker",
+    "canonical_url": "https://www.natesilver.net/p/chatgpt-is-shockingly-bad-at-poker",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 119094181,
+    "top_level": true,
+    "date": "May 21 2025 18:04",
+    "likes": 0,
+    "timestamp": 1747865094,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but that is good and seems comparable to human performance throughout their training on non-deterministic work. Otherwise we'd just invest in more infrastructure. It\u2019s generally good that we can count on our trainees\u2019 work to augment our own while we invest in building them up. Otherwise, why would we invest in the pro-social mission unless we were concerned with our own genetic lineages and basic mammalian instincts?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, we don\u2019t need Tesla cars or humanoids to get ahead of our own behavior as we increasingly use them to manage physical work. The car should definitely prioritize its own riders over a cyclist or a pedestrian\u2014unless the car or other vehicles are devoid of biological cargo."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 119094181,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 10.9,
+    "word_count": 117,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 163972269,
+    "title": "Banning lab-grown meat is stupid",
+    "canonical_url": "https://www.slowboring.com/p/banning-lab-grown-meat-is-stupid",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 119223208,
+    "top_level": false,
+    "date": "May 22 2025 08:26",
+    "likes": 0,
+    "timestamp": 1747916786,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "By default, we should just eliminate complex projections that go beyond a human comprehensible time frame. Eg, 6 months. We can then measure stuff like changes to consumer sentiment, voter sentiment, financial market forecasts, global temperatures and humidity, population levels, etc. At the minimum, that'll minimize the risk of technocratic failures and give politician's the opportunities to work at yearly intervals, including multi-decade plans that are continuously adapting and evolving."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yes, there will commonly be collateral damge. Eg, global pandemics and supply chain issues, people dying due to assorted failures of treatment and poor behavior, full out violent conflicts. Even just differential changes to localized climates over the course of decades could be devastating to local population flourishing and create vicious violent destruction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, \"The Economy of the Third Reich: How to finance War against the World? | FD Finance\", "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/VXnuIbGCYG8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But ultimately, we are continuously discovering failures of past and present elites and we need to win back some degree of credibility. And with faster information tech and more sophisticated financial markets, we might as well start paying the costs sooner rather than later. Otherwise, the world will decay until it's nothing more than Tesla Bots attempting to terraform Mars into producing more Tesla Bots and Cars."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 119203384,
+    "parent_children": 4,
+    "thread_id": 119200737,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -8,
+    "grade_level": 11.8,
+    "word_count": 207,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
