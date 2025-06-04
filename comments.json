@@ -72786,7 +72786,7 @@
     "id": 121101838,
     "top_level": false,
     "date": "May 29 2025 07:23",
-    "likes": 21,
+    "likes": 34,
     "timestamp": 1748517780,
     "body": [
       [
@@ -72802,13 +72802,13 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 5,
     "parent_id": 121093324,
-    "parent_children": 28,
+    "parent_children": 46,
     "thread_id": 121093324,
-    "thread_children": 28,
-    "ratio_recv": -1,
-    "ratio_give": -7,
+    "thread_children": 46,
+    "ratio_recv": 5,
+    "ratio_give": -1,
     "grade_level": 12.3,
     "word_count": 182,
     "category": "Uncategorized",
@@ -72830,7 +72830,7 @@
     "id": 121104295,
     "top_level": false,
     "date": "May 29 2025 07:35",
-    "likes": 5,
+    "likes": 8,
     "timestamp": 1748518525,
     "body": [
       [
@@ -72858,17 +72858,624 @@
     ],
     "total_children": 1,
     "parent_id": 121096087,
-    "parent_children": 12,
+    "parent_children": 15,
     "thread_id": 121096087,
-    "thread_children": 12,
+    "thread_children": 15,
     "ratio_recv": null,
-    "ratio_give": -15,
+    "ratio_give": -22,
     "grade_level": 11.3,
     "word_count": 123,
     "category": "Uncategorized",
     "tags": [
       "Donald Trump",
       "US politics"
+    ]
+  },
+  {
+    "post_id": 164885569,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday-thread-193",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 121961779,
+    "top_level": false,
+    "date": "Jun 01 2025 11:21",
+    "likes": 0,
+    "timestamp": 1748791260,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although to some extent this GenAI hype cycle is just a continuation of the digital info tech revolution starting in the 1960s. Moreover, the 90s hype cycle was very real in terms of the productivity gains of Microsoft Office, corp intranets, and assorted proprietary software [1] drastically increasing knowledge work productivity. That includes eliminating a lot of middle management and admin roles. Many people had to take early retirement or make drastic, midlife career changes."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Additionally, even early internet tools of Yahoo, web forums, and Lexis Nexus in the 90s drastically increased the availability of information for education and entertainment. Google Search and Wikipedia circa 2004 were amazing and increasingly convinced many of us that conventional education was outdated. Furthermore, we already had the kernels of GenAI tech in these early internet-scale tools (using info theory and modeling methods decades in the making), we just needed another decade or two to massively scale out the hardware and software systems, as well as collect massive amounts of user generated content and license (or steal) copyrighted content."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So while there likely is a lot of hype in the current cycle, there will also certainly be some very meaningful and lasting economic impacts. That includes large disruptions to knowledge work as well as increasing degrees of automation throughout manufacturing, disruption, and even warfare (ie, autonomous drones). No one knows the details of the timeline, including pullbacks and crashes in the hype cycle. But I certainly wouldn't be on returning to the early 2010's tech landscape."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=OUoKrdB9BjU"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 121786981,
+    "parent_children": 4,
+    "thread_id": 121771227,
+    "thread_children": 49,
+    "ratio_recv": null,
+    "ratio_give": -14,
+    "grade_level": 13.5,
+    "word_count": 254,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "education reform",
+      "generative AI",
+      "tech industry"
+    ]
+  },
+  {
+    "post_id": 164947606,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-56c",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 121999959,
+    "top_level": false,
+    "date": "Jun 01 2025 13:51",
+    "likes": 2,
+    "timestamp": 1748800297,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yglesias briefly commented on how he's incorporated ChatGPT Deep Research into his work in the Feb 21, 2025 mailbag, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/mailbag-when-to-ring-the-alarm"
+        },
+        {
+          "type": "text",
+          "value": " . Mainly focus on commissioning \"research summaries\" for topic that would otherwise require the time and money of a human researcher, but not possibly warranting the diligence of publishable facts. Ie, background reading"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 121991582,
+    "parent_children": 3,
+    "thread_id": 121991582,
+    "thread_children": 3,
+    "ratio_recv": 0,
+    "ratio_give": -4,
+    "grade_level": 11.1,
+    "word_count": 51,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122471662,
+    "top_level": false,
+    "date": "Jun 03 2025 08:23",
+    "likes": 8,
+    "timestamp": 1748953404,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. See the details of the Citizens United lawfare. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But more importantly, with the advent of GenAI and our increasingly fragmented media ecosystem, we don't even need that much concentrated money to sway people understanding of reality anymore. Eg, just use bots on Reddit appropriately [2] and subsidize/market high-impact, paid media. Even just state coercion and private ownership of some media channels could be enough to impact our political information systems without the need for any explicit \"money in politics\"."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, Trump not enforcing the TikTok ban while he's also suing ABC, private ownership of Twitter/X, Zuckerberg's guaranteed control of Meta's board, Billionaire private ownership/control of NYT and WP, bot-based info-terrorism against BlueSky and Reddit, etc."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] From my Jun 2024 comment, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/moderate-donors-should-do-something/comment/58043732"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As demonstrated in the Citizens United case, we can't restrict spending on political messaging due to the 1st amendment as well as the subjectivity in differentiating between political messaging and commercial/creative expression. People and organization can spend their own money on promoting whatever message they want, including political messaging."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And I think that was the right call!"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Recall that Citizens United began by trying to block the release of Michael Moore's Fahrenheit 9/11 in the lead up the 2004 election under the terms of the 2002 Bipartisan Campaign Reform Act. The Federal Election Commission allowed that film (rightfully so IMO), so CU attempted to create a mirror image film smearing Hillary Clinton, for release around the 2008 election. The FEC blocked that one, and when CU sued, the courts recognized the subjectivity in differentiating political speech from create/commercial speech. Moreover, the 1st amendment doesn't even have a carve out for political speech restrictions so its a moot point."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] See details in "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/friday-thread-1af/comment/80408166"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122459424,
+    "parent_children": 3,
+    "thread_id": 122450448,
+    "thread_children": 30,
+    "ratio_recv": null,
+    "ratio_give": 5,
+    "grade_level": 13.0,
+    "word_count": 285,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "media influence",
+      "political strategy",
+      "social media influence"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122492517,
+    "top_level": false,
+    "date": "Jun 03 2025 09:44",
+    "likes": 2,
+    "timestamp": 1748958289,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Here's a credible-enough list of 197 publicly traded REITs. "
+        },
+        {
+          "type": "url",
+          "value": "https://stockanalysis.com/list/reit-stocks/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The largest has a market cap of 102.75B and the smallest is 1.90M. These seem shockingly small with respect to other publicly traded securities, but it does suggest we could attack the entire sector because they may add up to at least trillion in aggregate. If we do that, we will need someone else prepared to own these assets, so maybe we could just gift them to the Trump organization as part of legislation to outlaw REITs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I believe REITs primarily represent certain tranches of the equity portions of building ownership and management, so we could also look into the debt/mortgage assets, as well as more bespoke combinations of debt/equity like warrants and options. I believe these securities are more of an over-the-counter product for which there is less public markets info."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Thankfully Google Search shows a lot of paid ads for these investment services related to real estate debt investing, so I hopefully some financial professional could help us figure out the next layers of private capital to reappropriate. Eg, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.commercialrealestate.loans/commercial-real-estate-glossary/real-estate-debt-funds/"
+        },
+        {
+          "type": "text",
+          "value": " suggests we're looking at around $700B in commercial real estate loans, circa 2018"
+        }
+      ]
+    ],
+    "total_children": 5,
+    "parent_id": 122476765,
+    "parent_children": 7,
+    "thread_id": 122450448,
+    "thread_children": 30,
+    "ratio_recv": -1,
+    "ratio_give": -1,
+    "grade_level": 11.8,
+    "word_count": 195,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122534692,
+    "top_level": false,
+    "date": "Jun 03 2025 12:09",
+    "likes": 0,
+    "timestamp": 1748966995,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Simple answer: Most public corps have at most two equity (ie, stock) share classes, preferred and common, whereas a single corp can have dozens or more of different bond issuances as well as more complex offerings like warrants and options. Hence, there is far less interest in actively trading the non-stock offerings. At most these get wrapped up in to ETFs and mutual funds to provide an easier-to-value, more liquid, publicly traded financial vehicle for efficient trading."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, there has been an explosion in \"private credit funds\" (the debt analog of private equity) in the last decade to more competitively originate, intermediate, and hold bonds and other debt-like financial instruments. And there is increasing interest in more ETF-like vehicles to wrap up some of these bespoke offerings (eg, commercial real estate lending) for broader public investing."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The Bloomberg opinionist Matt Levine has written extensively on this topic over the last ~5 years. The private credit explosion has also come up elsewhere in financial media. There is certainly far more nuance than I appreciate, but this is my rough, non-AI assisted, understanding."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 122513446,
+    "parent_children": 4,
+    "thread_id": 122450448,
+    "thread_children": 30,
+    "ratio_recv": 1,
+    "ratio_give": -1,
+    "grade_level": 12.1,
+    "word_count": 181,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "financial markets",
+      "venture capital"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122538122,
+    "top_level": false,
+    "date": "Jun 03 2025 12:21",
+    "likes": 2,
+    "timestamp": 1748967678,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but the flip side is that those golden small landlords are likely forging profit by being overly tenant friendly. Fine if the owners are sufficiently wealthy, but I imagine there are retires that do struggle a bit due to suboptimal rental investment and management decisions. Eg, not exercising their right to a full two months when a lease is broken early or being overly attentive to tenant requests.*"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "And the same is true of other small businesses. Eg, a small, money losing cafe that is being subsidized by the owners wealthy parents so that they can provide a great experience, quality product, competitive prices, and worker friendly wages and workloads."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As I commonly remind us all, a Marxist America, with true uniform, central planning may be a step down in quality of life for many of us. Eg, ask a military enlistee lifer about QoL in on-base housing and other accommodations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Note that there are rental management firms that small landlords can hire for more efficient (and legally compliant) management. Eg, Berkshire Hathaway HomeServices Professional Realty, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.bhhspro.com/resources/property-management"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122483319,
+    "parent_children": 4,
+    "thread_id": 122457373,
+    "thread_children": 14,
+    "ratio_recv": null,
+    "ratio_give": -27,
+    "grade_level": 11.0,
+    "word_count": 177,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "class dynamics",
+      "economic inequality",
+      "elitism"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122603613,
+    "top_level": false,
+    "date": "Jun 03 2025 16:16",
+    "likes": 1,
+    "timestamp": 1748981775,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. And relatedly, my explanation should've added: debt raising capacity of a corp is limited by the ability to collect in bankruptcy. Corps with \"real\", physical assets\u2014like building holding companies\u2014have a lot of capacity, relative to IP-heavy companies. And there are good, pro-greedy-investor and pro-social reasons for debt vs. equity funding sources as well as thoughtful combinations. Eg, debt is safer because at least you get the building in bankruptcy and is therefore a better asset class for retires and people closer to retirement."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "A single corps thoughtful diversification can include multiple geographies. Although even then there will likely be multiple layers to the capital stack, including some bonds for investors that want highly specific vs. broad exposure. Eg, building specific vs. firm specific via corp shells like LLCs. And a private credit firm can already diversify their investments in terms of: geography, new vs. old, upscale vs. downscale, small vs. large building, etc, based on which specific securities, from which specific debtors, they buy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Furthermore, the limited partners may themselves already be diversifying across the private credit funds they invest with such that it there is fractal-like, complex network of considerations in the debt holding structure. But private credit has one key social consideration, relative to banks and publicly traded securities: the LPs can't quickly liquidate. Eg, the 2007-08 great financial crisis involved investment banks that were trading in relatively liquid mortgage backed securities, commonly using short term funding from overnight money market funds. Ie, the old school run on a \"commercial deposits and lending\" bank, but on steroids due to the complexity of highly liquid, interlocking markets. Conversely, when Harvard, CalPERS, or Black Rock [1] locks up $2b in a private credit investment, they aren't planning on quick liquidity; and if they sought it out they would expect to take a huge haircut from the sophisticated counterparty that they eventually found."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] To be clear, Black Rock is the lame mutual fund company that was spun out of the private investment shop named Black Stone. See their broad \"U.S. Mortgage Fund\", which includes commercial mortgages, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.blackrock.com/us/individual/products/227356/blackrock-us-mortgage-portfolio-inst-cl-fund"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122592160,
+    "parent_children": 2,
+    "thread_id": 122450448,
+    "thread_children": 30,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.7,
+    "word_count": 347,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "financial crisis",
+      "financial markets",
+      "financial regulation"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122606640,
+    "top_level": false,
+    "date": "Jun 03 2025 16:27",
+    "likes": 0,
+    "timestamp": 1748982454,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but that perception could just stem from PE being the only willing buyer when a small business owner wants out at a decent price. Sure they could gift it to their children, who would run it to the ground, or sell for cheap to someone on their staff. But if the SMB owner actually wants to retire and provide for their children, then PE might offer them the best terms. Moreover, PE could be incentivized to buy due to the owner largely arbitraging their own time to create consumer and worker surplus. Eg, install professional management, raise prices, tighten up work requirements, and collect above average profit until consumers and the market fully adapts over the course of years."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "But again, what is the alternative? Should the owner give up some of the sales value to hopefully find another sucker that can work 80 hr/wk for the benefit of other workers and the customers? Including the risk that the new owner could go bankrupt if the fail. That same person could manage the firm under PE ownership for 50 hr/wk and higher pay, including a variable bonus structure. PE might even give them the option to incrementally buy into the equity ownership. But I don't think we should count on overly charitable owners forever. After all, eventually even that will fail once some finds the Walmart or Amazon approach to competing at scale, possibly using tech advances in automation or just disintermediation a la Uber and Task Rabbit."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 122503971,
+    "parent_children": 4,
+    "thread_id": 122454405,
+    "thread_children": 25,
+    "ratio_recv": 1,
+    "ratio_give": -13,
+    "grade_level": 10.2,
+    "word_count": 249,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "business strategy",
+      "economic inequality",
+      "economic policy"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122616152,
+    "top_level": false,
+    "date": "Jun 03 2025 17:03",
+    "likes": 0,
+    "timestamp": 1748984606,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Forget the fan fiction. I can assure that Jefferson/Hamilton dispute was quite real and there's some amazing historical media of various accuracy and maturity levels as well as entertainment quality throughout the last few hundred years of US history."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even just learning about the growing depravity of the Confederates during our Civil War and how that increasing motivated what could appear to be an \"ethnic cleansing\" exercise in Sherman's March to the Sea could lead to some riveting discussions in contemporary US political discourse. You could start at Andersonville Prison [1] and augment that with the Confederates massacring surrendering black regiments, including their northern white officers. Those reports certainly shattered the myth of southern chivalry as we increasingly reorganized our northern industrial capacity into a war machine that would accept nothing but unconditional surrender."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is also some great strategic brilliance in how Grant retraced certain lines of attack used in conquering and settling the west to increasingly fragment the confederate territories. Eg, the Mississippi campaign leading to the capture of New Orleans to cut off the waterways and associated rail and telegraph lines. He certainly knew his military history and appreciated logistics for physical goods and information! There was also a clever legal strategy in reversing the \"people as property\" belief to capture black slaves as contraband military goods before we had the courage to actually abolish slavery. Turned out they were all quite motivated to at least follow the along in the Union war machine, seeing as we had destroyed the Confederate's meager agricultural society necessary for substance. And many were chomping at the bit to train, fight, and even die in our army of vengeance."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So anyways, about rent seeking in suspect legal protections for archaic business structures in our modern Jefferson/Hamilton disputes..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Andersonville_Prison"
+        },
+        {
+          "type": "text",
+          "value": " and YouTube videos like "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=w_WS5yAzME4"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=C6B3LbMM8no"
+        },
+        {
+          "type": "text",
+          "value": " . There's also a decent enough 1996 movie that could at least hold the attention of my 8th grade history class for two days, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=KM64E9yKRj0"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122454018,
+    "parent_children": 2,
+    "thread_id": 122454018,
+    "thread_children": 2,
+    "ratio_recv": null,
+    "ratio_give": -21,
+    "grade_level": 13.5,
+    "word_count": 325,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "political strategy"
+    ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122618852,
+    "top_level": false,
+    "date": "Jun 03 2025 17:14",
+    "likes": 0,
+    "timestamp": 1748985245,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, I'm agreeing with you. I'm stating that the existing owner could've already done that but didn't because they either \"believed the business would live forever\" or they were engaging some pro-consumer charity exercise. They've could just raised prices and donated to EA. I certainly hope they were honest about their tax accounting and not putting their own personal vehicle under as a business expense. Corp audits would never allow that."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, the following line is BS:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> PE loading up a company with debt in clever ways that leaves other parties holding the bag"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Who do you think is on the other side of that trade, if not a Private Credit shop? Moreover, both the PE and PC shop may have the same LPs, if not the same parent firm and branding. Eg, Black Stone and Bridge Water have massive PCs funds. And all financial incentives motivate ruthless, competitive behavior. Eg, I'll issue you debt on draconian terms, hoping your PE investment goes bankrupt so I can acquire the same assets with ease and less capital at risk. Maybe just sell it to another PE shop if they'll also issue debt to my PC fund."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There is the general concern around \"financialization\", but again, think back to the owner-operator who believed their business would last forever due to good honest management. How many consumers remain loyal when competition offers better pricing or service? What if their niche is eliminated due to technological advances or changes in consumer preferences? At least PE shops recognize and manage these risks and their LPs can accept some failures due to diversification. Some small business owners do the same, but then they are no different from a PE owned firm."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122615051,
+    "parent_children": 2,
+    "thread_id": 122454405,
+    "thread_children": 25,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 9.1,
+    "word_count": 285,
+    "category": "Uncategorized",
+    "tags": [
+      "business strategy",
+      "corporate accountability",
+      "economic inequality",
+      "financial markets",
+      "financial regulation"
     ]
   }
 ]
