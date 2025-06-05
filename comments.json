@@ -73542,7 +73542,12 @@
     "grade_level": 11.9,
     "word_count": 378,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Republican Party",
+      "automation",
+      "healthcare complexity",
+      "social security"
+    ]
   },
   {
     "post_id": 164830027,
@@ -73580,7 +73585,13 @@
     "grade_level": 12.3,
     "word_count": 140,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "automation",
+      "bureaucracy",
+      "political strategy",
+      "tax policy"
+    ]
   },
   {
     "post_id": 164830027,
@@ -73624,7 +73635,11 @@
     "grade_level": 11.1,
     "word_count": 120,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "automation",
+      "corporate accountability",
+      "tech industry"
+    ]
   },
   {
     "post_id": 164830027,
@@ -73668,6 +73683,11 @@
     "grade_level": 10.7,
     "word_count": 132,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Democratic Party",
+      "MAGA",
+      "US politics",
+      "political strategy"
+    ]
   }
 ]
