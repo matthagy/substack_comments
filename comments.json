@@ -73044,7 +73044,7 @@
     "parent_id": 122459424,
     "parent_children": 7,
     "thread_id": 122450448,
-    "thread_children": 39,
+    "thread_children": 41,
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 13.0,
@@ -73111,7 +73111,7 @@
     "parent_id": 122476765,
     "parent_children": 7,
     "thread_id": 122450448,
-    "thread_children": 39,
+    "thread_children": 41,
     "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 11.8,
@@ -73155,7 +73155,7 @@
     "parent_id": 122513446,
     "parent_children": 4,
     "thread_id": 122450448,
-    "thread_children": 39,
+    "thread_children": 41,
     "ratio_recv": 1,
     "ratio_give": -1,
     "grade_level": 12.1,
@@ -73236,7 +73236,7 @@
     "id": 122603613,
     "top_level": false,
     "date": "Jun 03 2025 16:16",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1748981775,
     "body": [
       [
@@ -73272,9 +73272,9 @@
     "parent_id": 122592160,
     "parent_children": 2,
     "thread_id": 122450448,
-    "thread_children": 39,
+    "thread_children": 41,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": 1,
     "grade_level": 9.7,
     "word_count": 347,
     "category": "Uncategorized",
@@ -73296,7 +73296,7 @@
     "id": 122606640,
     "top_level": false,
     "date": "Jun 03 2025 16:27",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1748982454,
     "body": [
       [
@@ -73316,9 +73316,9 @@
     "parent_id": 122503971,
     "parent_children": 6,
     "thread_id": 122454405,
-    "thread_children": 28,
+    "thread_children": 29,
     "ratio_recv": 1,
-    "ratio_give": -13,
+    "ratio_give": -14,
     "grade_level": 10.2,
     "word_count": 249,
     "category": "Uncategorized",
@@ -73401,13 +73401,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 122454018,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 122454018,
-    "thread_children": 2,
-    "ratio_recv": null,
-    "ratio_give": -21,
+    "thread_children": 4,
+    "ratio_recv": -1,
+    "ratio_give": -22,
     "grade_level": 13.5,
     "word_count": 325,
     "category": "Uncategorized",
@@ -73426,7 +73426,7 @@
     "id": 122618852,
     "top_level": false,
     "date": "Jun 03 2025 17:14",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1748985245,
     "body": [
       [
@@ -73464,7 +73464,7 @@
     "parent_id": 122615051,
     "parent_children": 4,
     "thread_id": 122454405,
-    "thread_children": 28,
+    "thread_children": 29,
     "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 9.1,
@@ -73536,9 +73536,9 @@
     "parent_id": 122748144,
     "parent_children": 9,
     "thread_id": 122741754,
-    "thread_children": 71,
-    "ratio_recv": 3,
-    "ratio_give": -11,
+    "thread_children": 78,
+    "ratio_recv": 4,
+    "ratio_give": -12,
     "grade_level": 11.9,
     "word_count": 378,
     "category": "Uncategorized",
@@ -73579,7 +73579,7 @@
     "parent_id": 122775945,
     "parent_children": 2,
     "thread_id": 122741754,
-    "thread_children": 71,
+    "thread_children": 78,
     "ratio_recv": null,
     "ratio_give": -3,
     "grade_level": 12.3,
@@ -73603,7 +73603,7 @@
     "id": 122842667,
     "top_level": false,
     "date": "Jun 04 2025 12:50",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1749055816,
     "body": [
       [
@@ -73629,8 +73629,8 @@
     "parent_id": 122803588,
     "parent_children": 3,
     "thread_id": 122741754,
-    "thread_children": 71,
-    "ratio_recv": 0,
+    "thread_children": 78,
+    "ratio_recv": 1,
     "ratio_give": -5,
     "grade_level": 11.1,
     "word_count": 120,
@@ -73677,9 +73677,9 @@
     "parent_id": 122862799,
     "parent_children": 2,
     "thread_id": 122741754,
-    "thread_children": 71,
+    "thread_children": 78,
     "ratio_recv": null,
-    "ratio_give": -1,
+    "ratio_give": -3,
     "grade_level": 10.7,
     "word_count": 132,
     "category": "Uncategorized",
@@ -73689,5 +73689,81 @@
       "US politics",
       "political strategy"
     ]
+  },
+  {
+    "post_id": 164720314,
+    "title": "An abundance agenda for antitrust policy",
+    "canonical_url": "https://www.slowboring.com/p/an-abundance-agenda-for-antitrust",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 123079607,
+    "top_level": false,
+    "date": "Jun 05 2025 09:43",
+    "likes": 0,
+    "timestamp": 1749131019,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I lazily learned about this stuff in primary school through entertaining media products, chiefly computer simulations like Rainbow 6 and Microsoft Flight Simulator. Eg, team-based simulations of the 1999 hit, \"The Rock\" [1] and the 1998 dud, \"The Faculty\". [2] Iron Maiden's Ace High was also riveting. [3]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I then reviewed as necessary using Yahoo, Alta Vista, Lexis Nexus, Google, plagiarized college essays, Wikipedia, and increasingly bespoke information theory SaaS. Eg, Amazon Prime and YouTube recommendations"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=T4O5LccxCDo"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=praQkvivkUE"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=_IpLJvd_ukw"
+        },
+        {
+          "type": "text",
+          "value": " and "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=4sFewhTAdjs"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122991284,
+    "parent_children": 2,
+    "thread_id": 122454018,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 10.7,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
