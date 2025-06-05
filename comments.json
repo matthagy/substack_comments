@@ -73042,9 +73042,9 @@
     ],
     "total_children": 1,
     "parent_id": 122459424,
-    "parent_children": 3,
+    "parent_children": 7,
     "thread_id": 122450448,
-    "thread_children": 30,
+    "thread_children": 39,
     "ratio_recv": null,
     "ratio_give": 5,
     "grade_level": 13.0,
@@ -73067,7 +73067,7 @@
     "id": 122492517,
     "top_level": false,
     "date": "Jun 03 2025 09:44",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1748958289,
     "body": [
       [
@@ -73111,8 +73111,8 @@
     "parent_id": 122476765,
     "parent_children": 7,
     "thread_id": 122450448,
-    "thread_children": 30,
-    "ratio_recv": -1,
+    "thread_children": 39,
+    "ratio_recv": -2,
     "ratio_give": -1,
     "grade_level": 11.8,
     "word_count": 195,
@@ -73155,7 +73155,7 @@
     "parent_id": 122513446,
     "parent_children": 4,
     "thread_id": 122450448,
-    "thread_children": 30,
+    "thread_children": 39,
     "ratio_recv": 1,
     "ratio_give": -1,
     "grade_level": 12.1,
@@ -73177,7 +73177,7 @@
     "id": 122538122,
     "top_level": false,
     "date": "Jun 03 2025 12:21",
-    "likes": 2,
+    "likes": 4,
     "timestamp": 1748967678,
     "body": [
       [
@@ -73215,7 +73215,7 @@
     "thread_id": 122457373,
     "thread_children": 14,
     "ratio_recv": null,
-    "ratio_give": -27,
+    "ratio_give": -28,
     "grade_level": 11.0,
     "word_count": 177,
     "category": "Uncategorized",
@@ -73272,7 +73272,7 @@
     "parent_id": 122592160,
     "parent_children": 2,
     "thread_id": 122450448,
-    "thread_children": 30,
+    "thread_children": 39,
     "ratio_recv": null,
     "ratio_give": 0,
     "grade_level": 9.7,
@@ -73296,7 +73296,7 @@
     "id": 122606640,
     "top_level": false,
     "date": "Jun 03 2025 16:27",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1748982454,
     "body": [
       [
@@ -73312,11 +73312,11 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 5,
     "parent_id": 122503971,
-    "parent_children": 4,
+    "parent_children": 6,
     "thread_id": 122454405,
-    "thread_children": 25,
+    "thread_children": 28,
     "ratio_recv": 1,
     "ratio_give": -13,
     "grade_level": 10.2,
@@ -73339,7 +73339,7 @@
     "id": 122616152,
     "top_level": false,
     "date": "Jun 03 2025 17:03",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1748984606,
     "body": [
       [
@@ -73426,7 +73426,7 @@
     "id": 122618852,
     "top_level": false,
     "date": "Jun 03 2025 17:14",
-    "likes": 0,
+    "likes": 2,
     "timestamp": 1748985245,
     "body": [
       [
@@ -73460,12 +73460,12 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 122615051,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 122454405,
-    "thread_children": 25,
-    "ratio_recv": null,
+    "thread_children": 28,
+    "ratio_recv": 0,
     "ratio_give": -1,
     "grade_level": 9.1,
     "word_count": 285,
@@ -73477,5 +73477,197 @@
       "financial markets",
       "financial regulation"
     ]
+  },
+  {
+    "post_id": 164830027,
+    "title": "Yes, DOGE failed \u2014 and it matters",
+    "canonical_url": "https://www.slowboring.com/p/yes-doge-failed-and-it-matters",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122774370,
+    "top_level": false,
+    "date": "Jun 04 2025 09:03",
+    "likes": 2,
+    "timestamp": 1749042215,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but aren't a lot of those DOGE people still there? Particularly after all the firings and forced resignations. Moreover, I personally am quite excited for the contract work they're figuring out w/ Palantir. That firm has a ton of experience in working w/ legacy IT infrastructure in government and corps. Eg, they certainly know how to mass migrate off of 60\u2019s era hardware and software to massively decrease capex and opex expenses, while creating more intuitive, modern UIs and dashboards to simplify analytics and revisions to programs that implement business or government policy."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Specifically, I\u2019m quite confident that in 6 to 12 months time they will be able to quantify issues with potential SSN fraud, be it on the illegal employment side or fraudulent benefits. They should even be able to use historical transaction logs to identify any likely perpetrators. Moreover, they can make their assumptions of fraud legible enough for outsiders to challenge and critique these considerations."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I doubt this will save much money, but we\u2019ll at least have quantitative insights to disprove the myth around massive savings. Could also be useful in implementing some limited amount of deportations for employment and wire fraud. Not to mention empowering future, more sophisticated logic to implement more complicated policy. Eg, Republicans have long claimed that there is massive SSI fraud, so let them actually craft a bill and associated computer program logic to eliminate what they define as fraud."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "They could also make real progress into healthcare provider fraud, or at least up charging, as has been plaguing the healthcare industry for decades. See private practices being reclassified as hospitals to increase reimbursed funding. [1] They might even be tempted to require retiree relocations from urban cores like SF to lower costs of living areas in order to both decrease expected provider costs as well as pay for the associated SALT cap rollbacks for those same metros. Maybe Palantir and staff will even modernize and automate IRS filing and fining to reduce subjective pain points."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Regardless, I think all of us with something of a technocratic bent should be excited for these possibilities, even if most of the pro-social gains are realized under a future Democratic administration that utilizes the upgraded digital infrastructure for more pro-social policies."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.ama-assn.org/press-center/ama-press-releases/more-physicians-move-practices-owned-hospitals-private-equity"
+        }
+      ]
+    ],
+    "total_children": 8,
+    "parent_id": 122748144,
+    "parent_children": 9,
+    "thread_id": 122741754,
+    "thread_children": 71,
+    "ratio_recv": 3,
+    "ratio_give": -11,
+    "grade_level": 11.9,
+    "word_count": 378,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164830027,
+    "title": "Yes, DOGE failed \u2014 and it matters",
+    "canonical_url": "https://www.slowboring.com/p/yes-doge-failed-and-it-matters",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122778635,
+    "top_level": false,
+    "date": "Jun 04 2025 09:19",
+    "likes": 0,
+    "timestamp": 1749043174,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, they're definitely going to cooperate w/ the admin. Regardless, they will at least get us off all of the legacy hardware and code, which will greatly simplify things going forward. Particularly, that will simplify changes to automatic implementations for things like changing tax and benefits policy. No reason that should require armies of bureaucrats, analysts, and programmers with even 90's era tech."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, it will make policy increasingly legible when Republicans and Democrats are forced to argue over the specific definitions of tax and benefits policy as well as the definition of employment and benefits fraud. Means we'll no longer be hobbled by long implementation times and voters can quickly experience changes in policy. Hell, we could all even argue about the specific implementation in either English or pseudocode to focus and clarify a lot of nebulous political battles."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122775945,
+    "parent_children": 2,
+    "thread_id": 122741754,
+    "thread_children": 71,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 12.3,
+    "word_count": 140,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164830027,
+    "title": "Yes, DOGE failed \u2014 and it matters",
+    "canonical_url": "https://www.slowboring.com/p/yes-doge-failed-and-it-matters",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122842667,
+    "top_level": false,
+    "date": "Jun 04 2025 12:50",
+    "likes": 0,
+    "timestamp": 1749055816,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'm fairly confident that Palantir knows how to accomplish this these migrations, even in the face of hostile staff. Or worse no one knows enough to be helpful, even if they wanted to."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I've never worked at or with this firm, but in tech lore, including among ex-Palinitir staff, they're the modern day McKinsey mercenaries who will do whatever it takes to accomplish their assigned mission. Commonly doing a lot of tedious computer work and meetings. Moreover, the firm has been investing in reusable software tools to automate the forensics and reverse engineering for a while."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So while the DOGE staffers may just be useful wreckers and distractions for public consumption, I'm fairly confident the Palantir mercenaries will ruthlessly effective."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 122803588,
+    "parent_children": 3,
+    "thread_id": 122741754,
+    "thread_children": 71,
+    "ratio_recv": 0,
+    "ratio_give": -5,
+    "grade_level": 11.1,
+    "word_count": 120,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 164830027,
+    "title": "Yes, DOGE failed \u2014 and it matters",
+    "canonical_url": "https://www.slowboring.com/p/yes-doge-failed-and-it-matters",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 122866007,
+    "top_level": false,
+    "date": "Jun 04 2025 14:11",
+    "likes": 0,
+    "timestamp": 1749060690,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, I agree. Yet I imagine there are significantly strong incentives to for both parties to figure this out, both MAGA-aligned staffers and Palantir, such that I have fairly high hopes for this under-discussed initiative."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, I could see Palantir putting a ton of resources into this pro-bono for the branding and marketing value alone. Let alone the opportunities for future government modernization work as well as possible ideological alignment of their leadership and workforce. Moreover, this will allow MAGA staffers to subvert any non-aligned gov staff towards whatever executive actions they may seek."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "The project could still disappoint, but I'm far more optimistic about this than any Musk-led, DOGE work. Particularly, this could be quite useful to future Democratic administration who want to use these offices towards effective, abundance focused goals."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 122862799,
+    "parent_children": 2,
+    "thread_id": 122741754,
+    "thread_children": 71,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 10.7,
+    "word_count": 132,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
