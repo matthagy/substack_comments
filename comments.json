@@ -74199,7 +74199,7 @@
     "id": 128941617,
     "top_level": true,
     "date": "Jun 24 2025 11:47",
-    "likes": 0,
+    "likes": 4,
     "timestamp": 1750780052,
     "body": [
       [
@@ -74233,6 +74233,97 @@
       "Federal Reserve",
       "US politics",
       "inflation"
+    ]
+  },
+  {
+    "post_id": 166477358,
+    "title": "Raising taxes is hard",
+    "canonical_url": "https://www.slowboring.com/p/raising-taxes-is-hard",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 129207122,
+    "top_level": false,
+    "date": "Jun 25 2025 08:33",
+    "likes": 10,
+    "timestamp": 1750854785,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Pay in cash and then tip the loose change plus $0 or more dollars in bills, based on what you believe to be a fair tip. That avoids up charging via tipping and consistent with previous 90s-era tipping behavior."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Or just select $0 on the tip screen. We progressive need to learn comfort in implementing our beliefs, even if some people think we're assholes for it. I've had plenty of disputes with cashiers over the years and I'll gladly fallback to order-via-app for pickup and self-serve checkout to avoid hostilities if needed."
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 129201373,
+    "parent_children": 4,
+    "thread_id": 129183670,
+    "thread_children": 64,
+    "ratio_recv": -10,
+    "ratio_give": -10,
+    "grade_level": 8.1,
+    "word_count": 92,
+    "category": "Uncategorized",
+    "tags": [
+      "consumer behavior",
+      "progressive politics"
+    ]
+  },
+  {
+    "post_id": 166477358,
+    "title": "Raising taxes is hard",
+    "canonical_url": "https://www.slowboring.com/p/raising-taxes-is-hard",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 129209872,
+    "top_level": false,
+    "date": "Jun 25 2025 08:43",
+    "likes": 0,
+    "timestamp": 1750855403,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "We could just empower Americans to select their own healthcare treatment, within reason and with appropriate safeguards and subsidization, via cutting out the middle men of rent seeking healthcare service providers and admin overhead. Could use Gen AI for user friendly chat interfaces, but even 90s era internet software or digitally-read paper forms would work fine for automation."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There can be mandatory requirements for continuing coverage, including annual check ups and vaccination, all paid for by the federal government. Other services can be locked behind education, tasks, and chores. Eg, showing up for blood draws, attending an educational seminar--in person or virtual, completing a informed-care screening, demonstrate 10lb of weight loss in a year, pass monthly drug screening for 6 months, etc."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For most of us this will just be DYI death panels because we Americans are ignorant and lazy. Moreover, many of us will use our own time and money for alternative treatment programs, thereby bypassing federal safeguards. But at least we can reduce medical and SS costs without the fear of big government, or alternatively, big business. We can even cut out tons of rent seeking from private practices and special interests of the AMA; at least from the perspective of federal funding."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 129189183,
+    "parent_children": 14,
+    "thread_id": 129184092,
+    "thread_children": 16,
+    "ratio_recv": 3,
+    "ratio_give": -39,
+    "grade_level": 12.2,
+    "word_count": 205,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "automation",
+      "generative AI",
+      "healthcare complexity",
+      "public health policy"
     ]
   }
 ]
