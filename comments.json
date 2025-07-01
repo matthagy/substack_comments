@@ -74263,9 +74263,9 @@
     ],
     "total_children": 2,
     "parent_id": 129201373,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 129183670,
-    "thread_children": 64,
+    "thread_children": 70,
     "ratio_recv": -10,
     "ratio_give": -10,
     "grade_level": 8.1,
@@ -74314,7 +74314,7 @@
     "thread_id": 129184092,
     "thread_children": 16,
     "ratio_recv": 3,
-    "ratio_give": -39,
+    "ratio_give": -42,
     "grade_level": 12.2,
     "word_count": 205,
     "category": "Uncategorized",
@@ -74325,5 +74325,90 @@
       "healthcare complexity",
       "public health policy"
     ]
+  },
+  {
+    "post_id": 166907289,
+    "title": "Progressive millennials are old now ",
+    "canonical_url": "https://www.slowboring.com/p/progressive-millennials-are-old-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 130995057,
+    "top_level": false,
+    "date": "Jul 01 2025 07:08",
+    "likes": 23,
+    "timestamp": 1751368097,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Scott Alexander predicted a right-wing, countercultural youth reaction back in 2014 in \u201cRight Is the New Left.\u201d [1] He was certainly early in this prediction, and I believe he has since written about underestimating the strength of the progressive left among younger Millennials and Zoomers. But Scott did recognize the growing resentment among young men and their nascent right-wing culture and thought leaders, which would later manifest in Trump/MAGA. He also pointed out the cyclical nature of youth culture and its need to define itself in opposition to the mainstream\u2014now increasingly juxtaposed against the liberal/progressive values of education, including both K\u201312 and higher ed."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://slatestarcodex.com/2014/04/22/right-is-the-new-left/"
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 130989766,
+    "parent_children": 41,
+    "thread_id": 130989766,
+    "thread_children": 41,
+    "ratio_recv": -16,
+    "ratio_give": -43,
+    "grade_level": 13.5,
+    "word_count": 105,
+    "category": "Uncategorized",
+    "tags": [
+      "MAGA",
+      "political polarization",
+      "progressive politics"
+    ]
+  },
+  {
+    "post_id": 166907289,
+    "title": "Progressive millennials are old now ",
+    "canonical_url": "https://www.slowboring.com/p/progressive-millennials-are-old-now",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 131026030,
+    "top_level": false,
+    "date": "Jul 01 2025 09:13",
+    "likes": 0,
+    "timestamp": 1751375621,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. I'm particularly getting back into less renowned by metal artists and songs like, Drowning Pool \u2013 Bodies (2001)"
+        }
+      ],
+      [
+        {
+          "type": "url",
+          "value": "https://youtu.be/04F4xlWSFh0?si=CJRj5SIkPwiepA0w"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 130994551,
+    "parent_children": 3,
+    "thread_id": 130991694,
+    "thread_children": 55,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 9.1,
+    "word_count": 18,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
