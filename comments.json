@@ -74171,12 +74171,12 @@
       ],
       []
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": null,
     "parent_children": null,
     "thread_id": 127684529,
-    "thread_children": 1,
-    "ratio_recv": null,
+    "thread_children": 2,
+    "ratio_recv": 4,
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 317,
@@ -74336,7 +74336,7 @@
     "id": 130995057,
     "top_level": false,
     "date": "Jul 01 2025 07:08",
-    "likes": 23,
+    "likes": 52,
     "timestamp": 1751368097,
     "body": [
       [
@@ -74356,13 +74356,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 7,
     "parent_id": 130989766,
-    "parent_children": 41,
+    "parent_children": 133,
     "thread_id": 130989766,
-    "thread_children": 41,
-    "ratio_recv": -16,
-    "ratio_give": -43,
+    "thread_children": 133,
+    "ratio_recv": -27,
+    "ratio_give": -99,
     "grade_level": 13.5,
     "word_count": 105,
     "category": "Uncategorized",
@@ -74403,12 +74403,262 @@
     "parent_id": 130994551,
     "parent_children": 3,
     "thread_id": 130991694,
-    "thread_children": 55,
+    "thread_children": 82,
     "ratio_recv": null,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 9.1,
     "word_count": 18,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 167550310,
+    "title": "Friday thread ",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-461",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132386137,
+    "top_level": false,
+    "date": "Jul 05 2025 14:23",
+    "likes": 1,
+    "timestamp": 1751739828,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "This might sound funny or offensive now, but there were serious considerations among academics as well as laypeople that challenged Obama's connection to the heritage labels of Black vs. African American, with some care to separate that from the Donald Trump \"bitherism\" and presidential legitimacy circa 2012. For many laypersons, including American Descendants of Slavery (ADos) individuals, this was the easiest concern to laugh at because it sounded like another primary school history lesson revisiting the black-white continuum through hundreds of years of American and Western European history. It only got complex as more racial, ethnic, religious, and philosophical labels were added. Eg, the quagmires encompassing Israel, Palestine, Iran, UAE, India, Pakistan, South/North Korea, the CCP, Taiwan, Japan, Philippines, Cuba, Christian Democratic Union of Germany, Russia, Poland, Italy, Greece, Turkey, etc. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, for some people, including recent immigrants across a range of labels from continental Africa, this was a complex issue where they questioned how their own familial/genetic lineage intersected with both the popular culture and academic discussion and debates. Notably think about people like Elon Musk and Peter Theil who in theory could claim something of refuge-like status in America, although that intersects with more complex issues of class and colonial/imperial history. Don\u2019t get me started on the 2013 Arab Spring and post-Patriatic Act questions of \"with America\" or \"against America\". Thankfully we already had plenty of white-enough American and Western Europeans who already attempted to defect to ISIS factions, only to be graphically executed circa 2003."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I also knew a Gen X black African immigrant who could talk semi-respectfully about these issues, including how his family, notably parents still in Africa, very much wanted to distance themselves from \u201cBlack American culture\u201d as depicted in pop media like Chappelle\u2019s standup comedy and TV show. Yet even without using a single curse word, let alone an actual racial slur, this guy could articulate extremely offensive beliefs. Eg, apologizing to Americans for how his ancestors burdened our country with the losers of intra-African tribal disputes. Maybe he could at least extend those considerations to Musk, Thiel, and all orthodox Abrahamic religions to neutralize the racial element?"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] I lazily suggested we all just assume we\u2019re on the winning side of the globe spanning effort of initiatives like, \u201cInside Israel's Plot to Destroy Secret Nuclear Reactor in The Middle East\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/Qwtp3d-Q_jk?si=UrLQKWX1SG0JhxOW"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132226246,
+    "parent_children": 4,
+    "thread_id": 132178687,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": -10,
+    "grade_level": 15.3,
+    "word_count": 389,
+    "category": "Uncategorized",
+    "tags": [
+      "Donald Trump",
+      "Middle East conflict",
+      "class dynamics",
+      "racial equality"
+    ]
+  },
+  {
+    "post_id": 167550310,
+    "title": "Friday thread ",
+    "canonical_url": "https://www.slowboring.com/p/friday-thread-461",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132391269,
+    "top_level": false,
+    "date": "Jul 05 2025 14:44",
+    "likes": 0,
+    "timestamp": 1751741081,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Moreover, as an NYC resident that didn\u2019t even rank Mamdani, let alone provide any material support, I still kinda like the guy. He really embodies the remnants of the OWS-insperied, DSA, Bernie element of the Democratic party without being too much of an idiot. I actually feel bad for the challenges he faces in managing this dead-end coalition into something resembling a respectable political party."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, Mamdani has been useful for identifying the most idioctic NYC DSA-adjacent members, including those who blindly like him because he\u2019s endorsed by the local popular cliques. Let alone people who see \u201cglobalize the intifada\u201d and \u201cidentify zionists\u201d as legitimate challenges to our current social, government, and economic order. Hopefully this is helping to clean up the mess Biden left us with and ruthlessly eliminate some of our less effective staffers and political influencers that still plague our party and risk derailing 2026 and 2028."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019m still questioning whether I\u2019m gonna vote for Adams vs. Mamdani vs \u201cother\u201d in the general election because it\u2019s not obvious it\u2019ll impact actual policy implementations. I somehow doubt either figure can sufficiently steer our NYC local governance machine towards real world impact, regardless of their personal political cult and comfort level with corruption."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132178687,
+    "parent_children": 38,
+    "thread_id": 132178687,
+    "thread_children": 38,
+    "ratio_recv": null,
+    "ratio_give": -21,
+    "grade_level": 13.4,
+    "word_count": 205,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "US politics",
+      "political polarization",
+      "political strategy",
+      "social justice"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132392994,
+    "top_level": false,
+    "date": "Jul 05 2025 14:51",
+    "likes": 4,
+    "timestamp": 1751741510,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Honestly, that sounds like individuals that are too connected to social media and US political culture so as to be negatively emotionally impacted by matters far beyond their influence. I\u2019ve personally known far too many people like that over my life and it has generally gone poorly for them until they built separate areas of focus in their lives. Yes, American politics can be stupid and frustrating, yet we should all build resilience for the \u201clong, slow, boring march\u201d of improving our institutions over decades."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Towards that end I\u2019m commonly reminded of the Serenity Prayer, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Serenity_Prayer"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Even secular atheists like myself commonly need that reminder to refocus our mind and reframe our situations."
+        }
+      ],
+      []
+    ],
+    "total_children": 2,
+    "parent_id": 132381453,
+    "parent_children": 22,
+    "thread_id": 132381453,
+    "thread_children": 22,
+    "ratio_recv": 1,
+    "ratio_give": -8,
+    "grade_level": 14.1,
+    "word_count": 139,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "mental health",
+      "social media influence",
+      "trust in institutions"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132397588,
+    "top_level": false,
+    "date": "Jul 05 2025 15:11",
+    "likes": 1,
+    "timestamp": 1751742717,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, but I\u2019d argue some of this is because Democrats have embraced the concept of healthcare without grappling with the serious issues of cost management. Eg, closing and consolidating rural health hospitals could be a reasonable approach towards better managing healthcare costs. Particularly the emergence of small emergency and diagnostic boutiques like Concentra and Quest. I believe there are even Medicare/Medicaid regulations that provide larger remembrances to proper hospitals rather than simple doctor\u2019s offices as has led to consolidation into such wasteful, rent seeking hospital networks. In contrast, an abundance approach would aggressively look to cut costs by eliminating such loopholes and finding more efficient ways to rationalize costs vs. benefits."
+        }
+      ],
+      []
+    ],
+    "total_children": 3,
+    "parent_id": 132386768,
+    "parent_children": 13,
+    "thread_id": 132386768,
+    "thread_children": 13,
+    "ratio_recv": 6,
+    "ratio_give": -5,
+    "grade_level": 14.3,
+    "word_count": 111,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "economic policy",
+      "healthcare complexity"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132401986,
+    "top_level": false,
+    "date": "Jul 05 2025 15:30",
+    "likes": 2,
+    "timestamp": 1751743832,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. But it doesn\u2019t change the fact that neither Republicans nor Democrats have reasonable ways of discussing cost controls in the context of healthcare. I\u2019d argue that our recent DSA-inspired, Bernie/Warren approaches of \u201cjust tax the billionaires\" have been particularly disruptive towards muddying the water. Let alone the castigation of our allies in the capitalistic institutions of insurance corporations, private equity, and venture capital that would genuinely work to cut costs in the context of whatever regulatory framework we provide."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Neither party can seriously contend with the massive costs of Social Security, Medicare, Medicaid, and other entitlements so voters are left with increasingly asinine lies about the possibility of Republicans vs Democrats governance with regard to these fiscal issues."
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 132398379,
+    "parent_children": 2,
+    "thread_id": 132386768,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 17.3,
+    "word_count": 119,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "Republican Party",
+      "US politics",
+      "healthcare complexity"
+    ]
   }
 ]
