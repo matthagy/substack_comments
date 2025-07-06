@@ -74455,11 +74455,11 @@
     ],
     "total_children": 1,
     "parent_id": 132226246,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 132178687,
-    "thread_children": 38,
+    "thread_children": 39,
     "ratio_recv": null,
-    "ratio_give": -10,
+    "ratio_give": -11,
     "grade_level": 15.3,
     "word_count": 389,
     "category": "Uncategorized",
@@ -74504,11 +74504,11 @@
     ],
     "total_children": 1,
     "parent_id": 132178687,
-    "parent_children": 38,
+    "parent_children": 39,
     "thread_id": 132178687,
-    "thread_children": 38,
+    "thread_children": 39,
     "ratio_recv": null,
-    "ratio_give": -21,
+    "ratio_give": -22,
     "grade_level": 13.4,
     "word_count": 205,
     "category": "Uncategorized",
@@ -74530,7 +74530,7 @@
     "id": 132392994,
     "top_level": false,
     "date": "Jul 05 2025 14:51",
-    "likes": 4,
+    "likes": 7,
     "timestamp": 1751741510,
     "body": [
       [
@@ -74563,13 +74563,13 @@
       ],
       []
     ],
-    "total_children": 2,
+    "total_children": 4,
     "parent_id": 132381453,
-    "parent_children": 22,
+    "parent_children": 34,
     "thread_id": 132381453,
-    "thread_children": 22,
-    "ratio_recv": 1,
-    "ratio_give": -8,
+    "thread_children": 34,
+    "ratio_recv": -2,
+    "ratio_give": -12,
     "grade_level": 14.1,
     "word_count": 139,
     "category": "Uncategorized",
@@ -74590,7 +74590,7 @@
     "id": 132397588,
     "top_level": false,
     "date": "Jul 05 2025 15:11",
-    "likes": 1,
+    "likes": 2,
     "timestamp": 1751742717,
     "body": [
       [
@@ -74601,13 +74601,13 @@
       ],
       []
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 132386768,
-    "parent_children": 13,
+    "parent_children": 20,
     "thread_id": 132386768,
-    "thread_children": 13,
+    "thread_children": 20,
     "ratio_recv": 6,
-    "ratio_give": -5,
+    "ratio_give": -8,
     "grade_level": 14.3,
     "word_count": 111,
     "category": "Uncategorized",
@@ -74627,7 +74627,7 @@
     "id": 132401986,
     "top_level": false,
     "date": "Jul 05 2025 15:30",
-    "likes": 2,
+    "likes": 3,
     "timestamp": 1751743832,
     "body": [
       [
@@ -74648,7 +74648,7 @@
     "parent_id": 132398379,
     "parent_children": 2,
     "thread_id": 132386768,
-    "thread_children": 13,
+    "thread_children": 20,
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 17.3,
@@ -74660,5 +74660,57 @@
       "US politics",
       "healthcare complexity"
     ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132478775,
+    "top_level": false,
+    "date": "Jul 05 2025 21:30",
+    "likes": 0,
+    "timestamp": 1751765418,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Lol. I've been using \"AI\" writing assistance since Google Docs circa 2007, including clever add ons for lazily rewriting Wikipedia-sourced content, even templated plagiarism engines, not to mention increasingly sophisticated spelling and grammar checks. See \"A Cult AI Computer\u2019s Boom and Bust\" for 50+ year history of this silliness of \"can computers think like people?\", "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/sV7C6Ezl35A?si=Y14vS2SWwQe2gfmO"
+        },
+        {
+          "type": "text",
+          "value": " "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I find it funny that Substack of all places would care because I already had plenty of fun experimenting w/ bots in college (2004-08, notably on Reddit) and then had increasingly real considerations around authenticated person vs. bots traffic while working in ad tech from 20013 to 2019. (In between I was a lazy grad student who encouraged my undergrad students to \"cheat intelligently w/ computers\" to actually force them to do something that wasn't too easy for me to verify as lazy copy-and-paste. Actually took some effort from professors and grad students to create those novel assignments)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Like I'm going out of may way to identify myself as a real, knowable tech professional, and people are questioning the legitimacy of my posts based on the extent to which they are tech augmented. How would I even disprove the accusation beyond increasingly sloppy and silly, sub-LLM quality comments? Hope I don't have to start mailing people hand written notes, again."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132455022,
+    "parent_children": 2,
+    "thread_id": 132381453,
+    "thread_children": 34,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 13.8,
+    "word_count": 215,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
