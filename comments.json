@@ -74455,11 +74455,11 @@
     ],
     "total_children": 1,
     "parent_id": 132226246,
-    "parent_children": 5,
+    "parent_children": 6,
     "thread_id": 132178687,
-    "thread_children": 39,
+    "thread_children": 40,
     "ratio_recv": null,
-    "ratio_give": -11,
+    "ratio_give": -13,
     "grade_level": 15.3,
     "word_count": 389,
     "category": "Uncategorized",
@@ -74504,11 +74504,11 @@
     ],
     "total_children": 1,
     "parent_id": 132178687,
-    "parent_children": 39,
+    "parent_children": 40,
     "thread_id": 132178687,
-    "thread_children": 39,
+    "thread_children": 40,
     "ratio_recv": null,
-    "ratio_give": -22,
+    "ratio_give": -24,
     "grade_level": 13.4,
     "word_count": 205,
     "category": "Uncategorized",
@@ -74530,7 +74530,7 @@
     "id": 132392994,
     "top_level": false,
     "date": "Jul 05 2025 14:51",
-    "likes": 7,
+    "likes": 12,
     "timestamp": 1751741510,
     "body": [
       [
@@ -74563,13 +74563,13 @@
       ],
       []
     ],
-    "total_children": 4,
+    "total_children": 5,
     "parent_id": 132381453,
-    "parent_children": 34,
+    "parent_children": 47,
     "thread_id": 132381453,
-    "thread_children": 34,
-    "ratio_recv": -2,
-    "ratio_give": -12,
+    "thread_children": 47,
+    "ratio_recv": -3,
+    "ratio_give": -23,
     "grade_level": 14.1,
     "word_count": 139,
     "category": "Uncategorized",
@@ -74590,7 +74590,7 @@
     "id": 132397588,
     "top_level": false,
     "date": "Jul 05 2025 15:11",
-    "likes": 2,
+    "likes": 6,
     "timestamp": 1751742717,
     "body": [
       [
@@ -74601,13 +74601,13 @@
       ],
       []
     ],
-    "total_children": 4,
+    "total_children": 12,
     "parent_id": 132386768,
-    "parent_children": 20,
+    "parent_children": 32,
     "thread_id": 132386768,
-    "thread_children": 20,
-    "ratio_recv": 6,
-    "ratio_give": -8,
+    "thread_children": 32,
+    "ratio_recv": 4,
+    "ratio_give": -12,
     "grade_level": 14.3,
     "word_count": 111,
     "category": "Uncategorized",
@@ -74627,7 +74627,7 @@
     "id": 132401986,
     "top_level": false,
     "date": "Jul 05 2025 15:30",
-    "likes": 3,
+    "likes": 4,
     "timestamp": 1751743832,
     "body": [
       [
@@ -74648,9 +74648,9 @@
     "parent_id": 132398379,
     "parent_children": 2,
     "thread_id": 132386768,
-    "thread_children": 20,
+    "thread_children": 32,
     "ratio_recv": null,
-    "ratio_give": -5,
+    "ratio_give": -6,
     "grade_level": 17.3,
     "word_count": 119,
     "category": "Uncategorized",
@@ -74701,13 +74701,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 132455022,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 132381453,
-    "thread_children": 34,
-    "ratio_recv": null,
-    "ratio_give": -4,
+    "thread_children": 47,
+    "ratio_recv": 2,
+    "ratio_give": -9,
     "grade_level": 13.8,
     "word_count": 215,
     "category": "Uncategorized",
@@ -74717,6 +74717,138 @@
       "online discourse",
       "social media influence",
       "technology ethics"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132481451,
+    "top_level": false,
+    "date": "Jul 05 2025 21:44",
+    "likes": 3,
+    "timestamp": 1751766296,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, that is why we need private equity to ruthlessly acquire and consolidate small private practices to eliminate redundant MD and admin roles. Moreover, we need to increasingly expand the opportunities for nurses and med techs to replace the more expensive MD roles and thereby drive down servicing costs."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Lastly, we need to appropriately embrace technology, even just 90s-era record management, to ever more streamline the process. That includes serious considerations around the relative costs vs. benefits and it will be great when we can all point to the explicit political and economic tradeoffs that our society has created for each of us to navigate through. Eg, I'm fine w/ limiting subsidized benefits for chronic alcoholics, smokers, drug abusers, and the obsese, at least until we see sufficient forward progress in their own behavior adaptations."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 132456001,
+    "parent_children": 4,
+    "thread_id": 132386768,
+    "thread_children": 32,
+    "ratio_recv": -1,
+    "ratio_give": -1,
+    "grade_level": 13.2,
+    "word_count": 135,
+    "category": "Uncategorized",
+    "tags": [
+      "economic inequality",
+      "economic policy",
+      "healthcare complexity",
+      "political accountability",
+      "technology ethics"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132491653,
+    "top_level": false,
+    "date": "Jul 05 2025 22:46",
+    "likes": 2,
+    "timestamp": 1751769981,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "18% of GDP is still a massive amount of economy, particularly if we want to increasingly subsidize expansion. Moreover, most other developed countries, including those with more socialized healthcare systems, spend a far lower percent of their economy on healthcare. Eg, see this 2012 article, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.pbs.org/newshour/health/health-costs-how-the-us-compares-with-other-countries"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The U.S. is a very rich country, but even so, it devotes far more of its economy \u2014 17.6 percent of GDP in 2010 \u2014 to health than any other country. The Netherlands is the next highest, at 12 percent of GDP, and the average among OECD countries was almost half that of the U.S., at 9.5 percent of GDP."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We should aspire to get our spending below 10% of GDP, while continuously expanding access and making judicious decisions on what to subsidize vs. what to reject. Notably, we'll need to ruthless reign in provider fraud, including medically suspect treatments, while promoting cost effective solutions."
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 132483148,
+    "parent_children": 5,
+    "thread_id": 132386768,
+    "thread_children": 32,
+    "ratio_recv": 2,
+    "ratio_give": 0,
+    "grade_level": 7.9,
+    "word_count": 148,
+    "category": "Uncategorized",
+    "tags": [
+      "economic policy",
+      "healthcare complexity",
+      "public health policy"
+    ]
+  },
+  {
+    "post_id": 167599168,
+    "title": "Saturday thread ",
+    "canonical_url": "https://www.slowboring.com/p/saturday",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132506814,
+    "top_level": false,
+    "date": "Jul 06 2025 00:34",
+    "likes": 1,
+    "timestamp": 1751776488,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. The details matter. Notably the loophole that favors higher Medicare/Medicaid reimbursement rates for consolidation in to hospital networks vs. other medical practices. We need to ensure our regulatory body eliminates such loopholes and ruthlessly drives out rent seeking, be it from investors or overly accredited doctors and other medical staff. Even just the battle between tech vendors and admin staff can needlessly waste time and money without appropriate focus on the bottom line."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132504968,
+    "parent_children": 2,
+    "thread_id": 132386768,
+    "thread_children": 32,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 11.4,
+    "word_count": 74,
+    "category": "Uncategorized",
+    "tags": [
+      "bureaucracy",
+      "corporate accountability",
+      "healthcare complexity"
     ]
   },
   {
@@ -74774,5 +74906,150 @@
       "social media influence",
       "technology ethics"
     ]
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132955592,
+    "top_level": true,
+    "date": "Jul 07 2025 13:29",
+    "likes": 1,
+    "timestamp": 1751909395,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> America would still have immigration laws. Trump could have ICE shadow Paramount executives and conduct raids midway through every restaurant meal they eat, while showing up at their homes to harass housekeepers and gardeners. No doubt such targeted harassment would turn up more than zero people who are in the country illegally. He could have them targeted for audits by the IRS. He could get bank regulators to lean on financial institutions to deny them loans."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> But could he do those things? It would be illegal. His victims could fight him in court. And they could fight him in the court of public opinion."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Didn\u2019t we already sort of do that w/ \u201cNannygate\u201d, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Nannygate"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In January 1993, Clinton's nomination of corporate lawyer Zo\u00eb Baird for the position came under attack after it became known that she and her husband had broken federal law by employing two people who had immigrated illegally from Peru as a nanny and chauffeur for their young child. They had also failed to pay Social Security taxes for the workers, the so-called \"Nanny Tax\", until shortly before the disclosures. While the Clinton administration thought the matter was relatively unimportant, the news elicited a firestorm of public opinion, most of it against Baird. Within eight days, her nomination lost political support in the U.S. Congress and was withdrawn."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "See similar incidents throughout the 2000\u2019s at "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Nannygate_(disambiguation)"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 132955592,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 8.0,
+    "word_count": 227,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "Donald Trump",
+      "US politics",
+      "immigration issues",
+      "political accountability"
+    ]
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132956230,
+    "top_level": false,
+    "date": "Jul 07 2025 13:31",
+    "likes": 0,
+    "timestamp": 1751909517,
+    "body": [
+      [
+        {
+          "type": "url",
+          "value": "https://letmegooglethat.com/?q=Biden+administration+threatened+antitrust+scrutiny+of+social+media+sites+that+they+were+mad+at+for+COVID-misinformation+reasons"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 132934357,
+    "parent_children": 4,
+    "thread_id": 132839334,
+    "thread_children": 93,
+    "ratio_recv": 0,
+    "ratio_give": 0,
+    "grade_level": -15.7,
+    "word_count": 0,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132960783,
+    "top_level": false,
+    "date": "Jul 07 2025 13:46",
+    "likes": 0,
+    "timestamp": 1751910395,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Notably, see the marketing projects for the US Constitution and the Bill of Rights in "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/The_Federalist_Papers"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Federalist Papers is a collection of 85 articles and essays written by Alexander Hamilton, James Madison, and John Jay under the collective pseudonym \"Publius\" to promote the ratification of the Constitution of the United States. The collection was commonly known as The Federalist until the name The Federalist Papers emerged in the twentieth century."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132938201,
+    "parent_children": 2,
+    "thread_id": 132839334,
+    "thread_children": 93,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 18.1,
+    "word_count": 70,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
