@@ -75000,9 +75000,9 @@
     ],
     "total_children": 2,
     "parent_id": 132934357,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 132839334,
-    "thread_children": 93,
+    "thread_children": 102,
     "ratio_recv": 0,
     "ratio_give": 0,
     "grade_level": -15.7,
@@ -75044,12 +75044,164 @@
     "parent_id": 132938201,
     "parent_children": 2,
     "thread_id": 132839334,
-    "thread_children": 93,
+    "thread_children": 102,
     "ratio_recv": null,
-    "ratio_give": -3,
+    "ratio_give": -4,
     "grade_level": 18.1,
     "word_count": 70,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132969557,
+    "top_level": false,
+    "date": "Jul 07 2025 14:15",
+    "likes": 1,
+    "timestamp": 1751912131,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Lol. Just use bitcoin (or etherium or solana). Can always use any \"private capital math mixer\" to launder the funds as appropriate. Even gold bars or euros could work, in theory, as an intermediate asset class, with appropriate long/short heding."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132850598,
+    "parent_children": 2,
+    "thread_id": 132840240,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -15,
+    "grade_level": 8.5,
+    "word_count": 40,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132970647,
+    "top_level": false,
+    "date": "Jul 07 2025 14:19",
+    "likes": 1,
+    "timestamp": 1751912352,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Are you making a bad joke about \"The Clinton Foundation\" or PACs in general? If so, we should remember there are at least some legal differences between a legal person and a legal organization; even if they can at times be well aligned."
+        }
+      ]
+    ],
+    "total_children": 3,
+    "parent_id": 132848516,
+    "parent_children": 5,
+    "thread_id": 132840240,
+    "thread_children": 27,
+    "ratio_recv": -1,
+    "ratio_give": -16,
+    "grade_level": 9.3,
+    "word_count": 43,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 132972012,
+    "top_level": false,
+    "date": "Jul 07 2025 14:23",
+    "likes": 0,
+    "timestamp": 1751912627,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Even better for Trump specifically. \"The President is Being Manipulated By His Ex - SOUTH PARK\" [Oct 15, 2020] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=mO0YdERK4bQ"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 132853252,
+    "parent_children": 2,
+    "thread_id": 132840240,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -5,
+    "grade_level": 6.8,
+    "word_count": 18,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 167375477,
+    "title": "The scary surrender to Trump\u2019s attacks on free speech",
+    "canonical_url": "https://www.slowboring.com/p/the-scary-surrender-to-trumps-attacks",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 133015692,
+    "top_level": false,
+    "date": "Jul 07 2025 16:53",
+    "likes": 0,
+    "timestamp": 1751921617,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. I too would rather deal w/ the Clinton Foundation and aligned Super PACs (DSA/Bernie-dead-enders excluded) rather than the Trump orgs. Unfortunately Trump is currently in power so hopefully someone in our camp knows how to reason, negotiate, and even bribe him appropriately."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Which intermediary should I fund for this dirty job? Maybe someone from Trump University [1] or The Biggest Loser/Apprentice something? I already bought an X subscription incase Musk et al is all we got."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Trump_University"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 133010088,
+    "parent_children": 2,
+    "thread_id": 132840240,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.4,
+    "word_count": 78,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "Donald Trump",
+      "political strategy"
+    ]
   }
 ]
