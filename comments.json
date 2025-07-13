@@ -74569,7 +74569,7 @@
     "thread_id": 132381453,
     "thread_children": 47,
     "ratio_recv": -3,
-    "ratio_give": -23,
+    "ratio_give": -24,
     "grade_level": 14.1,
     "word_count": 139,
     "category": "Uncategorized",
@@ -74607,7 +74607,7 @@
     "thread_id": 132386768,
     "thread_children": 32,
     "ratio_recv": 4,
-    "ratio_give": -12,
+    "ratio_give": -13,
     "grade_level": 14.3,
     "word_count": 111,
     "category": "Uncategorized",
@@ -75002,9 +75002,9 @@
     "parent_id": 132934357,
     "parent_children": 5,
     "thread_id": 132839334,
-    "thread_children": 102,
+    "thread_children": 106,
     "ratio_recv": 0,
-    "ratio_give": 0,
+    "ratio_give": -1,
     "grade_level": -15.7,
     "word_count": 0,
     "category": "Uncategorized",
@@ -75020,7 +75020,7 @@
     "id": 132960783,
     "top_level": false,
     "date": "Jul 07 2025 13:46",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1751910395,
     "body": [
       [
@@ -75044,9 +75044,9 @@
     "parent_id": 132938201,
     "parent_children": 2,
     "thread_id": 132839334,
-    "thread_children": 102,
+    "thread_children": 106,
     "ratio_recv": null,
-    "ratio_give": -4,
+    "ratio_give": -3,
     "grade_level": 18.1,
     "word_count": 70,
     "category": "Uncategorized",
@@ -75076,9 +75076,9 @@
     "parent_id": 132850598,
     "parent_children": 2,
     "thread_id": 132840240,
-    "thread_children": 27,
+    "thread_children": 30,
     "ratio_recv": null,
-    "ratio_give": -15,
+    "ratio_give": -19,
     "grade_level": 8.5,
     "word_count": 40,
     "category": "Uncategorized",
@@ -75108,9 +75108,9 @@
     "parent_id": 132848516,
     "parent_children": 5,
     "thread_id": 132840240,
-    "thread_children": 27,
-    "ratio_recv": -1,
-    "ratio_give": -16,
+    "thread_children": 30,
+    "ratio_recv": 0,
+    "ratio_give": -21,
     "grade_level": 9.3,
     "word_count": 43,
     "category": "Uncategorized",
@@ -75144,7 +75144,7 @@
     "parent_id": 132853252,
     "parent_children": 2,
     "thread_id": 132840240,
-    "thread_children": 27,
+    "thread_children": 30,
     "ratio_recv": null,
     "ratio_give": -5,
     "grade_level": 6.8,
@@ -75192,9 +75192,9 @@
     "parent_id": 133010088,
     "parent_children": 2,
     "thread_id": 132840240,
-    "thread_children": 27,
+    "thread_children": 30,
     "ratio_recv": null,
-    "ratio_give": 0,
+    "ratio_give": -1,
     "grade_level": 9.4,
     "word_count": 78,
     "category": "Uncategorized",
@@ -75202,6 +75202,141 @@
       "Democratic Party",
       "Donald Trump",
       "political strategy"
+    ]
+  },
+  {
+    "post_id": 167762606,
+    "title": "Monday thread",
+    "canonical_url": "https://www.slowboring.com/p/monday-thread-a50",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 133095601,
+    "top_level": false,
+    "date": "Jul 07 2025 22:07",
+    "likes": 2,
+    "timestamp": 1751940449,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Hmm, the corrupt deal that killed reconstruction and the resulting gold/silver debate was, in many ways, far worse for the narrative perspective, "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Compromise_of_1877"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Compromise of 1877, also known as the Wormley Agreement, the Tilden-Hayes Compromise, the Bargain of 1877, or the Corrupt Bargain, was a speculated unwritten political deal in the United States to settle the intense dispute over the results of the 1876 presidential election, ending the filibuster of the certified results and the threat of political violence in exchange for an end to federal Reconstruction."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> No written evidence of such a deal exists [or has yet to be found] and its precise details are a matter of historical debate, but most historians agree that the federal government adopted a policy of leniency towards the South to ensure federal authority and Republican Rutherford B. Hayes's election as president."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For context, see the common reference of this election over time, such as \"History Repeats: How Technology and Division Shaped Politics Then & Now | David Axelrod & Karl Rove\" "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=v7mp_kCP4ZA"
+        }
+      ],
+      []
+    ],
+    "total_children": 1,
+    "parent_id": 133073686,
+    "parent_children": 4,
+    "thread_id": 133029261,
+    "thread_children": 26,
+    "ratio_recv": null,
+    "ratio_give": -12,
+    "grade_level": 20.7,
+    "word_count": 166,
+    "category": "Uncategorized",
+    "tags": [
+      "US politics",
+      "political polarization",
+      "political strategy"
+    ]
+  },
+  {
+    "post_id": 168220505,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e33",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 134959726,
+    "top_level": false,
+    "date": "Jul 13 2025 17:28",
+    "likes": 0,
+    "timestamp": 1752442088,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Moreover, that is how we built the origin info tech industry using the RRN-like theory (Recurrent Neural Network*) and other pre-modern computer databases through the second half of the 20th century. Increasingly those just became wiki-like-pages pages of talking through editors and reddit-ors using LSTM tree theory around 2000 or so. Thank goodness we finally generated GPT-like search engines for more realistic ways to remember questions for future usage around 2010 to 2011 using things like BitCoin and other blockchains. "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "*For more information see: "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Recurrent_neural_network"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> In artificial neural networks, recurrent neural networks (RNNs) are designed for processing sequential data, such as text, speech, and time series,[1] where the order of elements is important. Unlike feedforward neural networks, which process inputs independently, RNNs utilize recurrent connections, where the output of a neuron at one time step is fed back as input to the network at the next time step. This enables RNNs to capture temporal dependencies and patterns within sequences."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To get started please visit "
+        },
+        {
+          "type": "url",
+          "value": "https://aws.amazon.com/what-is/recurrent-neural-network/"
+        },
+        {
+          "type": "text",
+          "value": " or use another google search query"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "^ For future reference on other slower nets: The above used no actual GPT extensions beyond searching, spell check, and some degree of grammar normalization."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 134886012,
+    "parent_children": 2,
+    "thread_id": 134885796,
+    "thread_children": 10,
+    "ratio_recv": null,
+    "ratio_give": -11,
+    "grade_level": 15.3,
+    "word_count": 194,
+    "category": "Uncategorized",
+    "tags": [
+      "cryptocurrency",
+      "generative AI",
+      "tech industry"
     ]
   }
 ]
