@@ -75323,13 +75323,13 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 4,
     "parent_id": 134886012,
-    "parent_children": 2,
+    "parent_children": 5,
     "thread_id": 134885796,
-    "thread_children": 10,
-    "ratio_recv": null,
-    "ratio_give": -11,
+    "thread_children": 13,
+    "ratio_recv": 0,
+    "ratio_give": -12,
     "grade_level": 15.3,
     "word_count": 194,
     "category": "Uncategorized",
@@ -75338,5 +75338,47 @@
       "generative AI",
       "tech industry"
     ]
+  },
+  {
+    "post_id": 168220505,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e33",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 134963041,
+    "top_level": false,
+    "date": "Jul 13 2025 17:40",
+    "likes": 0,
+    "timestamp": 1752442814,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Exactly. Just recording this for future references as we analyze the change in user behavior throughout the SlowBoring generations of users and their behaviors over time on X* and other networking tech. I'm mainly going to call these years Trump 2.0 after Biden/Bernie/Warren theory of liberalism. Very excited for post-Trump progressivism like abundance and others."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/mattchagy/status/1944511367958110605"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 134961408,
+    "parent_children": 2,
+    "thread_id": 134885796,
+    "thread_children": 13,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 9.9,
+    "word_count": 55,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
