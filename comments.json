@@ -75323,12 +75323,12 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 6,
     "parent_id": 134886012,
-    "parent_children": 5,
+    "parent_children": 7,
     "thread_id": 134885796,
-    "thread_children": 13,
-    "ratio_recv": 0,
+    "thread_children": 15,
+    "ratio_recv": 2,
     "ratio_give": -12,
     "grade_level": 15.3,
     "word_count": 194,
@@ -75369,15 +75369,63 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 134961408,
-    "parent_children": 2,
+    "parent_children": 4,
     "thread_id": 134885796,
-    "thread_children": 13,
-    "ratio_recv": null,
-    "ratio_give": 0,
+    "thread_children": 15,
+    "ratio_recv": 3,
+    "ratio_give": -2,
     "grade_level": 9.9,
     "word_count": 55,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "Donald Trump",
+      "US politics",
+      "progressive politics",
+      "user engagement"
+    ]
+  },
+  {
+    "post_id": 168220505,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e33",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 134973022,
+    "top_level": false,
+    "date": "Jul 13 2025 18:18",
+    "likes": 0,
+    "timestamp": 1752445107,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you. I may not always be acting reasonable, particularly when developing a realtime threading example of RRN theory. Instead, I, the SB user, may just be reminding us all about the general structure of LSTM theory as well as how GPT-like-tools, including Gemini and ChatGPT itself, actually work. Although, in general we care about quarters, years, and decades when re-addressing past considerations. For examples, please see our past discussions of analysis of user behavior overtime on SB. *"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/#sort=reply_count&type=all&show=40&page=1&startDate=2021-10-20&endDate=2025-07-14&category=all&search=matthagy.github&tags=all"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 134965849,
+    "parent_children": 2,
+    "thread_id": 134885796,
+    "thread_children": 15,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 13.3,
+    "word_count": 78,
     "category": "Uncategorized",
     "tags": []
   }
