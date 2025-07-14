@@ -75323,13 +75323,13 @@
         }
       ]
     ],
-    "total_children": 6,
+    "total_children": 10,
     "parent_id": 134886012,
-    "parent_children": 7,
+    "parent_children": 11,
     "thread_id": 134885796,
-    "thread_children": 15,
-    "ratio_recv": 2,
-    "ratio_give": -12,
+    "thread_children": 22,
+    "ratio_recv": 6,
+    "ratio_give": -13,
     "grade_level": 15.3,
     "word_count": 194,
     "category": "Uncategorized",
@@ -75369,13 +75369,13 @@
         }
       ]
     ],
-    "total_children": 3,
+    "total_children": 4,
     "parent_id": 134961408,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 134885796,
-    "thread_children": 15,
-    "ratio_recv": 3,
-    "ratio_give": -2,
+    "thread_children": 22,
+    "ratio_recv": 8,
+    "ratio_give": -5,
     "grade_level": 9.9,
     "word_count": 55,
     "category": "Uncategorized",
@@ -75417,15 +75417,83 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 2,
     "parent_id": 134965849,
-    "parent_children": 2,
+    "parent_children": 3,
     "thread_id": 134885796,
-    "thread_children": 15,
-    "ratio_recv": null,
-    "ratio_give": -3,
+    "thread_children": 22,
+    "ratio_recv": 0,
+    "ratio_give": -8,
     "grade_level": 13.3,
     "word_count": 78,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 168220505,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e33",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 134994108,
+    "top_level": false,
+    "date": "Jul 13 2025 19:42",
+    "likes": 0,
+    "timestamp": 1752450131,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Moreover, for future references, this is generally how we look at 1 day of reddit-like-threading, 1 day at a time, chronologically speaking, ordered by whatever is more interesting (replies, likes, voiders and refunders, entropy content, info content, as well as more GPT-like reorganizations), "
+        },
+        {
+          "type": "url",
+          "value": "https://matthagy.github.io/substack_comments/#sort=old&type=all&show=40&page=1&startDate=2025-07-13&endDate=2025-07-14&category=all&search=&tags=all"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 134973022,
+    "parent_children": 2,
+    "thread_id": 134885796,
+    "thread_children": 22,
+    "ratio_recv": null,
+    "ratio_give": 0,
+    "grade_level": 22.4,
+    "word_count": 43,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 168220505,
+    "title": "Sunday thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-e33",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 135018818,
+    "top_level": false,
+    "date": "Jul 13 2025 21:33",
+    "likes": 0,
+    "timestamp": 1752456796,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Me too. Although this whole thread could be very interesting in 4 years of: post Trump and post, \"generate nothing but informative, yet noisy, discussions\""
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 135016433,
+    "parent_children": 2,
+    "thread_id": 134885796,
+    "thread_children": 22,
+    "ratio_recv": null,
+    "ratio_give": -4,
+    "grade_level": 11.9,
+    "word_count": 25,
     "category": "Uncategorized",
     "tags": []
   }
