@@ -75328,7 +75328,7 @@
     "parent_children": 11,
     "thread_id": 134885796,
     "thread_children": 22,
-    "ratio_recv": 8,
+    "ratio_recv": 9,
     "ratio_give": -13,
     "grade_level": 15.3,
     "word_count": 194,
@@ -75374,8 +75374,8 @@
     "parent_children": 5,
     "thread_id": 134885796,
     "thread_children": 22,
-    "ratio_recv": 8,
-    "ratio_give": -6,
+    "ratio_recv": 9,
+    "ratio_give": -7,
     "grade_level": 9.9,
     "word_count": 55,
     "category": "Uncategorized",
@@ -75423,7 +75423,7 @@
     "thread_id": 134885796,
     "thread_children": 22,
     "ratio_recv": 0,
-    "ratio_give": -8,
+    "ratio_give": -9,
     "grade_level": 13.3,
     "word_count": 78,
     "category": "Uncategorized",
@@ -75494,6 +75494,190 @@
     "ratio_give": -5,
     "grade_level": 11.9,
     "word_count": 25,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 166007446,
+    "title": "The crisis of expertise is about values",
+    "canonical_url": "https://www.slowboring.com/p/the-crisis-of-expertise-is-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136283658,
+    "top_level": false,
+    "date": "Jul 17 2025 15:19",
+    "likes": 0,
+    "timestamp": 1752779941,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Strongly agree with the general structure of this observation although the complexity of the narrative gets quite hard for millennials as well as Silents, Boomers, Gen X, Y, Z, alpha, betas, zoomers, and others beyond well cached structures of alternating narratives for humanity levels over localized structural appreciations of reorganizing structural layers. Eg, scientific liberal arts over great wars and what not... "
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 136125804,
+    "parent_children": 256,
+    "thread_id": 136125804,
+    "thread_children": 256,
+    "ratio_recv": null,
+    "ratio_give": -140,
+    "grade_level": 17.7,
+    "word_count": 62,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 166007446,
+    "title": "The crisis of expertise is about values",
+    "canonical_url": "https://www.slowboring.com/p/the-crisis-of-expertise-is-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136288805,
+    "top_level": false,
+    "date": "Jul 17 2025 15:35",
+    "likes": 0,
+    "timestamp": 1752780949,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Same for my college+grad school times from some long-cohort perspectives around 2013/2014 [1]. In particular, there was an assignment for which one week of high-intensity programming data [2] could be related to a well-known professor\u2019s book, as long as it could be delivered in ~600 MB of ICC vs. GCC for someone else in an academic group [3]. To simplify: \u201cDon\u2019t drive and drive\u201d [4] for someone else\u2019s harder Gen X 1989 [5] through other dimensions of semiclassical physics [6]."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://mems.duke.edu/people/christine-payne/"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://brownlab.pratt.duke.edu/people/kenneth-brown"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Aaron_Swartz"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://en.wikipedia.org/wiki/Jane_Street_Capital"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://github.com/matthagy/Jamenson"
+        },
+        {
+          "type": "text",
+          "value": " & many more..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/0InYp6F"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/gp/video/detail/B001EBWITA/ref=atv_dp_share_cu_r"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/2x2BAQa"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/gp/video/detail/B001EBWITA/ref=atv_dp_share_cu_r"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://a.co/d/cCLRzCD"
+        },
+        {
+          "type": "text",
+          "value": " & "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/gp/video/detail/B001EBWITA/ref=atv_dp_share_cu_r"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[5] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.amazon.com/gp/video/detail/B0C4YB4BX7/ref=atv_dp_share_cu_r"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[6] "
+        },
+        {
+          "type": "url",
+          "value": "https://chemistry.jhu.edu/directory/rigoberto-hernandez/"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 136201752,
+    "parent_children": 4,
+    "thread_id": 136125804,
+    "thread_children": 256,
+    "ratio_recv": null,
+    "ratio_give": -19,
+    "grade_level": 6.7,
+    "word_count": 88,
     "category": "Uncategorized",
     "tags": []
   }
