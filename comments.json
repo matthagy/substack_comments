@@ -75262,6 +75262,7 @@
     "word_count": 166,
     "category": "Uncategorized",
     "tags": [
+      "Republican Party",
       "US politics",
       "political polarization",
       "political strategy"
@@ -75380,11 +75381,11 @@
     "word_count": 55,
     "category": "Uncategorized",
     "tags": [
-      "Biden administration",
+      "Democratic Party",
       "Donald Trump",
       "US politics",
-      "progressive politics",
-      "user engagement"
+      "political strategy",
+      "voter behavior"
     ]
   },
   {
@@ -75427,7 +75428,12 @@
     "grade_level": 13.3,
     "word_count": 78,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "data analysis",
+      "generative AI",
+      "social media influence",
+      "user engagement"
+    ]
   },
   {
     "post_id": 168220505,
