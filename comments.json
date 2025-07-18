@@ -75525,11 +75525,11 @@
     ],
     "total_children": 1,
     "parent_id": 136125804,
-    "parent_children": 256,
+    "parent_children": 303,
     "thread_id": 136125804,
-    "thread_children": 256,
+    "thread_children": 303,
     "ratio_recv": null,
-    "ratio_give": -140,
+    "ratio_give": -169,
     "grade_level": 17.7,
     "word_count": 62,
     "category": "Uncategorized",
@@ -75545,7 +75545,7 @@
     "id": 136288805,
     "top_level": false,
     "date": "Jul 17 2025 15:35",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1752780949,
     "body": [
       [
@@ -75677,13 +75677,563 @@
     ],
     "total_children": 1,
     "parent_id": 136201752,
-    "parent_children": 4,
+    "parent_children": 5,
     "thread_id": 136125804,
-    "thread_children": 256,
+    "thread_children": 303,
     "ratio_recv": null,
-    "ratio_give": -19,
+    "ratio_give": -26,
     "grade_level": 6.7,
     "word_count": 88,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 166007446,
+    "title": "The crisis of expertise is about values",
+    "canonical_url": "https://www.slowboring.com/p/the-crisis-of-expertise-is-about",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136300349,
+    "top_level": false,
+    "date": "Jul 17 2025 16:14",
+    "likes": 0,
+    "timestamp": 1752783254,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, and similar to major university leagues, there are plenty of ways to trade through higher vs. lower cohorts, primarily by the cost of living relative to pay of the league. After all, even Netflix can do another GNU/Linux to the extent that even Gates could appreciate it differently for mobile vs. localized networks that increasingly become cohorts of intra vs inter nets of \"Interac++ vs Stripe card networks\", as needed, for academics or even local regional private business networks."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 136170753,
+    "parent_children": 6,
+    "thread_id": 136125804,
+    "thread_children": 303,
+    "ratio_recv": null,
+    "ratio_give": -37,
+    "grade_level": 11.1,
+    "word_count": 80,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 168456522,
+    "title": "We probably can't ban prescription drug ads",
+    "canonical_url": "https://www.slowboring.com/p/we-probably-cant-ban-prescription",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136504224,
+    "top_level": false,
+    "date": "Jul 18 2025 09:19",
+    "likes": 0,
+    "timestamp": 1752844792,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. And I even believe JPow also agrees with this narrative structure today at 09:16 AM NYC Q&A. [1] I'd personally think about some silly stuff going on on X today for all of us [2] overthinking SC2 integrations that need more USBC stuff."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1]  "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/live/RCaNNra6OGs?si=S70JMFwt4VddrM76"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://twitter.com/wtfcetialpha5/status/1946190762695086179"
+        }
+      ]
+    ],
+    "total_children": 7,
+    "parent_id": 136497962,
+    "parent_children": 8,
+    "thread_id": 136474295,
+    "thread_children": 10,
+    "ratio_recv": 0,
+    "ratio_give": -4,
+    "grade_level": 9.9,
+    "word_count": 46,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 168456522,
+    "title": "We probably can't ban prescription drug ads",
+    "canonical_url": "https://www.slowboring.com/p/we-probably-cant-ban-prescription",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136508971,
+    "top_level": false,
+    "date": "Jul 18 2025 09:35",
+    "likes": 0,
+    "timestamp": 1752845707,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Agreed. Moreover, what if you wanted to simplify this to a live MTV broadcast and you also owned the exclusive rights to the lyrics? Would you choose 2010 [1], Official 2000 [2], or a modern short without lyrics, [3] or Constantine (2005) - Holy Water in The Hospital Scene (1080p)? [4]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I personally could use any today to avoid JPow's discussion in Manhattan, including discussing the MediaMath ordering for personalized playlists in Spotify right here in our Friday discussion Channel of Slow Boring. [5] "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/qm7ych5qH14?si=EVJO5Zt25dKxDixh"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=Q3dvbM6Pias"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/shorts/Y_qkkuHYjdk"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/t1G4waX9G0k?si=nzjLF3qZ0zKx9g_b"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[5] "
+        },
+        {
+          "type": "url",
+          "value": "https://open.spotify.com/playlist/7CKMqWuyK9K0tloyUEH3JF?si=5d759eb0e2084e26"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 136496248,
+    "parent_children": 2,
+    "thread_id": 136468229,
+    "thread_children": 34,
+    "ratio_recv": null,
+    "ratio_give": -13,
+    "grade_level": 10.7,
+    "word_count": 88,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 168456522,
+    "title": "We probably can't ban prescription drug ads",
+    "canonical_url": "https://www.slowboring.com/p/we-probably-cant-ban-prescription",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136511685,
+    "top_level": false,
+    "date": "Jul 18 2025 09:43",
+    "likes": 1,
+    "timestamp": 1752846230,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/mattchagy/status/1946203919111123153"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "---Begin ChatGPT o3 2025-07-18T09:43 UTC NYC---"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From: Matt Hagy <matt@example.com>"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "To: Bjorn <bjorn@example.com>"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Subject: RE: Supply-chain thread \u2014 acronym key + context"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Date: Fri, 18 Jul 2025 10:05 -0400"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "MIME-Version: 1.0"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Content-Type: text/plain; charset=UTF-8"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Hi Bjorn,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Below is a plain-text breakdown of yesterday\u2019s mini-thread with every acronym"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "spelled out and a bit of colour commentary. Feel free to paste this back into"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "the comments or forward as you like."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "ORIGINAL THREAD (quoted) + EXPLANATION"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> OP: \u201cWe don\u2019t need imports! \u2026 Filling shelves.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": ">      *pro-tip: expect more \u2018store brands\u2019 \u2026 under the banner of Trade Secrets.*"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \u2022 Context \u2013 The poster argues that, in a crunch, the retailer who can *physically"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    stock shelves* wins.  Re-branding imported goods as in-house \u201cstore brands\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    both hides origin and cuts cost."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Bjorn: \u201cThis is a useful comment!\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \u2022 Your nod of approval."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Matt: \u201cYep. And I even believe **JPow** also agrees with this narrative"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> structure today at 09 : 16 AM **NYC Q&A**. [1]"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> I\u2019d personally think about some silly stuff going on on **X** today for all"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> of us [2] overthinking **SC2** integrations that need more **USBC** stuff.\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  Acronym key (in order of appearance)"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  ------------------------------------"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - **JPow** \u2013 Jerome Powell, Chair of the U.S. Federal Reserve.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - **NYC Q&A** \u2013 A live question-and-answer session in New York City (YouTube link [1]).  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - **X** \u2013 Twitter\u2019s current brand name.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - **SC2** \u2013 \u201cSupply Chain 2.0\u201d (my shorthand for the next-gen, mostly-domestic"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    logistics stack \u2014 *not* the video game).  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  - **USB-C** \u2013 The universal USB Type-C connector standard (used here as a tongue-"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    in-cheek symbol of tech folks obsessing over ports instead of logistics)."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  Why I mentioned them"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  --------------------"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  1. Powell\u2019s answer at 09 : 16 stresses **domestic resilience** \u2192 matches OP\u2019s"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "     \u201cfill-the-shelves\u201d thesis.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  2. Twitter/X is full of hot-takes today about \u201cjust mandate USB-C\u201d or \u201cbolt on"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "     Supply-Chain 2.0 middleware,\u201d missing the slow, boring plumbing work.  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  3. My comment was a gentle nudge to keep our focus on *operational* fixes,"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "     not gadget trivia."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Bjorn: \u201cCan you please explain those acronyms for the benefit of us who don\u2019t"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> want to chase down links?\u201d"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "  \u2022 Voil\u00e0 \u2014 this email. \ud83d\ude0a"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "QUICK REFERENCE"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] YouTube \u2014 Powell\u2019s NYC Economic Club Q&A (timestamp already at 09 : 16).  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] X / @wftcetialpha5 \u2014 light-hearted thread about every new retail gizmo"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "    allegedly \u201cneeding\u201d a USB-C port."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Next step"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I\u2019ll splice a one-hour highlight reel of our real-time chat later and send it as"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "a follow-up attachment (MPEG-4).  Let me know if you\u2019d like any more detail."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Cheers,  "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Matt"
+        }
+      ]
+    ],
+    "total_children": 4,
+    "parent_id": 136507951,
+    "parent_children": 6,
+    "thread_id": 136474295,
+    "thread_children": 10,
+    "ratio_recv": 3,
+    "ratio_give": 1,
+    "grade_level": 7.1,
+    "word_count": 387,
     "category": "Uncategorized",
     "tags": []
   }
