@@ -75525,11 +75525,11 @@
     ],
     "total_children": 1,
     "parent_id": 136125804,
-    "parent_children": 303,
+    "parent_children": 327,
     "thread_id": 136125804,
-    "thread_children": 303,
+    "thread_children": 327,
     "ratio_recv": null,
-    "ratio_give": -169,
+    "ratio_give": -194,
     "grade_level": 17.7,
     "word_count": 62,
     "category": "Uncategorized",
@@ -75679,9 +75679,9 @@
     "parent_id": 136201752,
     "parent_children": 5,
     "thread_id": 136125804,
-    "thread_children": 303,
+    "thread_children": 327,
     "ratio_recv": null,
-    "ratio_give": -26,
+    "ratio_give": -29,
     "grade_level": 6.7,
     "word_count": 88,
     "category": "Uncategorized",
@@ -75711,13 +75711,17 @@
     "parent_id": 136170753,
     "parent_children": 6,
     "thread_id": 136125804,
-    "thread_children": 303,
+    "thread_children": 327,
     "ratio_recv": null,
-    "ratio_give": -37,
+    "ratio_give": -39,
     "grade_level": 11.1,
     "word_count": 80,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "higher education",
+      "tech industry"
+    ]
   },
   {
     "post_id": 168456522,
@@ -75759,13 +75763,13 @@
         }
       ]
     ],
-    "total_children": 7,
+    "total_children": 14,
     "parent_id": 136497962,
-    "parent_children": 8,
+    "parent_children": 15,
     "thread_id": 136474295,
-    "thread_children": 10,
-    "ratio_recv": 0,
-    "ratio_give": -4,
+    "thread_children": 27,
+    "ratio_recv": 3,
+    "ratio_give": -12,
     "grade_level": 9.9,
     "word_count": 46,
     "category": "Uncategorized",
@@ -75851,9 +75855,9 @@
     "parent_id": 136496248,
     "parent_children": 2,
     "thread_id": 136468229,
-    "thread_children": 34,
+    "thread_children": 135,
     "ratio_recv": null,
-    "ratio_give": -13,
+    "ratio_give": -20,
     "grade_level": 10.7,
     "word_count": 88,
     "category": "Uncategorized",
@@ -76225,16 +76229,120 @@
         }
       ]
     ],
-    "total_children": 4,
+    "total_children": 9,
     "parent_id": 136507951,
-    "parent_children": 6,
+    "parent_children": 11,
     "thread_id": 136474295,
-    "thread_children": 10,
-    "ratio_recv": 3,
-    "ratio_give": 1,
+    "thread_children": 27,
+    "ratio_recv": 10,
+    "ratio_give": -2,
     "grade_level": 7.1,
     "word_count": 387,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "Federal Reserve"
+    ]
+  },
+  {
+    "post_id": 168456522,
+    "title": "We probably can't ban prescription drug ads",
+    "canonical_url": "https://www.slowboring.com/p/we-probably-cant-ban-prescription",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 136698760,
+    "top_level": false,
+    "date": "Jul 18 2025 20:06",
+    "likes": 0,
+    "timestamp": 1752883584,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Thank you Substack for your community of committed RELUs for the Hagy threading consideration about constants in the cohorts of threads with potentiometers of Millennials "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Helpful for questions about the pivoting groups relative to earlier Yglesias lines relative to other recursive components about lines"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Eg, where did our Freddie's go with his rarely seen labels cohorts of complainers. Give it a year or two of Trump 2.0 and we'll have increasingly high quality data ..."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 136682794,
+    "parent_children": 2,
+    "thread_id": 136474295,
+    "thread_children": 27,
+    "ratio_recv": null,
+    "ratio_give": -3,
+    "grade_level": 12.9,
+    "word_count": 74,
+    "category": "Uncategorized",
+    "tags": [
+      "Donald Trump",
+      "online discourse",
+      "user engagement"
+    ]
+  },
+  {
+    "post_id": 168562263,
+    "title": "America should stop giving Israel financial aid ",
+    "canonical_url": "https://www.slowboring.com/p/america-should-stop-giving-israel",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 137452638,
+    "top_level": false,
+    "date": "Jul 21 2025 11:44",
+    "likes": 0,
+    "timestamp": 1753112674,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah, there are some disgusting anti-social miscreants that have long attempted to define the strongest \"victims of American institutions\" and I'm increasingly frustrated that they narrowed in on \"global Zionism in modern Israel as defined by most extreme elements within the Muslim Brother Hood interpretation of ethnic hate crimes index\" as the current focus. 10 years ago these same cohorts of anti-social, online losers would just blindly hate capitalism, with similar fervor, but it is increasingly disturbing how they narrowed in on a long simulating, ethnic and religious violent conflict, for the support of increasingly Nazi-like ideology."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Fine if they hate the current Israel leadership and specific actions over time, but to simplify this to some simple, \"Death to Jews and their Western Allies\", just shows the limited breadth of knowledge and sophistication of these increasingly narrow cohorts of d-bags and retards. Maybe they could at least go back to just being hippies killing themselves through drugs and prostitutions for their hatred of capitalism and their fallings in our social order. Eg, WACO, Scientology, and other dead ends cults..."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "At least out here in NYC Manhattan we're just locking up the worsts individuals and winding them down through the power of drugs and psychotherapy that increasingly burns down their simmering hatred of institutions. Even weird how some of the worst offenders are attacking literal muslim individuals, literally dressed in traditional shawls, using Islamic extremist langue that narrow in on their minor disagreements about orthodoxy. But whatever, at least it's limited to standard NYC asshole behavior (we have plenty of that). Me, I'm having fun being yet another cohort of affluent OWS assholes using the power of finance and math to absorb and deflect some of these shit birds and seeing our police put them in their place. For details, see my re-activated Twitter, "
+        },
+        {
+          "type": "url",
+          "value": "https://x.com/mattchagy"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 137368759,
+    "parent_children": 162,
+    "thread_id": 137368759,
+    "thread_children": 162,
+    "ratio_recv": null,
+    "ratio_give": -99,
+    "grade_level": 16.3,
+    "word_count": 303,
+    "category": "Uncategorized",
+    "tags": [
+      "Middle East conflict",
+      "US politics",
+      "antisemitism",
+      "crime and justice",
+      "online discourse"
+    ]
   }
 ]
