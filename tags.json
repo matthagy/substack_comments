@@ -6117,7 +6117,6 @@
     "political strategy"
   ],
   "133095601": [
-    "Republican Party",
     "US politics",
     "political polarization",
     "political strategy"
@@ -6128,16 +6127,15 @@
     "tech industry"
   ],
   "134963041": [
-    "Democratic Party",
+    "Biden administration",
     "Donald Trump",
     "US politics",
-    "political strategy",
-    "voter behavior"
+    "progressive politics",
+    "user engagement"
   ],
   "134973022": [
     "data analysis",
     "generative AI",
-    "social media influence",
     "user engagement"
   ],
   "136283658": [],
@@ -6149,18 +6147,67 @@
   ],
   "136508971": [],
   "136511685": [
-    "Federal Reserve"
+    "Federal Reserve",
+    "US politics"
   ],
-  "136698760": [
-    "Donald Trump",
-    "online discourse",
-    "user engagement"
-  ],
+  "136698760": [],
   "137452638": [
     "Middle East conflict",
     "US politics",
     "antisemitism",
-    "crime and justice",
-    "online discourse"
+    "economic inequality"
+  ],
+  "138222882": [
+    "Donald Trump",
+    "economic policy",
+    "geopolitical strategy",
+    "inflation",
+    "international relations"
+  ],
+  "138397965": [
+    "Democratic Party",
+    "US politics",
+    "economic inequality",
+    "fiscal policy",
+    "inflation"
+  ],
+  "138521992": [
+    "US politics",
+    "economic inequality",
+    "healthcare complexity",
+    "progressive politics",
+    "social security"
+  ],
+  "138526388": [
+    "Middle East conflict",
+    "Republican Party",
+    "US politics",
+    "censorship",
+    "social security"
+  ],
+  "138529847": [
+    "Billonaires",
+    "Donald Trump",
+    "MAGA",
+    "US politics",
+    "cryptocurrency"
+  ],
+  "138532099": [
+    "US politics",
+    "economic policy",
+    "tax policy"
+  ],
+  "138577372": [
+    "US politics",
+    "political leadership",
+    "tax policy",
+    "voter behavior",
+    "welfare state"
+  ],
+  "139091723": [
+    "Biden administration",
+    "Democratic Party",
+    "Russia-Ukraine conflict",
+    "US politics"
   ]
 }
