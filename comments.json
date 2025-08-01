@@ -76737,11 +76737,11 @@
     ],
     "total_children": 1,
     "parent_id": 138957426,
-    "parent_children": 44,
+    "parent_children": 54,
     "thread_id": 138957426,
-    "thread_children": 44,
+    "thread_children": 54,
     "ratio_recv": null,
-    "ratio_give": -25,
+    "ratio_give": -27,
     "grade_level": 10.2,
     "word_count": 53,
     "category": "Uncategorized",
@@ -76788,6 +76788,69 @@
       "Democratic Party",
       "Russia-Ukraine conflict",
       "US politics"
+    ]
+  },
+  {
+    "post_id": 169472131,
+    "title": "A Zoomer explains it all",
+    "canonical_url": "https://www.slowboring.com/p/a-zoomer-explains-it-all",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 141081146,
+    "top_level": true,
+    "date": "Aug 01 2025 07:44",
+    "likes": 7,
+    "timestamp": 1754048690,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "> Most people I know are not especially enthusiastic about our future, and if I were to nail down the two points driving the dread, it would be the rise of brain-destroying media content and the prospect of job-destroying AI."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "This characterisation of the Zoomers sounds like an echo of narrative about Gen X and then Millennials. I personally knew numerous millennials in my cohort (1986 birthday year) who felt similarly through the late 90\u2019s and early 2000\u2019s. Modern info tech (chiefly Microsoft office, backoffice automation, and outsourcing) were restructuring, streamlining, and eliminating conventional white collar work (eg, the massive deluge of underemployed lawyers). Moreover, the internet and computer games were consuming the lives of many teenagers and early twenty-something adults. These concerns were further compounded with the dotcom crash and the Great Financial Crisis and resulting Great Recession. Not to mention the September 11th 2001 terrorist attack and overreaction of the ongoing War on Terrorism and our sisyphean task to bring Peace and Democracy to the Middle East."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Overall, our people and our institutions will adapt to the ever increasing speed and power of global information processing networks. We may be uncomfortable, even terrified, with the process and this novel evolution of our society. But, as Ben notes, we all have it better than past generations, and his following poignant point that bears repeating."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> Thank you for your kind words! Whenever I\u2019m talking with my peers \u2014 namely, cosmopolitan college-educated kids \u2014 and the topic inevitably turns to existential dread about our future, I like to point out that many past generations were dealt a much worse hand. We\u2019re not being drafted into a war, we\u2019re not fleeing a conflict-zone, and our country, for all of its flaws, is objectively a place with much better material living conditions than in the past."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "From my perspective, the chief problem is the \u201crisk- and trust-averse\u201d he highlights, as constructed by our pathological obsession with our ever more convoluted digital media environment. Hopefully the past thirty years of development in increasingly targeted and powerful information processing will at least convince people to accept Camus\u2019s Existential framing of the banality and horrors of modernity so that we can all at least enjoy some of limited time of our lived reality, with some degree of forward looking considerations. Eg, \u201cdon\u2019t kill yourself; be careful with drugs and alcohol; practice safe sex; don\u2019t drink and drive; be careful with debt and career forecasting; no need to employee violence unless your in a state institution; some people need medication and institutionalization; not all economic, social, and geopolitical problems are tractable, etc\u2026\u201d"
+        }
+      ],
+      []
+    ],
+    "total_children": 6,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 141081146,
+    "thread_children": 6,
+    "ratio_recv": 7,
+    "ratio_give": null,
+    "grade_level": 15.0,
+    "word_count": 432,
+    "category": "Uncategorized",
+    "tags": [
+      "automation",
+      "digital privacy",
+      "economic inequality",
+      "public misinformation",
+      "social media influence"
     ]
   }
 ]
