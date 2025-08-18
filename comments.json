@@ -76800,7 +76800,7 @@
     "id": 141081146,
     "top_level": true,
     "date": "Aug 01 2025 07:44",
-    "likes": 7,
+    "likes": 9,
     "timestamp": 1754048690,
     "body": [
       [
@@ -76840,7 +76840,7 @@
     "parent_children": null,
     "thread_id": 141081146,
     "thread_children": 6,
-    "ratio_recv": 7,
+    "ratio_recv": 9,
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 432,
@@ -76852,5 +76852,71 @@
       "public misinformation",
       "social media influence"
     ]
+  },
+  {
+    "post_id": 171093055,
+    "title": "Sunday Thread + Mailbag",
+    "canonical_url": "https://www.slowboring.com/p/sunday-thread-mailbag-eb9",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 146374258,
+    "top_level": false,
+    "date": "Aug 17 2025 13:46",
+    "likes": 10,
+    "timestamp": 1755452786,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I greatly enjoyed Grand Jury service in Atlanta, GA during the pandemic in 2022. Notably we got to hear ~200 cases, sometimes nearly 20 in a day, other times just a single case. As a result, I learned a ton about the nuances of our legal and court systems, including the differences between Federal, State, and Municipal laws, particularly around Marijuana and Fire Arms."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a software engineer/mathematician, I particularly appreciated the striding approach used to scheduling as elaborated in "
+        },
+        {
+          "type": "url",
+          "value": "https://www.dekalbda.org/divisions_special_units/special_units/grand_jury/index.php"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "> The Grand Jury is comprised of 16 to 23 citizens who are impaneled for one term of court. DeKalb County Superior Court has a two-month term of court. During that term, the Grand Jury will generally convene two days out of each week for an average of 16 days per term. Read more about the Grand Jury in the FAQ section below."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "As a result, each day of service could differ not only in terms of cases, but also in terms of participants. People could request days off and sometimes we'd have to wait an hour due to people held up in traffic or other delays. All voting was done through a show of hands so we each knew roughly who was going each way. At times we'd discuss cases and request more info from police officers and other people called to testify. Other times we'd quickly move to vote."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I particularly remember many incidents that involved driving intoxicated (weed or alcohol) and aggravating services of illegal firearm possession. There was a large backlog of such cases and it was great that some days we quickly moved to move forward in prosecuting dozens of these arrests into proper criminal trials."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Was a great way to get through the Covid 19 pandemic while making a positive contribution to our society!"
+        }
+      ]
+    ],
+    "total_children": 2,
+    "parent_id": 146363369,
+    "parent_children": 28,
+    "thread_id": 146363369,
+    "thread_children": 28,
+    "ratio_recv": -6,
+    "ratio_give": -16,
+    "grade_level": 9.9,
+    "word_count": 299,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
