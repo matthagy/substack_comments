@@ -76909,14 +76909,134 @@
     ],
     "total_children": 2,
     "parent_id": 146363369,
-    "parent_children": 28,
+    "parent_children": 30,
     "thread_id": 146363369,
-    "thread_children": 28,
+    "thread_children": 30,
     "ratio_recv": -6,
-    "ratio_give": -16,
+    "ratio_give": -19,
     "grade_level": 9.9,
     "word_count": 299,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "crime and justice",
+      "drug policy"
+    ]
+  },
+  {
+    "post_id": 170883187,
+    "title": "Moderation is not overrated ",
+    "canonical_url": "https://www.slowboring.com/p/moderation-is-not-overrated",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 146612289,
+    "top_level": false,
+    "date": "Aug 18 2025 09:31",
+    "likes": 2,
+    "timestamp": 1755523907,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Moreover, there has been a constant tension between understanding people and influencing them throughout the history of communication studies and their associated technologies. That is unavoidable."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Yet parties, cohorts, and individuals can at times become myopic about short term concerns and can even lose the pull of their broader societies. Some even double down into echo chambers to improve their sense of connection. At times that can help people push through pain, find meaning, and even accomplish tangible results. Alternatively, the alienation and growing delusion can lead to extremism and destruction. Eg the:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Trump1 / Clinton-SVD / Marx-Sanderistas -> "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Biden / Sanders / Warrenites -> "
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "* Trump2.0/Maga/Musk/ICE/Tariff"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "We've all lived through in the last 12 years"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 146569846,
+    "parent_children": 49,
+    "thread_id": 146569846,
+    "thread_children": 49,
+    "ratio_recv": null,
+    "ratio_give": -117,
+    "grade_level": 9.9,
+    "word_count": 110,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "MAGA",
+      "US politics",
+      "political polarization"
+    ]
+  },
+  {
+    "post_id": 171403473,
+    "title": "Your cause is not the moral equivalent of fighting slavery",
+    "canonical_url": "https://www.slowboring.com/p/your-cause-is-not-the-moral-equivalent",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 148918495,
+    "top_level": false,
+    "date": "Aug 25 2025 09:36",
+    "likes": 10,
+    "timestamp": 1756129006,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yes, although in living memory Israel was more of a left-wing project than a capitalistic one, with backing directly from the USSR. Moreover, their evolution over the last 100 or so years has involved lots of real world violence (including terrorism targeting civilians). Their project of establishing a \u201cJewish Homeland\u201d has involved a multitude of compromises, setbacks, and defeats. Including losses for which finance vs humanity vs international allegiances vs ideology becomes increasingly poignant. Simplifying this to a \u201cmember in good standing of the global capitalist system\u201d is only possibly following the defeat of the USSR, the acceptance of CCP China into the global financial system, and the ever evolving politics of the Middle East (notably 9/11 and our \u201cWar on Terrorism\u201d). Even the 90\u2019s were volatile as Israel accepted SCUD missile launches into their territory without retaliation nor formally joining The Gulf War."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "I don\u2019t even consider myself a defender of Israel, just a starch critic of their loudest and sloppiest critics who reduce this down to the horrors of ongoing suffering among Palestinians. I\u2019m quite a layperson in terms of the history and recent/contemporary issues, yet I\u2019ve been consistently dismayed by the disgusting way in which this suffering is turned into a marketing and political project for a multitude of amorphous left wing movements over the last couple of decades. Yes, the suffering is real, yet that is also ideologically tied to the meaning of life and spirituality as conceived of by individuals experiencing the horrors of the violence and also a cornerstone of Palestinian leadership's ideology. It is near impossible for us in the safety of modernity to relate the psychology and sociology of such an existence. If anything, Israelis may be their closest sociological group in modernity that can emphasize (particularly after the October attacks 2023), yet that may only fuel the resolve to further violent subjugation and defeat."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "So I hope more of us can challenge the simplest ways in which Western Allies of Palestinians strip these people and their Israeli enemies of their humanity for dubious at best reasons in the domestic politics of American and European nations."
+        }
+      ],
+      []
+    ],
+    "total_children": 3,
+    "parent_id": 148893266,
+    "parent_children": 42,
+    "thread_id": 148879624,
+    "thread_children": 125,
+    "ratio_recv": -2,
+    "ratio_give": -49,
+    "grade_level": 16.0,
+    "word_count": 354,
+    "category": "Uncategorized",
+    "tags": [
+      "Middle East conflict",
+      "antisemitism",
+      "international relations"
+    ]
   }
 ]
