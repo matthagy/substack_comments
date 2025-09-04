@@ -77000,7 +77000,7 @@
     "id": 148918495,
     "top_level": false,
     "date": "Aug 25 2025 09:36",
-    "likes": 10,
+    "likes": 12,
     "timestamp": 1756129006,
     "body": [
       [
@@ -77023,13 +77023,13 @@
       ],
       []
     ],
-    "total_children": 3,
+    "total_children": 6,
     "parent_id": 148893266,
-    "parent_children": 42,
+    "parent_children": 61,
     "thread_id": 148879624,
-    "thread_children": 125,
-    "ratio_recv": -2,
-    "ratio_give": -49,
+    "thread_children": 165,
+    "ratio_recv": -4,
+    "ratio_give": -52,
     "grade_level": 16.0,
     "word_count": 354,
     "category": "Uncategorized",
@@ -77037,6 +77037,81 @@
       "Middle East conflict",
       "antisemitism",
       "international relations"
+    ]
+  },
+  {
+    "post_id": 172215380,
+    "title": "A boring theory of the populist right ",
+    "canonical_url": "https://www.slowboring.com/p/a-boring-theory-of-the-populist-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 152450859,
+    "top_level": false,
+    "date": "Sep 04 2025 15:09",
+    "likes": 2,
+    "timestamp": 1757012990,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. It is disappointing that we constantly revisit considerations that were obvious even before 2016, let alone 2020 and 2024. Hopefully our increasingly focused efforts at reforming sub-divisions within Democratic-aligned institutions will eventually marginalize unproductive, even maliciously aligned, actors and their funding. In some ways Trump 2.0 fights about laws, funding, and employment may be our forcing function for 2026 and beyond..."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 152285234,
+    "parent_children": 89,
+    "thread_id": 152285234,
+    "thread_children": 89,
+    "ratio_recv": null,
+    "ratio_give": -131,
+    "grade_level": 11.7,
+    "word_count": 62,
+    "category": "Uncategorized",
+    "tags": [
+      "Democratic Party",
+      "Donald Trump",
+      "US politics",
+      "political strategy"
+    ]
+  },
+  {
+    "post_id": 172215380,
+    "title": "A boring theory of the populist right ",
+    "canonical_url": "https://www.slowboring.com/p/a-boring-theory-of-the-populist-right",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 152452579,
+    "top_level": false,
+    "date": "Sep 04 2025 15:15",
+    "likes": 0,
+    "timestamp": 1757013305,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yeah. Although we all knew Biden/Warren/Sanderistas strategy was haunted by \"everything bagel liberalism\" and border enforcement was purposefully marginalized to minimize other considerations. Biden even used this to give Harris a dirty job to own of \"lead diplomatic efforts to address the root causes of migration from Central America\". So we knew this, and other wedge issues, would cause pain. Hopefully we increasingly sharpen these wedges down to reasonable dividing lines so that we can avoid offending everyone a little bit with increasingly nuanced, weird considerations about a multitude of issues."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 152388772,
+    "parent_children": 7,
+    "thread_id": 152285234,
+    "thread_children": 89,
+    "ratio_recv": null,
+    "ratio_give": -25,
+    "grade_level": 13.4,
+    "word_count": 91,
+    "category": "Uncategorized",
+    "tags": [
+      "Biden administration",
+      "Democratic Party",
+      "US politics",
+      "immigration issues",
+      "political strategy"
     ]
   }
 ]
