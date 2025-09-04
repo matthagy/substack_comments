@@ -557,7 +557,7 @@
     "ratio_give": null,
     "grade_level": 15.5,
     "word_count": 198,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -607,7 +607,7 @@
     "ratio_give": -25,
     "grade_level": 10.5,
     "word_count": 223,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "education reform",
       "higher education"
@@ -884,7 +884,7 @@
     "ratio_give": -118,
     "grade_level": 17.2,
     "word_count": 89,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "education inequality",
       "identity politics",
@@ -991,7 +991,7 @@
     "ratio_give": -18,
     "grade_level": 7.8,
     "word_count": 88,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "online discourse",
       "political polarization",
@@ -1214,7 +1214,7 @@
     "ratio_give": -41,
     "grade_level": 12.6,
     "word_count": 341,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "climate change",
@@ -1617,7 +1617,7 @@
     "ratio_give": 14,
     "grade_level": 7.7,
     "word_count": 138,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "censorship",
       "digital privacy"
@@ -2065,7 +2065,7 @@
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 196,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "political strategy",
@@ -2214,7 +2214,7 @@
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 224,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Republican Party",
       "US politics",
@@ -2252,7 +2252,7 @@
     "ratio_give": 20,
     "grade_level": 10.2,
     "word_count": 44,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": []
   },
   {
@@ -2302,7 +2302,7 @@
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 249,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -2516,7 +2516,7 @@
     "ratio_give": 4,
     "grade_level": 9.5,
     "word_count": 66,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -2554,7 +2554,7 @@
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 142,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Biden administration",
       "Democratic Party",
@@ -2638,7 +2638,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 386,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "content moderation",
@@ -2818,7 +2818,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 314,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "business strategy",
       "class dynamics",
@@ -2856,7 +2856,7 @@
     "ratio_give": 15,
     "grade_level": 10.1,
     "word_count": 41,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": []
   },
   {
@@ -2934,7 +2934,7 @@
     "ratio_give": null,
     "grade_level": 9.1,
     "word_count": 142,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "online discourse",
@@ -3202,7 +3202,7 @@
     "ratio_give": -5,
     "grade_level": 10.6,
     "word_count": 169,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "Donald Trump",
       "online discourse",
@@ -3301,7 +3301,7 @@
     "ratio_give": 5,
     "grade_level": 11.0,
     "word_count": 160,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "abortion rights",
       "activism",
@@ -3372,7 +3372,7 @@
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 325,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "economic policy",
       "energy policy",
@@ -3419,7 +3419,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 104,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "user engagement"
@@ -3454,7 +3454,7 @@
     "ratio_give": 3,
     "grade_level": 12.3,
     "word_count": 14,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -3649,7 +3649,7 @@
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 330,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "education reform",
@@ -3995,7 +3995,7 @@
     "ratio_give": -2,
     "grade_level": 6.4,
     "word_count": 238,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "Russia-Ukraine conflict",
       "US-China relations",
@@ -4119,7 +4119,7 @@
     "ratio_give": 17,
     "grade_level": 9.3,
     "word_count": 77,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education reform"
@@ -4202,7 +4202,7 @@
     "ratio_give": null,
     "grade_level": 14.7,
     "word_count": 300,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -4326,7 +4326,7 @@
     "ratio_give": null,
     "grade_level": 5.8,
     "word_count": 298,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "education reform",
       "identity politics",
@@ -4396,7 +4396,7 @@
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 313,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "identity politics",
       "online discourse",
@@ -4570,7 +4570,7 @@
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 195,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "elitism",
@@ -4679,7 +4679,7 @@
     "ratio_give": 12,
     "grade_level": 7.5,
     "word_count": 138,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "economic policy",
       "environmental impact",
@@ -4722,7 +4722,7 @@
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 221,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "business strategy",
@@ -4825,7 +4825,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 43,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": []
   },
   {
@@ -4867,7 +4867,7 @@
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 84,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "US politics",
       "identity politics",
@@ -4994,7 +4994,7 @@
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 291,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -5220,7 +5220,7 @@
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 197,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "drug policy",
       "homelessness",
@@ -5463,7 +5463,7 @@
     "ratio_give": null,
     "grade_level": 12.1,
     "word_count": 271,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "education reform",
@@ -5592,7 +5592,7 @@
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 364,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "activism",
       "identity politics",
@@ -5791,7 +5791,7 @@
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 189,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "abortion rights",
       "human rights"
@@ -6186,7 +6186,7 @@
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 227,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -6265,7 +6265,7 @@
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 213,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "political polarization",
       "progressive politics",
@@ -6313,7 +6313,7 @@
     "ratio_give": 2,
     "grade_level": 10.2,
     "word_count": 147,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "identity politics",
       "political polarization",
@@ -6360,7 +6360,7 @@
     "ratio_give": 12,
     "grade_level": 13.8,
     "word_count": 104,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "immigration issues",
@@ -6562,7 +6562,7 @@
     "ratio_give": -8,
     "grade_level": 12.9,
     "word_count": 148,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "online discourse",
@@ -6604,7 +6604,7 @@
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 193,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "abortion rights",
       "activism",
@@ -6660,7 +6660,7 @@
     "ratio_give": 9,
     "grade_level": 10.8,
     "word_count": 246,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "online discourse",
       "social media influence"
@@ -6740,7 +6740,7 @@
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 179,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "economic policy",
@@ -6843,7 +6843,7 @@
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 490,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "banking regulation",
       "consumer behavior",
@@ -6905,7 +6905,7 @@
     "ratio_give": null,
     "grade_level": 10.0,
     "word_count": 365,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Uncategorized",
     "tags": [
       "content moderation",
       "digital privacy",
@@ -6953,7 +6953,7 @@
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 256,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "abortion rights",
       "activism",
@@ -7249,7 +7249,7 @@
     "ratio_give": null,
     "grade_level": 14.1,
     "word_count": 130,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "Republican Party",
@@ -7353,7 +7353,7 @@
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 219,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "MAGA",
@@ -7644,7 +7644,7 @@
     "ratio_give": -45,
     "grade_level": 13.0,
     "word_count": 199,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -7853,7 +7853,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 427,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "bureaucracy",
       "economic inequality",
@@ -7937,7 +7937,7 @@
     "ratio_give": 4,
     "grade_level": 12.8,
     "word_count": 122,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic inequality",
       "taxation"
@@ -8091,7 +8091,7 @@
     "ratio_give": null,
     "grade_level": 13.4,
     "word_count": 297,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Biden administration",
       "education reform",
@@ -8139,7 +8139,7 @@
     "ratio_give": -1,
     "grade_level": 9.9,
     "word_count": 120,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Biden administration",
       "Democratic Party",
@@ -8461,7 +8461,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 187,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -8512,7 +8512,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 180,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "social media influence",
       "subscription models",
@@ -8548,7 +8548,7 @@
     "ratio_give": 0,
     "grade_level": 10.8,
     "word_count": 58,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": []
   },
   {
@@ -8620,7 +8620,7 @@
     "ratio_give": 7,
     "grade_level": 12.0,
     "word_count": 77,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "US politics",
       "censorship",
@@ -8710,7 +8710,7 @@
     "ratio_give": null,
     "grade_level": 14.2,
     "word_count": 153,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -8955,7 +8955,7 @@
     "ratio_give": 10,
     "grade_level": 13.4,
     "word_count": 87,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "US politics",
       "geopolitical strategy",
@@ -9007,7 +9007,7 @@
     "ratio_give": 19,
     "grade_level": 11.5,
     "word_count": 268,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -9159,7 +9159,7 @@
     "ratio_give": null,
     "grade_level": 13.3,
     "word_count": 99,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "economic policy",
       "liberalism",
@@ -9322,7 +9322,7 @@
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 286,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "bureaucracy",
       "economic policy",
@@ -9384,7 +9384,7 @@
     "ratio_give": null,
     "grade_level": 9.7,
     "word_count": 197,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "education inequality",
       "education reform",
@@ -9432,7 +9432,7 @@
     "ratio_give": -19,
     "grade_level": 9.6,
     "word_count": 191,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "user engagement"
@@ -9590,7 +9590,7 @@
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 359,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "Federal Reserve",
       "economic policy",
@@ -9714,7 +9714,7 @@
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 131,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "mental health",
       "public health",
@@ -9801,7 +9801,7 @@
     "ratio_give": null,
     "grade_level": 11.6,
     "word_count": 268,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Russia-Ukraine conflict",
       "geopolitical strategy",
@@ -9953,7 +9953,7 @@
     "ratio_give": 11,
     "grade_level": 9.1,
     "word_count": 89,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "education reform",
       "higher education"
@@ -10118,7 +10118,7 @@
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 240,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "economic policy",
@@ -10218,7 +10218,7 @@
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 202,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -10367,7 +10367,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 278,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -10427,7 +10427,7 @@
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 196,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -10511,7 +10511,7 @@
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 388,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "media bias",
@@ -10776,7 +10776,7 @@
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 388,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "censorship",
       "content moderation",
@@ -10830,7 +10830,7 @@
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 128,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "digital privacy",
@@ -10908,7 +10908,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 433,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "economic policy",
@@ -11201,7 +11201,7 @@
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 150,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "activism",
       "online discourse",
@@ -11432,7 +11432,7 @@
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 248,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -11554,7 +11554,7 @@
     "ratio_give": 6,
     "grade_level": 9.5,
     "word_count": 208,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "US politics",
       "crime and justice",
@@ -11866,7 +11866,7 @@
     "ratio_give": null,
     "grade_level": 9.8,
     "word_count": 286,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -11931,7 +11931,7 @@
     "ratio_give": -8,
     "grade_level": 12.9,
     "word_count": 494,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -12071,7 +12071,7 @@
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 100,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "censorship",
       "media influence",
@@ -12120,7 +12120,7 @@
     "ratio_give": null,
     "grade_level": 13.4,
     "word_count": 161,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -12278,7 +12278,7 @@
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 446,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "censorship",
       "consumer behavior",
@@ -12392,7 +12392,7 @@
     "ratio_give": -10,
     "grade_level": 9.6,
     "word_count": 153,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "banking regulation",
       "corporate accountability",
@@ -12539,7 +12539,7 @@
     "ratio_give": null,
     "grade_level": 11.5,
     "word_count": 121,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Economic Policy Debates and Challenges",
     "tags": []
   },
   {
@@ -12812,7 +12812,7 @@
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 157,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "activism",
@@ -12877,7 +12877,7 @@
     "ratio_give": 1,
     "grade_level": 7.2,
     "word_count": 52,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "user engagement"
@@ -12950,7 +12950,7 @@
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 271,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "MAGA",
       "media influence",
@@ -13039,7 +13039,7 @@
     "ratio_give": null,
     "grade_level": 9.8,
     "word_count": 151,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "Republican Party",
@@ -13083,7 +13083,7 @@
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 101,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "Republican Party",
@@ -13164,7 +13164,7 @@
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 249,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "corporate accountability",
       "cryptocurrency",
@@ -13216,7 +13216,7 @@
     "ratio_give": null,
     "grade_level": 8.3,
     "word_count": 95,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "cryptocurrency",
       "financial regulation",
@@ -13271,7 +13271,7 @@
     "ratio_give": 15,
     "grade_level": 8.1,
     "word_count": 184,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Billonaires",
       "economic inequality",
@@ -13531,7 +13531,7 @@
     "ratio_give": -25,
     "grade_level": 8.9,
     "word_count": 52,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -13816,7 +13816,7 @@
     "ratio_give": null,
     "grade_level": 10.8,
     "word_count": 307,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -14029,7 +14029,7 @@
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 173,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -14223,7 +14223,7 @@
     "ratio_give": -7,
     "grade_level": 10.6,
     "word_count": 501,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "climate change",
@@ -14331,7 +14331,7 @@
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 313,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "economic inequality",
       "political strategy",
@@ -14473,7 +14473,7 @@
     "ratio_give": 1,
     "grade_level": 11.4,
     "word_count": 214,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic inequality",
       "personal freedom"
@@ -14508,7 +14508,7 @@
     "ratio_give": 4,
     "grade_level": 9.5,
     "word_count": 48,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": []
   },
   {
@@ -14546,7 +14546,7 @@
     "ratio_give": 6,
     "grade_level": 7.4,
     "word_count": 50,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": []
   },
   {
@@ -14590,7 +14590,7 @@
     "ratio_give": 0,
     "grade_level": 11.1,
     "word_count": 201,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "economic inequality",
       "liberalism",
@@ -14811,7 +14811,7 @@
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 399,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "US politics",
       "economic policy",
@@ -14873,7 +14873,7 @@
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 284,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Federal Reserve",
       "US politics",
@@ -14947,7 +14947,7 @@
     "ratio_give": null,
     "grade_level": 9.0,
     "word_count": 158,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "climate change",
@@ -15051,7 +15051,7 @@
     "ratio_give": 11,
     "grade_level": 6.2,
     "word_count": 21,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -15215,7 +15215,7 @@
     "ratio_give": 0,
     "grade_level": 9.9,
     "word_count": 136,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "generative AI",
@@ -15482,7 +15482,7 @@
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 141,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "US politics",
       "identity politics",
@@ -15590,7 +15590,7 @@
     "ratio_give": -4,
     "grade_level": 9.9,
     "word_count": 102,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "crime and justice",
       "gun control"
@@ -15637,7 +15637,7 @@
     "ratio_give": 8,
     "grade_level": 10.7,
     "word_count": 170,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -15735,7 +15735,7 @@
     "ratio_give": 16,
     "grade_level": 11.7,
     "word_count": 123,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "abortion rights",
       "gun control"
@@ -15827,7 +15827,7 @@
     "ratio_give": -5,
     "grade_level": 18.1,
     "word_count": 35,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -16028,7 +16028,7 @@
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 108,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -16078,7 +16078,7 @@
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 132,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Republican Party",
       "US politics",
@@ -16132,7 +16132,7 @@
     "ratio_give": 1,
     "grade_level": 13.4,
     "word_count": 137,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "activism",
       "political polarization",
@@ -16188,7 +16188,7 @@
     "ratio_give": 6,
     "grade_level": 10.9,
     "word_count": 216,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -16351,7 +16351,7 @@
     "ratio_give": null,
     "grade_level": 6.9,
     "word_count": 76,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "inflation",
@@ -16816,7 +16816,7 @@
     "ratio_give": null,
     "grade_level": 9.9,
     "word_count": 278,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Billonaires",
       "business strategy",
@@ -16907,7 +16907,7 @@
     "ratio_give": 3,
     "grade_level": 8.4,
     "word_count": 224,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": []
   },
   {
@@ -16979,7 +16979,7 @@
     "ratio_give": null,
     "grade_level": 8.1,
     "word_count": 138,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "bureaucracy",
       "political leadership"
@@ -17157,7 +17157,7 @@
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 436,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "education reform",
       "generative AI",
@@ -17271,7 +17271,7 @@
     "ratio_give": 0,
     "grade_level": 12.1,
     "word_count": 83,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "media bias",
       "media influence",
@@ -17314,7 +17314,7 @@
     "ratio_give": 10,
     "grade_level": 9.6,
     "word_count": 81,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "economic inequality",
       "social justice",
@@ -17776,7 +17776,7 @@
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 375,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "education reform",
       "higher education",
@@ -17952,7 +17952,7 @@
     "ratio_give": -2,
     "grade_level": 9.2,
     "word_count": 347,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "education reform",
       "higher education",
@@ -18092,7 +18092,7 @@
     "ratio_give": null,
     "grade_level": 7.9,
     "word_count": 35,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -18130,7 +18130,7 @@
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 97,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "political polarization",
@@ -18363,7 +18363,7 @@
     "ratio_give": -15,
     "grade_level": 8.8,
     "word_count": 140,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "financial crisis",
       "financial regulation",
@@ -18427,7 +18427,7 @@
     "ratio_give": -10,
     "grade_level": 10.8,
     "word_count": 194,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Federal Reserve",
       "banking regulation",
@@ -19043,7 +19043,7 @@
     "ratio_give": 2,
     "grade_level": 11.4,
     "word_count": 250,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "financial regulation",
@@ -19086,7 +19086,7 @@
     "ratio_give": -7,
     "grade_level": 11.2,
     "word_count": 100,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "cryptocurrency",
       "drug policy",
@@ -19626,7 +19626,7 @@
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 205,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -19682,7 +19682,7 @@
     "ratio_give": null,
     "grade_level": 9.0,
     "word_count": 176,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "entrepreneurship",
@@ -19882,7 +19882,7 @@
     "ratio_give": 11,
     "grade_level": 12.4,
     "word_count": 61,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "homelessness",
       "housing affordability"
@@ -19945,7 +19945,7 @@
     "ratio_give": 6,
     "grade_level": 11.8,
     "word_count": 190,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "homelessness",
       "housing affordability",
@@ -20506,7 +20506,7 @@
     "ratio_give": null,
     "grade_level": 5.6,
     "word_count": 24,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": []
   },
   {
@@ -20722,7 +20722,7 @@
     "ratio_give": 0,
     "grade_level": 9.8,
     "word_count": 352,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Uncategorized",
     "tags": [
       "libertarianism",
       "personal freedom",
@@ -20772,7 +20772,7 @@
     "ratio_give": -19,
     "grade_level": 12.8,
     "word_count": 149,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "personal freedom",
       "public health"
@@ -20953,7 +20953,7 @@
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 520,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "class dynamics",
@@ -21193,7 +21193,7 @@
     "ratio_give": 14,
     "grade_level": 5.6,
     "word_count": 124,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "user engagement"
@@ -21310,7 +21310,7 @@
     "ratio_give": null,
     "grade_level": 9.3,
     "word_count": 75,
-    "category": "Economic and Social Policy Debates",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "economic policy",
@@ -21399,7 +21399,7 @@
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 627,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "cryptocurrency",
       "financial markets",
@@ -21514,7 +21514,7 @@
     "ratio_give": 2,
     "grade_level": 13.0,
     "word_count": 100,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "subscription models",
@@ -21574,7 +21574,7 @@
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 288,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic inequality",
       "economic policy",
@@ -21751,7 +21751,7 @@
     "ratio_give": -1,
     "grade_level": 8.7,
     "word_count": 221,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "education inequality",
       "genetics"
@@ -21874,7 +21874,7 @@
     "ratio_give": null,
     "grade_level": 5.4,
     "word_count": 126,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "activism",
       "progressive politics",
@@ -21996,7 +21996,7 @@
     "ratio_give": 7,
     "grade_level": 7.9,
     "word_count": 106,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "online discourse",
@@ -22060,7 +22060,7 @@
     "ratio_give": 0,
     "grade_level": 11.7,
     "word_count": 221,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Republican Party",
       "US politics",
@@ -22319,7 +22319,7 @@
     "ratio_give": 3,
     "grade_level": 10.3,
     "word_count": 235,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "social justice"
     ]
@@ -22424,7 +22424,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 337,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "bureaucracy",
       "business strategy",
@@ -22617,7 +22617,7 @@
     "ratio_give": null,
     "grade_level": 9.5,
     "word_count": 363,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -22677,7 +22677,7 @@
     "ratio_give": null,
     "grade_level": 9.6,
     "word_count": 245,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "mental health"
@@ -22736,7 +22736,7 @@
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 194,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "bureaucracy",
@@ -22981,7 +22981,7 @@
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 137,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -23063,7 +23063,7 @@
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 265,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "debt ceiling",
@@ -23159,7 +23159,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 231,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "debt ceiling",
       "financial crisis",
@@ -23299,7 +23299,7 @@
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 294,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "debt ceiling",
@@ -23364,7 +23364,7 @@
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 300,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "media influence",
@@ -23812,7 +23812,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 125,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "monetary policy",
       "online discourse"
@@ -23946,7 +23946,7 @@
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 275,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "education reform",
       "identity politics",
@@ -24033,7 +24033,7 @@
     "ratio_give": 17,
     "grade_level": 8.9,
     "word_count": 158,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "US politics",
       "geopolitical strategy",
@@ -24435,7 +24435,7 @@
     "ratio_give": null,
     "grade_level": 11.2,
     "word_count": 182,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -24673,7 +24673,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 204,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "consumer behavior",
@@ -24735,7 +24735,7 @@
     "ratio_give": null,
     "grade_level": 15.6,
     "word_count": 281,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "education reform",
       "identity politics",
@@ -24834,7 +24834,7 @@
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 172,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "economic inequality",
       "fiscal policy",
@@ -25044,7 +25044,7 @@
     "ratio_give": null,
     "grade_level": 12.9,
     "word_count": 370,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "crime and justice",
       "criminal justice reform",
@@ -25109,7 +25109,7 @@
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 290,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Republican Party",
       "US politics",
@@ -25185,7 +25185,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 241,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "consumer behavior",
@@ -25258,7 +25258,7 @@
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 467,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "economic policy",
       "entrepreneurship",
@@ -25314,7 +25314,7 @@
     "ratio_give": 1,
     "grade_level": 11.0,
     "word_count": 217,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Federal Reserve",
       "financial markets",
@@ -25628,7 +25628,7 @@
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 348,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "economic inequality",
       "political polarization",
@@ -25684,7 +25684,7 @@
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 234,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Biden administration",
       "Democratic Party",
@@ -25744,7 +25744,7 @@
     "ratio_give": 10,
     "grade_level": 7.0,
     "word_count": 88,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "gender equality"
@@ -25791,7 +25791,7 @@
     "ratio_give": null,
     "grade_level": 11.4,
     "word_count": 229,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "consumer behavior",
       "technology ethics"
@@ -25832,7 +25832,7 @@
     "ratio_give": -14,
     "grade_level": 7.7,
     "word_count": 101,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -26022,7 +26022,7 @@
     "ratio_give": null,
     "grade_level": 8.1,
     "word_count": 122,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "healthcare complexity",
@@ -26375,7 +26375,7 @@
     "ratio_give": null,
     "grade_level": 6.7,
     "word_count": 74,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "consumer behavior",
       "economic policy",
@@ -26570,7 +26570,7 @@
     "ratio_give": null,
     "grade_level": 15.5,
     "word_count": 375,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "gender equality",
       "identity politics",
@@ -26636,7 +26636,7 @@
     "ratio_give": -13,
     "grade_level": 12.7,
     "word_count": 325,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -26696,7 +26696,7 @@
     "ratio_give": -9,
     "grade_level": 10.6,
     "word_count": 187,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -26746,7 +26746,7 @@
     "ratio_give": -34,
     "grade_level": 9.9,
     "word_count": 119,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Uncategorized",
     "tags": []
   },
   {
@@ -26840,7 +26840,7 @@
     "ratio_give": null,
     "grade_level": 13.0,
     "word_count": 458,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "generative AI",
@@ -26894,7 +26894,7 @@
     "ratio_give": null,
     "grade_level": 9.2,
     "word_count": 163,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Economic Policy Debates and Challenges",
     "tags": []
   },
   {
@@ -27065,7 +27065,7 @@
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 169,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "economic policy",
       "financial markets",
@@ -27431,7 +27431,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 128,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "libertarianism",
@@ -27515,7 +27515,7 @@
     "ratio_give": 36,
     "grade_level": 9.2,
     "word_count": 36,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -27547,7 +27547,7 @@
     "ratio_give": 89,
     "grade_level": 8.5,
     "word_count": 49,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -27579,7 +27579,7 @@
     "ratio_give": 50,
     "grade_level": 7.2,
     "word_count": 30,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -27611,7 +27611,7 @@
     "ratio_give": -61,
     "grade_level": 11.4,
     "word_count": 53,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -27655,7 +27655,7 @@
     "ratio_give": 6,
     "grade_level": 10.1,
     "word_count": 164,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "online discourse",
       "user engagement"
@@ -27754,7 +27754,7 @@
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 74,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "fiscal policy",
@@ -27809,7 +27809,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 223,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "corporate accountability",
       "media influence",
@@ -27914,7 +27914,7 @@
     "ratio_give": null,
     "grade_level": 17.3,
     "word_count": 180,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Donald Trump",
       "media influence",
@@ -27962,7 +27962,7 @@
     "ratio_give": -19,
     "grade_level": 7.6,
     "word_count": 40,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -28042,7 +28042,7 @@
     "ratio_give": null,
     "grade_level": 11.0,
     "word_count": 337,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "mental health",
       "online discourse",
@@ -28239,7 +28239,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 317,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "tech industry",
@@ -28287,7 +28287,7 @@
     "ratio_give": 9,
     "grade_level": 10.3,
     "word_count": 217,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -28453,7 +28453,7 @@
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 292,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "consumer behavior",
       "media influence",
@@ -28820,7 +28820,7 @@
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 260,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -28916,7 +28916,7 @@
     "ratio_give": 8,
     "grade_level": 10.8,
     "word_count": 67,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "crime and justice",
       "gun control",
@@ -28992,7 +28992,7 @@
     "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 288,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "banking regulation",
       "financial markets",
@@ -29149,7 +29149,7 @@
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 324,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "bureaucracy",
@@ -29254,7 +29254,7 @@
     "ratio_give": 5,
     "grade_level": 10.5,
     "word_count": 260,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -29297,7 +29297,7 @@
     "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 113,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "business strategy",
@@ -29347,7 +29347,7 @@
     "ratio_give": null,
     "grade_level": 10.5,
     "word_count": 151,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "class dynamics",
       "progressive politics",
@@ -29413,7 +29413,7 @@
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 309,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -29513,7 +29513,7 @@
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 327,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Federal Reserve",
       "banking regulation",
@@ -29919,7 +29919,7 @@
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 295,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "US politics",
       "banking regulation",
@@ -30207,7 +30207,7 @@
     "ratio_give": -7,
     "grade_level": 11.6,
     "word_count": 150,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "economic policy",
@@ -30285,7 +30285,7 @@
     "ratio_give": -1,
     "grade_level": 13.3,
     "word_count": 474,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "generative AI",
@@ -30371,7 +30371,7 @@
     "ratio_give": null,
     "grade_level": 13.9,
     "word_count": 109,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "banking regulation",
       "cryptocurrency",
@@ -31246,7 +31246,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 149,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "class dynamics",
       "economic inequality"
@@ -31377,7 +31377,7 @@
     "ratio_give": -11,
     "grade_level": 8.3,
     "word_count": 44,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": []
   },
   {
@@ -31409,7 +31409,7 @@
     "ratio_give": -14,
     "grade_level": 15.2,
     "word_count": 49,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -31497,7 +31497,7 @@
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 230,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "Republican Party",
       "charter schools",
@@ -31682,7 +31682,7 @@
     "ratio_give": 8,
     "grade_level": 13.8,
     "word_count": 84,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -31732,7 +31732,7 @@
     "ratio_give": -29,
     "grade_level": 10.0,
     "word_count": 142,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Uncategorized",
     "tags": [
       "human rights",
       "personal freedom"
@@ -31785,7 +31785,7 @@
     "ratio_give": null,
     "grade_level": 12.7,
     "word_count": 190,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "identity politics",
@@ -32814,7 +32814,7 @@
     "ratio_give": -2,
     "grade_level": 14.6,
     "word_count": 438,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "political polarization",
       "progressive politics",
@@ -33377,7 +33377,7 @@
     "ratio_give": 11,
     "grade_level": 10.3,
     "word_count": 96,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "debt ceiling",
       "economic policy",
@@ -33419,7 +33419,7 @@
     "ratio_give": null,
     "grade_level": 14.2,
     "word_count": 112,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -33540,7 +33540,7 @@
     "ratio_give": 9,
     "grade_level": 12.0,
     "word_count": 203,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "automation",
       "education inequality",
@@ -33584,7 +33584,7 @@
     "ratio_give": -15,
     "grade_level": 11.4,
     "word_count": 104,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -33751,7 +33751,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 125,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "media bias",
       "media influence",
@@ -33952,7 +33952,7 @@
     "ratio_give": null,
     "grade_level": 10.1,
     "word_count": 187,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic inequality",
       "economic policy",
@@ -34010,7 +34010,7 @@
     "ratio_give": null,
     "grade_level": 13.1,
     "word_count": 255,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -34066,7 +34066,7 @@
     "ratio_give": 3,
     "grade_level": 10.1,
     "word_count": 285,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -34170,7 +34170,7 @@
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 382,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "generative AI",
       "public misinformation",
@@ -34206,7 +34206,7 @@
     "ratio_give": 2,
     "grade_level": 11.2,
     "word_count": 85,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "economic policy",
       "financial markets",
@@ -34416,7 +34416,7 @@
     "ratio_give": null,
     "grade_level": 12.3,
     "word_count": 201,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "crime and justice",
       "political strategy",
@@ -34452,7 +34452,7 @@
     "ratio_give": 6,
     "grade_level": 8.3,
     "word_count": 29,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -34496,7 +34496,7 @@
     "ratio_give": null,
     "grade_level": 10.9,
     "word_count": 183,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -34637,7 +34637,7 @@
     "ratio_give": -102,
     "grade_level": 13.3,
     "word_count": 68,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "online discourse",
       "user engagement"
@@ -34690,7 +34690,7 @@
     "ratio_give": -11,
     "grade_level": 11.1,
     "word_count": 205,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "activism",
       "class dynamics",
@@ -34734,7 +34734,7 @@
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 110,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "consumer behavior",
@@ -34788,7 +34788,7 @@
     "ratio_give": null,
     "grade_level": 9.9,
     "word_count": 236,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "fiscal policy",
@@ -34857,7 +34857,7 @@
     "ratio_give": -33,
     "grade_level": 12.1,
     "word_count": 98,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "business strategy",
       "media influence",
@@ -34910,7 +34910,7 @@
     "ratio_give": null,
     "grade_level": 9.4,
     "word_count": 113,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "tax policy",
@@ -34952,7 +34952,7 @@
     "ratio_give": null,
     "grade_level": 14.5,
     "word_count": 137,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "crime and justice",
@@ -34996,7 +34996,7 @@
     "ratio_give": null,
     "grade_level": 12.2,
     "word_count": 67,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "education inequality",
       "elitism",
@@ -35216,7 +35216,7 @@
     "ratio_give": null,
     "grade_level": 10.7,
     "word_count": 287,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -35356,7 +35356,7 @@
     "ratio_give": 12,
     "grade_level": 9.1,
     "word_count": 135,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "business strategy",
@@ -35459,7 +35459,7 @@
     "ratio_give": null,
     "grade_level": 8.4,
     "word_count": 194,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "automation",
       "data analysis",
@@ -35611,7 +35611,7 @@
     "ratio_give": -22,
     "grade_level": 12.1,
     "word_count": 537,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "technology ethics"
@@ -35662,7 +35662,7 @@
     "ratio_give": 11,
     "grade_level": 11.7,
     "word_count": 172,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "generative AI"
@@ -35813,7 +35813,7 @@
     "ratio_give": null,
     "grade_level": 10.2,
     "word_count": 196,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "digital privacy",
@@ -35862,7 +35862,7 @@
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 238,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "class dynamics",
       "identity politics"
@@ -36060,7 +36060,7 @@
     "ratio_give": 4,
     "grade_level": 11.1,
     "word_count": 136,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI"
     ]
@@ -36112,7 +36112,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 213,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "economic inequality",
@@ -36150,7 +36150,7 @@
     "ratio_give": -17,
     "grade_level": 12.6,
     "word_count": 95,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "economic policy",
@@ -36187,7 +36187,7 @@
     "ratio_give": 8,
     "grade_level": 13.5,
     "word_count": 60,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "economic inequality",
       "economic policy",
@@ -36225,7 +36225,7 @@
     "ratio_give": 9,
     "grade_level": 10.3,
     "word_count": 72,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "fiscal policy",
@@ -36261,7 +36261,7 @@
     "ratio_give": 1,
     "grade_level": 13.4,
     "word_count": 69,
-    "category": "Economic and Social Policy Debates",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Billonaires",
       "class dynamics",
@@ -36316,7 +36316,7 @@
     "ratio_give": 4,
     "grade_level": 10.6,
     "word_count": 94,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "generative AI",
       "online discourse",
@@ -36430,7 +36430,7 @@
     "ratio_give": null,
     "grade_level": 13.5,
     "word_count": 320,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "generative AI",
       "tech industry",
@@ -36472,7 +36472,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 128,
-    "category": "Economic and Social Policy Debates",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "education reform",
@@ -36520,7 +36520,7 @@
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 141,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "class dynamics",
@@ -36634,7 +36634,7 @@
     "ratio_give": -1,
     "grade_level": 13.6,
     "word_count": 188,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "education reform",
       "generative AI",
@@ -36945,7 +36945,7 @@
     "ratio_give": null,
     "grade_level": 12.4,
     "word_count": 204,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Biden administration",
       "Donald Trump",
@@ -36981,7 +36981,7 @@
     "ratio_give": -25,
     "grade_level": 11.8,
     "word_count": 47,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": []
   },
   {
@@ -37035,7 +37035,7 @@
     "ratio_give": null,
     "grade_level": 14.9,
     "word_count": 230,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "bureaucracy",
@@ -37159,7 +37159,7 @@
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 152,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "Donald Trump",
       "media influence",
@@ -37197,7 +37197,7 @@
     "ratio_give": 32,
     "grade_level": 8.9,
     "word_count": 69,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -37293,7 +37293,7 @@
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 115,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Biden administration",
       "US politics",
@@ -37431,7 +37431,7 @@
     "ratio_give": 7,
     "grade_level": 10.1,
     "word_count": 105,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -37505,7 +37505,7 @@
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 334,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -37543,7 +37543,7 @@
     "ratio_give": null,
     "grade_level": 12.8,
     "word_count": 171,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "activism",
@@ -37648,7 +37648,7 @@
     "ratio_give": null,
     "grade_level": 17.9,
     "word_count": 94,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -37734,7 +37734,7 @@
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 145,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -37799,7 +37799,7 @@
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 293,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "Republican Party",
@@ -37849,7 +37849,7 @@
     "ratio_give": null,
     "grade_level": 10.3,
     "word_count": 125,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "economic policy",
       "financial markets",
@@ -38056,7 +38056,7 @@
     "ratio_give": -12,
     "grade_level": 5.2,
     "word_count": 56,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -38100,7 +38100,7 @@
     "ratio_give": null,
     "grade_level": 8.9,
     "word_count": 144,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "consumer behavior",
       "mental health"
@@ -38233,7 +38233,7 @@
     "ratio_give": -19,
     "grade_level": 13.5,
     "word_count": 103,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "economic inequality"
@@ -38415,7 +38415,7 @@
     "ratio_give": 2,
     "grade_level": 12.9,
     "word_count": 65,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "genetics",
       "social justice"
@@ -38482,7 +38482,7 @@
     "ratio_give": null,
     "grade_level": 7.8,
     "word_count": 44,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": []
   },
   {
@@ -38538,7 +38538,7 @@
     "ratio_give": 10,
     "grade_level": 8.6,
     "word_count": 151,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "public misinformation",
       "technology ethics",
@@ -38736,7 +38736,7 @@
     "ratio_give": -22,
     "grade_level": 10.2,
     "word_count": 107,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "Middle East conflict",
       "antisemitism"
@@ -38897,7 +38897,7 @@
     "ratio_give": null,
     "grade_level": 12.6,
     "word_count": 310,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "drug policy",
       "homelessness",
@@ -38940,7 +38940,7 @@
     "ratio_give": -6,
     "grade_level": 13.8,
     "word_count": 120,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "media influence",
       "political accountability",
@@ -39042,7 +39042,7 @@
     "ratio_give": 21,
     "grade_level": 7.1,
     "word_count": 50,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -39134,7 +39134,7 @@
     "ratio_give": 6,
     "grade_level": 7.9,
     "word_count": 27,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -39232,7 +39232,7 @@
     "ratio_give": 8,
     "grade_level": 18.1,
     "word_count": 47,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -39282,7 +39282,7 @@
     "ratio_give": null,
     "grade_level": 17.1,
     "word_count": 293,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -39559,7 +39559,7 @@
     "ratio_give": null,
     "grade_level": 14.0,
     "word_count": 55,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -39613,7 +39613,7 @@
     "ratio_give": null,
     "grade_level": 8.9,
     "word_count": 69,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "online discourse",
@@ -39675,7 +39675,7 @@
     "ratio_give": -3,
     "grade_level": 7.0,
     "word_count": 56,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": []
   },
   {
@@ -39918,7 +39918,7 @@
     "ratio_give": null,
     "grade_level": 9.5,
     "word_count": 176,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "US politics",
       "abortion rights",
@@ -40006,7 +40006,7 @@
     "ratio_give": -5,
     "grade_level": 8.8,
     "word_count": 310,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "social media influence",
       "subscription models",
@@ -40070,7 +40070,7 @@
     "ratio_give": null,
     "grade_level": 12.5,
     "word_count": 158,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "generative AI",
@@ -40398,7 +40398,7 @@
     "ratio_give": null,
     "grade_level": 11.8,
     "word_count": 592,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "US politics",
       "business strategy",
@@ -40478,7 +40478,7 @@
     "ratio_give": -1,
     "grade_level": 6.4,
     "word_count": 11,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -40528,7 +40528,7 @@
     "ratio_give": null,
     "grade_level": 19.6,
     "word_count": 360,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -40592,7 +40592,7 @@
     "ratio_give": -10,
     "grade_level": 11.6,
     "word_count": 239,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality",
@@ -40641,7 +40641,7 @@
     "ratio_give": -23,
     "grade_level": 15.7,
     "word_count": 103,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "class dynamics",
       "education inequality"
@@ -40682,7 +40682,7 @@
     "ratio_give": -61,
     "grade_level": 12.1,
     "word_count": 98,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "bureaucracy",
@@ -40724,7 +40724,7 @@
     "ratio_give": 15,
     "grade_level": 8.7,
     "word_count": 51,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Uncategorized",
     "tags": []
   },
   {
@@ -40782,7 +40782,7 @@
     "ratio_give": null,
     "grade_level": 10.4,
     "word_count": 110,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "subscription models",
@@ -40935,7 +40935,7 @@
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 374,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -40985,7 +40985,7 @@
     "ratio_give": 8,
     "grade_level": 11.7,
     "word_count": 170,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "Donald Trump",
       "elitism",
@@ -41087,7 +41087,7 @@
     "ratio_give": 3,
     "grade_level": 8.0,
     "word_count": 30,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": []
   },
   {
@@ -41119,7 +41119,7 @@
     "ratio_give": -43,
     "grade_level": 10.2,
     "word_count": 71,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "consumer behavior",
       "subscription models",
@@ -41161,7 +41161,7 @@
     "ratio_give": -8,
     "grade_level": 11.0,
     "word_count": 119,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "consumer behavior",
       "subscription models",
@@ -41285,7 +41285,7 @@
     "ratio_give": 2,
     "grade_level": 12.2,
     "word_count": 205,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "US politics",
       "gun control",
@@ -41496,7 +41496,7 @@
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 168,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "Democratic Party",
       "media bias",
@@ -41554,7 +41554,7 @@
     "ratio_give": 10,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "Russia-Ukraine conflict",
       "US politics",
@@ -41654,7 +41654,7 @@
     "ratio_give": null,
     "grade_level": 18.5,
     "word_count": 120,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "antisemitism",
       "political polarization",
@@ -41782,7 +41782,7 @@
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 180,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "economic inequality",
       "economic policy",
@@ -41852,7 +41852,7 @@
     "ratio_give": 10,
     "grade_level": 11.5,
     "word_count": 48,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -41896,7 +41896,7 @@
     "ratio_give": null,
     "grade_level": 14.4,
     "word_count": 154,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -41963,7 +41963,7 @@
     "ratio_give": -1,
     "grade_level": 8.5,
     "word_count": 130,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Uncategorized",
     "tags": [
       "consumer behavior"
     ]
@@ -42053,7 +42053,7 @@
     "ratio_give": 6,
     "grade_level": 8.4,
     "word_count": 67,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "online discourse",
       "social media influence"
@@ -42104,7 +42104,7 @@
     "ratio_give": 8,
     "grade_level": 15.5,
     "word_count": 188,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "generative AI",
@@ -42474,7 +42474,7 @@
     "ratio_give": 2,
     "grade_level": 9.8,
     "word_count": 79,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "political polarization",
       "political strategy",
@@ -42510,7 +42510,7 @@
     "ratio_give": 8,
     "grade_level": 9.9,
     "word_count": 60,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -42860,7 +42860,7 @@
     "ratio_give": null,
     "grade_level": 12.0,
     "word_count": 115,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "identity politics",
       "liberalism",
@@ -42940,7 +42940,7 @@
     "ratio_give": 20,
     "grade_level": 7.6,
     "word_count": 17,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": []
   },
   {
@@ -43018,7 +43018,7 @@
     "ratio_give": -2,
     "grade_level": 11.4,
     "word_count": 474,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "economic policy",
       "financial crisis",
@@ -43067,7 +43067,7 @@
     "ratio_give": null,
     "grade_level": 8.6,
     "word_count": 148,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "MAGA",
       "identity politics",
@@ -43115,7 +43115,7 @@
     "ratio_give": 14,
     "grade_level": 6.0,
     "word_count": 90,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "banking regulation",
       "economic policy",
@@ -43344,7 +43344,7 @@
     "ratio_give": null,
     "grade_level": 11.1,
     "word_count": 23,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -43402,7 +43402,7 @@
     "ratio_give": null,
     "grade_level": 13.6,
     "word_count": 185,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "economic policy",
       "healthcare complexity",
@@ -43521,7 +43521,7 @@
     "ratio_give": 5,
     "grade_level": 8.9,
     "word_count": 349,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "consumer behavior",
       "social media influence",
@@ -43610,7 +43610,7 @@
     "ratio_give": 22,
     "grade_level": 14.2,
     "word_count": 199,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -43753,7 +43753,7 @@
     "ratio_give": -49,
     "grade_level": 7.2,
     "word_count": 113,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "online discourse",
       "political polarization"
@@ -43945,7 +43945,7 @@
     "ratio_give": 6,
     "grade_level": 9.4,
     "word_count": 131,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -43989,7 +43989,7 @@
     "ratio_give": 10,
     "grade_level": 11.7,
     "word_count": 129,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Middle East conflict"
     ]
@@ -44120,7 +44120,7 @@
     "ratio_give": -2,
     "grade_level": 13.4,
     "word_count": 139,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "US politics",
       "activism",
@@ -44254,7 +44254,7 @@
     "ratio_give": -3,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "Russia-Ukraine conflict",
       "US politics",
@@ -44318,7 +44318,7 @@
     "ratio_give": 26,
     "grade_level": 12.4,
     "word_count": 122,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "US politics",
       "fiscal policy",
@@ -44356,7 +44356,7 @@
     "ratio_give": -12,
     "grade_level": 6.8,
     "word_count": 30,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -44400,7 +44400,7 @@
     "ratio_give": 2,
     "grade_level": 13.6,
     "word_count": 186,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "automation",
       "business strategy",
@@ -44450,7 +44450,7 @@
     "ratio_give": 8,
     "grade_level": 13.3,
     "word_count": 158,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "US politics",
       "censorship",
@@ -44500,7 +44500,7 @@
     "ratio_give": 4,
     "grade_level": 13.8,
     "word_count": 144,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "generative AI",
       "political leadership",
@@ -44704,7 +44704,7 @@
     "ratio_give": -4,
     "grade_level": 8.8,
     "word_count": 172,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "US politics",
       "inflation",
@@ -44800,7 +44800,7 @@
     "ratio_give": -1,
     "grade_level": 12.1,
     "word_count": 27,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -44886,7 +44886,7 @@
     "ratio_give": 0,
     "grade_level": 12.7,
     "word_count": 18,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": []
   },
   {
@@ -44930,7 +44930,7 @@
     "ratio_give": -30,
     "grade_level": 11.4,
     "word_count": 262,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": []
   },
   {
@@ -45056,7 +45056,7 @@
     "ratio_give": 22,
     "grade_level": 12.4,
     "word_count": 121,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "media bias",
       "online discourse",
@@ -45093,7 +45093,7 @@
     "ratio_give": null,
     "grade_level": 15.1,
     "word_count": 73,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic inequality",
       "fiscal policy",
@@ -45135,7 +45135,7 @@
     "ratio_give": 17,
     "grade_level": 10.7,
     "word_count": 16,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -45209,7 +45209,7 @@
     "ratio_give": -23,
     "grade_level": 6.8,
     "word_count": 270,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Biden administration",
       "Democratic Party",
@@ -45247,7 +45247,7 @@
     "ratio_give": 22,
     "grade_level": 8.9,
     "word_count": 52,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": []
   },
   {
@@ -45279,7 +45279,7 @@
     "ratio_give": 1,
     "grade_level": 8.4,
     "word_count": 10,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -45333,7 +45333,7 @@
     "ratio_give": 12,
     "grade_level": 11.4,
     "word_count": 125,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "business strategy",
@@ -45482,7 +45482,7 @@
     "ratio_give": -7,
     "grade_level": 15.0,
     "word_count": 162,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "liberalism"
     ]
@@ -45573,7 +45573,7 @@
     "ratio_give": null,
     "grade_level": 16.2,
     "word_count": 33,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -45605,7 +45605,7 @@
     "ratio_give": 38,
     "grade_level": 13.5,
     "word_count": 100,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "class dynamics",
       "economic inequality"
@@ -45672,7 +45672,7 @@
     "ratio_give": null,
     "grade_level": 15.9,
     "word_count": 289,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "automation",
       "economic inequality",
@@ -45742,7 +45742,7 @@
     "ratio_give": 14,
     "grade_level": 9.4,
     "word_count": 261,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": [
       "education inequality",
       "genetics",
@@ -45794,7 +45794,7 @@
     "ratio_give": 10,
     "grade_level": 12.9,
     "word_count": 112,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Federal Reserve",
       "Republican Party",
@@ -45849,7 +45849,7 @@
     "ratio_give": 14,
     "grade_level": 8.3,
     "word_count": 207,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Federal Reserve",
       "banking regulation",
@@ -45887,7 +45887,7 @@
     "ratio_give": -38,
     "grade_level": 7.1,
     "word_count": 47,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -45929,7 +45929,7 @@
     "ratio_give": -6,
     "grade_level": 9.2,
     "word_count": 55,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -45961,7 +45961,7 @@
     "ratio_give": -17,
     "grade_level": 13.8,
     "word_count": 96,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -46029,7 +46029,7 @@
     "ratio_give": 12,
     "grade_level": 9.6,
     "word_count": 49,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": []
   },
   {
@@ -46073,7 +46073,7 @@
     "ratio_give": 8,
     "grade_level": 9.6,
     "word_count": 231,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -46229,7 +46229,7 @@
     "ratio_give": 6,
     "grade_level": 14.3,
     "word_count": 151,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -46369,7 +46369,7 @@
     "ratio_give": null,
     "grade_level": 16.1,
     "word_count": 119,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "data analysis",
       "generative AI",
@@ -46560,7 +46560,7 @@
     "ratio_give": 3,
     "grade_level": 9.9,
     "word_count": 80,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "education reform",
       "higher education funding",
@@ -46596,7 +46596,7 @@
     "ratio_give": null,
     "grade_level": 8.8,
     "word_count": 56,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": []
   },
   {
@@ -46766,7 +46766,7 @@
     "ratio_give": 13,
     "grade_level": 10.2,
     "word_count": 103,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "libertarianism",
       "personal freedom",
@@ -46802,7 +46802,7 @@
     "ratio_give": 13,
     "grade_level": 17.3,
     "word_count": 36,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": []
   },
   {
@@ -46846,7 +46846,7 @@
     "ratio_give": 12,
     "grade_level": 14.7,
     "word_count": 161,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "censorship",
@@ -47077,7 +47077,7 @@
     "ratio_give": 8,
     "grade_level": 10.1,
     "word_count": 163,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "data analysis",
@@ -47119,7 +47119,7 @@
     "ratio_give": 11,
     "grade_level": 10.5,
     "word_count": 148,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "inflation",
       "media influence",
@@ -47328,7 +47328,7 @@
     "ratio_give": -40,
     "grade_level": 9.9,
     "word_count": 184,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Biden administration",
       "Billonaires",
@@ -47392,7 +47392,7 @@
     "ratio_give": 6,
     "grade_level": 6.6,
     "word_count": 146,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "electric vehicles",
@@ -47447,7 +47447,7 @@
     "ratio_give": 1,
     "grade_level": 9.6,
     "word_count": 288,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "economic policy",
@@ -47491,7 +47491,7 @@
     "ratio_give": -1,
     "grade_level": 10.0,
     "word_count": 172,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "consumer behavior",
@@ -47673,7 +47673,7 @@
     "ratio_give": -44,
     "grade_level": 10.5,
     "word_count": 259,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "Donald Trump",
@@ -47769,7 +47769,7 @@
     "ratio_give": null,
     "grade_level": 6.0,
     "word_count": 373,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -47823,7 +47823,7 @@
     "ratio_give": -51,
     "grade_level": 14.7,
     "word_count": 140,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "economic inequality",
       "entrepreneurship",
@@ -47996,7 +47996,7 @@
     "ratio_give": null,
     "grade_level": 13.2,
     "word_count": 272,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -48076,7 +48076,7 @@
     "ratio_give": -2,
     "grade_level": 14.4,
     "word_count": 229,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "media influence",
@@ -48187,7 +48187,7 @@
     "ratio_give": 13,
     "grade_level": 10.8,
     "word_count": 116,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Biden administration",
       "Donald Trump",
@@ -48225,7 +48225,7 @@
     "ratio_give": 7,
     "grade_level": 5.5,
     "word_count": 44,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": []
   },
   {
@@ -48267,7 +48267,7 @@
     "ratio_give": null,
     "grade_level": 14.7,
     "word_count": 93,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "online discourse",
@@ -48372,7 +48372,7 @@
     "ratio_give": -25,
     "grade_level": 11.7,
     "word_count": 111,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -48564,7 +48564,7 @@
     "ratio_give": -42,
     "grade_level": 12.8,
     "word_count": 109,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "online discourse",
       "political strategy",
@@ -48653,7 +48653,7 @@
     "ratio_give": -10,
     "grade_level": 9.6,
     "word_count": 116,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "bureaucracy",
       "economic inequality",
@@ -48980,7 +48980,7 @@
     "ratio_give": -7,
     "grade_level": 9.8,
     "word_count": 611,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -49050,7 +49050,7 @@
     "ratio_give": 22,
     "grade_level": 13.0,
     "word_count": 261,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -49101,7 +49101,7 @@
     "ratio_give": 5,
     "grade_level": 9.5,
     "word_count": 64,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Biden administration",
       "Federal Reserve"
@@ -49136,7 +49136,7 @@
     "ratio_give": 20,
     "grade_level": 11.6,
     "word_count": 110,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "class dynamics",
       "economic inequality",
@@ -49243,7 +49243,7 @@
     "ratio_give": 4,
     "grade_level": 19.3,
     "word_count": 47,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -49275,7 +49275,7 @@
     "ratio_give": 8,
     "grade_level": 7.7,
     "word_count": 41,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -49307,7 +49307,7 @@
     "ratio_give": -36,
     "grade_level": 10.3,
     "word_count": 54,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -49345,7 +49345,7 @@
     "ratio_give": -9,
     "grade_level": 10.6,
     "word_count": 87,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "US politics",
       "climate change"
@@ -49404,7 +49404,7 @@
     "ratio_give": -11,
     "grade_level": 13.6,
     "word_count": 185,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Donald Trump",
       "US politics",
@@ -49492,7 +49492,7 @@
     "ratio_give": 13,
     "grade_level": 7.8,
     "word_count": 123,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "drug policy",
       "public health"
@@ -49533,7 +49533,7 @@
     "ratio_give": 3,
     "grade_level": 9.8,
     "word_count": 166,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Federal Reserve",
       "US politics",
@@ -49613,7 +49613,7 @@
     "ratio_give": -8,
     "grade_level": 8.7,
     "word_count": 136,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "drug policy",
       "public health"
@@ -49743,7 +49743,7 @@
     "ratio_give": 9,
     "grade_level": 8.9,
     "word_count": 279,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "US-China relations",
       "international relations",
@@ -49799,7 +49799,7 @@
     "ratio_give": -2,
     "grade_level": 10.0,
     "word_count": 284,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "economic policy",
@@ -50459,7 +50459,7 @@
     "ratio_give": -26,
     "grade_level": 12.9,
     "word_count": 129,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Exploring Moral Foundations and Social Narratives",
     "tags": [
       "identity politics",
       "online discourse",
@@ -50658,7 +50658,7 @@
     "ratio_give": -3,
     "grade_level": 8.5,
     "word_count": 58,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": []
   },
   {
@@ -50837,7 +50837,7 @@
     "ratio_give": null,
     "grade_level": 11.7,
     "word_count": 55,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -50975,7 +50975,7 @@
     "ratio_give": -3,
     "grade_level": 11.1,
     "word_count": 20,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -51103,7 +51103,7 @@
     "ratio_give": -2,
     "grade_level": 18.5,
     "word_count": 119,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "business strategy",
       "corporate accountability",
@@ -51276,7 +51276,7 @@
     "ratio_give": -20,
     "grade_level": 15.0,
     "word_count": 108,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "education inequality"
@@ -51311,7 +51311,7 @@
     "ratio_give": -15,
     "grade_level": 13.8,
     "word_count": 63,
-    "category": "Economic and Social Policy Debates",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "US politics",
       "identity politics",
@@ -51353,7 +51353,7 @@
     "ratio_give": -63,
     "grade_level": 14.2,
     "word_count": 88,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Republican Party",
       "US politics",
@@ -51485,7 +51485,7 @@
     "ratio_give": -7,
     "grade_level": 10.4,
     "word_count": 137,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "content moderation",
       "drug policy",
@@ -52414,7 +52414,7 @@
     "ratio_give": 0,
     "grade_level": 11.9,
     "word_count": 177,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "content moderation",
       "online discourse",
@@ -52817,7 +52817,7 @@
     "ratio_give": 7,
     "grade_level": 12.9,
     "word_count": 173,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Biden administration",
       "Donald Trump",
@@ -52855,7 +52855,7 @@
     "ratio_give": -7,
     "grade_level": 14.4,
     "word_count": 78,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "US politics",
       "bureaucracy",
@@ -52931,7 +52931,7 @@
     "ratio_give": 4,
     "grade_level": 5.3,
     "word_count": 67,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": []
   },
   {
@@ -52975,7 +52975,7 @@
     "ratio_give": -6,
     "grade_level": 12.2,
     "word_count": 197,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "economic inequality",
       "immigration issues",
@@ -53202,7 +53202,7 @@
     "ratio_give": 0,
     "grade_level": 8.8,
     "word_count": 343,
-    "category": "The Viability and Challenges of Subscription Models in Digital Media",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "business strategy",
       "media influence",
@@ -53310,7 +53310,7 @@
     "ratio_give": -2,
     "grade_level": 11.7,
     "word_count": 216,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "education reform",
       "social media influence",
@@ -53443,7 +53443,7 @@
     "ratio_give": -5,
     "grade_level": 14.0,
     "word_count": 275,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Donald Trump",
       "US politics",
@@ -53595,7 +53595,7 @@
     "ratio_give": -2,
     "grade_level": 11.9,
     "word_count": 223,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "US politics",
       "automation",
@@ -53848,7 +53848,7 @@
     "ratio_give": null,
     "grade_level": 7.8,
     "word_count": 545,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "US politics",
       "censorship",
@@ -53892,7 +53892,7 @@
     "ratio_give": 8,
     "grade_level": 7.3,
     "word_count": 79,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "US politics",
       "media influence",
@@ -53935,7 +53935,7 @@
     "ratio_give": -24,
     "grade_level": 18.8,
     "word_count": 119,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "class dynamics"
@@ -53982,7 +53982,7 @@
     "ratio_give": 4,
     "grade_level": 14.7,
     "word_count": 161,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "economic policy",
       "political accountability",
@@ -54237,7 +54237,7 @@
     "ratio_give": 9,
     "grade_level": 12.5,
     "word_count": 82,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -55009,7 +55009,7 @@
     "ratio_give": 0,
     "grade_level": 12.2,
     "word_count": 417,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -55415,7 +55415,7 @@
     "ratio_give": -21,
     "grade_level": 16.1,
     "word_count": 149,
-    "category": "Economic and Social Policy Debates",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "economic inequality",
       "immigration issues",
@@ -55634,7 +55634,7 @@
     "ratio_give": 4,
     "grade_level": 10.9,
     "word_count": 313,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "business strategy",
       "economic inequality",
@@ -55834,7 +55834,7 @@
     "ratio_give": -35,
     "grade_level": 12.7,
     "word_count": 254,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "US politics",
       "climate change",
@@ -56303,7 +56303,7 @@
     "ratio_give": -27,
     "grade_level": 10.8,
     "word_count": 76,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Billonaires",
       "economic policy",
@@ -56443,7 +56443,7 @@
     "ratio_give": 7,
     "grade_level": 12.6,
     "word_count": 89,
-    "category": "Economic and Social Policy Debates",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "healthcare complexity",
@@ -56730,7 +56730,7 @@
     "ratio_give": 10,
     "grade_level": 11.9,
     "word_count": 286,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -56837,7 +56837,7 @@
     "ratio_give": -1,
     "grade_level": 12.7,
     "word_count": 30,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": []
   },
   {
@@ -57343,7 +57343,7 @@
     "ratio_give": 12,
     "grade_level": 11.8,
     "word_count": 109,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "class dynamics",
       "economic policy",
@@ -57414,7 +57414,7 @@
     "ratio_give": 3,
     "grade_level": 10.8,
     "word_count": 156,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "education inequality",
       "generative AI",
@@ -57500,7 +57500,7 @@
     "ratio_give": -7,
     "grade_level": 9.7,
     "word_count": 66,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "labor unions",
@@ -57546,7 +57546,7 @@
     "ratio_give": -32,
     "grade_level": 12.7,
     "word_count": 121,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "generative AI",
       "progressive politics",
@@ -57582,7 +57582,7 @@
     "ratio_give": null,
     "grade_level": 6.4,
     "word_count": 42,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": []
   },
   {
@@ -57808,7 +57808,7 @@
     "ratio_give": 4,
     "grade_level": 10.9,
     "word_count": 496,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "cryptocurrency",
       "libertarianism",
@@ -57863,7 +57863,7 @@
     "ratio_give": -8,
     "grade_level": 12.5,
     "word_count": 266,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "Republican Party",
@@ -57955,7 +57955,7 @@
     "ratio_give": -1,
     "grade_level": 13.1,
     "word_count": 65,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "political polarization"
@@ -58058,7 +58058,7 @@
     "ratio_give": -3,
     "grade_level": 10.3,
     "word_count": 63,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "Democratic Party",
@@ -58317,7 +58317,7 @@
     "ratio_give": null,
     "grade_level": 10.6,
     "word_count": 65,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "tech industry",
@@ -58459,7 +58459,7 @@
     "ratio_give": -76,
     "grade_level": 13.5,
     "word_count": 463,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "US politics",
       "political leadership",
@@ -58689,7 +58689,7 @@
     "ratio_give": -3,
     "grade_level": 18.6,
     "word_count": 100,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -58749,7 +58749,7 @@
     "ratio_give": null,
     "grade_level": 17.4,
     "word_count": 181,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "Donald Trump",
       "US politics",
@@ -58792,7 +58792,7 @@
     "ratio_give": -12,
     "grade_level": 15.9,
     "word_count": 101,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Uncategorized",
     "tags": [
       "activism",
       "education inequality",
@@ -59029,7 +59029,7 @@
     "ratio_give": null,
     "grade_level": 11.9,
     "word_count": 398,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "US politics",
       "international relations",
@@ -59077,7 +59077,7 @@
     "ratio_give": -11,
     "grade_level": 15.8,
     "word_count": 161,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "media bias",
@@ -59186,7 +59186,7 @@
     "ratio_give": -18,
     "grade_level": 13.1,
     "word_count": 242,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "activism",
       "media influence",
@@ -59378,7 +59378,7 @@
     "ratio_give": 6,
     "grade_level": 10.2,
     "word_count": 124,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Biden administration",
       "Billonaires",
@@ -59465,7 +59465,7 @@
     "ratio_give": -5,
     "grade_level": 9.8,
     "word_count": 167,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "business strategy",
@@ -60175,7 +60175,7 @@
     "ratio_give": -29,
     "grade_level": 11.6,
     "word_count": 299,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "US politics",
@@ -60281,7 +60281,7 @@
     "ratio_give": -26,
     "grade_level": 8.1,
     "word_count": 139,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "generative AI",
@@ -60330,7 +60330,7 @@
     "ratio_give": -1,
     "grade_level": 11.3,
     "word_count": 140,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "Donald Trump",
@@ -60557,7 +60557,7 @@
     "ratio_give": -3,
     "grade_level": 11.1,
     "word_count": 119,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -60600,7 +60600,7 @@
     "ratio_give": -19,
     "grade_level": 13.8,
     "word_count": 119,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Billonaires",
       "tech industry",
@@ -60646,7 +60646,7 @@
     "ratio_give": -2,
     "grade_level": 16.8,
     "word_count": 95,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "business strategy",
       "technology ethics"
@@ -60840,7 +60840,7 @@
     "ratio_give": 7,
     "grade_level": 12.1,
     "word_count": 316,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "activism",
       "business strategy",
@@ -60878,7 +60878,7 @@
     "ratio_give": 5,
     "grade_level": 7.6,
     "word_count": 71,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "consumer behavior",
       "tech industry",
@@ -61484,7 +61484,7 @@
     "ratio_give": -4,
     "grade_level": 11.4,
     "word_count": 188,
-    "category": "Cultural and Ideological Narratives in Religion and Atheism",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "higher education",
       "subscription models",
@@ -61532,7 +61532,7 @@
     "ratio_give": -7,
     "grade_level": 10.4,
     "word_count": 164,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -61665,7 +61665,7 @@
     "ratio_give": 5,
     "grade_level": 11.9,
     "word_count": 155,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "Federal Reserve",
@@ -61728,7 +61728,7 @@
     "ratio_give": -17,
     "grade_level": 11.6,
     "word_count": 106,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "media influence",
       "social media influence"
@@ -61855,7 +61855,7 @@
     "ratio_give": null,
     "grade_level": 16.0,
     "word_count": 188,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "elitism",
       "media influence",
@@ -61898,7 +61898,7 @@
     "ratio_give": -80,
     "grade_level": 11.4,
     "word_count": 124,
-    "category": "Economic and Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "economic policy",
       "political leadership"
@@ -61939,7 +61939,7 @@
     "ratio_give": -47,
     "grade_level": 13.6,
     "word_count": 141,
-    "category": "Perspectives on Education, Politics, and Social Dynamics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": []
   },
   {
@@ -62262,7 +62262,7 @@
     "ratio_give": -17,
     "grade_level": 11.0,
     "word_count": 50,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Biden administration",
       "Donald Trump",
@@ -62621,7 +62621,7 @@
     "ratio_give": -25,
     "grade_level": 8.1,
     "word_count": 77,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Russia-Ukraine conflict",
       "social media influence"
@@ -62668,7 +62668,7 @@
     "ratio_give": -13,
     "grade_level": 12.0,
     "word_count": 134,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -63044,7 +63044,7 @@
     "ratio_give": -32,
     "grade_level": 9.4,
     "word_count": 108,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -65128,7 +65128,7 @@
     "ratio_give": 6,
     "grade_level": 6.9,
     "word_count": 19,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": []
   },
   {
@@ -65499,7 +65499,7 @@
     "ratio_give": 0,
     "grade_level": 8.7,
     "word_count": 84,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "Donald Trump",
       "religious freedom"
@@ -65534,7 +65534,7 @@
     "ratio_give": -158,
     "grade_level": 6.8,
     "word_count": 36,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": []
   },
   {
@@ -65803,7 +65803,7 @@
     "ratio_give": -9,
     "grade_level": 11.4,
     "word_count": 71,
-    "category": "Diverse Perspectives on Economic and Social Policies",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "corporate accountability",
       "financial regulation"
@@ -65960,7 +65960,7 @@
     "ratio_give": -26,
     "grade_level": 13.1,
     "word_count": 243,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Biden administration",
       "Democratic Party",
@@ -65998,7 +65998,7 @@
     "ratio_give": 28,
     "grade_level": 10.7,
     "word_count": 96,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Challenges and Dynamics in Democratic Politics",
     "tags": [
       "US politics",
       "bureaucracy",
@@ -66052,7 +66052,7 @@
     "ratio_give": 5,
     "grade_level": 10.3,
     "word_count": 198,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "US politics",
@@ -66090,7 +66090,7 @@
     "ratio_give": -12,
     "grade_level": 10.4,
     "word_count": 85,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "Democratic Party",
       "elitism",
@@ -66559,7 +66559,7 @@
     "ratio_give": 3,
     "grade_level": 11.5,
     "word_count": 217,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Education Policy and Socioeconomic Inequality",
     "tags": []
   },
   {
@@ -66702,7 +66702,7 @@
     "ratio_give": 12,
     "grade_level": 15.6,
     "word_count": 102,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "climate change",
       "data analysis",
@@ -66745,7 +66745,7 @@
     "ratio_give": 3,
     "grade_level": 12.4,
     "word_count": 143,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "Donald Trump",
       "Federal Reserve",
@@ -66923,7 +66923,7 @@
     "ratio_give": null,
     "grade_level": 14.8,
     "word_count": 211,
-    "category": "Insights into Substack Comment Patterns",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "generative AI",
       "online discourse",
@@ -66981,7 +66981,7 @@
     "ratio_give": -53,
     "grade_level": 9.9,
     "word_count": 187,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Diverse Themes in Economic and Media Discussions",
     "tags": [
       "media bias",
       "media influence",
@@ -67035,7 +67035,7 @@
     "ratio_give": -20,
     "grade_level": 9.9,
     "word_count": 240,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Democratic Party",
       "Donald Trump",
@@ -67167,7 +67167,7 @@
     "ratio_give": 9,
     "grade_level": 9.6,
     "word_count": 211,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Federal Reserve",
       "US politics",
@@ -67247,7 +67247,7 @@
     "ratio_give": 9,
     "grade_level": 10.6,
     "word_count": 142,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "banking regulation",
       "financial crisis",
@@ -67330,7 +67330,7 @@
     "ratio_give": 3,
     "grade_level": 10.6,
     "word_count": 281,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Lessons from Financial Crises and Regulatory Responses",
     "tags": [
       "Republican Party",
       "US politics",
@@ -67392,7 +67392,7 @@
     "ratio_give": -6,
     "grade_level": 10.4,
     "word_count": 346,
-    "category": "Financial Crises and Regulatory Responses",
+    "category": "Uncategorized",
     "tags": [
       "activism",
       "economic policy",
@@ -67435,7 +67435,7 @@
     "ratio_give": -5,
     "grade_level": 9.1,
     "word_count": 75,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "AI Tools and Comment Analysis Dynamics",
     "tags": [
       "online discourse",
       "public misinformation"
@@ -67582,7 +67582,7 @@
     "ratio_give": -4,
     "grade_level": 14.4,
     "word_count": 51,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": []
   },
   {
@@ -67632,7 +67632,7 @@
     "ratio_give": -31,
     "grade_level": 11.6,
     "word_count": 254,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "US politics",
@@ -69284,7 +69284,7 @@
     "ratio_give": -61,
     "grade_level": 6.4,
     "word_count": 182,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -69470,7 +69470,7 @@
     "ratio_give": -5,
     "grade_level": 11.9,
     "word_count": 286,
-    "category": "Economic Policy Challenges in the US",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "tax policy"
     ]
@@ -69602,7 +69602,7 @@
     "ratio_give": -55,
     "grade_level": 11.5,
     "word_count": 380,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "The Shift to Subscription Models in Digital Media",
     "tags": [
       "generative AI",
       "online discourse",
@@ -69891,7 +69891,7 @@
     "ratio_give": -24,
     "grade_level": 11.2,
     "word_count": 93,
-    "category": "Evolving Dynamics in Software Engineering",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "bureaucracy",
@@ -70131,7 +70131,7 @@
     "ratio_give": -25,
     "grade_level": 12.3,
     "word_count": 100,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Uncategorized",
     "tags": [
       "content moderation",
       "digital privacy",
@@ -70641,7 +70641,7 @@
     "ratio_give": -19,
     "grade_level": 9.5,
     "word_count": 64,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Elon Musk's Disruptive Influence on Politics and Technology",
     "tags": [
       "entrepreneurship",
       "political strategy",
@@ -72811,7 +72811,7 @@
     "ratio_give": -1,
     "grade_level": 12.3,
     "word_count": 182,
-    "category": "Strategies for Democratic Messaging and Coalition Building",
+    "category": "Trump Era Politics and Media Critique",
     "tags": [
       "Donald Trump",
       "MAGA",
@@ -72865,7 +72865,7 @@
     "ratio_give": -22,
     "grade_level": 11.3,
     "word_count": 123,
-    "category": "Musk's Influence on Business and Politics",
+    "category": "Uncategorized",
     "tags": [
       "Donald Trump",
       "US politics"
@@ -73049,7 +73049,7 @@
     "ratio_give": 5,
     "grade_level": 13.0,
     "word_count": 285,
-    "category": "The Impact of Technology on Jobs, Society, and Economy",
+    "category": "Uncategorized",
     "tags": [
       "US politics",
       "media influence",
@@ -74270,7 +74270,7 @@
     "ratio_give": -10,
     "grade_level": 8.1,
     "word_count": 92,
-    "category": "Dynamics of Market Practices and Consumer Choices",
+    "category": "Economic Policy Debates and Challenges",
     "tags": [
       "consumer behavior",
       "progressive politics"
@@ -74365,7 +74365,7 @@
     "ratio_give": -99,
     "grade_level": 13.5,
     "word_count": 105,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "MAGA",
       "political polarization",
@@ -74572,7 +74572,7 @@
     "ratio_give": -24,
     "grade_level": 14.1,
     "word_count": 139,
-    "category": "Polarization and Activism in Modern Politics",
+    "category": "Debates on Messaging and Influence in American Politics",
     "tags": [
       "US politics",
       "mental health",
@@ -76844,7 +76844,7 @@
     "ratio_give": null,
     "grade_level": 15.0,
     "word_count": 432,
-    "category": "Uncategorized",
+    "category": "Evolving Trends in Tech Hiring and Innovation",
     "tags": [
       "automation",
       "digital privacy",
@@ -76916,7 +76916,7 @@
     "ratio_give": -19,
     "grade_level": 9.9,
     "word_count": 299,
-    "category": "Uncategorized",
+    "category": "Complex Social Issues: Policies and Debates",
     "tags": [
       "US politics",
       "crime and justice",
@@ -77032,7 +77032,7 @@
     "ratio_give": -52,
     "grade_level": 16.0,
     "word_count": 354,
-    "category": "Uncategorized",
+    "category": "Critiques of Activism and Capitalism in Climate and Social Debates",
     "tags": [
       "Middle East conflict",
       "antisemitism",
