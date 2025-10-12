@@ -77061,11 +77061,11 @@
     ],
     "total_children": 1,
     "parent_id": 152285234,
-    "parent_children": 89,
+    "parent_children": 105,
     "thread_id": 152285234,
-    "thread_children": 89,
+    "thread_children": 105,
     "ratio_recv": null,
-    "ratio_give": -131,
+    "ratio_give": -170,
     "grade_level": 11.7,
     "word_count": 62,
     "category": "Uncategorized",
@@ -77086,7 +77086,7 @@
     "id": 152452579,
     "top_level": false,
     "date": "Sep 04 2025 15:15",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1757013305,
     "body": [
       [
@@ -77098,11 +77098,11 @@
     ],
     "total_children": 1,
     "parent_id": 152388772,
-    "parent_children": 7,
+    "parent_children": 8,
     "thread_id": 152285234,
-    "thread_children": 89,
+    "thread_children": 105,
     "ratio_recv": null,
-    "ratio_give": -25,
+    "ratio_give": -41,
     "grade_level": 13.4,
     "word_count": 91,
     "category": "Uncategorized",
@@ -77113,5 +77113,73 @@
       "immigration issues",
       "political strategy"
     ]
+  },
+  {
+    "post_id": 175628319,
+    "title": "Local housing efforts surge as federal shutdown stalls support",
+    "canonical_url": "https://www.slowboring.com/p/local-housing-efforts-surge-as-federal",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 165039114,
+    "top_level": false,
+    "date": "Oct 10 2025 14:18",
+    "likes": 0,
+    "timestamp": 1760120293,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I'm doing great. I just got way too much going on to be participating in SB recently. As synerson noted, I've been messing around on Twitter instead because it's more interesting (ie, addictive) at present. Moreover, I'm hoping to ignore politics at the SB-level of focus until 2026 mid term results, which will give more clarity about the direction of our party."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 164453665,
+    "parent_children": 4,
+    "thread_id": 164453665,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -9,
+    "grade_level": 8.2,
+    "word_count": 62,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 175628319,
+    "title": "Local housing efforts surge as federal shutdown stalls support",
+    "canonical_url": "https://www.slowboring.com/p/local-housing-efforts-surge-as-federal",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 165039316,
+    "top_level": false,
+    "date": "Oct 10 2025 14:18",
+    "likes": 0,
+    "timestamp": 1760120324,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Added some details in my reply to Abhishek Gadiraju, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.slowboring.com/p/local-housing-efforts-surge-as-federal/comment/165039114"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 164468683,
+    "parent_children": 2,
+    "thread_id": 164453665,
+    "thread_children": 4,
+    "ratio_recv": null,
+    "ratio_give": -1,
+    "grade_level": 6.0,
+    "word_count": 10,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
