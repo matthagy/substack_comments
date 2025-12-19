@@ -77196,7 +77196,7 @@
     "id": 188237235,
     "top_level": false,
     "date": "Dec 15 2025 19:09",
-    "likes": 0,
+    "likes": 1,
     "timestamp": 1765843768,
     "body": [
       [
@@ -77215,8 +77215,8 @@
     "parent_children": 12,
     "thread_id": 188219053,
     "thread_children": 12,
-    "ratio_recv": 3,
-    "ratio_give": -30,
+    "ratio_recv": 2,
+    "ratio_give": -31,
     "grade_level": 11.5,
     "word_count": 42,
     "category": "Uncategorized",
@@ -77302,7 +77302,7 @@
     "parent_id": 188219419,
     "parent_children": 12,
     "thread_id": 188217456,
-    "thread_children": 29,
+    "thread_children": 32,
     "ratio_recv": 4,
     "ratio_give": -18,
     "grade_level": 9.8,
@@ -77405,7 +77405,7 @@
     "parent_id": 188220085,
     "parent_children": 5,
     "thread_id": 188217456,
-    "thread_children": 29,
+    "thread_children": 32,
     "ratio_recv": null,
     "ratio_give": -12,
     "grade_level": 13.4,
@@ -77442,7 +77442,7 @@
     "parent_id": 188263767,
     "parent_children": 3,
     "thread_id": 188217456,
-    "thread_children": 29,
+    "thread_children": 32,
     "ratio_recv": 2,
     "ratio_give": -4,
     "grade_level": 12.8,
@@ -77518,15 +77518,93 @@
         }
       ]
     ],
-    "total_children": 1,
+    "total_children": 3,
     "parent_id": 188367479,
-    "parent_children": 56,
+    "parent_children": 126,
     "thread_id": 188367479,
-    "thread_children": 56,
-    "ratio_recv": null,
-    "ratio_give": -65,
+    "thread_children": 126,
+    "ratio_recv": 2,
+    "ratio_give": -110,
     "grade_level": 23.2,
     "word_count": 216,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 181426961,
+    "title": "The most important open question about the political future",
+    "canonical_url": "https://www.slowboring.com/p/the-most-important-open-question",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 188693965,
+    "top_level": false,
+    "date": "Dec 17 2025 00:59",
+    "likes": 0,
+    "timestamp": 1765951154,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Just airing out my ever-more nuanced understandings of how to maintain stability as our Political Economy is once again perturbed by ever more nuanced understandings of corruption, through an ever more distributed information sphere, notably the layers of awareness available through just FinTech loops back to at least 2004"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "For example, figuring out the appropriate walking music for an easy Winter. Choices include:"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] Radiohead - Paranoid Android, "
+        },
+        {
+          "type": "url",
+          "value": "https://youtu.be/fHiGbolFFGw?si=KKN2I9Z2dzoCxSB7"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] SLAYER - Pride In Prejudice, "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=eF5iMLldBzE"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[3] Dance with the Dead - Hex [Official Video], "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=acITJV6VHBE"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[4] TOOL \"FORTY SIX & 2\", "
+        },
+        {
+          "type": "url",
+          "value": "https://www.youtube.com/watch?v=AcN5ltm4BmQ"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 188650791,
+    "parent_children": 2,
+    "thread_id": 188367479,
+    "thread_children": 126,
+    "ratio_recv": null,
+    "ratio_give": -2,
+    "grade_level": 21.0,
+    "word_count": 85,
     "category": "Uncategorized",
     "tags": []
   }
