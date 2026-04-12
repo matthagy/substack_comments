@@ -77607,5 +77607,107 @@
     "word_count": 85,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 187025345,
+    "title": "Don\u2019t let Elon Musk monopolize space compute",
+    "canonical_url": "https://www.slowboring.com/p/dont-let-elon-musk-monopolize-space",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 212886859,
+    "top_level": false,
+    "date": "Feb 10 2026 20:47",
+    "likes": 0,
+    "timestamp": 1770774469,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "Yep. Vertical vs Horizontal integration is common pain point in working through antitrust law as well discussed by Ben Thompson and Byrne Hobart in a Nov 2024 interview. [1] Examples include various phases of the industrial and the information revolutions, particularly with respect to international politics, energy, and coordinated violence including war and terrorism."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There are more details in Hobart's book, \"Bubbles and the End of Stagnation\". [2] I only made it a third through before realizing that this could feel like preaching to the choir. Moreover, I have some professional relations with Thompson and Hobart that further compelled me to consider alternative narrative structures for these patterns. Eg, the origins of the progressive movement under Teddy Roosevelt that include antitrust regulation against Rockefeller and other turn-of-the-century baron of industry."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[1] "
+        },
+        {
+          "type": "url",
+          "value": "https://stratechery.com/2024/an-interview-with-byrne-hobart-about-bubbles-and-escaping-stagnation/"
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "[2] "
+        },
+        {
+          "type": "url",
+          "value": "https://www.stripe.press/boom"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": 212546668,
+    "parent_children": 9,
+    "thread_id": 212531896,
+    "thread_children": 80,
+    "ratio_recv": null,
+    "ratio_give": -47,
+    "grade_level": 14.2,
+    "word_count": 132,
+    "category": "Uncategorized",
+    "tags": []
+  },
+  {
+    "post_id": 192778842,
+    "title": "how to ask for advice (without wasting everyone's time)",
+    "canonical_url": "https://auren.substack.com/p/how-to-ask-for-advice-without-wasting",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 237245567,
+    "top_level": true,
+    "date": "Apr 02 2026 14:01",
+    "likes": 2,
+    "timestamp": 1775152887,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I think it\u2019s useful to separate out \u201casking for advice\u201d from \u201crequesting favors or using connections\u201d. It\u2019s certainly common (and totally fair) to mix the two, but can be frustrating for all parties when there is too much subterfuge. Particularly if too much time is wasted."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Case in point, I recently had dozens of highly engaging conversations with academics at the 2026 Spring American Chemistry Society meeting in Atlanta. Topics included chemistry education, process engineering, summarizing and communicating complex topics, as well as productivity in computer simulations and analysis. I was able to share recent experience with CPG process engineers and accountants from a recent startup I\u2019m passively involved in. Yet there wouldn\u2019t be productive employment, investment, nor industry-academic cross over collaboration from these limited discussions. Instead, we just enjoyed sharing ideas, including different ways to think about math and chemistry across these interlocking domains."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "There were still significant bidirectional learnings. Eg, I learned of a recent Python library for some personal projects in playing with chemistry simulations. I also shared my relevant experience about productivity with software projects as well as advice for more clearly articulating academic results. No one was particularly disappointed about the lack of concrete employment or collaboration from some such ad hoc networking."
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 237245567,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 12.4,
+    "word_count": 208,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
