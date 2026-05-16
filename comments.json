@@ -77709,5 +77709,61 @@
     "word_count": 208,
     "category": "Uncategorized",
     "tags": []
+  },
+  {
+    "post_id": 197218332,
+    "title": "if you can't get a job today, it's your fault",
+    "canonical_url": "https://auren.substack.com/p/if-you-cant-get-a-job-today-its-your",
+    "name": "Matt Hagy",
+    "user_id": 3094604,
+    "reaction": false,
+    "id": 259178500,
+    "top_level": true,
+    "date": "May 14 2026 18:05",
+    "likes": 0,
+    "timestamp": 1778796347,
+    "body": [
+      [
+        {
+          "type": "text",
+          "value": "I largely agree, particularly on the importance of demonstrated competence and follow through. In terms of the current state of the hiring market, there is certainly some interesting meta gaming dynamics going with generative AI in the context of \u201cout thinking the machine\u201d. Notably, I\u2019ve had a lot of interesting interviews as both a candidate and as an interviewer in which individuals were frustrated by \u201cgeneric algorithmic questions\u201d relative to more thoughtful ways to apply generative AI in the context of an interview. Even laughing about \u201cfaking it til you make it\u201d was acceptable from my perspective for some prospects, but I certainly would hate the entirely synthetic attempts to \u201cgame out the system\u201d on either side."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I\u2019m still strategizing around this question while on sabbatical as I lazily explore different recruiting networks, while strategizing around various institutions, including professional contacts, private investments, and different types of engineers (eg, chemists). There is a lot of stress around the meta game for everyone involved, notably those who feel underemployed. Yet that doesn\u2019t excuse overly unprofessional behavior in terms of respect for people and institutions, including accepting the changing landscape we all have to work out."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Moreover, I agree with the statement in this blog about the changing value of institutional networks over time. I\u2019ve commonly had to reject past associates who expected special treatment, particularly on my ever weirder American Chemical Society network, where I\u2019m mainly learning about the gratuitous amount of fake behavior we used around BitCoin vs semiconductors vs automation as many are learning about their ever diminishing possibly of a solid outcome, with an acceptable narrative structures. Even chatting through various recruiting networks, relative to various private networks, only exacerbates the challenges different actors are encountering in terms of respecting past comradery relative to finding productive future employment opportunities."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Personally, I\u2019m appreciating this large scale reshuffling in terms of destroying a lot of washed up metaverse exercises we abused around millennial culture as people appreciated what differentiated themselves relative to a of horrible metaphors that are quite extreme around the Covid19 dark storm of remote vs in-person vs hybrid as well as the Trump vs Bernie politics of \u201chacking\u201d the systems. Hopefully people can put respect for other\u2019s humanity first, followed by productive interactions among colleagues. This is a surprisingly challenging problem when so many of the old approaches to demonstrating aptitude vs showing grace to colleagues are increasingly washed up and there is too much frustration around failures to build productive interactions. Even just showing appreciation for one\u2019s alma mater relative to past employers is hard when we consider new grads vs. industry veterans. Moreover, the appropriate corporate culture to solve this at a large company relative to a startup (or an academic institute) is a never ending question of adaptation, particularly when there are still side quests about showing initiative in evolving how the team works."
+        }
+      ],
+      [
+        {
+          "type": "text",
+          "value": "Apologies for the long post, lacking concrete learnings, just sharing my personal observations as I think through the question\u2026"
+        }
+      ]
+    ],
+    "total_children": 1,
+    "parent_id": null,
+    "parent_children": null,
+    "thread_id": 259178500,
+    "thread_children": 1,
+    "ratio_recv": null,
+    "ratio_give": null,
+    "grade_level": 16.7,
+    "word_count": 500,
+    "category": "Uncategorized",
+    "tags": []
   }
 ]
