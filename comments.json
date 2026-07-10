@@ -77664,7 +77664,12 @@
     "grade_level": 14.2,
     "word_count": 132,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "economic policy",
+      "geopolitical strategy",
+      "progressive politics"
+    ]
   },
   {
     "post_id": 192778842,
@@ -77708,7 +77713,12 @@
     "grade_level": 12.4,
     "word_count": 208,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "business strategy",
+      "education reform",
+      "higher education",
+      "tech industry"
+    ]
   },
   {
     "post_id": 197218332,
@@ -77764,6 +77774,10 @@
     "grade_level": 16.7,
     "word_count": 500,
     "category": "Uncategorized",
-    "tags": []
+    "tags": [
+      "US politics",
+      "automation",
+      "generative AI"
+    ]
   }
 ]
